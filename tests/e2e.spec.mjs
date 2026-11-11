@@ -2,6 +2,7 @@
 import { createRequire } from 'node:module';
 import { spawn } from 'node:child_process';
 import { mkdirSync, readFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 const require = createRequire(import.meta.url);
@@ -19,7 +20,19 @@ const srv = spawn(process.platform === 'win32' ? 'py' : 'python3', [...(process.
 await new Promise(r => setTimeout(r, 1200));
 
 const browser = await chromium.launch();
-const novoCtx = () => browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1, colorScheme: 'light' });
+// O RGM de teste 000000 saiu de data/alunos.json (o site não o aceita mais).
+// O teste os acrescenta só no navegador dele, interceptando o alunos.json servido.
+const TESTE = { '000000': ['13735', '13744', '14720', '14723', '14733', '14814', '14816'], '111111': ['14733'] };
+const hashRgm = (sal, rgm) => createHash('sha256').update(`${sal}:${rgm}`).digest('hex');
+async function comTeste(ctx) {
+  await ctx.route('**/data/alunos.json', async route => {
+    const resp = await route.fetch(); const j = await resp.json();
+    for (const [rgm, cods] of Object.entries(TESTE)) j.alunos[hashRgm(j.sal, rgm)] = cods;
+    await route.fulfill({ response: resp, json: j });
+  });
+  return ctx;
+}
+const novoCtx = async () => comTeste(await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1, colorScheme: 'light' }));
 const semRolagem = async (page, onde) => {
   const r = await page.evaluate(() => [document.documentElement.scrollWidth, window.innerWidth]);
   ok(r[0] <= r[1], `sem rolagem horizontal em ${onde} (${r[0]} <= ${r[1]})`);
@@ -31,6 +44,11 @@ async function entrar(page, rgm) {
 }
 
 try {
+  // 0
+  console.log('0. Sem RGM de teste nos dados publicados');
+  const reais = JSON.parse(readFileSync(path.join(RAIZ, 'data', 'alunos.json'), 'utf8'));
+  for (const rgm of ['000000', '999999']) ok(!(hashRgm(reais.sal, rgm) in reais.alunos), `${rgm} não entra no site`);
+
   // 1
   console.log('1. RGM inexistente');
   let ctx = await novoCtx(), page = await ctx.newPage();
@@ -176,7 +194,7 @@ try {
   await semRolagem(page, 'minhas (7)');
   // dark
   await ctx.close();
-  ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, colorScheme: 'dark' }); page = await ctx.newPage();
+  ctx = await comTeste(await browser.newContext({ viewport: { width: 390, height: 844 }, colorScheme: 'dark' })); page = await ctx.newPage();
   await entrar(page, '111111'); await page.waitForSelector('[data-disc]');
   await page.screenshot({ path: `${CAPTURAS}/minhas-dark.png` });
   await ctx.close();
