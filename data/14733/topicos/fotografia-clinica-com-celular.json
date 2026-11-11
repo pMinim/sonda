@@ -1,0 +1,380 @@
+{
+ "slug": "fotografia-clinica-com-celular",
+ "titulo": "Fotografia clínica com celular",
+ "area": "Integrado",
+ "origem": "Aula 02 — Prof. Pedro (texto de estudo)",
+ "status": "em-breve",
+ "fontes": [
+  {
+   "id": "aula02foto",
+   "ref": "Texto de estudo da Aula 02 — Fotografia clínica com o celular (Prof. Pedro, 12/08/2026 Guarulhos · 20/08/2026 Paulista)"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "por-que",
+   "titulo": "Por que fotografar",
+   "fonte": "aula02foto",
+   "texto": "> **Classificar é enxergar; fotografar é provar que você enxergou.**\n\nCinco motivos:\n\n- **Prontuário:** documentação e defesa profissional. O sangramento que você classificou só \"existe\" se estiver registrado.\n- **Paciente:** a foto convence onde o espelho não alcança.\n- **Laboratório:** cor, linha do sorriso e espaço protético viajam por foto.\n- **Acompanhamento:** o antes/depois honesto do tratamento periodontal.\n- **Aprendizado:** o caso fotografado é o caso que ensina de novo.\n\nA pergunta que amarra com o caso da aula: que foto provaria o estado inicial daquela paciente se ela reclamar do resultado dali a dois anos?"
+  },
+  {
+   "id": "termo",
+   "titulo": "A foto é do paciente, e o dado é sensível",
+   "fonte": "aula02foto",
+   "texto": "Antes de apertar o botão:\n\n- **Termo de uso de imagem**, assinado **antes da primeira foto**.\n- **Cada uso é uma autorização diferente:** prontuário, aula e rede social não são a mesma permissão.\n- **Dado pessoal sensível (LGPD):** a foto tem a mesma proteção do prontuário.\n- **Onde a foto mora:** no arquivo da clínica, não no seu celular.\n\n**Sem termo, a foto não existe:** não entra no caso, não vem para a aula, não vai para a rede. (O termo é da clínica: conferir o modelo da disciplina antes de mandar assinar.)"
+  },
+  {
+   "id": "kit",
+   "titulo": "O kit mínimo e os quatro ajustes",
+   "fonte": "aula02foto",
+   "texto": "**Kit mínimo, nada de estúdio:**\n\n- **Celular:** a lente **principal (1×)**, nunca o zoom digital. Aparelho com barreira.\n- **Afastador labial:** abre o palco. Desinfecção entre pacientes.\n- **Espelho intraoral:** para a tomada oclusal. Desinfetado ou esterilizado entre pacientes.\n- **Uma segunda pessoa:** afastar e fotografar sozinho não dá.\n\nA barreira não é equipamento, é protocolo.\n\n**Quatro ajustes antes da primeira foto:**\n\n1. **Travar foco e exposição:** toque longo na tela, no dente de interesse.\n2. **Lente principal (1×):** aproximar o **aparelho**, não o zoom; zoom digital só inventa pixel.\n3. **Sem modo retrato, sem grande-angular:** um borra a lateral do arco, o outro distorce.\n4. **Espelho sem embaçar:** aquecer o espelho ou usar jato de ar contínuo."
+  },
+  {
+   "id": "protocolo",
+   "titulo": "O protocolo: 6 tomadas",
+   "fonte": "aula02foto",
+   "texto": "| # | Tomada | Como | O que mostra |\n|---|---|---|---|\n| 1 | Terço inferior, **repouso** | da base do nariz ao mento; paciente sentado, plano de Camper paralelo ao chão; lábios relaxados | dimensão vertical e selamento labial |\n| 2 | Terço inferior, **sorriso** | mesmo enquadramento; sorriso natural, não forçado | linha do sorriso, corredor bucal, exposição gengival; para a prótese, decide altura de bordo incisal e exposição de margem |\n| 3 | **Frontal em máxima intercuspidação** | afastadores simétricos, puxados **para fora e para frente** (não para trás); plano oclusal horizontal no centro, linha média centrada; gengiva visível nos dois arcos | é a foto do grupo 1 inteiro: sangramento, aumento gengival e recessão aparecem aqui |\n| 4–5 | **Laterais** (direita e esquerda) | afastador tracionado do lado fotografado, o outro relaxado; de canino a molar, em oclusão, canino no centro | relação molar e canino, sobremordida, face vestibular posterior |\n| 6 | **Oclusal superior com espelho** | espelho apoiado nos tubérculos ou na última distal, inclinado a cerca de 45°; fotografe o **reflexo**, não o dente direto; arco completo no quadro | o mapa protético superior: rugosidades, fissuras, restaurações, apinhamento e forma do arco |\n\nQuando a dupla treina, são cerca de **3 minutos de cadeira**.\n\nO erro clássico das laterais é fotografar \"por fora\" sem tracionar: sai bochecha, não dente. A oclusal é a mais difícil das seis, e reflexo embaçado é a foto mais desperdiçada da clínica."
+  },
+  {
+   "id": "erros",
+   "titulo": "Os erros que estragam a foto",
+   "fonte": "aula02foto",
+   "texto": "| Erro | Correção |\n|---|---|\n| Espelho embaçado | aquecer o espelho · jato de ar contínuo |\n| Saliva e bolhas no campo | sugador + jato de ar imediatamente antes do clique |\n| Zoom digital | aproximar o aparelho com a lente 1×; zoom digital só inventa pixel |\n| Plano oclusal torto | alinhar a linha oclusal com a borda da tela antes do clique |\n| Sombra do próprio celular | reposicionar o foco de luz · afastar o aparelho |\n| Grande-angular distorcendo o arco | lente principal, mais distância |\n| Fundo poluído atrás do paciente | encosto liso ou campo atrás; nada de bancada aparecendo |"
+  },
+  {
+   "id": "padronizacao",
+   "titulo": "Padronização e checklist",
+   "fonte": "aula02foto",
+   "texto": "**Mesma distância. Mesma altura. Mesmo dente centrado. Mesma luz.**\n\nAntes/depois só é prova quando as fotos são comparáveis; senão é propaganda. Padronizar transforma a foto de \"lembrança\" em **documento clínico**.\n\n**Teste rápido:** ponha as duas fotos lado a lado. Se alguém pergunta \"qual é a de antes?\", funcionou: a única diferença visível deve ser o tratamento.\n\n**Checklist antes de liberar o paciente:**\n\n- As 6 tomadas foram feitas? (repouso · sorriso · frontal · 2 laterais · oclusal)\n- O foco está travado no dente, e não no afastador?\n- O plano oclusal está reto? A linha média, no centro?\n- Sem saliva, sem embaçado, sem sombra?\n- Conferiu **na hora**, com o paciente ainda na cadeira?\n\nFoto ruim descoberta depois significa paciente de volta à cadeira. Conferir custa 30 segundos."
+  }
+ ],
+ "figuras": [],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Qual é a frase que costura a fotografia com a periodontia?",
+   "verso": "**Classificar é enxergar; fotografar é provar que você enxergou.**",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f02",
+   "frente": "Quais são os cinco motivos para fotografar?",
+   "verso": "Prontuário, paciente, laboratório, acompanhamento e aprendizado.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f03",
+   "frente": "Quando o termo de uso de imagem deve ser assinado?",
+   "verso": "**Antes da primeira foto.** Sem termo, a foto não existe.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f04",
+   "frente": "A autorização para o prontuário vale para aula e rede social?",
+   "verso": "Não. **Cada uso é uma autorização diferente.**",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f05",
+   "frente": "Onde a foto clínica deve morar?",
+   "verso": "No **arquivo da clínica**, não no seu celular. É dado pessoal sensível (LGPD), com a mesma proteção do prontuário.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f06",
+   "frente": "Qual lente usar e como aproximar?",
+   "verso": "A **lente principal (1×)**; aproximar o **aparelho**, nunca o zoom digital, que só inventa pixel.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f07",
+   "frente": "Por que não usar modo retrato nem grande-angular?",
+   "verso": "O modo retrato **borra** a lateral do arco; a grande-angular **distorce**.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f08",
+   "frente": "Quais são as 6 tomadas do protocolo?",
+   "verso": "Terço inferior em repouso; terço inferior em sorriso; frontal em máxima intercuspidação; lateral direita; lateral esquerda; oclusal superior com espelho.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f09",
+   "frente": "Na frontal, para onde se puxam os afastadores?",
+   "verso": "Simétricos, **para fora e para frente**, não para trás.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f10",
+   "frente": "Nas laterais, como se usa o afastador e o que fica no centro do quadro?",
+   "verso": "Afastador tracionado do lado fotografado, o outro relaxado; de canino a molar, em oclusão, com o **canino no centro**.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f11",
+   "frente": "Como se faz a tomada oclusal superior?",
+   "verso": "Espelho apoiado nos tubérculos ou na última distal, inclinado a cerca de **45°**; fotografa-se o **reflexo**, com o arco completo no quadro.",
+   "fonte": "aula02foto"
+  },
+  {
+   "id": "f12",
+   "frente": "O que faz um antes/depois valer como prova?",
+   "verso": "Padronização: **mesma distância, mesma altura, mesmo dente centrado, mesma luz.**",
+   "fonte": "aula02foto"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Um aluno fotografa a lateral direita \"por fora\", sem tracionar o afastador, e a foto sai com bochecha em vez de dente. Qual é a correção?",
+   "alternativas": [
+    {
+     "texto": "Usar o zoom digital para aproximar dos molares.",
+     "correta": false,
+     "justificativa": "Zoom digital só inventa pixel; aproxima-se o aparelho, com a lente 1×."
+    },
+    {
+     "texto": "Trocar para a lente grande-angular para pegar o arco inteiro.",
+     "correta": false,
+     "justificativa": "A grande-angular distorce o arco."
+    },
+    {
+     "texto": "Tracionar os dois afastadores com força igual, como na frontal.",
+     "correta": false,
+     "justificativa": "Tração simétrica é da frontal; na lateral, traciona-se o lado fotografado e relaxa-se o outro."
+    },
+    {
+     "texto": "Tracionar o afastador do lado fotografado, deixar o outro relaxado e enquadrar de canino a molar, com o canino no centro.",
+     "correta": true,
+     "justificativa": "É a técnica das tomadas laterais; o erro clássico é justamente fotografar por fora sem tracionar."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Na tomada frontal em máxima intercuspidação, como devem ser posicionados os afastadores?",
+   "alternativas": [
+    {
+     "texto": "Puxados para trás, em direção às orelhas.",
+     "correta": false,
+     "justificativa": "A aula diz explicitamente: para fora e para frente, não para trás."
+    },
+    {
+     "texto": "Só o do lado direito tracionado.",
+     "correta": false,
+     "justificativa": "Isso é da tomada lateral; a frontal pede afastadores simétricos."
+    },
+    {
+     "texto": "Simétricos, puxados para fora e para frente.",
+     "correta": true,
+     "justificativa": "É a orientação da aula; não se puxa para trás."
+    },
+    {
+     "texto": "Sem afastador, com o paciente sorrindo.",
+     "correta": false,
+     "justificativa": "Isso descreve a tomada de sorriso do terço inferior, não a frontal intraoral."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Na tomada oclusal superior, o que se fotografa e como fica o espelho?",
+   "alternativas": [
+    {
+     "texto": "O dente direto, com o espelho apenas afastando a língua.",
+     "correta": false,
+     "justificativa": "Fotografa-se o reflexo, não o dente direto."
+    },
+    {
+     "texto": "O reflexo no espelho, apoiado nos tubérculos ou na última distal e inclinado a cerca de 45°.",
+     "correta": true,
+     "justificativa": "É a técnica da tomada 6: fotografa-se o reflexo, com o arco completo no quadro."
+    },
+    {
+     "texto": "O reflexo, com o espelho apoiado nos incisivos superiores.",
+     "correta": false,
+     "justificativa": "O apoio é nos tubérculos ou na última distal, não nos dentes anteriores."
+    },
+    {
+     "texto": "O dente direto, com o celular em modo retrato.",
+     "correta": false,
+     "justificativa": "Fotografa-se o reflexo, e o modo retrato borra a lateral do arco."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "O paciente assinou o termo de uso de imagem para o prontuário. O aluno quer usar a mesma foto numa apresentação de aula. O que diz o texto?",
+   "alternativas": [
+    {
+     "texto": "Pode usar, porque o termo do prontuário cobre qualquer uso acadêmico.",
+     "correta": false,
+     "justificativa": "O texto diz que cada uso é uma autorização diferente."
+    },
+    {
+     "texto": "Pode usar se recortar o rosto, sem necessidade de outro termo.",
+     "correta": false,
+     "justificativa": "O texto não abre essa exceção; cada uso é uma autorização diferente."
+    },
+    {
+     "texto": "Pode usar se a foto estiver salva no celular do aluno.",
+     "correta": false,
+     "justificativa": "A foto mora no arquivo da clínica, não no celular, e isso não substitui a autorização."
+    },
+    {
+     "texto": "Cada uso é uma autorização diferente: prontuário, aula e rede social não são a mesma permissão.",
+     "correta": true,
+     "justificativa": "Sem a autorização para aquele uso, a foto não vem para a aula."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Para fotografar de mais perto o dente de interesse, o que o aluno deve fazer?",
+   "alternativas": [
+    {
+     "texto": "Aproximar o aparelho mantendo a lente principal (1×).",
+     "correta": true,
+     "justificativa": "Zoom digital só inventa pixel; aproxima-se o aparelho."
+    },
+    {
+     "texto": "Usar o zoom digital da câmera.",
+     "correta": false,
+     "justificativa": "Zoom digital é um dos erros que estragam a foto."
+    },
+    {
+     "texto": "Usar o modo retrato para destacar o dente.",
+     "correta": false,
+     "justificativa": "O modo retrato borra a lateral do arco."
+    },
+    {
+     "texto": "Usar a lente grande-angular e cortar depois.",
+     "correta": false,
+     "justificativa": "A grande-angular distorce o arco."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Na tomada oclusal, o reflexo saiu embaçado. Qual é a correção?",
+   "alternativas": [
+    {
+     "texto": "Usar o flash no máximo.",
+     "correta": false,
+     "justificativa": "O texto não traz essa correção para o espelho embaçado."
+    },
+    {
+     "texto": "Afastar o aparelho e usar zoom digital.",
+     "correta": false,
+     "justificativa": "Zoom digital só inventa pixel e não resolve embaçado."
+    },
+    {
+     "texto": "Aquecer o espelho ou usar jato de ar contínuo.",
+     "correta": true,
+     "justificativa": "É a correção da tabela de erros; reflexo embaçado é a foto mais desperdiçada da clínica."
+    },
+    {
+     "texto": "Fotografar o dente direto, sem espelho.",
+     "correta": false,
+     "justificativa": "A tomada oclusal fotografa o reflexo no espelho."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "Um antes/depois de tratamento periodontal foi feito com distâncias e luz diferentes. Por que ele não vale como prova?",
+   "alternativas": [
+    {
+     "texto": "Porque antes/depois nunca tem valor clínico.",
+     "correta": false,
+     "justificativa": "Tem valor quando padronizado; o acompanhamento é um dos cinco motivos para fotografar."
+    },
+    {
+     "texto": "Porque foi feito com celular, e não com câmera profissional.",
+     "correta": false,
+     "justificativa": "A aula usa o celular; o problema é a falta de padronização."
+    },
+    {
+     "texto": "Porque só é prova quando as fotos são comparáveis: mesma distância, mesma altura, mesmo dente centrado, mesma luz.",
+     "correta": true,
+     "justificativa": "Sem padronização, é propaganda, não documento clínico."
+    },
+    {
+     "texto": "Porque faltou o modo retrato nas duas fotos.",
+     "correta": false,
+     "justificativa": "O modo retrato não é recomendado; borra a lateral do arco."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q08",
+   "enunciado": "Qual tomada é \"a foto do grupo 1 inteiro\", onde aparecem sangramento, aumento gengival e recessão?",
+   "alternativas": [
+    {
+     "texto": "A frontal em máxima intercuspidação.",
+     "correta": true,
+     "justificativa": "Com gengiva visível nos dois arcos, é a foto do grupo 1 inteiro."
+    },
+    {
+     "texto": "O terço inferior em repouso.",
+     "correta": false,
+     "justificativa": "Essa tomada mostra dimensão vertical e selamento labial."
+    },
+    {
+     "texto": "A oclusal superior com espelho.",
+     "correta": false,
+     "justificativa": "A oclusal é o mapa protético superior: rugosidades, fissuras, restaurações, apinhamento, forma do arco."
+    },
+    {
+     "texto": "O terço inferior em sorriso.",
+     "correta": false,
+     "justificativa": "Essa tomada mostra linha do sorriso, corredor bucal e exposição gengival."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  },
+  {
+   "id": "q09",
+   "enunciado": "No fim do atendimento, qual item do checklist evita trazer o paciente de volta à cadeira?",
+   "alternativas": [
+    {
+     "texto": "Transferir as fotos para o celular pessoal.",
+     "correta": false,
+     "justificativa": "A foto mora no arquivo da clínica, não no celular."
+    },
+    {
+     "texto": "Aplicar filtro de cor antes de salvar.",
+     "correta": false,
+     "justificativa": "Isso não está no checklist da aula."
+    },
+    {
+     "texto": "Refazer todas as tomadas com zoom digital.",
+     "correta": false,
+     "justificativa": "Zoom digital é erro, não item do checklist."
+    },
+    {
+     "texto": "Conferir as fotos na hora, com o paciente ainda na cadeira.",
+     "correta": true,
+     "justificativa": "Foto ruim descoberta depois significa paciente de volta; conferir custa 30 segundos."
+    }
+   ],
+   "fonte": "aula02foto",
+   "figura": null
+  }
+ ]
+}

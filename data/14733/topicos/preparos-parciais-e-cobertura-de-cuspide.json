@@ -1,0 +1,635 @@
+{
+ "slug": "preparos-parciais-e-cobertura-de-cuspide",
+ "titulo": "Restaurações indiretas parciais: inlay, onlay, overlay e endocrown",
+ "area": "Dentística e reabilitação",
+ "origem": "Mondelli 2ª ed., Shillingburg 4ª ed., Pegoraro 2013 e artigos (Morimoto 2016, Michaud & Dort 2024, Prott 2025, de Kuijper 2026)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "mondelli2017",
+   "ref": "Mondelli J. Fundamentos de dentística operatória. 2. ed. Santos/GEN; 2017. Caps. 2, 21, 31–35.",
+   "curta": "Mondelli 2017"
+  },
+  {
+   "id": "shillingburg2012",
+   "ref": "Shillingburg HT et al. Fundamentals of fixed prosthodontics. 4. ed. Quintessence; 2012. Caps. 6, 12, 13, 23.",
+   "curta": "Shillingburg 2012"
+  },
+  {
+   "id": "pegoraro2013",
+   "ref": "Pegoraro LF et al. Prótese fixa: bases para o planejamento em reabilitação oral. 2. ed. São Paulo: Artes Médicas; 2013.",
+   "curta": "Pegoraro 2013"
+  },
+  {
+   "id": "morimoto2016",
+   "ref": "Morimoto S, Rebello de Sampaio FBW, Braga MM, Sesma N, Özcan M. Survival rate of resin and ceramic inlays, onlays, and overlays: a systematic review and meta-analysis. J Dent Res. 2016;95(9):985–994. doi:10.1177/0022034516652848 Páginas citadas pelo PDF da versão online antecipada (p. 1–10).",
+   "curta": "Morimoto et al. 2016"
+  },
+  {
+   "id": "michaud2024",
+   "ref": "Michaud PL, Dort H. Do onlays and crowns offer similar outcomes to posterior teeth with MOD preparations? A systematic review. J Esthet Restor Dent. 2024;36:295–302. doi:10.1111/jerd.13114",
+   "curta": "Michaud & Dort 2024"
+  },
+  {
+   "id": "prott2025",
+   "ref": "Prott LS, Pieralli S, Klein P, Spitznagel FA, Ibrahim F, Metzendorf MI, Carrasco-Labra A, Blatz MB, Gierthmuehlen PC. Survival and complications of partial coverage restorations on posterior teeth: a systematic review and meta-analysis. J Esthet Restor Dent. 2025;37(3):620–641. doi:10.1111/jerd.13353",
+   "curta": "Prott et al. 2025"
+  },
+  {
+   "id": "kuijper2026",
+   "ref": "de Kuijper MCFM, van den Breemer CRG, de Waal YCM, Lanjouw L, Özcan M, Cune MS, Gresnigt MMM. Direct resin composite and lithium disilicate endocrowns in severely compromised endodontically treated molars: a two-year randomized controlled trial. Int Endod J. 2026;59(11):2383–2401. doi:10.1111/iej.70232 Páginas citadas pelo PDF da versão online antecipada (p. 1–19).",
+   "curta": "de Kuijper et al. 2026"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "casa",
+   "titulo": "O dente é uma casa",
+   "fonte": "mondelli2017",
+   "onde": "cap. 2, seção Forma de contorno",
+   "texto": "> **Quanto dente sobra decide o preparo, e o preparo decide quanto dente sobra depois.**\n\nAs **cúspides são as paredes mestras**. O Mondelli chama cristas marginais, pontes de esmalte, arestas e vertentes de cúspide de **estruturas de reforço** (cap. 2, Forma de contorno): é isso que a analogia quer dizer. O **istmo** é o corredor que liga uma caixa proximal à outra. A dentina é a alvenaria e o esmalte é o reboco estrutural.\n\n| Restauração | Na casa |\n|---|---|\n| Direta | **reboco**: cobre o buraco, mas não sustenta a parede |\n| Inlay | **trocar o piso** sem mexer em parede nenhuma |\n| Onlay / overlay | **reforçar a parede que cedeu** (cobrir a cúspide) |\n| Endocrown | **usar o porão** (a câmara pulpar) como alicerce |\n| Coroa total | **demolir e reconstruir**: resolve, mas não volta atrás |\n| Pino | **estaca**: segura o núcleo, não reforça a casa (Shillingburg, cap. 13, p. 214) |\n\nA tabela é uma analogia didática; os critérios de cada degrau, com as fontes, vêm nas seções seguintes. Um número mostra por que a crista marginal pesa: uma restauração direta MO ou DO reduz a rigidez do dente em cerca de **46%**, e a perda MOD, em cerca de **63%** (Reeh et al., 1989, citado em Michaud & Dort 2024, Introdução, p. 296)."
+  },
+  {
+   "id": "quando-cobrir",
+   "titulo": "Quando cobrir a cúspide",
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; Fig. 21.1",
+   "texto": "**O número que a clínica usa é 2 mm:** quando a cúspide remanescente tem **menos de 2 mm** de espessura, **pode-se indicar** reduzir e cobrir essa cúspide. O Mondelli avisa que esse **não é o único critério**. Os critérios dele, avaliados em conjunto:\n\n1. espessura de dentina sob a cúspide (é aqui que entram os 2 mm);\n2. qualidade do esmalte que sobrou (trincas, esmalte sem suporte);\n3. onde cai o contato oclusal: contato sobre a interface dente-restauração, sobretudo perto da ponta de cúspide, deve ser evitado;\n4. tratamento endodôntico: para o Mondelli, endo sem perda importante de cristas marginais e pontes de esmalte não pede mais que resina direta; o que pesa é a estrutura perdida;\n5. hábitos parafuncionais (bruxismo, apertamento).\n\nA espessura da cúspide se mede com **espessímetro**, na clínica, antes de decidir (Fig. 21.1).\n\n**Parede fina não segura carga.** Alargar o istmo de **1/4 para 1/3** da distância entre as pontas das cúspides diminui a resistência à fratura do dente: cerca de 35% no estudo citado pelo Shillingburg e entre **29 e 42%**, conforme o desenho da cavidade, na pesquisa de Mondelli e colaboradores (Shillingburg, cap. 12, p. 193). E estrutura sadia com menos de 1 mm entre duas cavidades, ou ponte de esmalte com menos de 1 mm, não se mantém: entra no preparo (Mondelli, cap. 2, Forma de contorno)."
+  },
+  {
+   "id": "escala",
+   "titulo": "A escala de destruição",
+   "fonte": "mondelli2017",
+   "onde": "caps. 21 (introdução), 31 (Forma de resistência), 33 (introdução) e 35 (Características do dente preparado)",
+   "texto": "Vai do reboco à demolição, e **o que escolhe o degrau é quanto dente sobrou**. A Tabela 6-1 do Shillingburg (cap. 6, p. 71–76) organiza as restaurações unitárias assim, da intracoronária à extracoronária.\n\n| Degrau | O que é | Quando |\n|---|---|---|\n| **Direta** (resina/amálgama) | reboco | cavidade conservadora, paredes íntegras. O Mondelli admite resina direta em cavidade ampla, por motivos socioeconômicos, desde que não seja mais invasiva do que a indireta que substituiria (cap. 21) |\n| **Inlay** | peça indireta dentro da coroa, não cobre cúspide | só repõe estrutura perdida e **não protege** a que sobrou (Shillingburg, Tabela 6-1). Istmo de **1/4 a 1/3** da distância entre os vértices de cúspides (Mondelli, cap. 31). Em pré-molar com as duas cristas marginais comprometidas, a indicação passa a ser cobertura oclusal (Shillingburg, Tabela 6-1). Inlay e onlay de cerâmica (leucita ou dissilicato) são indicados em pré-molar; em molar há relatos de sucesso, mas a falha é maior (Shillingburg, cap. 23, p. 426) |\n| **Onlay** | cobre uma ou mais cúspides | lesão extensa, em que a MOD chegaria a **1/2 da distância V-L ou mais** e/ou à remoção do teto da câmara (Mondelli, cap. 33); remanescente enfraquecido, restauração extensa, cúspide fraturada, giroversão, plano oclusal a restabelecer (Pegoraro, p. 127); cúspide com menos de 2 mm (Mondelli, cap. 21). MOD com mais de 3 a 5 mm de profundidade não recupera, com resina direta sem cobertura de cúspide, a resistência à fratura do dente hígido (Forster et al., 2019, estudo in vitro em molares, citado em Michaud & Dort 2024, Introdução, p. 296) |\n| **Overlay** | termo da literatura adesiva: na classificação usada por Morimoto et al. (2016, p. 1), inlay não cobre cúspide, onlay cobre pelo menos uma e overlay cobre **todas** | os livros da disciplina não usam o termo: para eles, cobrir cúspides é onlay |\n| **Endocrown** | peça monolítica que se estende para a câmara pulpar | dente tratado endodonticamente com grande perda coronária (de Kuijper et al., 2026, p. 2) |\n| **Coroa total** | cobertura completa, com desgaste axial de 1,3 a 1,5 mm em todas as faces (Mondelli, cap. 35) | **o teto da escala, não o padrão** |\n\n**O degrau inlay → onlay no Mondelli:** o inlay aceita istmo de 1/4 a 1/3 da distância entre os vértices de cúspides (cap. 31); o onlay entra quando a MOD chegaria a **1/2** dessa distância ou mais (cap. 33). O 1/3 desenhado no capítulo de onlay é \"por motivo didático\", no dente de plástico; na clínica, a abertura pode ser de 1/4."
+  },
+  {
+   "id": "overlay-endocrown",
+   "titulo": "Overlay e endocrown: de onde vêm os nomes",
+   "fonte": "kuijper2026",
+   "onde": "p. 2 (Introdução), p. 3 (seção 2.1) e p. 9–10 (seções 3.1–3.2)",
+   "texto": "**Overlay.** Pegoraro e Mondelli só usam a palavra *onlay*. O Mondelli chama a cobertura das cúspides de \"MOD com proteção de cúspides\" (caps. 33 e 34); o Pegoraro, de \"preparo tipo onlay\" (p. 127). *Overlay* é termo da literatura adesiva. A revisão sistemática de **Morimoto e colaboradores (J Dent Res, 2016)**, com quatro dos cinco autores em instituições brasileiras (Universidade Ibirapuera, Universidade Santa Cecília e USP; o último autor, Özcan, em Zurique), classifica as parciais indiretas assim: **inlay** não cobre cúspide, **onlay** cobre pelo menos uma cúspide e **overlay** cobre **todas** as cúspides (p. 1, Introdução, apoiada em estudos anteriores).\n\n**Endocrown.** Não aparece nos livros da disciplina; a fonte é artigo. Na descrição de **de Kuijper e colaboradores (Int Endod J, 2026)**, é uma restauração **monolítica** que se estende para dentro da **câmara pulpar** de dente tratado endodonticamente com grande perda coronária (p. 2). Funciona bem em **molar**, porque a câmara larga oferece muita área para adesão; cimentada de forma adesiva, **não depende da macrogeometria do preparo nem de pino** para reter, o que poupa estrutura.\n\nNo ensaio clínico randomizado desses autores, com 102 molares tratados e muito destruídos (uma ou nenhuma parede remanescente, câmara pulpar de pelo menos 2 mm; p. 3), metade recebeu resina composta direta e metade endocrown de dissilicato de lítio: em 2 anos, sobrevida de **98%** (resina) e **100%** (endocrown), sem diferença (p = 0,32); a endocrown foi melhor em brilho, desgaste e saúde da mucosa (p. 9–10). O limite é o tempo: **dois anos**."
+  },
+  {
+   "id": "preparo-parcial",
+   "titulo": "O que muda no preparo parcial",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "texto": "**A coroa total agarra o dente; o parcial cola no dente.** Todo preparo protético busca retenção e estabilidade, e o Pegoraro quer a maior área preparada possível para isso (p. 127). Mas no parcial estético aderido a retenção vem **fundamentalmente do sistema adesivo** (Mondelli, cap. 32, Forma de retenção); a geometria serve sobretudo para **assentar** a peça e **resistir** à carga. Por isso sulcos e canaletas são **opcionais** (quando existem, servem de guia de inserção), e **toda a margem deve estar em esmalte** (Pegoraro, p. 127).\n\nOs valores principais são os do **Pegoraro (cap. 4, p. 127)**. Atenção ao contexto do capítulo: ele trata de **prótese parcial fixa adesiva com retentores inlay/onlay**; o princípio do preparo é o mesmo.\n\n| Item | Pegoraro |\n|---|---|\n| Caixa oclusal | no mínimo **2 mm de largura e 2 mm de profundidade** |\n| Caixa proximal | **4 × 4 mm**, distância axiopulpar de **2 mm** |\n| Expulsividade | **6°** na caixa oclusal e em torno de 6° na proximal. Na clínica: **nunca retentivo** |\n| Ângulos internos | **arredondados** |\n| Ângulo cavossuperficial | **90°** na caixa oclusal, **60 a 90°** na proximal |\n| Redução das cúspides cobertas (onlay) | rebaixamento de **2 mm** |\n\n**Por que arredondar:** ângulo interno vivo concentra esforços e favorece a fratura da cerâmica (Mondelli, cap. 32, Acabamento da cavidade). **E o bisel:** o Pegoraro não fala em bisel, só dá os ângulos; quem diz que, classicamente, não se faz bisel nas caixas da cerâmica é o Mondelli (cap. 32).\n\n**Onde o Mondelli diz diferente** (para conhecimento, não como valor principal):\n\n- **Caixa oclusal:** 1,5 a 2,0 mm de abertura vestíbulo-lingual e 1,5 a 2,0 mm de profundidade (cap. 32).\n- **Expulsividade:** 6° é o valor da inlay **metálica**; a cerâmica pede cerca de **10°** (5° por parede) (cap. 32).\n- **Cavossuperficial:** borda de 70 a 90° nas paredes vestibular e lingual das caixas proximais, e chanfro ou bisel côncavo como opção nas terminações da proteção de cúspide (caps. 32 e 34). Na prática, nenhum dos dois leva para a cerâmica o bisel fino do preparo metálico.\n- **Redução das cúspides:** **1,5 mm** se não funcionais e **2 mm** se funcionais, principalmente em molares (cap. 34).\n\nUma coisa que a adesão não faz: o cimento adesivo **não basta para preservar a resistência** de um remanescente enfraquecido; nesse caso, o Pegoraro prefere envolver a(s) cúspide(s) num preparo tipo onlay (p. 127). **Cúspide fraca se cobre, não se cola.**"
+  },
+  {
+   "id": "materiais",
+   "titulo": "Materiais e sobrevida",
+   "fonte": "prott2025",
+   "onde": "p. 623 (seção 3.1), p. 629 (seção 3.3.1), p. 630 (Tabela 4) e p. 632 (Tabela 6)",
+   "texto": "- **Dissilicato de lítio:** resistência à flexão de cerca de **350 MPa**, contra **120 a 180 MPa** da cerâmica reforçada por leucita (Shillingburg, cap. 23, p. 426).\n- **Prott e colaboradores (2025)** incluíram 6 ensaios clínicos randomizados e fizeram metanálise de 4 (252 restaurações): sobrevida estimada em 3 anos de **93,7%** para parciais de dissilicato e **89,3%** para cerâmicas de matriz resinosa, **sem diferença estatística** (p = 0,228) e com evidência de **certeza baixa**; o desempenho a longo prazo ainda é incerto (p. 623, 629 e 639).\n- **Morimoto e colaboradores (2016)**, revisão de 14 estudos clínicos com mais de 5 anos de acompanhamento (p. 1). Nenhum estudo de resina entrou, então a metanálise é só de cerâmica (p. 3). Sobrevida conjunta de **95% em 5 anos** (5.811 restaurações) e **91% em 10 anos** (2.154); por material, porcelana feldspática **92%** (5 anos) e **91%** (10 anos), vitrocerâmica **96%** e **93%** (p. 4). A fratura ou lascamento foi a falha mais frequente (4%), seguida das complicações endodônticas (3%) (p. 4). **Vitalidade pulpar:** razão de chances de **0,19 (IC 95% 0,04–0,96)**, calculada com 3 estudos (p. 5); os autores leem que a chance de falha foi cerca de **80% menor em dente vital** do que em dente tratado endodonticamente, ou seja, as restaurações sobreviveram mais em dente vital (p. 9). A comparação por tipo (inlay × onlay × overlay) **não pôde ser feita**: só 2 estudos traziam dados completos sobre a extensão da cobertura de cúspides (p. 5).\n\n**Se a cerâmica aderida segura tão bem, por que ainda fazemos coroa total?** Quando não sobra estrutura dentária suficiente para a restauração aderida, ou quando o remanescente enfraquecido não se sustenta só com o cimento adesivo (Pegoraro, p. 127)."
+  },
+  {
+   "id": "caso-e-frases",
+   "titulo": "O caso que abre e fecha a aula, e as seis frases",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "texto": "**Caso 1.** Paciente de cerca de 40 anos, molar inferior com restauração de amálgama MOD grande e cúspide vestibular fraturada mastigando; vital, sem dor. \"Doutor, vai ter que fazer coroa?\"\n\nCúspide fraturada não é sinônimo de coroa: é **parede a reforçar, não casa a demolir**. O Pegoraro indica o preparo tipo onlay justamente para fratura de cúspide e restauração extensa (p. 127). O degrau é **onlay** (ou overlay, na nomenclatura adesiva). A revisão sistemática de **Michaud e Dort (2024)** comparou onlay e coroa em dentes com perda MOD: só três estudos, sem metanálise, e os autores concluem que a evidência é **insuficiente**. Mas, nos três, a falha da coroa foi mais vezes **não restaurável**: falhas recuperáveis de 100%, 73% e 100% com onlay, contra 67%, 7% e 0% com coroa (Tabela 3, p. 298). Cuidado ao transpor: os três estudos foram em **pré-molares tratados endodonticamente**, e o caso 1 é um molar vital; o dado ajuda a pensar, não prova o caso.\n\n**Caso 2.** Foto de onlay de cerâmica (Felizardo, 2009): cavidade ampla, crista marginal perdida. O degrau é **onlay**. Cúspide que parece inteira não é parede que aguenta: a extensão da cavidade decide. O Mondelli indica o onlay para lesão extensa, em que a MOD chegaria a 1/2 da distância vestíbulo-lingual ou mais (cap. 33), e o Pegoraro, para restauração extensa (p. 127); a cúspide com menos de 2 mm é outro gatilho (Mondelli, cap. 21).\n\n**As seis frases para levar**\n\n1. Cúspide é parede mestra: cobre quando está fraca, não quando está inteira.\n2. A escala vai de reboco a demolição; o remanescente escolhe o degrau, não o hábito.\n3. Parcial aderido retém sobretudo por adesão: pede esmalte e ângulos suaves.\n4. Coroa total é o teto, não o padrão.\n5. Endo antes de coroa é indicação, não rotina. Pino retém núcleo; não reforça.\n6. Sem férula, nenhum pino salva."
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/escala-de-destruicao.svg",
+   "alt": "Escada de seis degraus, de baixo para cima: direta (resina ou amálgama), inlay, onlay, overlay, endocrown e coroa total, cada um com o critério em poucas palavras. A coroa total, no topo, está destacada.",
+   "legenda": "A escala de destruição, do reboco à demolição: o que escolhe o degrau é quanto dente sobrou, e a coroa total é o teto da escala, não o padrão.",
+   "credito": "Esquema elaborado para o Sonda.",
+   "apos": "escala",
+   "largura": 720,
+   "altura": 990
+  },
+  {
+   "src": "data/14733/img/canaleta-ponta-diamantada.jpg",
+   "alt": "Ponta diamantada tronco-cônica encostada na parede axial de um dente preparado em modelo de estudo, confeccionando uma canaleta.",
+   "legenda": "Ponta diamantada confeccionando uma canaleta na parede axial (modelo de estudo).",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "preparo-parcial",
+   "largura": 691,
+   "altura": 504
+  },
+  {
+   "src": "data/14733/img/canaleta-pronta.jpg",
+   "alt": "Dente preparado em modelo de estudo com uma canaleta vertical na parede axial.",
+   "legenda": "A canaleta pronta. No parcial aderido, sulcos e canaletas são opcionais; quando existem, servem de guia de inserção.",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "preparo-parcial",
+   "largura": 902,
+   "altura": 474
+  },
+  {
+   "src": "data/14733/img/tecnica-da-silhueta.jpg",
+   "alt": "Dente em modelo de estudo com metade já desgastada e a outra metade íntegra, marcada a grafite, mostrando a diferença de volume.",
+   "legenda": "Técnica da silhueta: prepara-se primeiro metade do dente e preserva-se a outra metade, que dá a noção real de quanto foi desgastado (Pegoraro, cap. 3, p. 87).",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "preparo-parcial",
+   "largura": 1000,
+   "altura": 834
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f02",
+   "frente": "Com que espessura de cúspide remanescente se indica reduzir e cobrir?",
+   "verso": "**Menos de 2 mm**: pode-se indicar reduzir e cobrir. E não é o único critério.",
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; Fig. 21.1"
+  },
+  {
+   "id": "f03",
+   "frente": "Quais são os critérios do Mondelli para decidir cobrir a cúspide?",
+   "verso": "Espessura de dentina sob a cúspide (é onde entram os 2 mm) · qualidade do esmalte (trincas, esmalte sem suporte) · onde cai o contato oclusal · tratamento endodôntico · parafunção (bruxismo, apertamento).",
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução"
+  },
+  {
+   "id": "f04",
+   "frente": "Qual é o critério de istmo entre inlay e onlay no Mondelli?",
+   "verso": "Inlay: istmo de **1/4 a 1/3** da distância entre os vértices de cúspides (cap. 31). Onlay: lesão extensa, em que a MOD chegaria a **1/2 da distância V-L ou mais** (cap. 33). O 1/3 desenhado no capítulo de onlay é didático; na clínica pode ser 1/4.",
+   "fonte": "mondelli2017",
+   "onde": "cap. 31, seção Forma de resistência; cap. 33, introdução"
+  },
+  {
+   "id": "f05",
+   "frente": "O que o inlay faz e o que não faz, segundo o Shillingburg?",
+   "verso": "Só **repõe** estrutura perdida; **não protege** a estrutura que sobrou.",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 6, p. 71–76 (Tabela 6-1)"
+  },
+  {
+   "id": "f06",
+   "frente": "Os livros da disciplina usam o termo overlay?",
+   "verso": "Não. Pegoraro e Mondelli só usam **onlay**; o Mondelli chama a cobertura de cúspides de **\"MOD com proteção de cúspides\"**. *Overlay* é termo da literatura adesiva: na classificação de Morimoto et al. (2016, p. 1), é a parcial que cobre **todas** as cúspides.",
+   "fonte": "mondelli2017",
+   "onde": "caps. 33 e 34"
+  },
+  {
+   "id": "f07",
+   "frente": "Como a endocrown se retém?",
+   "verso": "Entra na câmara pulpar e se retém por **adesão**: não depende da macrogeometria do preparo nem de pino. É para dente tratado endodonticamente com grande perda coronária, sobretudo molar, cuja câmara larga dá muita área de adesão.",
+   "fonte": "kuijper2026",
+   "onde": "p. 2 (Introdução)"
+  },
+  {
+   "id": "f08",
+   "frente": "Qual a diferença de retenção entre coroa total e parcial aderido?",
+   "verso": "A coroa total **agarra** o dente por mecânica: altura mínima de **4 mm** do dente preparado (Pegoraro, p. 28) e paredes com pouca inclinação, 2 a 5° no terço cervical (p. 96). O parcial estético **cola**: a retenção vem fundamentalmente do adesivo (Mondelli, cap. 32). Por isso um pede parede e o outro pede esmalte.",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 1, p. 28; cap. 3, p. 96"
+  },
+  {
+   "id": "f09",
+   "frente": "Qual expulsividade usar no preparo para cerâmica aderida?",
+   "verso": "Pegoraro: **6°** (caixas oclusal e proximal). Na clínica: **nunca retentivo**. Mondelli traz cerca de 10° (5° por parede) para cerâmica e diz que 6° é o da inlay metálica (cap. 32).",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127"
+  },
+  {
+   "id": "f10",
+   "frente": "Quanto se rebaixam as cúspides cobertas no onlay?",
+   "verso": "Pegoraro: rebaixamento de **2 mm**. Mondelli traz 1,5 mm se não funcionais e 2 mm se funcionais (cap. 34).",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127–128"
+  },
+  {
+   "id": "f11",
+   "frente": "O cimento adesivo compensa uma cúspide enfraquecida?",
+   "verso": "Não: o cimento adesivo não basta para preservar a resistência do remanescente enfraquecido; o Pegoraro prefere envolver a cúspide num preparo tipo onlay. **Cúspide fraca se cobre, não se cola.**",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127"
+  },
+  {
+   "id": "f12",
+   "frente": "Qual a resistência à flexão do dissilicato de lítio e da cerâmica reforçada por leucita?",
+   "verso": "Dissilicato: cerca de **350 MPa**. Leucita: **120 a 180 MPa**.",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 23, p. 426"
+  },
+  {
+   "id": "f13",
+   "frente": "Quais as dimensões da caixa oclusal e da caixa proximal no preparo para cerâmica aderida (Pegoraro)?",
+   "verso": "Caixa oclusal: no mínimo **2 mm de largura e 2 mm de profundidade**. Caixa proximal: **4 × 4 mm**, axiopulpar **2 mm**.",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127"
+  },
+  {
+   "id": "f14",
+   "frente": "Qual o ângulo cavo-superficial do preparo para cerâmica aderida (Pegoraro)?",
+   "verso": "**90°** na caixa oclusal e **60 a 90°** na proximal (Pegoraro). O Pegoraro não fala em bisel; o Mondelli diz que classicamente não se faz bisel nas caixas da cerâmica, com borda de 70 a 90°, e admite chanfro ou bisel côncavo nas terminações da proteção de cúspide (cap. 32).",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Paciente de cerca de 40 anos, molar inferior com amálgama MOD grande e cúspide vestibular fraturada na mastigação, vital e sem dor, pergunta: \"vai ter que fazer coroa?\". Qual é o degrau indicado?",
+   "alternativas": [
+    {
+     "texto": "Coroa total, porque toda cúspide fraturada pede coroa.",
+     "correta": false,
+     "justificativa": "Cúspide fraturada não pede coroa por si: o Pegoraro indica o preparo tipo onlay para fratura de cúspide.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Onlay ou overlay: é parede a reforçar, não casa a demolir.",
+     "correta": true,
+     "justificativa": "O Pegoraro indica o preparo tipo onlay para fratura de cúspide e restauração extensa. Na revisão de Michaud e Dort (2024, Tabela 3, p. 298), as falhas do onlay foram mais vezes recuperáveis que as da coroa, mas em pré-molares tratados.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Endocrown, porque o dente é posterior.",
+     "correta": false,
+     "justificativa": "A endocrown é para dente tratado endodonticamente com grande perda coronária; este dente é vital.",
+     "fonte": "kuijper2026",
+     "onde": "p. 2 (Introdução)"
+    },
+    {
+     "texto": "Inlay, porque o dente é vital.",
+     "correta": false,
+     "justificativa": "O inlay não cobre cúspide; com cúspide fraturada, o Pegoraro indica o preparo tipo onlay.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Com o espessímetro, mede-se 1,5 mm de espessura na cúspide remanescente de um molar. O que está indicado?",
+   "alternativas": [
+    {
+     "texto": "Reduzir e cobrir a cúspide, lembrando que a espessura não é o único critério.",
+     "correta": true,
+     "justificativa": "Com menos de 2 mm, pode-se indicar reduzir e cobrir, avaliando também esmalte, contato oclusal, endo e parafunção.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 21, introdução"
+    },
+    {
+     "texto": "Manter a cúspide e restaurar com inlay.",
+     "correta": false,
+     "justificativa": "O inlay só repõe estrutura perdida e não protege a que sobrou; com menos de 2 mm, pode-se indicar a cobertura.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 6, p. 71–76 (Tabela 6-1)"
+    },
+    {
+     "texto": "Colar a cúspide com cimento adesivo, sem cobrir.",
+     "correta": false,
+     "justificativa": "O cimento adesivo não basta para preservar a resistência do remanescente enfraquecido: cúspide fraca se cobre, não se cola.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Indicar coroa total obrigatoriamente.",
+     "correta": false,
+     "justificativa": "Não há obrigação de coroa: para cúspide enfraquecida, o Pegoraro indica envolver a cúspide num preparo tipo onlay.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; Fig. 21.1",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Segundo o Mondelli, quando a destruição do dente leva a indicar onlay em vez de inlay?",
+   "alternativas": [
+    {
+     "texto": "Assim que o istmo passa de 1/4 da distância entre os vértices de cúspides.",
+     "correta": false,
+     "justificativa": "Para o inlay, o Mondelli aceita istmo de 1/4 a 1/3 da distância entre os vértices de cúspides.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 31, seção Forma de resistência"
+    },
+    {
+     "texto": "Sempre que a cavidade tiver caixa proximal.",
+     "correta": false,
+     "justificativa": "Inlay com caixas mesial e distal existe; a caixa proximal, sozinha, não indica cobertura de cúspide.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 31, seção Técnica de preparo"
+    },
+    {
+     "texto": "Em lesão extensa, quando a cavidade MOD chegaria a 1/2 da distância vestíbulo-lingual ou mais, ou à remoção do teto da câmara pulpar.",
+     "correta": true,
+     "justificativa": "É a indicação do onlay no Mondelli; o 1/3 desenhado no capítulo é didático, e na clínica a abertura pode ser de 1/4.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 33, introdução"
+    },
+    {
+     "texto": "Somente quando o dente é tratado endodonticamente.",
+     "correta": false,
+     "justificativa": "Endo sozinha, com cristas marginais e pontes de esmalte preservadas, não pede mais que resina direta; o critério do onlay é a extensão da lesão.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 21, introdução"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 31, seção Forma de resistência; cap. 33, introdução",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Qual afirmação sobre a endocrown está correta?",
+   "alternativas": [
+    {
+     "texto": "Para reter a peça, é preciso desgastar as paredes axiais externas remanescentes.",
+     "correta": false,
+     "justificativa": "Cimentada de forma adesiva, a endocrown não depende da macrogeometria do preparo para reter.",
+     "fonte": "kuijper2026",
+     "onde": "p. 2 (Introdução)"
+    },
+    {
+     "texto": "É uma peça monolítica que se estende para a câmara pulpar e se retém por adesão, sem pino.",
+     "correta": true,
+     "justificativa": "É a descrição de de Kuijper et al. (2026): restauração monolítica na câmara pulpar de dente tratado, retida por adesão, sem depender de pino; a câmara larga do molar dá a área de adesão.",
+     "fonte": "kuijper2026",
+     "onde": "p. 2 (Introdução)"
+    },
+    {
+     "texto": "Exige pino intrarradicular para reter a peça.",
+     "correta": false,
+     "justificativa": "A endocrown é apresentada como alternativa ao pino e núcleo em molares tratados estruturalmente comprometidos.",
+     "fonte": "kuijper2026",
+     "onde": "p. 2 (Introdução)"
+    },
+    {
+     "texto": "É indicada em dente vital com cúspide fraturada.",
+     "correta": false,
+     "justificativa": "A endocrown é para dente tratado endodonticamente com grande perda coronária; o ensaio de 2026 só incluiu molares tratados.",
+     "fonte": "kuijper2026",
+     "onde": "p. 2 (Introdução e seção 2.1)"
+    }
+   ],
+   "fonte": "kuijper2026",
+   "onde": "p. 2 (Introdução)",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Por que, no preparo para cerâmica aderida, os ângulos internos devem ser arredondados?",
+   "alternativas": [
+    {
+     "texto": "Porque o ângulo arredondado aumenta a retenção mecânica da peça.",
+     "correta": false,
+     "justificativa": "No parcial estético, a retenção vem fundamentalmente do sistema adesivo; o arredondamento é questão de resistência.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 32, seção Forma de retenção"
+    },
+    {
+     "texto": "Porque a margem precisa ficar em dentina.",
+     "correta": false,
+     "justificativa": "O Pegoraro pede toda a terminação marginal em esmalte.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Porque substitui a necessidade de expulsividade.",
+     "correta": false,
+     "justificativa": "A expulsividade continua necessária: 6° nas caixas, nunca retentivo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Porque ângulo vivo concentra tensão e fratura a cerâmica.",
+     "correta": true,
+     "justificativa": "O Mondelli arredonda o ângulo axiopulpar para minimizar a concentração de esforços e evitar a fratura da cerâmica.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 32, seção Acabamento da cavidade"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 32, seção Acabamento da cavidade",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Sobre a terminação do preparo para cerâmica aderida, qual opção traz os valores do Pegoraro?",
+   "alternativas": [
+    {
+     "texto": "Bisel fino em toda a margem, como no inlay metálico.",
+     "correta": false,
+     "justificativa": "O bisel é do preparo metálico: o Mondelli diz que, classicamente, não se faz bisel nas caixas da cerâmica, e o Pegoraro dá 90° de cavossuperficial.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 32, seção Acabamento da cavidade"
+    },
+    {
+     "texto": "Ângulo cavossuperficial de 45°, para aumentar a área de adesão.",
+     "correta": false,
+     "justificativa": "O Pegoraro dá 90° na caixa oclusal e 60 a 90° na proximal.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Ângulo cavossuperficial de 90° na caixa oclusal e de 60 a 90° na proximal.",
+     "correta": true,
+     "justificativa": "É o valor do Pegoraro. O Mondelli traz borda de 70 a 90° e chanfro opcional nas terminações da proteção de cúspide (cap. 32).",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Margem sempre em dentina, para melhorar a adesão.",
+     "correta": false,
+     "justificativa": "O Pegoraro pede toda a terminação marginal em esmalte.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "Sobre a expulsividade das paredes do preparo para cerâmica aderida, qual opção traz o valor do Pegoraro?",
+   "alternativas": [
+    {
+     "texto": "Paredes paralelas, para máxima retenção.",
+     "correta": false,
+     "justificativa": "Nem a coroa total tem paredes paralelas (o Pegoraro pede 2 a 5° no terço cervical); e o parcial aderido não pode ser retentivo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 3, p. 96"
+    },
+    {
+     "texto": "6° nas caixas oclusal e proximal; nunca retentivo.",
+     "correta": true,
+     "justificativa": "É o valor do Pegoraro. O Mondelli traz cerca de 10° para cerâmica e diz que 6° é o da inlay metálica (cap. 32); em nenhum dos dois o preparo pode ser retentivo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Paredes retentivas, para a peça travar.",
+     "correta": false,
+     "justificativa": "Restauração indireta pede paredes divergentes para a moldagem e o eixo de inserção.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de retenção"
+    },
+    {
+     "texto": "Expulsividade irrelevante, porque a retenção é do adesivo.",
+     "correta": false,
+     "justificativa": "Mesmo com retenção adesiva, as paredes precisam divergir o suficiente para a moldagem e o eixo de inserção.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de retenção"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "figura": null
+  },
+  {
+   "id": "q08",
+   "enunciado": "Sobre a nomenclatura onlay × overlay, qual afirmação está correta?",
+   "alternativas": [
+    {
+     "texto": "Onlay não cobre cúspide; overlay cobre uma cúspide.",
+     "correta": false,
+     "justificativa": "Quem não cobre cúspide é o inlay; o onlay tem rebaixamento das cúspides. Na literatura adesiva, overlay é a peça que cobre todas as cúspides (Morimoto et al., 2016, p. 1).",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127–128"
+    },
+    {
+     "texto": "São sinônimos em todos os livros e artigos.",
+     "correta": false,
+     "justificativa": "Os livros da disciplina nem usam overlay; o termo aparece na literatura adesiva, como na revisão de Morimoto et al. (2016), que distingue inlay (sem cúspide), onlay (pelo menos uma cúspide) e overlay (todas as cúspides).",
+     "fonte": "morimoto2016",
+     "onde": "p. 1 (Introdução)"
+    },
+    {
+     "texto": "Overlay cobre todas as cúspides e também desgasta todas as faces axiais.",
+     "correta": false,
+     "justificativa": "Overlay cobre todas as cúspides (Morimoto et al., 2016, p. 1), mas desgaste axial em todas as faces é característica da coroa total.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 35, seção Características do dente preparado"
+    },
+    {
+     "texto": "Pegoraro e Mondelli só usam onlay (o Mondelli fala em MOD com proteção de cúspides); overlay é termo da literatura adesiva.",
+     "correta": true,
+     "justificativa": "O Mondelli nomeia a cobertura de cúspides como \"MOD com proteção de cúspides\" e o Pegoraro, como \"preparo tipo onlay\" (p. 127); nenhum dos dois usa overlay.",
+     "fonte": "mondelli2017",
+     "onde": "caps. 33 e 34"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "caps. 33 e 34",
+   "figura": null
+  },
+  {
+   "id": "q09",
+   "enunciado": "Prott e colaboradores (2025) compararam parciais de dissilicato e de cerâmica de matriz resinosa. Qual leitura está correta?",
+   "alternativas": [
+    {
+     "texto": "93,7% × 89,3% em 3 anos, sem diferença estatística e com certeza de evidência baixa.",
+     "correta": true,
+     "justificativa": "Metanálise de 4 ensaios: IRR 1,74 (IC 0,54–5,57), p = 0,228, certeza baixa; o desempenho a longo prazo ainda é incerto.",
+     "fonte": "prott2025",
+     "onde": "p. 629 (seção 3.3.1) e p. 632 (Tabela 6)"
+    },
+    {
+     "texto": "O dissilicato é comprovadamente superior a longo prazo.",
+     "correta": false,
+     "justificativa": "Não houve diferença estatística (p = 0,228), e os autores dizem que o longo prazo é incerto.",
+     "fonte": "prott2025",
+     "onde": "p. 629 (seção 3.3.1) e p. 639 (Conclusão)"
+    },
+    {
+     "texto": "A matriz resinosa sobreviveu mais.",
+     "correta": false,
+     "justificativa": "Os números são 93,7% (dissilicato) e 89,3% (matriz resinosa), sem diferença estatística.",
+     "fonte": "prott2025",
+     "onde": "p. 629 (seção 3.3.1)"
+    },
+    {
+     "texto": "A evidência é de certeza alta, com dez ensaios.",
+     "correta": false,
+     "justificativa": "Foram 6 ensaios clínicos randomizados incluídos (4 na metanálise), com certeza baixa.",
+     "fonte": "prott2025",
+     "onde": "p. 623 (seção 3.1) e p. 632 (Tabela 6)"
+    }
+   ],
+   "fonte": "prott2025",
+   "onde": "p. 629 (seção 3.3.1), p. 630 (Tabela 4) e p. 632 (Tabela 6)",
+   "figura": null
+  },
+  {
+   "id": "q10",
+   "enunciado": "Se a cerâmica aderida segura tão bem, quando ainda se faz coroa total?",
+   "alternativas": [
+    {
+     "texto": "Sempre que o dente tiver uma cúspide fraturada.",
+     "correta": false,
+     "justificativa": "Cúspide fraturada é indicação de preparo tipo onlay: parede a reforçar, não casa a demolir.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Sempre que o dente for molar.",
+     "correta": false,
+     "justificativa": "Quem decide é o remanescente depois do preparo, não o tipo de dente.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 140"
+    },
+    {
+     "texto": "Quando não sobra substrato para aderir ou quando o remanescente não é capaz de proteger a si mesmo.",
+     "correta": true,
+     "justificativa": "O Pegoraro contraindica a restauração adesiva quando falta estrutura dentária e lembra que o cimento adesivo não preserva a resistência do remanescente enfraquecido.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Por padrão, em toda restauração indireta.",
+     "correta": false,
+     "justificativa": "Com estrutura suficiente, o Pegoraro indica preparos tipo inlay ou onlay; a coroa é o teto, não o padrão.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 4, p. 127",
+   "figura": null
+  },
+  {
+   "id": "q11",
+   "enunciado": "Caso 2 da aula: foto de um onlay de cerâmica (Felizardo, 2009). A cavidade é ampla e a crista marginal foi perdida; as cúspides parecem inteiras. Qual é o degrau indicado?",
+   "alternativas": [
+    {
+     "texto": "Inlay, porque as cúspides parecem inteiras.",
+     "correta": false,
+     "justificativa": "Cúspide que parece inteira não basta: em lesão extensa, em que a MOD chegaria a 1/2 da distância vestíbulo-lingual ou mais, o Mondelli indica o onlay.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 33, introdução"
+    },
+    {
+     "texto": "Resina direta, porque não há cúspide fraturada.",
+     "correta": false,
+     "justificativa": "O onlay não é só para cúspide fraturada: o Pegoraro também o indica para restaurações extensas.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Coroa total, porque a cavidade é ampla.",
+     "correta": false,
+     "justificativa": "Coroa total é o teto, não o padrão; para restauração extensa, o Pegoraro indica o preparo tipo onlay.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 4, p. 127"
+    },
+    {
+     "texto": "Onlay: cúspide que parece inteira não é parede que aguenta; a extensão da cavidade decide.",
+     "correta": true,
+     "justificativa": "Cavidade ampla com crista marginal perdida é lesão extensa: o Mondelli indica o onlay quando a MOD chegaria a 1/2 da distância vestíbulo-lingual ou mais, e o Pegoraro, para restaurações extensas (p. 127).",
+     "fonte": "mondelli2017",
+     "onde": "cap. 33, introdução"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 33, introdução",
+   "figura": null
+  }
+ ]
+}

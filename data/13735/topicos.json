@@ -1,0 +1,71 @@
+{
+  "disciplina": "13735",
+  "topicos": [
+    {
+      "slug": "diagnostico-pulpar-e-periapical",
+      "titulo": "Diagnóstico pulpar e periapical",
+      "area": "Endodontia",
+      "resumoCurto": "Decide urgência, endodontia ou exodontia na triagem",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "farmacologia-clinica-em-odontologia",
+      "titulo": "Analgésicos, anti-inflamatórios e antibióticos: escolha, dose e duração",
+      "area": "Farmacologia",
+      "resumoCurto": "O cronograma pede revisão de farmacologia; erro de antibiótico é o mais comum",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "periodontite-estagio-grau",
+      "titulo": "Classificação periodontal 2018",
+      "area": "Periodontia",
+      "resumoCurto": "Diagnóstico periodontal correto é exigido em todo prontuário de clínica",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "profilaxia-antibiotica",
+      "titulo": "Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)",
+      "area": "Farmacologia",
+      "resumoCurto": "Prescrição desnecessária é comum; a diretriz encolheu as indicações",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "prontuario-e-consentimento",
+      "titulo": "Prontuário odontológico, termo de consentimento e responsabilidade legal",
+      "area": "Clínica Integrada",
+      "resumoCurto": "Documento que protege paciente e aluno.",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "raciocinio-diagnostico-e-lista-de-problemas",
+      "titulo": "Do caso ao diagnóstico: lista de problemas e diagnósticos por especialidade",
+      "area": "Clínica Integrada",
+      "resumoCurto": "Treina o que as aulas de discussão de casos cobram",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "radiografias-intrabucais",
+      "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação básica",
+      "area": "Radiologia",
+      "resumoCurto": "Base de diagnóstico em todas as especialidades",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "triagem-e-classificacao-de-necessidades",
+      "titulo": "Triagem: queixa principal, urgência × eletivo e encaminhamento entre clínicas",
+      "area": "Clínica Integrada",
+      "resumoCurto": "É a porta de entrada da clínica ampliada",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    }
+  ]
+}

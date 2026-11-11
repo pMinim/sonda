@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 990" width="720" height="990" role="img">
+  <title>A escala de destruição, do reboco à demolição</title>
+  <desc>Escada de seis degraus que sobe da esquerda para a direita, um degrau por linha. De baixo para cima: direta, inlay, onlay, overlay, endocrown e coroa total, cada um com seu critério. Não há desenho de dente.</desc>
+  <rect x="0" y="0" width="720" height="990" fill="#FFFFFF"/>
+  <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <text x="30" y="56" font-size="34" font-weight="700" fill="#1F4D4F">Do reboco à demolição</text>
+  <text x="30" y="98" font-size="26" fill="#4A5B5C">O que escolhe o degrau é quanto dente sobrou</text>
+  <rect x="180" y="140" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#B86A3C" stroke-width="4"/>
+  <text x="198" y="180" font-size="32" font-weight="700" fill="#B86A3C">Coroa total</text>
+  <text x="198" y="218" font-size="25" fill="#4A5B5C">Cobertura completa</text>
+  <text x="198" y="252" font-size="25" fill="#4A5B5C">O teto da escala, não o padrão</text>
+  <rect x="150" y="278" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="168" y="318" font-size="32" font-weight="700" fill="#1F4D4F">Endocrown</text>
+  <text x="168" y="356" font-size="25" fill="#4A5B5C">Peça monolítica até a câmara pulpar</text>
+  <text x="168" y="390" font-size="25" fill="#4A5B5C">Dente tratado, grande perda coronária</text>
+  <rect x="120" y="416" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="138" y="456" font-size="32" font-weight="700" fill="#1F4D4F">Overlay</text>
+  <text x="138" y="494" font-size="25" fill="#4A5B5C">Cobre todas as cúspides</text>
+  <text x="138" y="528" font-size="25" fill="#4A5B5C">Termo da literatura adesiva</text>
+  <rect x="90" y="554" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="108" y="594" font-size="32" font-weight="700" fill="#1F4D4F">Onlay</text>
+  <text x="108" y="632" font-size="25" fill="#4A5B5C">Cobre uma ou mais cúspides</text>
+  <text x="108" y="666" font-size="25" fill="#4A5B5C">MOD chega a 1/2 de V-L ou mais</text>
+  <rect x="60" y="692" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="78" y="732" font-size="32" font-weight="700" fill="#1F4D4F">Inlay</text>
+  <text x="78" y="770" font-size="25" fill="#4A5B5C">Dentro da coroa, não cobre cúspide</text>
+  <text x="78" y="804" font-size="25" fill="#4A5B5C">Istmo de 1/4 a 1/3 entre vértices</text>
+  <rect x="30" y="830" width="470" height="128" rx="16" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="48" y="870" font-size="32" font-weight="700" fill="#1F4D4F">Direta (resina/amálgama)</text>
+  <text x="48" y="908" font-size="25" fill="#4A5B5C">Reboco: cavidade conservadora,</text>
+  <text x="48" y="942" font-size="25" fill="#4A5B5C">paredes íntegras</text>
+  </g>
+</svg>

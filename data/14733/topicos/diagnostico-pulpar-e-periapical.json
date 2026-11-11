@@ -1,0 +1,534 @@
+{
+  "slug": "diagnostico-pulpar-e-periapical",
+  "titulo": "Diagnóstico pulpar e periapical: testes e decisão",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 1",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap1",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 1, Diagnóstico (Berman LH, Rotstein I), p. 2–31.",
+      "curta": "Cohen 12ª ed., cap. 1"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "raciocinio",
+      "titulo": "O raciocínio em cinco etapas e a entrevista da dor",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 2–6",
+      "texto": "Diagnóstico é identificar **qual é o problema** do paciente e **o que o causa**. Coletar dados não basta: o diagnóstico exato só sai quando os dados subjetivos (o que o paciente conta) e os objetivos (o que os testes mostram) são interpretados juntos.\n\n**As cinco etapas:**\n1. Relato do paciente.\n2. História, com as perguntas do dentista.\n3. Testes clínicos objetivos.\n4. Correlação dos achados objetivos com os subjetivos, gerando a lista de diagnósticos diferenciais.\n5. Diagnóstico definitivo.\n\n**Queixa principal:** registre o motivo da consulta com as palavras do próprio paciente. Ela pode estar errada; a cronologia do sintoma é o que orienta.\n\n**A entrevista da dor em cinco direções:** localização, início, intensidade, provocação ou alívio, duração. A intensidade é registrada numa escala de **0 a 10** antes e depois do tratamento; dor marcada só em 2 ou 3 pode ser mais sensibilidade do que dor.\n\n**Duração conta muito:** sensibilidade ao frio que some em segundos é diferente de dor que dura minutos. Compare sempre com dentes controle, inclusive o contralateral saudável.\n\n**Analgésicos alteram os testes.** Pergunte e registre o uso de analgésicos ou opioides nas **4 a 6 horas** anteriores.\n\n**História médica:** revise a cada consulta. Condições sistêmicas (sinusite maxilar aguda, neuralgia do trigêmeo, diabetes, anemia, linfoma, entre outras) podem imitar dor de dente; se o exame dentário não explica a dor, pense em causa médica."
+    },
+    {
+      "id": "exame-clinico",
+      "titulo": "Edema, fístula, palpação, percussão e mobilidade",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 9–14",
+      "texto": "**Edema extraoral segue o ápice.** Edema facial de origem odontogênica costuma ser endodôntico; o difuso por abscesso periodontal é raro. Ápice superior fora da inserção do bucinador incha a bochecha; ápice inferior abaixo dela incha o vestíbulo; incisivos inferiores dão edema submentoniano ou submandibular.\n\n**Edema intraoral** pode estar na gengiva inserida, mucosa alveolar, fundo de vestíbulo, palato ou região sublingual. Decida se a origem é endodôntica, periodontal, combinada ou não odontogênica. Pode evoluir para o espaço parafaríngeo, com risco para a via aérea.\n\n**Fístula:** é a via de drenagem de uma infecção endodôntica crônica. Para achar o dente-fonte, introduza um **cone de guta-percha no estoma** e radiografe: o trajeto aponta a raiz de origem. Se a fístula não fecha após tratamento adequado, suspeite de outra fonte ou de erro diagnóstico. Uma bolsa periodontal primária, ao contrário, tem abertura coronária ampla e perda óssea mais generalizada.\n\n**Palpação positiva** sugere processo periapical ativo, mas não diz se a origem é endodôntica ou periodontal.\n\n**Percussão dolorosa não diz se a polpa está viva ou morta.** Ela aponta inflamação do ligamento periodontal (periodontite apical sintomática), que pode ser de origem traumática, oclusal, periodontal ou extensão da doença pulpar. Use o contralateral e os adjacentes como controle. O capítulo ilustra a percussão feita com a ponta do cabo do espelho.\n\n**Mobilidade não é teste pulpar.** Indica comprometimento do periodonto de inserção (trauma, oclusão, doença periodontal, fratura ou infecção no ligamento). Para medi-la, o dente é movido entre as pontas de dois cabos de instrumento (no capítulo, dois cabos de espelho, Fig. 1.16), um de cada lado.\n\n| Mobilidade | Critério |\n|---|---|\n| **+1** | primeiro sinal de movimento acima do normal |\n| **+2** | movimento horizontal de até 1 mm |\n| **+3** | movimento horizontal acima de 1 mm, com ou sem rotação ou depressão vertical |\n\nO +1 é o limite: qualquer mobilidade **acima de +1** deve ser considerada anormal.\n\n**Furca (exame periodontal do Cohen):** classe I, a sonda entra sem profundidade significativa; classe II, entra mas não atravessa; classe III, atravessa até o lado oposto. Não confunda com a forma de graduar furca da classificação periodontal de 2018."
+    },
+    {
+      "id": "sensibilidade",
+      "titulo": "Testes de sensibilidade: frio, calor e elétrico",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 15–17",
+      "texto": "**Resposta normal ao frio ou ao calor:** reação breve, que some logo depois que o estímulo é removido.\n\n**Resposta anormal:** ausência de resposta, dor prolongada ou intensificada, ou dor imediata e excruciante ao estímulo.\n\n**Frio:**\n- **CO₂ sólido** (bastão feito a partir de cilindro): de **−56 °C a −98 °C**.\n- **Spray de 1,1,1,2-tetrafluoretano**: **−26,2 °C**, aplicado com uma bolinha de algodão grande, de **5,5 mm** (Fig. 1.18), que é a que o livro usa; a de 3 mm aparece só como comparação com o método anterior.\n\n**Calor:** deixe **10 segundos** entre um teste e outro, para dar tempo de o sintoma aparecer.\n\n**Elétrico:** a leitura é só **presente ou ausente** (o testador tem escala de 0 a 80). Ele não gradua a saúde da polpa.\n\n| Elétrico | Causas |\n|---|---|\n| **Falso-positivo** (responde sem polpa vital) | necrose parcial, paciente muito ansioso, isolamento ineficaz, contato com restauração metálica |\n| **Falso-negativo** (não responde com polpa vital) | canal calcificado, trauma recente, ápice imaturo, uso de analgésico |\n\n**Qual teste acerta mais?** No estudo comparativo citado pelo capítulo:\n\n| Teste | Sensibilidade | Precisão |\n|---|---|---|\n| Frio | 0,83 | 86% |\n| Calor | 0,86 | 71% |\n| Elétrico | 0,72 | 81% |\n\nO frio teve a melhor precisão; o calor, a maior sensibilidade e a menor precisão.\n\nFluxometria laser-Doppler e oximetria de pulso aparecem no capítulo como métodos ainda em estudo."
+    },
+    {
+      "id": "testes-especiais",
+      "titulo": "Testes especiais: mordida, cavidade, transiluminação e anestesia seletiva",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 18–19",
+      "texto": "**Mordida:** o paciente morde um dispositivo (algodão, palito) para localizar o dente. Trinca ou cúspide fraturada costuma doer **numa só direção de pressão e ao soltar** a mordida. Periodontite apical dói à mordida e à percussão.\n\n**Corante e transiluminação:** a luz de fibra óptica mostra a fratura como uma **área escura**, porque a fratura bloqueia a luz. Mesmo assim, a extensão total da fratura nem sempre se define só por esses meios.\n\n**Anestesia seletiva:** anestesia intraligamentar, em sequência, para localizar o arco ou o dente que dói quando os testes pulpares são inconclusivos.\n\n**Cavidade de teste:** é **invasivo e irreversível**, e por isso é o último recurso, quando os outros testes são impossíveis ou inconclusivos. Dor ao brocar dentina sã indica tecido vital; ausência de resposta sugere necrose e indica tratamento de canal.\n\nO capítulo lido não detalha os tipos de trinca nem as perfurações."
+    },
+    {
+      "id": "imagem",
+      "titulo": "Radiografia e TCFC",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 19–23",
+      "texto": "**A radiografia é uma sombra.** Ela mostra tarde a lesão no osso esponjoso e sobrepõe estruturas. Mudar a angulação horizontal ou vertical muda a posição aparente das raízes e ajuda a separar o que está sobreposto.\n\n**Interpretação é subjetiva:** num estudo citado (Goldman et al.), intérpretes diferentes concordaram em apenas **50%** dos casos de patologia radiográfica, e, ao reavaliar as mesmas imagens, cada um concordou consigo mesmo em menos de 85% das vezes.\n\n**Radiografia digital:** sensor no lugar do filme, sem processamento químico, imagem que pode ser ampliada; segundo o texto, usa de 50% a 90% menos radiação.\n\n**TCFC:** imagem tridimensional em voxels; o campo limitado reduz radiação e custo. Mostra lesões sem a sobreposição da cortical, mas o seio maxilar, o forame incisivo e o canal podem **simular perda óssea**.\n\nAtenção: lesão apical em dente vital pode não ser endodôntica; o capítulo mostra um cementoma num incisivo lateral inferior com teste de vitalidade positivo."
+    },
+    {
+      "id": "polpa",
+      "titulo": "A terminologia: polpa",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 26–28",
+      "texto": "| Diagnóstico pulpar | O que caracteriza |\n|---|---|\n| **Pulpite reversível** | dor breve ao estímulo, que cessa ao remover o irritante; inflamação que se resolve |\n| **Pulpite irreversível sintomática** | dor intermitente ou espontânea; frio gera dor intensa e prolongada |\n| **Pulpite irreversível assintomática** | sem queixa, mas a polpa inflamada não cicatriza |\n| **Necrose pulpar** | sem resposta ao frio e ao elétrico; pode haver dor à percussão |\n| **Previamente tratado** | canais já obturados |\n| **Terapia iniciada anteriormente** | pulpotomia ou pulpectomia parcial |\n\n**Pulpite reversível:** causas típicas são cárie, dentina exposta, tratamento recente ou restauração defeituosa. O diferencial a considerar é a sensibilidade dentinária.\n\n**Pulpite irreversível sintomática:** a dor pode ser localizada, difusa ou irradiada; a radiografia costuma mostrar alteração mínima; sem tratamento, evolui para necrose.\n\n**Pulpite irreversível assintomática:** faça o tratamento endodôntico o mais cedo possível, para evitar sintomas ou necrose.\n\n**Necrose:** é a classificação que descreve diretamente a situação histológica. Pode ser parcial (e aí o elétrico pode dar falso-positivo).\n\n**Previamente tratado e terapia iniciada:** nos dois, o teste pulpar pode não ser exato."
+    },
+    {
+      "id": "periapice",
+      "titulo": "A terminologia: periápice e dor irradiada",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 28",
+      "texto": "| Diagnóstico apical | O que caracteriza |\n|---|---|\n| **Tecidos apicais normais** | lâmina dura e ligamento íntegros; sem sintomas; percussão e palpação normais |\n| **Periodontite apical sintomática** | dor à mordida, percussão ou palpação; pode ou não haver radiolucidez |\n| **Periodontite apical assintomática** | sem sintomas; radiolucidez apical; geralmente sem resposta aos testes pulpares |\n| **Abscesso apical agudo** | início rápido, dor espontânea, dor à pressão, pus e edema |\n| **Abscesso apical crônico** | início gradual, pouco ou nenhum desconforto, drenagem intermitente por fístula |\n\n**Periodontite apical sintomática:** o dente pode ou não responder aos testes de sensibilidade; o que define é a dor à mordida, à percussão ou à palpação.\n\n**Abscesso apical agudo:** pode vir com mobilidade, febre e linfonodos sensíveis.\n\n**Abscesso apical crônico:** sem resposta aos testes de sensibilidade, com radiolucidez apical.\n\n**Dor irradiada:** dor sentida longe da fonte real. Em estudo citado, os pacientes localizaram o dente estimulado com o testador elétrico em apenas **37,2%** das vezes. **Dentes anteriores raramente irradiam.** Por isso os testes de localização (mordida, anestesia seletiva) importam."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/teste-ao-frio.jpg",
+      "alt": "Foto bem próxima de um aplicador de algodão coberto de gelo, encostado na face vestibular de um dente superior.",
+      "legenda": "Teste ao frio: o algodão resfriado pelo gás refrigerante encosta na face vestibular do dente. Nesta foto o aplicador é um cotonete e o gás é cloreto de etila; o livro usa spray de tetrafluoretano numa bolinha de algodão grande.",
+      "credito": "Foto: “Cold test with ethyl chloride”, Coronation Dental Specialty Group, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "sensibilidade",
+      "largura": 1280,
+      "altura": 1003
+    },
+    {
+      "src": "data/14733/img/radiolucidez-periapical.jpg",
+      "alt": "Radiografia periapical digital de dentes posteriores superiores, com uma seta branca apontando uma área escura no ápice de um pré-molar.",
+      "legenda": "Radiografia periapical digital de um segundo pré-molar superior: a seta aponta a área radiolúcida no ápice, descrita pelo autor como periodontite apical crônica.",
+      "credito": "Radiografia: “Chronic apical periodontitis”, Michele Gardini, com seta adicionada por Lesion, Wikimedia Commons. Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "imagem",
+      "largura": 504,
+      "altura": 754
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as cinco etapas do diagnóstico?",
+      "verso": "Relato do paciente → história → testes objetivos → correlação com diferenciais → **diagnóstico definitivo**.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 2"
+    },
+    {
+      "id": "f02",
+      "frente": "Por quanto tempo antes dos testes o uso de analgésico deve ser registrado?",
+      "verso": "Nas **4 a 6 horas** anteriores: analgésicos e opioides alteram a resposta aos testes.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 6"
+    },
+    {
+      "id": "f03",
+      "frente": "Dor à percussão significa que a polpa está viva ou morta?",
+      "verso": "**Nenhum dos dois.** Indica inflamação do ligamento periodontal (periodontite apical sintomática), não vitalidade.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 13"
+    },
+    {
+      "id": "f04",
+      "frente": "Mobilidade +1, +2 e +3: qual é o critério de cada uma?",
+      "verso": "**+1:** primeiro sinal acima do normal. **+2:** horizontal até 1 mm. **+3:** horizontal > 1 mm, com ou sem rotação ou depressão vertical. O +1 é o limite: acima dele é anormal.",
+      "fonte": "cohen12-cap1",
+      "onde": "Boxe 1.2, p. 14"
+    },
+    {
+      "id": "f05",
+      "frente": "Furca classe I, II e III no exame do Cohen?",
+      "verso": "**I:** a sonda entra sem profundidade significativa. **II:** entra mas não atravessa. **III:** atravessa até o lado oposto.",
+      "fonte": "cohen12-cap1",
+      "onde": "Boxe 1.3, p. 14"
+    },
+    {
+      "id": "f06",
+      "frente": "Spray de tetrafluoretano: temperatura e bolinha de algodão?",
+      "verso": "**−26,2 °C**, com bolinha de algodão grande, de **5,5 mm** (Fig. 1.18). A de 3 mm aparece no livro só como comparação.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 15"
+    },
+    {
+      "id": "f07",
+      "frente": "Faixa de temperatura do bastão de CO₂ sólido?",
+      "verso": "De **−56 °C a −98 °C**.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 15"
+    },
+    {
+      "id": "f08",
+      "frente": "Qual é a resposta normal ao frio ou ao calor?",
+      "verso": "Reação **breve** que desaparece logo após remover o estímulo. Ausente, prolongada, intensificada ou excruciante é anormal.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 15"
+    },
+    {
+      "id": "f09",
+      "frente": "Como se lê o teste elétrico?",
+      "verso": "Só como **presente ou ausente**. Não gradua a saúde da polpa.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 17"
+    },
+    {
+      "id": "f10",
+      "frente": "Teste de cavidade: quando usar?",
+      "verso": "**Último recurso**, quando os outros testes são impossíveis ou inconclusivos, porque é invasivo e irreversível.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 19"
+    },
+    {
+      "id": "f11",
+      "frente": "Como se rastreia a origem de uma fístula?",
+      "verso": "Cone de **guta-percha no estoma** e radiografia: o trajeto aponta a raiz de origem.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 13"
+    },
+    {
+      "id": "f12",
+      "frente": "Pulpite reversível × irreversível sintomática: o que separa?",
+      "verso": "Reversível: dor **breve** que cessa ao remover o irritante. Irreversível sintomática: dor espontânea ou intermitente, frio gera dor **intensa e prolongada**.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 26–27"
+    },
+    {
+      "id": "f13",
+      "frente": "O que define a pulpite irreversível assintomática?",
+      "verso": "Sem queixa, mas a polpa inflamada **não cicatriza**. Tratar o mais cedo possível.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 27"
+    },
+    {
+      "id": "f14",
+      "frente": "Periodontite apical assintomática: quais os achados?",
+      "verso": "**Sem sintomas**, com **radiolucidez apical** e geralmente sem resposta aos testes pulpares.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 28"
+    },
+    {
+      "id": "f15",
+      "frente": "Abscesso apical agudo × crônico?",
+      "verso": "Agudo: início rápido, dor espontânea, pus, edema. Crônico: início gradual, pouco ou nenhum desconforto, **fístula** com drenagem intermitente.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 28"
+    },
+    {
+      "id": "f16",
+      "frente": "Quais dentes raramente irradiam dor?",
+      "verso": "Os **anteriores**. Em estudo citado, o paciente localizou o dente estimulado com o elétrico em só 37,2% das vezes.",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 28"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "No estudo comparativo citado pelo Cohen, qual teste de sensibilidade teve a maior precisão?",
+      "alternativas": [
+        {
+          "texto": "Frio.",
+          "correta": true,
+          "justificativa": "Precisão de 86%, a maior das três, contra 81% do elétrico e 71% do calor.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Calor.",
+          "correta": false,
+          "justificativa": "O calor teve a maior sensibilidade (0,86), mas a menor precisão (71%). Não confunda sensibilidade com precisão.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Elétrico.",
+          "correta": false,
+          "justificativa": "O elétrico ficou no meio, com 81% de precisão, e teve a menor sensibilidade (0,72).",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Os três empataram.",
+          "correta": false,
+          "justificativa": "Os valores diferem: 86% (frio), 81% (elétrico) e 71% (calor).",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 17",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um incisivo central com histórico de trauma há duas semanas não responde ao teste elétrico. Qual causa pode explicar um falso-negativo nesse caso?",
+      "alternativas": [
+        {
+          "texto": "Necrose parcial.",
+          "correta": false,
+          "justificativa": "Necrose parcial é causa de falso-positivo (responde mesmo sem polpa toda vital), não de falso-negativo.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Contato da sonda com restauração metálica.",
+          "correta": false,
+          "justificativa": "Contato com restauração metálica está entre as causas de falso-positivo do Boxe 1.4, não de falso-negativo.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.4, p. 16–17"
+        },
+        {
+          "texto": "Trauma recente.",
+          "correta": true,
+          "justificativa": "Dente traumatizado recentemente está entre as causas de falso-negativo do Boxe 1.4: a polpa pode estar vital e não responder.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.4, p. 17"
+        },
+        {
+          "texto": "Paciente muito ansioso.",
+          "correta": false,
+          "justificativa": "A ansiedade alta leva o paciente a relatar resposta que não existe: é falso-positivo.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.4, p. 16–17"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 16–17",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente relata dor ao mastigar no 36. A percussão do 36 é dolorosa; o 35 e o 37 não doem. O que a percussão positiva indica?",
+      "alternativas": [
+        {
+          "texto": "Que a polpa do 36 está necrosada.",
+          "correta": false,
+          "justificativa": "A percussão não informa vitalidade; a polpa pode estar vital ou não.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 13"
+        },
+        {
+          "texto": "Inflamação do ligamento periodontal, sem dizer se a polpa está vital.",
+          "correta": true,
+          "justificativa": "É exatamente o que o teste mede: inflamação do ligamento (periodontite apical sintomática), que pode ter origem pulpar, oclusal, traumática ou periodontal.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 13"
+        },
+        {
+          "texto": "Pulpite reversível.",
+          "correta": false,
+          "justificativa": "Pulpite reversível se reconhece por dor breve ao estímulo térmico, não pela percussão.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 26"
+        },
+        {
+          "texto": "Mobilidade +2.",
+          "correta": false,
+          "justificativa": "Mobilidade se mede movendo o dente entre dois cabos de instrumento e se gradua pelo deslocamento horizontal (+2 vai até 1 mm); percussão é outro teste e avalia o ligamento periodontal.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.2 e Fig. 1.16, p. 14"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 13",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente refere dor espontânea no 26, que piora muito com água gelada e demora vários minutos para passar. A radiografia mostra alteração mínima no periápice. Qual o diagnóstico pulpar mais provável?",
+      "alternativas": [
+        {
+          "texto": "Pulpite reversível.",
+          "correta": false,
+          "justificativa": "Na reversível a dor é breve e cessa ao remover o estímulo; aqui ela é espontânea e prolongada.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 26"
+        },
+        {
+          "texto": "Necrose pulpar.",
+          "correta": false,
+          "justificativa": "O dente responde ao frio, e com dor intensa; a necrose não responde ao frio nem ao elétrico.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 27"
+        },
+        {
+          "texto": "Pulpite irreversível sintomática.",
+          "correta": true,
+          "justificativa": "Dor espontânea, frio que gera dor intensa e prolongada e radiografia com alteração mínima são o quadro descrito pelo Cohen.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 27"
+        },
+        {
+          "texto": "Pulpite irreversível assintomática.",
+          "correta": false,
+          "justificativa": "Por definição não há queixa de sintomas, e este paciente tem dor espontânea.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 27"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 27",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "O 46 tem uma fístula na gengiva vestibular, o paciente nega dor, não há resposta ao frio nem ao elétrico e a periapical mostra radiolucidez apical. Qual o diagnóstico apical?",
+      "alternativas": [
+        {
+          "texto": "Abscesso apical agudo.",
+          "correta": false,
+          "justificativa": "O agudo tem início rápido, dor espontânea, pus e edema; aqui não há dor.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 28"
+        },
+        {
+          "texto": "Abscesso apical crônico.",
+          "correta": true,
+          "justificativa": "Início gradual, pouco ou nenhum desconforto, drenagem intermitente por fístula, sem resposta aos testes e com radiolucidez: é o quadro completo.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 28"
+        },
+        {
+          "texto": "Periodontite apical sintomática.",
+          "correta": false,
+          "justificativa": "A sintomática exige dor à mordida, percussão ou palpação, que o paciente não tem.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 28"
+        },
+        {
+          "texto": "Tecidos apicais normais.",
+          "correta": false,
+          "justificativa": "Há radiolucidez apical e fístula; não há lâmina dura íntegra.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 28"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 28",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Qual destas afirmações sobre a mobilidade dentária está de acordo com o Cohen?",
+      "alternativas": [
+        {
+          "texto": "Mobilidade +2 confirma necrose pulpar.",
+          "correta": false,
+          "justificativa": "Mobilidade não é indicador de vitalidade pulpar.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 14"
+        },
+        {
+          "texto": "Mobilidade +2 é o primeiro sinal de movimento acima do normal.",
+          "correta": false,
+          "justificativa": "O primeiro sinal de movimento acima do normal é o +1; o +2 é o movimento horizontal de até 1 mm (Boxe 1.2).",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.2, p. 14"
+        },
+        {
+          "texto": "Mobilidade +3 é o movimento horizontal acima de 1 mm, com ou sem rotação ou depressão vertical.",
+          "correta": true,
+          "justificativa": "É a definição de +3 no Boxe 1.2 do Cohen.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.2, p. 14"
+        },
+        {
+          "texto": "Mobilidade +2 é o movimento horizontal acima de 1 mm.",
+          "correta": false,
+          "justificativa": "Acima de 1 mm é +3; o +2 vai até 1 mm.",
+          "fonte": "cohen12-cap1",
+          "onde": "Boxe 1.2, p. 14"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "Boxe 1.2, p. 14",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Todos os testes pulpares de um molar foram inconclusivos e o paciente não consegue apontar qual dente dói. O que o Cohen indica como último recurso para confirmar se há tecido vital?",
+      "alternativas": [
+        {
+          "texto": "Teste de cavidade.",
+          "correta": true,
+          "justificativa": "Brocar dentina sã: dor indica tecido vital; ausência sugere necrose. É o último recurso porque é invasivo e irreversível.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 19"
+        },
+        {
+          "texto": "Repetir o teste elétrico até obter resposta.",
+          "correta": false,
+          "justificativa": "O elétrico só dá presente ou ausente; repetir não resolve um resultado inconclusivo.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Mobilidade com dois cabos de espelho.",
+          "correta": false,
+          "justificativa": "Mobilidade avalia o periodonto de inserção, não a vitalidade pulpar.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 14"
+        },
+        {
+          "texto": "Palpação da mucosa vestibular.",
+          "correta": false,
+          "justificativa": "Palpação sugere processo periapical ativo, mas não informa vitalidade nem a origem.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 13"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 19",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Num estudo citado pelo Cohen (Goldman et al.), qual foi a concordância entre intérpretes diferentes ao ler patologia em radiografias?",
+      "alternativas": [
+        {
+          "texto": "86%.",
+          "correta": false,
+          "justificativa": "86% é a precisão do teste ao frio no estudo comparativo dos testes de sensibilidade, não concordância na leitura radiográfica; entre intérpretes, a concordância foi de apenas 50%.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 17"
+        },
+        {
+          "texto": "Menos de 85%.",
+          "correta": false,
+          "justificativa": "Menos de 85% foi a concordância de cada intérprete consigo mesmo ao reavaliar as imagens, não entre intérpretes.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 19"
+        },
+        {
+          "texto": "Apenas 50%.",
+          "correta": true,
+          "justificativa": "Metade das vezes: por isso a imagem precisa ser correlacionada com os testes clínicos.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 19"
+        },
+        {
+          "texto": "37,2%.",
+          "correta": false,
+          "justificativa": "37,2% é a taxa com que pacientes localizaram o dente estimulado com o elétrico, no contexto da dor irradiada.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 28"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 19",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "No teste de mordida, qual achado sugere trinca ou cúspide fraturada?",
+      "alternativas": [
+        {
+          "texto": "Dor contínua mesmo sem morder.",
+          "correta": false,
+          "justificativa": "Dor contínua e espontânea não é o padrão descrito para trinca no teste de mordida.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 18"
+        },
+        {
+          "texto": "Dor numa só direção de pressão e ao soltar a mordida.",
+          "correta": true,
+          "justificativa": "É o padrão descrito pelo Cohen para trinca ou cúspide fraturada.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 18"
+        },
+        {
+          "texto": "Dor à mordida acompanhada de dor à percussão em todas as direções.",
+          "correta": false,
+          "justificativa": "Dor à mordida e à percussão é o padrão da periodontite apical.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 18"
+        },
+        {
+          "texto": "Ausência de resposta ao frio.",
+          "correta": false,
+          "justificativa": "Resposta ao frio é teste de sensibilidade, não de mordida, e não é sinal específico de trinca: o padrão da trinca na mordida é dor numa só direção de pressão e ao soltar.",
+          "fonte": "cohen12-cap1",
+          "onde": "p. 15 e 18"
+        }
+      ],
+      "fonte": "cohen12-cap1",
+      "onde": "p. 18",
+      "figura": null
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+ "slug": "interface-restauracao-periodonto",
+ "titulo": "Interface restauração–periodonto",
+ "area": "Integrado",
+ "origem": "Consenso de 2018 (Ercoli & Caton, Jepsen, Chapple, Murakami, Herrera), Carranza 13ª ed. (cap. 69) e Pegoraro 2013",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "ercoli2018",
+   "ref": "Ercoli C, Caton JG. Dental prostheses and tooth-related factors. J Clin Periodontol. 2018;45(Suppl 20):S207–S218.",
+   "curta": "Ercoli & Caton 2018"
+  },
+  {
+   "id": "jepsen2018",
+   "ref": "Jepsen S, Caton JG, Albandar JM, et al. Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup 3 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S219–S229.",
+   "curta": "Jepsen et al. 2018 (consenso, grupo 3)"
+  },
+  {
+   "id": "chapple2018",
+   "ref": "Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: Consensus report of workgroup 1 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+   "curta": "Chapple et al. 2018 (consenso, grupo 1)"
+  },
+  {
+   "id": "murakami2018",
+   "ref": "Murakami S, Mealey BL, Mariotti A, Chapple ILC. Dental plaque–induced gingival conditions. J Clin Periodontol. 2018;45(Suppl 20):S17–S27.",
+   "curta": "Murakami et al. 2018"
+  },
+  {
+   "id": "herrera2018",
+   "ref": "Herrera D, Retamal-Valdes B, Alonso B, Feres M. Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions. J Clin Periodontol. 2018;45(Suppl 20):S78–S94.",
+   "curta": "Herrera et al. 2018"
+  },
+  {
+   "id": "carranza13",
+   "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza: Periodontia Clínica. 13ª ed. Cap. 69, Preparo do Periodonto para a Odontologia Restauradora (Melnick, Takei), p. 739–741; cap. 70, Inter-Relações Restauradoras (Spear, Schoenbaum, Cooney), p. 742–745.",
+   "curta": "Carranza, 13ª ed."
+  },
+  {
+   "id": "pegoraro2013",
+   "ref": "Pegoraro LF et al. Prótese Fixa: bases para o planejamento em reabilitação oral. 2ª ed. São Paulo: Artes Médicas; 2013.",
+   "curta": "Pegoraro 2013"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "onde-mora",
+   "titulo": "A pergunta: onde essa margem pode morar?",
+   "fonte": "carranza13",
+   "onde": "cap. 69, p. 739–740 (Quadro 69.1)",
+   "texto": "O caso de partida: mulher de 40 anos, fumante, quer uma coroa no 46; o diagnóstico fecha em **periodontite estágio III, grau C, generalizada**. Cimenta a coroa hoje? **Não.** Na sequência de tratamento, o **controle da doença ativa** vem antes do cuidado restaurador: higiene oral, raspagem e alisamento radicular, **reavaliação após cerca de 4 semanas** e, se restarem bolsas de 5 mm ou mais, cirurgia periodontal antes de seguir com a prótese.\n\nE depois do controle, a coroa dela vai ter margem: **onde essa margem pode morar?** Toda margem que se cimenta fica perto do tecido de inserção supracrestal, cuja altura **varia** de pessoa para pessoa e não tem valor fixo (Ercoli & Caton)."
+  },
+  {
+   "id": "insercao-supracrestal",
+   "titulo": "A inserção de tecido supracrestal",
+   "fonte": "jepsen2018",
+   "onde": "seção 4; Tabela 4, item B",
+   "texto": "O **tecido de inserção supracrestal** substitui o termo **\"espaço biológico\"**: **epitélio juncional + tecido conjuntivo supracrestal de inserção**. A altura varia e só se mede de verdade por histologia (Ercoli & Caton).\n\nA margem colocada **dentro do tecido de inserção supracrestal se associa a inflamação e perda de suporte periodontal**. O consenso não sabe dizer se o dano vem do biofilme, de trauma, do material ou da soma deles. Mesmo assim, é **categoria da classificação de 2018** (Tabela 4, item B), não opinião de protesista."
+  },
+  {
+   "id": "fatores-dente-protese",
+   "titulo": "Fatores de dentes e próteses",
+   "fonte": "jepsen2018",
+   "onde": "Tabela 4",
+   "texto": "No Grupo 3 da classificação de 2018 (outras condições, onde a prótese mora), a Tabela 4 tem dois blocos:\n\n- **A. Fatores dentários:** anatomia dental (projeções cervicais de esmalte, pérolas de esmalte, sulcos de desenvolvimento), **fraturas radiculares**, reabsorção radicular cervical e trincas de cemento, proximidade radicular e erupção passiva alterada.\n- **B. Fatores protéticos:** margens restauradoras **dentro do tecido de inserção supracrestal**, **procedimentos de confecção de restaurações indiretas** e **reações de hipersensibilidade ou toxicidade a materiais dentários**.\n\nA margem já aparece no Grupo 1, na gengivite: entre os fatores orais que aumentam o acúmulo de placa, um dos exemplos do consenso é protético, a **margem subgengival proeminente de restauração**, ao lado da hipossalivação (Murakami et al., Tabela 2)."
+  },
+  {
+   "id": "fenotipo",
+   "titulo": "Fenótipo, recessão e perda de inserção por obra",
+   "fonte": "jepsen2018",
+   "onde": "seção 2",
+   "texto": "Na recessão, a margem migra para apical e expõe a raiz: estética, hipersensibilidade dentinária, cárie radicular e lesões cervicais não cariosas. O **fenótipo periodontal** (fino × espesso) entra na avaliação de risco; com a sonda no sulco, **sonda visível = fino (≤ 1 mm)**. A margem intrassulcular pode se associar a recessão, especialmente em fenótipo fino: **fenótipo fino somado a margem intrassulcular = maior risco de recessão** (evidência baixa).\n\nE a perda de inserção que vem de um procedimento, como o **aumento de coroa clínica**, não é periodontite: é saúde em periodonto reduzido, sem periodontite (Chapple et al., Tabela 1). O terreno encolheu por obra, não por enchente; primeiro pergunte *perdeu por quê?*"
+  },
+  {
+   "id": "quando-nao-cabe",
+   "titulo": "Quando a coroa não cabe no dente",
+   "fonte": "pegoraro2013",
+   "onde": "p. 28",
+   "texto": "A coroa total retém pelo atrito entre as paredes axiais do preparo e a peça, somado ao cimento (Pegoraro, p. 76), e a **altura mínima do dente preparado é de 4 mm** para dar retenção e estabilidade (p. 28). Em coroa curta, o livro cita canaletas nas paredes axiais ou **cirurgia de aumento de coroa clínica** (p. 28); a **extrusão ortodôntica** é outra saída para afastar a margem da crista (Carranza, cap. 70, p. 743). O **tratamento endodôntico** só entra quando o remanescente não resiste às forças, e a desvitalização deve ser evitada ao máximo (Pegoraro, p. 141). Cada passo cobra dente ou vitalidade.\n\nSe a margem só caberia dentro do tecido de inserção supracrestal, vale a regra do consenso: margem ali se associa a inflamação e perda de suporte (Jepsen et al., Tabela 4); o caminho é afastar a margem com aumento de coroa ou extrusão."
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/insercao-supracrestal-camadas.svg",
+   "alt": "Corte esquemático do colo de um dente, visto de um lado. Junto ao dente, de cima para baixo: sulco gengival, faixa de epitélio juncional, faixa de inserção conjuntiva com fibras e a crista óssea, com a gengiva por fora e o osso abaixo.",
+   "legenda": "Junto ao dente, de cima para baixo: sulco gengival, epitélio juncional e inserção conjuntiva supracrestal, até a crista óssea. As duas faixas formam o tecido de inserção supracrestal, termo que substitui \"espaço biológico\". A altura varia e só se mede por histologia.",
+   "credito": "Esquema elaborado para o Sonda.",
+   "apos": "insercao-supracrestal",
+   "largura": 720,
+   "altura": 1000
+  },
+  {
+   "src": "data/14733/img/margem-fora-x-dentro-insercao-supracrestal.jpg",
+   "alt": "Dois cortes ampliados do colo de um dente com coroa protética. Junto ao dente, entre o sulco e a crista óssea, há uma faixa verde e, abaixo dela, uma terracota. À esquerda, a borda da coroa termina acima da faixa verde e a gengiva é rosa. À direita, a borda da coroa desce pela faixa verde e entra na terracota; a gengiva está vermelha e inchada e a crista óssea é mais baixa.",
+   "legenda": "Ilustração. Tecido de inserção supracrestal (o antigo \"espaço biológico\"): epitélio juncional (faixa verde) e inserção conjuntiva supracrestal (faixa terracota), entre o fundo do sulco e a crista óssea. Esquerda: margem da coroa fora desse tecido. Direita: margem dentro dele, o que se associa a inflamação e perda de suporte periodontal (Jepsen et al. 2018, Tabela 4, item B). A altura do tecido varia e só se mede de verdade por histologia.",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "insercao-supracrestal",
+   "largura": 1200,
+   "altura": 896
+  },
+  {
+   "src": "data/14733/img/posicao-da-margem-supra-nivel-intrassulcular.jpg",
+   "alt": "Três cortes de um pré-molar com coroa protética e a mesma gengiva: a borda da coroa acima da gengiva, com uma faixa de dente à mostra; na altura da margem gengival; e um pouco abaixo da margem, coberta pela gengiva.",
+   "legenda": "Ilustração. Posição da margem da coroa em relação à gengiva: supragengival, ao nível da gengiva e intrassulcular. Nas três a margem fica fora do tecido de inserção supracrestal; margem dentro dele se associa a inflamação e perda de suporte (Jepsen et al. 2018, Tabela 4). A intrassulcular pode se associar a recessão, sobretudo em fenótipo fino (evidência baixa). Quando a margem só caberia dentro do tecido de inserção, afaste-a com aumento de coroa clínica ou extrusão.",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "quando-nao-cabe",
+   "largura": 1400,
+   "altura": 781
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "O que é a inserção de tecido supracrestal?",
+   "verso": "O antigo \"espaço biológico\": **epitélio juncional + tecido conjuntivo supracrestal de inserção**, de altura variável.",
+   "fonte": "ercoli2018",
+   "onde": "resultados: largura biológica (biologic width)"
+  },
+  {
+   "id": "f02",
+   "frente": "O que acontece com a margem que invade a inserção de tecido supracrestal?",
+   "verso": "Associa-se a **inflamação e perda de suporte periodontal**; o consenso não define se o dano vem do biofilme, de trauma ou do material.",
+   "fonte": "jepsen2018",
+   "onde": "seção 4"
+  },
+  {
+   "id": "f03",
+   "frente": "A regra da inserção supracrestal é opinião de protesista?",
+   "verso": "Não: é **categoria do consenso** de 2018 (Tabela 4, item B, de Jepsen et al.).",
+   "fonte": "jepsen2018",
+   "onde": "Tabela 4, item B"
+  },
+  {
+   "id": "f04",
+   "frente": "Qual exemplo protético o consenso dá entre os fatores orais que favorecem a gengivite?",
+   "verso": "A **margem subgengival proeminente de restauração**, ao lado da hipossalivação.",
+   "fonte": "murakami2018",
+   "onde": "Tabela 2, item B.2"
+  },
+  {
+   "id": "f05",
+   "frente": "O que entra na categoria de fatores de dentes e próteses, além da margem no tecido supracrestal?",
+   "verso": "**Dentes:** anatomia (projeções cervicais e pérolas de esmalte, sulcos), fraturas radiculares, reabsorção cervical e trincas de cemento, proximidade radicular, erupção passiva alterada. **Próteses:** confecção de restaurações indiretas e reações de hipersensibilidade ou toxicidade a materiais.",
+   "fonte": "jepsen2018",
+   "onde": "Tabela 4"
+  },
+  {
+   "id": "f06",
+   "frente": "Fenótipo fino + margem intrassulcular dá o quê?",
+   "verso": "**Maior risco de recessão** (associação de evidência baixa).",
+   "fonte": "jepsen2018",
+   "onde": "seção 2"
+  },
+  {
+   "id": "f07",
+   "frente": "Perda de inserção depois de aumento de coroa clínica é periodontite?",
+   "verso": "Não. É saúde em periodonto reduzido, sem periodontite: o terreno encolheu por obra, não por doença.",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1"
+  },
+  {
+   "id": "f08",
+   "frente": "Por que às vezes o dente precisa de endo, aumento de coroa ou extrusão só para receber coroa?",
+   "verso": "Porque o dente preparado precisa de **pelo menos 4 mm de altura** para dar retenção e estabilidade à coroa. Cada passo extra tira mais dente ou a vitalidade.",
+   "fonte": "pegoraro2013",
+   "onde": "p. 28"
+  },
+  {
+   "id": "f09",
+   "frente": "Se a margem da coroa só caberia dentro do tecido de inserção supracrestal, que saídas a literatura cita?",
+   "verso": "Afastar a margem da crista: **cirurgia de aumento de coroa clínica** ou **extrusão ortodôntica**.",
+   "fonte": "carranza13",
+   "onde": "cap. 70, p. 743"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Paciente com periodontite estágio III, grau C, generalizada, quer cimentar hoje uma coroa no 46. Qual é a conduta segundo a sequência de tratamento periodontal?",
+   "alternativas": [
+    {
+     "texto": "Cimentar hoje com margem subgengival profunda, para esconder a margem.",
+     "correta": false,
+     "justificativa": "Margem subgengival profunda pode cair no tecido de inserção supracrestal, o que se associa a inflamação e perda de suporte; e a doença ativa precisa ser controlada antes.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    },
+    {
+     "texto": "Cimentar hoje e tratar a periodontite depois.",
+     "correta": false,
+     "justificativa": "A sequência é a inversa: o controle da doença ativa vem antes do cuidado restaurador.",
+     "fonte": "carranza13",
+     "onde": "cap. 69, p. 739–740"
+    },
+    {
+     "texto": "Não cimentar hoje: controlar a doença primeiro e depois fazer uma margem que respeite a inserção.",
+     "correta": true,
+     "justificativa": "Controle da doença ativa primeiro (higiene, raspagem, reavaliação e cirurgia se preciso), depois o cuidado restaurador, com a margem fora do tecido supracrestal.",
+     "fonte": "carranza13",
+     "onde": "cap. 69, p. 739–740 (Quadro 69.1)"
+    },
+    {
+     "texto": "Extrair o 46, porque grau C contraindica prótese.",
+     "correta": false,
+     "justificativa": "Na sequência de tratamento, a extração fica para os dentes condenados, como parte do controle da doença; o caso não descreve dente condenado.",
+     "fonte": "carranza13",
+     "onde": "cap. 69, p. 740 (Quadro 69.1)"
+    }
+   ],
+   "fonte": "carranza13",
+   "onde": "cap. 69, p. 739–740 (Quadro 69.1)",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Uma coroa foi cimentada com a margem invadindo a inserção de tecido supracrestal. O que se espera nesse sítio?",
+   "alternativas": [
+    {
+     "texto": "Inflamação e perda de inserção.",
+     "correta": true,
+     "justificativa": "O consenso associa a margem dentro do tecido de inserção supracrestal a inflamação e perda de suporte periodontal.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    },
+    {
+     "texto": "Nada, desde que a coroa esteja bem adaptada.",
+     "correta": false,
+     "justificativa": "A posição da margem em relação à inserção pesa mais que diferenças de adaptação entre 20 e 100 µm; boa adaptação não protege a margem que está no tecido supracrestal.",
+     "fonte": "carranza13",
+     "onde": "cap. 70, p. 744"
+    },
+    {
+     "texto": "Aumento gengival sem perda de inserção.",
+     "correta": false,
+     "justificativa": "Aumento gengival sem perda de inserção é o quadro dos aumentos induzidos por fármacos, não da invasão do tecido supracrestal.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item C"
+    },
+    {
+     "texto": "Ganho de inserção pela proteção da margem.",
+     "correta": false,
+     "justificativa": "O consenso descreve o contrário: inflamação e perda de suporte; em animais, o epitélio juncional e o conjuntivo migram para apical.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 4",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Quais tecidos compõem a inserção de tecido supracrestal (antigo \"espaço biológico\")?",
+   "alternativas": [
+    {
+     "texto": "Esmalte e dentina coronária.",
+     "correta": false,
+     "justificativa": "São tecidos dentários; o tecido de inserção supracrestal é epitélio juncional mais conjuntivo de inserção.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    },
+    {
+     "texto": "Ligamento periodontal e cemento apical.",
+     "correta": false,
+     "justificativa": "O tecido de inserção é supracrestal, acima da crista óssea; não é ligamento nem cemento apical.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    },
+    {
+     "texto": "Mucosa alveolar e osso basal.",
+     "correta": false,
+     "justificativa": "Não é a composição definida; o tecido de inserção supracrestal é epitélio juncional mais conjuntivo de inserção.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    },
+    {
+     "texto": "Epitélio juncional e inserção conjuntiva acima da crista.",
+     "correta": true,
+     "justificativa": "É a composição definida pelo consenso, que troca \"espaço biológico\" por \"tecido de inserção supracrestal\".",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 4",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Paciente de fenótipo periodontal fino vai receber uma coroa anterior, e o plano é levar a margem para dentro do sulco. Qual é o risco apontado pelo consenso de 2018?",
+   "alternativas": [
+    {
+     "texto": "Aumento gengival por medicamento.",
+     "correta": false,
+     "justificativa": "Não há fármaco no caso; aumento gengival por fármaco é o item C da classificação da gengivite induzida por placa.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item C"
+    },
+    {
+     "texto": "Recessão: fenótipo fino somado a margem intrassulcular eleva o risco de recessão.",
+     "correta": true,
+     "justificativa": "O consenso associa a margem intrassulcular a recessão, especialmente em fenótipo fino; a evidência é de nível baixo.",
+     "fonte": "jepsen2018",
+     "onde": "seção 2"
+    },
+    {
+     "texto": "Periodontite necrosante.",
+     "correta": false,
+     "justificativa": "Os fatores predisponentes mais relevantes das necrosantes são os que alteram a resposta imune do hospedeiro; margem restauradora não está entre eles.",
+     "fonte": "herrera2018",
+     "onde": "seção 2 (doenças periodontais necrosantes)"
+    },
+    {
+     "texto": "Nenhum, o fenótipo não entra na avaliação de risco.",
+     "correta": false,
+     "justificativa": "O fenótipo fino aumenta o risco de recessão.",
+     "fonte": "jepsen2018",
+     "onde": "seção 2"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 2",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Qual dos itens NÃO está na Tabela 4 do consenso de 2018 (fatores relacionados aos dentes e às próteses)?",
+   "alternativas": [
+    {
+     "texto": "Tabagismo.",
+     "correta": true,
+     "justificativa": "Tabagismo é modificador sistêmico: entra como descritor da periodontite e influencia o grau; não é fator de dente ou prótese.",
+     "fonte": "jepsen2018",
+     "onde": "seção 1"
+    },
+    {
+     "texto": "Anatomia dental, como pérolas e sulcos.",
+     "correta": false,
+     "justificativa": "Está no item A da Tabela 4 (fatores anatômicos dentários).",
+     "fonte": "jepsen2018",
+     "onde": "Tabela 4, item A"
+    },
+    {
+     "texto": "Fraturas radiculares.",
+     "correta": false,
+     "justificativa": "Está no item A da Tabela 4.",
+     "fonte": "jepsen2018",
+     "onde": "Tabela 4, item A"
+    },
+    {
+     "texto": "Reações de hipersensibilidade ou toxicidade a materiais dentários.",
+     "correta": false,
+     "justificativa": "Está no item B da Tabela 4, ao lado da confecção de restaurações indiretas.",
+     "fonte": "jepsen2018",
+     "onde": "Tabela 4, item B"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "Tabela 4",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Um pré-molar tem pouca altura para receber coroa total. Segundo Pegoraro (2013), por que às vezes esse dente precisa de recursos como canaletas, cirurgia de aumento de coroa clínica ou extrusão ortodôntica antes da coroa?",
+   "alternativas": [
+    {
+     "texto": "Porque a coroa total retém por adesão e precisa de esmalte na margem.",
+     "correta": false,
+     "justificativa": "A coroa total retém pelo atrito entre as paredes axiais do preparo e a peça, somado ao cimento; não depende de adesão ao esmalte.",
+     "fonte": "pegoraro2013",
+     "onde": "p. 76"
+    },
+    {
+     "texto": "Porque toda coroa exige tratamento endodôntico prévio.",
+     "correta": false,
+     "justificativa": "Endodontia só entra quando o remanescente não resiste às forças; a desvitalização deve ser evitada ao máximo.",
+     "fonte": "pegoraro2013",
+     "onde": "p. 141"
+    },
+    {
+     "texto": "Porque o dente preparado precisa de pelo menos 4 mm de altura para dar retenção e estabilidade à coroa.",
+     "correta": true,
+     "justificativa": "Pegoraro fixa em 4 mm a altura mínima do dente preparado; abaixo disso, entram canaletas ou cirurgia de aumento de coroa.",
+     "fonte": "pegoraro2013",
+     "onde": "p. 28"
+    },
+    {
+     "texto": "Porque a margem precisa obrigatoriamente invadir a inserção supracrestal.",
+     "correta": false,
+     "justificativa": "Ao contrário: margem dentro do tecido de inserção supracrestal se associa a inflamação e perda de suporte.",
+     "fonte": "jepsen2018",
+     "onde": "seção 4"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "p. 28",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "Paciente sem história de periodontite fez aumento de coroa clínica e tem perda de inserção; hoje sonda ≤ 3 mm e sangra em 6% dos sítios. Como classificar?",
+   "alternativas": [
+    {
+     "texto": "Periodontite estágio I.",
+     "correta": false,
+     "justificativa": "Perda de inserção por aumento de coroa é periodonto reduzido em paciente sem periodontite; a causa é o procedimento.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Saúde em periodonto reduzido, sem periodontite.",
+     "correta": true,
+     "justificativa": "O consenso põe o aumento de coroa entre as causas de periodonto reduzido sem periodontite, e sondagem ≤ 3 mm com sangramento < 10% é saúde.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estável.",
+     "correta": false,
+     "justificativa": "Saúde em periodontite tratada e estável exige histórico de periodontite tratada.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite em periodonto reduzido.",
+     "correta": false,
+     "justificativa": "O sangramento de 6% fica abaixo do corte de 10% da gengivite.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  }
+ ]
+}

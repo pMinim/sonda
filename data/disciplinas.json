@@ -1,0 +1,116 @@
+{
+  "app": {
+    "nome": "Sonda",
+    "assinatura": "por Prof. Pedro Minim"
+  },
+  "semestre": "2026/2",
+  "professor": "Prof. Pedro Minim",
+  "instituicao": "Cruzeiro do Sul",
+  "disciplinas": [
+    {
+      "codigo": "14733",
+      "nome": "Clínica Odontológica Integrada II",
+      "sigla": "COI II",
+      "status": "ativa",
+      "areas": [
+        "Periodontia",
+        "Endodontia",
+        "Dentística"
+      ],
+      "turmas": [
+        {
+          "nome": "Guarulhos · quarta noite",
+          "proximaProva": {
+            "nome": "A1",
+            "data": "2026-11-25"
+          }
+        },
+        {
+          "nome": "Paulista · quinta manhã",
+          "proximaProva": null
+        }
+      ]
+    },
+    {
+      "codigo": "14814",
+      "nome": "Cirurgia Bucal Clínica",
+      "sigla": "CBC",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Paulista · sexta manhã",
+          "proximaProva": null
+        }
+      ]
+    },
+    {
+      "codigo": "14723",
+      "nome": "Propedêutica Clínica",
+      "sigla": "Propedêutica",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Liberdade · terça noite",
+          "proximaProva": {
+            "nome": "A2",
+            "data": "2026-11-17"
+          }
+        }
+      ]
+    },
+    {
+      "codigo": "14720",
+      "nome": "Endodontia Pré-Clínica",
+      "sigla": "Endo Pré",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Liberdade · sexta noite",
+          "proximaProva": null
+        }
+      ]
+    },
+    {
+      "codigo": "13735",
+      "nome": "Clínica Ampliada em Odontologia III",
+      "sigla": "Ampliada III",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Paulista · terça manhã",
+          "proximaProva": null
+        }
+      ]
+    },
+    {
+      "codigo": "14816",
+      "nome": "Clínica Ampliada em Odontologia II",
+      "sigla": "Ampliada II",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Paulista · terça manhã",
+          "proximaProva": null
+        }
+      ]
+    },
+    {
+      "codigo": "13744",
+      "nome": "Clínica Odontológica Integrada da Pessoa com Necessidades Especiais",
+      "sigla": "PNE",
+      "status": "em-breve",
+      "areas": [],
+      "turmas": [
+        {
+          "nome": "Guarulhos · segunda noite",
+          "proximaProva": null
+        }
+      ]
+    }
+  ]
+}

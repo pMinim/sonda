@@ -1,0 +1,511 @@
+{
+  "slug": "urgencias-endodonticas",
+  "titulo": "Urgências endodônticas",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 19 e 1",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap19",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 19, Manejo de Emergências Endodônticas (Teixeira FB, Cheung GSP), p. 718–736.",
+      "curta": "Cohen 12ª ed., cap. 19"
+    },
+    {
+      "id": "cohen12-cap1",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 1, Diagnóstico (Berman LH, Rotstein I), p. 2–31.",
+      "curta": "Cohen 12ª ed., cap. 1"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "o-que-e",
+      "titulo": "O que é urgência endodôntica e as cinco apresentações legítimas",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 718",
+      "texto": "**Definição:** dor ou edema causados por estágios de inflamação ou infecção da polpa ou dos tecidos periapicais.\n\n**Peso na clínica:** cerca de **85% das emergências odontológicas** decorrem de doença pulpar ou periapical.\n\n**As cinco emergências legítimas** (classificação da AAE citada no capítulo):\n\n1. Pulpite irreversível sintomática com tecidos apicais normais.\n2. Pulpite irreversível sintomática com periodontite apical sintomática.\n3. Polpa necrótica com periodontite apical sintomática.\n4. Polpa necrótica com edema intraoral flutuante.\n5. Polpa necrótica com edema facial difuso.\n\nRepare no padrão: ou a polpa está irreversivelmente inflamada e dói, ou está necrótica e o periápice reage (dor ou edema). **Pulpite reversível não está na lista.**"
+    },
+    {
+      "id": "diagnostico-diferencial",
+      "titulo": "Antes da conduta, o diagnóstico: polpa e periápice",
+      "fonte": "cohen12-cap1",
+      "onde": "p. 13",
+      "texto": "A conduta de urgência sai do par **diagnóstico pulpar + diagnóstico periapical**: é ele que diz em qual das cinco apresentações o paciente está.\n\nA terminologia completa (pulpite reversível e irreversível, necrose, periodontite apical sintomática e assintomática, abscesso apical agudo e crônico) e a leitura dos testes estão no tema **Diagnóstico pulpar e periapical**. Lembre só o essencial para a urgência: **dor à percussão indica inflamação do ligamento periodontal, não se a polpa está viva ou morta**."
+    },
+    {
+      "id": "polpa-vital",
+      "titulo": "Polpa vital: reversível × irreversível",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719–720",
+      "texto": "**Pulpite reversível:** sensibilidade reversível ao frio ou a estímulos osmóticos (doce, salgado, azedo). Não é uma das cinco emergências legítimas; o capítulo remete o manejo da dentina exposta a outro capítulo do livro, que não foi lido aqui.\n\n**Pulpite irreversível sintomática:** dor intermitente ou espontânea, sensível a estímulos térmicos, sobretudo ao frio, com dor que dura mesmo após retirar o estímulo.\n\n**Pulpite irreversível assintomática:** dente sem sintomas, mas com cárie profunda ou perda de estrutura não tratada.\n\n**Conduta na irreversível sintomática:** estudos recentes citados indicam que a **pulpotomia pode aliviar a dor de urgência** em comparação com o tratamento de canal. Leia como achado de estudos, não como protocolo padrão: o capítulo não descreve a técnica. Numa pesquisa de 2009, a maioria dos entrevistados passou a limpar o canal **até o nível do ápice**. O tratamento em **sessão única** de casos com polpa vital subiu de cerca de **um terço** dos respondentes (pesquisa de 1988) para **79%** na pesquisa mais recente. O capítulo lido não descreve os passos da pulpotomia nem da pulpectomia de urgência.\n\n**Antibiótico não trata pulpite.** Em ensaios controlados por placebo, antibióticos **não tiveram efeito** sobre a dor de pacientes com pulpite irreversível, e o capítulo não os recomenda no manejo de urgência dessa condição.\n\n**Ajuste oclusal:** em dente vital **sem sensibilidade à percussão**, a redução oclusal não se mostrou benéfica. Interferências e prematuridades, por outro lado, podem levar à fratura."
+    },
+    {
+      "id": "necrose-pas",
+      "titulo": "Necrose com periodontite apical sintomática",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720",
+      "texto": "**Quadro:** polpa necrótica com **sensibilidade à percussão e à palpação** do periápice.\n\n**O que as pesquisas relatam:** a pesquisa de 1977 descrevia o preparo **além do ápice** quando havia edema, para facilitar a drenagem. Na pesquisa de 2009, a maioria passou a favorecer a **instrumentação completa, haja ou não edema**, e usa **hidróxido de cálcio intracanal** quando o tratamento tem mais de uma consulta. Isso descreve o que os clínicos relatam fazer, não um protocolo; e o preparo além do ápice aparece entre os fatores de risco de flare-up (ver a última seção).\n\n**Irrigação final descrita no capítulo:** **20 mL de solução salina estéril fria (2,5 °C) por 5 minutos**, levada ao comprimento de trabalho com microcânula (EndoVac). Segundo o texto, essa crioterapia reduziu a dor pós-operatória e a necessidade de medicação.\n\n**Trefinação:** perfuração cirúrgica da lâmina cortical alveolar para liberar o exsudato, descrita para a situação **sem edema**. Estudos recentes não mostraram benefício na pulpite irreversível nem na necrose com periodontite apical sintomática, e a anestesia local pode ser difícil na inflamação aguda ou na infecção."
+    },
+    {
+      "id": "abscesso-edema",
+      "titulo": "Abscesso apical agudo e edema",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 723–724",
+      "texto": "**Abscesso apical agudo:** resposta inflamatória com **edema e drenagem de exsudato**; o dente costuma ser sensível à percussão e à palpação.\n\n**Edema localizado:** a **drenagem pelo canal radicular é a via preferida**. A figura do capítulo acompanha um caso inteiro: drenagem do pus pelo canal, aspiração, irrigação e desbridamento, hidróxido de cálcio e, ao fim do tratamento, a obturação.\n\n**Edema flutuante:** o capítulo cita a **incisão para drenagem**; a técnica está em páginas que não foram lidas e não entra aqui.\n\n**Infecção do espaço fascial:** é a extensão da infecção de origem endodôntica aos planos fasciais da cabeça e do pescoço, com **celulite e sinais sistêmicos**. O capítulo descreve os espaços anatomicamente; só o início dessa parte foi lido."
+    },
+    {
+      "id": "aberto-ou-fechado",
+      "titulo": "Deixar o dente aberto ou fechar?",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720; 731",
+      "texto": "**A posição do capítulo:** deixar o dente aberto entre as consultas **não é recomendado**.\n\n**Por que o tema ainda aparece:** pesquisas citadas mostram que a prática persiste. Em dentes necróticos com dor aguda sem inchaço ou com inchaço difuso, **19,4 a 71,2%** dos endodontistas pesquisados deixavam o dente aberto. Com inchaço difuso, **25,2 a 38,5%** dos dentistas deixariam aberto; com inchaço flutuante, **17,5 a 31,5%**.\n\n**Um risco concreto:** o capítulo ilustra um objeto estranho encontrado na drenagem de um dente deixado aberto."
+    },
+    {
+      "id": "antibioticos",
+      "titulo": "Antibiótico: quando entra e qual",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719–720; 732–733",
+      "texto": "**Não entra na pulpite irreversível:** sem efeito na dor em ensaios controlados por placebo.\n\n**Antes do tratamento, não previne flare-up de forma confiável:** estudos antigos viram redução com antibiótico dado antes de tratar dentes necróticos, mas estudos mais recentes o acharam **menos eficaz que os analgésicos**, ou sem efeito sobre as emergências entre consultas e os sintomas pós-tratamento.\n\n**Infecção grave — a escolha descrita:**\n\n- **Amoxicilina:** o capítulo considera prudente começar por ela.\n- **Amoxicilina com clavulanato ou metronidazol:** casos mais graves.\n- **Clindamicina:** pacientes alérgicos às penicilinas ou casos que não responderam à amoxicilina.\n\n**Doses e duração:** o capítulo lido não traz.\n\n**Cultura:** leva de **1 a 2 semanas** e não é rotina na urgência."
+    },
+    {
+      "id": "analgesicos",
+      "titulo": "Analgésicos: o que o capítulo compara",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732",
+      "texto": "**Comparações citadas no capítulo:**\n\n- **Ibuprofeno 400 mg** foi superior ao ácido acetilsalicílico 650 mg e ao paracetamol 600 mg, com ou sem codeína.\n- O ácido acetilsalicílico foi mais eficaz que 60 mg de codeína em alguns casos.\n\n**Tetos diários:**\n\n| Fármaco | Dose máxima |\n|---|---|\n| Ibuprofeno | **3,2 g em 24 h** |\n| Paracetamol | **4 g por dia**, com possível redução para diminuir o risco de toxicidade hepática |\n\nAs estratégias de manejo da dor e a anestesia em polpa inflamada estão em outro capítulo do livro, não lido para este resumo."
+    },
+    {
+      "id": "flare-up-e-outros",
+      "titulo": "Flare-up, dente já tratado e dente rachado",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 730; 732–733",
+      "texto": "**Flare-up:** exacerbação aguda da doença perirradicular depois do início ou da continuação do tratamento de canal não cirúrgico. Incidência de **2 a 20%** dos casos; **8,4%** em metanálise com critérios estritos; mais comum em **mulheres com menos de 20 anos**.\n\n**Fatores de risco:** preparo além do ápice, instrumentação excessiva, extravasamento de restos, remoção incompleta do tecido pulpar, sobre-extensão do material obturador, irritante químico, hiperoclusão, fratura radicular e fatores microbiológicos. Note que o preparo além do ápice está nesta lista: ele aparece na pesquisa de 1977 em casos com edema, enquanto a de 2009 já favorecia a instrumentação completa (ver a seção sobre necrose).\n\n**Flare-up não piora o prognóstico:** segundo o capítulo, o sucesso endodôntico não diminui nos casos que tiveram flare-up. A dor antes do tratamento pode ser um preditor de flare-up.\n\n**Dente já tratado e sintomático:** o manejo de urgência pode ser tecnicamente demorado por causa de restaurações extensas, pinos e núcleos.\n\n**Dente rachado:** em dente **vital**, a rachadura tende a dar **dor súbita e aguda à mastigação**; em dente **não vital ou obturado**, **dor surda**."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/dor-com-polpa-viva-x-necrotica.svg",
+      "alt": "Dois dentes em corte, lado a lado: à esquerda, polpa viva, em vermelho; à direita, polpa morta, em cinza. Nos dois, o ligamento na ponta da raiz está inflamado e há a indicação de dor à percussão.",
+      "legenda": "A dor à percussão indica inflamação do ligamento periodontal e não diz se a polpa está viva ou morta. A conduta de urgência sai do par diagnóstico pulpar + diagnóstico periapical.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "diagnostico-diferencial",
+      "largura": 720,
+      "altura": 1060
+    },
+    {
+      "src": "data/14733/img/necrose-periodontite-apical-sintomatica.jpg",
+      "alt": "Corte de um molar inferior com cárie oclusal que abre na câmara pulpar; a polpa da câmara e dos canais está cinza-escura, e o ligamento em volta da ponta das duas raízes aparece alargado e avermelhado, com o osso íntegro.",
+      "legenda": "Ilustração. Polpa necrótica com periodontite apical sintomática: a cárie abriu a câmara, a polpa morreu, e o ligamento em volta dos ápices inflamou; por isso o dente dói à percussão e à palpação. Na pesquisa de 2009, a maioria dos clínicos fazia instrumentação completa, com ou sem edema, e hidróxido de cálcio entre as consultas. (Cohen 12ª ed., cap. 19, p. 720)",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "necrose-pas",
+      "largura": 1101,
+      "altura": 1400
+    },
+    {
+      "src": "data/14733/img/drenagem-pelo-canal-tres-tempos.jpg",
+      "alt": "Três cortes do mesmo molar inferior com polpa necrosada, pus em volta do ápice e uma bola de pus na gengiva ligada ao ápice por um trajeto: dente aberto; agulha de irrigação no canal com cânula de aspiração; canais com pasta branca e abertura fechada.",
+      "legenda": "Ilustração. Abscesso apical agudo com edema localizado, num molar inferior: o pus do ápice comunica-se por um trajeto com a coleção que abaúla a gengiva. (1) Dente aberto para a drenagem pelo canal; (2) aspiração, irrigação e desbridamento; (3) hidróxido de cálcio intracanal e dente fechado entre as consultas. A obturação vem só no fim do tratamento. (Cohen 12ª ed., cap. 19)",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "abscesso-edema",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as cinco emergências endodônticas legítimas?",
+      "verso": "1) Pulpite irreversível sintomática com ápice normal; 2) pulpite irreversível sintomática com periodontite apical sintomática; 3) necrose com periodontite apical sintomática; 4) necrose com edema intraoral flutuante; 5) necrose com edema facial difuso.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 718"
+    },
+    {
+      "id": "f02",
+      "frente": "Que fração das emergências odontológicas vem de doença pulpar ou periapical?",
+      "verso": "Cerca de **85%**.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 718"
+    },
+    {
+      "id": "f03",
+      "frente": "Pulpite reversível é emergência endodôntica legítima?",
+      "verso": "**Não.** Ela não está entre as cinco apresentações legítimas; é sensibilidade reversível ao frio ou a estímulos osmóticos.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719"
+    },
+    {
+      "id": "f04",
+      "frente": "Antibiótico alivia a dor da pulpite irreversível?",
+      "verso": "**Não.** Em ensaios controlados por placebo, não teve efeito sobre a dor; o capítulo não o recomenda nessa urgência.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719–720"
+    },
+    {
+      "id": "f05",
+      "frente": "Que procedimento estudos recentes indicam para aliviar a dor na pulpite irreversível sintomática?",
+      "verso": "A **pulpotomia** pode aliviar a dor de urgência, em comparação com o tratamento de canal. É achado de estudos citados; o capítulo não descreve a técnica.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719–720"
+    },
+    {
+      "id": "f06",
+      "frente": "Ajuste oclusal ajuda dente vital sem sensibilidade à percussão?",
+      "verso": "**Não** se mostrou benéfico nessa situação.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720"
+    },
+    {
+      "id": "f09",
+      "frente": "Qual é a via preferida de drenagem no abscesso com edema localizado?",
+      "verso": "A **drenagem pelo canal radicular**.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 723"
+    },
+    {
+      "id": "f10",
+      "frente": "O que é trefinação e quando se pensa nela?",
+      "verso": "Perfuração cirúrgica da cortical alveolar para liberar o exsudato, descrita **na ausência de edema**. Estudos recentes não mostraram benefício na pulpite irreversível nem na necrose com periodontite apical sintomática; a anestesia local pode ser difícil.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720"
+    },
+    {
+      "id": "f11",
+      "frente": "O capítulo recomenda deixar o dente aberto entre as consultas?",
+      "verso": "**Não.** Deixar aberto entre consultas não é recomendado.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 731"
+    },
+    {
+      "id": "f12",
+      "frente": "Em infecção endodôntica grave, por qual antibiótico o capítulo considera prudente começar, e qual usar na alergia à penicilina?",
+      "verso": "**Amoxicilina**; **clindamicina** para alérgicos às penicilinas ou casos que não responderam à amoxicilina. Nos casos mais graves: amoxicilina com clavulanato ou metronidazol.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual analgésico foi superior ao AAS 650 mg e ao paracetamol 600 mg (± codeína)?",
+      "verso": "**Ibuprofeno 400 mg.**",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732"
+    },
+    {
+      "id": "f14",
+      "frente": "Quais são os tetos diários de ibuprofeno e paracetamol citados?",
+      "verso": "Ibuprofeno **3,2 g em 24 h**; paracetamol **4 g por dia**, com possível redução para diminuir o risco hepático.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual é a incidência de flare-up?",
+      "verso": "**2 a 20%** dos casos; **8,4%** em metanálise com critérios estritos. Mais comum em mulheres com menos de 20 anos.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732"
+    },
+    {
+      "id": "f16",
+      "frente": "Como é a irrigação final descrita para necrose com periodontite apical sintomática?",
+      "verso": "**20 mL de solução salina estéril fria (2,5 °C) por 5 minutos**, com microcânula (EndoVac) no comprimento de trabalho.",
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Pela classificação da AAE citada no capítulo de urgências, qual destas apresentações NÃO é uma emergência endodôntica legítima?",
+      "alternativas": [
+        {
+          "texto": "Pulpite reversível com sensibilidade ao doce e ao frio.",
+          "correta": true,
+          "justificativa": "Correta. A pulpite reversível não está entre as cinco emergências legítimas; o capítulo a descreve como sensibilidade reversível ao frio ou a estímulos osmóticos.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 718–719"
+        },
+        {
+          "texto": "Polpa necrótica com edema intraoral flutuante.",
+          "correta": false,
+          "justificativa": "É a quarta das cinco emergências legítimas.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 718"
+        },
+        {
+          "texto": "Pulpite irreversível sintomática com periodontite apical sintomática.",
+          "correta": false,
+          "justificativa": "É a segunda das cinco emergências legítimas.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 718"
+        },
+        {
+          "texto": "Polpa necrótica com edema facial difuso.",
+          "correta": false,
+          "justificativa": "É a quinta das cinco emergências legítimas.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 718"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 718–719",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente com dor espontânea no 36, que piora com frio e persiste depois de retirado o estímulo; percussão normal. Ele pede \"um antibiótico para a dor passar\". Qual é a conduta coerente com o capítulo?",
+      "alternativas": [
+        {
+          "texto": "Prescrever antibiótico e reavaliar em 3 dias antes de intervir.",
+          "correta": false,
+          "justificativa": "Em ensaios controlados por placebo, o antibiótico não teve efeito na dor da pulpite irreversível; o capítulo não o recomenda nessa urgência.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 720"
+        },
+        {
+          "texto": "Intervir no dente (por exemplo, pulpotomia) e não prescrever antibiótico.",
+          "correta": true,
+          "justificativa": "Correta. O quadro é pulpite irreversível sintomática: o antibiótico não age sobre essa dor, e a intervenção no dente é o caminho (estudos recentes citados indicam que a pulpotomia pode aliviar a dor de urgência).",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 719–720"
+        },
+        {
+          "texto": "Fazer só o ajuste oclusal do 36 e liberar o paciente.",
+          "correta": false,
+          "justificativa": "Em dente vital sem sensibilidade à percussão, a redução oclusal não se mostrou benéfica.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 720"
+        },
+        {
+          "texto": "Tratar como pulpite reversível, sem intervenção no dente.",
+          "correta": false,
+          "justificativa": "Dor espontânea que persiste após o frio caracteriza pulpite irreversível sintomática, não reversível.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 719"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 719–720",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente com polpa necrótica no 46 e edema intraoral localizado na vestibular. Ao acessar a câmara, há saída de pus. Qual é a via de drenagem preferida, segundo o capítulo?",
+      "alternativas": [
+        {
+          "texto": "Pelo próprio canal radicular.",
+          "correta": true,
+          "justificativa": "Correta. Com edema localizado, a drenagem pelo canal é a via preferida.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 723"
+        },
+        {
+          "texto": "Trefinação da cortical alveolar.",
+          "correta": false,
+          "justificativa": "A trefinação é a perfuração cirúrgica da cortical para liberar exsudato, descrita na ausência de edema. Aqui há edema localizado e o pus já sai pelo acesso: o capítulo aponta o canal como via preferida.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 720; 723"
+        },
+        {
+          "texto": "Nenhuma: só antibiótico sistêmico.",
+          "correta": false,
+          "justificativa": "Com edema localizado, o capítulo aponta a drenagem pelo canal como via preferida; o antibiótico sistêmico é discutido para infecções graves, não como substituto dessa drenagem.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 723; 732"
+        },
+        {
+          "texto": "Deixar o dente aberto até a próxima consulta para garantir a drenagem.",
+          "correta": false,
+          "justificativa": "Deixar o dente aberto entre consultas não é recomendado pelo capítulo.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 731"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720; 723; 731–732",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Sobre deixar o dente aberto entre consultas em urgência por necrose, assinale a afirmativa correta segundo o capítulo.",
+      "alternativas": [
+        {
+          "texto": "É a conduta recomendada sempre que houver inchaço difuso.",
+          "correta": false,
+          "justificativa": "O capítulo diz que deixar aberto não é recomendado; as porcentagens de quem ainda o faz descrevem prática, não recomendação.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 731"
+        },
+        {
+          "texto": "Não é recomendado, embora pesquisas mostrem que parte dos clínicos ainda o faça.",
+          "correta": true,
+          "justificativa": "Correta. A recomendação é não deixar aberto; as pesquisas citadas mostram a prática persistindo (por exemplo, 25,2 a 38,5% dos dentistas com inchaço difuso).",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 720; 731"
+        },
+        {
+          "texto": "É indicado porque evita a entrada de restos e objetos no canal.",
+          "correta": false,
+          "justificativa": "É o contrário: o capítulo ilustra um objeto estranho encontrado na drenagem de um dente deixado aberto.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 731"
+        },
+        {
+          "texto": "É obrigatório quando o edema é flutuante.",
+          "correta": false,
+          "justificativa": "Para edema flutuante o capítulo cita a incisão para drenagem, não o dente aberto.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 723"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720; 723; 731",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Infecção endodôntica grave em paciente sem alergia. Por qual antibiótico o capítulo considera prudente começar, e qual é a alternativa para alérgicos às penicilinas?",
+      "alternativas": [
+        {
+          "texto": "Metronidazol; amoxicilina na alergia.",
+          "correta": false,
+          "justificativa": "O metronidazol aparece, ao lado da amoxicilina com clavulanato, para os casos mais graves; o capítulo considera prudente começar pela amoxicilina, e a alternativa na alergia é a clindamicina.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Amoxicilina; clindamicina na alergia.",
+          "correta": true,
+          "justificativa": "Correta. O capítulo considera prudente usar amoxicilina; a clindamicina fica para alérgicos às penicilinas ou para casos que não responderam à amoxicilina.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Clindamicina; amoxicilina com clavulanato na alergia.",
+          "correta": false,
+          "justificativa": "A clindamicina é a alternativa na alergia (ou quando a amoxicilina não resolveu), não o ponto de partida; amoxicilina com clavulanato fica para os casos mais graves.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Amoxicilina com clavulanato; metronidazol na alergia.",
+          "correta": false,
+          "justificativa": "Amoxicilina com clavulanato fica para os casos mais graves; a alternativa citada na alergia é a clindamicina.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo os estudos citados no capítulo, qual analgésico teve o melhor desempenho na dor endodôntica?",
+      "alternativas": [
+        {
+          "texto": "Paracetamol 600 mg com codeína.",
+          "correta": false,
+          "justificativa": "Foi superado pelo ibuprofeno 400 mg, com ou sem codeína.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Ácido acetilsalicílico 650 mg.",
+          "correta": false,
+          "justificativa": "Também foi superado pelo ibuprofeno 400 mg.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Codeína 60 mg isolada.",
+          "correta": false,
+          "justificativa": "Em alguns casos, até o ácido acetilsalicílico foi mais eficaz que 60 mg de codeína.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Ibuprofeno 400 mg.",
+          "correta": true,
+          "justificativa": "Correta. Ibuprofeno 400 mg foi superior ao AAS 650 mg e ao paracetamol 600 mg com ou sem codeína. Teto diário citado: 3,2 g em 24 h.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 732",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Durante o tratamento de um dente necrótico, o operador prepara o canal além do ápice e extravasa restos para o periápice. Segundo o capítulo, como esses dois eventos se enquadram?",
+      "alternativas": [
+        {
+          "texto": "Ambos estão entre os fatores de risco listados para flare-up.",
+          "correta": true,
+          "justificativa": "Correta. A lista do capítulo inclui preparo além do ápice, instrumentação excessiva, extravasamento de restos, remoção incompleta da polpa, sobre-extensão do material obturador, irritante químico, hiperoclusão, fratura radicular e fatores microbiológicos.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "São a conduta que a pesquisa de 2009 mostrou como preferida na necrose com edema.",
+          "correta": false,
+          "justificativa": "Em 2009, a maioria favoreceu a instrumentação completa, haja ou não edema; o preparo além do ápice para drenar edema é o relatado na pesquisa de 1977.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 720"
+        },
+        {
+          "texto": "Se causarem flare-up, o sucesso endodôntico do caso fica diminuído.",
+          "correta": false,
+          "justificativa": "O capítulo afirma que o sucesso endodôntico não diminui nos casos que tiveram flare-up.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "Podem ser compensados com antibiótico antes do tratamento, que previne o flare-up.",
+          "correta": false,
+          "justificativa": "Estudos mais recentes acharam o antibiótico pré-tratamento menos eficaz que os analgésicos, ou sem efeito sobre as emergências entre consultas.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732–733"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 720; 732–733",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Sobre o flare-up, assinale a correta.",
+      "alternativas": [
+        {
+          "texto": "Ocorre em 2 a 20% dos casos e é mais comum em mulheres com menos de 20 anos.",
+          "correta": true,
+          "justificativa": "Correta. Essa é a faixa citada; a metanálise com critérios estritos encontrou 8,4%.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "É a dor que precede o início do tratamento de canal.",
+          "correta": false,
+          "justificativa": "Flare-up é a exacerbação aguda que ocorre depois do início ou da continuação do tratamento.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732"
+        },
+        {
+          "texto": "É prevenido melhor com antibiótico pré-tratamento do que com analgésico.",
+          "correta": false,
+          "justificativa": "Em estudos mais recentes, o antibiótico pré-tratamento reduziu flare-ups menos que os analgésicos.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 732–733"
+        },
+        {
+          "texto": "Ocorre em cerca de 85% dos casos tratados.",
+          "correta": false,
+          "justificativa": "85% é a fração das emergências odontológicas que vêm de doença pulpar ou periapical, não a incidência de flare-up.",
+          "fonte": "cohen12-cap19",
+          "onde": "p. 718; 732"
+        }
+      ],
+      "fonte": "cohen12-cap19",
+      "onde": "p. 718; 732–733",
+      "figura": null
+    }
+  ]
+}

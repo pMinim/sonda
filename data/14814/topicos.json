@@ -1,0 +1,125 @@
+{
+  "disciplina": "14814",
+  "topicos": [
+    {
+      "slug": "anestesia-local-tecnicas-e-doses-maximas",
+      "titulo": "Anestesia local: técnicas de bloqueio, escolha do anestésico e dose máxima",
+      "area": "Cirurgia",
+      "resumoCurto": "Erro de dose e falha de bloqueio são as intercorrências mais comuns",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "avaliacao-pre-operatoria",
+      "titulo": "Avaliação pré-operatória: anamnese dirigida, classificação ASA, exames",
+      "area": "Cirurgia",
+      "resumoCurto": "Define quem opera na clínica da faculdade e quem é encaminhado",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "biopsia-em-cirurgia-bucal",
+      "titulo": "Biópsia incisional e excisional: indicação, técnica e envio do espécime",
+      "area": "Cirurgia",
+      "resumoCurto": "O clínico é quem decide e executa a biópsia de lesão suspeita",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "cistos-e-tumores-odontogenicos-tratamento",
+      "titulo": "Tratamento cirúrgico de cistos e tumores odontogênicos: enucleação, marsupialização, ressecção",
+      "area": "Estomatologia",
+      "resumoCurto": "Liga o diagnóstico (Propedêutica) à conduta",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "complicacoes-em-exodontia",
+      "titulo": "Complicações trans e pós-operatórias: hemorragia, alveolite, fratura radicular, lesão nervosa",
+      "area": "Cirurgia",
+      "resumoCurto": "Prevenção e conduta diante de hemorragia, alveolite, fratura radicular e lesão nervosa.",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "exodontia-com-retalho-e-odontossecao",
+      "titulo": "Exodontia a retalho: desenho de retalho, osteotomia e odontossecção",
+      "area": "Cirurgia",
+      "resumoCurto": "Próximo passo quando a simples falha (raiz residual, dente multirradicular)",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "exodontia-simples",
+      "titulo": "Exodontia simples: fórceps e alavancas por dente, movimentos e sindesmotomia",
+      "area": "Cirurgia",
+      "resumoCurto": "É o procedimento da clínica do semestre",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "fraturas-de-mandibula-e-terco-medio",
+      "titulo": "Fraturas de mandíbula e do terço médio: diagnóstico e primeiro atendimento",
+      "area": "Cirurgia",
+      "resumoCurto": "O clínico geral faz o primeiro exame e o encaminhamento",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "infeccoes-odontogenicas",
+      "titulo": "Infecções odontogênicas: abscesso, celulite, espaços fasciais e sinais de gravidade",
+      "area": "Cirurgia",
+      "resumoCurto": "Reconhecer a infecção que vai para hospital (via aérea, trismo, disfagia)",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "paciente-anticoagulado-em-cirurgia",
+      "titulo": "Paciente em uso de anticoagulante ou antiagregante: suspender ou não, INR, hemostasia local",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Situação diária na clínica; erro comum é suspender sem necessidade",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "paramentacao-e-cadeia-asseptica",
+      "titulo": "Paramentação, montagem de mesa e cadeia asséptica",
+      "area": "Cirurgia",
+      "resumoCurto": "Base de qualquer ato cirúrgico; papéis de operador, auxiliar e circulante",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "prescricao-em-cirurgia-bucal",
+      "titulo": "Prescrição em cirurgia: analgesia, anti-inflamatório, antibiótico e receita",
+      "area": "Farmacologia",
+      "resumoCurto": "O aluno prescreve sozinho no pós-operatório; receita tem forma legal",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "seio-maxilar-e-comunicacao-bucossinusal",
+      "titulo": "Seio maxilar: sinusite odontogênica, comunicação e fístula bucossinusal",
+      "area": "Cirurgia",
+      "resumoCurto": "Complicação clássica da exodontia de molar superior",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "suturas-e-cuidados-pos-operatorios",
+      "titulo": "Suturas, orientações pós-operatórias e remoção de sutura",
+      "area": "Cirurgia",
+      "resumoCurto": "O cronograma tem remoção de sutura (23/10); orientação escrita reduz complicação",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "terceiros-molares",
+      "titulo": "Terceiros molares: classificação (Pell & Gregory, Winter), indicação e risco ao nervo alveolar inferior",
+      "area": "Cirurgia",
+      "resumoCurto": "Base do planejamento por imagem e da decisão de indicar ou não a remoção.",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    }
+  ]
+}

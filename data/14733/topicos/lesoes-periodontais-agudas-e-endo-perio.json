@@ -1,0 +1,512 @@
+{
+ "slug": "lesoes-periodontais-agudas-e-endo-perio",
+ "titulo": "Lesões periodontais agudas e lesão endo-periodontal",
+ "area": "Periodontia",
+ "origem": "Consenso de 2018 (Herrera, Tonetti, Chapple), Carranza 13ª ed. e Cohen 12ª ed., cap. 25",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "herrera2018",
+   "ref": "Herrera D, Retamal-Valdes B, Alonso B, Feres M. Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions. J Clin Periodontol. 2018;45(Suppl 20):S78–S94.",
+   "curta": "Herrera et al. 2018"
+  },
+  {
+   "id": "tonetti2018",
+   "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+   "curta": "Tonetti et al. 2018"
+  },
+  {
+   "id": "chapple2018",
+   "ref": "Chapple ILC, et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: consensus report of workgroup 1 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+   "curta": "Chapple et al. 2018"
+  },
+  {
+   "id": "carranza13",
+   "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza: Periodontia Clínica. 13ª ed.",
+   "curta": "Carranza, 13ª ed."
+  },
+  {
+   "id": "cohen12",
+   "ref": "Berman LH, Hargreaves KM, Rotstein I (orgs.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 25, Inter-relações endodônticas e periodontais (Glickman GN, Iacono VJ).",
+   "curta": "Cohen, 12ª ed."
+  }
+ ],
+ "resumo": [
+  {
+   "id": "escada",
+   "titulo": "Necrosantes: uma escada de gravidade",
+   "fonte": "herrera2018",
+   "onde": "seção 2 e Tabela 4 (seção 2.5)",
+   "texto": "As doenças periodontais necrosantes são **lesões agudas**: início rápido, destruição rápida e dor, que levam o paciente a buscar atendimento de urgência (o mesmo grupo do abscesso e da lesão endo-periodontal aguda). Formam uma escada de gravidade: estudos sugerem que gengivite e periodontite necrosantes sejam estágios de uma mesma doença, que pode subir de andar. Não é regra fixa: a estomatite pode surgir sem degrau anterior, e no paciente só temporária ou moderadamente comprometido a progressão é infrequente.\n\n**Quem sobe a escada:** a classificação de 2018 separa os pacientes em duas categorias.\n\n- **Crônica e gravemente comprometidos:** adultos com HIV/AIDS (CD4 < 200 e carga viral detectável) ou outra imunossupressão grave; crianças com desnutrição grave, condições extremas de vida ou infecções virais graves. Podem ter gengivite, periodontite e estomatite necrosantes e até noma, com **progressão possível**.\n- **Temporária e/ou moderadamente comprometidos:** estresse, nutrição, tabagismo e hábitos não controlados; doença necrosante prévia (crateras residuais); fatores locais (proximidade radicular, má posição dentária). Têm gengivite necrosante, que pode evoluir para periodontite necrosante, em geral com **progressão infrequente**.\n\n| Degrau | Onde | O que acrescenta |\n|---|---|---|\n| **Gengivite necrosante** | gengiva | necrose e ulceração das papilas interdentais (papilas \"decapitadas\"), sangramento e **dor**; halitose e pseudomembrana são frequentes |\n| **Periodontite necrosante** | gengiva + osso | tudo da anterior mais **perda de inserção e óssea rápida**; sinais extraorais mais frequentes |\n| **Estomatite necrosante** | além da gengiva | a necrose ultrapassa a gengiva: osso desnudo através da mucosa alveolar, osteíte e sequestro |"
+  },
+  {
+   "id": "degraus",
+   "titulo": "Os três degraus em detalhe",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3",
+   "texto": "**Gengivite necrosante (gengiva).** Processo agudo com necrose e ulceração das papilas interdentais: papilas \"decapitadas\", o **sinal característico**. O diagnóstico é clínico e se apoia em três traços juntos: **necrose papilar, sangramento e dor**. A papila sozinha não fecha o caso, porque doenças vesículo-bolhosas, gengivoestomatite herpética e abrasão por escova entram no diagnóstico diferencial. A dor separa do quadro comum: a doença periodontal crônica é indolor (Carranza, 13ª ed., cap. 20, Tabela 20.2, p. 270), a necrosante dói. A **halitose** é quase constante, e podem acompanhar pseudomembranas, linfadenopatia regional e febre; em crianças, febre, linfadenopatia e sialorreia são mais frequentes.\n\n**Periodontite necrosante (gengiva + osso).** Tudo da anterior mais **destruição de inserção e de osso**, com sinais extraorais mais frequentes. A diferença para o degrau anterior é uma só: **o osso**. Pode vir de episódios repetidos de gengivite necrosante ou de uma gengivite necrosante num sítio que já tinha periodontite. No paciente gravemente imunocomprometido pode haver até sequestro ósseo.\n\n**Estomatite necrosante (além da gengiva).** A necrose ultrapassa a gengiva: osso desnudo através da mucosa alveolar, osteíte e sequestro. Típica do paciente sistêmica e gravemente comprometido (HIV/AIDS, desnutrição grave): é **alarme sistêmico**."
+  },
+  {
+   "id": "abscesso-endo-perio",
+   "titulo": "Abscesso periodontal × lesão endo-periodontal",
+   "fonte": "herrera2018",
+   "onde": "seções 1.4 e 3.4",
+   "texto": "Dois quadros de urgência que se confundem.\n\n| | Abscesso periodontal | Lesão endo-periodontal |\n|---|---|---|\n| O que é | acúmulo localizado de pus na parede gengival da bolsa, com destruição evidente em pouco tempo | comunicação patológica entre polpa e periodonto do mesmo dente |\n| Sinais | elevação ovoide da gengiva ao longo da raiz (o sinal mais proeminente), sangramento à sondagem, dor, supuração | bolsa profunda que chega ao ápice ou perto dele **e** resposta negativa ou alterada ao teste de vitalidade (os dois sinais primários) |\n| Polpa | dente geralmente **vital** (Carranza, 13ª ed., cap. 45, Quadro 45.2, p. 501) | sem vitalidade ou com resposta alterada |\n| Conduta | drenagem, para aliviar os sintomas e conter a disseminação (Carranza, 13ª ed., cap. 45, p. 502) | polpa necrosada: **a endodontia vem primeiro**, e depois se reavalia (Carranza, 13ª ed., cap. 46, p. 511; Cohen, 12ª ed., cap. 25, p. 930) |\n\n**Régua prática:** diante de bolsa profunda isolada com supuração, procure fratura, perfuração ou reabsorção (história e exame) e **teste a vitalidade antes de raspar**."
+  },
+  {
+   "id": "abscesso-etiologia",
+   "titulo": "Abscesso periodontal: a classificação de 2018 pela causa",
+   "fonte": "herrera2018",
+   "onde": "Tabela 2 (seção 1.5)",
+   "texto": "Em 2018 o abscesso deixou de ser dividido em \"gengival\" e \"periodontal\" e passou a ser classificado pela **causa**, em dois grupos.\n\n**Em paciente com periodontite** (numa bolsa que já existia), o cenário mais frequente:\n- **exacerbação aguda:** periodontite não tratada, periodontite que não respondeu à terapia ou paciente em terapia periodontal de suporte;\n- **depois de tratamento:** pós-raspagem, pós-cirurgia ou pós-medicação (antimicrobiano sistêmico; outras drogas, como a **nifedipina**).\n\n**Em paciente sem periodontite** (a bolsa prévia não é obrigatória):\n- **impacção** de corpo estranho (fio dental, elástico ortodôntico, palito, dique de borracha, casca de pipoca);\n- **hábitos nocivos** (roer fio ou unha, apertar os dentes);\n- **fatores ortodônticos** (forças ortodônticas, mordida cruzada);\n- **aumento gengival**;\n- **alterações da superfície radicular** (anomalias anatômicas, perfuração iatrogênica, fratura ou trinca, reabsorção externa)."
+  },
+  {
+   "id": "epl-classificacao",
+   "titulo": "Lesão endo-periodontal: classificação de 2018 e por onde começar",
+   "fonte": "herrera2018",
+   "onde": "seção 3.4 e Tabela 6 (seção 3.5)",
+   "texto": "**Por onde começar (sequência diagnóstica de Herrera):**\n\n1. **Fase 1:** história (trauma, instrumentação endodôntica, preparo para pino) e exame clínico e radiográfico atrás de **perfuração, fratura, trinca ou reabsorção externa**. Atenção: um sulco radicular pode imitar fratura vertical na radiografia.\n2. **Fase 2** (sem perfuração nem fratura): avaliação periodontal de boca toda (sondagem, inserção, sangramento, supuração, mobilidade), **teste de vitalidade** e percussão.\n3. Bolsa que chega ao ápice ou perto dele, com polpa sem vitalidade, indica lesão endo-periodontal.\n\nA classificação descreve o estado atual e o prognóstico, porque a primeira decisão é **manter ou extrair** o dente.\n\n| | Classificação de 2018 |\n|---|---|\n| **Com dano radicular** | fratura ou trinca radicular · perfuração do canal ou da câmara pulpar · reabsorção radicular externa. Derrubam o prognóstico |\n| **Sem dano radicular** | em paciente **com** ou **sem** periodontite, e em cada um: **grau 1**, bolsa profunda estreita em 1 face do dente; **grau 2**, bolsa profunda larga em 1 face; **grau 3**, bolsas profundas em mais de 1 face |"
+  },
+  {
+   "id": "outras-explicacoes",
+   "titulo": "Outras explicações para o mesmo buraco",
+   "fonte": "tonetti2018",
+   "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)",
+   "texto": "Na definição de caso de periodontite, a perda de inserção (pela via interdental ou pela vestibular/oral) só conta se não puder ser atribuída a uma causa não periodontal. São cinco, e duas delas são justamente lesões deste tópico:\n\n- **Canal:** lesão endodôntica drenando pela margem periodontal.\n- **Trinca:** fratura vertical de raiz (na classificação de 2018, uma lesão endo-periodontal com dano radicular; Herrera et al. 2018, Tabela 6).\n\nAs outras três são trauma (recessão de origem traumática), cárie estendendo-se à região cervical e siso (perda na distal do segundo molar por má posição ou extração do terceiro)."
+  },
+  {
+   "id": "caso",
+   "titulo": "Caso-relâmpago: dor intensa há 3 dias",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4",
+   "texto": "**50 anos, dor intensa há 3 dias:** papilas necrosadas e sangramento, halitose marcada, perda óssea rápida na radiografia.\n\n**Periodontite necrosante.** Necrose papilar, sangramento e dor fecham a necrosante; com o osso já perdido, é o segundo degrau da escada. **Investigar o hospedeiro:** a doença depende da resposta imune, e em geral mais de um fator predisponente está presente."
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/gengivite-necrosante-papilas.jpg",
+   "alt": "Foto intraoral de dentes com aparelho ortodôntico; as papilas entre os dentes estão destruídas, em cratera, com sangramento.",
+   "legenda": "Gengivite necrosante em paciente jovem com aparelho ortodôntico: papilas interdentais necrosadas, em cratera (as papilas \"decapitadas\"), com sangramento.",
+   "credito": "Foto: Ciribè et al., Children, 2024 (Figura 8). CC BY 4.0.",
+   "apos": "degraus",
+   "largura": 744,
+   "altura": 490
+  },
+  {
+   "src": "data/14733/img/lesao-endo-periodontal.jpg",
+   "alt": "Corte de um molar inferior com polpa necrosada e um trajeto estreito junto à raiz mesial, da margem gengival até uma lesão no ápice.",
+   "legenda": "Lesão endo-periodontal em molar inferior: polpa sem vitalidade e um trajeto estreito e profundo junto à raiz mesial, da margem gengival à lesão no ápice.",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "epl-classificacao",
+   "largura": 1045,
+   "altura": 1400
+  },
+  {
+   "src": "data/14733/img/bolsa-x-trajeto.jpg",
+   "alt": "Dois molares em corte: à esquerda, polpa viva e perda óssea com bolsas dos dois lados; à direita, polpa necrosada com lesão no ápice e um trajeto estreito junto à raiz.",
+   "legenda": "Duas explicações para a mesma sondagem profunda. À esquerda, bolsa periodontal, com polpa viva. À direita, lesão endodôntica drenando por um trajeto estreito junto à raiz.",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "outras-explicacoes",
+   "largura": 1400,
+   "altura": 940
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Qual é o sinal característico da gengivite necrosante?",
+   "verso": "Necrose e ulceração das papilas interdentais: **papilas \"decapitadas\"**. Sozinho não fecha o diagnóstico: o consenso pede os três traços juntos (necrose papilar, sangramento e dor).",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3"
+  },
+  {
+   "id": "f02",
+   "frente": "Gengivite comum dói? E a necrosante?",
+   "verso": "A doença gengival crônica comum é **indolor**; a necrosante **dói**.",
+   "fonte": "carranza13",
+   "onde": "cap. 20, Tabela 20.2, p. 270"
+  },
+  {
+   "id": "f03",
+   "frente": "Qual é a única diferença entre gengivite necrosante e periodontite necrosante?",
+   "verso": "**O osso:** a periodontite necrosante tem tudo da gengivite necrosante mais perda de inserção e óssea. A halitose não diferencia, porque já é frequente na gengivite necrosante.",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3"
+  },
+  {
+   "id": "f04",
+   "frente": "O que caracteriza a estomatite necrosante?",
+   "verso": "A necrose vai além da gengiva: osso desnudo através da mucosa alveolar, osteíte e sequestro. Típica do paciente sistêmica e gravemente comprometido (HIV/AIDS, desnutrição grave): **alarme sistêmico**.",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3"
+  },
+  {
+   "id": "f05",
+   "frente": "Como a classificação de 2018 divide os pacientes com doenças necrosantes?",
+   "verso": "**Crônica e gravemente comprometidos** (adultos com HIV/AIDS e CD4 < 200 ou outra imunossupressão grave; crianças com desnutrição grave, condições extremas de vida ou infecções virais graves): podem ter até estomatite e noma, com progressão possível. **Temporária e/ou moderadamente comprometidos** (estresse, nutrição, tabagismo, hábitos; necrosante prévia; fatores locais): gengivite ou periodontite necrosante, em geral com progressão infrequente.",
+   "fonte": "herrera2018",
+   "onde": "Tabela 4 (seção 2.5)"
+  },
+  {
+   "id": "f06",
+   "frente": "O que pode acompanhar a gengivite necrosante, além de dor e sangramento?",
+   "verso": "Halitose (quase constante), pseudomembranas, linfadenopatia regional e febre; em crianças, febre, linfadenopatia e sialorreia são mais frequentes.",
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3"
+  },
+  {
+   "id": "f07",
+   "frente": "Como se apresenta o abscesso periodontal?",
+   "verso": "Acúmulo localizado de pus na parede da bolsa, com destruição rápida. Sinal mais proeminente: **elevação ovoide da gengiva** ao longo da raiz; também sangramento à sondagem, dor, edema e supuração. O dente geralmente está **vital** (Carranza, 13ª ed., cap. 45, Quadro 45.2, p. 501).",
+   "fonte": "herrera2018",
+   "onde": "seção 1.4"
+  },
+  {
+   "id": "f08",
+   "frente": "Na lesão endo-periodontal, o que decide a conduta?",
+   "verso": "Primeiro, a busca de **dano radicular** (fratura ou trinca, perfuração, reabsorção externa), que define o prognóstico e a decisão de **manter ou extrair**. Sem dano radicular, sondagem completa e **teste de vitalidade**; com polpa necrosada, a endodontia vem primeiro (Carranza, 13ª ed., cap. 46, p. 511; Cohen, 12ª ed., cap. 25, p. 930).",
+   "fonte": "herrera2018",
+   "onde": "seção 3.4 e Tabela 6"
+  },
+  {
+   "id": "f09",
+   "frente": "Bolsa profunda isolada com supuração: o que fazer antes de raspar?",
+   "verso": "**Testar a vitalidade** (e a percussão), depois de procurar fratura ou perfuração na história e no exame. Polpa vital aponta para abscesso periodontal; sem vitalidade, com bolsa até o ápice, para lesão endo-periodontal.",
+   "fonte": "herrera2018",
+   "onde": "seção 3.4"
+  },
+  {
+   "id": "f10",
+   "frente": "Quais lesões deste tópico estão entre as causas não periodontais a descartar antes de fechar o caso de periodontite?",
+   "verso": "**Canal** (lesão endodôntica drenando pela margem periodontal) e **trinca** (fratura vertical de raiz).",
+   "fonte": "tonetti2018",
+   "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)"
+  },
+  {
+   "id": "f11",
+   "frente": "Como a classificação de 2018 divide o abscesso periodontal?",
+   "verso": "Pela causa. **Com periodontite** (bolsa prévia): exacerbação aguda (não tratada, não responsiva, terapia de suporte) ou pós-tratamento (raspagem, cirurgia, antimicrobiano sistêmico, nifedipina). **Sem periodontite**: impacção, hábitos nocivos, fatores ortodônticos, aumento gengival, alterações da superfície radicular.",
+   "fonte": "herrera2018",
+   "onde": "Tabela 2 (seção 1.5)"
+  },
+  {
+   "id": "f12",
+   "frente": "O que é uma lesão endo-periodontal \"com dano radicular\"?",
+   "verso": "A que tem **fratura ou trinca radicular**, **perfuração** do canal ou da câmara pulpar, ou **reabsorção radicular externa**. Esses achados derrubam o prognóstico do dente.",
+   "fonte": "herrera2018",
+   "onde": "Tabela 6 (seção 3.5)"
+  },
+  {
+   "id": "f13",
+   "frente": "Como se gradua a lesão endo-periodontal sem dano radicular?",
+   "verso": "Primeiro: paciente com ou sem periodontite. Depois, **grau 1**, bolsa profunda estreita em 1 face; **grau 2**, bolsa profunda larga em 1 face; **grau 3**, bolsas profundas em mais de 1 face.",
+   "fonte": "herrera2018",
+   "onde": "Tabela 6 (seção 3.5)"
+  },
+  {
+   "id": "f14",
+   "frente": "Na lesão endo-periodontal, o que vem antes do teste de vitalidade?",
+   "verso": "A **fase 1**: história (trauma, instrumentação endodôntica, preparo para pino) e exame clínico e radiográfico atrás de perfuração, fratura, trinca ou reabsorção externa.",
+   "fonte": "herrera2018",
+   "onde": "seção 3.4"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Paciente de 50 anos com dor intensa há 3 dias: papilas necrosadas e sangramento, halitose marcada e perda óssea rápida na radiografia. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Gengivite necrosante.",
+     "correta": false,
+     "justificativa": "A gengivite necrosante fica na gengiva; a perda de inserção e óssea leva à periodontite necrosante.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Estomatite necrosante.",
+     "correta": false,
+     "justificativa": "Não há necrose além da gengiva, com osso desnudo através da mucosa alveolar.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Periodontite necrosante.",
+     "correta": true,
+     "justificativa": "Necrose papilar, sangramento e dor fecham a necrosante; com o osso já perdido, é o segundo degrau da escada.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Abscesso periodontal.",
+     "correta": false,
+     "justificativa": "O abscesso também dói; o que o separa é a forma: acúmulo localizado de pus na parede de uma bolsa, com elevação ovoide da gengiva, sem necrose das papilas.",
+     "fonte": "herrera2018",
+     "onde": "seção 1.4"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Paciente com dor gengival, sangramento e papilas interdentais \"decapitadas\", sem perda óssea na radiografia. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Periodontite necrosante.",
+     "correta": false,
+     "justificativa": "Faltou o osso: o que separa os dois degraus é a perda de inserção e óssea.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Gengivite necrosante.",
+     "correta": true,
+     "justificativa": "Necrose papilar, sangramento e dor juntos fecham a necrosante; sem perda óssea, fica no primeiro degrau.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Gengivite induzida pelo biofilme.",
+     "correta": false,
+     "justificativa": "A gengivite crônica comum é indolor e não tem papilas necróticas.",
+     "fonte": "carranza13",
+     "onde": "cap. 20, Tabela 20.2, p. 270"
+    },
+    {
+     "texto": "Estomatite necrosante.",
+     "correta": false,
+     "justificativa": "A necrose não ultrapassou a gengiva.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Paciente sistêmica e severamente comprometido apresenta necrose que invade a mucosa alveolar, com osso exposto e sequestro. O que esse quadro representa?",
+   "alternativas": [
+    {
+     "texto": "Periodontite necrosante, porque há osso envolvido.",
+     "correta": false,
+     "justificativa": "A periodontite necrosante também destrói osso e, no gravemente imunocomprometido, pode até ter sequestro; o que define a estomatite é a necrose além da gengiva, com osso desnudo através da mucosa alveolar.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Abscesso periodontal com destruição rápida.",
+     "correta": false,
+     "justificativa": "O abscesso é acúmulo localizado de pus na parede da bolsa, não necrose que invade a mucosa alveolar.",
+     "fonte": "herrera2018",
+     "onde": "seção 1"
+    },
+    {
+     "texto": "Lesão endo-periodontal com perfuração.",
+     "correta": false,
+     "justificativa": "A lesão endo-periodontal é comunicação patológica entre polpa e periodonto, não necrose de mucosa alveolar.",
+     "fonte": "herrera2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "Estomatite necrosante, um alarme sistêmico.",
+     "correta": true,
+     "justificativa": "É o terceiro degrau: a necrose vai além da gengiva, típica do paciente gravemente comprometido (HIV/AIDS, desnutrição grave).",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "seção 2.4 e Tabela 3",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Diante de uma bolsa profunda isolada com supuração, que avaliação não pode faltar antes de raspar?",
+   "alternativas": [
+    {
+     "texto": "Raspar e alisar a raiz imediatamente.",
+     "correta": false,
+     "justificativa": "Na sequência diagnóstica, a vitalidade e a percussão são avaliadas antes de qualquer conduta, junto com a busca de fratura ou perfuração.",
+     "fonte": "herrera2018",
+     "onde": "seção 3.4"
+    },
+    {
+     "texto": "Diagnosticar periodontite estágio III pela profundidade.",
+     "correta": false,
+     "justificativa": "Bolsa isolada com supuração pede diagnóstico diferencial; lesão endodôntica drenando pela margem periodontal é uma das causas a descartar antes de fechar periodontite.",
+     "fonte": "tonetti2018",
+     "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)"
+    },
+    {
+     "texto": "Testar a vitalidade antes de raspar.",
+     "correta": true,
+     "justificativa": "O teste separa abscesso periodontal (vitalidade presente) de lesão de origem pulpar (polpa não vital).",
+     "fonte": "carranza13",
+     "onde": "cap. 45, Quadro 45.2, p. 501"
+    },
+    {
+     "texto": "Extrair o dente por suspeita de fratura.",
+     "correta": false,
+     "justificativa": "Suspeita de fratura se investiga na fase 1 (história e exame clínico e radiográfico); extrair só depois de confirmar dano radicular sem prognóstico.",
+     "fonte": "herrera2018",
+     "onde": "seção 3.4"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "seção 3.4",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Em uma lesão endo-periodontal, o teste mostra polpa necrosada. O que vem primeiro?",
+   "alternativas": [
+    {
+     "texto": "A raspagem da bolsa.",
+     "correta": false,
+     "justificativa": "Com doença pulpar, conclui-se a endodontia primeiro e reavalia-se: muitas vezes a bolsa, a supuração e a perda óssea regridem com a lesão pulpar tratada.",
+     "fonte": "carranza13",
+     "onde": "cap. 46, Resumo, p. 511"
+    },
+    {
+     "texto": "O tratamento do canal.",
+     "correta": true,
+     "justificativa": "Nas lesões combinadas, a endodontia geralmente deve ser concluída primeiro.",
+     "fonte": "cohen12",
+     "onde": "cap. 25, Resumo, p. 930"
+    },
+    {
+     "texto": "A cimentação da prótese definitiva.",
+     "correta": false,
+     "justificativa": "O controle da doença ativa vem antes do cuidado restaurador.",
+     "fonte": "carranza13",
+     "onde": "cap. 69, Quadro 69.1, p. 740"
+    },
+    {
+     "texto": "Apenas acompanhamento, porque é autolimitada.",
+     "correta": false,
+     "justificativa": "Lesões agudas do periodonto exigem diagnóstico e tratamento rápidos e podem comprometer o prognóstico do dente.",
+     "fonte": "herrera2018",
+     "onde": "Resumo"
+    }
+   ],
+   "fonte": "carranza13",
+   "onde": "cap. 46, Resumo, p. 511",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Qual afirmação descreve o abscesso periodontal segundo o consenso de 2018?",
+   "alternativas": [
+    {
+     "texto": "Comunicação entre polpa e periodonto, com polpa necrosada.",
+     "correta": false,
+     "justificativa": "Isso descreve a lesão endo-periodontal.",
+     "fonte": "herrera2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "Necrose das papilas com perda óssea rápida.",
+     "correta": false,
+     "justificativa": "Isso é periodontite necrosante.",
+     "fonte": "herrera2018",
+     "onde": "seção 2.4 e Tabela 3"
+    },
+    {
+     "texto": "Doença crônica sem dor, reversível com controle de biofilme.",
+     "correta": false,
+     "justificativa": "Isso lembra a gengivite induzida pelo biofilme, reversível com a redução do biofilme; o abscesso é lesão aguda, com dor.",
+     "fonte": "chapple2018",
+     "onde": "seção \"How do we define gingivitis at a site level\""
+    },
+    {
+     "texto": "Pus na parede da bolsa, dor e edema localizado, com o dente geralmente vital.",
+     "correta": true,
+     "justificativa": "Acúmulo localizado de pus na parede gengival da bolsa, com destruição em pouco tempo; elevação ovoide da gengiva, dor e edema. A vitalidade costuma estar presente (Carranza, 13ª ed., cap. 45, Quadro 45.2, p. 501).",
+     "fonte": "herrera2018",
+     "onde": "seções 1 e 1.4"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "seções 1 e 1.4",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "Qual dos itens NÃO está entre as condições predisponentes das doenças periodontais necrosantes na classificação de 2018?",
+   "alternativas": [
+    {
+     "texto": "Uso de nifedipina.",
+     "correta": true,
+     "justificativa": "A nifedipina não aparece entre os predisponentes das necrosantes; no consenso, ela é causa de abscesso periodontal pós-medicação, em paciente com periodontite.",
+     "fonte": "herrera2018",
+     "onde": "Tabelas 2 e 4"
+    },
+    {
+     "texto": "HIV.",
+     "correta": false,
+     "justificativa": "HIV/AIDS com CD4 < 200 e carga viral detectável é condição dos pacientes gravemente comprometidos.",
+     "fonte": "herrera2018",
+     "onde": "Tabela 4 (seção 2.5)"
+    },
+    {
+     "texto": "Desnutrição.",
+     "correta": false,
+     "justificativa": "Desnutrição grave (em crianças) e nutrição (em adultos) estão entre os predisponentes.",
+     "fonte": "herrera2018",
+     "onde": "Tabela 4 (seção 2.5)"
+    },
+    {
+     "texto": "Estresse.",
+     "correta": false,
+     "justificativa": "Estresse não controlado é predisponente nos pacientes temporária ou moderadamente comprometidos.",
+     "fonte": "herrera2018",
+     "onde": "Tabela 4 (seção 2.5)"
+    }
+   ],
+   "fonte": "herrera2018",
+   "onde": "Tabela 4 (seção 2.5)",
+   "figura": null
+  },
+  {
+   "id": "q08",
+   "enunciado": "Perda de inserção vestibular ≥ 3 mm com bolsa > 3 mm em dois dentes. Antes de fechar o caso de periodontite, quais destas causas precisam ser descartadas?",
+   "alternativas": [
+    {
+     "texto": "Apenas tabagismo e diabetes.",
+     "correta": false,
+     "justificativa": "Tabagismo e diabetes modificam o grau; não são causas não periodontais de perda de inserção.",
+     "fonte": "tonetti2018",
+     "onde": "Tabela 4"
+    },
+    {
+     "texto": "Apenas gengivite generalizada.",
+     "correta": false,
+     "justificativa": "Gengivite fica contida na gengiva, sem atingir a inserção, e não é uma das cinco causas a descartar.",
+     "fonte": "chapple2018",
+     "onde": "seção \"How do we define gingivitis at a site level\""
+    },
+    {
+     "texto": "Lesão endodôntica drenando pela margem periodontal e fratura vertical de raiz, entre outras.",
+     "correta": true,
+     "justificativa": "Canal e trinca estão entre as cinco causas a descartar (com trauma, cárie e siso).",
+     "fonte": "tonetti2018",
+     "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)"
+    },
+    {
+     "texto": "Nenhuma: perda vestibular com bolsa já confirma periodontite.",
+     "correta": false,
+     "justificativa": "A perda só conta como periodontite se não puder ser atribuída a uma causa não periodontal.",
+     "fonte": "tonetti2018",
+     "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)"
+    }
+   ],
+   "fonte": "tonetti2018",
+   "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)",
+   "figura": null
+  }
+ ]
+}

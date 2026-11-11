@@ -1,0 +1,566 @@
+{
+  "slug": "carie-profunda-remocao-seletiva-e-protecao-pulpar",
+  "titulo": "Cárie profunda: proteção do complexo dentinopulpar",
+  "area": "Dentística e reabilitação",
+  "origem": "Cohen 12ª ed. (cap. 24) e Mondelli 2ª ed. (cap. 20)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap24",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 24, Terapia Pulpar Vital (Bogen G, Dammaschke T, Chandler N), p. 880–916.",
+      "curta": "Cohen 12ª ed., cap. 24"
+    },
+    {
+      "id": "mondelli-cap20",
+      "ref": "Mondelli J. Fundamentos de Dentística Operatória. 2ª ed. Cap. 20, Cavidade de Classe II, MOD, e Restauração com Resina Composta (Dente 36), p. 207–218.",
+      "curta": "Mondelli 2ª ed., cap. 20"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "preservar-a-polpa",
+      "titulo": "Por que preservar a polpa e quando é possível",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 880, 884, 902",
+      "texto": "**Terapia pulpar vital** é o conjunto de procedimentos que preserva a saúde da polpa em dentes com lesão pulpar **reversível**. A meta é formar tecido mineralizado e manter vivo o dente, inclusive o permanente imaturo, que ainda precisa terminar a raiz.\n\n**Quando cabe:** o diagnóstico pulpar decide. Polpa normal ou pulpite reversível são o terreno da terapia pulpar vital.\n\n**Quando não cabe (em regra):** pulpite irreversível (dor intensa, irradiante, persistente e/ou prolongada, dor ao calor; pode ser assintomática) leva à pulpectomia e ao tratamento do canal. Em casos selecionados, sobretudo em pacientes jovens, a pulpotomia com cimento de silicato de cálcio (CSC) é apresentada como opção **avançada**, não como conduta padrão.\n\n**Antes de tratar, registre:** sondagem periodontal, mobilidade, teste de frio e radiografias (interproximais e periapicais). Em cárie profunda, uma resposta **curta e persistente** ao frio não indica, por si só, dano irreversível. Em dente imaturo, o gelo de dióxido de carbono é considerado mais confiável que o teste elétrico para o prognóstico.\n\n**O que piora o prognóstico:** traumatismo, restauração prévia e calcificação pulpar. Se o dente vai receber cobertura total, o capítulo recomenda pulpotomia em vez de capeamento.\n\n**Nota de terminologia:** o capítulo propõe trocar reversível/irreversível por pulpite inicial, leve, moderada e grave, para orientar tratamentos com CSC, e ressalva que a avaliação é mais complexa. Aqui no app seguimos com **reversível/irreversível**; a outra é só uma proposta do autor."
+    },
+    {
+      "id": "sem-exposicao",
+      "titulo": "Cárie profunda sem exposição: capeamento indireto",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884–885, 903",
+      "texto": "**Capeamento pulpar indireto:** cobertura permanente de uma camada fina de dentina alterada pela cárie, junto à polpa, **sem remover toda a cárie**. A definição varia entre países. O capítulo usa também um termo mais geral, **tratamento de lesões cariosas profundas**, para a escavação extensa em que se trata a dentina próxima à polpa.\n\n**Indicação:** dente permanente com polpa normal ou pulpite reversível.\n\n**Desinfecção:** hipoclorito de sódio (NaOCl) a 1–5% na coroa e no campo antes do capeamento indireto; clorexidina 2% (digluconato) antes da curetagem.\n\n**Remoção da cárie:** o texto descreve remoção guiada por critério subjetivo, por **corante** detector e pelo **microscópio operatório (DOM)**, com preservação de dentina.\n\n**O que o capítulo lido não cobre:** a comparação entre remoção seletiva e completa e a técnica em etapas (*stepwise*) não aparecem como subseções nas páginas lidas, e a terminologia da dentina cariada também não. Por isso este tema não define esses critérios; a remoção seletiva terá tema próprio (em preparo).\n\n**Dois números citados:** capeamento indireto com CSC teve sucesso de 100% em 12 meses, sem exposição pulpar detectada; num estudo de curetagem da cárie em duas etapas, a polpa se manteve vital em 60% dos casos."
+    },
+    {
+      "id": "com-exposicao",
+      "titulo": "Com exposição: capeamento direto, pulpotomia parcial e completa",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 885–888",
+      "texto": "| Procedimento | O que se faz |\n|---|---|\n| **Capeamento direto** | material colocado diretamente sobre a exposição pulpar (mecânica, traumática ou por cárie), para cicatrização e preservação da polpa |\n| **Pulpotomia parcial** (rasa, de Cvek) | remove uma pequena porção da polpa coronária vital, **2 a 3 mm** do tecido exposto, e mantém o restante |\n| **Pulpotomia completa** | remove **toda a polpa coronária**; é o último recurso para manter a polpa radicular viva quando a hemostasia falha |\n\nA lógica é uma escada: quanto mais tecido inflamado, mais fundo se vai, sempre tentando deixar polpa viva.\n\n**Anomalias anatômicas:** em dentes com *dens evaginatus* e *dens in dente*, a pulpotomia parcial é a opção preferida."
+    },
+    {
+      "id": "sangramento",
+      "titulo": "O sangramento como termômetro",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884, 886–887, 889, 902, 906",
+      "texto": "Depois da exposição, o sangramento dá pistas sobre o estado da polpa. Hemorragia excessiva costuma indicar polpa com pouca ou nenhuma chance de recuperação; sangramento profuso e prolongado tem resultado pior que sangramento modesto ou curto.\n\n**Como fazer a hemostasia:** bolinha de algodão com NaOCl sob pressão moderada (o protocolo do capítulo cita 5 minutos). As concentrações de NaOCl citadas para hemostasia em capeamento e pulpotomia vão de **1,5% a 5,25%**. Em outros trechos aparecem 5% para a hemostasia depois da pulpotomia completa e 3 a 6% no contato com a polpa antes da pulpotomia. Se não há sangramento após a exposição, o tecido necrótico é removido com broca diamantada.\n\n**Leitura:**\n- sangramento controlado em **5 a 10 minutos**: a polpa remanescente tende a responder;\n- hemorragia ainda descontrolada **após 10 minutos**: sugere inflamação irreversível e indica pulpotomia completa ou pulpectomia.\n\n**A ressalva do próprio capítulo:** segundo um estudo com MTA, o tempo de controle da hemorragia **não é um indicador preciso** da inflamação pulpar. Por isso recomenda-se verificar com o microscópio operatório a remoção do tecido necrótico. Use o tempo como guia, não como régua exata."
+    },
+    {
+      "id": "materiais",
+      "titulo": "Materiais: hidróxido de cálcio, MTA e silicatos de cálcio",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 889–892, 894, 897, 904–906",
+      "texto": "O capítulo agrupa os materiais em: suspensões aquosas de hidróxido de cálcio (CH), cimentos de CH que tomam presa, revestimentos fotopolimerizáveis, resinas/adesivos/ionômero modificado por resina, agregado trióxido mineral (MTA) e cimentos de silicato de cálcio (CSC).\n\n**Hidróxido de cálcio no capeamento direto (o problema é o longo prazo):** num estudo com 1.075 dentes (polpa saudável ou pulpite reversível), o sucesso caiu de **80,1% em 1 ano** para **68% em 5 anos** e **58,7% após 9 anos**. Em outro, com 248 dentes, a sobrevivência foi de 76,3% em acompanhamento médio de 6,1 anos, com resultados piores nos dentes com dor espontânea.\n\n**Silicatos de cálcio:** no capeamento de dentes permanentes, sucesso clínico e radiográfico de **83,4% a 100%** em 1 a 7,4 anos; em dentes imaturos com exposição por cárie, 93% em 2 anos; com Biodentine, vitalidade mantida em **86%** de 245 dentes (média de 2,3 anos).\n\n**Por que o CSC ajudaria:** ao hidratar, forma cristais de hidroxiapatita dentro dos túbulos, o que sepultaria bactérias residuais (sepultamento bacteriano e biomineralização).\n\n**Espessura sobre a exposição:** **1,5 a 3 mm** de CSC; 1,5 mm ou mais de MTA/CSC para reduzir a ameaça bacteriana.\n\n**Tempo de presa:** ProRoot MTA até 228 min; Biodentine até 85 min.\n\nAs aplicações detalhadas do CSC no capeamento direto e na pulpotomia (pp. 898–900) não foram lidas."
+    },
+    {
+      "id": "na-cavidade",
+      "titulo": "Na cavidade restauradora: proteção conforme a profundidade",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 211",
+      "texto": "No preparo para resina composta (classe II MOD), o critério para escolher a proteção do complexo dentinopulpar é a **profundidade da cavidade**:\n\n| Profundidade | Proteção |\n|---|---|\n| Rasa ou média | o próprio **adesivo**, que atua como selante |\n| Profunda ou muito profunda, sem exposição | **hidróxido de cálcio** com **sobrebase de cimento de ionômero de vidro** (o livro diz que podem ser indicados) |\n\nO texto trata essa proteção como opção indicável, não como passo obrigatório em toda cavidade profunda.\n\nDepois da proteção segue a hibridização do esmalte e da dentina (condicionamento ácido de 30 s no esmalte e 15 s na dentina, com adesivo de três passos) e a inserção incremental da resina (ver o tema **Resina direta em posteriores**).\n\n**Não confunda com o capeamento direto.** Aqui o hidróxido de cálcio é forramento de cavidade profunda **sem exposição**, coberto por sobrebase de ionômero de vidro. A queda de sucesso no longo prazo citada pelo Cohen (seção de materiais) é do hidróxido de cálcio usado como **capeamento direto sobre polpa exposta**. São usos diferentes."
+    },
+    {
+      "id": "restaurar-acompanhar",
+      "titulo": "Restaurar e acompanhar",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884, 905–907",
+      "texto": "**Restauração:** toda terapia pulpar vital exige restauração coronária **resistente a bactérias** e isolamento com **lençol de borracha**.\n\n**Respeite a presa antes de restaurar:** restauração definitiva só após pelo menos **15 minutos** com Biodentine ou **2,5 horas** com ProRoot MTA.\n\n**Acompanhamento:**\n- teste de frio em **7 a 10 dias**;\n- radiografia só se o teste for negativo ou se houver dor no primeiro ano;\n- no retorno de **3 meses** já cabe um diagnóstico especulativo da sobrevivência do dente;\n- o prognóstico de longo prazo da polpa se estabelece após **21 a 24 meses** de observação;\n- em dente imaturo, o fechamento apical na radiografia é marcador de prognóstico confiável.\n\nO acompanhamento lido traz intervalos e critérios clínicos e radiográficos, não taxas de sucesso próprias."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/carie-profunda-isolamento.jpg",
+      "alt": "Foto clínica de um molar com lesão de cárie profunda, sob isolamento absoluto com lençol de borracha azul.",
+      "legenda": "Lesão de cárie profunda em molar, sob isolamento absoluto.",
+      "credito": "Imagem: acervo do Prof. Pedro Minim.",
+      "apos": "preservar-a-polpa",
+      "largura": 600,
+      "altura": 400
+    },
+    {
+      "src": "data/14733/img/capeamento-indireto-x-remocao-total.jpg",
+      "alt": "Dois molares em corte: à esquerda, restauração sobre uma camada fina de dentina alterada junto à polpa; à direita, cavidade mais funda com um ponto de exposição pulpar.",
+      "legenda": "À esquerda, a ideia do capeamento indireto: uma camada fina de dentina alterada pela cárie fica junto à polpa, sob a restauração. À direita, a remoção de toda a cárie termina em exposição pulpar.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "sem-exposicao",
+      "largura": 1400,
+      "altura": 940
+    },
+    {
+      "src": "data/14733/img/capeamento-direto.jpg",
+      "alt": "Molar em corte com uma pequena exposição pulpar coberta por material capeador, sob a restauração.",
+      "legenda": "Capeamento direto: o material é colocado diretamente sobre a exposição pulpar, sob a restauração.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "com-exposicao",
+      "largura": 1400,
+      "altura": 1400
+    },
+    {
+      "src": "data/14733/img/pulpotomia-parcial-e-completa.jpg",
+      "alt": "Dois cortes do mesmo molar inferior restaurado: à esquerda, só a ponta da polpa sob a antiga exposição foi trocada por cimento branco e o resto da polpa está rosado; à direita, a câmara pulpar inteira está cheia de cimento branco e só a polpa dos canais continua rosada.",
+      "legenda": "Ilustração. A escada da exposição pulpar, depois do capeamento direto: pulpotomia parcial (esq.), que remove 2 a 3 mm do tecido exposto e mantém o restante; pulpotomia completa (dir.), que remove toda a polpa coronária para manter viva a polpa radicular quando a hemostasia falha. Quanto mais tecido inflamado, mais fundo se vai. (Cohen 12ª ed., cap. 24)",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "com-exposicao",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14733/img/capeamento-indireto-sequencia.jpg",
+      "alt": "Seis fotos clínicas de um molar inferior sob isolamento absoluto, da cavidade com cárie até a restauração de resina terminada.",
+      "legenda": "Capeamento pulpar indireto em molar inferior, passo a passo: (A) isolamento absoluto; (B) cárie escavada; (C) material capeador no fundo da cavidade; (D) base de cimento de ionômero de vidro; (E) restauração de resina composta; (F) depois do acabamento e polimento.",
+      "credito": "Fotos: Mahapatra et al., Cureus, 2022 (Figura 2). CC BY 3.0.",
+      "apos": "na-cavidade",
+      "largura": 750,
+      "altura": 1250
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "O que é capeamento pulpar indireto?",
+      "verso": "Cobertura permanente de uma camada fina de dentina alterada pela cárie junto à polpa, **sem remoção completa da cárie**.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 885"
+    },
+    {
+      "id": "f02",
+      "frente": "Em que diagnóstico pulpar o capeamento indireto está indicado?",
+      "verso": "Dente permanente com **polpa normal** ou **pulpite reversível**.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884–885"
+    },
+    {
+      "id": "f03",
+      "frente": "O que é capeamento pulpar direto?",
+      "verso": "Material colocado **diretamente sobre a exposição pulpar** (mecânica, traumática ou por cárie) para cicatrização e preservação da polpa.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 885"
+    },
+    {
+      "id": "f04",
+      "frente": "Quanto tecido a pulpotomia parcial (de Cvek) remove?",
+      "verso": "**2 a 3 mm** do tecido pulpar exposto, mantendo o restante da polpa.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 886–887"
+    },
+    {
+      "id": "f05",
+      "frente": "Quando a pulpotomia completa entra em cena?",
+      "verso": "Como **último recurso**, quando a hemostasia falha: remove toda a polpa coronária para manter viva a polpa radicular.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 886–888"
+    },
+    {
+      "id": "f06",
+      "frente": "Em quais anomalias anatômicas a pulpotomia parcial é a opção preferida?",
+      "verso": "*Dens evaginatus* e *dens in dente*.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 887"
+    },
+    {
+      "id": "f07",
+      "frente": "Com o que se desinfeta antes do capeamento indireto?",
+      "verso": "NaOCl **1–5%** na coroa e no campo; clorexidina **2%** antes da curetagem.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 885"
+    },
+    {
+      "id": "f08",
+      "frente": "Em quanto tempo o sangramento da exposição deve ceder com NaOCl?",
+      "verso": "Em **5 a 10 minutos**; o próprio capítulo ressalva que esse tempo não é indicador preciso da inflamação.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 886–887"
+    },
+    {
+      "id": "f09",
+      "frente": "Hemorragia que não cede após 10 minutos indica o quê?",
+      "verso": "Inflamação irreversível: **pulpotomia completa ou pulpectomia**.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 906; 886–887"
+    },
+    {
+      "id": "f10",
+      "frente": "O que acontece com o capeamento direto com hidróxido de cálcio no longo prazo?",
+      "verso": "Sucesso cai: **80,1% (1 ano) → 68% (5 anos) → 58,7% (9 anos)**, num estudo com 1.075 dentes.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 890"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual espessura de silicato de cálcio sobre a exposição?",
+      "verso": "**1,5 a 3 mm** (1,5 mm ou mais para reduzir a ameaça bacteriana).",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 904, 906"
+    },
+    {
+      "id": "f12",
+      "frente": "Quanto esperar para a restauração definitiva sobre Biodentine e sobre ProRoot MTA?",
+      "verso": "Biodentine: pelo menos **15 min**. ProRoot MTA: pelo menos **2,5 h**.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 905"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o Mondelli, qual a proteção numa cavidade profunda sem exposição?",
+      "verso": "**Hidróxido de cálcio** com **sobrebase de ionômero de vidro**, que o livro diz poderem ser indicados. Rasa ou média: o adesivo como selante.",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 211"
+    },
+    {
+      "id": "f14",
+      "frente": "Quando fazer o primeiro teste de frio após a terapia pulpar vital, e quando radiografar?",
+      "verso": "Frio em **7 a 10 dias**; radiografia só se o teste for negativo ou houver dor no primeiro ano.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 906"
+    },
+    {
+      "id": "f15",
+      "frente": "Depois de quanto tempo se estabelece o prognóstico de longo prazo da polpa?",
+      "verso": "Após **21 a 24 meses** de observação.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 907"
+    },
+    {
+      "id": "f16",
+      "frente": "Resposta curta e persistente ao frio em cárie profunda indica pulpite irreversível?",
+      "verso": "**Não por si só.** Não indica, isoladamente, dano irreversível.",
+      "fonte": "cohen12-cap24",
+      "onde": "p. 902"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Molar inferior com cárie profunda. Durante a remoção ocorre exposição pulpar; após a hemostasia, o dentista remove cerca de 2 a 3 mm do tecido pulpar exposto e mantém o restante da polpa coronária. Que procedimento foi feito?",
+      "alternativas": [
+        {
+          "texto": "Capeamento pulpar indireto.",
+          "correta": false,
+          "justificativa": "No indireto não há exposição: cobre-se uma camada fina de dentina cariada junto à polpa, sem remover polpa.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        },
+        {
+          "texto": "Capeamento pulpar direto.",
+          "correta": false,
+          "justificativa": "No direto o material vai sobre a exposição sem remover tecido pulpar; aqui foram removidos 2 a 3 mm.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        },
+        {
+          "texto": "Pulpotomia parcial.",
+          "correta": true,
+          "justificativa": "Pulpotomia parcial (de Cvek) é a remoção de pequena porção da polpa coronária vital, 2 a 3 mm do tecido exposto, mantendo o restante.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 886–887"
+        },
+        {
+          "texto": "Pulpotomia completa.",
+          "correta": false,
+          "justificativa": "A completa remove toda a polpa coronária; aqui a maior parte dela foi mantida.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 886–888"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 885–888",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente com cárie profunda num pré-molar, sem exposição pulpar. Para indicar capeamento pulpar indireto, qual deve ser o diagnóstico pulpar?",
+      "alternativas": [
+        {
+          "texto": "Polpa normal ou pulpite reversível.",
+          "correta": true,
+          "justificativa": "É a indicação do capeamento indireto no capítulo: dente permanente com polpa normal ou pulpite reversível.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        },
+        {
+          "texto": "Pulpite irreversível sintomática.",
+          "correta": false,
+          "justificativa": "Pulpite irreversível leva à pulpectomia; a pulpotomia com CSC só aparece como opção avançada em casos selecionados, não o capeamento indireto.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 884"
+        },
+        {
+          "texto": "Necrose pulpar.",
+          "correta": false,
+          "justificativa": "Terapia pulpar vital pressupõe polpa viva com lesão reversível; necrose está fora da indicação.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 880, 884"
+        },
+        {
+          "texto": "Qualquer diagnóstico, desde que não haja exposição.",
+          "correta": false,
+          "justificativa": "A ausência de exposição não basta: o diagnóstico pulpar precisa ser polpa normal ou pulpite reversível.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884–885",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Após exposição pulpar por cárie, o dentista aplica bolinha de algodão com NaOCl sob pressão moderada. Passados 10 minutos, a hemorragia continua descontrolada. Qual a conduta indicada pelo capítulo?",
+      "alternativas": [
+        {
+          "texto": "Capeamento direto com hidróxido de cálcio sobre o sangramento.",
+          "correta": false,
+          "justificativa": "Hemorragia que não cede sugere inflamação irreversível; capear sobre ela não é a conduta indicada.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906; 886–887"
+        },
+        {
+          "texto": "Pulpotomia completa ou pulpectomia.",
+          "correta": true,
+          "justificativa": "Hemorragia descontrolada após 10 minutos sugere inflamação irreversível e indica pulpotomia completa ou pulpectomia.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906; 886–887"
+        },
+        {
+          "texto": "Capeamento indireto e restauração provisória.",
+          "correta": false,
+          "justificativa": "Já há exposição; o capeamento indireto é para cárie profunda sem exposição.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        },
+        {
+          "texto": "Manter a pressão com NaOCl até parar, sem mudar o plano.",
+          "correta": false,
+          "justificativa": "O sangramento persistente é o sinal para aprofundar o tratamento, não para insistir no mesmo plano.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 906; 886–887",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Sobre o tempo de controle do sangramento após exposição pulpar, qual afirmação está de acordo com o capítulo?",
+      "alternativas": [
+        {
+          "texto": "É um indicador preciso da inflamação pulpar e dispensa outras verificações.",
+          "correta": false,
+          "justificativa": "O capítulo cita estudo com MTA mostrando que o tempo de controle não é indicador preciso.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 886–887"
+        },
+        {
+          "texto": "É um guia útil (5 a 10 minutos), mas não preciso; recomenda-se verificar com microscópio a remoção do tecido necrótico.",
+          "correta": true,
+          "justificativa": "Sangramento controlado em 5 a 10 minutos sugere polpa que responde, mas o próprio capítulo ressalva a imprecisão e recomenda verificação com DOM.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 886–887"
+        },
+        {
+          "texto": "Sangramento profuso e prolongado tem o mesmo prognóstico que sangramento modesto.",
+          "correta": false,
+          "justificativa": "O capítulo diz o contrário: profuso e prolongado tem resultado pior que modesto ou curto.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 884"
+        },
+        {
+          "texto": "O sangramento não tem relação com o estado da polpa.",
+          "correta": false,
+          "justificativa": "Hemorragia excessiva costuma indicar polpa com pouca ou nenhuma chance de recuperação; há relação, ainda que imprecisa.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 884"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 884, 886–887",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Num estudo citado pelo capítulo com 1.075 dentes (polpa saudável ou pulpite reversível), o que aconteceu com o capeamento direto com hidróxido de cálcio ao longo do tempo?",
+      "alternativas": [
+        {
+          "texto": "O sucesso se manteve estável, perto de 80%, por 9 anos.",
+          "correta": false,
+          "justificativa": "Não se manteve: caiu de 80,1% para 58,7%.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 890"
+        },
+        {
+          "texto": "O sucesso caiu de 80,1% em 1 ano para 68% em 5 anos e 58,7% após 9 anos.",
+          "correta": true,
+          "justificativa": "São os números do estudo citado na p. 890: queda progressiva no longo prazo.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 890"
+        },
+        {
+          "texto": "O sucesso subiu com o tempo pela formação de ponte de dentina.",
+          "correta": false,
+          "justificativa": "Os dados mostram queda, não aumento.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 890"
+        },
+        {
+          "texto": "O sucesso foi de 100% em 12 meses.",
+          "correta": false,
+          "justificativa": "100% em 12 meses é o dado do capeamento indireto com CSC, não do direto com CH.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 885"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 890",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Capeamento direto feito com silicato de cálcio. Quanto tempo esperar, no mínimo, antes da restauração definitiva?",
+      "alternativas": [
+        {
+          "texto": "Biodentine: imediatamente; ProRoot MTA: 15 minutos.",
+          "correta": false,
+          "justificativa": "Ambos exigem presa mínima antes da restauração; os tempos estão trocados e subestimados.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 905"
+        },
+        {
+          "texto": "Biodentine: pelo menos 15 minutos; ProRoot MTA: pelo menos 2,5 horas.",
+          "correta": true,
+          "justificativa": "São os tempos mínimos do capítulo (p. 905), coerentes com presa de até 85 min (Biodentine) e até 228 min (ProRoot MTA).",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 905"
+        },
+        {
+          "texto": "Biodentine: 2,5 horas; ProRoot MTA: 15 minutos.",
+          "correta": false,
+          "justificativa": "Inverteu os materiais: o ProRoot MTA é o de presa mais lenta.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 905"
+        },
+        {
+          "texto": "Ambos: 7 a 10 dias.",
+          "correta": false,
+          "justificativa": "7 a 10 dias é o prazo do primeiro teste de frio no acompanhamento, não da espera para restaurar.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 905",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Preparo classe II MOD para resina composta. Após a remoção da cárie, a cavidade ficou profunda, sem exposição pulpar. Segundo o Mondelli, qual a proteção do complexo dentinopulpar?",
+      "alternativas": [
+        {
+          "texto": "Somente o sistema adesivo.",
+          "correta": false,
+          "justificativa": "O adesivo como selante é a proteção das cavidades rasas e médias.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 211"
+        },
+        {
+          "texto": "Hidróxido de cálcio com sobrebase de ionômero de vidro.",
+          "correta": true,
+          "justificativa": "É o que o capítulo apresenta como indicável para cavidade profunda sem exposição (p. 211).",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 211"
+        },
+        {
+          "texto": "Pulpotomia parcial preventiva.",
+          "correta": false,
+          "justificativa": "Não há exposição; pulpotomia é procedimento sobre polpa exposta.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 886–887"
+        },
+        {
+          "texto": "Nenhuma proteção; a resina composta veda a cavidade.",
+          "correta": false,
+          "justificativa": "O capítulo indica proteção conforme a profundidade; na profunda, CH com sobrebase de ionômero.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 211"
+        }
+      ],
+      "fonte": "mondelli-cap20",
+      "onde": "p. 211",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Você acabou de fazer um capeamento direto com MTA e restaurou o dente. Como deve ser o acompanhamento segundo o capítulo?",
+      "alternativas": [
+        {
+          "texto": "Radiografia periapical em toda consulta, a partir da primeira semana.",
+          "correta": false,
+          "justificativa": "O capítulo indica radiografia só se o teste de frio for negativo ou houver dor no primeiro ano.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906"
+        },
+        {
+          "texto": "Teste de frio em 7 a 10 dias; radiografia só se o teste for negativo ou houver dor; prognóstico de longo prazo após 21 a 24 meses.",
+          "correta": true,
+          "justificativa": "Resume o protocolo de acompanhamento das pp. 906–907.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906–907"
+        },
+        {
+          "texto": "Nenhum controle é necessário se o paciente não tiver dor.",
+          "correta": false,
+          "justificativa": "Há controle com teste de frio em 7 a 10 dias e observação até 21 a 24 meses.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 906–907"
+        },
+        {
+          "texto": "Prognóstico definitivo já no retorno de 3 meses.",
+          "correta": false,
+          "justificativa": "Aos 3 meses o diagnóstico de sobrevivência é só especulativo; o de longo prazo vem após 21 a 24 meses.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 907"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 906–907",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com cárie profunda num molar relata resposta curta e persistente ao teste de frio, sem outros sinais. O que o capítulo diz sobre esse achado?",
+      "alternativas": [
+        {
+          "texto": "Confirma pulpite irreversível e indica pulpectomia.",
+          "correta": false,
+          "justificativa": "O capítulo diz que essa resposta, por si só, não indica dano irreversível.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 902"
+        },
+        {
+          "texto": "Não indica, por si só, dano irreversível.",
+          "correta": true,
+          "justificativa": "É a afirmação da p. 902: a resposta curta e persistente ao frio em cárie profunda não basta para diagnosticar dano irreversível.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 902"
+        },
+        {
+          "texto": "Indica necrose pulpar.",
+          "correta": false,
+          "justificativa": "Resposta ao frio indica polpa que responde; não é sinal de necrose.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 884"
+        },
+        {
+          "texto": "Contraindica qualquer terapia pulpar vital.",
+          "correta": false,
+          "justificativa": "Sem outros sinais, o achado não exclui a terapia pulpar vital.",
+          "fonte": "cohen12-cap24",
+          "onde": "p. 902"
+        }
+      ],
+      "fonte": "cohen12-cap24",
+      "onde": "p. 902",
+      "figura": null
+    }
+  ]
+}

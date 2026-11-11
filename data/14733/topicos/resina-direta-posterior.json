@@ -1,0 +1,528 @@
+{
+  "slug": "resina-direta-posterior",
+  "titulo": "Restauração direta em resina composta em posteriores",
+  "area": "Dentística e reabilitação",
+  "origem": "Mondelli 2ª ed. (cap. 20) e Baratieri (caps. 5, 17–18)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "baratieri-cap5",
+      "ref": "Baratieri LN. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. Santos (edição não informada na plataforma). Cap. 5, Adesão aos tecidos dentais, p. 97–112.",
+      "curta": "Baratieri, cap. 5"
+    },
+    {
+      "id": "baratieri-cap17-18",
+      "ref": "Baratieri LN. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. Santos (edição não informada na plataforma). Cap. 17, Preparo e restauração Classe I com compósitos, p. 361–384; cap. 18, Preparo e restauração Classe II com compósitos, p. 385–426.",
+      "curta": "Baratieri, caps. 17–18"
+    },
+    {
+      "id": "mondelli-cap20",
+      "ref": "Mondelli J. Fundamentos de Dentística Operatória. 2ª ed. Cap. 20, Cavidade de Classe II, MOD, e Restauração com Resina Composta (Dente 36), p. 207–218.",
+      "curta": "Mondelli 2ª ed., cap. 20"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "preparo-conservador",
+      "titulo": "Preparo conservador e a crista marginal",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 362, 364, 385–386, 389",
+      "texto": "**Princípio:** preservar o máximo de estrutura sadia, desde que a resistência da restauração ou do remanescente não fique comprometida.\n\n**A crista marginal manda no acesso.** Ela é referência anatômica para o reforço estrutural e para os contatos oclusais e proximais, e é o principal critério para escolher a forma de acesso à lesão proximal.\n\n**Slot horizontal:** técnica de escolha quando a cavidade está logo abaixo do contato proximal. Lesões Classe II pequenas ou médias, só na proximal, podem ser preparadas sem envolver a crista marginal. O slot é mais difícil que o acesso oclusal (a instrumentação fica colada ao dente vizinho), mas conservar estrutura vem antes da facilidade de execução.\n\n**Na Classe I**, o preparo é feito com brocas esféricas lisas em baixa rotação (instrumentos manuais também servem). Antes da adesão: seleção de cor, registro dos contatos oclusais e **isolamento absoluto**.\n\nOs capítulos lidos não trazem uma lista formal de indicações e contraindicações da resina em posteriores."
+    },
+    {
+      "id": "preparo-mod",
+      "titulo": "Preparo Classe II MOD: as medidas do Mondelli",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 207–208, 211",
+      "texto": "**Forma de contorno oclusal:** desenhada com lapiseira envolvendo cicatrículas e fissuras, com abertura vestibulolingual estreita, de **1/4 a 1/3 da distância entre os vértices das cúspides** no istmo (p. 207). A penetração inicial vai cerca de **0,5 mm além da junção amelodentinária**.\n\n**Caixa proximal:** a extensão é ditada pela lesão de cárie ou pela restauração deficiente; o contorno externo fica em **sino, gota ou ovoide**. Define-se com canais de penetração a partir da junção da parede pulpar com a crista marginal remanescente. Durante o preparo, o dente vizinho fica protegido por **matriz metálica**.\n\n**Margens:** na proximal, em esmalte acessível, chanfro de cerca de **0,25 mm** de largura; a margem gengival é alisada com recortador de margem gengival (26 e 27), sem desgaste além do necessário. No ângulo cavossuperficial oclusal, bisel só opcional, para remover prismas frágeis.\n\n| | Caixa oclusal | Caixa proximal |\n|---|---|---|\n| Paredes V e L | convergentes para oclusal | convergentes para oclusal; levemente divergentes entre si no sentido axioproximal |\n| Fundo | parede pulpar paralela ao plano intercuspídeo nos pré-molares inferiores, perpendicular ao longo eixo nos demais | parede gengival lisa e uniforme; parede axial plana, levemente expulsiva |\n| Ângulos internos | arredondados | arredondados, inclusive o axiopulpar |\n\n**Substituição de amálgama deficiente:** canaleta mesiodistal com broca carbide até a crista marginal, com o vizinho protegido por matriz e cunha."
+    },
+    {
+      "id": "isolamento-contaminacao",
+      "titulo": "Por que a contaminação derruba a adesão",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 100–102",
+      "texto": "**Adesão começa com contato íntimo.** O adesivo precisa molhar o substrato: quanto menor o ângulo de contato da gota, melhor o molhamento e maior o potencial de adesão.\n\n**Energia de superfície:** superfícies de alta energia são mais molháveis e favoráveis à adesão. Substrato favorável é limpo, de alta energia e baixo ângulo de contato; o desfavorável é contaminado, de baixa energia e alto ângulo.\n\n**Contaminantes** (saliva, sangue, umidade) impedem o contato direto do adesivo com o dente e reduzem o molhamento. Por isso o isolamento do campo é o primeiro passo da adesão clínica."
+    },
+    {
+      "id": "condicionamento",
+      "titulo": "Condicionamento ácido e dentina úmida",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102, 104–105",
+      "texto": "**O ácido:** fosfórico de **30% a 40%**, estendido cerca de **2 mm além das margens** da cavidade.\n\n**Tempos (Baratieri, cap. 5):** esmalte **15 a 30 s**; dentina **cerca de 15 s**. Em cavidade mista, começa-se pelo esmalte e só se passa à dentina quando o esmalte já está coberto de ácido. Lavagem de **15 a 30 s** com spray ar/água.\n\n> **As fontes divergem nos tempos.** O cap. 17 do próprio Baratieri usa **15 s** (1 a 2 mm além das margens; p. 364), sem separar esmalte de dentina; o Mondelli (cap. 20), com adesivo de três passos, usa **30 s no esmalte e 15 s na dentina** (p. 211). O ponto comum é dentina por cerca de 15 s e esmalte entre 15 e 30 s. Confira o protocolo adotado na clínica.\n\n**O que o ácido faz:** no esmalte remove a película adquirida, aumenta molhamento e energia e cria microrretenções. O aspecto branco-opaco indica condicionamento, mas sua ausência não significa falha. Na dentina remove a lama dentinária, dissolve mineral, expõe as fibras colágenas e amplia a embocadura dos túbulos (a dentina condicionada tem baixa energia de superfície).\n\n**Dentina úmida, não seca.** Sobre a dentina condicionada, o jato de ar é **totalmente contraindicado**: provoca alterações que comprometem a efetividade da adesão (p. 102). Mantida úmida, a dentina conserva as fibras colágenas expostas expandidas (p. 105). Excesso de umidade: no esmalte, remova com jato de ar; na dentina, com bolinha de algodão."
+    },
+    {
+      "id": "sistemas-adesivos",
+      "titulo": "Primer, adesivo e os quatro sistemas",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 106, 108, 111",
+      "texto": "**Primer:** monômeros bifuncionais, com uma ponta hidrófila (afinidade pela água) e outra hidrófoba (afinidade pelos monômeros do adesivo); faz a ponte entre a dentina úmida e o adesivo. Aplica-se em toda a dentina, aguarda-se **cerca de 30 s** e evaporam-se os solventes com jatos de ar suaves. Em **esmalte isolado o primer é desnecessário**; em cavidade mista pode tocar o esmalte condicionado sem prejuízo.\n\n**Adesivo:** com pincel descartável, cobrindo toda a superfície e além dos limites da cavidade; acúmulos nos ângulos internos saem com pincel seco antes do jato de ar.\n\n**Camada híbrida:** zona de interdifusão entre os polímeros do adesivo e a dentina, da dentina não afetada pelo ácido até a superfície das fibras colágenas expostas. **Tags de resina** são os prolongamentos do adesivo dentro dos túbulos.\n\n| Sistema | Como é | Lama dentinária |\n|---|---|---|\n| **Multicomponente (3 passos)** | ácido, primer e adesivo separados; padrão-ouro em avaliações clínicas e laboratoriais | removida |\n| **Monocomponente (2 passos)** | primer + adesivo no mesmo frasco; exige ácido fosfórico 30–40% antes; em geral várias camadas | removida |\n| **Autocondicionante de 2 passos** | primer ácido de pH baixo, não lavado, + adesivo | incorporada à camada híbrida |\n| **Autocondicionante de passo único** | ácido, primer e adesivo juntos (frasco único ou dois misturados na hora) | incorporada |\n\nO capítulo relata desempenho inferior dos autocondicionantes no **esmalte**, de alto conteúdo inorgânico. Sem dentina exposta (ex.: fechamento de diastema), o sistema de três passos pode dispensar o primer: após o condicionamento, seca-se a superfície com jatos de ar e aplica-se o adesivo em camada não espessa. Escolha o material por estudos sérios e independentes, não por promessa de fabricante.\n\nO capítulo lido não trata de sistemas universais nem do condicionamento seletivo do esmalte."
+    },
+    {
+      "id": "protocolo-mondelli",
+      "titulo": "Hibridização e fotoativação (Mondelli)",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 211–212, 214, 216",
+      "texto": "**Proteção do complexo dentinopulpar:** no Mondelli, a profundidade da cavidade decide a proteção (adesivo como selante na rasa ou média; forramento na profunda sem exposição). O critério completo, com a proteção pulpar na cárie profunda, está no tema **Cárie profunda: proteção do complexo dentinopulpar**.\n\n**Hibridização com adesivo convencional de três passos:** dente vizinho protegido com matriz metálica; ácido por **30 s no esmalte e 15 s na dentina**; lavagem; primer; adesivo; fotoativação.\n\n**Fotoativação:** o capítulo indica o **tempo recomendado pelo fabricante** (p. 214 e 216), com a ponta do aparelho o mais próxima possível da superfície, sem tocá-la. O Mondelli não dá valor em segundos. Os cerca de 5 s citados na nota sobre a variação do Baratieri (seção de inserção) vêm do cap. 17, p. 367, e são só a fotoativação de estabilização de cada incremento de dentina, não a fotoativação final."
+    },
+    {
+      "id": "matriz-cunha-anel",
+      "titulo": "Matriz, cunha e anel: o contato proximal",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 389, 400, 402",
+      "texto": "**Matriz metálica parcial biconvexa:** segue os contornos anatômicos proximais; existe em tamanhos para molares e pré-molares.\n\n**Cunha de madeira:** estabiliza a matriz e a pressiona contra o dente, protegendo o vizinho e garantindo o contorno proximal.\n\n- cunha **pequena demais** não pressiona a matriz e deixa a resina extravasar além da margem gengival;\n- cunha **grande demais** deforma a matriz.\n\n**Cunha elástica:** deforma-se para caber no espaço e recupera a forma depois de inserida; é levada com pinça porta-grampos. A altura varia com a cor: **azul > amarelo > verde**.\n\n**Anel metálico:** pressiona entre o dente restaurado e o vizinho, melhorando a adaptação da matriz e o contato proximal.\n\n**Conferência:** montado o conjunto matriz/cunha/anel, confirme a adaptação em todas as margens para reduzir excessos marginais.\n\nNo Mondelli (p. 207), a matriz é de aço de 5,0 mm, estabilizada com porta-matriz ou cunha de madeira.\n\nMatrizes seccionais e pré-cunhagem não são nomeadas nas páginas lidas."
+    },
+    {
+      "id": "insercao-mondelli",
+      "titulo": "Inserção incremental: das muralhas aos lóbulos (técnica adotada, Mondelli)",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 207, 212–216",
+      "texto": "**Esta é a técnica de inserção adotada neste tema.**\n\n**Matriz unilateral com cunha** e anel metálico (McKean) em posição. A lista de materiais traz matriz de aço de 5,0 mm, estabilizada com porta-matriz ou cunha de madeira (p. 207).\n\n1. **Muralha proximal:** a primeira porção, em **resina de esmalte**, entra em diagonal na caixa proximal e é fotoativada conforme o fabricante (p. 214).\n2. **Ponto de contato:** uma segunda porção de resina de esmalte completa a altura da crista marginal.\n3. **Lóbulos de dentina:** uma porção de resina de dentina por cúspide, até o sulco central, cada uma **fotoativada antes da próxima**, pelo tempo que o fabricante indica (p. 216).\n4. **Esmalte oclusal:** resina para simular o esmalte por cima.\n\n**Acabamento e polimento (p. 216):** brocas multilaminadas e pontas diamantadas finas; borrachas grossa, média e fina, depois disco de feltro com pasta (fig. 20.6).\n\nO capítulo não cita fator C, contração de polimerização nem espessura máxima do incremento; diz apenas que a inserção é incremental.\n\n> **Nota: o Baratieri descreve variação** (cap. 17, p. 367; cap. 18, p. 393). Para controlar o **fator C**, cada incremento adere a uma área mínima, sem tocar outro incremento; cada incremento de dentina recebe só cerca de **5 s** de fotoativação de estabilização, a fotoativação completa vem ao terminar a dentina, e a final, depois que a forma da restauração está correta. É uma variação; a sequência a seguir é a do Mondelli, acima."
+    },
+    {
+      "id": "estratificacao",
+      "titulo": "Os dois compósitos e o adesivo (Baratieri)",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 362, 364, 368",
+      "texto": "**Dois compósitos no mínimo:** dentina em compósito **mais saturado e menos translúcido**; esmalte em compósito **mais translúcido e menos saturado**. Micro-híbridos ou nanoparticulados, pelas propriedades mecânicas. A camada de esmalte artificial fica levemente mais fina que a do esmalte natural. É a mesma divisão entre resina de dentina e resina de esmalte usada na técnica do Mondelli.\n\n**Adesivo (cap. 17, p. 364):** ao menos **duas camadas**, solventes volatilizados com jato de ar e espessura uniformizada com pincel descartável.\n\nA forma de inserir e fotoativar os incrementos descrita pelo Baratieri está na nota ao fim da seção de inserção, como variação da técnica adotada (Mondelli)."
+    },
+    {
+      "id": "conferencia-acabamento",
+      "titulo": "Conferência e acabamento",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 362, 370",
+      "texto": "**Contatos oclusais:** checados depois da inserção (o registro oclusal foi feito antes do isolamento).\n\n**Ajuste:** pontas diamantadas de granulação fina e extrafina, **só se houver discrepância** oclusal.\n\n**Polimento:** borrachas em sequência, em ordem **decrescente de abrasividade**.\n\nFalhas, sensibilidade pós-operatória e longevidade das restaurações não estão nos capítulos lidos."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/dentina-condicionada-e-adesivo.jpg",
+      "alt": "Quatro blocos de dentina em sequência: coberta por lama dentinária; com fibras colágenas expostas e túbulos abertos; com adesivo infiltrado nas fibras e nos túbulos; com resina composta por cima.",
+      "legenda": "Da esquerda para a direita: dentina coberta pela lama dentinária; depois do ácido, fibras colágenas expostas e túbulos com a embocadura ampliada; adesivo infiltrado; resina composta sobre o conjunto.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "condicionamento",
+      "largura": 1400,
+      "altura": 782
+    },
+    {
+      "src": "data/14733/img/matriz-e-cunha.jpg",
+      "alt": "Duas fotos em manequim: matriz metálica seccional entre dois dentes posteriores, presa por uma cunha de madeira.",
+      "legenda": "Matriz metálica parcial estabilizada por cunha de madeira, em manequim. A cunha pressiona a matriz contra o dente; nas duas fotos muda o lado por onde ela entra. O anel não aparece aqui.",
+      "credito": "Fotos: Bailey, British Dental Journal, 2021 (Figura 5, painéis b e c, recortados). CC BY 4.0.",
+      "apos": "matriz-cunha-anel",
+      "largura": 1188,
+      "altura": 486
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual a concentração do ácido fosfórico e quanto ele se estende além da margem (Baratieri, cap. 5)?",
+      "verso": "**30% a 40%**, cerca de **2 mm** além das margens da cavidade.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102"
+    },
+    {
+      "id": "f02",
+      "frente": "Tempos de condicionamento segundo o Baratieri (cap. 5)?",
+      "verso": "Esmalte **15 a 30 s**; dentina **cerca de 15 s**. O Mondelli (cap. 20, p. 211) usa 30 s no esmalte e 15 s na dentina.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102"
+    },
+    {
+      "id": "f03",
+      "frente": "O que acontece se você secar com jato de ar a dentina condicionada?",
+      "verso": "Provoca **alterações que comprometem a efetividade da adesão**; por isso o Baratieri considera o jato de ar totalmente contraindicado na dentina condicionada. Excesso de água na dentina sai com bolinha de algodão.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102"
+    },
+    {
+      "id": "f04",
+      "frente": "Sistema multicomponente (três passos): como é?",
+      "verso": "Ácido, primer e adesivo em frascos separados. Considerado **padrão-ouro** em avaliações clínicas e laboratoriais.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 108"
+    },
+    {
+      "id": "f05",
+      "frente": "Sistema monocomponente (dois passos): o que tem no frasco e o que exige antes?",
+      "verso": "Primer e adesivo juntos; exige **condicionamento prévio com ácido fosfórico 30–40%**. A maioria dos fabricantes pede várias camadas.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 108"
+    },
+    {
+      "id": "f06",
+      "frente": "O que os autocondicionantes fazem com a lama dentinária?",
+      "verso": "**Incorporam** a lama à camada híbrida, em vez de removê-la.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 111"
+    },
+    {
+      "id": "f07",
+      "frente": "Onde os autocondicionantes rendem menos, segundo o Baratieri?",
+      "verso": "No **esmalte**, pelo alto conteúdo inorgânico.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 111"
+    },
+    {
+      "id": "f08",
+      "frente": "O que é a camada híbrida?",
+      "verso": "Zona de interdifusão entre os polímeros do adesivo e a dentina, da dentina não afetada pelo ácido até a superfície das fibras colágenas expostas.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 106"
+    },
+    {
+      "id": "f09",
+      "frente": "Quanto tempo esperar após aplicar o primer na dentina?",
+      "verso": "**Cerca de 30 s**, para infiltração dos monômeros; depois, jatos de ar suaves para evaporar os solventes.",
+      "fonte": "baratieri-cap5",
+      "onde": "p. 106"
+    },
+    {
+      "id": "f10",
+      "frente": "Abertura vestibulolingual da forma de contorno oclusal no preparo MOD (Mondelli)?",
+      "verso": "**1/4 a 1/3** da distância entre os vértices das cúspides, no istmo.",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 207"
+    },
+    {
+      "id": "f11",
+      "frente": "Largura do chanfro nas margens proximais em esmalte (Mondelli)?",
+      "verso": "Cerca de **0,25 mm**.",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 208"
+    },
+    {
+      "id": "f12",
+      "frente": "Até onde vai a penetração inicial da broca no preparo MOD (Mondelli)?",
+      "verso": "Cerca de **0,5 mm além da junção amelodentinária**.",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 207"
+    },
+    {
+      "id": "f14",
+      "frente": "Qual é o principal critério para escolher a forma de acesso numa lesão proximal?",
+      "verso": "A **preservação da crista marginal**.",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 386"
+    },
+    {
+      "id": "f15",
+      "frente": "Na variação descrita pelo Baratieri (a técnica adotada é a do Mondelli), quanto dura a fotoativação de estabilização dos incrementos de dentina?",
+      "verso": "Cerca de **5 s**, só para fixar a escultura; a fotoativação completa vem ao fim da dentina. Na técnica do Mondelli, cada lóbulo é fotoativado pelo tempo do fabricante antes do próximo (cap. 20, p. 216).",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 367"
+    },
+    {
+      "id": "f16",
+      "frente": "Ordem de altura das cunhas elásticas por cor?",
+      "verso": "**Azul > amarelo > verde.**",
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 402"
+    },
+    {
+      "id": "f17",
+      "frente": "Na técnica de inserção adotada (Mondelli, cap. 20), qual é a sequência dos incrementos numa Classe II?",
+      "verso": "1. **Muralha proximal** em resina de esmalte, em diagonal na caixa proximal, fotoativada conforme o fabricante (p. 214). 2. **Ponto de contato**: segunda porção de resina de esmalte até a altura da crista marginal. 3. **Lóbulos de dentina**, um por cúspide, cada um fotoativado antes do próximo (p. 216). 4. **Esmalte oclusal** por cima.",
+      "fonte": "mondelli-cap20",
+      "onde": "p. 214–216"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Qual sistema adesivo incorpora a lama dentinária à camada híbrida em vez de removê-la?",
+      "alternativas": [
+        {
+          "texto": "Multicomponente de três passos.",
+          "correta": false,
+          "justificativa": "No três passos o ácido fosfórico é aplicado e lavado, removendo a lama dentinária.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 104, 108"
+        },
+        {
+          "texto": "Monocomponente de dois passos.",
+          "correta": false,
+          "justificativa": "Exige condicionamento prévio com ácido fosfórico 30–40%, que remove a lama.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 108"
+        },
+        {
+          "texto": "Autocondicionante (de dois passos ou de passo único).",
+          "correta": true,
+          "justificativa": "O primer ácido não é lavado: modifica a lama dentinária e a incorpora à camada híbrida.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 111"
+        },
+        {
+          "texto": "Nenhum: todo sistema adesivo remove a lama dentinária.",
+          "correta": false,
+          "justificativa": "Os autocondicionantes, de dois passos e de passo único, incorporam a lama em vez de removê-la.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 111"
+        }
+      ],
+      "fonte": "baratieri-cap5",
+      "onde": "p. 108, 111",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Num fechamento de diastema, só há esmalte condicionado; não há dentina exposta. Sobre o primer, é correto afirmar:",
+      "alternativas": [
+        {
+          "texto": "É indispensável, porque o esmalte condicionado tem baixa energia de superfície.",
+          "correta": false,
+          "justificativa": "Quem tem baixa energia é a dentina condicionada; no esmalte o ácido aumenta molhamento e energia.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 104"
+        },
+        {
+          "texto": "É desnecessário em esmalte isolado; seca-se com jato de ar e aplica-se o adesivo em camada não espessa.",
+          "correta": true,
+          "justificativa": "O Baratieri afirma que o primer sobre esmalte é desnecessário e que, sem dentina exposta, o sistema de três passos pode dispensá-lo.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 106, 108"
+        },
+        {
+          "texto": "Deve ficar 30 s no esmalte para infiltrar os monômeros.",
+          "correta": false,
+          "justificativa": "Os 30 s de espera valem para o primer na dentina, onde ele faz a ponte entre a dentina úmida e o adesivo.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 106"
+        },
+        {
+          "texto": "Deve substituir o adesivo, porque tem ponta hidrófoba.",
+          "correta": false,
+          "justificativa": "O primer não substitui o adesivo; ele prepara a dentina úmida para recebê-lo.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 106"
+        }
+      ],
+      "fonte": "baratieri-cap5",
+      "onde": "p. 106, 108",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Depois de lavar o ácido de uma cavidade mista, o aluno seca bem a dentina com jato de ar até ficar opaca. Qual a consequência?",
+      "alternativas": [
+        {
+          "texto": "Melhor adesão, porque a dentina seca tem alta energia de superfície.",
+          "correta": false,
+          "justificativa": "A dentina condicionada tem baixa energia de superfície (p. 104), e o jato de ar sobre ela é contraindicado justamente porque prejudica a adesão (p. 102).",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102, 104"
+        },
+        {
+          "texto": "Alterações na dentina que comprometem a efetividade da adesão.",
+          "correta": true,
+          "justificativa": "O Baratieri considera o jato de ar totalmente contraindicado na dentina condicionada, porque provoca alterações que prejudicam a adesão. O excesso de água na dentina deve sair com bolinha de algodão.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102"
+        },
+        {
+          "texto": "Nenhuma, porque o primer reidrata a dentina sozinho.",
+          "correta": false,
+          "justificativa": "No Baratieri, o primer faz a ponte entre a dentina úmida e o adesivo (p. 106): ele pressupõe a dentina mantida úmida. O cuidado indicado é não secar a dentina condicionada com jato de ar (p. 102).",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102, 106"
+        },
+        {
+          "texto": "Remoção da lama dentinária remanescente.",
+          "correta": false,
+          "justificativa": "Quem remove a lama dentinária é o condicionamento ácido (p. 104), não o jato de ar.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 104"
+        }
+      ],
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Sobre o condicionamento ácido em resina posterior, qual afirmativa está de acordo com o Baratieri (cap. 5)?",
+      "alternativas": [
+        {
+          "texto": "Ácido fosfórico 30–40%, esmalte 15–30 s, dentina cerca de 15 s, estendendo cerca de 2 mm além das margens.",
+          "correta": true,
+          "justificativa": "São exatamente os valores do cap. 5 (p. 102). O Mondelli (p. 211) usa 30 s no esmalte, dentro da mesma faixa.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102"
+        },
+        {
+          "texto": "Ácido fosfórico 10%, 60 s em esmalte e dentina.",
+          "correta": false,
+          "justificativa": "Nem a concentração nem o tempo constam das fontes lidas; o Baratieri usa 30–40%.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102"
+        },
+        {
+          "texto": "Começar pela dentina e só depois levar o ácido ao esmalte.",
+          "correta": false,
+          "justificativa": "É o contrário: começa-se pelo esmalte e passa-se à dentina quando o esmalte já está coberto.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102"
+        },
+        {
+          "texto": "Se o esmalte não ficar branco-opaco, o condicionamento falhou e deve ser refeito.",
+          "correta": false,
+          "justificativa": "O aspecto branco-opaco indica condicionamento, mas sua ausência não indica falha.",
+          "fonte": "baratieri-cap5",
+          "onde": "p. 102"
+        }
+      ],
+      "fonte": "baratieri-cap5",
+      "onde": "p. 102",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Ao inserir a resina na caixa proximal, o aluno percebe extravasamento de material além da margem gengival. A causa mais provável relacionada à cunha é:",
+      "alternativas": [
+        {
+          "texto": "Cunha grande demais.",
+          "correta": false,
+          "justificativa": "A cunha grande demais deforma a matriz; o problema descrito é falta de pressão.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 400"
+        },
+        {
+          "texto": "Cunha pequena demais, que não pressiona a matriz contra o dente.",
+          "correta": true,
+          "justificativa": "O Baratieri aponta que a cunha muito pequena não pressiona a matriz e permite extravasamento além da margem gengival.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 400"
+        },
+        {
+          "texto": "Uso de anel metálico.",
+          "correta": false,
+          "justificativa": "O anel melhora a adaptação da matriz e o contato proximal; não causa extravasamento.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 400"
+        },
+        {
+          "texto": "Uso de matriz biconvexa.",
+          "correta": false,
+          "justificativa": "A matriz biconvexa segue o contorno anatômico proximal; o problema descrito é da cunha.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 400"
+        }
+      ],
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 400",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Sobre as características da caixa proximal no preparo Classe II MOD para resina (Mondelli), assinale a correta:",
+      "alternativas": [
+        {
+          "texto": "Paredes vestibular e lingual divergentes para oclusal e ângulos internos vivos.",
+          "correta": false,
+          "justificativa": "As paredes V e L convergem para oclusal e todos os ângulos internos são arredondados.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 211"
+        },
+        {
+          "texto": "Parede axial plana e levemente expulsiva, parede gengival lisa e contorno externo em sino, gota ou ovoide.",
+          "correta": true,
+          "justificativa": "É a descrição do Mondelli (p. 211) para a caixa proximal.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 207, 211"
+        },
+        {
+          "texto": "Ângulo axiopulpar vivo, para dar retenção mecânica.",
+          "correta": false,
+          "justificativa": "Os ângulos internos são arredondados, inclusive o axiopulpar.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 211"
+        },
+        {
+          "texto": "Extensão padronizada, independente da lesão.",
+          "correta": false,
+          "justificativa": "A extensão é definida pela lesão de cárie ou pela restauração deficiente a substituir.",
+          "fonte": "mondelli-cap20",
+          "onde": "p. 207"
+        }
+      ],
+      "fonte": "mondelli-cap20",
+      "onde": "p. 211",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Lesão cariosa pequena, só na proximal, logo abaixo do ponto de contato, com crista marginal íntegra. Qual a conduta mais coerente com o Baratieri?",
+      "alternativas": [
+        {
+          "texto": "Preparo com acesso oclusal, removendo a crista marginal, porque é mais fácil.",
+          "correta": false,
+          "justificativa": "Conservar estrutura é prioritário sobre a facilidade de execução; a crista marginal é referência de reforço e de contatos.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 386, 389"
+        },
+        {
+          "texto": "Preparo tipo slot horizontal, preservando a crista marginal.",
+          "correta": true,
+          "justificativa": "O slot horizontal é a técnica de escolha para cavidade logo abaixo do contato proximal, sem envolver a crista.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 386"
+        },
+        {
+          "texto": "Coroa total, porque a lesão é proximal.",
+          "correta": false,
+          "justificativa": "Nada nas fontes lidas indica coroa para lesão proximal pequena; o princípio é o preparo conservador.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 385"
+        },
+        {
+          "texto": "Slot horizontal, porque é o preparo mais fácil de executar.",
+          "correta": false,
+          "justificativa": "O slot é o mais difícil (instrumentação colada ao vizinho); escolhe-se pela conservação, não pela facilidade.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 389"
+        }
+      ],
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 386",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "O Baratieri descreve uma variação de estratificação para Classe I em molar (a técnica adotada neste tema é a do Mondelli). Segundo essa variação, qual afirmativa está correta?",
+      "alternativas": [
+        {
+          "texto": "Cada incremento deve unir paredes opostas, para ganhar retenção.",
+          "correta": false,
+          "justificativa": "Para controlar o fator C, cada incremento adere a uma área mínima, sem contato entre incrementos.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 367"
+        },
+        {
+          "texto": "A dentina artificial usa compósito mais translúcido e menos saturado.",
+          "correta": false,
+          "justificativa": "É o inverso: dentina mais saturada e menos translúcida; esmalte mais translúcido e menos saturado.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 368"
+        },
+        {
+          "texto": "Cada incremento de dentina recebe fotoativação de estabilização de cerca de 5 s; a completa vem ao fim da dentina.",
+          "correta": true,
+          "justificativa": "É a sequência do cap. 17 (p. 367): estabilização curta para fixar a escultura.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 367"
+        },
+        {
+          "texto": "A camada de esmalte artificial deve ser mais espessa que o esmalte natural.",
+          "correta": false,
+          "justificativa": "O Baratieri indica camada levemente menor que a do esmalte natural.",
+          "fonte": "baratieri-cap17-18",
+          "onde": "p. 368"
+        }
+      ],
+      "fonte": "baratieri-cap17-18",
+      "onde": "p. 367–368",
+      "figura": null
+    }
+  ]
+}

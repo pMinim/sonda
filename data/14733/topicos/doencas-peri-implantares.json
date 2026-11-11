@@ -1,0 +1,436 @@
+{
+ "slug": "doencas-peri-implantares",
+ "titulo": "Saúde, mucosite e peri-implantite",
+ "area": "Periodontia",
+ "origem": "Consenso de 2018 (Renvert, Hämmerle & Tarnow, Berglundh, Caton, Chapple, Tonetti)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "renvert2018",
+   "ref": "Renvert S, Persson GR, Pirih FQ, Camargo PM. Peri-implant health, peri-implant mucositis, and peri-implantitis: case definitions and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S278–S285.",
+   "curta": "Renvert et al. 2018"
+  },
+  {
+   "id": "hammerle2018",
+   "ref": "Hämmerle CHF, Tarnow D. The etiology of hard- and soft-tissue deficiencies at dental implants: a narrative review. J Clin Periodontol. 2018;45(Suppl 20):S267–S277.",
+   "curta": "Hämmerle & Tarnow 2018"
+  },
+  {
+   "id": "berglundh2018",
+   "ref": "Berglundh T, Armitage G, Araujo MG et al. Peri-implant diseases and conditions: consensus report of workgroup 4 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S286–S291.",
+   "curta": "Berglundh et al. 2018"
+  },
+  {
+   "id": "caton2018",
+   "ref": "Caton JG, Armitage G, Berglundh T et al. A new classification scheme for periodontal and peri-implant diseases and conditions – Introduction and key changes from the 1999 classification. J Clin Periodontol. 2018;45(Suppl 20):S1–S8.",
+   "curta": "Caton et al. 2018"
+  },
+  {
+   "id": "chapple2018",
+   "ref": "Chapple ILC et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: consensus report of workgroup 1 of the 2017 World Workshop. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+   "curta": "Chapple et al. 2018"
+  },
+  {
+   "id": "tonetti2018",
+   "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+   "curta": "Tonetti et al. 2018"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "paralelo",
+   "titulo": "O paralelo com o grupo 1",
+   "fonte": "caton2018",
+   "onde": "seção A new classification for peri-implant diseases and conditions",
+   "texto": "As **doenças e condições peri-implantares** são o quarto bloco do mesmo esquema de 2018. O paralelo com o grupo 1 é **didático, com diferenças**:\n\n| Dente | Implante |\n|---|---|\n| saúde | **saúde peri-implantar** |\n| gengivite | **mucosite peri-implantar** (a \"gengivite do implante\") |\n| periodontite | **peri-implantite** (a \"periodontite do implante\") |\n\nOnde o paralelo falha (Berglundh et al., 2018): não há faixa de profundidade de sondagem que defina saúde no implante; a saúde pode existir com suporte ósseo reduzido; a lesão da peri-implantite vai além do epitélio juncional, com mais plasmócitos, macrófagos e neutrófilos; a progressão é mais rápida. E a classificação tem uma quarta categoria sem par no grupo 1: as deficiências de tecido duro e mole."
+  },
+  {
+   "id": "tres-condicoes",
+   "titulo": "Saúde, mucosite e peri-implantite",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (prática diária)",
+   "texto": "- **Saúde peri-implantar:** sem sinais clínicos de inflamação; **sem sangramento e/ou supuração** à sondagem suave; sem aumento da profundidade de sondagem em relação a exames anteriores; **sem perda óssea além da remodelação inicial**. Pode existir com suporte ósseo reduzido.\n- **Mucosite peri-implantar:** **sangramento e/ou supuração** à sondagem suave, com ou sem aumento da sondagem, **sem perda óssea além da remodelação inicial** (Renvert et al., 2018: a remodelação inicial costuma ficar entre 0,5 e 2 mm). **Reversível**: controle de biofilme resolve, como na gengivite (Caton et al., 2018).\n- **Peri-implantite:** mucosa inflamada **e** perda progressiva do osso de suporte. A mucosite costuma precedê-la: é, em geral, **a mucosite que ninguém freou**. Sem tratamento, a progressão é **não linear e acelerada, mais rápida que na periodontite**.\n\n**Peri-implantite com exames anteriores** (a definição principal do consenso): sangramento e/ou supuração à sondagem suave **+** aumento da profundidade de sondagem em relação a exames anteriores **+** perda óssea além da remodelação inicial. Renvert et al.: depois do primeiro ano em função, perda ≥ 2 mm é considerada patológica.\n\nA linha que separa mucosite de peri-implantite é o **osso**."
+  },
+  {
+   "id": "criterios-berglundh",
+   "titulo": "Peri-implantite sem radiografia de base",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)",
+   "texto": "O consenso recomenda registrar sondagem e radiografia de base ao concluir a prótese e, se o paciente chega já reabilitado, buscar os registros anteriores. **Quando não há exames anteriores**, Berglundh et al. (2018, consenso do grupo 4) pedem os três juntos:\n\n1. **sondagem ≥ 6 mm** no implante;\n2. **sangramento e/ou supuração** à sondagem suave;\n3. **nível ósseo ≥ 3 mm apical** à porção mais coronal da parte intraóssea do implante.\n\nAtenção: Renvert et al. (2018) aceitam perda óssea ≥ 3 mm **e/ou** sondagem ≥ 6 mm, com sangramento profuso. Vale a regra do consenso: os três juntos.\n\n**Caso-relâmpago:** 55 anos, implante há 6 anos, sem radiografia de base; sondagem de 7 mm com sangramento e supuração, nível ósseo 4 mm apical à porção coronal intraóssea. → **Peri-implantite**, pelos critérios sem exames anteriores."
+  },
+  {
+   "id": "risco-periodontite",
+   "titulo": "Quem teve periodontite leva o risco para o implante",
+   "fonte": "berglundh2018",
+   "onde": "seção Peri-implantitis (fatores de risco)",
+   "texto": "Há evidência forte de três fatores de risco para peri-implantite: **história de periodontite grave**, controle de placa ruim e ausência de manutenção regular depois do implante. **Extrair o dente não extrai o risco.**\n\n**Caso-relâmpago:** 60 anos, tratado há 2 anos, quer um implante. Sondagem ≤ 3 mm, nenhum sítio ≥ 4 mm sangrando, sangramento em 8% dos sítios, perda de inserção e óssea antigas. → **Periodontite estável** (Chapple et al., 2018, Tabela 1). São números de saúde num periodonto reduzido *por* periodontite, e o histórico vai junto para o implante: **risco aumentado de peri-implantite**."
+  },
+  {
+   "id": "rebordo",
+   "titulo": "Deficiências de rebordo",
+   "fonte": "hammerle2018",
+   "onde": "Tabela 1 e seção Observations and discussion",
+   "texto": "**Tecido duro e mole em falta.** Deficiência de tecido duro é falta de osso para instalar um implante padrão todo envolvido por osso; deficiência de tecido mole é falta de volume ou de qualidade (tecido queratinizado).\n\nAs causas vão além da perda dental (Hämmerle & Tarnow, 2018, Tabela 1):\n\n- **Antes do implante:** perda dentária, trauma na extração, periodontite, infecções endodônticas, fraturas radiculares longitudinais, trauma geral, pneumatização do seio maxilar e doenças sistêmicas.\n- **Depois do implante:** má-posição do implante, peri-implantite, sobrecarga mecânica, tecido mole fino, defeitos em situações saudáveis e doenças sistêmicas.\n\nBerglundh et al. (2018) somam agenesia, medicamentos e pressão de prótese removível mucossuportada.\n\nEstão na classificação porque **condicionam o planejamento** do implante e da prótese: pacientes que perderam dentes por periodontite, por exemplo, não puderam receber implantes sem aumento ósseo.\n\nNa periodontite, o defeito de rebordo entra no **estadiamento** como fator de complexidade (Tonetti et al., 2018): defeito moderado conta para o estágio III; defeito severo está entre as razões de reabilitação complexa do estágio IV. A cadeia é:\n\n> **periodontite grave → perda dentária → defeito de rebordo (moderado: III; severo: IV) → reabilitação complexa.**"
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/dente-x-implante-paralelo.jpg",
+   "alt": "Três pares de dente natural e implante: gengiva saudável; gengiva inflamada com osso intacto; gengiva inflamada com perda óssea no dente e perda em taça no implante.",
+   "legenda": "Ilustração. Em cada painel, dente à esquerda e implante à direita. Saúde; gengivite e mucosite peri-implantar (inflamação e sangramento, sem perda óssea); periodontite e peri-implantite (inflamação e perda do osso de suporte). A linha que separa mucosite de peri-implantite é o osso. O paralelo é didático: no implante não há faixa de sondagem que defina saúde, a lesão vai além do epitélio juncional e progride mais rápido (Caton et al. 2018; Berglundh et al. 2018).",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "paralelo",
+   "largura": 1400,
+   "altura": 726
+  },
+  {
+   "src": "data/14733/img/peri-implantite-radiografia.jpg",
+   "alt": "Radiografia periapical de um implante com as roscas superiores sem osso em volta; há linhas e números de medida sobre a imagem.",
+   "legenda": "Radiografia de um implante na região do 25, num caso de peri-implantite: o osso já não cobre as roscas mais coronais. As linhas e os números são medidas feitas pelos autores no programa de imagem.",
+   "credito": "Radiografia: Kwiatek et al., Reports, 2026 (Figura 1). CC BY 4.0.",
+   "apos": "criterios-berglundh",
+   "largura": 1400,
+   "altura": 1110
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Qual é o paralelo entre o grupo 1 e as condições peri-implantares?",
+   "verso": "Saúde → **mucosite** (a \"gengivite do implante\") → **peri-implantite** (a \"periodontite do implante\"). É paralelo didático, não total: no implante não há faixa de sondagem que defina saúde e a progressão é mais rápida.",
+   "fonte": "caton2018",
+   "onde": "seção A new classification for peri-implant diseases and conditions"
+  },
+  {
+   "id": "f02",
+   "frente": "O que caracteriza a saúde peri-implantar?",
+   "verso": "Sem sinais clínicos de inflamação; **sem sangramento e/ou supuração** à sondagem suave; sem aumento da sondagem em relação a exames anteriores; **sem perda óssea além da remodelação inicial**.",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (saúde peri-implantar)"
+  },
+  {
+   "id": "f03",
+   "frente": "O que caracteriza a mucosite peri-implantar?",
+   "verso": "Sangramento e/ou supuração à sondagem suave, **sem perda óssea além da remodelação inicial**. Reversível: controle de biofilme resolve.",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (mucosite peri-implantar)"
+  },
+  {
+   "id": "f04",
+   "frente": "O que caracteriza a peri-implantite?",
+   "verso": "Mucosa inflamada **e** perda progressiva do osso de suporte. A mucosite costuma precedê-la: em geral, é a mucosite que ninguém freou.",
+   "fonte": "berglundh2018",
+   "onde": "seção Peri-implantitis (definição)"
+  },
+  {
+   "id": "f05",
+   "frente": "Como é a progressão da peri-implantite comparada à da periodontite?",
+   "verso": "Sem tratamento, **mais rápida, e não linear** (acelerada).",
+   "fonte": "berglundh2018",
+   "onde": "seção Peri-implantitis (progressão)"
+  },
+  {
+   "id": "f06",
+   "frente": "Quais são os critérios de peri-implantite sem exames anteriores (Berglundh et al. 2018)?",
+   "verso": "Os três juntos: sondagem **≥ 6 mm** + **sangramento e/ou supuração** à sondagem suave + nível ósseo **≥ 3 mm apical** à porção mais coronal da parte intraóssea do implante.",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+  },
+  {
+   "id": "f07",
+   "frente": "Quando se usam os critérios de peri-implantite sem exames de base?",
+   "verso": "Só **quando faltam sondagem e radiografia anteriores**. O consenso recomenda registrá-las ao concluir a prótese e, se o paciente chega já reabilitado, buscar os registros anteriores.",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations"
+  },
+  {
+   "id": "f08",
+   "frente": "Quem teve periodontite tem que risco no implante?",
+   "verso": "**Risco aumentado de peri-implantite**: a evidência é forte para história de **periodontite grave** (e também para controle de placa ruim e falta de manutenção). Extrair o dente não extrai o risco.",
+   "fonte": "berglundh2018",
+   "onde": "seção Peri-implantitis (fatores de risco)"
+  },
+  {
+   "id": "f09",
+   "frente": "O que são deficiências de rebordo e por que estão na classificação?",
+   "verso": "Tecido duro e mole em falta para o implante padrão. Causas antes do implante (perda dentária, trauma na extração, periodontite, endodontia, fratura radicular, seio maxilar, doenças sistêmicas) e depois (má-posição, peri-implantite, tecido mole fino, entre outras). Estão na classificação porque **condicionam o planejamento** do implante e da prótese.",
+   "fonte": "hammerle2018",
+   "onde": "Tabela 1 e seção Observations and discussion"
+  },
+  {
+   "id": "f10",
+   "frente": "Qual é a relação entre defeito de rebordo e estágio da periodontite?",
+   "verso": "O defeito de rebordo é **critério de complexidade que define o estágio**, não consequência dele: moderado conta para o estágio III; severo, para o IV (reabilitação complexa).",
+   "fonte": "tonetti2018",
+   "onde": "tabela de estágios, linha Complexidade (local)"
+  },
+  {
+   "id": "f11",
+   "frente": "Quais são os critérios de peri-implantite quando há exames anteriores?",
+   "verso": "Sangramento e/ou supuração à sondagem suave **+** aumento da profundidade de sondagem em relação a exames anteriores **+** perda óssea além da remodelação inicial.",
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (peri-implantite com exames anteriores)"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Paciente de 55 anos, implante instalado há 6 anos, sem radiografia de base. Sondagem de 7 mm com sangramento e supuração; nível ósseo 4 mm apical à porção coronal intraóssea do implante. Qual o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Mucosite peri-implantar.",
+     "correta": false,
+     "justificativa": "A mucosite não tem perda óssea além da remodelação inicial; aqui o osso está 4 mm apical.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (mucosite peri-implantar)"
+    },
+    {
+     "texto": "Saúde peri-implantar.",
+     "correta": false,
+     "justificativa": "Saúde não tem sangramento nem supuração à sondagem; aqui há os dois.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (saúde peri-implantar)"
+    },
+    {
+     "texto": "Peri-implantite, pelos critérios sem radiografia de base.",
+     "correta": true,
+     "justificativa": "Sondagem 7 mm (≥ 6), sangramento e supuração, osso 4 mm apical (≥ 3): cumpre os três critérios do consenso para quem não tem exames anteriores.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    },
+    {
+     "texto": "Não dá para diagnosticar sem a radiografia do dia da instalação.",
+     "correta": false,
+     "justificativa": "Os critérios sem exames anteriores existem justamente para quando falta a radiografia de base.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    }
+   ],
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Paciente de 60 anos, tratado de periodontite há 2 anos, quer um implante. Sondagem ≤ 3 mm, nenhum sítio ≥ 4 mm sangrando, sangramento em 8% dos sítios, perda de inserção e óssea antigas. Qual o diagnóstico e o que ele implica para o implante?",
+   "alternativas": [
+    {
+     "texto": "Periodontite estável; o histórico vai junto: risco aumentado de peri-implantite.",
+     "correta": true,
+     "justificativa": "Números de saúde num periodonto reduzido por periodontite; história de periodontite grave é fator de risco com evidência forte para peri-implantite.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (fatores de risco)"
+    },
+    {
+     "texto": "Saúde em periodonto íntegro; o risco do implante é igual ao de quem nunca teve doença.",
+     "correta": false,
+     "justificativa": "Não é íntegro: há perda de inserção e óssea pela periodontite tratada, e o histórico aumenta o risco.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite em periodonto reduzido; tratar a gengivite e o risco some.",
+     "correta": false,
+     "justificativa": "O sangramento é de 8%, abaixo do corte de 10%; e quem teve periodontite e volta a inflamar recebe outro nome no consenso (inflamação gengival em paciente com periodontite estável).",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1 e seção sobre a classificação da gengivite induzida pelo biofilme, item 3"
+    },
+    {
+     "texto": "Periodontite estável; extraído o dente, o risco desaparece.",
+     "correta": false,
+     "justificativa": "O consenso aponta a história de periodontite grave como fator de risco para peri-implantite: extrair o dente não extrai o risco.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (fatores de risco)"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Implante com sangramento e inflamação na mucosa, sem perda óssea além da remodelação inicial. Qual o diagnóstico e o prognóstico?",
+   "alternativas": [
+    {
+     "texto": "Peri-implantite, de progressão rápida e não linear.",
+     "correta": false,
+     "justificativa": "Peri-implantite exige perda óssea além da remodelação inicial; aqui não há.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite com exames anteriores)"
+    },
+    {
+     "texto": "Saúde peri-implantar, sem necessidade de conduta.",
+     "correta": false,
+     "justificativa": "Saúde é sem sinais inflamatórios e sem sangramento e/ou supuração.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (saúde peri-implantar)"
+    },
+    {
+     "texto": "Deficiência de rebordo.",
+     "correta": false,
+     "justificativa": "Deficiência de rebordo é tecido duro e mole em falta, não inflamação da mucosa.",
+     "fonte": "hammerle2018",
+     "onde": "definições de deficiência de tecido duro e mole"
+    },
+    {
+     "texto": "Mucosite peri-implantar, reversível com controle de biofilme.",
+     "correta": true,
+     "justificativa": "Sangramento e inflamação sem perda óssea além da remodelação inicial é mucosite; como na gengivite, o controle de placa a reverte.",
+     "fonte": "caton2018",
+     "onde": "seção A new classification for peri-implant diseases and conditions"
+    }
+   ],
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (mucosite peri-implantar)",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Qual destes NÃO é um dos três critérios de peri-implantite sem radiografia de base (Berglundh et al. 2018)?",
+   "alternativas": [
+    {
+     "texto": "Sondagem ≥ 6 mm no implante.",
+     "correta": false,
+     "justificativa": "É um dos três critérios.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    },
+    {
+     "texto": "Mobilidade do implante.",
+     "correta": true,
+     "justificativa": "Mobilidade não está entre os critérios do consenso: sondagem ≥ 6 mm, sangramento e/ou supuração, e nível ósseo ≥ 3 mm apical.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    },
+    {
+     "texto": "Sangramento e/ou supuração à sondagem suave.",
+     "correta": false,
+     "justificativa": "É um dos três critérios.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    },
+    {
+     "texto": "Nível ósseo ≥ 3 mm apical à porção mais coronal da parte intraóssea do implante.",
+     "correta": false,
+     "justificativa": "É um dos três critérios.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)"
+    }
+   ],
+   "fonte": "berglundh2018",
+   "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Sobre a progressão da peri-implantite, qual afirmação está de acordo com o consenso de 2018?",
+   "alternativas": [
+    {
+     "texto": "É mais lenta que a da periodontite e linear.",
+     "correta": false,
+     "justificativa": "O consenso diz o contrário: sem tratamento, é mais rápida e não linear.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (progressão)"
+    },
+    {
+     "texto": "É igual à da periodontite.",
+     "correta": false,
+     "justificativa": "O consenso descreve progressão mais rápida que a da periodontite, e não linear.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (progressão)"
+    },
+    {
+     "texto": "É mais rápida que a da periodontite, e não linear.",
+     "correta": true,
+     "justificativa": "Sem tratamento, a progressão é não linear e acelerada, mais rápida que a da periodontite.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (progressão)"
+    },
+    {
+     "texto": "Não progride se o paciente nunca teve periodontite.",
+     "correta": false,
+     "justificativa": "A peri-implantite é condição associada à placa em qualquer paciente; além da periodontite grave, controle de placa ruim e falta de manutenção também são fatores de risco.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (fatores de risco)"
+    }
+   ],
+   "fonte": "berglundh2018",
+   "onde": "seção Peri-implantitis (progressão)",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Por que as deficiências de rebordo estão na classificação de 2018?",
+   "alternativas": [
+    {
+     "texto": "Porque condicionam o planejamento do implante e da prótese.",
+     "correta": true,
+     "justificativa": "Falta de osso ou de tecido mole impede o implante padrão envolvido por osso e muda o plano (por exemplo, aumento ósseo antes do implante).",
+     "fonte": "hammerle2018",
+     "onde": "definições de deficiência de tecido duro e mole"
+    },
+    {
+     "texto": "Porque são uma forma de gengivite.",
+     "correta": false,
+     "justificativa": "São tecido duro e mole em falta, não inflamação gengival.",
+     "fonte": "hammerle2018",
+     "onde": "definições de deficiência de tecido duro e mole"
+    },
+    {
+     "texto": "Porque são causadas pelo trauma oclusal primário.",
+     "correta": false,
+     "justificativa": "As causas listadas são outras (perda dentária, trauma na extração, periodontite, endodontia, fratura radicular, seio maxilar, má-posição do implante, entre outras); trauma oclusal não está entre elas, e a sobrecarga mecânica só aparece após o implante, com evidência muito escassa.",
+     "fonte": "hammerle2018",
+     "onde": "Tabela 1 e seção Observations and discussion"
+    },
+    {
+     "texto": "Porque definem o grau da periodontite.",
+     "correta": false,
+     "justificativa": "O grau vem do risco de progressão (evidência direta ou razão perda óssea/idade) e de modificadores como tabagismo e hiperglicemia; o defeito de rebordo entra no estágio, como fator de complexidade.",
+     "fonte": "caton2018",
+     "onde": "Tabela 3, notas 2, 4 e 5"
+    }
+   ],
+   "fonte": "hammerle2018",
+   "onde": "definições de deficiência de tecido duro e mole",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "No paralelo entre dente e implante, a mucosite peri-implantar corresponde a quê?",
+   "alternativas": [
+    {
+     "texto": "À periodontite.",
+     "correta": false,
+     "justificativa": "A correspondente da periodontite é a peri-implantite, com perda progressiva de osso de suporte.",
+     "fonte": "berglundh2018",
+     "onde": "seção Peri-implantitis (definição)"
+    },
+    {
+     "texto": "À gengivite.",
+     "correta": true,
+     "justificativa": "A mucosite é a \"gengivite do implante\": sangramento e/ou supuração e inflamação, sem perda óssea além da remodelação, reversível com controle de placa.",
+     "fonte": "caton2018",
+     "onde": "seção A new classification for peri-implant diseases and conditions"
+    },
+    {
+     "texto": "À saúde periodontal.",
+     "correta": false,
+     "justificativa": "A correspondente da saúde é a saúde peri-implantar, sem sangramento e/ou supuração.",
+     "fonte": "berglundh2018",
+     "onde": "seção Case definitions and diagnostic considerations (saúde peri-implantar)"
+    },
+    {
+     "texto": "À doença periodontal necrosante.",
+     "correta": false,
+     "justificativa": "As doenças necrosantes são uma forma à parte de doença periodontal; o paralelo é saúde → mucosite → peri-implantite, espelhando saúde → gengivite → periodontite.",
+     "fonte": "caton2018",
+     "onde": "Tabela 3, item 1"
+    }
+   ],
+   "fonte": "caton2018",
+   "onde": "seção A new classification for peri-implant diseases and conditions",
+   "figura": null
+  }
+ ]
+}

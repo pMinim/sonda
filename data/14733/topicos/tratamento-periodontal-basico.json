@@ -1,0 +1,577 @@
+{
+  "slug": "tratamento-periodontal-basico",
+  "titulo": "Tratamento periodontal básico: fases, reavaliação e manutenção",
+  "area": "Periodontia",
+  "origem": "Lindhe 7ª ed. (caps. 30, 48) e Carranza 13ª ed. (caps. 50–51, 72)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lindhe7-cap30",
+      "ref": "Berglundh T, Giannobile WV, Lang NP et al. (orgs.). Lindhe: Tratado de Periodontia Clínica e Implantologia Oral. 7ª ed. Cap. 30, Terapia Não Cirúrgica (Wennström JL, Tomasi C), p. 703–719.",
+      "curta": "Lindhe 7ª ed., cap. 30"
+    },
+    {
+      "id": "lindhe7-cap48",
+      "ref": "Berglundh T, Giannobile WV, Lang NP et al. (orgs.). Lindhe: Tratado de Periodontia Clínica e Implantologia Oral. 7ª ed. Cap. 48, Terapia Periodontal de Suporte (Ramseier CA et al.), p. 1241 em diante.",
+      "curta": "Lindhe 7ª ed., cap. 48"
+    },
+    {
+      "id": "carranza13-cap50-51",
+      "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza: Periodontia Clínica. 13ª ed. Cap. 50, Raspagem e Alisamento Radicular (Pattison AM, Pattison GL), p. 537–551; cap. 51, Instrumentação Sônica, Ultrassônica e Irrigação (Jahn CA), p. 552–560.",
+      "curta": "Carranza 13ª ed., caps. 50–51"
+    },
+    {
+      "id": "carranza13-cap72",
+      "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza: Periodontia Clínica. 13ª ed. Cap. 72, Tratamento Periodontal de Suporte (Merin RL), p. 757–766.",
+      "curta": "Carranza 13ª ed., cap. 72"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "fases",
+      "titulo": "As fases do tratamento (Lindhe)",
+      "fonte": "lindhe7-cap48",
+      "onde": "p. 1241",
+      "texto": "O tratamento periodontal completo tem quatro partes, nesta ordem:\n\n1. **Avaliação sistêmica**.\n2. **Fase relacionada à causa**.\n3. **Fase corretiva** (cirúrgica), quando necessária.\n4. **Fase de manutenção**, chamada de **terapia periodontal de suporte (TPS)**.\n\nO nome TPS vem do 3º World Workshop (1989). A TPS não é \"limpeza de rotina\": exige visitas regulares, retorno positivo ao paciente e diagnóstico contínuo, para interceptar a doença cedo e tratá-la.\n\n**Sobre os nomes:** este tema usa \"fases\", o termo do Lindhe e do Carranza. A diretriz europeia de tratamento fala em \"etapas\"; a correspondência entre essas etapas e as fases descritas aqui não vem das fontes deste tema."
+    },
+    {
+      "id": "sequencia-carranza",
+      "titulo": "A sequência certa das fases (Carranza)",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 757–758",
+      "texto": "O Carranza numera as fases: **Fase I**, **reavaliação**, **Fase II** (cirurgia), **Fase III** (restauradora) e **Fase IV** (manutenção).\n\n- **Sequência incorreta:** a manutenção só começa depois da cirurgia e da restauração.\n- **Sequência correta:** a manutenção (Fase IV) começa **logo após a reavaliação da Fase I**, e a cirurgia e a restauração são feitas em paralelo, já dentro do programa de manutenção.\n\nOu seja: terminou a Fase I e reavaliou, o paciente já entra em consultas periódicas de suporte."
+    },
+    {
+      "id": "objetivo",
+      "titulo": "Para que serve a instrumentação subgengival",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 703–704",
+      "texto": "A terapia não cirúrgica é a fase inicial do tratamento: instrumentação subgengival somada a medidas de controle de placa e de fatores de risco.\n\n**Objetivo:** remover biofilme e cálculo das superfícies radiculares e levar a carga bacteriana para **abaixo do limiar que o hospedeiro suporta**.\n\nNão existe teste direto de que o desbridamento foi suficiente. Ausência de sangramento à sondagem, maior resistência do tecido e \"fechamento da bolsa\" são sinais úteis; mas **cálculo detectável deve ser removido**.\n\n**Três estágios (Kieser, 1994; p. 704):**\n- **Desbridamento:** remoção do biofilme.\n- **Raspagem:** remoção dos depósitos mineralizados (cálculo).\n- **Alisamento radicular:** remoção de cemento e dentina contaminados, para devolver compatibilidade biológica à raiz.\n\n**Quanto remover de dente (p. 704):** o mínimo. A remoção agressiva de estrutura não se justifica; prefira o instrumento que tira menos substância, desde que rompa o biofilme e remova o cálculo."
+    },
+    {
+      "id": "instrumentos",
+      "titulo": "Os instrumentos manuais",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 537–548",
+      "texto": "**Sondas** medem profundidade e configuração da bolsa; ponta romba, graduação em milímetros (p. 538).\n- **Nabers:** curva, para furca; marcas em 3, 6, 9 e 12 mm.\n- **UNC-15:** 15 mm, marcada a cada milímetro.\n- **OMS:** marcas em 3,5, 8,5 e 11,5 mm.\n\n**Exploradores** (p. 538) localizam depósitos subgengivais e cárie e conferem a lisura da raiz depois do alisamento.\n\n**Foice × cureta (p. 538–540).** A foice tem face plana e duas bordas que terminam em ponta; trabalha por tração e é indicada principalmente para **cálculo supragengival** (na bolsa pode lacerar tecido). A cureta tem lâmina em colher e ponta arredondada, e se adapta melhor à raiz: é o instrumento da **raspagem subgengival**.\n\n| | Gracey (área-específica) | Universal |\n|---|---|---|\n| Uso | um conjunto, cada cureta para uma área | uma cureta para todas as áreas |\n| Bordas cortantes | **uma** (só a externa trabalha) | **duas** (externa ou interna) |\n| Curvatura | em **dois** planos (para cima e para o lado) | em **um** plano (só para cima) |\n| Ângulo da face com a haste | compensada: **60–70°** no texto, **60°** na tabela | **90°** |\n\n(Tabela 50.1, p. 542; o texto da p. 541 dá 60 a 70° para a Gracey. As duas formas aparecem no livro.)\n\n**Numeração das Gracey (Quadro 50.5, p. 541):** conjunto de 14, em pares: 1–2 e 3–4 para anteriores; 5–6 para anteriores e pré-molares; 7–8 e 9–10 para faces vestibulares e linguais de posteriores; 11–12 para mesiais; 13–14 para distais.\n\n**Variações da Gracey (p. 542–545):**\n- **After Five:** haste terminal 3 mm mais longa, para bolsas de 5 mm ou mais.\n- **Mini Five:** lâmina com metade do comprimento; bolsas profundas e estreitas, furcas, sulcos de desenvolvimento.\n- **Curetas de manutenção (Lite):** lâmina 1 mm mais curta e cerca de 20% mais fina; tecido apertado, recessão e bolsa residual após a terapia inicial.\n\n**Enxada (p. 547):** para cálculo em saliências e anéis; o contato da lâmina em dois pontos dá estabilidade e evita ranhuras na raiz. **Limas diamantadas (p. 548):** sem borda cortante, para acabamento fino depois que os depósitos palpáveis saíram, com pressão leve.\n\nOs capítulos lidos tratam dos instrumentos, não da técnica: posição, apoio, ângulos de trabalho e movimentos de raspagem não estão nas fontes deste tema."
+    },
+    {
+      "id": "mecanizados",
+      "titulo": "Sônicos, ultrassônicos e jato de ar",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 550–554",
+      "texto": "Frequências e movimentos (p. 552):\n\n| Aparelho | Frequência | Movimento da ponta |\n|---|---|---|\n| Sônico (ar comprimido) | 2.000–6.500 ciclos/s | elíptico ou orbital |\n| Ultrassônico magnetoestritivo | 18.000–50.000 ciclos/s | elíptico ou orbital |\n| Ultrassônico piezoelétrico | 18.000–50.000 ciclos/s | linear, duas faces ativas |\n\nTodos removem biofilme e cálculo por ação mecânica; os ultrassônicos agem também por **cavitação** (bolhas que implodem) e **microtransmissão acústica** (fluxo do líquido) (p. 552–553).\n\n**Indicação (p. 554):** não só para cálculo pesado; servem ao cálculo supragengival, ao desbridamento subgengival e à remoção de placa em geral. **Riscos (p. 552):** raiz áspera, bioaerossol e interferência em marca-passo.\n\n**Mecanizado × manual (Quadro 51.1, p. 553):** a favor, eficiência, várias faces ativas, sem afiação, menos pressão lateral e menos esforço repetitivo, irrigação; contra, aerossol, ruído, menor sensação tátil e menor visibilidade.\n\n**Jato de ar (cap. 50, p. 550–551):** com bicarbonato, remove manchas e depósitos moles; pós de **glicina ou eritritol** são usados no biofilme subgengival e são seguros para implantes. Bicarbonato é contraindicado em hipertensão, dieta com restrição de sódio ou medicação que altere eletrólitos; doença respiratória e hemodiálise contraindicam o jato com abrasivo. Bochecho prévio com clorexidina 0,12% reduz o aerossol."
+    },
+    {
+      "id": "abordagens",
+      "titulo": "Manual ou ultrassom? Quadrante ou boca toda?",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 710–712",
+      "texto": "**Instrumento (p. 710):** revisões sistemáticas mostram que o desbridamento reduz a profundidade de bolsa (PB) e melhora o nível clínico de inserção (NCI), **sem diferença significativa entre instrumentos manuais e sônicos/ultrassônicos**.\n\n**Organização das sessões (p. 710–711):** a raspagem e alisamento radicular (RAR) pode ser feita **por quadrante** (a forma convencional) ou de **boca toda**, com as sessões concentradas em 24 horas. Entre as duas, **sem diferença significativa em PB ou NCI**, inclusive nas bolsas moderadas (5–6 mm) e profundas (> 6 mm).\n\n**Desinfecção de boca toda** (p. 710): é a boca toda somada a clorexidina na língua, nas tonsilas, em bochechos e em irrigação subgengival. O protocolo detalhado está nos flashcards de aprofundamento.\n\n**Microbiologia (p. 712):** a carga bacteriana cai logo após o desbridamento, mas espécies dos complexos vermelho e laranja podem reaparecer entre 3 e 12 meses, o que pode sinalizar falta de resolução."
+    },
+    {
+      "id": "reavaliacao",
+      "titulo": "Reavaliação: o que conta como sucesso",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715",
+      "texto": "**Metas após a terapia inicial:**\n1. **Sem sangramento à sondagem** da bolsa.\n2. **Bolsa fechada: PB ≤ 4 mm.**\n\nA PB diminui por duas vias: recessão da margem e menor penetração da sonda, porque a lesão inflamatória se resolve.\n\n**Em média, cerca de 35% das bolsas inicialmente patológicas não atingem a meta**, qualquer que seja o instrumento ou a abordagem.\n\n**O que piora a chance de fechar:** fumo, dente multirradicular (molares e furcas), placa supragengival e bolsa inicial mais profunda. Exemplos da Tabela 30.1, p. 715 (probabilidade de fechar, PB inicial 6 / 7 / 8 mm):\n\n| Paciente e sítio | 6 mm | 7 mm | 8 mm |\n|---|---|---|---|\n| Não fumante, sem placa, unirradicular | 84% | 63% | 36% |\n| Não fumante, sem placa, multirradicular | 70% | 43% | 19% |\n| Não fumante, com placa, multirradicular | 57% | 30% | 12% |\n| Fumante, com placa, multirradicular | 31% | 12% | 4% |\n\nComo o fumo derruba a chance de fechamento, o capítulo recomenda incluir um programa para parar de fumar.\n\n**Sangramento persistente pesa:** num acompanhamento de 26 anos, dentes que sangravam à sondagem em todos os exames tiveram risco **46 vezes** maior de perda.\n\n**Casos intermediários:** a meta (PB ≤ 4 mm sem sangramento) e a indicação de reinstrumentar (PB ≥ 5 mm com sangramento) não cobrem tudo. Bolsa de 5 mm sem sangramento ou de 4 mm com sangramento não tem regra própria nas fontes lidas; a decisão depende do paciente e do sítio.\n\nO capítulo do Lindhe lido não dá o intervalo entre a terapia inicial e a reavaliação; não confunda esse prazo com o intervalo da terapia de suporte (ver a seção sobre intervalos de retorno)."
+    },
+    {
+      "id": "bolsa-residual",
+      "titulo": "Bolsa residual: reinstrumentar ou escalar",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715–716",
+      "texto": "**Bolsa que sobra e perda do dente (p. 715):**\n\n| PB residual | Razão de chances (odds ratio) de perda dental |\n|---|---|\n| 5 mm | **7,7** |\n| 6 mm | **11,0** |\n| ≥ 7 mm | **64,2** |\n\nOs três números são **razões de chances** (odds ratios), isto é, medidas **relativas** de risco, não porcentagens: quanto maior o número, maior a chance de perder o dente. O livro apresenta a bolsa residual de 5 mm como fator de risco, com razão de 7,7; as de 6 mm e ≥ 7 mm sobem para 11,0 e 64,2.\n\n**Indicação de reinstrumentar (p. 716):** bolsa com **PB ≥ 5 mm e sangramento à sondagem** na reavaliação.\n\n**Opções diante da falha (p. 716):** reinstrumentação (com alisamento, se for o caso) ou tratamento ativo adicional: antimicrobiano local ou sistêmico, retalho de acesso, cirurgia de redução de bolsa. É uma decisão que depende do paciente e do sítio.\n\n**Limites da via não cirúrgica (p. 716):**\n- Sítios com PB inicial ≥ 7 mm: cerca de **50%** continuam sem sucesso após a terapia inicial.\n- Sítios que responderam mal: **11–16%** de chance de atingir a meta com a reinstrumentação.\n- Após reinstrumentação, cerca de **45%** das bolsas fecharam em 3 meses no conjunto, mas só **12%** das que tinham PB > 6 mm."
+    },
+    {
+      "id": "por-que-tps",
+      "titulo": "Por que a terapia de suporte não pode faltar",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 757–758, 762, 764, 766",
+      "texto": "**A bolsa volta a ser colonizada (p. 758).** Depois da raspagem, a placa subgengival reaparece mais devagar que a supragengival, mas os patógenos subgengivais costumam voltar aos níveis pré-tratamento em **9 a 11 semanas** (com grande variação entre pacientes). Uma sessão de raspagem reduz bastonetes móveis por cerca de 1 semana e espiroquetas por cerca de 7 semanas.\n\n**A cicatrização é frágil (p. 758).** A reparação pode formar **epitélio juncional longo**, com inserção conjuntiva frágil, o que facilita a bolsa recorrente sem manutenção.\n\n**Quem não volta perde mais dente:** cerca de **5 a 6 vezes** mais perda dental que quem comparece à TPS (Quadro 72.2, p. 757). E a adesão é baixa: em 961 pacientes acompanhados de 1 a 8 anos, só 16,44% cumpriram o cronograma; 34,13% não voltaram nenhuma vez e 49,43% foram erráticos (Figura 72.3, p. 758).\n\n**A consulta de retorno** dura cerca de **1 hora**: exame (~14 min), tratamento (~36 min) e relato, limpeza e agendamento (~10 min) (Quadro 72.1, p. 758).\n\n**Sinais de recorrência (p. 762):** sangramento à sondagem, aumento da profundidade de sondagem, perda óssea radiográfica progressiva e mobilidade progressiva. **Causas:** remoção incompleta de cálculo em áreas difíceis, restaurações inadequadas, faltas às consultas e doença sistêmica que reduz a resistência do hospedeiro.\n\n**Retratamento periodontal** (aqui, novo tratamento periodontal ativo, não retratamento de canal): diante desses sinais, as áreas que recidivam podem precisar de novo tratamento ativo (p. 762). Na classe C de Merin, o livro manda considerar o retratamento de algumas áreas ou a extração dos dentes gravemente envolvidos (Tabela 72.3, p. 764). Não existe teste preciso de atividade da doença (p. 766): a decisão se apoia nos achados clínicos e radiográficos. Lembre também que a raspagem costuma ser pouco eficaz em sítios com PB de **6 mm ou mais** (Quadro 72.3, p. 758)."
+    },
+    {
+      "id": "intervalos-merin",
+      "titulo": "Intervalos de retorno: as classes de Merin",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 758–765",
+      "texto": "No Carranza, o primeiro ano de manutenção começa com retorno a cada **3 meses**, encurtado em casos difíceis (p. 758; Tabela 72.3, p. 764). Depois, o intervalo é **individual**: não existe um intervalo fixo que valha para todos (o Lindhe dá faixas de 3 a 12 meses; ver a seção sobre o dado clássico da TPS). A Tabela 72.3 (p. 764) organiza assim:\n\n| Classe de manutenção | Quem é | Intervalo |\n|---|---|---|\n| **Primeiro ano**, rotina | terapia e cicatrização sem intercorrências | **3 meses** |\n| **Primeiro ano**, caso difícil | prótese complicada, furca, relação coroa-raiz desfavorável ou cooperação duvidosa | **1–2 meses** |\n| **A** | resultado excelente mantido por ≥ 1 ano; boa higiene, cálculo mínimo, sem bolsa remanescente, nenhum dente com < 50% de osso | **6 meses a 1 ano** |\n| **B** | resultado bom por ≥ 1 ano, mas com alguns fatores negativos | **3–4 meses** |\n| **C** | resultado ruim e/ou vários fatores negativos | **1–3 meses**; considerar retratar algumas áreas ou extrair dentes gravemente envolvidos |\n\n**Fatores negativos** (B e C; p. 764): higiene ruim ou irregular, muito cálculo, doença sistêmica que predispõe à destruição periodontal, bolsas remanescentes (\"algumas\" na B, \"muitas\" na C), problemas oclusais, prótese complicada, cárie recorrente, dentes com < 50% de suporte ósseo, tabagismo, histórico familiar ou teste genético positivo, **mais de 20% das bolsas sangrando à sondagem**. Na C entram ainda cirurgia indicada e não feita e doença avançada demais para a cirurgia melhorar.\n\n**Atenção:** A, B e C aqui são **classes de manutenção** (resposta ao tratamento e fatores de risco), não classes de periodontite. O diagnóstico continua sendo por estágio e grau.\n\n**Quando envolver o periodontista (p. 765):** gravidade e localização pesam mais. Pacientes com perda óssea inicial moderada a grave, furca grau 2 ou 3 ou bolsas que não podem ser erradicadas devem ter a manutenção conduzida pelo periodontista. Bolsa de 5 mm ou mais, invasão de furca ou perda de inserção moderada em dente estratégico pedem avaliação especializada.\n\n**Radiografias** são individualizadas; por exemplo, em doença periodontal com bom controle, periapicais ou interproximais verticais das áreas-problema a cada 12 a 24 meses (Tabela 72.1, p. 759–760, adaptada da ADA, 2013)."
+    },
+    {
+      "id": "dados-tps",
+      "titulo": "O dado clássico e os intervalos da TPS (Lindhe)",
+      "fonte": "lindhe7-cap48",
+      "onde": "p. 1243–1247",
+      "texto": "O Lindhe mostra o efeito da TPS com o estudo clássico de **Axelsson e Lindhe (1981)**, que comparou por 6 anos pacientes tratados com e sem terapia de suporte (Tabelas 48.1 e 48.2, p. 1245). **A leitura:** o tratamento ativo fecha as bolsas nos dois grupos; **sem suporte, elas reabrem** e a inserção se perde. Os números das tabelas estão no flashcard de aprofundamento.\n\n**Com que frequência?** O Lindhe **não fixa 3 meses**. As consultas de TPS costumam ser agendadas a cada 3 a 6 meses (p. 1243), geralmente a cada 3 a 4 meses (p. 1246), e o intervalo de cada paciente vai de 3 a no máximo 12 meses, conforme o risco (p. 1247). A evidência para indicar especificamente 3 meses é escassa (p. 1243)."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/fases-do-tratamento-periodontal.svg",
+      "alt": "Fluxograma vertical: Fase I, depois Reavaliação, depois uma caixa grande de Fase IV (manutenção) que contém, lado a lado, Fase II (cirurgia) e Fase III (restauradora). Embaixo, uma caixa tracejada mostra a sequência incorreta: manutenção só depois da cirurgia e da restauração.",
+      "legenda": "Na sequência correta, a manutenção (Fase IV) começa logo após a reavaliação da Fase I, e a cirurgia (II) e a fase restauradora (III) correm em paralelo, dentro dela.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "sequencia-carranza",
+      "largura": 720,
+      "altura": 980
+    },
+    {
+      "src": "data/14733/img/curetas-pontas.jpg",
+      "alt": "Pontas de oito curetas periodontais de cabos coloridos, dispostas em leque sobre fundo cinza.",
+      "legenda": "Pontas de curetas periodontais: lâmina em colher e ponta arredondada. A tabela acima compara as Gracey com as universais.",
+      "credito": "Foto: “Curettes”, Milenafoto, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "instrumentos",
+      "largura": 1400,
+      "altura": 707
+    },
+    {
+      "src": "data/14733/img/reavaliacao-bolsa-antes-depois.jpg",
+      "alt": "Dois cortes do mesmo dente. Antes: gengiva vermelha e inchada, sonda funda e sangramento. Depois: gengiva rosa e mais baixa, com uma faixa de raiz à mostra, sonda menos funda e sem sangue; osso igual nos dois.",
+      "legenda": "Ilustração. Antes (esquerda) e depois (direita) da terapia inicial. Sucesso na reavaliação: sem sangramento à sondagem e bolsa fechada, PB ≤ 4 mm. A PB cai por duas vias: a margem recua e a sonda penetra menos, porque a inflamação se resolve. Cerca de 35% das bolsas não chegam à meta; fumo, dente multirradicular, placa e bolsa inicial profunda pioram a chance. PB ≥ 5 mm com sangramento indica reinstrumentar (Lindhe 7ª ed., cap. 30, p. 715).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "reavaliacao",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as fases do tratamento periodontal completo segundo o Lindhe?",
+      "verso": "Avaliação sistêmica, **fase relacionada à causa**, fase corretiva (cirúrgica) e **fase de manutenção** (terapia periodontal de suporte).",
+      "fonte": "lindhe7-cap48",
+      "onde": "p. 1241"
+    },
+    {
+      "id": "f02",
+      "frente": "Na sequência correta do Carranza, quando começa a manutenção (Fase IV)?",
+      "verso": "**Logo após a reavaliação da Fase I.** Cirurgia (Fase II) e restauração (Fase III) acontecem em paralelo, dentro do programa de manutenção.",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 757–758"
+    },
+    {
+      "id": "f03",
+      "frente": "Quais são os três estágios da instrumentação, segundo Kieser?",
+      "verso": "**Desbridamento** (biofilme), **raspagem** (cálculo) e **alisamento radicular** (cemento e dentina contaminados).",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 704"
+    },
+    {
+      "id": "f04",
+      "frente": "Quantas bordas cortantes têm a cureta de Gracey e a universal?",
+      "verso": "**Gracey: uma** (só a borda externa trabalha). **Universal: duas** (externa ou interna).",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 542"
+    },
+    {
+      "id": "f05",
+      "frente": "Ângulo da face da lâmina com a haste: Gracey × universal?",
+      "verso": "Gracey: lâmina compensada, **60–70°** no texto (p. 541) e **60°** na Tabela 50.1 (p. 542). Universal: **90°**.",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 541–542"
+    },
+    {
+      "id": "f06",
+      "frente": "Curvatura da lâmina: Gracey × universal?",
+      "verso": "Gracey curva em **dois planos** (para cima e para o lado). Universal curva em **um plano** (só para cima).",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 541–542"
+    },
+    {
+      "id": "f07",
+      "frente": "Marcações das sondas de Nabers, UNC-15 e OMS?",
+      "verso": "Nabers: 3, 6, 9 e 12 mm (furca). UNC-15: 15 mm, a cada milímetro. OMS: 3,5, 8,5 e 11,5 mm.",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 538"
+    },
+    {
+      "id": "f08",
+      "frente": "Para que serve a foice?",
+      "verso": "Principalmente para **cálculo supragengival**, com movimento de tração. Na bolsa pode lacerar tecido; o subgengival é da cureta.",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 538–539"
+    },
+    {
+      "id": "f09",
+      "frente": "Faixa de frequência dos sônicos e dos ultrassônicos?",
+      "verso": "Sônicos: **2.000–6.500** ciclos/s. Ultrassônicos (magnetoestritivos e piezoelétricos): **18.000–50.000** ciclos/s.",
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 552"
+    },
+    {
+      "id": "f10",
+      "frente": "Quais são as metas de sucesso na reavaliação após a terapia inicial?",
+      "verso": "**Sem sangramento à sondagem** e **PB ≤ 4 mm** (bolsa fechada).",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715"
+    },
+    {
+      "id": "f11",
+      "frente": "Que fração das bolsas não atinge a meta após a terapia inicial?",
+      "verso": "Em média, **cerca de 35%**, independentemente do instrumento ou da abordagem.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715"
+    },
+    {
+      "id": "f12",
+      "frente": "Razão de chances de perda dental conforme a PB residual de 5, 6 e ≥ 7 mm?",
+      "verso": "5 mm: **7,7**; 6 mm: **11,0**; ≥ 7 mm: **64,2**. Os três são **razões de chances** (odds ratios), medidas relativas de risco, não porcentagens.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715"
+    },
+    {
+      "id": "f13",
+      "frente": "Quando reinstrumentar uma bolsa na reavaliação?",
+      "verso": "Quando tem **PB ≥ 5 mm com sangramento à sondagem**.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 716"
+    },
+    {
+      "id": "f14",
+      "frente": "Em quanto tempo os patógenos subgengivais voltam aos níveis pré-tratamento?",
+      "verso": "Em geral **9 a 11 semanas**, com grande variação entre pacientes.",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 758"
+    },
+    {
+      "id": "f15",
+      "frente": "Intervalos de Merin: primeiro ano, classes A, B e C?",
+      "verso": "Primeiro ano: **3 meses** (caso difícil, 1–2). A: **6 meses a 1 ano**. B: **3–4 meses**. C: **1–3 meses**, considerando também retratar áreas ou extrair dentes gravemente envolvidos.",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 764"
+    },
+    {
+      "id": "f16",
+      "frente": "Quanto aumenta a perda dental de quem não comparece à TPS?",
+      "verso": "Cerca de **5 a 6 vezes** mais perda dental que quem comparece.",
+      "fonte": "carranza13-cap72",
+      "onde": "p. 757"
+    },
+    {
+      "id": "f17",
+      "frente": "Aprofundamento: como se organiza a RAR de boca toda (Quirynen, 1995), e quanto tempo leva a convencional?",
+      "verso": "Boca toda: **duas sessões em 24 horas**, cada uma cobrindo metade da boca. Variantes: duas sessões no mesmo dia; quatro sessões em 4 dias; uma consulta de boca toda com ultrassom piezoelétrico de **45–60 minutos**. Convencional: RAR por quadrante, cerca de **1 hora por quadrante**.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 710"
+    },
+    {
+      "id": "f18",
+      "frente": "Aprofundamento: qual é o protocolo de clorexidina da desinfecção de boca toda?",
+      "verso": "Gel de CHX 1% no dorso da língua por 1 min; bochecho de CHX 0,2% por 1 min, 2×/dia; spray de CHX 0,2% nas tonsilas; irrigação subgengival com gel de CHX 1% (repetida após 8 dias); bochecho de CHX 0,2% 2×/dia por 2 semanas e spray nas tonsilas por 2 meses.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 710"
+    },
+    {
+      "id": "f19",
+      "frente": "Aprofundamento: quanto cai a contagem bacteriana logo após o desbridamento, e o que pode voltar?",
+      "verso": "Em sítios com PB > 3 mm, a contagem total caiu de **91 × 10⁵ para 23 × 10⁵**. Espécies dos complexos vermelho e laranja podem reaparecer entre **3 e 12 meses**, o que pode sinalizar falta de resolução.",
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 712"
+    },
+    {
+      "id": "f20",
+      "frente": "Aprofundamento: quais são os números de Axelsson e Lindhe (1981) com e sem TPS em 6 anos?",
+      "verso": "**Bolsas de 4–6 mm** (% das bolsas; inicial / pós-tratamento / 3 anos / 6 anos): com TPS 58 / 1 / 1 / 1; sem TPS 38 / 1 / 9 / 19 (Tabela 48.2). **Nível de inserção em 6 anos** (% dos sítios, com TPS / sem TPS): melhora 17 / 1; sem alteração 72 / 10; perda de 2–5 mm 1 / 55 (Tabela 48.1).",
+      "fonte": "lindhe7-cap48",
+      "onde": "p. 1245"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na reavaliação após a raspagem e alisamento, um pré-molar tem PB de 4 mm sem sangramento e um molar tem PB de 5 mm com sangramento à sondagem. Qual é a conduta coerente com o Lindhe?",
+      "alternativas": [
+        {
+          "texto": "Considerar o pré-molar resolvido e indicar reinstrumentação (ou tratamento adicional) no molar.",
+          "correta": true,
+          "justificativa": "PB ≤ 4 mm sem sangramento é a meta de bolsa fechada; PB ≥ 5 mm com sangramento é a indicação de reinstrumentar ou escalar o tratamento.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715–716"
+        },
+        {
+          "texto": "Reinstrumentar os dois, porque qualquer bolsa acima de 3 mm é residual.",
+          "correta": false,
+          "justificativa": "O critério de sucesso é PB ≤ 4 mm sem sangramento; o pré-molar já atingiu a meta.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715"
+        },
+        {
+          "texto": "Considerar os dois resolvidos, porque 5 mm ainda é bolsa rasa.",
+          "correta": false,
+          "justificativa": "PB ≥ 5 mm com sangramento é exatamente o limiar de reinstrumentação, e a bolsa residual de 5 mm já tem razão de chances de 7,7 para perda dental.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715–716"
+        },
+        {
+          "texto": "Encaminhar os dois para cirurgia imediata, sem reinstrumentação.",
+          "correta": false,
+          "justificativa": "O pré-molar está resolvido; para o molar a reinstrumentação é uma das opções, e a escolha entre ela e o tratamento adicional depende do paciente e do sítio.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 716"
+        }
+      ],
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715–716",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Sobre a cureta de Gracey em comparação com a cureta universal, é correto afirmar:",
+      "alternativas": [
+        {
+          "texto": "A Gracey tem duas bordas cortantes e a face da lâmina a 90° com a haste.",
+          "correta": false,
+          "justificativa": "Isso descreve a universal. A Gracey tem uma borda cortante e lâmina compensada: 60–70° no texto (p. 541), 60° na Tabela 50.1 (p. 542).",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 541–542"
+        },
+        {
+          "texto": "A Gracey tem uma borda cortante, curva em dois planos e lâmina compensada.",
+          "correta": true,
+          "justificativa": "É a descrição da Tabela 50.1: só a borda externa trabalha, a lâmina curva para cima e para o lado, e a face fica a 60° da haste (60–70° no texto da p. 541).",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 541–542"
+        },
+        {
+          "texto": "Uma única Gracey serve a todas as áreas e superfícies da boca.",
+          "correta": false,
+          "justificativa": "Isso é da universal; as Gracey são um conjunto, cada uma para áreas e superfícies específicas.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 541"
+        },
+        {
+          "texto": "A Gracey trabalha tanto com a borda externa quanto com a interna.",
+          "correta": false,
+          "justificativa": "Quem usa as duas bordas é a universal; a Gracey usa só a borda externa.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 542"
+        }
+      ],
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 541–542",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um colega quer saber se troca a raspagem manual por quadrante por uma sessão de boca toda com ultrassom piezoelétrico. Segundo o Lindhe, o que esperar em profundidade de bolsa e nível de inserção?",
+      "alternativas": [
+        {
+          "texto": "Resultado claramente melhor com boca toda, sobretudo em bolsas > 6 mm.",
+          "correta": false,
+          "justificativa": "Mesmo nos subgrupos de bolsas moderadas (5–6 mm) e profundas (> 6 mm) não houve diferença significativa.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 711"
+        },
+        {
+          "texto": "Resultado pior com ultrassom, porque o instrumento manual remove mais cálculo.",
+          "correta": false,
+          "justificativa": "As revisões não mostram diferença significativa entre manuais e sônicos/ultrassônicos.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 710"
+        },
+        {
+          "texto": "Resultados sem diferença significativa; a escolha pode considerar tempo e logística.",
+          "correta": true,
+          "justificativa": "Nem o tipo de instrumento nem boca toda × quadrante mudaram de forma significativa PB ou NCI; a boca toda com piezo cabe em 45–60 min, contra cerca de 1 h por quadrante.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 710–711"
+        },
+        {
+          "texto": "Boca toda só funciona se associada à clorexidina; sem ela, piora o NCI.",
+          "correta": false,
+          "justificativa": "A comparação boca toda × quadrante, sem clorexidina, não mostrou diferença; a desinfecção com CHX é um protocolo à parte, não condição para a boca toda funcionar.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 710–711"
+        }
+      ],
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 710–711",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente tratado há 2 anos, resultado bom e estável, mas fuma e tem algumas bolsas remanescentes; boa parte do restante está saudável, a higiene é boa e menos de 20% das bolsas sangram à sondagem. Pela Tabela 72.3 (Merin), qual o intervalo de retorno mais provável?",
+      "alternativas": [
+        {
+          "texto": "6 meses a 1 ano (classe A).",
+          "correta": false,
+          "justificativa": "A classe A exige ausência de bolsas remanescentes e de fatores negativos; tabagismo e bolsas remanescentes tiram o paciente da A.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 764"
+        },
+        {
+          "texto": "3 a 4 meses (classe B).",
+          "correta": true,
+          "justificativa": "Resultado bom mantido por mais de 1 ano com alguns fatores negativos (tabagismo, algumas bolsas remanescentes) é classe B: 3–4 meses, decididos pelo número e gravidade dos fatores.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 764"
+        },
+        {
+          "texto": "1 a 2 meses (primeiro ano, caso difícil).",
+          "correta": false,
+          "justificativa": "Essa linha é para pacientes de primeiro ano; ele já está no segundo ano.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 764"
+        },
+        {
+          "texto": "Classe C de periodontite, com retorno a cada 1 a 3 meses.",
+          "correta": false,
+          "justificativa": "A, B e C de Merin são classes de manutenção, não de periodontite; e o paciente tem poucos fatores e resultado bom, o que não é C.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 764"
+        }
+      ],
+      "fonte": "carranza13-cap72",
+      "onde": "p. 764",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Na consulta de manutenção, o profissional encontra aumento de profundidade de sondagem com sangramento em dois dentes. Segundo o Carranza, como interpretar e conduzir esse achado?",
+      "alternativas": [
+        {
+          "texto": "Antes de qualquer conduta, é preciso confirmar a atividade da doença com um teste preciso de atividade.",
+          "correta": false,
+          "justificativa": "O capítulo afirma que não existe método preciso para testar a atividade da doença; não é pré-requisito para decidir.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 766"
+        },
+        {
+          "texto": "São sinais de recorrência; as áreas afetadas podem precisar de novo tratamento periodontal ativo (retratamento).",
+          "correta": true,
+          "justificativa": "Sangramento à sondagem e aumento da profundidade estão entre os sinais de recorrência, e áreas que recidivam podem exigir retratamento; na classe C de Merin, o livro manda considerar retratar algumas áreas.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 762, 764"
+        },
+        {
+          "texto": "São esperados na manutenção e dispensam conduta até a próxima consulta de rotina.",
+          "correta": false,
+          "justificativa": "Sangramento e aumento de profundidade são justamente sinais de recorrência da doença, não achados esperados.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 762"
+        },
+        {
+          "texto": "Se o paciente for classe C de Merin, a única conduta prevista é encurtar o retorno para 1 a 3 meses.",
+          "correta": false,
+          "justificativa": "Na classe C, além do intervalo de 1 a 3 meses, a Tabela 72.3 manda considerar o retratamento de algumas áreas ou a extração dos dentes gravemente envolvidos.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 764"
+        }
+      ],
+      "fonte": "carranza13-cap72",
+      "onde": "p. 762, 764, 766",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Pela Tabela 30.1 do Lindhe, qual sítio com PB inicial de 6 mm tem a maior probabilidade de fechar a bolsa após a terapia inicial?",
+      "alternativas": [
+        {
+          "texto": "Molar de fumante, com placa.",
+          "correta": false,
+          "justificativa": "É o pior cenário da tabela: 31% em 6 mm.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715"
+        },
+        {
+          "texto": "Molar de não fumante, sem placa.",
+          "correta": false,
+          "justificativa": "70% em 6 mm: bom, mas o multirradicular perde para o unirradicular nas mesmas condições.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715"
+        },
+        {
+          "texto": "Unirradicular de não fumante, sem placa.",
+          "correta": true,
+          "justificativa": "84% em 6 mm, a maior probabilidade da tabela: soma não fumar, ausência de placa e dente unirradicular.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715"
+        },
+        {
+          "texto": "Molar de não fumante, com placa.",
+          "correta": false,
+          "justificativa": "57% em 6 mm; placa e multirradicular reduzem a chance de fechar.",
+          "fonte": "lindhe7-cap30",
+          "onde": "p. 715"
+        }
+      ],
+      "fonte": "lindhe7-cap30",
+      "onde": "p. 715",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "No Carranza, a manutenção (Fase IV) começa logo após a reavaliação da Fase I, sem esperar cirurgia e restauração. Qual dado do mesmo capítulo mostra o risco de deixar o paciente sem suporte nesse intervalo?",
+      "alternativas": [
+        {
+          "texto": "Porque os patógenos subgengivais costumam voltar aos níveis pré-tratamento em cerca de 9 a 11 semanas.",
+          "correta": true,
+          "justificativa": "O capítulo registra que os patógenos subgengivais voltam aos níveis pré-tratamento em cerca de 9 a 11 semanas e que a cicatrização por epitélio juncional longo predispõe à bolsa recorrente quando não há manutenção.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 758"
+        },
+        {
+          "texto": "Porque a placa subgengival reaparece mais rápido que a supragengival.",
+          "correta": false,
+          "justificativa": "É o contrário: a subgengival reaparece mais lentamente que a supragengival.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 758"
+        },
+        {
+          "texto": "Porque a raspagem elimina definitivamente as espiroquetas.",
+          "correta": false,
+          "justificativa": "Uma sessão de raspagem reduz as espiroquetas por cerca de 7 semanas, não definitivamente.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 758"
+        },
+        {
+          "texto": "Porque a cirurgia só pode ser feita depois de 1 ano de manutenção.",
+          "correta": false,
+          "justificativa": "Na sequência correta a cirurgia e a restauração são feitas em paralelo à manutenção, não depois de um prazo fixo.",
+          "fonte": "carranza13-cap72",
+          "onde": "p. 757–758"
+        }
+      ],
+      "fonte": "carranza13-cap72",
+      "onde": "p. 757–758",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Sobre os aparelhos mecanizados de raspagem descritos no Carranza, assinale a correta.",
+      "alternativas": [
+        {
+          "texto": "Os sônicos trabalham entre 18.000 e 50.000 ciclos por segundo.",
+          "correta": false,
+          "justificativa": "Essa é a faixa dos ultrassônicos; os sônicos ficam entre 2.000 e 6.500 ciclos/s.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 552"
+        },
+        {
+          "texto": "A ponta piezoelétrica se move em padrão linear e tem duas faces ativas.",
+          "correta": true,
+          "justificativa": "É a descrição do piezoelétrico; o magnetoestritivo e o sônico movem a ponta em padrão elíptico ou orbital.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 552"
+        },
+        {
+          "texto": "Os instrumentos elétricos só se indicam para cálculo supragengival pesado.",
+          "correta": false,
+          "justificativa": "O capítulo destaca que não se limitam ao cálculo pesado: servem também ao desbridamento subgengival e à remoção de placa.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 554"
+        },
+        {
+          "texto": "Comparados aos manuais, oferecem maior sensação tátil.",
+          "correta": false,
+          "justificativa": "Menor sensação tátil é uma das desvantagens listadas no Quadro 51.1.",
+          "fonte": "carranza13-cap50-51",
+          "onde": "p. 553"
+        }
+      ],
+      "fonte": "carranza13-cap50-51",
+      "onde": "p. 552–554",
+      "figura": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "disciplina": "14723",
+  "topicos": [
+    {
+      "slug": "anamnese-e-exame-clinico",
+      "titulo": "Anamnese e exame extra e intrabucal sistematizado (sequência, palpação de linfonodos)",
+      "area": "Clínica Integrada",
+      "resumoCurto": "Sem roteiro fixo o aluno perde a lesão que não estava procurando",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "anomalias-dentarias",
+      "titulo": "Anomalias dentárias de número, forma, tamanho, estrutura e erupção",
+      "area": "Estomatologia",
+      "resumoCurto": "Frequentes no exame radiográfico de rotina; base para odontopediatria e orto",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "biopsia-e-exames-complementares",
+      "titulo": "Quando biopsiar, citologia, exames de imagem e como pedir o histopatológico",
+      "area": "Estomatologia",
+      "resumoCurto": "Fecha o raciocínio diagnóstico: hipótese → exame → diagnóstico final",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "carcinoma-espinocelular-bucal",
+      "titulo": "Carcinoma espinocelular: fatores de risco, sítios, aspecto clínico e encaminhamento",
+      "area": "Estomatologia",
+      "resumoCurto": "O dentista é quem vê primeiro; atraso no diagnóstico custa sobrevida",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "cistos-dos-maxilares",
+      "titulo": "Cistos odontogênicos e não odontogênicos (dentígero, queratocisto, radicular) e diferencial das radiolucências",
+      "area": "Estomatologia",
+      "resumoCurto": "O queratocisto e o ameloblastoma são diferenciais clássicos das radiolucências.",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "desordens-orais-potencialmente-malignas",
+      "titulo": "Leucoplasia, eritroplasia, queilite actínica e líquen como potencialmente malignos",
+      "area": "Estomatologia",
+      "resumoCurto": "É onde o diagnóstico precoce do câncer realmente acontece",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "doencas-autoimunes-mucocutaneas",
+      "titulo": "Líquen plano, pênfigo vulgar, penfigoide das membranas mucosas e lúpus",
+      "area": "Estomatologia",
+      "resumoCurto": "Diferencial das lesões brancas e das vesicobolhosas",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "doencas-das-glandulas-salivares",
+      "titulo": "Mucocele, rânula, sialolitíase, xerostomia, neoplasias salivares (adenoma pleomórfico)",
+      "area": "Estomatologia",
+      "resumoCurto": "Mucocele e hipossalivação aparecem toda semana na clínica",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "infeccoes-da-cavidade-oral",
+      "titulo": "Candidose, herpes, HPV, sífilis e manifestações bucais do HIV",
+      "area": "Estomatologia",
+      "resumoCurto": "Sífilis voltou a ser frequente; candidose é diagnóstico diário",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "lesoes-do-orgao-dentario",
+      "titulo": "Lesões do órgão dentário: desgastes, reabsorções, alterações de cor",
+      "area": "Estomatologia",
+      "resumoCurto": "Separa o que é cárie do que não é",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "lesoes-fundamentais",
+      "titulo": "Lesões fundamentais: mácula, pápula, nódulo, vesícula, bolha, úlcera, placa",
+      "area": "Estomatologia",
+      "resumoCurto": "É o vocabulário de toda descrição de lesão e de todo diferencial",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "lesoes-traumaticas-e-reacionais",
+      "titulo": "Úlcera traumática, hiperplasia fibrosa inflamatória, granuloma piogênico, queimaduras",
+      "area": "Estomatologia",
+      "resumoCurto": "As lesões mais comuns da clínica; ensinam a remover a causa e reavaliar",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "periapicopatias",
+      "titulo": "Periapicopatias: abscesso, granuloma, cisto radicular, osteíte condensante (periodontopatias: usar o slug `periodontite-estagio-grau`, compartilhado com a 14733)",
+      "area": "Endodontia",
+      "resumoCurto": "Lesão radiolúcida periapical é o achado mais comum da radiografia",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "tumores-benignos-de-tecidos-moles",
+      "titulo": "Tumores benignos de tecidos moles (fibroma, papiloma, lipoma, hemangioma) e lesões reacionais semelhantes",
+      "area": "Estomatologia",
+      "resumoCurto": "O diferencial entre neoplasia e hiperplasia reacional define a conduta",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "variacoes-da-normalidade",
+      "titulo": "Variações da normalidade: grânulos de Fordyce, língua geográfica e fissurada, linha alba, tórus",
+      "area": "Estomatologia",
+      "resumoCurto": "Evita biópsia e encaminhamento desnecessários",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    }
+  ]
+}

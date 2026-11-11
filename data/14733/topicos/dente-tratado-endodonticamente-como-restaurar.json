@@ -1,0 +1,605 @@
+{
+ "slug": "dente-tratado-endodonticamente-como-restaurar",
+ "titulo": "Dente tratado endodonticamente: como restaurar",
+ "area": "Dentística e reabilitação",
+ "origem": "Pegoraro 2013, Mondelli 2ª ed., Shillingburg 4ª ed., Cohen 12ª ed. (cap. 10) e artigos (Morimoto 2016, Michaud & Dort 2024, Prott 2025, de Kuijper 2023/2026)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "pegoraro2013",
+   "ref": "Pegoraro LF et al. Prótese fixa: bases para o planejamento em reabilitação oral. 2. ed. São Paulo: Artes Médicas; 2013.",
+   "curta": "Pegoraro 2013"
+  },
+  {
+   "id": "shillingburg2012",
+   "ref": "Shillingburg HT et al. Fundamentals of fixed prosthodontics. 4. ed. Quintessence; 2012. Caps. 6, 12, 13, 23.",
+   "curta": "Shillingburg 2012"
+  },
+  {
+   "id": "mondelli2017",
+   "ref": "Mondelli J. Fundamentos de dentística operatória. 2. ed. Santos/GEN; 2017. Caps. 2, 21, 31–35.",
+   "curta": "Mondelli 2017"
+  },
+  {
+   "id": "morimoto2016",
+   "ref": "Morimoto S, Rebello de Sampaio FBW, Braga MM, Sesma N, Özcan M. Survival rate of resin and ceramic inlays, onlays, and overlays: a systematic review and meta-analysis. J Dent Res. 2016;95(9):985–994. doi:10.1177/0022034516652848 Páginas citadas pelo PDF da versão online antecipada (p. 1–10).",
+   "curta": "Morimoto et al. 2016"
+  },
+  {
+   "id": "kuijper2023",
+   "ref": "de Kuijper MCFM, Cune MS, Özcan M, Gresnigt MMM. Clinical performance of direct composite resin versus indirect restorations on endodontically treated posterior teeth: a systematic review and meta-analysis. J Prosthet Dent. 2023;130(3):295–306. doi:10.1016/j.prosdent.2021.11.009",
+   "curta": "de Kuijper et al. 2023"
+  },
+  {
+   "id": "kuijper2026",
+   "ref": "de Kuijper MCFM, van den Breemer CRG, de Waal YCM, Lanjouw L, Özcan M, Cune MS, Gresnigt MMM. Direct resin composite and lithium disilicate endocrowns in severely compromised endodontically treated molars: a two-year randomized controlled trial. Int Endod J. 2026;59(11):2383–2401. doi:10.1111/iej.70232 Páginas citadas pelo PDF da versão online antecipada (p. 1–19).",
+   "curta": "de Kuijper et al. 2026"
+  },
+  {
+   "id": "michaud2024",
+   "ref": "Michaud PL, Dort H. Do onlays and crowns offer similar outcomes to posterior teeth with MOD preparations? A systematic review. J Esthet Restor Dent. 2024;36:295–302. doi:10.1111/jerd.13114",
+   "curta": "Michaud & Dort 2024"
+  },
+  {
+   "id": "prott2025",
+   "ref": "Prott LS, Pieralli S, Klein P, Spitznagel FA, Ibrahim F, Metzendorf MI, Carrasco-Labra A, Blatz MB, Gierthmuehlen PC. Survival and complications of partial coverage restorations on posterior teeth: a systematic review and meta-analysis. J Esthet Restor Dent. 2025;37(3):620–641. doi:10.1111/jerd.13353",
+   "curta": "Prott et al. 2025"
+  },
+  {
+   "id": "cohen12-cap10",
+   "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 10, Retratamento Não Cirúrgico (Roda RS, Gettleman BH, Johnson SC), p. 337–402.",
+   "curta": "Cohen 12ª ed., cap. 10"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "custo-coroa",
+   "titulo": "A coroa total e o que ela custa",
+   "fonte": "mondelli2017",
+   "onde": "cap. 35, seção Características do dente preparado; cap. 34, seções Técnica de preparo e Proteção de cúspides",
+   "texto": "A coroa total retém por mecânica. O dente preparado precisa de **pelo menos 4 mm de altura** para dar retenção e estabilidade à prótese; coroa clínica curta pede recursos extras, como sulcos ou canaletas nas paredes axiais ou cirurgia periodontal de aumento de coroa (Pegoraro, cap. 1, p. 28). Michaud e Dort acrescentam a endodontia pré-protética e a extrusão ortodôntica como meios de alongar as paredes axiais, e lembram que esses procedimentos aumentam o risco de complicações (Michaud & Dort 2024, Introdução, p. 296). E as paredes do terço cervical convergem só 2 a 5° (Pegoraro, cap. 3, p. 96). O preparo cobra estrutura:\n\n| | Coroa total livre de metal | Onlay cerâmico |\n|---|---|---|\n| Redução oclusal | 1,5 a 2 mm | 1,5 mm (cúspide não funcional) · 2 mm (funcional) |\n| Redução axial | **1,3 a 1,5 mm em todas as faces axiais** | limitada à terminação da proteção de cúspide (cerca de 1,0 mm na face palatina); preserva a maior parte das paredes axiais |\n| Estrutura coronal removida | **67,5 a 75,6%** | **35,5 a 46,7%** (restauração parcial) |\n| Parede de dentina que sobra | cerca de 1,0 a 1,2 mm | 2,0 a 2,5 mm |\n\n(Coroa: Mondelli, cap. 35, Características do dente preparado; onlay: Mondelli, cap. 34, Técnica de preparo e Proteção de cúspides. Estrutura removida: Edelhoff & Sorensen, 2002, citados em Prott et al. 2025, Introdução, p. 621. Parede de dentina, em cerâmica pura: Seow et al., 2005, citados em Michaud & Dort 2024, Introdução, p. 296.) A redução axial da coroa é **1,3 a 1,5 mm**, não 1,2 como saiu no podcast.\n\nHá também um custo biológico: dente despolpado perde resistência e fica mais sujeito a fratura (Pegoraro, cap. 1, p. 28), e por isso a desvitalização deve ser evitada ao máximo (Pegoraro, cap. 5, p. 141). A coroa também cobra da polpa: cerca de **15%** dos dentes que recebem coroa perdem a vitalidade em 10 anos, e paredes de dentina espessas reduzem a necrose pulpar (estudos citados em Michaud & Dort 2024, Introdução, p. 296)."
+  },
+  {
+   "id": "quando-endo",
+   "titulo": "Quando a coroa precisa de endodontia",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 140–141",
+   "texto": "**A regra do Pegoraro** (capítulo de núcleos intrarradiculares, dentes polpados): prepare o dente primeiro e olhe o que sobrou.\n\n- Se sobra aproximadamente **a metade da estrutura coronal**, de preferência envolvendo **todo o terço cervical**, dá para restaurar **sem endodontia** (p. 140).\n- O tratamento endodôntico só entra quando o remanescente **não resiste às forças mastigatórias** (p. 141).\n\nPegoraro escreve que **a desvitalização de um dente deve ser evitada ao máximo**, porque o preparo para pino intracanal, metálico ou não, enfraquece a raiz remanescente (p. 141).\n\n**Endo antes de coroa é indicação, não rotina.**"
+  },
+  {
+   "id": "pino",
+   "titulo": "Pino retém núcleo; não reforça dente",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 214",
+   "texto": "O Shillingburg diz que colocar um pino num dente relativamente íntegro tem **mais chance de enfraquecê-lo do que de fortalecê-lo**, e cita que um **incisivo tratado endodonticamente e intacto é três vezes mais resistente à fratura** do que um restaurado com pino e núcleo (p. 214). O Pegoraro vai na mesma linha: o preparo para pino enfraquece a raiz (cap. 5, p. 141).\n\nO pino existe para dar à coroa a **retenção** que a estrutura coronal daria se existisse (p. 214). Na casa, o pino é a **estaca**: segura o núcleo, não reforça a casa.\n\n**Molar tratado com dano moderado:** reconstrói-se com **núcleo de amálgama ou resina retido na câmara pulpar, sem pino intrarradicular**; pino só quando falta estrutura para segurar o núcleo (Shillingburg, cap. 13, p. 216–217)."
+  },
+  {
+   "id": "ferula",
+   "titulo": "A férula",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 141–142",
+   "texto": "**Férula:** um remanescente coronal ao redor de todo o dente, que a coroa abraça. Para o Pegoraro, **1,5 a 2 mm** de altura envolvendo todas as faces criam um efeito tipo férula muito importante para o sucesso a longo prazo (p. 141).\n\n| Autor | Valor |\n|---|---|\n| Shillingburg (cap. 13, p. 216) | **1 a 2 mm** de estrutura axial vertical dentro das paredes da coroa; 1 mm de parede já aumenta a resistência à fratura entre **80 e 139%** (estudo citado pelo autor) |\n| Pegoraro (cap. 5, p. 141) | **1,5 a 2 mm** de altura, em todas as faces |\n\n**Sem férula, nenhum pino salva o dente.** Quando não sobra estrutura coronal que sirva de base de sustentação para o núcleo, as forças ficam oblíquas e a raiz fica mais suscetível à fratura (Pegoraro, p. 141–142)."
+  },
+  {
+   "id": "dente-tratado",
+   "titulo": "O dente já tratado: os autores conversam",
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; cap. 2, seção Forma de resistência",
+   "texto": "| | Shillingburg (2012) | Mondelli (2017) |\n|---|---|---|\n| Molar ou pré-molar tratado | o mínimo é restauração com **cobertura oclusal**, como um onlay MOD (cap. 13, p. 214) | a simples presença de endo, com **cristas marginais e pontes de esmalte preservadas**, não pede mais do que **resina direta** (cap. 21) |\n| Base | estudo de 1984: **94%** de sucesso com cobertura × **56%** sem (cap. 13, p. 214) | — |\n\nQuando a cúspide de dente tratado está enfraquecida, o Mondelli também manda **reduzir e cobrir** (cap. 2, Forma de resistência). A divergência fica no dente tratado com cristas e pontes **preservadas**.\n\nA literatura mais recente ajuda a entender:\n\n- **de Kuijper et al. (J Prosthet Dent, 2023):** nos 2 ensaios randomizados (150 participantes), direta e indireta **não diferiram** a curto prazo (2,5 a 3 anos), com certeza baixa (p. 303–304, Tabelas 4 e 5). Mas há **viés de indicação**: a escolha entre uma e outra dependia da destruição coronária e do prognóstico, e num dos ensaios as diretas ficaram mais em dentes com 3 ou 4 paredes (25% × 11%; p. 299). E as indiretas eram quase todas **coroas totais** (só 2 estudos tinham parciais; p. 299). Quem decidiu foi **o remanescente**, não o tipo de restauração.\n- **Morimoto (2016):** em inlays, onlays e overlays cerâmicos, a vitalidade pulpar pesou na sobrevida: razão de chances de **0,19 (IC 95% 0,04–0,96)**, calculada com 3 estudos (p. 5); para os autores, a chance de falha foi cerca de **80% menor em dente vital** do que em dente tratado endodonticamente (p. 9). A base é pequena: 132 restaurações em dentes tratados (p. 5).\n- **Molar tratado só com resina direta:** sobrevida relatada abaixo de **50% em 5 anos**, exceto quando sobra bastante dentina coronária (78%) (Nagasiri & Chitmongkolsuk, 2005, citados em de Kuijper 2026, Introdução, p. 2).\n- Num banco de dados de seguradora (Lucarotti, 2014, na Tabela 3 de de Kuijper 2023, p. 300), só **34%** das restaurações diretas em pré-molares e molares tratados ficaram sem novo tratamento em 10 anos, contra 57 a 60% das coroas; é estudo observacional, sujeito ao mesmo viés de indicação.\n\nLeitura do professor, não achado da literatura: o que mudou entre o livro de 2012 e o de 2017 foi a adesão e o critério, de **\"teve endo, então cobre\"** para **\"quanto sobrou decide\"**."
+  },
+  {
+   "id": "casos",
+   "titulo": "Os casos: quem decide é o remanescente",
+   "fonte": "kuijper2026",
+   "onde": "p. 2–3 (seção 2.1) e p. 9–10 (seções 3.1–3.3)",
+   "texto": "**Caso 3 — molar com tratamento endodôntico, duas paredes finas e coroa clínica curta.** O degrau é **overlay ou endocrown**: cúspide enfraquecida de dente tratado se reduz e cobre (Mondelli, cap. 2). A evidência clínica mais próxima é o ensaio randomizado de **de Kuijper et al. (Int Endod J, 2026)**: 102 molares tratados e muito destruídos, com **uma ou nenhuma parede** remanescente e câmara pulpar de pelo menos 2 mm (p. 3), metade com resina direta e metade com endocrown de dissilicato de lítio. Em 2 anos, sobrevida de **98%** (resina) e **100%** (endocrown), sem diferença (p = 0,32); a endocrown foi melhor em brilho, desgaste e saúde da mucosa, e a satisfação do paciente não diferiu (medida até 12 meses). Dois limites: o tempo (dois anos) e a população, porque o caso 3, com duas paredes, está fora do critério de inclusão do ensaio.\n\n**Caso 4 — molar com menos de uma parede, tratamento endodôntico e sem férula.** A escala chega ao teto e mostra o limite do teto: **coroa total sobre núcleo**, que em grande destruição coronária o Pegoraro faz com núcleo metálico fundido (cap. 5, p. 141), **ou extração**, que o Cohen reserva como último recurso quando o dente não é restaurável (Cohen 12ª ed., cap. 10, p. 395). Sem estrutura que sirva de base de sustentação para o núcleo, a raiz fica mais suscetível à fratura (Pegoraro, p. 141–142).\n\n**Endo antes de coroa é indicação, não rotina. Pino retém núcleo; não reforça. Sem férula, nenhum pino salva.**"
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/preparo-coroa-total-diagrama.jpg",
+   "alt": "Diagrama de um dente preparado para coroa total, com o contorno original tracejado e as indicações de convergência, redução oclusal, redução axial e término.",
+   "legenda": "O que o preparo de coroa total remove: redução oclusal, redução axial, convergência das paredes e término cervical. A linha tracejada é o contorno original do dente.",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "custo-coroa",
+   "largura": 1400,
+   "altura": 817
+  },
+  {
+   "src": "data/14733/img/inclinacao-das-paredes.jpg",
+   "alt": "Foto clínica de um dente anterior preparado, com linhas tracejadas nas paredes proximais: 2 a 5 graus no terço cervical e 5 a 10 graus no terço incisal.",
+   "legenda": "As duas inclinações das paredes axiais: 2 a 5° no terço cervical, que dá a retenção friccional, e 5 a 10° no terço incisal, que facilita colocar e remover a coroa (Pegoraro, cap. 3, p. 96).",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "custo-coroa",
+   "largura": 974,
+   "altura": 664
+  },
+  {
+   "src": "data/14733/img/preparo-longo.jpg",
+   "alt": "Foto clínica de um dente anterior preparado com paredes longas, marcadas por linhas pontilhadas.",
+   "legenda": "Preparo longo: altura de parede suficiente para retenção e estabilidade.",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "custo-coroa",
+   "largura": 672,
+   "altura": 459
+  },
+  {
+   "src": "data/14733/img/preparo-curto.jpg",
+   "alt": "A mesma foto com o preparo encurtado por edição: as linhas pontilhadas mostram paredes curtas.",
+   "legenda": "O mesmo dente, encurtado na imagem para comparar: com pouca altura de parede, a coroa perde retenção e estabilidade e passa a pedir recursos extras, como sulcos, canaletas ou aumento de coroa clínica.",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "custo-coroa",
+   "largura": 672,
+   "altura": 459
+  },
+  {
+   "src": "data/14733/img/ferula-com-e-sem.svg",
+   "alt": "Dois cortes do mesmo pré-molar inferior tratado endodonticamente, com pino, núcleo e coroa. Com férula: a coroa desce por fora e abraça um anel de dentina de 1,5 a 2 mm em volta da base do núcleo. Sem férula: a raiz termina na altura da gengiva, o núcleo assenta direto nela e a coroa termina na junção núcleo-raiz.",
+   "legenda": "Com férula (esq.): a coroa abraça um colarinho de dentina em todas as faces, de 1,5 a 2 mm de altura (Pegoraro, cap. 5, p. 141) ou 1 a 2 mm (Shillingburg, cap. 13, p. 216); 1 mm de parede já aumenta a resistência à fratura entre 80 e 139%. Sem férula (dir.): a coroa termina na junção núcleo-raiz, as forças ficam oblíquas e a raiz fica mais sujeita à fratura. Sem férula, nenhum pino salva o dente.",
+   "credito": "Esquema elaborado para o Sonda.",
+   "apos": "ferula",
+   "largura": 720,
+   "altura": 560
+  },
+  {
+   "src": "data/14733/img/preparo-finalizado-oclusal.jpg",
+   "alt": "Vista oclusal de um dente preparado para coroa total em modelo de estudo, com o término contínuo em toda a volta.",
+   "legenda": "Preparo de coroa total finalizado, em vista oclusal (modelo de estudo): término contínuo ao redor de todo o dente.",
+   "credito": "Imagem: acervo do Prof. Pedro Minim.",
+   "apos": "casos",
+   "largura": 1001,
+   "altura": 870
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Qual é a regra do Pegoraro para decidir endo antes da coroa em dente vital?",
+   "verso": "Preparar primeiro e olhar o que sobrou: se sobra **aproximadamente metade da estrutura coronal**, de preferência envolvendo **todo o terço cervical**, restaura-se **sem endo**.",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 140"
+  },
+  {
+   "id": "f02",
+   "frente": "O que Pegoraro diz sobre desvitalizar um dente?",
+   "verso": "**Deve ser evitada ao máximo**: o preparo para o pino enfraquece a raiz.",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 141"
+  },
+  {
+   "id": "f03",
+   "frente": "Pino reforça o dente?",
+   "verso": "Não. **Pino retém núcleo; não reforça dente.** Num dente relativamente íntegro, tem mais chance de enfraquecer do que de fortalecer.",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 214"
+  },
+  {
+   "id": "f04",
+   "frente": "Incisivo tratado e intacto × incisivo com pino e núcleo: qual resiste mais à fratura?",
+   "verso": "O intacto, **três vezes** mais resistente.",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 214"
+  },
+  {
+   "id": "f05",
+   "frente": "Como se reconstrói um molar tratado com dano moderado?",
+   "verso": "Núcleo de **amálgama ou resina retido na câmara pulpar, sem pino**; pino só quando falta estrutura para segurar o núcleo.",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 216–217"
+  },
+  {
+   "id": "f06",
+   "frente": "O que é férula e quais são os valores?",
+   "verso": "Remanescente coronal ao redor de todo o dente, que a coroa abraça. Pegoraro: **1,5 a 2 mm** de altura em todas as faces. Shillingburg: **1 a 2 mm** de estrutura axial vertical dentro das paredes da coroa (cap. 13, p. 216).",
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 141"
+  },
+  {
+   "id": "f07",
+   "frente": "Quanto 1 mm de parede (férula) aumenta a resistência à fratura?",
+   "verso": "Entre **80 e 139%** (citado no Shillingburg).",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 216"
+  },
+  {
+   "id": "f08",
+   "frente": "Qual é o mínimo para um posterior tratado endodonticamente segundo o Shillingburg (2012)?",
+   "verso": "Restauração com **cobertura oclusal**, como um onlay MOD (estudo de 1984: 94% de sucesso com cobertura × 56% sem).",
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 214"
+  },
+  {
+   "id": "f09",
+   "frente": "E segundo o Mondelli (2017)?",
+   "verso": "Endo sozinha, com cristas marginais e pontes de esmalte preservadas, **não pede mais que resina direta** (cap. 21). Mas cúspide enfraquecida de dente tratado se reduz e cobre (cap. 2).",
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; cap. 2, seção Forma de resistência"
+  },
+  {
+   "id": "f11",
+   "frente": "Quais as reduções de uma coroa total livre de metal (Mondelli)?",
+   "verso": "**1,5 a 2 mm** na oclusal e **1,3 a 1,5 mm** em todas as faces axiais.",
+   "fonte": "mondelli2017",
+   "onde": "cap. 35, seção Características do dente preparado"
+  },
+  {
+   "id": "f12",
+   "frente": "Onde o onlay cerâmico poupa estrutura em relação à coroa total (Mondelli)?",
+   "verso": "Reduz só as cúspides cobertas (**1,5 mm** não funcional, **2 mm** funcional) e limita o desgaste axial à terminação da proteção de cúspide (cerca de 1,0 mm na palatina). A coroa total desgasta **1,3 a 1,5 mm em todas as faces axiais** (cap. 35).",
+   "fonte": "mondelli2017",
+   "onde": "cap. 34, seções Técnica de preparo e Proteção de cúspides"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Dente vital vai receber coroa total. Depois do preparo, sobra aproximadamente metade da estrutura coronal, envolvendo todo o terço cervical. Qual é a conduta pela regra do Pegoraro?",
+   "alternativas": [
+    {
+     "texto": "Fazer endodontia de rotina antes de toda coroa.",
+     "correta": false,
+     "justificativa": "Endo antes de coroa é indicação, não rotina: só entra quando o remanescente não resiste às forças mastigatórias.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 140–141"
+    },
+    {
+     "texto": "Fazer endodontia e pino para reforçar o dente.",
+     "correta": false,
+     "justificativa": "Com esse remanescente não há indicação de endo, e o preparo para pino enfraquece a raiz em vez de reforçá-la.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 140–141"
+    },
+    {
+     "texto": "Restaurar sem endodontia.",
+     "correta": true,
+     "justificativa": "Com cerca de metade da estrutura coronal, de preferência envolvendo todo o terço cervical, restaura-se sem endo; a desvitalização deve ser evitada ao máximo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 140–141"
+    },
+    {
+     "texto": "Indicar extração.",
+     "correta": false,
+     "justificativa": "Com metade da estrutura coronal e o terço cervical, o dente se restaura sem endo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 140"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 140",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Um incisivo tratado endodonticamente está intacto. O colega quer colocar pino \"para reforçar\" antes da coroa. O que diz o Shillingburg?",
+   "alternativas": [
+    {
+     "texto": "O pino tem mais chance de enfraquecer do que de fortalecer; o incisivo tratado intacto é três vezes mais resistente à fratura do que com pino e núcleo.",
+     "correta": true,
+     "justificativa": "Pino retém núcleo, não reforça dente: ele existe para dar retenção à coroa.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 13, p. 214"
+    },
+    {
+     "texto": "Está correto, porque todo dente tratado precisa de pino.",
+     "correta": false,
+     "justificativa": "O pino só entra quando falta estrutura para reter o núcleo; com dano moderado, a câmara pulpar retém o núcleo.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 13, p. 216–217"
+    },
+    {
+     "texto": "Está correto, desde que o pino seja metálico.",
+     "correta": false,
+     "justificativa": "O problema não é o material: o preparo para pino, metálico ou não, enfraquece a raiz.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "Está correto, porque o pino substitui a férula.",
+     "correta": false,
+     "justificativa": "O pino não substitui a férula: é o remanescente coronal de 1,5 a 2 mm em todas as faces que dá o efeito férula.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    }
+   ],
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 214",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Molar com menos de uma parede, tratamento endodôntico e sem férula. Qual é o cenário?",
+   "alternativas": [
+    {
+     "texto": "Inlay cerâmico, porque o dente é tratado.",
+     "correta": false,
+     "justificativa": "Dente tratado com cúspides enfraquecidas pede redução e cobertura; aqui quase não há remanescente.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de resistência"
+    },
+    {
+     "texto": "Resina direta, porque Mondelli dispensa cobertura em dente tratado.",
+     "correta": false,
+     "justificativa": "Mondelli dispensa cobertura só quando cristas marginais e pontes de esmalte estão preservadas, o que não é o caso.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 21, introdução"
+    },
+    {
+     "texto": "Pino de reforço, que resolve a ausência de férula.",
+     "correta": false,
+     "justificativa": "O preparo para pino enfraquece a raiz, e o efeito férula vem do remanescente coronal de 1,5 a 2 mm em todas as faces, que aqui não existe.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "O teto da escala e o limite do teto: coroa total sobre núcleo ou extração; sem base de sustentação para o núcleo, a raiz fica mais suscetível à fratura.",
+     "correta": true,
+     "justificativa": "Com grande destruição coronária, o Pegoraro indica núcleo metálico fundido; sem estrutura que sirva de base de sustentação, as forças ficam oblíquas e a raiz fica mais suscetível à fratura. A extração entra como último recurso quando o dente não é restaurável (Cohen 12ª ed., cap. 10, p. 395).",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141–142"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 141–142",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Molar com tratamento endodôntico, duas paredes finas e coroa clínica curta. Qual é o degrau indicado?",
+   "alternativas": [
+    {
+     "texto": "Inlay.",
+     "correta": false,
+     "justificativa": "Paredes finas pedem cobertura; o inlay só repõe estrutura e não protege a que sobrou.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 6, p. 71–76 (Tabela 6-1)"
+    },
+    {
+     "texto": "Overlay ou endocrown.",
+     "correta": true,
+     "justificativa": "Cúspide enfraquecida de dente tratado se reduz e cobre (Mondelli, cap. 2); a endocrown usa a câmara pulpar como área de adesão (de Kuijper et al., 2026, p. 2). O ensaio de 2026, porém, só incluiu molares com uma ou nenhuma parede (p. 3).",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de resistência"
+    },
+    {
+     "texto": "Resina direta sem cobertura.",
+     "correta": false,
+     "justificativa": "Cúspide enfraquecida de dente tratado se reduz e cobre.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de resistência"
+    },
+    {
+     "texto": "Coroa total com pino de reforço, obrigatoriamente.",
+     "correta": false,
+     "justificativa": "Pino não reforça: o preparo para pino enfraquece a raiz. Quando dá para cobrir as cúspides, coroa com pino não é obrigatória.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 2, seção Forma de resistência",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "No ensaio de de Kuijper e colaboradores (2026), com 102 molares tratados e muito destruídos, qual foi o resultado em 2 anos?",
+   "alternativas": [
+    {
+     "texto": "Sobrevida de 98% para resina direta e 100% para endocrown, sem diferença; a endocrown foi melhor em brilho, desgaste e saúde da mucosa.",
+     "correta": true,
+     "justificativa": "98,0% × 100%, p = 0,32; o limite do estudo é o tempo, dois anos.",
+     "fonte": "kuijper2026",
+     "onde": "p. 9–10 (seções 3.1–3.2)"
+    },
+    {
+     "texto": "A endocrown teve sobrevida muito superior à resina direta.",
+     "correta": false,
+     "justificativa": "98,0% × 100%, p = 0,32: sem diferença.",
+     "fonte": "kuijper2026",
+     "onde": "p. 9 (seção 3.1)"
+    },
+    {
+     "texto": "A resina direta falhou em mais da metade dos casos.",
+     "correta": false,
+     "justificativa": "Só uma restauração de resina contou como falha (cárie secundária); a sobrevida foi de 98,0% em 2 anos.",
+     "fonte": "kuijper2026",
+     "onde": "p. 4 (Figura 1) e p. 9–10 (seção 3.1)"
+    },
+    {
+     "texto": "Os pacientes preferiram claramente a resina direta.",
+     "correta": false,
+     "justificativa": "A satisfação não diferiu entre os grupos em nenhum momento medido (até 12 meses).",
+     "fonte": "kuijper2026",
+     "onde": "p. 10 (seção 3.3) e p. 15 (Tabela 5)"
+    }
+   ],
+   "fonte": "kuijper2026",
+   "onde": "p. 9–10 (seções 3.1–3.3)",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "A revisão de de Kuijper et al. (2023) não encontrou diferença a curto prazo entre direta e indireta em dentes tratados. Qual é o viés apontado?",
+   "alternativas": [
+    {
+     "texto": "Os estudos com resina direta eram todos em dentes anteriores.",
+     "correta": false,
+     "justificativa": "Estudos em dentes anteriores eram critério de exclusão, e a metanálise usou só dados de posteriores.",
+     "fonte": "kuijper2023",
+     "onde": "p. 296 (Material e métodos) e p. 301 (Resultados)"
+    },
+    {
+     "texto": "A indireta era sempre feita em dentes vitais.",
+     "correta": false,
+     "justificativa": "A revisão incluiu só dentes tratados endodonticamente; o viés apontado é de indicação.",
+     "fonte": "kuijper2023",
+     "onde": "p. 296 (Material e métodos)"
+    },
+    {
+     "texto": "A escolha entre direta e indireta dependia da destruição coronária e do prognóstico: quem decidiu foi o remanescente, não o tipo de restauração.",
+     "correta": true,
+     "justificativa": "É o viés de indicação: num dos ensaios, as diretas ficaram mais em dentes com 3 ou 4 paredes (o que rebaixou a certeza), e nos observacionais a indicação dependia da destruição coronária.",
+     "fonte": "kuijper2023",
+     "onde": "p. 299 (Resultados) e p. 303–304 (Tabelas 4 e 5)"
+    },
+    {
+     "texto": "Não há viés: a direta é sempre equivalente.",
+     "correta": false,
+     "justificativa": "Os autores apontam confusão grave e dizem que comparar o tipo de restauração sem controlar a estrutura coronária não é válido.",
+     "fonte": "kuijper2023",
+     "onde": "p. 301 (Resultados, estudos observacionais) e p. 305 (Conclusões)"
+    }
+   ],
+   "fonte": "kuijper2023",
+   "onde": "p. 303–304 (Tabelas 4 e 5)",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "Segundo o Pegoraro, quanto de férula se deve ter?",
+   "alternativas": [
+    {
+     "texto": "0,5 mm, só na vestibular.",
+     "correta": false,
+     "justificativa": "O valor é 1,5 a 2 mm, em todas as faces.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "1,5 a 2 mm de altura, em todas as faces.",
+     "correta": true,
+     "justificativa": "É o valor do Pegoraro; o Shillingburg fala em 1 a 2 mm (cap. 13, p. 216).",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "4 mm, só nas proximais.",
+     "correta": false,
+     "justificativa": "4 mm é a altura mínima do dente preparado para a coroa, não a férula.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 1, p. 28"
+    },
+    {
+     "texto": "Não é necessária quando há pino.",
+     "correta": false,
+     "justificativa": "O efeito férula é muito importante para o sucesso a longo prazo do dente com pino; o pino não o dispensa.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    }
+   ],
+   "fonte": "pegoraro2013",
+   "onde": "cap. 5, p. 141",
+   "figura": null
+  },
+  {
+   "id": "q08",
+   "enunciado": "Qual é a redução axial de uma coroa total livre de metal, segundo o Mondelli?",
+   "alternativas": [
+    {
+     "texto": "1,2 a 1,5 mm.",
+     "correta": false,
+     "justificativa": "O livro diz 1,3 a 1,5 mm; 1,2 foi o número dito no podcast.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 35, seção Características do dente preparado"
+    },
+    {
+     "texto": "Nenhuma: a coroa só reduz a oclusal.",
+     "correta": false,
+     "justificativa": "A coroa reduz todas as faces axiais; quem preserva a maior parte das paredes axiais é o onlay.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 34, seção Proteção de cúspides"
+    },
+    {
+     "texto": "2 a 2,5 mm.",
+     "correta": false,
+     "justificativa": "A redução axial da coroa é de 1,3 a 1,5 mm; 2 mm é a redução da cúspide funcional no onlay cerâmico.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 34, seção Técnica de preparo"
+    },
+    {
+     "texto": "1,3 a 1,5 mm em todas as faces axiais.",
+     "correta": true,
+     "justificativa": "É o valor do Mondelli para a coroa total livre de metal.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 35, seção Características do dente preparado"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 35, seção Características do dente preparado",
+   "figura": null
+  },
+  {
+   "id": "q09",
+   "enunciado": "Molar tratado endodonticamente com dano moderado vai receber coroa. Como reconstruir o núcleo?",
+   "alternativas": [
+    {
+     "texto": "Pino intrarradicular em todos os canais, para reforçar.",
+     "correta": false,
+     "justificativa": "O preparo para pino enfraquece a raiz; com dano moderado, a câmara retém o núcleo.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "Núcleo metálico fundido de rotina.",
+     "correta": false,
+     "justificativa": "O Pegoraro reserva o núcleo fundido para os casos de grande destruição coronal.",
+     "fonte": "pegoraro2013",
+     "onde": "cap. 5, p. 141"
+    },
+    {
+     "texto": "Núcleo de amálgama ou resina retido na câmara pulpar, sem pino.",
+     "correta": true,
+     "justificativa": "Pino só quando falta estrutura para segurar o núcleo.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 13, p. 216–217"
+    },
+    {
+     "texto": "Nenhum núcleo; cimentar a coroa direto sobre o canal.",
+     "correta": false,
+     "justificativa": "O dano moderado se reconstrói com núcleo de amálgama ou resina retido na câmara pulpar.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 13, p. 216–217"
+    }
+   ],
+   "fonte": "shillingburg2012",
+   "onde": "cap. 13, p. 216–217",
+   "figura": null
+  },
+  {
+   "id": "q10",
+   "enunciado": "Na divergência sobre o posterior tratado endodonticamente, qual afirmação está correta?",
+   "alternativas": [
+    {
+     "texto": "Os dois autores indicam coroa total em todo dente tratado.",
+     "correta": false,
+     "justificativa": "Nenhum dos dois diz isso: o Shillingburg pede cobertura oclusal, como um onlay MOD.",
+     "fonte": "shillingburg2012",
+     "onde": "cap. 13, p. 214"
+    },
+    {
+     "texto": "Shillingburg (2012) pede no mínimo cobertura oclusal; Mondelli (2017) aceita resina direta se cristas marginais e pontes de esmalte estão preservadas; com cúspide enfraquecida, os dois cobrem.",
+     "correta": true,
+     "justificativa": "Mondelli: endo sozinha, com cristas e pontes preservadas, não pede mais que resina direta (cap. 21), e cúspide enfraquecida de dente tratado se reduz e cobre (cap. 2). Shillingburg: cobertura oclusal como mínimo (cap. 13, p. 214).",
+     "fonte": "mondelli2017",
+     "onde": "cap. 21, introdução; cap. 2, seção Forma de resistência"
+    },
+    {
+     "texto": "Mondelli exige cobertura em todo dente tratado, e Shillingburg dispensa.",
+     "correta": false,
+     "justificativa": "Está invertido: é o Mondelli que aceita resina direta com cristas e pontes preservadas.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 21, introdução"
+    },
+    {
+     "texto": "Os autores divergem quando a cúspide está fraca.",
+     "correta": false,
+     "justificativa": "Ao contrário: com cúspide enfraquecida, o Mondelli também reduz e cobre; a divergência é no dente tratado com estrutura preservada.",
+     "fonte": "mondelli2017",
+     "onde": "cap. 2, seção Forma de resistência"
+    }
+   ],
+   "fonte": "mondelli2017",
+   "onde": "cap. 21, introdução; cap. 2, seção Forma de resistência",
+   "figura": null
+  }
+ ]
+}

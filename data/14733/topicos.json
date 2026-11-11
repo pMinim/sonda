@@ -1,0 +1,221 @@
+{
+  "disciplina": "14733",
+  "topicos": [
+    {
+      "slug": "saude-e-gengivite-2018",
+      "titulo": "Saúde periodontal e doenças gengivais (classificação de 2018)",
+      "area": "Periodontia",
+      "resumoCurto": "O corte de 10% de sangramento, periodonto íntegro × reduzido, periodontite estável e as três formas de gengivite.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Chapple, Murakami, Holmstrup, Trombelli) e Carranza 13ª ed."
+    },
+    {
+      "slug": "periodontite-estagio-grau",
+      "titulo": "Periodontite: estágio, grau e extensão",
+      "area": "Periodontia",
+      "resumoCurto": "Como fechar o diagnóstico pela classificação de 2018: critérios de caso, os quatro estágios, os três graus e a extensão.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple, Berglundh, Herrera) e Carranza 13ª ed."
+    },
+    {
+      "slug": "lesoes-periodontais-agudas-e-endo-perio",
+      "titulo": "Lesões periodontais agudas e lesão endo-periodontal",
+      "area": "Periodontia",
+      "resumoCurto": "A escada das necrosantes e o abscesso periodontal × lesão endo-periodontal: o teste de vitalidade decide.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Herrera, Tonetti, Chapple), Carranza 13ª ed. e Cohen 12ª ed., cap. 25"
+    },
+    {
+      "slug": "recessao-e-condicoes-mucogengivais",
+      "titulo": "Recessão gengival e condições mucogengivais",
+      "area": "Periodontia",
+      "resumoCurto": "Fenótipo fino × espesso, o teto de recobrimento de Cairo e por que margem intrasulcular em fenótipo fino é receita de recessão.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Cortellini & Bissada, Jepsen, Caton, Tonetti, Chapple, Murakami, Herrera, Fan & Caton)"
+    },
+    {
+      "slug": "trauma-oclusal",
+      "titulo": "Forças oclusais traumáticas",
+      "area": "Periodontia",
+      "resumoCurto": "Trauma primário × secundário: não inicia periodontite, acelera onde ela já existe, e ajuste oclusal não a trata.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Fan & Caton, Jepsen, Tonetti, Murakami, Herrera)"
+    },
+    {
+      "slug": "doencas-peri-implantares",
+      "titulo": "Saúde, mucosite e peri-implantite",
+      "area": "Periodontia",
+      "resumoCurto": "O paralelo com a gengivite e a periodontite, os critérios sem radiografia de base, o risco de quem teve periodontite e o rebordo deficiente.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Renvert, Hämmerle & Tarnow, Berglundh, Caton, Chapple, Tonetti)"
+    },
+    {
+      "slug": "tratamento-periodontal-basico",
+      "titulo": "Tratamento periodontal básico: fases, reavaliação e manutenção",
+      "area": "Periodontia",
+      "resumoCurto": "Fases da terapia, instrumentação subgengival, reavaliação e terapia de suporte.",
+      "status": "em-revisao",
+      "origem": "Lindhe 7ª ed. (caps. 30, 48) e Carranza 13ª ed. (caps. 50–51, 72)"
+    },
+    {
+      "slug": "diagnostico-pulpar-e-periapical",
+      "titulo": "Diagnóstico pulpar e periapical: testes e decisão",
+      "area": "Endodontia",
+      "resumoCurto": "Terminologia, testes de sensibilidade, percussão e palpação, e a correlação com a radiografia.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., cap. 1"
+    },
+    {
+      "slug": "urgencias-endodonticas",
+      "titulo": "Urgências endodônticas",
+      "area": "Endodontia",
+      "resumoCurto": "As cinco urgências legítimas, drenagem pelo canal e trefinação, dente aberto ou fechado, antibiótico, analgésico e flare-up.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., caps. 19 e 1"
+    },
+    {
+      "slug": "retratamento-endodontico",
+      "titulo": "Dente com tratamento endodôntico prévio e lesão persistente",
+      "area": "Endodontia",
+      "resumoCurto": "Doença pós-tratamento: as quatro causas e as opções (retratamento não cirúrgico, cirurgia perirradicular ou extração).",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., caps. 10 e 11"
+    },
+    {
+      "slug": "traumatismo-dentario",
+      "titulo": "Traumatismo dentário: fraturas coronárias e avulsão",
+      "area": "Endodontia",
+      "resumoCurto": "Fraturas de esmalte e dentina e a conduta na avulsão de dente permanente.",
+      "status": "em-breve",
+      "origem": "Livros-texto e seminários (a preparar)"
+    },
+    {
+      "slug": "carie-profunda-remocao-seletiva-e-protecao-pulpar",
+      "titulo": "Cárie profunda: proteção do complexo dentinopulpar",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Proteção pulpar na cárie profunda: capeamento indireto e direto, pulpotomia, hemostasia, materiais, forramento conforme a profundidade e acompanhamento.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed. (cap. 24) e Mondelli 2ª ed. (cap. 20)"
+    },
+    {
+      "slug": "remocao-seletiva-de-carie",
+      "titulo": "Remoção seletiva de tecido cariado: critérios e evidência",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Até onde remover na cárie profunda: remoção seletiva × completa, remoção em etapas e critérios para a dentina.",
+      "status": "em-breve",
+      "origem": "A preparar: livros-texto de dentística e consensos sobre remoção seletiva (a definir)"
+    },
+    {
+      "slug": "risco-de-carie-adequacao-do-meio-e-carie-radicular",
+      "titulo": "Risco de cárie, adequação do meio e cárie radicular",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Avaliação de risco, adequação do meio bucal e escolha do material na cárie radicular.",
+      "status": "em-breve",
+      "origem": "Livros-texto e seminários (a preparar)"
+    },
+    {
+      "slug": "resina-direta-posterior",
+      "titulo": "Restauração direta em resina composta em posteriores",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Isolamento, sistemas adesivos, matriz e cunha, inserção incremental (técnica do Mondelli) e conferência.",
+      "status": "em-revisao",
+      "origem": "Mondelli 2ª ed. (cap. 20) e Baratieri (caps. 5, 17–18)"
+    },
+    {
+      "slug": "resina-direta-anterior-classe-iv",
+      "titulo": "Restauração direta classe IV em anteriores",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Planejamento (cor, ensaio e mapa cromático), guia de silicone × mão livre, bisel, retenção, inserção e acabamento.",
+      "status": "em-revisao",
+      "origem": "Mondelli 2ª ed. (caps. 27–28) e Baratieri (cap. 11)"
+    },
+    {
+      "slug": "lesoes-cervicais-nao-cariosas",
+      "titulo": "Lesões cervicais não cariosas: diagnóstico e conduta",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Etiologia multifatorial, hipersensibilidade e quando restaurar ou acompanhar.",
+      "status": "em-breve",
+      "origem": "Livros-texto e seminários (a preparar)"
+    },
+    {
+      "slug": "preparos-parciais-e-cobertura-de-cuspide",
+      "titulo": "Restaurações indiretas parciais: inlay, onlay, overlay e endocrown",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "A escala do reboco à demolição: quando cobrir cúspide e o que muda no preparo para cerâmica aderida.",
+      "status": "em-revisao",
+      "origem": "Mondelli 2ª ed., Shillingburg 4ª ed., Pegoraro 2013 e artigos (Morimoto 2016, Michaud & Dort 2024, Prott 2025, de Kuijper 2026)"
+    },
+    {
+      "slug": "dente-tratado-endodonticamente-como-restaurar",
+      "titulo": "Dente tratado endodonticamente: como restaurar",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Quando a coroa precisa de endo, por que o pino retém e não reforça, a férula e o dente já tratado.",
+      "status": "em-revisao",
+      "origem": "Pegoraro 2013, Mondelli 2ª ed., Shillingburg 4ª ed., Cohen 12ª ed. (cap. 10) e artigos (Morimoto 2016, Michaud & Dort 2024, Prott 2025, de Kuijper 2023/2026)"
+    },
+    {
+      "slug": "plano-de-tratamento-integrado",
+      "titulo": "Plano de tratamento integrado: ordem das fases",
+      "area": "Integrado",
+      "resumoCurto": "Da urgência à manutenção: a ordem das fases e quando a prótese espera o periodonto.",
+      "status": "em-breve",
+      "origem": "Livros-texto e seminários (a preparar)"
+    },
+    {
+      "slug": "interface-restauracao-periodonto",
+      "titulo": "Interface restauração–periodonto",
+      "area": "Integrado",
+      "resumoCurto": "Onde a margem pode morar: inserção de tecido supracrestal, margem como fator retentivo e fenótipo.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Ercoli & Caton, Jepsen, Chapple, Murakami, Herrera), Carranza 13ª ed. (cap. 69) e Pegoraro 2013"
+    },
+    {
+      "slug": "fotografia-clinica-com-celular",
+      "titulo": "Fotografia clínica com celular",
+      "area": "Integrado",
+      "resumoCurto": "Termo e LGPD, kit mínimo, as 6 tomadas do protocolo, erros comuns e padronização do antes/depois.",
+      "status": "em-breve",
+      "origem": "Aula 02 — Prof. Pedro (texto de estudo)"
+    },
+    {
+      "slug": "cimentacao-de-restauracoes-indiretas",
+      "titulo": "Cimentação: convencional × adesiva, tratamento da superfície da peça",
+      "area": "Prótese",
+      "resumoCurto": "Fecha o ciclo das parciais e coroas (temas 14 e 15); cada cerâmica pede um protocolo",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "clareamento-dental",
+      "titulo": "Clareamento caseiro e de consultório; dente desvitalizado",
+      "area": "Dentística",
+      "resumoCurto": "Demanda frequente do paciente da clínica; sensibilidade e sequência antes de restaurar anterior",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "deteccao-e-diagnostico-de-carie",
+      "titulo": "Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão",
+      "area": "Dentística",
+      "resumoCurto": "É o primeiro passo antes de qualquer decisão de remoção seletiva (tema 9) e de risco (tema 10)",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "oclusao-na-clinica-restauradora",
+      "titulo": "Oclusão na clínica restauradora: contatos, guias e ajuste das restaurações",
+      "area": "Prótese",
+      "resumoCurto": "Toda restauração e coroa termina em ajuste oclusal",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "qualidade-do-tratamento-endodontico",
+      "titulo": "Controle radiográfico de qualidade da obturação e selamento coronário",
+      "area": "Endodontia",
+      "resumoCurto": "O aluno precisa julgar se a endo do próprio paciente está pronta para receber a restauração",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    }
+  ]
+}

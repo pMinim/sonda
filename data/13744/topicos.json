@@ -1,0 +1,109 @@
+{
+  "disciplina": "13744",
+  "topicos": [
+    {
+      "slug": "angina-iam-endocardite",
+      "titulo": "Angina, infarto e endocardite: tempo após IAM, vasoconstritor e profilaxia",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Cardiopata é encaminhado ao aluno de 8º semestre (aula consta no índice, fora do cronograma oficial)",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "anticoagulados-e-coagulopatias",
+      "titulo": "Anticoagulantes, antiagregantes e coagulopatias hereditárias (hemofilia, von Willebrand)",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Risco hemorrágico define se e onde o paciente é atendido",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "diabetes-mellitus",
+      "titulo": "Diabetes: controle glicêmico, relação bidirecional com periodontite, hipoglicemia no consultório",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Condição sistêmica mais comum na clínica",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "doenca-renal-cronica",
+      "titulo": "Doença renal crônica e hemodiálise: dia do atendimento, sangramento, ajuste de dose",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Ajuste de medicamento e risco hemorrágico específicos",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "doencas-pulmonares",
+      "titulo": "Asma, DPOC (definição GOLD) e pneumonia aspirativa ligada ao biofilme",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Conduta na crise de asma e higiene bucal como prevenção de pneumonia",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "emergencias-medicas-no-consultorio",
+      "titulo": "Emergências médicas: síncope, hipoglicemia, crise asmática, anafilaxia, dor torácica, convulsão; kit básico",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Malamed é bibliografia básica e nenhuma aula do cronograma trata do tema isolado",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "hipertensao-arterial",
+      "titulo": "Hipertensão: aferição, níveis que contraindicam o atendimento, vasoconstritor",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Medir PA antes de anestesiar é rotina obrigatória",
+      "status": "em-breve",
+      "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "osteonecrose-por-medicamentos",
+      "titulo": "Osteonecrose dos maxilares associada a medicamentos (bisfosfonatos, denosumabe)",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Exodontia em usuário de antirreabsortivo é decisão de risco",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "paciente-gestante",
+      "titulo": "Gestante: trimestre ideal, radiografia, anestésicos e medicamentos seguros",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Dúvida diária da clínica: trimestre ideal, radiografia e medicamentos seguros.",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "paciente-idoso-e-demencia",
+      "titulo": "Idoso frágil e demência: polifarmácia, hipossalivação, consentimento e cuidador",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "A ementa cita envelhecimento; é o perfil que mais cresce",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "paciente-oncologico",
+      "titulo": "Paciente em radioterapia e quimioterapia de cabeça e pescoço: mucosite, xerostomia, osteorradionecrose",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Adequação bucal antes da radioterapia muda o prognóstico",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "sindrome-de-down",
+      "titulo": "Síndrome de Down: alterações bucais, cardiopatia, doença periodontal precoce",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Modelo de paciente com síndrome genética e cuidado ao longo da vida",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "transtorno-do-espectro-autista",
+      "titulo": "TEA: níveis de suporte (DSM-5-TR), manejo comportamental e estabilização protetora",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Paciente frequente; estabilização tem exigência legal e ética",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    }
+  ]
+}

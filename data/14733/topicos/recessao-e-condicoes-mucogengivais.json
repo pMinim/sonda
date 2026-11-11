@@ -1,0 +1,397 @@
+{
+ "slug": "recessao-e-condicoes-mucogengivais",
+ "titulo": "Recessão gengival e condições mucogengivais",
+ "area": "Periodontia",
+ "origem": "Consenso de 2018 (Cortellini & Bissada, Jepsen, Caton, Tonetti, Chapple, Murakami, Herrera, Fan & Caton)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "cortellini2018",
+   "ref": "Cortellini P, Bissada NF. Mucogingival conditions in the natural dentition: narrative review, case definitions, and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S190–S198.",
+   "curta": "Cortellini & Bissada 2018"
+  },
+  {
+   "id": "jepsen2018",
+   "ref": "Jepsen S, Caton JG, Albandar JM, et al. Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup 3 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S219–S229.",
+   "curta": "Jepsen et al. 2018 (consenso, grupo 3)"
+  },
+  {
+   "id": "caton2018",
+   "ref": "Caton JG, Armitage G, Berglundh T, et al. A new classification scheme for periodontal and peri-implant diseases and conditions – Introduction and key changes from the 1999 classification. J Clin Periodontol. 2018;45(Suppl 20):S1–S8.",
+   "curta": "Caton et al. 2018"
+  },
+  {
+   "id": "tonetti2018",
+   "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+   "curta": "Tonetti, Greenwell & Kornman 2018"
+  },
+  {
+   "id": "chapple2018",
+   "ref": "Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: Consensus report of workgroup 1 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+   "curta": "Chapple et al. 2018 (consenso, grupo 1)"
+  },
+  {
+   "id": "murakami2018",
+   "ref": "Murakami S, Mealey BL, Mariotti A, Chapple ILC. Dental plaque–induced gingival conditions. J Clin Periodontol. 2018;45(Suppl 20):S17–S27.",
+   "curta": "Murakami et al. 2018"
+  },
+  {
+   "id": "herrera2018",
+   "ref": "Herrera D, Retamal-Valdes B, Alonso B, Feres M. Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions. J Clin Periodontol. 2018;45(Suppl 20):S78–S94.",
+   "curta": "Herrera et al. 2018"
+  },
+  {
+   "id": "fan2018",
+   "ref": "Fan J, Caton JG. Occlusal trauma and excessive occlusal forces: Narrative review, case definitions, and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S199–S206.",
+   "curta": "Fan & Caton 2018"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "recessao",
+   "titulo": "O que é recessão e o que ela custa",
+   "fonte": "jepsen2018",
+   "onde": "seções 2 e 4",
+   "texto": "As condições mucogengivais estão no **grupo 3** da classificação de 2018, o das *outras condições*: o que afeta o periodonto sem ser periodontite. É o mesmo grupo de trabalho que trata dos fatores de dentes e próteses, e é onde a prótese entra.\n\nNa **recessão**, a margem gengival **se desloca para apical da junção cemento-esmalte (JCE)**, com perda de inserção e **raiz exposta**. A raiz exposta cobra em quatro frentes:\n\n- **estética**;\n- **hipersensibilidade dentinária**;\n- **cárie radicular**;\n- **lesões cervicais não cariosas (LCNC)**."
+  },
+  {
+   "id": "fenotipo",
+   "titulo": "Fenótipo e margem intrassulcular",
+   "fonte": "jepsen2018",
+   "onde": "seção 2",
+   "texto": "O consenso troca \"biótipo\" por **fenótipo periodontal**: o fenótipo gengival (**espessura** da gengiva e **largura de tecido queratinizado**) somado ao **morfótipo ósseo** (espessura da lâmina óssea vestibular).\n\nA espessura se avalia com a sonda dentro do sulco:\n\n- **sonda visível através da margem = fenótipo fino (≤ 1 mm)**;\n- **sonda não visível = fenótipo espesso (> 1 mm)**.\n\nO **fenótipo fino aumenta o risco de recessão**. E a margem restauradora **intrassulcular** pode se associar a recessão, **especialmente em fenótipo fino**:\n\n> **Fenótipo fino somado a margem intrassulcular = maior risco de recessão.**\n\nÉ associação, não causa certa: Cortellini & Bissada classificam essa evidência como de nível baixo."
+  },
+  {
+   "id": "cairo",
+   "titulo": "Cairo (RT1–RT3): o teto do recobrimento",
+   "fonte": "cortellini2018",
+   "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)",
+   "texto": "A **classificação de Cairo (RT1–RT3)** usa a **perda de inserção interproximal** e, com ela, indica o **teto do recobrimento possível**:\n\n| Classe | Perda interproximal | Recobrimento |\n|---|---|---|\n| **RT1** | nenhuma (JCE interproximal não detectável) | 100% previsível |\n| **RT2** | presente, **≤** perda vestibular | 100% previsível até certo limite de perda interproximal |\n| **RT3** | presente, **>** perda vestibular | recobrimento total não alcançável |\n\nQuem decide a classe é a **perda interproximal comparada com a vestibular**. A profundidade da recessão e a espessura gengival menor que 1 mm também reduzem a chance de recobrimento completo, mas não mudam a classe."
+  },
+  {
+   "id": "recessao-na-classificacao",
+   "titulo": "Recessão não é sinônimo de periodontite",
+   "fonte": "tonetti2018",
+   "onde": "definição de caso de periodontite (opções A e B e as cinco exclusões)",
+   "texto": "A recessão aparece em dois outros pontos da classificação, e nos dois o recado é o mesmo: **perda de inserção não é sinônimo de periodontite; primeiro pergunte *perdeu por quê?***\n\n- **Saúde em periodonto reduzido, paciente sem periodontite** (Chapple et al., Tabela 1): sondagem ≤ 3 mm e sangramento < 10%, mas **há** perda de inserção de outra causa, como **recessão** ou **aumento de coroa** (o terreno encolheu por obra, não por enchente).\n- **Critério 2 de caso de periodontite** (perda de inserção ≥ 3 mm em V/L com bolsa > 3 mm, em ≥ 2 dentes): antes de fechar periodontite, descartam-se cinco causas não periodontais: **recessão gengival de origem traumática**, cárie que chega à cervical, perda na distal do 2º molar ligada à má posição ou extração do 3º molar, lesão endodôntica drenando pela margem periodontal e fratura radicular vertical."
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/recessao-gengival-11.jpg",
+   "alt": "Foto intraoral frontal; no incisivo central superior direito a gengiva recuou e deixa à mostra boa parte da raiz.",
+   "legenda": "Recessão gengival grave no dente 11: a margem gengival está apical à junção cemento-esmalte e a raiz fica exposta.",
+   "credito": "Foto: Abulfateh et al., Cureus, 2026 (Figura 1). CC BY 4.0.",
+   "apos": "recessao",
+   "largura": 750,
+   "altura": 422
+  },
+  {
+   "src": "data/14733/img/fenotipo-teste-da-sonda.jpg",
+   "alt": "Três fotos de uma sonda de ponta colorida dentro do sulco de um incisivo superior, uma para cada cor de ponta.",
+   "legenda": "O teste da sonda: com a sonda dentro do sulco, observa-se se ela aparece através da gengiva. Sonda visível indica fenótipo fino; não visível, espesso. Nestas fotos os autores usam uma sonda de pontas coloridas (A, branca; B, verde; C, azul).",
+   "credito": "Fotos: Hadzik et al., Materials, 2026 (Figura 1). CC BY 4.0.",
+   "apos": "fenotipo",
+   "largura": 618,
+   "altura": 1113
+  },
+  {
+   "src": "data/14733/img/cairo-rt1-rt2-rt3.svg",
+   "alt": "Três esquemas lado a lado, vista vestibular de incisivo lateral, canino e primeiro pré-molar inferiores. A recessão vestibular do canino é igual nos três. Em RT1 as papilas preenchem o espaço entre os dentes. Em RT2 as papilas desceram um pouco, menos que a margem vestibular. Em RT3 desceram mais que a margem vestibular.",
+   "legenda": "Classificação de Cairo: o que define a classe é a perda de inserção interproximal comparada com a vestibular, e não a profundidade da recessão, que aqui é a mesma nos três painéis. RT1: sem perda interproximal (JCE interproximal não detectável); recobrimento de 100% previsível. RT2: perda interproximal menor ou igual à vestibular; 100% previsível até certo limite. RT3: perda interproximal maior que a vestibular; recobrimento total não alcançável (Cortellini & Bissada 2018).",
+   "credito": "Esquema elaborado para o Sonda.",
+   "apos": "cairo",
+   "largura": 720,
+   "altura": 520
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Em que grupo da classificação de 2018 ficam as condições mucogengivais?",
+   "verso": "No **grupo 3, outras condições**: o que afeta o periodonto sem ser periodontite (onde a prótese entra).",
+   "fonte": "jepsen2018",
+   "onde": "seções 2 e 4"
+  },
+  {
+   "id": "f02",
+   "frente": "O que acontece na recessão gengival?",
+   "verso": "A margem gengival **se desloca para apical da JCE e expõe a raiz**, com perda de inserção.",
+   "fonte": "cortellini2018",
+   "onde": "definições de caso: recessão gengival"
+  },
+  {
+   "id": "f03",
+   "frente": "Que consequências da raiz exposta pela recessão o consenso lista?",
+   "verso": "**Estética, hipersensibilidade dentinária, cárie radicular e lesões cervicais não cariosas (LCNC).**",
+   "fonte": "jepsen2018",
+   "onde": "seção 2"
+  },
+  {
+   "id": "f04",
+   "frente": "Qual o papel do fenótipo periodontal (fino × espesso)?",
+   "verso": "Entra na **avaliação de risco**: o fenótipo fino aumenta o risco de recessão.",
+   "fonte": "jepsen2018",
+   "onde": "seção 2"
+  },
+  {
+   "id": "f05",
+   "frente": "Qual combinação o consenso associa a maior risco de recessão?",
+   "verso": "**Fenótipo fino + margem restauradora intrassulcular.** É associação de evidência baixa, não causa certa.",
+   "fonte": "jepsen2018",
+   "onde": "seção 2"
+  },
+  {
+   "id": "f06",
+   "frente": "O que a classificação de Cairo (RT1–RT3) define?",
+   "verso": "O **teto do recobrimento**: RT1, 100% previsível; RT2, 100% até certo limite de perda interproximal; RT3, recobrimento total não alcançável.",
+   "fonte": "cortellini2018",
+   "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)"
+  },
+  {
+   "id": "f07",
+   "frente": "Quem manda no teto do recobrimento?",
+   "verso": "A **perda interproximal**, comparada com a vestibular: igual ou menor é RT2; maior é RT3.",
+   "fonte": "cortellini2018",
+   "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)"
+  },
+  {
+   "id": "f08",
+   "frente": "Recessão traumática com sondagem ≤ 3 mm e sangramento < 10%: que diagnóstico?",
+   "verso": "**Saúde em periodonto reduzido, sem periodontite.** Perda de inserção não é sinônimo de periodontite: perdeu por quê?",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1"
+  },
+  {
+   "id": "f09",
+   "frente": "Como a sonda classifica o fenótipo gengival pela espessura?",
+   "verso": "Sonda no sulco **visível através da margem = fino (≤ 1 mm)**; **não visível = espesso (> 1 mm)**.",
+   "fonte": "jepsen2018",
+   "onde": "seção 2"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Segundo Cortellini & Bissada (2018), o que a classificação de Cairo (RT1–RT3) define na recessão gengival?",
+   "alternativas": [
+    {
+     "texto": "O estágio da periodontite do paciente.",
+     "correta": false,
+     "justificativa": "Estágio é da periodontite e usa a perda de inserção interdental no sítio de maior perda; Cairo é da recessão.",
+     "fonte": "caton2018",
+     "onde": "Tabela 3, nota 1"
+    },
+    {
+     "texto": "O teto do recobrimento radicular possível.",
+     "correta": true,
+     "justificativa": "Cada classe de Cairo tem seu teto: RT1 e RT2 com recobrimento de 100% previsível (RT2 até certo limite), RT3 sem recobrimento total.",
+     "fonte": "cortellini2018",
+     "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)"
+    },
+    {
+     "texto": "O fenótipo periodontal, fino ou espesso.",
+     "correta": false,
+     "justificativa": "Fenótipo é avaliação à parte (espessura gengival e largura de queratinizado) e entra no risco de recessão; não é o que Cairo classifica.",
+     "fonte": "jepsen2018",
+     "onde": "seção 2"
+    },
+    {
+     "texto": "A velocidade de progressão da doença.",
+     "correta": false,
+     "justificativa": "Velocidade de progressão é o grau da periodontite (A, B, C), não a classificação de Cairo.",
+     "fonte": "caton2018",
+     "onde": "Tabela 3, item 3c"
+    }
+   ],
+   "fonte": "cortellini2018",
+   "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Na classificação de Cairo, quem manda no teto do recobrimento?",
+   "alternativas": [
+    {
+     "texto": "A altura da recessão na vestibular.",
+     "correta": false,
+     "justificativa": "Cairo classifica pela perda interproximal comparada com a vestibular. A profundidade da recessão pesa no prognóstico (quanto maior, menor a chance de recobrimento completo), mas não define a classe.",
+     "fonte": "cortellini2018",
+     "onde": "considerações diagnósticas, profundidade da recessão e CAL interdental"
+    },
+    {
+     "texto": "O fenótipo periodontal.",
+     "correta": false,
+     "justificativa": "A espessura gengival influencia o resultado (menos de 1 mm reduz a chance de recobrimento completo), mas não é o critério da classificação de Cairo.",
+     "fonte": "cortellini2018",
+     "onde": "considerações diagnósticas, espessura gengival"
+    },
+    {
+     "texto": "O sangramento à sondagem.",
+     "correta": false,
+     "justificativa": "Sangramento à sondagem é o parâmetro da gengivite (≥ 10% dos sítios), não o que limita o recobrimento.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "A perda interproximal.",
+     "correta": true,
+     "justificativa": "É o critério de Cairo: a perda interproximal, comparada com a vestibular, separa RT1, RT2 e RT3 e marca o teto do recobrimento.",
+     "fonte": "cortellini2018",
+     "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)"
+    }
+   ],
+   "fonte": "cortellini2018",
+   "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Qual combinação o consenso de 2018 associa a maior risco de recessão gengival?",
+   "alternativas": [
+    {
+     "texto": "Fenótipo fino somado a margem intrassulcular.",
+     "correta": true,
+     "justificativa": "O consenso diz que a margem intrassulcular pode se associar a recessão, especialmente em fenótipo fino; a evidência é de nível baixo.",
+     "fonte": "jepsen2018",
+     "onde": "seção 2"
+    },
+    {
+     "texto": "Fenótipo espesso somado a margem supragengival.",
+     "correta": false,
+     "justificativa": "É o oposto da combinação de risco: gengiva mais espessa se associa a menor progressão da recessão.",
+     "fonte": "cortellini2018",
+     "onde": "definições de caso: recessão gengival"
+    },
+    {
+     "texto": "Aumento gengival induzido por fármaco.",
+     "correta": false,
+     "justificativa": "Aumento gengival induzido por fármaco é o item C da classificação da gengivite induzida por placa, não fator de recessão.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item C"
+    },
+    {
+     "texto": "Trauma oclusal primário.",
+     "correta": false,
+     "justificativa": "Pela evidência revisada no consenso, forças oclusais não causam recessão.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 2",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Paciente com recessão gengival de origem traumática em alguns dentes: sondagem ≤ 3 mm em todos os sítios e sangramento à sondagem em menos de 10% dos sítios. Nunca teve periodontite. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Periodontite estágio I, porque há perda de inserção.",
+     "correta": false,
+     "justificativa": "Recessão de origem traumática é causa não periodontal de perda de inserção: perda de inserção não é sinônimo de periodontite.",
+     "fonte": "tonetti2018",
+     "onde": "definição de caso de periodontite (exclusões)"
+    },
+    {
+     "texto": "Gengivite em periodonto reduzido.",
+     "correta": false,
+     "justificativa": "Para gengivite, o sangramento teria de ser ≥ 10% dos sítios; aqui é < 10%.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Saúde em periodonto reduzido, sem periodontite.",
+     "correta": true,
+     "justificativa": "Sondagem ≤ 3 mm, sangramento < 10% e perda de inserção de outra causa (recessão): é saúde em periodonto reduzido de paciente sem periodontite.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estável.",
+     "correta": false,
+     "justificativa": "Saúde em periodontite tratada e estável é de quem já teve periodontite e foi tratado; este paciente nunca teve.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Segundo o consenso de 2018, que consequências a raiz exposta pela recessão gengival pode trazer?",
+   "alternativas": [
+    {
+     "texto": "Dor intensa, halitose e papilas necrosadas.",
+     "correta": false,
+     "justificativa": "Necrose de papila, dor e halitose são sinais das doenças periodontais necrosantes, não da recessão.",
+     "fonte": "herrera2018",
+     "onde": "seção 2 (doenças periodontais necrosantes)"
+    },
+    {
+     "texto": "Pus na parede da bolsa e edema localizado.",
+     "correta": false,
+     "justificativa": "Pus localizado na parede da bolsa, com edema, é o quadro do abscesso periodontal.",
+     "fonte": "herrera2018",
+     "onde": "seção 1 (abscesso periodontal)"
+    },
+    {
+     "texto": "Aumento de tecido gengival por fármaco.",
+     "correta": false,
+     "justificativa": "Aumento gengival por fármaco é o item C da classificação da gengivite induzida por placa.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item C"
+    },
+    {
+     "texto": "Estética, hipersensibilidade dentinária, cárie radicular e lesões cervicais não cariosas.",
+     "correta": true,
+     "justificativa": "O consenso lista estética, hipersensibilidade dentinária, cárie e lesões cervicais não cariosas na raiz exposta.",
+     "fonte": "jepsen2018",
+     "onde": "seção 2"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 2",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Paciente com perda de inserção ≥ 3 mm na vestibular, com bolsa > 3 mm, em 2 dentes. O exame mostra que a perda vem de recessão gengival de origem traumática. O que orienta a definição de caso de 2018?",
+   "alternativas": [
+    {
+     "texto": "Não carimbar periodontite: recessão traumática é uma das cinco explicações a descartar no critério 2.",
+     "correta": true,
+     "justificativa": "Recessão de origem traumática é a primeira das cinco causas a descartar, ao lado de cárie cervical, perda distal do 2º molar ligada ao 3º molar, lesão endodôntica drenando pela margem e fratura radicular vertical.",
+     "fonte": "tonetti2018",
+     "onde": "definição de caso de periodontite (exclusões)"
+    },
+    {
+     "texto": "Fechar periodontite pelo critério 2, porque há perda V/L ≥ 3 mm em 2 dentes.",
+     "correta": false,
+     "justificativa": "O critério 2 só vale depois de descartar as cinco causas não periodontais, e a recessão traumática é uma delas.",
+     "fonte": "tonetti2018",
+     "onde": "definição de caso de periodontite (opção B e exclusões)"
+    },
+    {
+     "texto": "Fechar periodontite pelo critério 1.",
+     "correta": false,
+     "justificativa": "O critério 1 exige perda de inserção interdental detectável em ≥ 2 dentes não adjacentes; o caso descreve perda vestibular.",
+     "fonte": "tonetti2018",
+     "onde": "definição de caso de periodontite (opção A)"
+    },
+    {
+     "texto": "Indicar ajuste oclusal para tratar a periodontite.",
+     "correta": false,
+     "justificativa": "Ajuste oclusal é complemento e não substitui o controle da inflamação; e aqui a perda tem outra causa.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    }
+   ],
+   "fonte": "tonetti2018",
+   "onde": "definição de caso de periodontite (opção B e exclusões)",
+   "figura": null
+  }
+ ]
+}

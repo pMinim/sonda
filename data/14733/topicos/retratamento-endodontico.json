@@ -1,0 +1,509 @@
+{
+  "slug": "retratamento-endodontico",
+  "titulo": "Dente com tratamento endodôntico prévio e lesão persistente",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 10 e 11",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap10",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 10, Retratamento Não Cirúrgico (Roda RS, Gettleman BH, Johnson SC), p. 337–402.",
+      "curta": "Cohen 12ª ed., cap. 10"
+    },
+    {
+      "id": "cohen12-cap11",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 11, Cirurgia Perirradicular (Johnson BR, Fayad MI, Berman LH), p. 403–464.",
+      "curta": "Cohen 12ª ed., cap. 11"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "causas",
+      "titulo": "Doença pós-tratamento e as quatro causas",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 337–339",
+      "texto": "**Doença pós-tratamento** é o nome que o Cohen adota para a doença endodôntica que persiste ou volta depois do tratamento de canal. O termo substitui \"insucesso\", que carrega peso negativo.\n\n**As quatro causas biológicas:**\n\n1. **Microrganismos intrarradiculares** persistentes ou que reinfectaram o canal: a **principal causa**. A infecção fica quando limpeza, modelagem, obturação e restauração final são inadequadas.\n2. **Infecção extrarradicular:** bactérias no periápice, levadas por extrusão de detritos, sobreinstrumentação ou pelas bolsas periodontais; algumas espécies resistem às defesas e impedem a cicatrização.\n3. **Reação a corpo estranho:** resposta a material extravasado para o periápice. Guta-percha e cimentos costumam ser bem tolerados, mas o extravasamento de cimento pode impedir a cicatrização.\n4. **Cisto verdadeiro:** lesão com revestimento epitelial próprio, que geralmente exige enucleação cirúrgica e não cicatriza só com retratamento não cirúrgico. Os cistos aparecem em **15 a 42% das lesões periapicais**, segundo a incidência relatada.\n\n**As falhas técnicas por trás dessas causas:** canais não tratados (principal e acessórios), acesso mal feito, degraus, perfurações, instrumentos fraturados, sobreinstrumentação, sobreobturação e **infiltração coronária**."
+    },
+    {
+      "id": "diagnostico",
+      "titulo": "Diagnóstico do dente já tratado",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 340–344",
+      "texto": "**Testes perirradiculares mandam.** Percussão, mordida e palpação são os testes mais úteis no dente já tratado. Frio e calor têm valor limitado e podem dar falso-positivo e falso-negativo.\n\n**A radiografia sozinha não fecha o diagnóstico.** Ela deve mostrar o dente e as estruturas vizinhas; uma tomada distalizada pode revelar um canal mesiovestibular não tratado.\n\n**A TCFC (tomografia de feixe cônico)** ajuda a achar canais não localizados, reabsorções e fraturas. Em estudos recentes citados pelo capítulo, a informação da TCFC **mudou o plano de tratamento em até 62% dos casos**.\n\n**Descarte os imitadores antes de mexer no canal:** trauma oclusal, doença periodontal simultânea e dor de origem não dentária podem simular doença pós-tratamento. Um paciente mal diagnosticado pode receber endodontia desnecessária."
+    },
+    {
+      "id": "opcoes",
+      "titulo": "As quatro opções e o dente restaurável",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 344–346",
+      "texto": "Diante de doença pós-tratamento verdadeira, há **quatro opções**:\n\n1. **Não fazer nada**, com documentação e acompanhamento.\n2. **Extração.**\n3. **Retratamento não cirúrgico:** reacessar pela coroa, remover a obturação e tratar de novo o sistema de canais, sem acesso à região apical.\n4. **Retratamento cirúrgico (cirurgia apical):** acesso pela gengiva e tratamento direto da raiz.\n\n**Antes de escolher, pergunte se o dente é restaurável.** Cárie extensa, fratura coronária, relação coroa-raiz ruim, perda óssea grave, doença periodontal avançada e reabsorção radicular extensa tornam o retratamento inviável ou pouco indicado. Nesses casos a extração pode ser a única opção. O capítulo reconhece que o limite entre restaurável e não restaurável depende de quem avalia."
+    },
+    {
+      "id": "retratar-ou-operar",
+      "titulo": "Retratar ou operar",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 346–347",
+      "texto": "**O retratamento não cirúrgico é a regra.** Ele ataca a causa mais comum (infecção intrarradicular), é menos invasivo e expõe menos as estruturas vitais.\n\n| Favorece o **retratamento** | Favorece a **cirurgia** |\n|---|---|\n| obturação deficiente | obturação aparentemente adequada |\n| sinais de infiltração coronária | sem infiltração coronária e sem outra causa tratável |\n| degrau que ainda pode ser transposto | degrau ou instrumento fraturado impenetrável, que não pode ser ultrapassado |\n\n**Instrumento fraturado não removível não manda direto para a cirurgia:** o capítulo orienta tentar o retratamento antes.\n\n**Cirurgia que falhou:** retrate de forma não cirúrgica antes de operar de novo, porque muitos insucessos cirúrgicos vêm de canais mal limpos ou mal obturados.\n\n**Cirurgia exploratória** pode terminar em ressecção radicular ou extração; não é indicada quando o retratamento conservador tem boa chance."
+    },
+    {
+      "id": "indicacoes-cirurgia",
+      "titulo": "Quando o capítulo de cirurgia indica operar",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 404–406 (cap. 11); p. 346 (cap. 10)",
+      "texto": "A cirurgia perirradicular entra quando o retratamento não cirúrgico é **inexequível**, **improvável de melhorar** o resultado anterior, ou quando é preciso **biópsia**. Situações citadas:\n\n- pinos longos ou instrumentos fraturados irrecuperáveis;\n- degraus não contornáveis, bloqueios ou desvios do canal;\n- cimento obturador duro;\n- falha de tratamento não cirúrgico prévio;\n- suspeita de fratura radicular vertical (a cirurgia exploradora pode ser necessária para confirmar).\n\n**Cirurgia como primeira escolha** quando os riscos e custos do retratamento são considerados excessivos, por exemplo quando seria preciso remover uma prótese parcial fixa.\n\n**Cicatrização comprometida do hospedeiro:** diabetes com patologia pré-operatória, imunossupressão e medicações como bisfosfonatos, glicocorticoides, AINEs e inibidores da COX-2 entram na avaliação.\n\n**Decisão compartilhada:** o capítulo defende decidir com o paciente, considerando valores e preferências, porque a evidência sugere prognóstico aproximadamente igual entre retratamento, cirurgia e implante.\n\n**Isso não contradiz a regra de retratar primeiro.** O prognóstico parecido explica por que os valores do paciente pesam na escolha; o retratamento não cirúrgico continua sendo a via habitual porque é menos invasivo e ataca a causa mais comum, a infecção intrarradicular (cap. 10)."
+    },
+    {
+      "id": "remocao",
+      "titulo": "O que se remove no retratamento",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 348–350, 368–371, 388–391",
+      "texto": "**Coroa e pino.** A remoção conservadora de coroa tenta preservar a peça, com alicates, removedores de ponte e instrumentos pneumáticos ou vibratórios. Pinos podem ser pré-fabricados (paralelos ou cônicos; aço, titânio, zircônia ou fibra de vidro) ou fundidos.\n\n**Guta-percha:** escolha primeiro o solvente (clorofórmio; Endosolv-E ou Endosolv-R conforme o cimento ou a pasta) e trabalhe com limas manuais ou ultrassônicas.\n\n**GutaCore** (guta-percha reticulada com carreador de polímero): **calor e solvente não têm efeito**; a remoção depende de instrumentos manuais, rotatórios ou de retratamento.\n\n**Pastas rígidas** (óxido de cálcio, como Biocalex 6.9 / Endocal 10): remoção com ultrassom e limas finas, com risco de fratura e perfuração. **Cones de prata:** corroem com o tempo; o uso caiu desde o fim dos anos 1980, mas a remoção ainda aparece.\n\n**Perfuração** (comunicação canal–ligamento periodontal, por reabsorção, cárie ou iatrogenia):\n\n- prognóstico depende de localização, tempo até o reparo, capacidade de selar e contaminação prévia;\n- **cervical ou assoalho de furca acessível:** prognóstico mais favorável; **terço médio:** mais difícil; **terço apical:** pode exigir cirurgia;\n- **reparo imediato é melhor que tardio**: a demora pode romper o periodonto e gerar lesão endo-perio;\n- o reparo não cirúrgico é a escolha quando o defeito é interno; defeito antigo com lesão periodontal pode exigir cirurgia com regeneração;\n- **materiais:** MTA sela bem e é biocompatível, mas a presa é lenta, o que o torna inadequado em margem gengival com saliva; ali o capítulo indica ionômero/resina de presa rápida (Geristore). Biocerâmicos (Biodentine, EndoSequence) são alternativas de manuseio mais fácil."
+    },
+    {
+      "id": "cirurgia",
+      "titulo": "A cirurgia em uma página",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 427, 430–438, 453",
+      "texto": "**Apicectomia:** remova cerca de **3 mm do ápice, com corte perpendicular ao longo eixo da raiz**. Cerca de **75% dos dentes têm ramificações nos 3 mm apicais**, onde se concentra a maioria dos microrganismos remanescentes. Biséis maiores expõem mais túbulos dentinários e facilitam a chegada de irritantes ao periápice. O corte nesse nível pode expor o **istmo** em raízes com mais de um canal. Proteja forame mentoniano e canal mandibular.\n\n**Retropreparo:** cavidade de cerca de **3 mm ao longo do eixo da raiz**, feita com **ultrassom** (menos remoção óssea, cavidade mais constante e mais profunda, menos bisel). Cavidade fora do eixo impede a vedação e torna a cicatrização improvável. O preparo ultrassônico pode induzir fraturas apicais, embora os estudos in vitro tenham dificuldade de medir o quanto.\n\n**Calor no osso:** manter o osso a **47–50 °C por 1 minuto** já reduz de forma importante a formação óssea; acima de **53 °C**, bastam menos de 1 segundo. A osteotomia precisa evitar esse aquecimento.\n\n**Materiais de retro-obturação:**\n\n- **MTA:** silicato de cálcio; forma hidróxido de cálcio e favorece cemento e tecido mineralizado.\n- **Biocerâmicos** (ex.: EndoSequence): resultados in vitro semelhantes ao MTA; faltam ensaios clínicos.\n- **Super-EBA:** ZOE modificado; bem tolerado, sem regenerar cemento; desintegra em pH ácido.\n- **IRM:** ZOE com mais de 75% de óxido de zinco no pó; veda melhor que o amálgama.\n\nEm estudo humano citado, a **lesão persistente** foi de **16% em 12 meses e 8% em 24 meses com MTA**, contra **24% e 13% com IRM**.\n\n**Pós-operatório:** parestesia **sem sinal de melhora em 10 a 12 semanas** → considerar encaminhamento para avaliação e possível reparo neuromicrocirúrgico."
+    },
+    {
+      "id": "prognostico",
+      "titulo": "Prognóstico",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 346, 394–395",
+      "texto": "**Taxas citadas no capítulo:** o retratamento não cirúrgico tem cicatrização relatada historicamente **entre 74 e 98%**; a cirurgia apical isolada ficou em **59%**, contra **80%** quando precedida de retratamento convencional (p. 346).\n\n**A periapical prévia pesa.** Numa revisão citada pelo capítulo (Friedman e Mor), a cura após retratamento ortógrado, em até 10 anos, foi de **92 a 98% sem periodontite apical prévia** e de **74 a 86% com periodontite apical prévia** (p. 394). Os autores dizem que o retratamento não é necessariamente pior que o tratamento inicial.\n\nAinda assim, em **cerca de um quarto dos casos** o retratamento não cirúrgico não alcança o resultado desejado (p. 395).\n\n**Microcirurgia:** estudos citados pelo capítulo relatam sucesso de **89 a 94%**, acima das técnicas cirúrgicas tradicionais (p. 346).\n\n**Se o retratamento falhar:** observação, cirurgia endodôntica, extração com reimplantação (o reimplante intencional, não detalhado nos capítulos lidos) ou extração; a extração é o último recurso (p. 395).\n\n**Retenção funcional:** dente com periodontite apical **assintomática** pode ficar em função por muito tempo; a conduta é reavaliar regularmente, desde que não haja piora."
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/doenca-pos-tratamento-quatro-causas.jpg",
+      "alt": "Quatro quadros do mesmo pré-molar inferior tratado com lesão no ápice: bactérias no trecho vazio do canal; bactérias fora da raiz, na ponta; material do canal extravasado para dentro da lesão; lesão em forma de bolsa redonda de parede própria.",
+      "legenda": "Ilustração. As quatro causas da doença pós-tratamento: (1) microrganismos dentro do canal, a principal; (2) infecção extrarradicular; (3) reação a corpo estranho, por material extravasado; (4) cisto verdadeiro, com revestimento epitelial próprio, que não cicatriza só com retratamento não cirúrgico (15 a 42% das lesões periapicais). (Cohen 12ª ed., cap. 10)",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "causas",
+      "largura": 1400,
+      "altura": 1400
+    },
+    {
+      "src": "data/14733/img/perfuracao-por-terco.jpg",
+      "alt": "Três cortes do mesmo molar inferior em tratamento de canal, cada um com um furo estreito na parede: no assoalho da câmara saindo na furca, no meio da raiz mesial e perto da ponta da raiz mesial.",
+      "legenda": "Ilustração. Perfuração por localização: assoalho de furca acessível (1), prognóstico mais favorável; terço médio (2), mais difícil; terço apical (3), pode exigir cirurgia. Reparo imediato é melhor que tardio. MTA sela bem mas tem presa lenta; na margem gengival com saliva, o capítulo indica ionômero/resina de presa rápida. (Cohen 12ª ed., cap. 10)",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "remocao",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as quatro causas da doença pós-tratamento?",
+      "verso": "Microrganismos **intrarradiculares** (a principal), infecção **extrarradicular**, **reação a corpo estranho** e **cisto verdadeiro**.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 338"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual é a principal causa da doença pós-tratamento?",
+      "verso": "**Microrganismos intrarradiculares** persistentes ou que reinfectaram o canal, por limpeza, modelagem, obturação ou restauração inadequadas.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 338"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual a incidência relatada de cistos entre as lesões periapicais?",
+      "verso": "**15 a 42%** das lesões periapicais. O cisto verdadeiro geralmente exige enucleação cirúrgica.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 338–339"
+    },
+    {
+      "id": "f04",
+      "frente": "Quais testes valem mais no dente já tratado?",
+      "verso": "Os **perirradiculares**: percussão, mordida e palpação. Frio e calor têm valor limitado e dão falso-positivo e falso-negativo.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 342–343"
+    },
+    {
+      "id": "f05",
+      "frente": "Em quantos casos a TCFC mudou o plano de tratamento, segundo os estudos citados?",
+      "verso": "Em **até 62%** dos casos.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 341"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais condições imitam doença pós-tratamento e devem ser descartadas?",
+      "verso": "**Trauma oclusal**, **doença periodontal** simultânea e **dor de origem não dentária**.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 342–344"
+    },
+    {
+      "id": "f07",
+      "frente": "Quais são as quatro opções diante de doença pós-tratamento?",
+      "verso": "**Não fazer nada** (com documentação e acompanhamento), **extração**, **retratamento não cirúrgico** e **retratamento cirúrgico**.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 344"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais sinais favorecem a cirurgia em vez do retratamento?",
+      "verso": "Obturação **aparentemente adequada**, **sem infiltração coronária** e sem outra causa tratável; ou degrau/instrumento fraturado **impenetrável**.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 347"
+    },
+    {
+      "id": "f09",
+      "frente": "A cirurgia apical falhou. Qual é o próximo passo?",
+      "verso": "**Retratar de forma não cirúrgica** antes de operar de novo: muitos insucessos cirúrgicos vêm de canais mal limpos ou mal obturados.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 347"
+    },
+    {
+      "id": "f10",
+      "frente": "Como a localização muda o prognóstico de uma perfuração?",
+      "verso": "**Cervical ou furca acessível:** mais favorável. **Terço médio:** mais difícil. **Terço apical:** pode exigir cirurgia. Reparo **imediato** é melhor que tardio.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 390"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual a cura após retratamento com e sem periodontite apical prévia (revisão citada)?",
+      "verso": "**Sem** periodontite apical prévia: **92 a 98%**; **com**: **74 a 86%**, em até 10 anos (Friedman e Mor, citados no Cohen).",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 394"
+    },
+    {
+      "id": "f12",
+      "frente": "Calor e solvente removem o GutaCore?",
+      "verso": "**Não.** A remoção depende de instrumentos manuais, rotatórios ou de retratamento.",
+      "fonte": "cohen12-cap10",
+      "onde": "p. 369"
+    },
+    {
+      "id": "f13",
+      "frente": "Quanto e como se corta na apicectomia?",
+      "verso": "Cerca de **3 mm do ápice**, com corte **perpendicular ao longo eixo** da raiz.",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 431"
+    },
+    {
+      "id": "f14",
+      "frente": "Por que cortar 3 mm do ápice?",
+      "verso": "Cerca de **75% dos dentes** têm ramificações nos **3 mm apicais**, onde se concentra a maioria dos microrganismos remanescentes.",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 431"
+    },
+    {
+      "id": "f15",
+      "frente": "Como deve ser o retropreparo?",
+      "verso": "Cavidade de cerca de **3 mm ao longo do eixo da raiz**, feita com **ultrassom**. Fora do eixo, não veda e a cicatrização fica improvável.",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 433"
+    },
+    {
+      "id": "f16",
+      "frente": "Parestesia após cirurgia perirradicular: quando encaminhar?",
+      "verso": "Se **não houver sinal de melhora em 10 a 12 semanas**, considerar encaminhamento para avaliação e possível reparo neuromicrocirúrgico.",
+      "fonte": "cohen12-cap11",
+      "onde": "p. 453"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente com lesão periapical persistente num dente tratado há anos. Segundo o Cohen, qual é a causa mais comum da doença pós-tratamento?",
+      "alternativas": [
+        {
+          "texto": "Cisto periapical verdadeiro.",
+          "correta": false,
+          "justificativa": "O cisto verdadeiro é uma das quatro causas e aparece em 15 a 42% das lesões, mas não é a principal; a principal é a infecção intrarradicular.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 338"
+        },
+        {
+          "texto": "Microrganismos intrarradiculares persistentes ou reinfectantes.",
+          "correta": true,
+          "justificativa": "O capítulo aponta a infecção intrarradicular como a principal causa, mantida por limpeza, modelagem, obturação ou restauração inadequadas.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 338"
+        },
+        {
+          "texto": "Reação a corpo estranho à guta-percha extravasada.",
+          "correta": false,
+          "justificativa": "Guta-percha e cimentos costumam ser bem tolerados; a reação a corpo estranho é uma causa possível, não a principal.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 338"
+        },
+        {
+          "texto": "Infecção extrarradicular por bactérias das bolsas periodontais.",
+          "correta": false,
+          "justificativa": "A infecção extrarradicular é uma das quatro causas, mas o capítulo coloca a intrarradicular como a mais comum.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 338"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "p. 338",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Molar inferior tratado há 6 anos, com coroa nova e bem adaptada, sem sinais de infiltração coronária. A radiografia mostra obturação aparentemente adequada e lesão periapical persistente; não há outra causa tratável identificada. Qual conduta esse quadro favorece?",
+      "alternativas": [
+        {
+          "texto": "Retratamento não cirúrgico, porque é sempre a primeira escolha.",
+          "correta": false,
+          "justificativa": "O retratamento é a regra geral, mas obturação adequada sem infiltração coronária e sem outra causa tratável é justamente o quadro que o capítulo lista a favor da cirurgia.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 346–347"
+        },
+        {
+          "texto": "Cirurgia perirradicular.",
+          "correta": true,
+          "justificativa": "Obturação aparentemente adequada, sem infiltração coronária e sem outra causa tratável é o sinal que o Cohen associa à indicação de cirurgia.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 347"
+        },
+        {
+          "texto": "Extração imediata, porque a lesão persistiu.",
+          "correta": false,
+          "justificativa": "A extração é o último recurso; o caso descrito tem coroa bem adaptada e opção de tratamento conservador.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 395"
+        },
+        {
+          "texto": "Teste de frio para confirmar necrose antes de decidir.",
+          "correta": false,
+          "justificativa": "Em dente já tratado, frio e calor têm valor limitado e dão falso-positivo e falso-negativo; os testes úteis são os perirradiculares.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 342–343"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "p. 346–347",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Pré-molar com obturação curta, mal condensada, e restauração provisória infiltrada há meses. Há lesão periapical. Qual é a conduta indicada pelo capítulo?",
+      "alternativas": [
+        {
+          "texto": "Cirurgia apical, porque já existe lesão periapical.",
+          "correta": false,
+          "justificativa": "A presença de lesão não define a via. Obturação deficiente e infiltração coronária apontam para infecção intrarradicular, que o retratamento ataca.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 346–347"
+        },
+        {
+          "texto": "Retratamento não cirúrgico.",
+          "correta": true,
+          "justificativa": "Obturação deficiente e infiltração coronária são os sinais que favorecem o retratamento, que trata a causa mais comum com menor invasão.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 346–347"
+        },
+        {
+          "texto": "Não fazer nada e acompanhar.",
+          "correta": false,
+          "justificativa": "É uma das quatro opções, mas aqui há causa tratável evidente (obturação deficiente e infiltração), que o retratamento resolve.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 344"
+        },
+        {
+          "texto": "Cirurgia exploratória para descartar fratura.",
+          "correta": false,
+          "justificativa": "A cirurgia exploratória não é indicada quando o retratamento conservador tem boa chance, como neste caso.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 347"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "p. 346–347",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Incisivo submetido a apicectomia há 2 anos continua com lesão. A radiografia mostra que um segundo canal não foi tratado. O que fazer primeiro?",
+      "alternativas": [
+        {
+          "texto": "Nova cirurgia, com apicectomia mais extensa.",
+          "correta": false,
+          "justificativa": "Reoperar sem tratar o canal repete a causa; o capítulo manda retratar antes de nova cirurgia.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 347"
+        },
+        {
+          "texto": "Extração e implante.",
+          "correta": false,
+          "justificativa": "A extração é último recurso; aqui há uma causa tratável (canal não tratado).",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 395"
+        },
+        {
+          "texto": "Retratamento não cirúrgico antes de pensar em nova cirurgia.",
+          "correta": true,
+          "justificativa": "Cirurgia que falhou deve ser retratada de forma não cirúrgica antes de reoperar, porque muitos insucessos cirúrgicos vêm de canais mal limpos ou obturados.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 347"
+        },
+        {
+          "texto": "Antibiótico sistêmico e reavaliação em 6 meses.",
+          "correta": false,
+          "justificativa": "A causa identificada é um canal não tratado; o capítulo manda retratar de forma não cirúrgica antes de reoperar, e apenas medicar e esperar deixa essa causa no lugar.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 347"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "p. 347",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Durante a remoção de um pino, ocorre uma perfuração. Sobre o prognóstico e a conduta, segundo o Cohen, é correto afirmar:",
+      "alternativas": [
+        {
+          "texto": "Perfuração no terço apical tem o melhor prognóstico, por estar longe do sulco.",
+          "correta": false,
+          "justificativa": "É o contrário: no terço apical a cirurgia pode ser necessária. O prognóstico mais favorável é na cervical ou no assoalho de furca acessível.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 390"
+        },
+        {
+          "texto": "Vale esperar a lesão se organizar antes de reparar.",
+          "correta": false,
+          "justificativa": "O reparo imediato é melhor que o tardio; a demora pode romper o periodonto e gerar lesão endo-perio.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 390"
+        },
+        {
+          "texto": "Perfuração cervical ou no assoalho de furca acessível tem prognóstico mais favorável, e o reparo imediato é melhor que o tardio.",
+          "correta": true,
+          "justificativa": "O capítulo descreve esse gradiente (cervical/furca acessível > terço médio > apical) e prefere o reparo imediato.",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 390"
+        },
+        {
+          "texto": "O MTA é preferido em margem gengival com saliva, pela presa rápida.",
+          "correta": false,
+          "justificativa": "O MTA tem presa lenta; em margem gengival com saliva o capítulo indica ionômero/resina de presa rápida (Geristore).",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 390"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "p. 390",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Na cirurgia perirradicular de um pré-molar, qual conduta para o ápice segue o Cohen?",
+      "alternativas": [
+        {
+          "texto": "Ressecção de cerca de 1 mm com bisel acentuado, para ver melhor o canal.",
+          "correta": false,
+          "justificativa": "O capítulo indica cerca de 3 mm, com corte perpendicular ao longo eixo: é nos 3 mm apicais que estão as ramificações de cerca de 75% dos dentes, e biséis maiores expõem mais túbulos dentinários e facilitam a chegada de irritantes ao periápice.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 431"
+        },
+        {
+          "texto": "Ressecção de cerca de 3 mm, perpendicular ao longo eixo, seguida de retropreparo de cerca de 3 mm com ultrassom no eixo da raiz.",
+          "correta": true,
+          "justificativa": "Cerca de 75% dos dentes têm ramificações nos 3 mm apicais; corte perpendicular e retropreparo de 3 mm no eixo, com ultrassom, são o que o capítulo descreve.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 431, 433"
+        },
+        {
+          "texto": "Ressecção de 3 mm e retropreparo com broca, em qualquer direção que facilite o acesso.",
+          "correta": false,
+          "justificativa": "O capítulo indica ultrassom e alerta que cavidade fora do eixo impede a vedação e torna a cicatrização improvável.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 433"
+        },
+        {
+          "texto": "Apenas curetagem da lesão, sem tocar no ápice.",
+          "correta": false,
+          "justificativa": "O capítulo descreve a apicectomia como remoção do ápice infectado, onde ficam as ramificações com microrganismos remanescentes.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 430"
+        }
+      ],
+      "fonte": "cohen12-cap11",
+      "onde": "p. 430–433",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo um estudo humano citado no Cohen, como MTA e IRM se compararam como material de retro-obturação?",
+      "alternativas": [
+        {
+          "texto": "Lesão persistente de 16% (12 meses) e 8% (24 meses) com MTA, contra 24% e 13% com IRM.",
+          "correta": true,
+          "justificativa": "São os números do estudo citado no capítulo: menos lesão persistente com MTA nos dois tempos.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 438"
+        },
+        {
+          "texto": "Resultados iguais nos dois materiais em 12 e 24 meses.",
+          "correta": false,
+          "justificativa": "O estudo citado mostra menos lesão persistente com MTA (16% e 8%) que com IRM (24% e 13%).",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 438"
+        },
+        {
+          "texto": "IRM com menos lesão persistente, porque veda melhor que o MTA.",
+          "correta": false,
+          "justificativa": "O IRM veda melhor que o amálgama, não que o MTA; no estudo citado o IRM teve mais lesão persistente.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 436, 438"
+        },
+        {
+          "texto": "MTA sem nenhuma lesão persistente em 24 meses.",
+          "correta": false,
+          "justificativa": "Com MTA ainda houve 8% de lesão persistente em 24 meses.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 438"
+        }
+      ],
+      "fonte": "cohen12-cap11",
+      "onde": "p. 438",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente com dente tratado e periapical persistente pergunta qual opção tem melhor resultado: retratar, operar ou extrair e colocar implante. O que o Cohen orienta?",
+      "alternativas": [
+        {
+          "texto": "O implante tem resultado claramente superior e deve ser indicado.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a evidência sugere prognóstico aproximadamente igual entre as três opções.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 405–406"
+        },
+        {
+          "texto": "A cirurgia é sempre a opção mais previsível.",
+          "correta": false,
+          "justificativa": "O capítulo não coloca a cirurgia acima das demais: a evidência citada sugere prognóstico aproximadamente igual entre retratamento, cirurgia e implante.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 405–406"
+        },
+        {
+          "texto": "Decidir junto com o paciente, considerando valores e preferências, porque o prognóstico é aproximadamente igual.",
+          "correta": true,
+          "justificativa": "O capítulo de cirurgia defende decisão compartilhada com base nessa equivalência aproximada de prognóstico.",
+          "fonte": "cohen12-cap11",
+          "onde": "p. 405–406"
+        },
+        {
+          "texto": "Não há opção: o dente deve ser extraído porque a lesão persistiu.",
+          "correta": false,
+          "justificativa": "A extração é o último recurso, e o dente com periodontite apical assintomática pode até permanecer em função com reavaliação regular (cap. 10).",
+          "fonte": "cohen12-cap10",
+          "onde": "p. 395"
+        }
+      ],
+      "fonte": "cohen12-cap11",
+      "onde": "p. 405–406",
+      "figura": null
+    }
+  ]
+}

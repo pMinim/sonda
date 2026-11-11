@@ -1,0 +1,573 @@
+{
+ "slug": "saude-e-gengivite-2018",
+ "titulo": "Saúde periodontal e doenças gengivais (classificação de 2018)",
+ "area": "Periodontia",
+ "origem": "Aula 02 — Prof. Pedro (texto de estudo)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "caton2018",
+   "ref": "Caton JG, Armitage G, Berglundh T et al. A new classification scheme for periodontal and peri-implant diseases and conditions – Introduction and key changes from the 1999 classification. J Clin Periodontol. 2018;45(Suppl 20):S1–S8.",
+   "curta": "Caton et al. 2018"
+  },
+  {
+   "id": "murakami2018",
+   "ref": "Murakami S, Mealey BL, Mariotti A, Chapple ILC. Dental plaque–induced gingival conditions. J Clin Periodontol. 2018;45(Suppl 20):S17–S27.",
+   "curta": "Murakami et al. 2018"
+  },
+  {
+   "id": "holmstrup2018",
+   "ref": "Holmstrup P, Plemons J, Meyle J. Non–plaque-induced gingival diseases. J Clin Periodontol. 2018;45(Suppl 20):S28–S43.",
+   "curta": "Holmstrup et al. 2018"
+  },
+  {
+   "id": "chapple2018",
+   "ref": "Chapple ILC et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: consensus report of workgroup 1 of the 2017 World Workshop. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+   "curta": "Chapple et al. 2018"
+  },
+  {
+   "id": "tonetti2018",
+   "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+   "curta": "Tonetti et al. 2018"
+  },
+  {
+   "id": "berglundh2018",
+   "ref": "Berglundh T, Armitage G, Araujo MG et al. Peri-implant diseases and conditions: consensus report of workgroup 4 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S286–S291.",
+   "curta": "Berglundh et al. 2018"
+  },
+  {
+   "id": "carranza13",
+   "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza – Periodontia Clínica. 13ª ed. Cap. 19, Aumento gengival (apoio para conceitos gerais; o livro segue a classificação de 1999).",
+   "curta": "Carranza, 13ª ed."
+  }
+ ],
+ "resumo": [
+  {
+   "id": "mapa",
+   "titulo": "O mapa: três grupos e um número",
+   "fonte": "caton2018",
+   "onde": "seções sobre saúde e gengivite, periodontite, outras condições e peri-implantes",
+   "texto": "A classificação de 2018 nasceu do Workshop Mundial AAP–EFP de 2017 e organiza as condições do periodonto em três grandes grupos (Caton et al., 2018):\n\n1. **Saúde e doenças gengivais**: dizer, pelo número, se a gengiva está saudável ou doente.\n2. **Periodontite**: fechar o diagnóstico (critérios, estágio, grau e extensão).\n3. **Outras condições que afetam o periodonto**: doenças sistêmicas, deformidades e condições adquiridas; é onde entram os fatores relacionados a prótese e dentes.\n\nO mesmo esquema tem um quarto bloco: as **doenças e condições peri-implantares**.\n\nO Grupo 1 tem três caixas: saúde periodontal e gengival (1.1), gengivite induzida pelo biofilme (1.2) e doenças gengivais não induzidas pelo biofilme (1.3). Um número separa 1.1 de 1.2: **10% dos sítios com sangramento à sondagem** (Chapple et al., 2018, Tabela 1)."
+  },
+  {
+   "id": "saude",
+   "titulo": "Saúde: íntegro, reduzido e periodontite estável",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1 e seção Case definitions",
+   "texto": "| | Periodonto íntegro, saudável | Saúde em periodonto reduzido, sem periodontite | Periodontite estável |\n|---|---|---|---|\n| Sondagem | ≤ 3 mm em todos os sítios | ≤ 3 mm | ≤ 4 mm, sem nenhum sítio ≥ 4 mm com sangramento |\n| Sangramento | < 10% dos sítios | < 10% | < 10% |\n| Perda de inserção | não | **há**, mas de outra causa (recessão, aumento de coroa clínica) | há, pela periodontite tratada, e fica |\n| Perda óssea radiográfica | não | pode haver | há, e fica |\n\n**Periodonto íntegro** é o que não tem perda de inserção nem perda óssea. Não quer dizer \"nunca teve nada\": quem teve gengivite e tratou continua com periodonto íntegro.\n\n**Periodonto reduzido sem periodontite:** a analogia é **obra × enchente**. O terreno encolheu por obra (trauma, cirurgia), não por doença. Perda de inserção não é sinônimo de periodontite; primeiro pergunte *perdeu por quê?*\n\n**Periodontite estável:** o paciente já teve periodontite e foi tratado. Hoje tem números de saúde, mas num periodonto que a doença reduziu. Cicatriz não é ferida, mas a cicatriz fica: quem teve periodontite continua sendo paciente de periodontite e precisa de suporte periodontal pela vida toda (Caton et al., 2018). **\"Estável\" é controle, não alta**, e o risco de recorrência acompanha o histórico."
+  },
+  {
+   "id": "gengivite",
+   "titulo": "Gengivite induzida pelo biofilme",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1 e seção de definição de caso de gengivite",
+   "texto": "Sempre **sem** perda de inserção pela doença atual. O diagnóstico é **≥ 10% dos sítios sangrando à sondagem, com sondagem ≤ 3 mm**.\n\n**Extensão (por sítios):** 10–30%, localizada; mais de 30%, generalizada. Atenção: Murakami et al. (2018) descrevem a extensão por porcentagem de **dentes** (< 30% / ≥ 30%); aqui vale a regra do consenso, por sítios.\n\nÉ **reversível**: controle de biofilme resolve, sem sequela.\n\n**Três formas por fator** (Murakami et al., 2018, Tabela 2):\n\n- **A — só biofilme:** a placa basta; a inflamação vai de incipiente a grave.\n- **B — biofilme + fator modificador:** sistêmico ou local; o biofilme causa, o fator amplifica.\n- **C — aumento gengival induzido por fármaco.**\n\nNão confunda com a outra tríade, **por estado do periodonto**, que o consenso usa para dar nome à gengivite (próxima seção)."
+  },
+  {
+   "id": "tres-terrenos",
+   "titulo": "Três terrenos: o histórico muda o nome",
+   "fonte": "chapple2018",
+   "onde": "seção sobre a classificação da gengivite induzida pelo biofilme (três formas por estado do periodonto) e Tabela 1",
+   "texto": "Além da divisão por fator (A, B, C), o consenso divide a gengivite pelo **estado do periodonto**, e é essa divisão que muda o nome:\n\n- **Periodonto íntegro:** *gengivite em periodonto íntegro*. Sem perda de inserção, sem perda óssea. Sondagem ≤ 3 mm (sem bolsa: a inflamação é da margem), sangramento ≥ 10%, reversível.\n- **Perdeu por outra causa:** *gengivite em periodonto reduzido, em paciente sem periodontite*. Mesma lógica, com terreno de partida menor: sondagem ≤ 3 mm; sangramento ≥ 10%; perda de inserção presente, de causa não periodontal; perda óssea radiográfica possível.\n- **Teve periodontite e tratou:** *inflamação gengival em periodonto reduzido de paciente com periodontite tratada com sucesso* (em resumo, inflamação gengival em paciente com periodontite estável). **Não** volta a se chamar gengivite.\n\nNomes antigos como \"gengivite em periodonto reduzido tratado\" não existem na classificação de 2018: o nome carrega a história, e a história muda o risco e a manutenção. O paciente estável que voltou a inflamar mantém a perda de inserção e a perda óssea da periodontite tratada, sondagem até 3 mm e nenhum sítio ≥ 4 mm com sangramento, mas agora sangra em ≥ 10% dos sítios. Recorrência não pode ser descartada e esses sítios são de alto risco: é **alarme de recidiva, não doença nova**."
+  },
+  {
+   "id": "fatores",
+   "titulo": "O que empurra a gengivite: fatores e medicamentos",
+   "fonte": "murakami2018",
+   "onde": "Tabela 2 (item B) e seção Modifying factors",
+   "texto": "**O biofilme é o fósforo; o fator é o vento.** O fator modificador muda a resposta ao biofilme, mas não o substitui.\n\n- **Sistêmicos (modificadores)**, por exemplo (Murakami, Tabela 2, B1): hormônios esteroides sexuais (puberdade, ciclo menstrual, gravidez, contraceptivos orais), hiperglicemia, leucemia, tabagismo e desnutrição. Chapple et al. (2018) somam deficiência de vitamina C, medicamentos e outras condições hematológicas. Cuidado: o tabagismo **mascara** o sangramento.\n- **Locais (predisponentes)** (Murakami, Tabela 2, B2): tudo que retém biofilme onde a escova não alcança, como margens de restauração subgengivais proeminentes (o exemplo protético do consenso), e a hipossalivação.\n\n**Aumento gengival induzido por fármaco: os três clássicos**\n\n| Fármaco | Classe |\n|---|---|\n| **Fenitoína** | anticonvulsivante (antiepiléptica) |\n| **Ciclosporina** | imunossupressora, usada por exemplo em transplantados |\n| **Nifedipina** | bloqueador de canal de cálcio (anti-hipertensivo) |\n\nNão são os únicos: Murakami cita também ácido valproico, outros bloqueadores de canal de cálcio (verapamil, diltiazem, anlodipino, felodipino) e contraceptivos orais em altas doses; o Carranza fala em cerca de 20 outros fármacos.\n\nEm comum: o aumento costuma surgir **em até 3 meses de uso**, é mais frequente na região anterior e em jovens, passa do volume que a inflamação sozinha explicaria e **não tem perda de inserção associada**.\n\nNa prática: higiene e inflamação influenciam o grau de fibrose do aumento por fármaco (Carranza, 13ª ed., p. 259), por isso o controle de placa importa. O nome certo é **aumento gengival** (ou crescimento gengival), não \"hiperplasia\": hiperplasia descreve só aumento do número de células (Carranza, 13ª ed., p. 256).\n\nPor que cresce e o que fazer: próxima seção."
+  },
+  {
+   "id": "farmacos-mecanismo-conduta",
+   "titulo": "Aumento por fármaco: por que cresce e o que fazer",
+   "fonte": "carranza13",
+   "onde": "cap. 19, p. 260–262",
+   "texto": "**Mecanismo (Carranza, 13ª ed., cap. 19, p. 260–261).** O ponto central é o **fibroblasto gengival com função alterada**: os fármacos mexem no metabolismo da matriz extracelular, com menos degradação (colagenase) e mais produção de proteínas da matriz. Boa parte desses dados vem de estudos in vitro e em animais.\n\n| Fármaco | O que muda no tecido |\n|---|---|\n| **Fenitoína** | fibroblastos que sintetizam mais colágeno; quadro mais fibroso, com pouco infiltrado inflamatório |\n| **Nifedipina** (bloqueadores de canal de cálcio) | menos cálcio nos fibroblastos e nas células T; menor atividade da colagenase, e o colágeno se acumula |\n| **Ciclosporina** | menos MMP-1 e MMP-3 (metaloproteinases); mais infiltrado inflamatório e mais vascularização que nos outros dois |\n\nA inflamação também pesa: cerca de **40% do volume** é atribuído ao componente inflamatório (p. 261). É por isso que o controle de placa ajuda, mesmo sem ser a causa.\n\n**Conduta (p. 261–262).**\n\n1. **Base:** controle de biofilme, remoção de fatores locais e manutenção periodontal regular. Melhoram o quadro, mas sozinhos não evitam o aumento.\n2. **O mais eficaz: retirar ou trocar o fármaco, sempre em conjunto com o médico.** Há relato de resolução em **1 a 8 semanas** após a descontinuação; trocar nifedipina por isradipina, ou ciclosporina por tacrolimo, levou à regressão. Cuidado: a maioria das alternativas também já foi ligada ao aumento gengival.\n3. **Raspagem e alisamento radicular** aliviam os sinais, porque tiram o componente inflamatório.\n4. **Cirurgia** (gengivectomia e gengivoplastia) quando o problema é estético ou o volume persiste, sabendo que a **recorrência é alta: cerca de 40% em 18 meses** em quem segue com ciclosporina ou nifedipina (p. 262). Depois, retornos com higiene, profilaxia e remoção de cálculo."
+  },
+  {
+   "id": "nao-induzidas",
+   "titulo": "Doenças gengivais não induzidas pelo biofilme (panorama)",
+   "fonte": "holmstrup2018",
+   "onde": "Tabela 1",
+   "texto": "Panorama, não decoreba: serve para saber que existe e onde consultar (Holmstrup et al., 2018, que numeram os grupos de 1 a 8).\n\n- **A · Genéticas e do desenvolvimento:** fibromatose (hiperplasia) gengival hereditária.\n- **B · Infecções específicas:** bacterianas, virais, fúngicas.\n- **C · Inflamatórias e imunes:** por exemplo líquen plano, penfigoide, pênfigo vulgar, lúpus.\n- **D · Processos reativos:** epúlides (inclusive os granulomas).\n- **E · Neoplasias:** de lesões pré-malignas (leucoplasia, eritroplasia) a malignas (carcinoma).\n- **F · Endócrinas, nutricionais e metabólicas:** ex.: escorbuto.\n- **G · Lesões traumáticas:** físicas/mecânicas, químicas, térmicas.\n- **H · Pigmentação:** melanoplaquia, melanose do fumante, tatuagem por amálgama.\n\nRegra prática: essas condições em geral **não regridem com a remoção do biofilme** (Chapple et al., 2018). **Gengivite que não melhora com higiene impecável merece investigação (muitas dessas lesões pedem biópsia) ou encaminhamento.**"
+  },
+  {
+   "id": "casos",
+   "titulo": "Casos para treinar",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "texto": "- **Profundidade de sondagem de 3 mm e sangramento em 8% dos sítios: saúde ou gengivite?** **Saúde**, porque o corte é 10%.\n- **Tratado de periodontite, hoje sem bolsa e sem sangramento: gengivite ou periodontite estável?** **Periodontite estável**: o histórico não se apaga.\n- **Grávida, 28 anos:** sangramento à sondagem em 35% dos sítios, sondagem ≤ 3 mm em toda a boca, sem perda de inserção e sem perda óssea. **Gengivite generalizada, modificada pela gravidez.** Sangramento ≥ 10% com sondagem normal é gengivite; o hormônio é o vento, o biofilme continua sendo o fósforo. Reversível.\n- **60 anos, tratado há 2 anos, quer um implante:** sondagem ≤ 3 mm, nenhum sítio ≥ 4 mm sangrando, sangramento em 8% dos sítios, perda de inserção e óssea antigas. **Periodontite estável.** Números de saúde num periodonto reduzido *por* periodontite, e o histórico vai junto para o implante: história de periodontite grave é fator de risco para peri-implantite (Berglundh et al., 2018).\n\nPergunta para levar: entre o paciente com gengivite em periodonto íntegro e o paciente estável que voltou a inflamar, qual tem sítios de alto risco que exigem monitoramento e suporte periodontal pela vida toda?"
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/periodonto-integro-x-reduzido.jpg",
+   "alt": "Dois cortes do mesmo incisivo inferior com gengiva saudável e sonda em sulco raso. À esquerda, gengiva e osso na altura normal; à direita, gengiva e osso mais baixos, com parte da raiz exposta.",
+   "legenda": "Ilustração. Esquerda: periodonto íntegro, sem perda de inserção nem perda óssea. Direita: periodonto reduzido com números de saúde (sondagem ≤ 3 mm, sangramento em menos de 10% dos sítios). O desenho não diz por que o periodonto encolheu: se foi por outra causa (recessão, aumento de coroa clínica), é saúde em periodonto reduzido sem periodontite; se foi por periodontite tratada, é periodontite estável, que segue em suporte periodontal pela vida toda (Chapple et al. 2018, Tabela 1).",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "saude",
+   "largura": 1400,
+   "altura": 1045
+  },
+  {
+   "src": "data/14733/img/gengivite-induzida-por-biofilme.jpg",
+   "alt": "Foto frontal dos dentes anteriores com placa e cálculo junto à gengiva, que está avermelhada e inchada na margem.",
+   "legenda": "Gengivite induzida pelo biofilme: placa e cálculo junto à margem gengival, que está avermelhada e edemaciada.",
+   "credito": "Foto: Onetimeuseaccount, Wikimedia Commons. CC0 (domínio público).",
+   "apos": "gengivite",
+   "largura": 1400,
+   "altura": 547
+  },
+  {
+   "src": "data/14733/img/aumento-gengival-por-farmaco.jpg",
+   "alt": "Imagem realista de dentes anteriores com a gengiva aumentada de volume e papilas lobuladas cobrindo parte das coroas.",
+   "legenda": "Aumento gengival induzido por fármaco: papilas volumosas que avançam sobre as coroas, mais na região anterior. Imagem gerada por IA para ilustrar o quadro; não é foto de paciente.",
+   "credito": "Imagem gerada com IA (Gemini), revisada pelo professor.",
+   "apos": "farmacos-mecanismo-conduta",
+   "largura": 1400,
+   "altura": 1045
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Qual é o corte de sangramento à sondagem que separa saúde de gengivite?",
+   "verso": "**10% dos sítios** com sangramento à sondagem.",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1"
+  },
+  {
+   "id": "f02",
+   "frente": "Quais são os quatro critérios do periodonto íntegro e saudável?",
+   "verso": "Sem perda de inserção; sondagem ≤ 3 mm em todos os sítios; sangramento em menos de 10% dos sítios; sem perda óssea radiográfica.",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1"
+  },
+  {
+   "id": "f03",
+   "frente": "Quais são os números da periodontite estável?",
+   "verso": "Sondagem ≤ 4 mm, sem nenhum sítio ≥ 4 mm com sangramento; sangramento em menos de 10% dos sítios. A perda de inserção e a perda óssea estão lá, e ficam.",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1, nota b"
+  },
+  {
+   "id": "f04",
+   "frente": "O que significa \"estável\" na periodontite estável?",
+   "verso": "**Controle, não alta.** Quem teve periodontite continua sendo paciente de periodontite e precisa de suporte periodontal pela vida toda; o risco de recorrência acompanha o histórico.",
+   "fonte": "caton2018",
+   "onde": "seção Periodontal health, gingivitis and gingival conditions"
+  },
+  {
+   "id": "f05",
+   "frente": "Perda de inserção é sinônimo de periodontite?",
+   "verso": "Não. No periodonto reduzido sem periodontite, a perda veio de outra causa (recessão, aumento de coroa clínica): é obra, não enchente. Primeiro pergunte *perdeu por quê?*",
+   "fonte": "chapple2018",
+   "onde": "seção On a site level, how do we classify clinical gingival health?"
+  },
+  {
+   "id": "f06",
+   "frente": "Como se diagnostica a gengivite induzida pelo biofilme e como se classifica a extensão?",
+   "verso": "≥ 10% dos sítios sangrando, com sondagem ≤ 3 mm, sem perda de inserção pela doença atual. Extensão por sítios: 10–30% localizada; mais de 30% generalizada.",
+   "fonte": "chapple2018",
+   "onde": "Tabela 1 e seção de definição de caso de gengivite"
+  },
+  {
+   "id": "f07",
+   "frente": "Quais são as três formas (A, B, C) da gengivite induzida pelo biofilme, na divisão por fator?",
+   "verso": "A: só biofilme. B: biofilme + fator modificador (sistêmico ou local). C: aumento gengival induzido por fármaco. É a divisão por fator (Murakami); não confundir com a divisão por estado do periodonto (íntegro, reduzido sem periodontite, periodontite tratada).",
+   "fonte": "murakami2018",
+   "onde": "Tabela 2"
+  },
+  {
+   "id": "f08",
+   "frente": "Paciente tratado de periodontite, estável, voltou a sangrar em ≥ 10% dos sítios. Qual o nome?",
+   "verso": "**Inflamação gengival em paciente com periodontite estável** (no consenso: em periodonto reduzido de paciente com periodontite tratada com sucesso). Não volta a se chamar gengivite: é alarme de recidiva, não doença nova.",
+   "fonte": "chapple2018",
+   "onde": "seção sobre a classificação da gengivite induzida pelo biofilme (três formas por estado do periodonto), item 3"
+  },
+  {
+   "id": "f09",
+   "frente": "Quais são os fatores sistêmicos modificadores da gengivite?",
+   "verso": "Por exemplo: hormônios esteroides sexuais (puberdade, ciclo menstrual, gravidez, contraceptivos orais), hiperglicemia, leucemia, tabagismo e desnutrição. O biofilme é o fósforo; o fator é o vento.",
+   "fonte": "murakami2018",
+   "onde": "Tabela 2, item B1"
+  },
+  {
+   "id": "f10",
+   "frente": "Quais são os três fármacos clássicos do aumento gengival e o que têm em comum?",
+   "verso": "Fenitoína, ciclosporina e nifedipina (há outros, como ácido valproico e outros bloqueadores de canal de cálcio). O aumento costuma surgir em até 3 meses de uso e não tem perda de inserção associada.",
+   "fonte": "murakami2018",
+   "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+  },
+  {
+   "id": "f11",
+   "frente": "Qual é o nome certo: hiperplasia gengival ou aumento gengival?",
+   "verso": "**Aumento gengival** (ou crescimento gengival). Hiperplasia descreve só aumento do número de células; o termo amplo cobre todas as formas.",
+   "fonte": "carranza13",
+   "onde": "cap. 19, p. 256"
+  },
+  {
+   "id": "f12",
+   "frente": "O que fazer com uma gengivite que não melhora com higiene impecável?",
+   "verso": "Pensar em doença gengival não induzida pelo biofilme, que em geral não regride com a remoção da placa: **investigar (muitas pedem biópsia) ou encaminhar**.",
+   "fonte": "chapple2018",
+   "onde": "seções sobre as condições gengivais não induzidas pelo biofilme"
+  },
+  {
+   "id": "f13",
+   "frente": "Qual é o mecanismo do aumento gengival por fenitoína, nifedipina e ciclosporina?",
+   "verso": "Fibroblastos gengivais com função alterada (menos degradação, mais matriz). **Fenitoína:** mais síntese de colágeno, quadro fibroso. **Bloqueadores de canal de cálcio:** menos cálcio nos fibroblastos e células T, menor atividade da colagenase. **Ciclosporina:** menos MMP-1 e MMP-3, com mais infiltrado inflamatório e vascularização.\n\n**Aprofundamento:** prevalência estimada de cerca de 50% com fenitoína, 6% a 83% com nifedipina e cerca de 30% com ciclosporina (mais em crianças).",
+   "fonte": "carranza13",
+   "onde": "cap. 19, p. 259–261"
+  },
+  {
+   "id": "f14",
+   "frente": "Qual é a conduta mais eficaz no aumento gengival por fármaco, e qual o papel da cirurgia?",
+   "verso": "Controle de biofilme e de fatores locais sempre; o **mais eficaz é retirar ou trocar o fármaco com o médico** (relato de resolução em 1 a 8 semanas; as alternativas também podem causar aumento). Raspagem alivia o componente inflamatório. Cirurgia por estética ou volume, com **recorrência de cerca de 40% em 18 meses** em quem segue com ciclosporina ou nifedipina.",
+   "fonte": "carranza13",
+   "onde": "cap. 19, p. 261–262"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Grávida, 28 anos: sangramento à sondagem em 35% dos sítios, sondagem ≤ 3 mm em toda a boca, sem perda de inserção e sem perda óssea. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Gengivite localizada, só biofilme.",
+     "correta": false,
+     "justificativa": "35% dos sítios passa de 30%, o que dá generalizada; e a gravidez é fator modificador (forma B), não forma A.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite generalizada, modificada pela gravidez.",
+     "correta": true,
+     "justificativa": "Sangramento ≥ 10% com sondagem normal é gengivite; 35% passa de 30%, então é generalizada; a gravidez está entre os fatores modificadores sistêmicos (Murakami, Tabela 2, B1a).",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estágio I, generalizada.",
+     "correta": false,
+     "justificativa": "Não há perda de inserção nem perda óssea, então não há critério de caso de periodontite.",
+     "fonte": "tonetti2018",
+     "onde": "seção de definição de caso de periodontite"
+    },
+    {
+     "texto": "Saúde periodontal, porque a sondagem é ≤ 3 mm.",
+     "correta": false,
+     "justificativa": "A sondagem é normal, mas o sangramento em 35% dos sítios passa do corte de 10%.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Paciente com profundidade de sondagem de 3 mm e sangramento à sondagem em 8% dos sítios, sem perda de inserção. Saúde ou gengivite?",
+   "alternativas": [
+    {
+     "texto": "Gengivite localizada, porque há sangramento.",
+     "correta": false,
+     "justificativa": "Gengivite exige ≥ 10% dos sítios sangrando; 8% não chega lá.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite generalizada, porque a profundidade de sondagem é de 3 mm.",
+     "correta": false,
+     "justificativa": "Sondagem ≤ 3 mm é compatível com saúde; o que decide é o sangramento, e ele está abaixo de 10%.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estável.",
+     "correta": false,
+     "justificativa": "Periodontite estável pressupõe histórico de periodontite tratada, com perda de inserção; aqui não há perda de inserção.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Saúde, porque o corte é 10% dos sítios com sangramento.",
+     "correta": true,
+     "justificativa": "8% fica abaixo do corte de 10% que separa saúde de gengivite.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Paciente tratado de periodontite, hoje sem bolsa e sem sangramento. Gengivite ou periodontite estável?",
+   "alternativas": [
+    {
+     "texto": "Periodontite estável: o histórico não se apaga.",
+     "correta": true,
+     "justificativa": "Quem teve periodontite continua sendo paciente de periodontite, mesmo após tratamento bem-sucedido; \"estável\" é controle, não alta.",
+     "fonte": "caton2018",
+     "onde": "seção Periodontal health, gingivitis and gingival conditions"
+    },
+    {
+     "texto": "Saúde em periodonto íntegro.",
+     "correta": false,
+     "justificativa": "O periodonto íntegro não tem perda de inserção nem perda óssea; o paciente tratado tem as duas, e elas ficam.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite em periodonto reduzido.",
+     "correta": false,
+     "justificativa": "Não há sangramento, então não é gengivite; e o terreno foi reduzido por periodontite, não por outra causa.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Saúde em periodonto reduzido sem periodontite.",
+     "correta": false,
+     "justificativa": "Essa categoria é para perda de outra causa (recessão, aumento de coroa clínica). Aqui a perda veio da periodontite.",
+     "fonte": "chapple2018",
+     "onde": "seção On a site level, how do we classify clinical gingival health?"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Paciente tratado de periodontite, estável há anos, volta com sondagem até 3 mm, sem bolsa ≥ 4 mm com sangramento, mas sangrando em 15% dos sítios. Como se chama a situação pela classificação de 2018?",
+   "alternativas": [
+    {
+     "texto": "Gengivite em periodonto reduzido tratado.",
+     "correta": false,
+     "justificativa": "Esse nome não existe na classificação de 2018: para quem teve periodontite tratada com sucesso e volta a sangrar, o consenso usa inflamação gengival em paciente com periodontite estável.",
+     "fonte": "chapple2018",
+     "onde": "seção sobre a classificação da gengivite induzida pelo biofilme (três formas por estado do periodonto), item 3"
+    },
+    {
+     "texto": "Gengivite em periodonto íntegro.",
+     "correta": false,
+     "justificativa": "O periodonto não é íntegro: a perda de inserção e a perda óssea da periodontite tratada estão presentes.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Inflamação gengival em paciente com periodontite estável.",
+     "correta": true,
+     "justificativa": "Quem teve e tratou não volta a se chamar gengivite: o nome carrega a história, e a recorrência não pode ser descartada. É alarme de recidiva, não doença nova.",
+     "fonte": "chapple2018",
+     "onde": "seção sobre a classificação da gengivite induzida pelo biofilme (três formas por estado do periodonto), item 3"
+    },
+    {
+     "texto": "Periodontite estágio I nova.",
+     "correta": false,
+     "justificativa": "Não é doença nova; os números da estabilidade se mantêm (nenhum sítio ≥ 4 mm com sangramento), só o sangramento passou de 10%.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1 e nota NB"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "Paciente fez aumento de coroa clínica há alguns anos e por isso tem perda de inserção. Hoje: sondagem ≤ 3 mm, sangramento em 5% dos sítios, nunca teve periodontite. Qual é a situação?",
+   "alternativas": [
+    {
+     "texto": "Periodontite estável.",
+     "correta": false,
+     "justificativa": "Periodontite estável exige histórico de periodontite; aqui a perda tem outra causa.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estágio I, porque há perda de inserção.",
+     "correta": false,
+     "justificativa": "Perda de inserção explicada por causa não periodontal não fecha caso de periodontite; primeiro pergunte perdeu por quê.",
+     "fonte": "tonetti2018",
+     "onde": "seção de definição de caso de periodontite (causas não periodontais de perda de inserção)"
+    },
+    {
+     "texto": "Saúde em periodonto reduzido, sem periodontite.",
+     "correta": true,
+     "justificativa": "O terreno encolheu por obra (cirurgia), não por enchente (doença); sondagem ≤ 3 mm e sangramento < 10% são números de saúde.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1 e seção On a site level, how do we classify clinical gingival health?"
+    },
+    {
+     "texto": "Gengivite em periodonto reduzido.",
+     "correta": false,
+     "justificativa": "O sangramento de 5% fica abaixo do corte de 10%, então não é gengivite.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q06",
+   "enunciado": "Paciente transplantado, em uso de ciclosporina, com aumento gengival. Como esse quadro se encaixa na classificação de 2018?",
+   "alternativas": [
+    {
+     "texto": "Gengivite induzida pelo biofilme, forma C: aumento gengival induzido por fármaco.",
+     "correta": true,
+     "justificativa": "Os aumentos gengivais induzidos por fármacos estão dentro da gengivite induzida pelo biofilme, no item C da classificação por fator.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item C"
+    },
+    {
+     "texto": "Doença gengival não induzida pelo biofilme, grupo genético.",
+     "correta": false,
+     "justificativa": "O grupo genético é o da fibromatose (hiperplasia) gengival hereditária, de causa genética; o aumento por ciclosporina é induzido por fármaco.",
+     "fonte": "holmstrup2018",
+     "onde": "Tabela 1, grupo 1"
+    },
+    {
+     "texto": "Hiperplasia gengival, categoria à parte da gengivite.",
+     "correta": false,
+     "justificativa": "O termo certo é aumento gengival: hiperplasia descreve só aumento do número de células. E, na classificação de 2018, o aumento por fármaco é a forma C da gengivite (Murakami, Tabela 2).",
+     "fonte": "carranza13",
+     "onde": "cap. 19, p. 256"
+    },
+    {
+     "texto": "Periodontite, porque o volume gengival aumenta a profundidade de sondagem.",
+     "correta": false,
+     "justificativa": "O aumento gengival por fármaco não tem perda de inserção associada; a sondagem maior vem do volume da gengiva, não de perda de inserção.",
+     "fonte": "murakami2018",
+     "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+    }
+   ],
+   "fonte": "murakami2018",
+   "onde": "Tabela 2, item C",
+   "figura": null
+  },
+  {
+   "id": "q07",
+   "enunciado": "O que a fenitoína, a ciclosporina e a nifedipina têm em comum no aumento gengival, segundo o consenso de 2018?",
+   "alternativas": [
+    {
+     "texto": "Agem no osso alveolar, causando perda óssea rápida.",
+     "correta": false,
+     "justificativa": "O aumento gengival por fármaco não tem perda de inserção associada; o que cresce é o volume da gengiva.",
+     "fonte": "murakami2018",
+     "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+    },
+    {
+     "texto": "Destroem o aparato de inserção por biofilme disbiótico.",
+     "correta": false,
+     "justificativa": "Isso descreve periodontite; no aumento gengival por fármaco não há perda de inserção associada.",
+     "fonte": "murakami2018",
+     "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+    },
+    {
+     "texto": "Só a fenitoína causa aumento gengival; ciclosporina e nifedipina não.",
+     "correta": false,
+     "justificativa": "Os três estão na lista de fármacos associados ao aumento gengival, ao lado de outros, como ácido valproico e outros bloqueadores de canal de cálcio.",
+     "fonte": "murakami2018",
+     "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+    },
+    {
+     "texto": "O aumento não regride mesmo com a suspensão do fármaco; a única saída é a cirurgia.",
+     "correta": false,
+     "justificativa": "O tratamento mais eficaz é retirar ou trocar o fármaco junto com o médico, com relato de resolução em 1 a 8 semanas; a cirurgia fica para estética ou volume persistente, e a recorrência chega a cerca de 40% em 18 meses com ciclosporina ou nifedipina.",
+     "fonte": "carranza13",
+     "onde": "cap. 19, p. 261–262"
+    },
+    {
+     "texto": "O aumento costuma surgir em até 3 meses de uso e não vem acompanhado de perda de inserção.",
+     "correta": true,
+     "justificativa": "É o que o consenso descreve para os aumentos gengivais induzidos por fármacos em geral.",
+     "fonte": "murakami2018",
+     "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)"
+    }
+   ],
+   "fonte": "murakami2018",
+   "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)",
+   "figura": null
+  },
+  {
+   "id": "q08",
+   "enunciado": "Paciente com sangramento à sondagem em 22% dos sítios, sondagem ≤ 3 mm, sem perda de inserção e sem fator modificador. Qual é o diagnóstico?",
+   "alternativas": [
+    {
+     "texto": "Gengivite generalizada.",
+     "correta": false,
+     "justificativa": "Generalizada é mais de 30% dos sítios; 22% é localizada.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Gengivite localizada, induzida só pelo biofilme.",
+     "correta": true,
+     "justificativa": "≥ 10% dos sítios sangrando com sondagem normal é gengivite; 22% fica entre 10 e 30%, localizada; sem fator modificador, é a forma A (Murakami, Tabela 2).",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Saúde, porque não há perda de inserção.",
+     "correta": false,
+     "justificativa": "A ausência de perda de inserção vale para gengivite também; o sangramento acima de 10% tira da saúde.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    },
+    {
+     "texto": "Periodontite estágio I, localizada.",
+     "correta": false,
+     "justificativa": "Sem perda de inserção não há critério de caso de periodontite.",
+     "fonte": "tonetti2018",
+     "onde": "seção de definição de caso de periodontite"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "Tabela 1",
+   "figura": null
+  },
+  {
+   "id": "q09",
+   "enunciado": "Paciente com lesão gengival que não melhora mesmo com higiene impecável. Qual é a conduta indicada?",
+   "alternativas": [
+    {
+     "texto": "Investigar com biópsia ou encaminhar.",
+     "correta": true,
+     "justificativa": "Condições gengivais não induzidas pelo biofilme em geral não regridem com a remoção da placa; muitas pedem histopatologia (Holmstrup, Tabela 2), e as com envolvimento sistêmico pedem encaminhamento.",
+     "fonte": "chapple2018",
+     "onde": "seções sobre as condições gengivais não induzidas pelo biofilme"
+    },
+    {
+     "texto": "Aumentar a frequência de profilaxia até resolver.",
+     "correta": false,
+     "justificativa": "Se a higiene impecável não resolveu, a hipótese de doença não induzida pelo biofilme pede investigação ou encaminhamento, não mais remoção de placa.",
+     "fonte": "chapple2018",
+     "onde": "seções sobre as condições gengivais não induzidas pelo biofilme"
+    },
+    {
+     "texto": "Classificar como gengivite generalizada.",
+     "correta": false,
+     "justificativa": "Gengivite induzida pelo biofilme é reversível quando o biofilme é removido; a que não melhora sai dessa caixa.",
+     "fonte": "murakami2018",
+     "onde": "seção Findings, característica (b)"
+    },
+    {
+     "texto": "Diagnosticar periodontite estável.",
+     "correta": false,
+     "justificativa": "Periodontite estável depende de histórico de periodontite tratada, não de resposta à higiene.",
+     "fonte": "chapple2018",
+     "onde": "Tabela 1"
+    }
+   ],
+   "fonte": "chapple2018",
+   "onde": "seções sobre as condições gengivais não induzidas pelo biofilme",
+   "figura": null
+  }
+ ]
+}

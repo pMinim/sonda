@@ -1,0 +1,93 @@
+{
+  "disciplina": "14720",
+  "topicos": [
+    {
+      "slug": "acesso-incisivos-e-caninos",
+      "titulo": "Cirurgia de acesso em incisivos e caninos: ponto de eleição, remoção de teto, desgaste compensatório",
+      "area": "Endodontia",
+      "resumoCurto": "Erro de acesso compromete todas as etapas seguintes",
+      "status": "em-breve",
+      "origem": "Aula — Prof. Pedro"
+    },
+    {
+      "slug": "acidentes-de-procedimento-em-endodontia",
+      "titulo": "Acidentes de procedimento: degrau, transporte, perfuração e fratura de instrumento",
+      "area": "Endodontia",
+      "resumoCurto": "Reconhecer e prevenir na bancada antes de chegar ao paciente",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "anatomia-interna-e-acesso-molares",
+      "titulo": "Anatomia interna e acesso de molares superiores e inferiores (MV2, istmos)",
+      "area": "Endodontia",
+      "resumoCurto": "Canal não localizado é causa direta de insucesso",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "anatomia-interna-e-acesso-pre-molares",
+      "titulo": "Anatomia interna e acesso de pré-molares (número de canais, achatamento)",
+      "area": "Endodontia",
+      "resumoCurto": "Primeiro pré-molar superior com dois canais é a armadilha clássica",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "exploracao-e-patencia",
+      "titulo": "Exploração, cateterismo e patência foraminal",
+      "area": "Endodontia",
+      "resumoCurto": "Evita degrau e bloqueio antes de instrumentar",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "irrigacao-endodontica",
+      "titulo": "Irrigação: hipoclorito de sódio, EDTA, clorexidina e acidente com hipoclorito",
+      "area": "Endodontia",
+      "resumoCurto": "Desinfecção depende mais da irrigação que da lima",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "medicacao-intracanal",
+      "titulo": "Medicação intracanal: hidróxido de cálcio, indicação e tempo",
+      "area": "Endodontia",
+      "resumoCurto": "Define tratamento em sessão única ou múltipla",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "obturacao-do-sistema-de-canais",
+      "titulo": "Obturação: cone principal, condensação lateral, cimentos e critérios radiográficos",
+      "area": "Endodontia",
+      "resumoCurto": "Fecha o tratamento; o critério de qualidade é radiográfico.",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "odontometria",
+      "titulo": "Odontometria radiográfica e eletrônica (localizador apical)",
+      "area": "Endodontia",
+      "resumoCurto": "Comprimento de trabalho errado gera sobre ou subobturação",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "preparo-quimico-mecanico-tecnicas-manuais",
+      "titulo": "Preparo químico-mecânico: técnicas coroa-ápice e escalonada",
+      "area": "Endodontia",
+      "resumoCurto": "É o que o aluno executa na bancada",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    },
+    {
+      "slug": "radiografia-em-endodontia",
+      "titulo": "Radiografia em endodontia: dissociação (Clark), radiografia de diagnóstico, odontometria e final",
+      "area": "Radiologia",
+      "resumoCurto": "Localizar canais sobrepostos e conferir cada etapa",
+      "status": "em-breve",
+      "origem": "Proposto (a partir de livro-texto)"
+    }
+  ]
+}

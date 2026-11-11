@@ -1,0 +1,299 @@
+{
+ "slug": "trauma-oclusal",
+ "titulo": "Forças oclusais traumáticas",
+ "area": "Periodontia",
+ "origem": "Consenso de 2018 (Fan & Caton, Jepsen, Tonetti, Murakami, Herrera)",
+ "status": "em-revisao",
+ "fontes": [
+  {
+   "id": "fan2018",
+   "ref": "Fan J, Caton JG. Occlusal trauma and excessive occlusal forces: Narrative review, case definitions, and diagnostic considerations. J Clin Periodontol. 2018;45(Suppl 20):S199–S206.",
+   "curta": "Fan & Caton 2018"
+  },
+  {
+   "id": "jepsen2018",
+   "ref": "Jepsen S, Caton JG, Albandar JM, et al. Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup 3 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S219–S229.",
+   "curta": "Jepsen et al. 2018 (consenso, grupo 3)"
+  },
+  {
+   "id": "tonetti2018",
+   "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+   "curta": "Tonetti, Greenwell & Kornman 2018"
+  },
+  {
+   "id": "murakami2018",
+   "ref": "Murakami S, Mealey BL, Mariotti A, Chapple ILC. Dental plaque–induced gingival conditions. J Clin Periodontol. 2018;45(Suppl 20):S17–S27.",
+   "curta": "Murakami et al. 2018"
+  },
+  {
+   "id": "herrera2018",
+   "ref": "Herrera D, Retamal-Valdes B, Alonso B, Feres M. Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions. J Clin Periodontol. 2018;45(Suppl 20):S78–S94.",
+   "curta": "Herrera et al. 2018"
+  }
+ ],
+ "resumo": [
+  {
+   "id": "onde-fica",
+   "titulo": "Onde fica na classificação",
+   "fonte": "jepsen2018",
+   "onde": "seção 3; Tabela 3",
+   "texto": "As **forças oclusais traumáticas** estão no **grupo 3** da classificação de 2018, o das *outras condições*: o que afeta o periodonto **sem ser periodontite**.\n\nO termo mudou: **\"força oclusal traumática\" substitui \"força oclusal excessiva\"**. É a força que lesa o dente e/ou o aparato de inserção; a lesão resultante no ligamento, no cemento e no osso é o **trauma oclusal**."
+  },
+  {
+   "id": "primario-secundario",
+   "titulo": "Primário × secundário",
+   "fonte": "jepsen2018",
+   "onde": "seção 3; Tabela 3",
+   "texto": "O que separa os dois é **a força** e **o suporte periodontal que a recebe**:\n\n| | Força | Suporte periodontal | Mobilidade |\n|---|---|---|---|\n| **Trauma primário** | **traumática** | **normal** | adaptativa, não progressiva |\n| **Trauma secundário** | **normal ou traumática** | **reduzido** | progressiva |\n\nExemplo de secundário: o dente de um paciente com periodontite **estágio IV** que vai \"afrouxando\", com **mobilidade progressiva (grau ≥ 2)**. No estadiamento, mobilidade grau ≥ 2 por trauma oclusal secundário é um dos fatores de complexidade do estágio IV (Tonetti et al., Tabela 3)."
+  },
+  {
+   "id": "o-que-faz",
+   "titulo": "O que o trauma faz, e o que não faz",
+   "fonte": "jepsen2018",
+   "onde": "seção 3",
+   "texto": "- Não há evidência de que o trauma oclusal **cause perda de inserção** ou **inicie** periodontite.\n- Em humanos, forças traumáticas **se associam à gravidade** da periodontite, mas **não há evidência de que acelerem a progressão**. A aceleração da perda de inserção na presença de periodontite foi vista em **modelos animais** (Fan & Caton).\n- Forças oclusais também não causam recessão nem lesões cervicais não cariosas.\n\nPor isso a consequência prática:\n\n> **Ajuste oclusal não trata periodontite.** A terapia oclusal é complemento e não substitui o controle da inflamação por placa (Fan & Caton). Mobilidade progressiva pode pedir contenção, e reduzir a mobilidade pode melhorar o resultado do tratamento."
+  }
+ ],
+ "figuras": [
+  {
+   "src": "data/14733/img/trauma-primario-x-secundario.jpg",
+   "alt": "Dois cortes do mesmo pré-molar superior de duas raízes em oclusão com o antagonista inferior; à esquerda com o osso na altura normal, à direita com o osso e a gengiva recuados e parte das raízes fora do osso.",
+   "legenda": "Ilustração. Trauma oclusal primário (esquerda): força traumática sobre suporte periodontal normal; mobilidade adaptativa, não progressiva. Secundário (direita): força normal ou traumática sobre suporte reduzido; mobilidade progressiva, como no estágio IV com mobilidade ≥ 2. A força não aparece no desenho; o que muda à vista é o suporte (Jepsen et al. 2018, seção 3).",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "primario-secundario",
+   "largura": 1400,
+   "altura": 1045
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "f01",
+   "frente": "Em que grupo da classificação de 2018 ficam as forças oclusais traumáticas?",
+   "verso": "No **grupo 3, outras condições**: o que afeta o periodonto sem ser periodontite.",
+   "fonte": "jepsen2018",
+   "onde": "seção 3; Tabela 3"
+  },
+  {
+   "id": "f02",
+   "frente": "O que é trauma oclusal primário?",
+   "verso": "Força **traumática** (antes chamada excessiva) sobre dente com suporte periodontal **normal**.",
+   "fonte": "jepsen2018",
+   "onde": "seção 3"
+  },
+  {
+   "id": "f03",
+   "frente": "O que é trauma oclusal secundário?",
+   "verso": "Força **normal ou traumática** sobre dente com suporte periodontal **reduzido**.",
+   "fonte": "jepsen2018",
+   "onde": "seção 3"
+  },
+  {
+   "id": "f04",
+   "frente": "Onde o trauma oclusal secundário aparece no estadiamento da periodontite?",
+   "verso": "No **estágio IV**: mobilidade **grau ≥ 2** por trauma oclusal secundário é fator de complexidade desse estágio.",
+   "fonte": "tonetti2018",
+   "onde": "Tabela 3 (complexidade, estágio IV)"
+  },
+  {
+   "id": "f05",
+   "frente": "O trauma oclusal inicia periodontite?",
+   "verso": "**Não.** Em humanos, associa-se à gravidade da periodontite, mas não há evidência de que acelere a progressão; a aceleração foi vista em modelos animais.",
+   "fonte": "jepsen2018",
+   "onde": "seção 3"
+  },
+  {
+   "id": "f06",
+   "frente": "Ajuste oclusal trata periodontite?",
+   "verso": "**Não.** A terapia oclusal é complemento: não substitui o controle da inflamação por placa.",
+   "fonte": "fan2018",
+   "onde": "conclusões"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q01",
+   "enunciado": "Paciente com periodontite estágio IV. Um dos dentes, que recebe força mastigatória normal, \"afrouxou\" e a mobilidade vem aumentando. Como o consenso de 2018 classifica essa situação?",
+   "alternativas": [
+    {
+     "texto": "Trauma oclusal primário.",
+     "correta": false,
+     "justificativa": "O primário é força traumática sobre dente com suporte periodontal normal; aqui a força é normal e o suporte está reduzido.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "Trauma oclusal secundário.",
+     "correta": true,
+     "justificativa": "Força normal ou traumática sobre suporte reduzido, com mobilidade progressiva, é trauma oclusal secundário.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "Abscesso periodontal.",
+     "correta": false,
+     "justificativa": "Abscesso é acúmulo localizado de pus na parede da bolsa, com edema; o caso não descreve isso.",
+     "fonte": "herrera2018",
+     "onde": "seção 1 (abscesso periodontal)"
+    },
+    {
+     "texto": "Recessão gengival.",
+     "correta": false,
+     "justificativa": "Recessão é a margem gengival migrando para apical e expondo a raiz, e forças oclusais não causam recessão; não é o que o caso descreve.",
+     "fonte": "jepsen2018",
+     "onde": "seções 2 e 3"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 3",
+   "figura": null
+  },
+  {
+   "id": "q02",
+   "enunciado": "Força oclusal traumática (antes chamada excessiva) atuando sobre dente com suporte periodontal normal caracteriza:",
+   "alternativas": [
+    {
+     "texto": "Trauma oclusal secundário.",
+     "correta": false,
+     "justificativa": "O secundário é força normal ou traumática sobre suporte reduzido; aqui o suporte é normal.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "Periodontite estágio I.",
+     "correta": false,
+     "justificativa": "Trauma oclusal não inicia periodontite nem perda de inserção conjuntiva.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    },
+    {
+     "texto": "Gengivite modificada por fator local.",
+     "correta": false,
+     "justificativa": "Os fatores orais da gengivite são os que aumentam o acúmulo de placa, como margem subgengival proeminente de restauração e hipossalivação; força oclusal não está entre eles.",
+     "fonte": "murakami2018",
+     "onde": "Tabela 2, item B.2"
+    },
+    {
+     "texto": "Trauma oclusal primário.",
+     "correta": true,
+     "justificativa": "É a definição do consenso: força traumática sobre dente com suporte periodontal normal.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 3",
+   "figura": null
+  },
+  {
+   "id": "q03",
+   "enunciado": "Sobre a relação entre trauma oclusal e periodontite, qual afirmação está de acordo com o consenso de 2018?",
+   "alternativas": [
+    {
+     "texto": "O trauma oclusal não inicia periodontite; em humanos, associa-se à gravidade da doença, sem evidência de que acelere a progressão.",
+     "correta": true,
+     "justificativa": "Não há evidência de que o trauma cause perda de inserção; em humanos há associação com a gravidade, sem evidência de que acelere a progressão (a aceleração só foi vista em animais).",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "O trauma oclusal é a causa inicial da periodontite.",
+     "correta": false,
+     "justificativa": "Trauma oclusal não inicia periodontite nem perda de inserção conjuntiva.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    },
+    {
+     "texto": "O trauma oclusal não tem efeito em periodonto com periodontite.",
+     "correta": false,
+     "justificativa": "Há efeito: dentes com mobilidade têm mais perda de inserção, ganham menos inserção com o tratamento e perdem mais na manutenção.",
+     "fonte": "fan2018",
+     "onde": "revisão narrativa: trauma oclusal e progressão da periodontite (estudos clínicos)"
+    },
+    {
+     "texto": "O trauma oclusal só existe em periodonto saudável.",
+     "correta": false,
+     "justificativa": "Trauma oclusal pode ocorrer em periodonto íntegro ou reduzido; o secundário é justamente sobre suporte reduzido.",
+     "fonte": "fan2018",
+     "onde": "definições de caso"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 3",
+   "figura": null
+  },
+  {
+   "id": "q04",
+   "enunciado": "Paciente com periodontite e um dente com sinais de trauma oclusal. Um colega propõe tratar a periodontite com ajuste oclusal. O que dizem as fontes de 2018?",
+   "alternativas": [
+    {
+     "texto": "Correto: tirando o trauma, a periodontite se resolve.",
+     "correta": false,
+     "justificativa": "O trauma não inicia periodontite, e a terapia oclusal não substitui o controle da inflamação por placa.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    },
+    {
+     "texto": "Correto, desde que o trauma seja secundário.",
+     "correta": false,
+     "justificativa": "Também no secundário a terapia oclusal é complemento; a periodontite se trata controlando a inflamação por placa.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    },
+    {
+     "texto": "Ajuste oclusal não trata periodontite.",
+     "correta": true,
+     "justificativa": "A terapia oclusal é complemento para mobilidade, conforto e função, e não substitui o controle da inflamação por placa.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    },
+    {
+     "texto": "Correto, desde que o trauma seja primário.",
+     "correta": false,
+     "justificativa": "Também no primário a terapia oclusal é complemento; a periodontite se trata controlando a inflamação por placa.",
+     "fonte": "fan2018",
+     "onde": "conclusões"
+    }
+   ],
+   "fonte": "fan2018",
+   "onde": "conclusões",
+   "figura": null
+  },
+  {
+   "id": "q05",
+   "enunciado": "O que diferencia o trauma oclusal primário do secundário?",
+   "alternativas": [
+    {
+     "texto": "O tipo de dente: primário em anterior, secundário em posterior.",
+     "correta": false,
+     "justificativa": "O critério é o suporte periodontal (normal ou reduzido) e a força, não o tipo de dente.",
+     "fonte": "fan2018",
+     "onde": "definições de caso"
+    },
+    {
+     "texto": "A força e o suporte periodontal: traumática sobre suporte normal (primário) × normal ou traumática sobre suporte reduzido (secundário).",
+     "correta": true,
+     "justificativa": "É a distinção do consenso: força traumática sobre suporte normal no primário; força normal ou traumática sobre suporte reduzido no secundário.",
+     "fonte": "jepsen2018",
+     "onde": "seção 3"
+    },
+    {
+     "texto": "A presença de biofilme: primário sem biofilme, secundário com biofilme.",
+     "correta": false,
+     "justificativa": "Os dois se definem pela força e pelo suporte periodontal, não pela presença de biofilme.",
+     "fonte": "fan2018",
+     "onde": "definições de caso"
+    },
+    {
+     "texto": "A idade do paciente.",
+     "correta": false,
+     "justificativa": "Os dois se definem pela força e pelo suporte periodontal, não pela idade do paciente.",
+     "fonte": "fan2018",
+     "onde": "definições de caso"
+    }
+   ],
+   "fonte": "jepsen2018",
+   "onde": "seção 3",
+   "figura": null
+  }
+ ]
+}
