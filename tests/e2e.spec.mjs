@@ -20,7 +20,7 @@ const srv = spawn(process.platform === 'win32' ? 'py' : 'python3', [...(process.
 await new Promise(r => setTimeout(r, 1200));
 
 const browser = await chromium.launch();
-// O RGM de teste 000000 saiu de data/alunos.json (o site não o aceita mais).
+// Os RGMs de teste 000000 e 111111 saíram de data/alunos.json (o site não os aceita; só valem os dos alunos e o do professor).
 // O teste os acrescenta só no navegador dele, interceptando o alunos.json servido.
 const TESTE = { '000000': ['13735', '13744', '14720', '14723', '14733', '14814', '14816'], '111111': ['14733'] };
 const hashRgm = (sal, rgm) => createHash('sha256').update(`${sal}:${rgm}`).digest('hex');
@@ -47,7 +47,7 @@ try {
   // 0
   console.log('0. Sem RGM de teste nos dados publicados');
   const reais = JSON.parse(readFileSync(path.join(RAIZ, 'data', 'alunos.json'), 'utf8'));
-  for (const rgm of ['000000', '999999']) ok(!(hashRgm(reais.sal, rgm) in reais.alunos), `${rgm} não entra no site`);
+  for (const rgm of ['000000', '111111', '999999']) ok(!(hashRgm(reais.sal, rgm) in reais.alunos), `${rgm} não entra no site`);
 
   // 1
   console.log('1. RGM inexistente');
