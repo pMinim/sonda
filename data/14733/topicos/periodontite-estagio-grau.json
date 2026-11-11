@@ -103,6 +103,42 @@
    "altura": 1400
   },
   {
+   "src": "data/14733/img/rx-perda-ossea-score-0-a-3.jpg",
+   "alt": "Quatro radiografias periapicais de dentes posteriores inferiores, rotuladas de Score 0 a Score 3. Da primeira para a última, a crista óssea aparece cada vez mais longe da coroa.",
+   "legenda": "Quatro radiografias periapicais classificadas pelos autores pela perda óssea: “Score 0”, sem perda detectável; “Score 1”, até 15% do comprimento da raiz (faixa do estágio I); “Score 2”, de 15% a 33% (estágio II); “Score 3”, terço médio da raiz ou além (estágios III e IV, que se separam pela complexidade). Lembre que o estágio parte da perda de inserção; a radiografia entra quando ela não está disponível.",
+   "credito": "Radiografias: Dujic et al., Diagnostics, 2023 (Figura 1). CC BY 4.0.",
+   "apos": "estagios",
+   "largura": 1155,
+   "altura": 1159
+  },
+  {
+   "src": "data/14733/img/rx-estagio-i.jpg",
+   "alt": "Radiografia periapical de molar e pré-molar inferiores com a crista óssea pouco abaixo da junção cemento-esmalte. No canto, o rótulo “Score 1” dos autores.",
+   "legenda": "Radiografia periapical classificada pelos autores como perda óssea leve (“Score 1”: até 15% do comprimento da raiz), a faixa radiográfica do estágio I.",
+   "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 1”, recortado). CC BY 4.0.",
+   "apos": "estagios",
+   "largura": 554,
+   "altura": 556
+  },
+  {
+   "src": "data/14733/img/rx-estagio-ii.jpg",
+   "alt": "Radiografia periapical de molares inferiores com a crista óssea mais baixa entre os dentes, ainda no terço coronal das raízes. No canto, o rótulo “Score 2” dos autores.",
+   "legenda": "Radiografia periapical classificada pelos autores como perda óssea moderada (“Score 2”: de 15% a 33% do comprimento da raiz), a faixa radiográfica do estágio II.",
+   "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 2”, recortado). CC BY 4.0.",
+   "apos": "estagios",
+   "largura": 556,
+   "altura": 556
+  },
+  {
+   "src": "data/14733/img/rx-estagio-iii.jpg",
+   "alt": "Radiografia periapical de molares inferiores com perda óssea profunda ao lado do último molar, chegando à metade da raiz. No canto, o rótulo “Score 3” dos autores.",
+   "legenda": "Radiografia periapical classificada pelos autores como perda óssea grave (“Score 3”: chega ao terço médio da raiz ou passa dele), a faixa radiográfica do estágio III.",
+   "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 3”, recortado). CC BY 4.0.",
+   "apos": "estagios",
+   "largura": 554,
+   "altura": 556
+  },
+  {
    "src": "data/14733/img/conta-do-percentual-de-perda-ossea.svg",
    "alt": "Esquema de um dente em corte com o osso em volta da raiz. Setas marcam 4 mm da junção cemento-esmalte até a crista óssea (a perda) e 9 mm da junção até o ápice (a raiz). Embaixo, a fórmula do percentual de perda óssea e o resultado, 44,4%.",
    "legenda": "Os três marcos da radiografia periapical: junção cemento-esmalte (JCE, o marco zero), crista óssea e ápice. %PO = (JCE→crista ÷ JCE→ápice) × 100; no exemplo, 4 ÷ 9 × 100 = 44,4%.",

@@ -101,6 +101,15 @@
  ],
  "figuras": [
   {
+   "src": "data/14733/img/gengiva-saudavel.jpg",
+   "alt": "Foto aproximada dos dois incisivos centrais superiores, com gengiva rosa, margem regular e a papila preenchendo o espaço entre eles.",
+   "legenda": "Aspecto de gengiva clinicamente saudável. A foto não substitui o critério: saúde se define pela sondagem e pelo sangramento (tabela acima).",
+   "credito": "Foto: “06-10-06centralincisors”, Dozenist, Wikimedia Commons. Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+   "apos": "saude",
+   "largura": 737,
+   "altura": 507
+  },
+  {
    "src": "data/14733/img/periodonto-integro-x-reduzido.jpg",
    "alt": "Dois cortes do mesmo incisivo inferior com gengiva saudável e sonda em sulco raso. À esquerda, gengiva e osso na altura normal; à direita, gengiva e osso mais baixos, com parte da raiz exposta.",
    "legenda": "Ilustração. Esquerda: periodonto íntegro, sem perda de inserção nem perda óssea. Direita: periodonto reduzido com números de saúde (sondagem ≤ 3 mm, sangramento em menos de 10% dos sítios). O desenho não diz por que o periodonto encolheu: se foi por outra causa (recessão, aumento de coroa clínica), é saúde em periodonto reduzido sem periodontite; se foi por periodontite tratada, é periodontite estável, que segue em suporte periodontal pela vida toda (Chapple et al. 2018, Tabela 1).",

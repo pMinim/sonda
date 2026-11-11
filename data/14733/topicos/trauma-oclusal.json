@@ -63,6 +63,24 @@
    "apos": "primario-secundario",
    "largura": 1400,
    "altura": 1045
+  },
+  {
+   "src": "data/14733/img/rx-ligamento-periodontal.jpg",
+   "alt": "Duas radiografias periapicais de incisivos superiores com o osso entre os dentes muito reduzido e uma faixa escura mais larga em volta das raízes.",
+   "legenda": "Radiografias periapicais de incisivos superiores com periodontite avançada: perda óssea interdental grave e espaço do ligamento periodontal alargado, que os autores atribuem ao trauma oclusal, num periodonto já reduzido pela doença. Esse alargamento é um dos indicadores propostos de trauma oclusal, e o diagnóstico clínico é presuntivo (Fan & Caton 2018, Tabela 1).",
+   "credito": "Radiografias: Aimetti et al., Case Reports in Dentistry, 2017 (Figura 1, painel c, recortado). CC BY 4.0.",
+   "apos": "o-que-faz",
+   "largura": 466,
+   "altura": 361
+  },
+  {
+   "src": "data/14733/img/ligamento-periodontal-normal-x-alargado.jpg",
+   "alt": "Dois cortes do mesmo pré-molar inferior com gengiva e osso. À esquerda, uma faixa fina entre a raiz e o osso; à direita, a mesma faixa bem mais larga em volta de toda a raiz, com o osso e a gengiva na mesma altura.",
+   "legenda": "Esquema: o mesmo dente com o espaço do ligamento periodontal de largura normal (esquerda) e alargado (direita). A altura do osso e da gengiva é a mesma nos dois: não há evidência de que o trauma oclusal cause perda de inserção (Jepsen et al. 2018).",
+   "credito": "Ilustração do professor, gerada com IA e revisada.",
+   "apos": "o-que-faz",
+   "largura": 1400,
+   "altura": 1045
   }
  ],
  "flashcards": [
