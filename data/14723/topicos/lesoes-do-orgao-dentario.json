@@ -29,7 +29,7 @@
       "titulo": "Erosão: de onde vem o ácido e como ela se parece",
       "fonte": "neville5-cap2",
       "onde": "cap. 2, Desgaste dentário, Erosão, p. 57–59",
-      "texto": "**O que é:** perda de estrutura por processo **químico, sem bactéria**, em geral causado por ácido. A saliva tampona o ácido; com pouca saliva a erosão piora.\n\n**De onde vem o ácido:**\n- **Dieta:** refrigerantes ácidos e carbonatados, frutas ácidas. Conta a **frequência e a duração**: a saliva costuma estabilizar o pH em 2 a 13 minutos, e 4 ou mais exposições por dia aumentam o risco. Tomar goles pequenos ou comer devagar prolonga a exposição. Canudo no fundo da boca protege; no vestíbulo, piora. Alimento ácido rico em cálcio, como o iogurte, erode pouco.\n- **Regurgitação:** a erosão por secreção gástrica chama-se **perimólise**. Pode ser involuntária (hérnia de hiato, esofagite, alcoolismo crônico, gestação) ou voluntária (bulimia, distúrbios psicológicos).\n- **Pouca saliva:** desidratação, radioterapia, medicamentos, síndrome de Sjögren, diabetes.\n- Outras: certos medicamentos, piscina com pH inadequado, exposição industrial.\n\n**Onde:** nas áreas pouco protegidas pela saliva serosa de parótidas e submandibulares: faces **vestibulares e palatinas dos superiores** e vestibulares e oclusais dos posteriores inferiores. O envolvimento das faces linguais dos inferiores é incomum.\n\n**Padrão clássico:** **depressão côncava de dentina cercada por borda elevada de esmalte**. Surge nas pontas de cúspide e nas bordas incisais. Nos anteriores superiores aparece como depressão rasa, **em colher**, na porção cervical da face vestibular (a abrasão faz fenda). Restaurações metálicas podem ficar **acima** do nível do dente. A erosão ativa tem superfície **limpa**; a inativa fica manchada.\n\n**A localização sugere a causa, mas não é totalmente confiável:**\n- só a face vestibular dos anteriores superiores: alimentos ácidos;\n- só as bordas incisais dos anteriores de ambos os arcos: fonte ambiental externa;\n- faces palatinas dos anteriores e oclusais dos posteriores, nos dois arcos: provável regurgitação gástrica."
+      "texto": "**O que é:** perda de estrutura por processo **químico, sem bactéria**, em geral causado por ácido. A saliva tampona o ácido; com pouca saliva a erosão piora.\n\n**De onde vem o ácido:**\n- **Dieta:** refrigerantes ácidos e carbonatados, frutas ácidas. Conta a **frequência e a duração**: a saliva costuma estabilizar o pH em 2 a 13 minutos, e 4 ou mais exposições por dia aumentam o risco. Tomar goles pequenos ou comer devagar prolonga a exposição. Canudo no fundo da boca protege; no vestíbulo, piora. Alimento ácido rico em cálcio, como o iogurte, erode pouco.\n- **Regurgitação:** a erosão por secreção gástrica chama-se **perimólise**. Pode ser involuntária (hérnia de hiato, esofagite, alcoolismo crônico, gestação) ou voluntária (bulimia, distúrbios psicológicos).\n- **Pouca saliva:** desidratação, radioterapia, medicamentos, síndrome de Sjögren, diabetes.\n- Outras: certos medicamentos, piscina com pH inadequado, exposição industrial.\n\n**Onde:** nas áreas pouco protegidas pela saliva serosa de parótidas e submandibulares: faces **vestibulares e palatinas dos superiores** e vestibulares e oclusais dos posteriores inferiores. O envolvimento das faces linguais dos inferiores é incomum.\n\n**Padrão clássico:** **depressão côncava de dentina cercada por borda elevada de esmalte**. Surge nas pontas de cúspide e nas bordas incisais. Nos anteriores superiores aparece como depressão rasa, **em colher**, na porção cervical da face vestibular (a abrasão faz fenda). Restaurações metálicas podem ficar **acima** do nível do dente. A erosão ativa tem superfície **limpa**; a inativa fica manchada.\n\n**A localização sugere a causa, mas não é totalmente confiável:**\n- só a face vestibular dos anteriores superiores: costuma sugerir alimentos ácidos;\n- só as bordas incisais dos anteriores de ambos os arcos: fonte ambiental externa;\n- faces palatinas dos anteriores e oclusais dos posteriores, nos dois arcos: provável regurgitação gástrica."
     },
     {
       "id": "abfracao-conduta",
@@ -268,7 +268,7 @@
     },
     {
       "id": "q03",
-      "enunciado": "Jovem de 22 anos com bulimia mostra perda de esmalte nas faces palatinas dos incisivos e nas faces oclusais dos molares, nos dois arcos, com dentina côncava e linha branca periférica de esmalte. Qual é a causa mais provável da perda?",
+      "enunciado": "Jovem de 22 anos com bulimia mostra perda de esmalte nas faces palatinas dos incisivos e nas faces oclusais dos molares, nos dois arcos, com dentina côncava cercada por borda elevada de esmalte. Qual é a causa mais provável da perda?",
       "alternativas": [
         {
           "texto": "Atrição por bruxismo",
@@ -325,7 +325,7 @@
         {
           "texto": "Nenhum cuidado, pois o desgaste é fisiológico",
           "correta": false,
-          "justificativa": "Só a atrição em nível normal dispensa tratamento; no desgaste por erosão o livro pede medidas preventivas e monitoramento.",
+          "justificativa": "Níveis normais de atrição não necessitam de tratamento; no desgaste por erosão o livro pede medidas preventivas e monitoramento.",
           "fonte": "neville5-cap2",
           "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 60"
         },
