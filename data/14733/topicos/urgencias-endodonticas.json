@@ -246,6 +246,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 718–719",
+      "secao": "o-que-e",
       "figura": null
     },
     {
@@ -283,6 +284,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 719–720",
+      "secao": "polpa-vital",
       "figura": null
     },
     {
@@ -320,6 +322,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 720; 723; 731–732",
+      "secao": "abscesso-edema",
       "figura": null
     },
     {
@@ -357,6 +360,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 720; 723; 731",
+      "secao": "aberto-ou-fechado",
       "figura": null
     },
     {
@@ -394,6 +398,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 732",
+      "secao": "antibioticos",
       "figura": null
     },
     {
@@ -431,6 +436,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 732",
+      "secao": "analgesicos",
       "figura": null
     },
     {
@@ -468,6 +474,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 720; 732–733",
+      "secao": "flare-up-e-outros",
       "figura": null
     },
     {
@@ -505,6 +512,7 @@
       ],
       "fonte": "cohen12-cap19",
       "onde": "p. 718; 732–733",
+      "secao": "flare-up-e-outros",
       "figura": null
     }
   ]

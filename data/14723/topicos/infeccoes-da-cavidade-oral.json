@@ -1,0 +1,593 @@
+{
+  "slug": "infeccoes-da-cavidade-oral",
+  "titulo": "Infecções da cavidade oral: candidíase, herpes simples, herpes-zóster, sífilis e manifestações bucais do HIV",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 5, 6 e 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap6",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 6, Doenças Causadas por Fungos e Protozoários, p. 196–222.",
+      "curta": "Neville 5ª ed., cap. 6"
+    },
+    {
+      "id": "neville5-cap7",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 7, Infecções Virais, p. 223–264.",
+      "curta": "Neville 5ª ed., cap. 7"
+    },
+    {
+      "id": "neville5-cap5",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 5, Infecções Bacterianas, p. 167–195.",
+      "curta": "Neville 5ª ed., cap. 5"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "candida-formas",
+      "titulo": "Candidíase: o fungo e as formas pseudomembranosa e eritematosas",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, introdução e Características clínicas, Tabela 6.1, p. 196; Candidíase pseudomembranosa, p. 196–197; Candidíase eritematosa, Atrofia papilar central, Candidíase multifocal crônica (placas removíveis: Tabela 6.1, p. 196) e Queilite angular, p. 198; Estomatite protética, p. 199",
+      "texto": "**O fungo:** *Candida albicans* faz parte da microbiota oral normal (30 a 50% das pessoas a carregam sem doença) e a candidíase é a infecção fúngica oral mais comum. Haver ou não infecção depende do estado imune, do ambiente da mucosa e da cepa. Favorecem: antibiótico de amplo espectro, imunossupressão (inclusive corticosteroide tópico ou inalado e HIV), boca seca e, em bebês, o sistema imune ainda pouco desenvolvido.\n\n**Pseudomembranosa (sapinho):** placas branco-creme aderentes, de hifas, leveduras e células descamadas. **Saem à raspagem**, deixando mucosa normal ou avermelhada; se sangrar, provavelmente há outro processo junto (líquen plano erosivo, quimioterapia). Aparece em mucosa jugal, palato e dorso da língua, com queimação ou gosto salgado ou amargo. Antibiótico dá forma aguda; alteração imune, forma crônica. Não confundir com língua saburrosa.\n\n**Eritematosas** (em geral sem placa branca, mas a multifocal crônica pode ter placas removíveis; mais comuns que a anterior, mas muitas vezes não percebidas):\n- **por antibiótico (atrófica aguda):** boca como queimada por bebida quente; língua vermelha, com perda das papilas filiformes. Na síndrome da ardência bucal a língua parece normal.\n- **atrofia papilar central (glossite romboidal mediana):** mancha vermelha bem delimitada, lisa a lobulada, na linha média do dorso posterior da língua, em geral sem sintoma. Costuma melhorar com antifúngico.\n- **multifocal crônica:** a anterior mais lesão no palato que encosta nela (lesão em beijo) ou na comissura.\n- **queilite angular:** eritema, fissura e descamação nas comissuras, em geral em idoso com perda de dimensão vertical; a saliva se acumula nas pregas. Pode haver também *Staphylococcus aureus*.\n- **estomatite protética:** vermelhidão restrita à mucosa sob a prótese, quase sempre sem sintoma. O livro discute se é infecção verdadeira: raramente há hifas penetrando o epitélio e, semeadas em separado, a prótese costuma ter mais levedura que a mucosa. Exclua também prótese mal desenhada, alergia ao material e cura inadequada da resina."
+    },
+    {
+      "id": "candida-conduta",
+      "titulo": "Candidíase: forma hiperplásica, diagnóstico e tratamento",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Candidíase hiperplásica crônica, p. 200–201; Diagnóstico e Tratamento e prognóstico, Agentes poliênicos (Nistatina), p. 203; Tabela 6.2 e Agentes imidazólicos e Triazóis, p. 204; Iodoquinol, p. 205; Tratamento da prótese e fatores predisponentes, p. 206",
+      "texto": "**Hiperplásica (leucoplasia por Candida):** a menos comum. Placa branca que **não sai à raspagem**, na mucosa jugal anterior, sem diferença clínica de uma leucoplasia. Pode ser candidíase sobre leucoplasia prévia ou a própria Candida causando a lesão; pode misturar áreas vermelhas e brancas e ter maior frequência de displasia. Confirma-se pelas hifas e, mais importante, pela **resolução completa após antifúngico**. Se a placa persiste, **biópsia**, para afastar displasia, carcinoma espinocelular ou líquen plano sob a *Candida*.\n\n**Diagnóstico das demais formas:** quadro clínico mais **citologia esfoliativa**, que deve mostrar hifas. A cultura identifica a espécie, mas nem sempre é prática no consultório. As hifas raramente penetram o epitélio (o livro as situa na camada de queratina ou de paraqueratina, conforme a página).\n\n**Tratamento tópico** (age por contato, por isso pede várias aplicações ao dia):\n- **nistatina**, suspensão ou pastilha, de gosto amargo; a sacarose da preparação pode favorecer cárie em quem tem xerostomia;\n- **clotrimazol**, pastilha de sabor agradável; a pomada também serve na queilite angular, pela ação antibacteriana e antifúngica;\n- queilite angular: nistatina com triancinolona em creme (quando não há componente bacteriano), ou iodoquinol com corticosteroide em pomada.\n\n**Tratamento sistêmico** (comprimido ou solução): **fluconazol**, bem absorvido e que parece mais eficaz que o cetoconazol; **itraconazol** em solução, de eficácia equivalente. O **cetoconazol** não é para uso rotineiro (toxicidade hepática e interação grave com eritromicina). O fluconazol interage com varfarina, fenitoína e hipoglicemiantes orais.\n\n**Se a infecção volta:** procure o fator predisponente. Placa de mordida, protetor bucal ou prótese superior contaminados são comuns: o livro orienta deixá-los de molho em solução diluída de hipoclorito de sódio durante o tratamento. Considere imunossupressão, diabetes descontrolado e corticosteroides. Dose e duração ficam com quem prescreve."
+    },
+    {
+      "id": "herpes-primario",
+      "titulo": "Herpes simples: infecção primária e latência",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, introdução e História natural, p. 223; Características clínicas, Gengivoestomatite herpética aguda, p. 224; Faringotonsilite, p. 225; Tratamento e prognóstico, p. 228",
+      "texto": "**O vírus:** herpes simples (HSV). O **HSV-1** predomina na boca, nos lábios e na pele acima da cintura; o HSV-2 é mais genital. O HSV-1 passa pela saliva ou por lesão ativa e entra por falhas da barreira epitelial. Estima-se que cerca de 67% das pessoas com menos de 50 anos tenham a infecção (cerca de 45% nas Américas).\n\n**Infecção primária:** é o primeiro contato, em quem não tem anticorpos. Em jovens costuma passar sem sintomas. Quando há sintomas, a incubação é de 3 a 9 dias.\n\n**Gengivoestomatite herpética aguda** (mais de 90% por HSV-1):\n- **Quem:** sobretudo crianças de 6 meses a 5 anos, com pico aos 2 e 3 anos. É rara antes dos 6 meses, por causa dos anticorpos maternos.\n- **Início abrupto:** febre alta (39,4 a 40,5 °C), calafrios, irritabilidade, linfonodos cervicais aumentados e boca dolorosa.\n- **Lesões:** vesículas puntiformes que se rompem logo e viram úlceras rasas com fibrina amarela, que podem se juntar. Atinge mucosa móvel e aderida. A gengiva fica aumentada, vermelha e dolorosa, com erosões em saca-bocado na margem. Vesículas na pele ao redor da boca são comuns.\n- **Curso:** casos leves em 5 a 7 dias, graves até 2 semanas. Dedos, olhos e genitais podem ser inoculados.\n\n**Em adultos** a primária pode vir como faringotonsilite (dor de garganta, febre, úlceras nas tonsilas), parecida com faringite estreptocócica ou mononucleose; a mucosa oral anterior é atingida em menos de 10%.\n\n**Latência:** o vírus sobe pelos nervos sensitivos e fica a vida toda em gânglios, sobretudo o **gânglio trigeminal**. Pode reativar (próxima seção).\n\n**Conduta na primária:** **aciclovir em suspensão** (bochechar e engolir), iniciado nos primeiros 3 dias, acelera a cura e reduz dor, febre e eliminação do vírus. Para a dor: spray anestésico tópico e anti-inflamatórios. **Em criança, evite lidocaína viscosa e benzocaína tópica** (convulsão e metemoglobinemia). Oriente a evitar contato com as lesões e corrija a perda de líquidos, se houver."
+    },
+    {
+      "id": "herpes-recorrente",
+      "titulo": "Herpes simples: recorrência, diagnóstico e cuidados",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, História natural, p. 223; Infecções (secundárias) recorrentes, p. 225; Herpes intraoral recorrente e Hospedeiros imunocomprometidos, p. 226; Características histopatológicas, p. 227; Diagnóstico, Tratamento do herpes labial recorrente, Herpes intraoral secundário e Tratamento odontológico, p. 228",
+      "texto": "**Gatilhos da reativação:** luz ultravioleta, trauma, estresse, febre, fadiga, gestação, tratamento odontológico e doenças sistêmicas.\n\n**Herpes labial:** o padrão recorrente mais comum (15 a 45% das pessoas têm história). O pródromo (ardência, formigamento, coceira, calor) vem 6 a 24 horas antes. Surgem grupos de vesículas no vermelhão do lábio e na pele vizinha, que rompem, formam crosta em cerca de 2 dias e cicatrizam em 7 a 10 dias. A maioria tem 2 a 4 recidivas por ano. Romper vesículas espalha o vírus.\n\n**Herpes intraoral recorrente:** no imunocompetente, quase só em **mucosa queratinizada presa ao osso: gengiva inserida e palato duro**. Vesículas de 1 a 3 mm rompem logo e deixam grupos de áreas vermelhas e úlcera amarelada de borda irregular; dor leve; cura em 7 a 10 dias. No **imunocomprometido** a lesão cresce, com borda circinada, elevada e amarelada, e pode ir à mucosa móvel. Úlcera crônica na mucosa móvel: considere HSV e avalie a imunidade.\n\n**Diagnóstico:** o clínico faz diagnóstico presuntivo seguro; a confirmação laboratorial é desejável quando há dúvida. A citologia ou a biópsia mostram células epiteliais balonizadas e multinucleadas (células de Tzanck, não específicas); só o VZV causa alteração igual. **PCR** confirma e tipa. A cultura leva mais de 2 semanas e é pouco confiável em lesão rompida.\n\n**Tratamento:** no herpes labial, cremes de **penciclovir** (o mais eficaz; reduz cerca de 1 dia), aciclovir ou docosanol (o menos eficaz) têm efeito clínico mínimo; funcionam melhor se iniciados no pródromo. Antivirais orais (**valaciclovir**, **fanciclovir**, aciclovir) também funcionam melhor no pródromo; a supressão contínua fica para mais de 6 recidivas por ano, eritema multiforme desencadeado pelo HSV ou imunocomprometidos. No herpes intraoral, muitos casos dispensam tratamento. Imunocomprometidos podem precisar de aciclovir intravenoso.\n\n**No consultório:** em geral, adie o tratamento até a lesão estar em crosta ou curada; use proteção individual, evite manipular o tecido afetado, reduza aerossóis e não passe petrolato em lesão ativa que produz líquido. Sem luvas, o dedo pode ser inoculado (panarício herpético)."
+    },
+    {
+      "id": "zoster",
+      "titulo": "Varicela e herpes-zóster",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Varicela (catapora), p. 229–230; Herpes-zóster, introdução, p. 231; Características clínicas, p. 232; Envolvimento ocular, Neuralgia pós-herpética, Diagnóstico e Tratamento e prognóstico, p. 233",
+      "texto": "**Varicela (catapora):** infecção primária pelo vírus varicela-zóster (VZV), por gotículas ou contato com lesões; na maioria dos casos sintomática. Exantema com coceira, de face e tronco para as extremidades, com lesões em fases diferentes (vesícula com halo vermelho, pústula, crosta). Na boca, vesículas branco-opacas viram úlceras pequenas no vermelhão do lábio, palato e mucosa jugal, às vezes antes da pele. A vacina reduziu muito os casos; em adultos é mais grave.\n\n**Herpes-zóster:** **reativação** do VZV que ficou latente em gânglio sensitivo. Em geral é um episódio único. Atinge cerca de 1 em 3 pessoas, mais após os 50 anos; favorecem imunossupressão, HIV, neoplasia, radiação, estresse e tratamento dentário.\n- **Dor primeiro:** ardência, formigamento ou pontada 1 a 4 dias antes das lesões, em mais de 90% dos casos. Na face pode ser confundida com dor de dente.\n- **Distribuição:** o vírus segue **um dermátomo** (a área suprida por um nervo sensitivo): lesões **unilaterais** que **terminam na linha média**. Cachos de vesículas sobre base vermelha pustulam em 3 a 4 dias, formam crosta em 7 a 10 e somem em 2 a 3 semanas.\n- **Boca:** com o trigêmeo, vesículas de 1 a 4 mm em mucosa móvel ou aderida, de um lado só, que viram úlceras rasas. Dentes da área podem ter pulpite, necrose pulpar e reabsorção radicular; há relatos de osteonecrose.\n- **Olho:** lesão na ponta do nariz (sinal de Hutchinson) indica risco de infecção ocular grave: encaminhe ao oftalmólogo.\n- **Neuralgia pós-herpética:** dor que persiste após a cura, em cerca de 15%; mais em idosos e com dor aguda intensa. A maioria resolve em até 1 ano.\n\n**Diagnóstico:** em geral clínico; PCR ou citologia nos casos atípicos ou para excluir HSV recorrente com aspecto de zóster.\n\n**Tratamento:** antivirais (aciclovir, valaciclovir, fanciclovir) aceleram a cicatrização e reduzem a dor, e são **mais eficazes se começam em até 72 horas** da primeira vesícula. Analgésicos; na neuralgia, antidepressivos tricíclicos, gabapentina ou pregabalina. **Vacina recombinante (Shingrix)** a partir dos 50 anos: o livro enfatiza a prevenção."
+    },
+    {
+      "id": "sifilis",
+      "titulo": "Sífilis: estágios, forma congênita, diagnóstico e tratamento",
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Sífilis (Lues), introdução, p. 173; Sífilis primária e Sífilis secundária, p. 174; Sífilis latente, Sífilis terciária e Sífilis congênita, p. 175–176; Diagnóstico, p. 177–178; Tratamento e prognóstico, p. 178",
+      "texto": "**O que é:** infecção por *Treponema pallidum*, por contato sexual (o sexo oral desprotegido conta) e da mãe para o feto. Lesões orais são incomuns, mas podem surgir em qualquer estágio; a histologia é inespecífica e o diagnóstico pode passar despercebido.\n- **Primária:** **cancro**, em geral único, 3 a 90 dias após a exposição: pápula que ulcera, de base clara e **indolor**, com linfonodos regionais aumentados. Na boca, sobretudo nos lábios (também língua, palato, gengiva, tonsilas). Cicatriza sozinho em 3 a 8 semanas, mas o microrganismo já se espalhou.\n- **Secundária:** 4 a 10 semanas após a infecção inicial, com mal-estar, febre, linfonodos e erupção de pele que pode atingir palmas e plantas. Na boca, **placas mucosas**: placas esbranquiçadas elevadas, que podem se fundir em trilha de caracol, em língua, lábios, mucosa jugal e palato; as lesões são **múltiplas**. **Condiloma lata**: lesão papilar, rara na boca, que lembra papiloma viral. Resolve em 3 a 12 semanas e pode recidivar.\n- **Latente:** sem sinais, pode durar de 1 a 30 anos.\n- **Terciária** (cerca de 30%): lesões vasculares e neurológicas e a **goma**, lesão granulomatosa endurecida ou ulcerada. É rara na boca; no palato pode perfurar até a cavidade nasal.\n\n**Congênita:** infecção do feto. A tríade de Hutchinson reúne dentes de Hutchinson, ceratite intersticial e surdez; poucos pacientes têm os três. **Incisivos de Hutchinson:** coroa que se estreita para a borda incisal, como chave de fenda, muitas vezes com entalhe central. **Molares em amora:** oclusal com projeções globulares desorganizadas. Também nariz em sela e palato ogival. Toda gestante deve ser rastreada no início da gravidez.\n\n**Diagnóstico:** treponemas vistos em esfregaço de lesão ativa examinado em campo escuro, ou na biópsia, confirmados por teste específico (cuidado com falso-positivo por treponemas da flora oral). A sorologia de triagem (VDRL, RPR) pode ser negativa até 6 semanas e também em imunossuprimidos; os testes treponêmicos (como FTA-ABS) ficam positivos por toda a vida.\n\n**Tratamento:** **penicilina G parenteral** em todos os estágios; na alergia verdadeira, doxiciclina. Febre, cefaleia e mialgia logo após o início (reação de Jarisch-Herxheimer) são mais comuns nas fases iniciais."
+    },
+    {
+      "id": "hiv",
+      "titulo": "HIV: o que a boca mostra",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus da imunodeficiência humana e síndrome da imunodeficiência adquirida, Características clínicas, p. 244–245; Candidíase, p. 245–246; Leucoplasia pilosa oral, p. 246–247; Sarcoma de Kaposi, p. 247–248; Linfoma não Hodgkin, p. 249; Doença periodontal associada ao HIV, p. 250",
+      "texto": "**Por que importa:** uma lesão oral pode ser o primeiro sinal de HIV em quem não sabe que está infectado; em quem sabe, indica progressão ou necessidade de iniciar ou ajustar a terapia antirretroviral (TARV). Com a TARV, candidíase, leucoplasia pilosa oral e sarcoma de Kaposi bucais ficaram bem menos frequentes. A AIDS se instala quando os linfócitos CD4+ caem abaixo de 200 por microlitro.\n\n**Candidíase:** a manifestação oral mais comum (cerca de 20 a 80% dos infectados) e muitas vezes o sinal que leva ao diagnóstico. Predominam a pseudomembranosa e a eritematosa; a eritematosa começa com CD4+ abaixo de 400 e a pseudomembranosa abaixo de 200 por microlitro. Sem TARV, prevê AIDS plena em 2 anos. Tratamento: antifúngico oral, com **fluconazol** de escolha; tópicos (miconazol, clotrimazol) se houver receio de interações.\n\n**Leucoplasia pilosa oral:** placa branca que **não sai à raspagem**, mais comum na **borda lateral da língua**, de estrias verticais a placa espessa e corrugada. Ligada à replicação do vírus Epstein-Barr, sem displasia, em geral sem tratamento. Em paciente aparentemente saudável, procure imunossupressão.\n\n**Sarcoma de Kaposi:** tumor vascular causado pelo HHV-8. Em 22% dos casos a boca é o primeiro local: palato duro, gengiva e língua. Começa como mácula vermelho-púrpura ou marrom, depois placa, nódulo e massa; pode invadir o osso e causar mobilidade dentária. A biópsia confirma. A TARV pode fazer regredir.\n\n**Linfoma não Hodgkin:** na boca em cerca de 4% dos casos associados à AIDS; massa vermelha e ulcerada em gengiva, palato ou língua. O envolvimento ósseo pode lembrar periodontite.\n\n**Periodonto:** eritema linear gengival (faixa vermelha de 2 a 3 mm na margem, que não responde ao controle de biofilme), gengivite necrosante (papilas necrosadas, dor, sangramento) e periodontite necrosante (perda de inserção muito rápida)."
+    },
+    {
+      "id": "tuberculose",
+      "titulo": "Tuberculose: úlcera crônica que pode imitar câncer",
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Tuberculose, introdução e patogenia, p. 180–181; características clínicas e lesões orais, p. 181–182; Características histopatológicas, Diagnóstico e Tratamento, p. 182 (fronteira 180/181/182 não confirmada; uma linha do início de Diagnóstico não ficou na captura)",
+      "texto": "**O que é:** infecção crônica pelo *Mycobacterium tuberculosis*, passada sobretudo por gotículas respiratórias de quem tem doença ativa. A primária é quase sempre pulmonar e em geral sem sintomas; o bacilo pode ficar latente por anos ou pela vida toda. A doença ativa costuma vir mais tarde, por reativação, e é favorecida por imunossupressão, diabetes, idade avançada, pobreza e moradia superpovoada; a AIDS é um dos fatores mais fortes. Na reativação há febre baixa, mal-estar, perda de apetite e de peso, suor noturno e, depois, tosse com secreção, sangue no escarro (hemoptise) e dor no peito.\n\n**Na boca:** as lesões são incomuns (0,5 a 5,0% têm lesão oral evidente). As mais vistas são a **úlcera crônica** e o **aumento de volume**. A língua é o local mais comum de úlcera, seguida de perto pelo aumento da mandíbula, quando o osso está envolvido. Vêm depois gengiva, lábios, mucosa jugal e palato mole e duro. Menos comuns: alvéolo de extração que não cicatriza, área de granulação e inflamação difusa. A maioria é secundária a foco no pulmão, em adultos de meia-idade. A forma oral primária, sem pulmão, é rara e mais comum em crianças e adolescentes. Os linfonodos do pescoço são o local mais envolvido na cabeça e pescoço.\n\n**O que faz pensar:** úlcera oral com linfonodos palpáveis. Pode ser confundida com **carcinoma espinocelular**; lembre da tuberculose sobretudo em paciente jovem e em área de alta prevalência.\n\n**Como se confirma:** a biópsia mostra granulomas (tubérculos) com necrose caseosa no centro e células gigantes de Langhans. A coloração ácido-resistente (Ziehl-Neelsen) mostra o bacilo, mas em apenas 27 a 60% dos casos: resultado negativo não exclui. A doença ativa pede coloração e **cultura** de tecido ou escarro (4 a 6 semanas); testes de amplificação de DNA respondem em muito menos tempo (o Xpert, em menos de 2 horas). O teste cutâneo (PPD) positivo indica exposição e não separa infecção latente de doença ativa; o negativo não exclui.\n\n**Tratamento:** vários antimicrobianos juntos, por meses ou anos, porque o bacilo pode ficar resistente a um só. O livro cita 8 semanas de quatro fármacos e 16 de dois."
+    },
+    {
+      "id": "sarampo",
+      "titulo": "Sarampo e as manchas de Koplik",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Sarampo, Características clínicas, p. 239–240; Complicações, Características histopatológicas e Diagnóstico, p. 240; Tratamento e prognóstico, p. 240–241 (fronteira 239/240/241 não confirmada)",
+      "texto": "**O que é:** infecção muito contagiosa por vírus (morbilivírus), passada por gotículas respiratórias ou aerossóis. Entre os expostos sem imunidade, 90% adoecem. A incubação é de 10 a 14 dias; a pessoa transmite de 4 dias antes dos sintomas até 4 dias após o início da erupção. Nos surtos recentes, o vírus se espalhou entre subgrupos com pouca cobertura vacinal.\n\n**Três estágios de cerca de 3 dias cada** (por isso \"sarampo de 9 dias\"):\n- **1º:** febre com os \"3 Cs\": coriza, tosse e conjuntivite (fotofobia, lacrimejamento, vermelhidão). É aqui que aparecem as manchas de Koplik.\n- **2º:** a febre continua, as manchas de Koplik somem e surge erupção vermelha com manchas e pápulas (maculopapular), da face para tronco e membros. Dor abdominal não é rara.\n- **3º:** a febre cessa; a erupção some deixando pigmentação acastanhada e, por fim, descamação.\n\n**Manchas de Koplik:** a manifestação oral mais distinta, no estágio inicial. São focos de necrose do epitélio: pequenas manchas branco-azuladas (\"grãos de sal\") circundadas por vermelhidão, em mucosa jugal e labial e, mais raramente, palato mole. Marcam a fase inicial, antes do exantema, e são passageiras. Também podem ocorrer candidíase e estomatite necrosante se há má nutrição, hipoplasia do esmalte nos dentes permanentes em formação (sarampo grave na primeira infância) e aumento das amígdalas lingual e faríngea.\n\n**Diagnóstico:** em local de surto, é clínico (história e quadro). A confirmação laboratorial é útil em caso isolado ou atípico: IgM em uma amostra de sangue (os anticorpos surgem até 72 horas após a erupção), aumento de IgG, cultura ou RT-PCR.\n\n**Complicações** (cerca de 30%, mais em menores de 5 anos, maiores de 20, desnutridos e imunocomprometidos): otite média, pneumonia, bronquite persistente, diarreia, queratoconjuntivite (pode causar cegueira) e encefalite (1 em cada 1.000). Em imunocomprometidos a erupção pode ser atípica ou faltar.\n\n**Tratamento e prevenção:** no paciente sadio, sintomático (líquidos, antitérmico sem AAS); antibiótico se houver superinfecção bacteriana; vitamina A nas crianças. A prevenção é a vacina: 1ª dose entre 12 e 15 meses, 2ª entre 4 e 6 anos."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: as infecções deste tema",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Tabela 6.1, p. 196; cap. 7, Vírus do herpes simples, p. 224–228; Herpes-zóster, p. 232–233; HIV e AIDS, p. 245–248; cap. 5, Sífilis (Lues), p. 174–178; cap. 5, Tuberculose, p. 181–182; cap. 7, Sarampo, p. 239–240",
+      "texto": "| Lesão | Aspecto | O sinal que separa | O que confirma | Conduta |\n|---|---|---|---|---|\n| **Candidíase pseudomembranosa** | placas branco-creme, mucosa normal ou vermelha embaixo | **sai à raspagem** | clínica e citologia (hifas) | antifúngico; tratar o fator predisponente |\n| **Candidíase eritematosa** | mancha vermelha: língua, palato, comissura, sob prótese | sem placa branca; na prótese, limitada à área coberta | clínica e citologia | antifúngico; higienizar a prótese |\n| **Candidíase hiperplásica** | placa branca na mucosa jugal anterior | **não sai à raspagem** | resolve com antifúngico | biópsia se persistir |\n| **Leucoplasia pilosa oral** | estrias ou placa corrugada na borda da língua | não sai; paciente com HIV | clínica; EBV | em geral nenhuma |\n| **Gengivoestomatite herpética** | vesículas que viram úlceras; gengiva vermelha e aumentada; febre | criança pequena; mucosa móvel e aderida | clínica; citologia ou PCR | aciclovir cedo; analgesia |\n| **Herpes recorrente** | vesículas agrupadas no lábio, ou de 1 a 3 mm dentro da boca | intraoral só em **mucosa queratinizada** (gengiva inserida, palato duro) | clínica; citologia ou PCR | antiviral no pródromo; muitas vezes nada |\n| **Herpes-zóster** | cachos de vesículas, dor antes | **unilateral**, para na linha média | clínica; PCR | antiviral em até 72 h; vacina |\n| **Sífilis** | cancro indolor; depois placas mucosas múltiplas | sem vesícula: úlcera indolor de base limpa; placas em trilha de caracol | campo escuro ou biópsia mais sorologia | penicilina G |\n| **Sarcoma de Kaposi** | mácula vermelho-púrpura em palato ou gengiva | mácula, não placa branca; paciente com HIV | biópsia | TARV; terapia local |\n| **Tuberculose** | úlcera crônica (língua, sobretudo) ou aumento de volume; linfonodos palpáveis | pode lembrar carcinoma espinocelular; pensar sobretudo em jovem ou área de alta prevalência | biópsia (granuloma com necrose caseosa), coloração ácido-resistente e cultura | vários antimicrobianos por meses |\n| **Sarampo (manchas de Koplik)** | manchas branco-azuladas com halo vermelho em mucosa jugal e labial, com coriza, tosse e conjuntivite | só no início, antes da erupção; somem quando ela surge | clínica em surto; IgM em casos isolados ou atípicos | sintomática; vacina previne |\n\n**Regras de bolso:** placa branca, tente raspar. Vesícula que vira úlcera, pense em herpes (e em zóster se for unilateral com dor). Úlcera indolor de base limpa, pense em sífilis e peça confirmação. Várias dessas lesões em um paciente sem causa aparente: pense em HIV."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como a candidíase pseudomembranosa se comporta à raspagem e o que se vê embaixo?",
+      "verso": "As placas branco-creme **saem à raspagem** e deixam mucosa normal ou avermelhada. Se sangrar, há provavelmente outro processo junto (líquen plano erosivo, quimioterapia).",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Características clínicas, Candidíase pseudomembranosa, p. 196"
+    },
+    {
+      "id": "f02",
+      "frente": "Candidíase hiperplásica: sai à raspagem? Como se confirma?",
+      "verso": "**Não sai.** Confirma-se pelas hifas e pela **resolução completa após antifúngico**; se a placa persiste, biópsia.",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Candidíase hiperplásica crônica, p. 200–201"
+    },
+    {
+      "id": "f03",
+      "frente": "Atrofia papilar central da língua: onde e como é?",
+      "verso": "Mancha vermelha bem delimitada, lisa a lobulada, na **linha média do dorso posterior** da língua, em geral assintomática, por perda das papilas filiformes.",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Candidíase eritematosa, Atrofia papilar central, p. 198"
+    },
+    {
+      "id": "f04",
+      "frente": "Queilite angular: quem costuma ter e por quê?",
+      "verso": "Idoso com **perda de dimensão vertical** e pregas nas comissuras: a saliva se acumula, a área fica úmida e favorece a levedura. Pode associar *S. aureus*.",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Queilite angular, p. 198"
+    },
+    {
+      "id": "f05",
+      "frente": "Que antifúngicos tópicos e sistêmicos o livro cita para candidíase oral?",
+      "verso": "Tópicos: **nistatina** (suspensão ou pastilha) e **clotrimazol** (pastilha). Sistêmicos: **fluconazol** e itraconazol em solução. O cetoconazol não é de uso rotineiro.",
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Tratamento e prognóstico, Agentes poliênicos, p. 203; Agentes imidazólicos e Triazóis, p. 204"
+    },
+    {
+      "id": "f06",
+      "frente": "Gengivoestomatite herpética aguda: quem é afetado e como começa?",
+      "verso": "Sobretudo crianças de **6 meses a 5 anos** (pico aos 2 e 3 anos), com início abrupto de febre alta, linfonodos cervicais e boca dolorosa; mais de 90% por HSV-1.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, Características clínicas, Gengivoestomatite herpética aguda, p. 224"
+    },
+    {
+      "id": "f07",
+      "frente": "Onde fica latente o HSV-1 e quando o aciclovir em suspensão ajuda na primária?",
+      "verso": "Sobretudo no **gânglio trigeminal**. O aciclovir em suspensão, iniciado nos **primeiros 3 dias**, acelera a cura e reduz dor e febre.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, História natural, p. 223; Tratamento e prognóstico, p. 228"
+    },
+    {
+      "id": "f08",
+      "frente": "Herpes recorrente: qual o pródromo do labial e onde ocorre o intraoral no imunocompetente?",
+      "verso": "**Labial:** ardência ou formigamento 6 a 24 horas antes; cura em 7 a 10 dias. **Intraoral:** quase só em mucosa queratinizada presa ao osso (gengiva inserida, palato duro), vesículas de 1 a 3 mm; cura em 7 a 10 dias.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, Infecções (secundárias) recorrentes, p. 225; Herpes intraoral recorrente, p. 226"
+    },
+    {
+      "id": "f09",
+      "frente": "Tuberculose na boca: que lesões aparecem e o que ela pode imitar?",
+      "verso": "**Úlcera crônica** (mais na língua) ou aumento de volume, com linfonodos palpáveis; pode ser confundida com **carcinoma espinocelular**. Lesão oral é incomum (0,5 a 5,0%).",
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Tuberculose, lesões orais, p. 181–182"
+    },
+    {
+      "id": "f10",
+      "frente": "Que dois sinais clínicos distinguem o herpes-zóster?",
+      "verso": "Vesículas **unilaterais** em um dermátomo que **terminam na linha média**, precedidas por dor intensa 1 a 4 dias antes.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Herpes-zóster, Características clínicas, p. 232"
+    },
+    {
+      "id": "f11",
+      "frente": "O que significa lesão na ponta do nariz no herpes-zóster?",
+      "verso": "Sinal de Hutchinson: envolvimento do ramo nasociliar do trigêmeo e risco de infecção ocular grave. **Encaminhar ao oftalmologista.**",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Herpes-zóster, Envolvimento ocular, p. 233"
+    },
+    {
+      "id": "f12",
+      "frente": "Neuralgia pós-herpética: frequência e quem tem mais risco?",
+      "verso": "Em cerca de **15%** dos casos; mais em mulheres, idosos, com dor prodrômica ou aguda intensa e envolvimento oftálmico. A maioria resolve em até 1 ano.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Herpes-zóster, Neuralgia pós-herpética, p. 233"
+    },
+    {
+      "id": "f13",
+      "frente": "Sífilis na boca: como são o cancro (primária) e as lesões da secundária?",
+      "verso": "**Cancro:** em geral único, úlcera de base clara e **indolor**, com linfonodos regionais aumentados; mais nos lábios; cicatriza em 3 a 8 semanas. **Secundária:** placas mucosas esbranquiçadas elevadas (trilha de caracol) e condiloma lata, lesão papilar rara na boca.",
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Sífilis (Lues), Características clínicas, Sífilis primária e Sífilis secundária, p. 174"
+    },
+    {
+      "id": "f14",
+      "frente": "Manchas de Koplik: como são, onde aparecem e em que fase do sarampo?",
+      "verso": "Pequenas manchas branco-azuladas (\"grãos de sal\") com halo vermelho, em mucosa jugal e labial, no **início**, com coriza, tosse e conjuntivite; somem quando surge a erupção.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Sarampo, Características clínicas, p. 239"
+    },
+    {
+      "id": "f15",
+      "frente": "Quais são os sinais dentários da sífilis congênita?",
+      "verso": "**Incisivos de Hutchinson** (coroa que afunila para a incisal, com entalhe central) e **molares em amora** (oclusal com projeções globulares).",
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Sífilis (Lues), Sífilis congênita, p. 176"
+    },
+    {
+      "id": "f16",
+      "frente": "Leucoplasia pilosa oral: onde é e o que a distingue da candidíase?",
+      "verso": "Placa branca que **não sai à raspagem**, na **borda da língua** (mais comum na lateral), em paciente com HIV; ligada ao EBV. Na candidíase pseudomembranosa as placas saem.",
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, HIV e AIDS, Leucoplasia pilosa oral, p. 246"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 45 anos, após uma semana de antibiótico de amplo espectro, queixa-se de gosto amargo e queimação. Há placas branco-creme no palato e na mucosa jugal que saem com uma espátula, deixando a mucosa avermelhada, sem sangramento. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Candidíase hiperplásica",
+          "correta": false,
+          "justificativa": "A hiperplásica é uma placa branca que não sai à raspagem, tipicamente na mucosa jugal anterior.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase hiperplásica crônica, p. 200"
+        },
+        {
+          "texto": "Candidíase pseudomembranosa",
+          "correta": true,
+          "justificativa": "Placas branco-creme removíveis após antibiótico de amplo espectro, com queimação e gosto amargo, formam o quadro da pseudomembranosa.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase pseudomembranosa, p. 196"
+        },
+        {
+          "texto": "Estomatite protética",
+          "correta": false,
+          "justificativa": "A estomatite protética é uma vermelhidão confinada à mucosa que a prótese cobre, sem placas removíveis.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Estomatite protética, p. 199"
+        },
+        {
+          "texto": "Atrofia papilar central da língua",
+          "correta": false,
+          "justificativa": "É uma mancha vermelha bem delimitada no dorso posterior da língua, em geral assintomática, e não placas brancas removíveis.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Atrofia papilar central, p. 198"
+        }
+      ],
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Candidíase pseudomembranosa, p. 196",
+      "secao": "candida-formas",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 52 anos tem placa branca na mucosa jugal anterior que não sai à raspagem e parece uma leucoplasia. Prescreveu-se antifúngico tópico, mas a placa persiste após o tratamento. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Repetir o antifúngico até a placa desaparecer",
+          "correta": false,
+          "justificativa": "A persistência após a terapia antifúngica indica biópsia, não repetição indefinida do medicamento.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Diagnóstico, p. 203"
+        },
+        {
+          "texto": "Encerrar o caso, pois toda placa branca com Candida é benigna",
+          "correta": false,
+          "justificativa": "A candidíase pode estar sobre displasia, carcinoma espinocelular ou líquen plano; por isso a placa persistente é biopsiada.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Diagnóstico, p. 203"
+        },
+        {
+          "texto": "Trocar por cetoconazol como terapia inicial",
+          "correta": false,
+          "justificativa": "O cetoconazol não é de uso rotineiro na candidíase oral, por toxicidade hepática e interações.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Tratamento e prognóstico, Agentes imidazólicos, p. 204"
+        },
+        {
+          "texto": "Biopsiar a área branca que persiste",
+          "correta": true,
+          "justificativa": "Na candidíase hiperplásica, se a lesão persiste após o antifúngico, indica-se biópsia para excluir displasia, carcinoma ou líquen plano.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase hiperplásica crônica, p. 201; Diagnóstico, p. 203"
+        }
+      ],
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Candidíase hiperplásica crônica, p. 201; Diagnóstico, p. 203",
+      "secao": "candida-conduta",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente usa prótese total superior e tem o palato vermelho, no contorno exato da prótese, sem dor. Qual afirmação sobre a estomatite protética o livro sustenta?",
+      "alternativas": [
+        {
+          "texto": "É sempre muito dolorosa quando a aparência clínica é impressionante",
+          "correta": false,
+          "justificativa": "Mesmo com aparência impressionante, raramente é sintomática.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Estomatite protética, p. 199"
+        },
+        {
+          "texto": "Ser infecção verdadeira é discutível: raramente há hifas no epitélio e a prótese costuma ter mais levedura que a mucosa",
+          "correta": true,
+          "justificativa": "A biópsia raramente mostra hifas penetrando o epitélio e, em cultura separada, a prótese costuma ter colonização mais intensa que a mucosa.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Estomatite protética, p. 199; Figura 6.11, p. 201"
+        },
+        {
+          "texto": "A biópsia sempre mostra hifas invadindo o epitélio profundo",
+          "correta": false,
+          "justificativa": "Raramente se veem hifas penetrando o epitélio; por isso a lesão não cumpre o critério de invasão do tecido.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Estomatite protética, p. 199"
+        },
+        {
+          "texto": "Aparece em qualquer parte da boca, não só sob a prótese",
+          "correta": false,
+          "justificativa": "A lesão fica confinada à mucosa que suporta a prótese.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Tabela 6.1, p. 196; Estomatite protética, p. 199"
+        }
+      ],
+      "fonte": "neville5-cap6",
+      "onde": "cap. 6, Candidíase, Estomatite protética, p. 199",
+      "secao": "candida-formas",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Criança de 3 anos chega com febre de 40 °C, irritabilidade e linfonodos cervicais aumentados. A gengiva está vermelha, aumentada e dolorosa, com úlceras rasas amareladas na boca e vesículas na pele perioral. Para aliviar a dor, o que deve ser evitado?",
+      "alternativas": [
+        {
+          "texto": "Aciclovir em suspensão nos primeiros dias",
+          "correta": false,
+          "justificativa": "O aciclovir em suspensão nos primeiros 3 dias é a terapia que acelera a resolução; não é o que se evita.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Tratamento e prognóstico, p. 228"
+        },
+        {
+          "texto": "Spray anestésico tópico",
+          "correta": false,
+          "justificativa": "O spray tópico de diclonina é citado como adjuvante para a dor.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Tratamento e prognóstico, p. 228"
+        },
+        {
+          "texto": "Restringir contato com as lesões ativas",
+          "correta": false,
+          "justificativa": "Orientar a restringir contato evita autoinoculação e disseminação; faz parte da conduta.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Tratamento e prognóstico, p. 228"
+        },
+        {
+          "texto": "Lidocaína viscosa e benzocaína tópica",
+          "correta": true,
+          "justificativa": "O livro orienta evitá-las em crianças: convulsões com lidocaína e metemoglobinemia com benzocaína tópica.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Tratamento e prognóstico, p. 228"
+        }
+      ],
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, Características clínicas, Gengivoestomatite herpética aguda, p. 224; Tratamento e prognóstico, p. 228",
+      "secao": "herpes-primario",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 28 anos, saudável, surgem vesículas de 1 a 3 mm que se juntam em úlcera amarelada no palato duro dias após uma extração dentária. A dor é leve. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Herpes intraoral recorrente",
+          "correta": true,
+          "justificativa": "No imunocompetente, ocorre em mucosa queratinizada presa ao osso (palato duro e gengiva inserida), com vesículas de 1 a 3 mm, dor leve, após gatilhos como tratamento dentário.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Herpes intraoral recorrente, p. 226; História natural, p. 223"
+        },
+        {
+          "texto": "Candidíase pseudomembranosa",
+          "correta": false,
+          "justificativa": "A candidíase forma placas branco-creme que saem à raspagem, não vesículas que viram úlcera.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase pseudomembranosa, p. 196"
+        },
+        {
+          "texto": "Sífilis secundária",
+          "correta": false,
+          "justificativa": "A secundária causa placas mucosas esbranquiçadas elevadas, com sintomas sistêmicos e erupção cutânea, não vesículas em palato duro.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis secundária, p. 174"
+        },
+        {
+          "texto": "Gengivoestomatite herpética aguda",
+          "correta": false,
+          "justificativa": "É a infecção primária, em crianças pequenas, com febre alta e lesões em mucosa móvel e aderida.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Gengivoestomatite herpética aguda, p. 224"
+        }
+      ],
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Vírus do herpes simples, Herpes intraoral recorrente, p. 226",
+      "secao": "herpes-recorrente",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Homem de 68 anos sente dor intensa em ardência na hemiface direita há 3 dias. Hoje surgem cachos de vesículas sobre base vermelha na pele e na mucosa jugal direitas, que terminam na linha média. Qual é o diagnóstico e a conduta mais adequada?",
+      "alternativas": [
+        {
+          "texto": "Herpes labial recorrente; apenas creme tópico",
+          "correta": false,
+          "justificativa": "O herpes labial fica no vermelhão do lábio e na pele vizinha. Dor prévia e lesões de um lado só que param na linha média, com mucosa jugal envolvida, são do zóster.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Infecções (secundárias) recorrentes, p. 225"
+        },
+        {
+          "texto": "Gengivoestomatite herpética aguda; observar",
+          "correta": false,
+          "justificativa": "É a infecção primária, mais frequente em criança pequena e com febre alta. A dor prévia e a distribuição por um dermátomo são do zóster.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Gengivoestomatite herpética aguda, p. 224"
+        },
+        {
+          "texto": "Herpes-zóster; antiviral o mais cedo possível, idealmente em até 72 horas da primeira vesícula",
+          "correta": true,
+          "justificativa": "Dor prévia e vesículas unilaterais que param na linha média indicam zóster; os antivirais são mais eficazes se iniciados em até 72 horas.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Herpes-zóster, Características clínicas, p. 232; Tratamento e prognóstico, p. 233"
+        },
+        {
+          "texto": "Sífilis secundária; penicilina G",
+          "correta": false,
+          "justificativa": "A sífilis secundária tem lesões múltiplas e erupção difusa, sem distribuição unilateral por dermátomo.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis secundária, p. 174"
+        }
+      ],
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Herpes-zóster, Características clínicas, p. 232; Tratamento e prognóstico, p. 233",
+      "secao": "zoster",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Homem de 30 anos tem úlcera indolor, de base limpa, no lábio superior, com linfonodo regional aumentado, 3 semanas após uma exposição sexual. Qual afirmação sobre o diagnóstico está correta?",
+      "alternativas": [
+        {
+          "texto": "A sorologia de triagem negativa exclui sífilis nessa fase",
+          "correta": false,
+          "justificativa": "Os testes de triagem podem ser negativos por até 6 semanas após a infecção inicial.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Diagnóstico, p. 177"
+        },
+        {
+          "texto": "Demonstrar o treponema na própria lesão (esfregaço em campo escuro ou biópsia) é válido nessa fase",
+          "correta": true,
+          "justificativa": "O organismo pode ser demonstrado em esfregaço de lesão ativa examinado em campo escuro, ou na biópsia, e a sorologia pode ainda estar negativa; depois confirma-se com testes específicos.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Diagnóstico, p. 177"
+        },
+        {
+          "texto": "O cancro é sempre doloroso e múltiplo",
+          "correta": false,
+          "justificativa": "O cancro é em geral solitário e indolor; lesões múltiplas são da fase secundária.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis primária e Sífilis secundária, p. 174"
+        },
+        {
+          "texto": "O tratamento de escolha é doxiciclina em qualquer paciente",
+          "correta": false,
+          "justificativa": "O tratamento de escolha é penicilina G parenteral; doxiciclina é para quem tem alergia verdadeira.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Tratamento e prognóstico, p. 178"
+        }
+      ],
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Sífilis (Lues), Sífilis primária, p. 174; Diagnóstico, p. 177",
+      "secao": "sifilis",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Adolescente tem incisivos cujas coroas se estreitam em direção à borda incisal, com entalhe central, e molares com a oclusal formada por projeções globulares desorganizadas. Qual é a doença de base?",
+      "alternativas": [
+        {
+          "texto": "Sífilis terciária adquirida, com gomas",
+          "correta": false,
+          "justificativa": "As gomas são lesões granulomatosas de tecido mole e osso; os achados dentários descritos pertencem à forma congênita.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis terciária, p. 175"
+        },
+        {
+          "texto": "Sífilis primária, com cancro",
+          "correta": false,
+          "justificativa": "O cancro é uma úlcera indolor no local de inoculação, não alteração de forma dos dentes.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis primária, p. 174"
+        },
+        {
+          "texto": "Infecção primária pelo herpes simples",
+          "correta": false,
+          "justificativa": "A infecção primária pelo HSV causa gengivoestomatite aguda, com febre e úlceras; não é a doença que explica a forma dos dentes descrita.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Gengivoestomatite herpética aguda, p. 224"
+        },
+        {
+          "texto": "Sífilis congênita",
+          "correta": true,
+          "justificativa": "Incisivos de Hutchinson (afunilados, com entalhe) e molares em amora (projeções globulares) são alterações dentárias da sífilis congênita.",
+          "fonte": "neville5-cap5",
+          "onde": "cap. 5, Sífilis (Lues), Sífilis congênita, p. 176"
+        }
+      ],
+      "fonte": "neville5-cap5",
+      "onde": "cap. 5, Sífilis (Lues), Sífilis congênita, p. 176",
+      "secao": "sifilis",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Homem de 34 anos com HIV tem placa branca com estrias verticais na borda lateral da língua, que não sai à raspagem. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Candidíase pseudomembranosa",
+          "correta": false,
+          "justificativa": "Na pseudomembranosa as placas saem à raspagem; aqui a placa não sai.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase pseudomembranosa, p. 196"
+        },
+        {
+          "texto": "Sarcoma de Kaposi",
+          "correta": false,
+          "justificativa": "O sarcoma de Kaposi começa como mácula vermelho-púrpura ou marrom, em palato, gengiva ou língua, não como placa branca estriada.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, HIV e AIDS, Sarcoma de Kaposi, p. 247"
+        },
+        {
+          "texto": "Leucoplasia pilosa oral",
+          "correta": true,
+          "justificativa": "Placa branca não destacável, de estrias verticais, na borda da língua, em paciente com HIV, é a leucoplasia pilosa oral, associada ao EBV.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, HIV e AIDS, Leucoplasia pilosa oral, p. 246"
+        },
+        {
+          "texto": "Linfoma não Hodgkin",
+          "correta": false,
+          "justificativa": "O linfoma forma massa vermelha e ulcerada, de gengiva, palato ou língua, não placa branca estriada.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, HIV e AIDS, Linfoma não Hodgkin, p. 249"
+        }
+      ],
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, HIV e AIDS, Leucoplasia pilosa oral, p. 246",
+      "secao": "hiv",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Menina de 4 anos, não vacinada, tem há 2 dias febre, coriza, tosse e olhos vermelhos, com lacrimejamento e desconforto à luz. Na mucosa jugal, dos dois lados, há pequenas manchas branco-azuladas, cada uma circundada por halo vermelho. A gengiva está normal, sem vesículas nem úlceras, e ainda não há erupção na pele. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Sarampo, no estágio inicial",
+          "correta": true,
+          "justificativa": "Manchas branco-azuladas com halo vermelho na mucosa jugal, com coriza, tosse e conjuntivite antes da erupção, são as manchas de Koplik do primeiro estágio do sarampo.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Sarampo, Características clínicas, p. 239"
+        },
+        {
+          "texto": "Gengivoestomatite herpética aguda",
+          "correta": false,
+          "justificativa": "Na gengivoestomatite a gengiva fica aumentada, vermelha e dolorosa, com vesículas que viram úlceras; aqui a gengiva está normal e não há vesículas nem úlceras.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Vírus do herpes simples, Gengivoestomatite herpética aguda, p. 224"
+        },
+        {
+          "texto": "Candidíase pseudomembranosa",
+          "correta": false,
+          "justificativa": "A candidíase pseudomembranosa forma placas branco-creme que saem à raspagem; aqui são pequenas manchas branco-azuladas com halo vermelho, junto de coriza, tosse e conjuntivite.",
+          "fonte": "neville5-cap6",
+          "onde": "cap. 6, Candidíase, Candidíase pseudomembranosa, p. 196"
+        },
+        {
+          "texto": "Herpes-zóster",
+          "correta": false,
+          "justificativa": "No zóster as lesões são cachos de vesículas de um lado só, que terminam na linha média, precedidos de dor; aqui as manchas estão dos dois lados e não há vesículas.",
+          "fonte": "neville5-cap7",
+          "onde": "cap. 7, Herpes-zóster, Características clínicas, p. 232"
+        }
+      ],
+      "fonte": "neville5-cap7",
+      "onde": "cap. 7, Sarampo, Características clínicas, p. 239",
+      "secao": "sarampo",
+      "figura": null
+    }
+  ]
+}

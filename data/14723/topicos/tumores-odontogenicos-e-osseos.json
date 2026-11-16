@@ -1,0 +1,595 @@
+{
+  "slug": "tumores-odontogenicos-e-osseos",
+  "titulo": "Tumores odontogênicos e tumores ósseos dos maxilares",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 14 e 15",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap15",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 15, Cistos e Tumores Odontogênicos, p. 669–729.",
+      "curta": "Neville 5ª ed., cap. 15"
+    },
+    {
+      "id": "neville5-cap14",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 14, Patologia Óssea, p. 603–668.",
+      "curta": "Neville 5ª ed., cap. 14"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "grupos",
+      "titulo": "O que é um tumor odontogênico e como o livro os agrupa",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumores odontogênicos (introdução), Boxe 15.4, p. 690–691",
+      "texto": "Tumores odontogênicos são **incomuns**: menos de 1% das peças que chegam a um laboratório de patologia oral e maxilofacial. Formam um grupo complexo, de tipos microscópicos e comportamentos variados. Alguns são neoplasias verdadeiras, que raramente se comportam como malignas. Outros talvez sejam malformações (**hamartomas**: crescimento desorganizado de tecidos normais do local).\n\n**Como o livro os agrupa**, pelo tecido de que são feitos. **Ectomesênquima** é o tecido embrionário da região da cabeça (derivado da camada ectodérmica) que, na formação normal do dente, interage com o epitélio.\n\n| Grupo | Do que é feito | Neste tema |\n|---|---|---|\n| Epitélio odontogênico | só epitélio, sem ectomesênquima | ameloblastoma; tumor odontogênico adenomatoide; tumor odontogênico epitelial calcificante (Pindborg) |\n| Mistos | epitélio e ectomesênquima; podem formar tecido dentário mineralizado | odontoma (composto e complexo); fibroma ameloblástico; fibro-odontoma ameloblástico |\n| Ectomesênquima odontogênico | sobretudo ectomesênquima; o epitélio, se existe, não parece ter papel essencial | mixoma odontogênico; cementoblastoma |\n\nO Boxe 15.4 traz também outros tumores odontogênicos, que ficam fora deste tema.\n\n**Qual é o mais comum?** O livro diz que o **ameloblastoma** é o tumor odontogênico mais comum: sua frequência iguala a de todos os outros combinados, **excluindo os odontomas**. Diz também que os **odontomas** são o tipo mais comum, com prevalência acima da de todos os outros juntos.\n\nComo os tumores são raros, os números de cada um são aproximados: os relatos da literatura tendem a favorecer casos incomuns ou agressivos.\n\nAs seções finais passam aos tumores ósseos do capítulo 14: displasia cemento-óssea, osteoma e os sarcomas."
+    },
+    {
+      "id": "ameloblastoma",
+      "titulo": "Ameloblastoma convencional",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma (introdução); Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas e Tratamento e prognóstico, p. 691–699",
+      "texto": "O **ameloblastoma** é o tumor odontogênico mais comum: sua frequência iguala a de todos os outros juntos, excluindo os odontomas. Vem de epitélio odontogênico, cresce devagar, é **localmente invasivo** (infiltra o osso ao redor) e, na maior parte dos casos, tem curso benigno. O livro separa três apresentações: **sólido convencional ou multicístico** (75 a 86%), **unicístico** (13 a 21%) e **periférico** (1 a 4%). Aqui: o convencional.\n\n**Quem e onde:** ampla faixa etária, raro antes dos 10 anos, frequência parecida na 3ª e na 7ª década, sem predileção por sexo. **80 a 85% na mandíbula**, mais em corpo e ramo; na maxila, em geral na região posterior.\n\n**Clínica:** costuma ser assintomático, e o pequeno é achado de radiografia. Depois vêm aumento de volume ou expansão **indolor** do osso; dor e parestesia são incomuns, mesmo no tumor grande.\n\n**Imagem:** a mais típica é radiolucência **multilocular**, em “**bolhas de sabão**” (lojas grandes) ou “**favos de mel**” (lojas pequenas). Um estudo grande sugere que a unilocular é tão provável quanto, e ela pode lembrar qualquer lesão cística. Em geral **expande as corticais** vestibular e lingual e **reabsorve raízes** vizinhas com frequência; muitas vezes há **dente incluso** na área, em geral terceiro molar inferior. A imagem multilocular é muito sugestiva, mas outras lesões dão a mesma. A variante **desmoplásica** prefere a região anterior e, na radiografia, mistura áreas radiolúcidas e radiopacas, parecendo lesão fibro-óssea.\n\n**Histologia:** ilhas de epitélio que lembram o órgão do esmalte, com tendência a formar cistos. Os subtipos microscópicos pouco dizem sobre o comportamento.\n\n**Tratamento e recidiva:** o tumor se infiltra entre as trabéculas do osso esponjoso **além da margem que a radiografia mostra**. A curetagem deixa ilhas de tumor e a recidiva chega a **50 a 90%**; ela demora anos, e 5 anos sem doença não indicam cura. A **ressecção marginal** é a mais usada (recidiva de até 15%); alguns cirurgiões querem margem de 1 a 2 cm além do limite radiográfico. Na maxila posterior é difícil obter margem, e a invasão da órbita já foi descrita. A radioterapia raramente é usada, pela localização intraóssea e pelo risco de tumor induzido pela radiação em pacientes jovens. A maioria dos casos não ameaça a vida."
+    },
+    {
+      "id": "ameloblastoma-variantes",
+      "titulo": "Ameloblastoma unicístico, periférico e maligno",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma unicístico; Ameloblastoma periférico (extraósseo); Ameloblastoma maligno e carcinoma ameloblástico, Características clínicas e Tratamento e prognóstico, p. 691–700",
+      "texto": "**Unicístico.** Paciente mais jovem: metade dos casos na 2ª década, média de 23 anos. Mais de 90% na mandíbula, em geral posterior. Costuma ser assintomático. Em muitos casos é uma radiolucência circunscrita em volta da coroa de **terceiro molar inferior incluso**, igual a cisto dentígero; outras vezes passa por cisto primordial, radicular ou residual, conforme a relação com os dentes. A cirurgia também sugere cisto: o diagnóstico só sai no **exame microscópico** do material.\n- **Conduta:** em geral enucleação, como cisto, com **acompanhamento longo**. Se o tumor está só no lúmen do cisto, a enucleação provavelmente bastou. Se invade a parede fibrosa, há controvérsia: alguns indicam ressecção local, outros preferem controle radiográfico rígido e tratar só se recidivar.\n- **Recidiva:** 10 a 20% nas séries mais antigas; por isso o acompanhamento é longo.\n\n**Periférico (extraósseo).** Raro. Lesão indolor, não ulcerada, **séssil (de base larga) ou pediculada (presa por um pedículo)**, na gengiva ou mucosa alveolar, em geral posterior e mais na mandíbula; a maioria mede menos de 1,5 cm; idade média de 52 anos. É inespecífico: costuma ser tomado por fibroma ou granuloma piogênico. O osso pode ter erosão leve da superfície, sem envolvimento. Comportamento inofensivo: excisão local; recidiva em 15 a 20%, e nova excisão quase sempre cura.\n\n**Maligno.** Bem menos de 1% dos ameloblastomas. **Ameloblastoma maligno (metastático)** tem histologia de ameloblastoma comum no tumor e nas metástases; **carcinoma ameloblástico** mostra características de malignidade nas células. A metástase vai mais para o **pulmão**, depois para linfonodos cervicais, e em cerca de um terço dos casos só aparece 10 anos ou mais depois do tratamento. A imagem do ameloblastoma maligno pode ser igual à do comum; o carcinoma ameloblástico costuma ser agressivo, com margens mal definidas e destruição da cortical. Cerca de 50% dos pacientes com metástase documentada e acompanhamento longo morreram da doença."
+    },
+    {
+      "id": "odontoma",
+      "titulo": "Odontoma: composto e complexo",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Odontoma, Características clínicas e radiográficas e Tratamento e prognóstico, p. 712–714",
+      "texto": "**O que é:** o tipo mais comum de tumor odontogênico; a prevalência passa a de todos os outros juntos. É tido como distúrbio do desenvolvimento (**hamartoma**), não neoplasia verdadeira. Totalmente formado, é feito sobretudo de esmalte e dentina, com polpa e cemento em quantidade variável.\n\n**Dois tipos:**\n- **Composto:** várias estruturas pequenas **semelhantes a dentes**.\n- **Complexo:** **massa amorfa** de esmalte e dentina, sem semelhança com dente.\nUma lesão pode ter características dos dois.\n\n**Quem e onde:** a maioria é descoberta nas duas primeiras décadas (média de 14 anos). A maioria é completamente assintomática: achado de radiografia de rotina ou de radiografia pedida porque um dente **não erupcionou**. Em geral não passa do tamanho de um dente da região; raros chegam a 6 cm ou mais e expandem o osso. Ocorre mais na maxila que na mandíbula. O composto é mais visto na **região anterior da maxila**; o complexo, na **região de molares** de qualquer um dos ossos. Pode se formar inteiro na gengiva.\n\n**Imagem:**\n- Composto: reunião de estruturas de dente, de tamanhos e formas variados, cercada por fina zona radiolúcida.\n- Complexo: massa calcificada com a radiodensidade do dente, também com fina margem radiolúcida.\n- Um dente incluso costuma estar associado e fica **sem erupcionar**; os pequenos podem estar entre raízes de dente erupcionado, sem mudar a erupção.\n- A imagem em geral basta para o diagnóstico, e o composto raramente se confunde com outra lesão. O odontoma em formação, com pouca calcificação, aparece como radiolucência circunscrita. O **complexo** pode ser confundido com **osteoma** ou outra lesão óssea muito calcificada.\n\n**Tratamento:** excisão local simples; prognóstico excelente."
+    },
+    {
+      "id": "aot-pindborg",
+      "titulo": "Tumor odontogênico adenomatoide e tumor de Pindborg",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumor odontogênico adenomatoide, Características histopatológicas, p. 702–704; Tumor odontogênico epitelial calcificante (tumor de Pindborg), Características clínicas e radiográficas e Tratamento e prognóstico, p. 704–706",
+      "texto": "**Tumor odontogênico adenomatoide (TOA).** De 2 a 7% dos tumores odontogênicos. Já foi tido como variante do ameloblastoma (“adenoameloblastoma”), mas é entidade à parte, **benigna por completo**.\n- **Quem e onde:** jovens; dois terços entre **10 e 19 anos**, incomum acima de 30. Região anterior, **duas vezes mais na maxila** que na mandíbula; mulheres cerca de duas vezes mais. Raramente passa de 3 cm.\n- **Clínica:** em geral assintomático, achado de radiografia de rotina ou de radiografia pedida porque um dente não erupcionou. O maior expande o osso sem dor.\n- **Imagem:** em cerca de 75%, radiolucência circunscrita **unilocular em volta da coroa de dente incluso**, mais o canino. Pode ser impossível separá-lo do cisto dentígero. Ajudam a distinguir: a radiolucência às vezes se estende pela raiz **além da junção amelocementária**, e pode haver **calcificações delicadas (“flocos de neve”)** dentro. Menos comum, fica entre as raízes de dente erupcionado.\n- **Histologia:** cápsula fibrosa espessa; células epiteliais colunares formam estruturas semelhantes a ductos (não são ductos verdadeiros), com os núcleos afastados do espaço central: é o aspecto característico.\n- **Conduta:** tem cápsula espessa e sai com facilidade por **enucleação**; recidiva é muito rara. O risco prático é o patologista confundi-lo com ameloblastoma, o que levaria a cirurgia radical desnecessária.\n\n**Tumor odontogênico epitelial calcificante (Pindborg).** Menos de 1% dos tumores odontogênicos.\n- **Quem e onde:** em geral **30 a 50 anos**, sem predileção por sexo; cerca de dois terços na **mandíbula**, mais nas regiões posteriores.\n- **Clínica:** aumento de volume **indolor** e de crescimento lento é o sinal mais comum.\n- **Imagem:** radiolucência uni ou multilocular, de margens em geral bem definidas e festonadas (cerca de 20% têm periferia mal definida). Muitas vezes se associa a **dente impactado**, em geral molar inferior. Costuma haver estruturas calcificadas de tamanhos e densidades variados, mas o padrão de “flocos de neve” é menos comum do que se acreditava.\n- **Histologia (traço que define):** calcificações em anéis concêntricos dentro de material semelhante a amiloide.\n- **Conduta:** menos agressivo que o ameloblastoma. Ressecção local conservadora, com uma faixa fina de osso ao redor; na maxila posterior o tratamento tende a ser mais agressivo. Recidiva de cerca de 15%, maior após curetagem. Prognóstico geral bom."
+    },
+    {
+      "id": "mixoma-mistos",
+      "titulo": "Mixoma odontogênico, fibroma ameloblástico e fibro-odontoma ameloblástico",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Mixoma odontogênico, p. 718–720; Fibroma ameloblástico, p. 707–709; Fibro-odontoma ameloblástico, p. 709–710 (Características clínicas e radiográficas e Tratamento e prognóstico)",
+      "texto": "**Mixoma odontogênico** (de ectomesênquima). Adultos jovens, média de 25 a 30 anos, leve predileção feminina; mandíbula mais que maxila. O pequeno pode ser assintomático; o grande expande o osso **sem dor**, e o crescimento pode ser rápido (acúmulo de substância mixoide, gelatinosa). **Imagem:** radiolucência uni ou multilocular, que pode deslocar ou reabsorver dentes, de margem irregular ou festonada, às vezes com trabéculas finas de osso residual em ângulos retos. O grande da mandíbula pode ter “bolhas de sabão” **indistinguíveis do ameloblastoma**, e alguns têm aspecto de “raios de sol”, que imita osteossarcoma. **Conduta:** o pequeno, curetagem com reavaliação por pelo menos 5 anos; o grande pode exigir ressecção mais ampla, porque não tem cápsula e infiltra o osso (maxila posterior, em geral, conduta mais agressiva). Recidiva média de cerca de 25%; prognóstico bom, sem metástases.\n\n**Fibroma ameloblástico** (misto verdadeiro: epitélio e ectomesênquima são neoplásicos). A maioria nas duas primeiras décadas (média de 15 anos), um pouco mais em homens; cerca de 70% na região posterior da mandíbula. O pequeno é assintomático. **Imagem:** radiolucência uni ou multilocular (as menores, uniloculares), bem definida, às vezes com halo radiopaco; **dente incluso** associado em cerca de 75%. **Conduta:** inicialmente conservadora (enucleação ou ressecção marginal) com acompanhamento longo; ressecção mais agressiva só para recidiva. Recidiva de cerca de 19% na literatura.\n\n**Fibro-odontoma ameloblástico:** como o fibroma ameloblástico, mas com esmalte e dentina. Crianças, média de 10 anos; mais na mandíbula posterior; descoberto ao investigar falha de erupção. **Imagem:** radiolucência bem circunscrita com **material calcificado** de densidade de dente; dente incluso na margem ou com a coroa dentro. Curetagem conservadora (destaca-se do leito); recidiva de cerca de 7%; prognóstico excelente. O livro avisa que é difícil separá-lo de um odontoma em formação."
+    },
+    {
+      "id": "displasia-cemento-ossea",
+      "titulo": "Displasia cemento-óssea: focal, periapical e florida",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Características clínicas e radiográficas, Diagnóstico e Tratamento e prognóstico, p. 630–635",
+      "texto": "É a lesão fibro-óssea mais comum na prática, nas áreas que sustentam dentes. **Não parece neoplásica.** Três formas:\n- **Focal:** um só sítio. Cerca de 90% em mulheres, média de 41 anos, em geral na região posterior da mandíbula, ao redor de ápices ou em local de extração. Assintomática; muitas medem menos de 1,5 cm. Vai de radiolúcida a densamente radiopaca com fino halo radiolúcido; a maioria não expande.\n- **Periapical:** região anterior da mandíbula, em geral vários focos. Mulheres (cerca de 10 a 14 para 1), cerca de 70% melanodermas; diagnóstico mais entre 30 e 50 anos. Dentes **vitais** e quase sempre sem restauração. A lesão inicial é radiolúcida e circunscrita, igual a granuloma ou cisto periapical, mas pode não estar centrada no ápice. Com o tempo vira mista e, no fim, radiopaca com halo fino. O ligamento periodontal fica intacto. Raramente passa de 1,0 cm.\n- **Florida:** multifocal, não só na região anterior; mulheres melanodermas (mais de 90% em alguns estudos), meia-idade a idosos; em geral bilateral e simétrica, às vezes nos quatro quadrantes. Pode ser assintomática, ou causar dor surda, fístula e exposição de osso avascular na boca. Mesma maturação das outras.\n\n**Diagnóstico:** na periapical e na florida, o quadro (mulher melanoderma, vários quadrantes ou incisivos inferiores) permite diagnóstico presuntivo. A focal é menos específica e muitas vezes precisa de biópsia, sobretudo para separá-la do fibroma ossificante. Na cirurgia, a displasia sai em **fragmentos arenosos**; o fibroma ossificante se solta com facilidade, em uma ou várias massas grandes.\n\n**Conduta:** em geral **não precisa de remoção**. Na fase radiolúcida dá poucos problemas; na fase esclerótica fica hipovascular e sujeita a necrose e infecção ao menor estímulo, e os sintomas costumam começar quando as massas escleróticas se expõem na boca. Por isso, no paciente assintomático: controle periódico, profilaxia e higiene para evitar doença periodontal e perda dentária, e **evitar cirurgia** (biópsia, exodontia eletiva); manter os dentes. Implantes na área geralmente não são recomendados. Raras formas expansivas, de crescimento progressivo, costumam exigir remoção. Sarcoma na área é extremamente raro."
+    },
+    {
+      "id": "cementoblastoma-osteoma",
+      "titulo": "Cementoblastoma, osteoma e síndrome de Gardner",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cementoblastoma (cementoma verdadeiro), p. 644–645; Osteoma, p. 639–640; Síndrome de Gardner, p. 640–642 (Características clínicas e radiográficas e Tratamento e prognóstico)",
+      "texto": "**Cementoblastoma.** Neoplasia benigna de cementoblastos, menos de 1% dos tumores odontogênicos (o capítulo 15 o remete ao 14). Muitos autores o veem como variante do osteoblastoma (tumor ósseo parecido); o que o distingue é estar **fundido à raiz** do dente. Cerca de 80% na mandíbula, em molares e pré-molares; quase metade no primeiro molar permanente. Jovens, média de 24 anos, sem predileção por sexo. Dor e aumento de volume em cerca de 70%; o dente em geral responde ao teste de vitalidade (perda em cerca de 20%). **Imagem:** massa radiopaca fundida a um ou mais dentes, com fino halo radiolúcido, e o contorno da raiz fica obscurecido. **Conduta:** extração do dente com a massa; alternativa, excisão da massa com amputação da raiz e tratamento endodôntico. Recidiva de cerca de 12%, maior com expansão óssea ou perfuração da cortical.\n\n**Osteoma.** Neoplasia benigna de osso maduro, na superfície (periosteal, pólipo ou massa **séssil**, de base larga) ou no osso medular (endosteal). Adultos; corpo da mandíbula (face lingual, perto de pré-molares e molares) e côndilo. A maioria é solitária, assintomática e de crescimento lento; o condilar pode limitar a abertura da boca e causar má oclusão. **Imagem:** massa esclerótica circunscrita; o endosteal pequeno é difícil de separar de osteíte condensante, osteomielite esclerosante crônica focal ou osteoesclerose idiopática, e só o crescimento contínuo confirma. **Conduta:** o pequeno assintomático só é observado; o grande e sintomático do corpo da mandíbula, excisão conservadora; o condilar, em geral sintomático, é removido por cirurgia. Recidiva rara; sem transformação maligna relatada.\n\n**Síndrome de Gardner.** Variante da polipose adenomatosa familiar: **pólipos intestinais** que, sem tratamento, têm alto risco de virar câncer colorretal; a colectomia profilática é comum. Mais de 90% têm anomalias ósseas, sobretudo **osteomas múltiplos** (crânio, seios paranasais, mandíbula, ângulo), notados na puberdade e às vezes antes dos pólipos: vários osteomas podem orientar o diagnóstico precoce. Em 22 a 30% há anomalias dentárias (odontomas, dentes supranumerários e impactados). Há também cistos epidermoides na pele."
+    },
+    {
+      "id": "osteossarcoma",
+      "titulo": "Osteossarcoma dos maxilares",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas, Características histopatológicas e Tratamento e prognóstico, p. 649–653",
+      "texto": "**O que é:** neoplasia **maligna** que produz osso imaturo ou osteoide; excluídas as neoplasias do sangue, é a lesão maligna mais comum de origem óssea. Nos ossos longos o pico é na adolescência. Cerca de 6% surgem nos maxilares, onde o pico é na **3ª à 5ª década** (média de 35 a 41 anos), sem predileção por sexo; mandíbula e maxila são atingidas com frequência parecida ou com leve predomínio da mandíbula (corpo, depois ângulo, sínfise e ramo).\n\n**Clínica:** os achados mais comuns são **aumento de volume e dor**. Também há mobilidade dentária, parestesia e, na maxila, obstrução nasal. Alguns pacientes têm sintomas por muito tempo: certos osteossarcomas dos maxilares crescem mais devagar.\n\n**Imagem:** radiopacidade, imagem mista ou radiolucência de bordas **mal definidas**. Pode haver destruição e expansão da cortical e **reação periosteal**: o clássico “**raios de sol**” (cerca de 25% dos casos nos maxilares) ou o **triângulo de Codman** (elevação triangular do periósteo). Também: reabsorção radicular **em pico** (raiz que afina e termina pontiaguda) e **alargamento simétrico do espaço do ligamento periodontal** (sinal de Garrington), pista importante para diagnóstico precoce, embora apareça em outras lesões malignas. Radiografia e TC fazem a avaliação inicial; a RM é melhor para a extensão.\n\n**Histologia:** o critério essencial é a produção de **osteoide por células mesenquimais malignas**. O de baixo grau, com pouca atipia, pode ser difícil de separar de displasia fibrosa ou fibroma ossificante; a correlação com a imagem é essencial.\n\n**Conduta e prognóstico:** o tratamento de escolha é a **ressecção cirúrgica**. Quimioterapia e radioterapia nos maxilares são controversas, mas podem ser consideradas em casos como ressecção duvidosa, margem positiva e recidiva. O fator prognóstico mais importante é conseguir a **remoção cirúrgica completa inicial**; a maxila é mais difícil de ressecar e tem pior prognóstico. Também pioram: radiação prévia, idade avançada e doença de Paget. Nos maxilares, a morte vem mais do **descontrole local** (a maioria em até 2 anos do início do tratamento) que de metástases, que vão mais para o pulmão."
+    },
+    {
+      "id": "outros-malignos",
+      "titulo": "Condrossarcoma, sarcoma de Ewing e metástases para os maxilares",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Condrossarcoma, p. 653–655; Sarcoma de Ewing, p. 655–657; Neoplasias metastáticas dos ossos gnáticos, p. 657 (fim da faixa não confirmado) (Características clínicas e radiográficas e Tratamento e prognóstico)",
+      "texto": "**Condrossarcoma.** Neoplasia maligna que forma cartilagem (não osso); raro nos maxilares, onde tem pico na 3ª década (média de 33 anos). Prefere a **região anterior da maxila**; na mandíbula, a posterior. Aumento de volume, dor, assimetria facial e mobilidade dentária. **Imagem:** em geral radiolucência de **limites mal definidos com focos radiopacos** (calcificação da cartilagem); raros, lobulados e pouco calcificados, imitam lesão benigna multilocular. Pode haver reabsorção de raiz e alargamento simétrico do ligamento. **Conduta:** ressecção cirúrgica; radioterapia e quimioterapia são menos eficazes que no osteossarcoma. É localmente agressivo, com baixo potencial metastático, e a recidiva é tardia: seguimento por toda a vida. O da maxila é difícil de ressecar.\n\n**Sarcoma de Ewing.** Neoplasia maligna de **células pequenas e redondas**, em lençóis; depois do osteossarcoma, é a segunda neoplasia óssea primária mais comum em crianças e adolescentes. Maioria em adolescentes (média de 15 anos); só 1 a 2% nos ossos da face e crânio. **Clínica:** dor e aumento de volume, mobilidade e deslocamento de dentes, parestesia, linfonodos cervicais; febre, leucocitose e hemossedimentação alta em casos avançados. Pode ser tomado por infecção odontogênica ou osteomielite. **Imagem:** radiolucência mal definida, às vezes mista. **Conduta:** quimioterapia com vários fármacos, associada a cirurgia e/ou radioterapia; em geral é indicada, mesmo na doença aparentemente localizada, pela chance de micrometástases.\n\n**Metástases.** Carcinoma metastático é o câncer mais comum no osso (primários: mama, pulmão, tireoide, próstata, rim). Nos maxilares é raro, mas mais frequente do que se nota. Adultos mais velhos (média de 43 a 52 anos), mais na **mandíbula, região de molares**. Dor, aumento de volume, mobilidade dentária, trismo e parestesia; a **“síndrome do queixo dormente”** (parestesia do lábio inferior e do queixo) vem do nervo mentual. Pode imitar doença inflamatória, surgir no local de uma extração ou ser a primeira pista de câncer em outro órgão. **Imagem:** radiolucência mal definida, “**roído de traça**” (mama e próstata podem dar imagem radiopaca ou mista). Quase sempre indica doença disseminada: com frequência o manejo é paliativo; a maioria sobrevive menos de 1 ano."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: lesões benignas e malignas dos maxilares",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma, p. 691–699; Tumor odontogênico adenomatoide, p. 702–704; Tumor de Pindborg, p. 704–706; Fibroma ameloblástico, p. 707–709; Fibro-odontoma ameloblástico, p. 709–710; Odontoma, p. 712–714; Mixoma, p. 718–720; e cap. 14, Displasia cemento-óssea, p. 630–635; Osteoma, p. 639–640; Cementoblastoma, p. 644–645; Osteossarcoma, p. 649–653; Condrossarcoma, p. 653–655; Sarcoma de Ewing, p. 655–657; Neoplasias metastáticas dos ossos gnáticos, p. 657 (fim da faixa não confirmado) (síntese das seções anteriores)",
+      "texto": "Síntese das seções anteriores.\n\n| Lesão benigna | Idade e local | Imagem | Conduta |\n|---|---|---|---|\n| **Ameloblastoma convencional** | ampla faixa; mandíbula (80 a 85%) | multi ou unilocular; expande | ressecção marginal (curetagem: recidiva 50 a 90%) |\n| **Ameloblastoma unicístico** | média de 23 anos; mandíbula posterior | em volta de 3º molar incluso | enucleação; acompanhamento longo |\n| **Odontoma** | 2 primeiras décadas; composto na maxila anterior, complexo em molares | estruturas de dente ou massa calcificada | excisão local simples |\n| **Adenomatoide** | 10 a 19 anos; maxila anterior | unilocular em volta de coroa de incluso | enucleação |\n| **Pindborg** | 30 a 50 anos; mandíbula, em geral posterior | uni ou multilocular; calcificações | ressecção conservadora |\n| **Mixoma** | média de 25 a 30 anos; mandíbula | uni ou multilocular | curetagem ou ressecção; recidiva ~25% |\n| **Fibroma ameloblástico** | média de 15 anos; mandíbula posterior | uni ou multilocular | conservadora; acompanhamento longo |\n| **Fibro-odontoma ameloblástico** | média de 10 anos; mandíbula posterior | radiolucência com material calcificado | curetagem conservadora |\n| **Displasia cemento-óssea** | mulheres; focal em ápices ou extração | radiolúcida, depois mista, depois radiopaca | em geral sem remoção |\n| **Cementoblastoma** | média de 24 anos; mandíbula (80%), molares e pré-molares | massa radiopaca fundida à raiz | extração do dente com a massa |\n| **Osteoma** | adultos; corpo e côndilo | massa esclerótica circunscrita | observar; excisão se grande e sintomático |\n\n| Lesão maligna | Imagem descrita | Conduta |\n|---|---|---|\n| **Osteossarcoma** | mista ou radiolúcida mal definida; raios de sol, Codman | ressecção cirúrgica |\n| **Condrossarcoma** | radiolúcida mal definida, focos radiopacos | ressecção cirúrgica |\n| **Sarcoma de Ewing** | radiolúcida mal definida, às vezes mista | quimioterapia e cirurgia e/ou radioterapia |\n| **Metástase** | radiolúcida mal definida, \"roído de traça\" | frequentemente paliativa |\n\n**A imagem pode enganar (o livro avisa):** o mixoma grande pode imitar ameloblastoma ou osteossarcoma; o condrossarcoma lobulado, lesão benigna multilocular; o odontoma complexo, osteoma; o Ewing, infecção odontogênica ou osteomielite."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como o livro agrupa os tumores odontogênicos?",
+      "verso": "Em três grupos: **epitélio odontogênico** (ex.: ameloblastoma), **mistos** (epitélio e ectomesênquima; ex.: odontoma) e **ectomesênquima odontogênico** (ex.: mixoma, cementoblastoma).",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumores odontogênicos (introdução), Boxe 15.4, p. 690–691"
+    },
+    {
+      "id": "f02",
+      "frente": "Ameloblastoma convencional: onde e como aparece na radiografia?",
+      "verso": "**80 a 85% na mandíbula** (corpo e ramo). Radiolucência multilocular em “bolhas de sabão” ou “favos de mel”, que expande as corticais e reabsorve raízes; um grande estudo sugere que a unilocular é tão provável quanto.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que a curetagem não serve para o ameloblastoma convencional?",
+      "verso": "O tumor infiltra o osso esponjoso **além da margem da radiografia**: recidiva de **50 a 90%** após curetagem, e 5 anos sem doença não indicam cura. O tratamento mais usado é a **ressecção marginal**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+    },
+    {
+      "id": "f04",
+      "frente": "Ameloblastoma unicístico: quem, onde e que lesão imita?",
+      "verso": "Mais jovem (metade na **2ª década**), **mais de 90% na mandíbula** posterior. Muitas vezes é radiolucência em volta de **3º molar inferior incluso**, igual a cisto dentígero; o diagnóstico sai no exame microscópico. Enucleação e acompanhamento longo.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma unicístico, Características clínicas e radiográficas e Tratamento e prognóstico, p. 691–699"
+    },
+    {
+      "id": "f05",
+      "frente": "Como é o ameloblastoma periférico e como se trata?",
+      "verso": "Lesão gengival indolor, **séssil ou pediculada**, em geral < 1,5 cm, que parece fibroma ou granuloma piogênico. Excisão local; recidiva em 15 a 20%, e nova excisão quase sempre cura.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma periférico (extraósseo), Características clínicas e Tratamento e prognóstico, p. 691–699"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual a diferença entre odontoma composto e complexo?",
+      "verso": "**Composto:** várias estruturas pequenas semelhantes a dentes (mais na maxila anterior). **Complexo:** massa amorfa de esmalte e dentina (mais na região de molares). Ambos: excisão local simples, prognóstico excelente.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Odontoma, p. 712–714"
+    },
+    {
+      "id": "f07",
+      "frente": "Tumor odontogênico adenomatoide: quem, onde e imagem?",
+      "verso": "Dois terços entre **10 e 19 anos**, maxila anterior, mulheres. Radiolucência unilocular em volta da coroa de dente incluso (canino), às vezes com **calcificações delicadas**. Enucleação; recidiva muito rara.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumor odontogênico adenomatoide, Características clínicas e radiográficas e Tratamento e prognóstico, p. 702–704"
+    },
+    {
+      "id": "f08",
+      "frente": "Tumor de Pindborg: idade, local e conduta?",
+      "verso": "**30 a 50 anos**, dois terços na **mandíbula**, mais nas regiões posteriores, muitas vezes com dente impactado e calcificações. Ressecção local conservadora; recidiva de cerca de 15%, maior após curetagem.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumor odontogênico epitelial calcificante (tumor de Pindborg), Características clínicas e radiográficas e Tratamento e prognóstico, p. 704–706"
+    },
+    {
+      "id": "f09",
+      "frente": "Que imagens do mixoma odontogênico imitam outras doenças?",
+      "verso": "“Bolhas de sabão” na mandíbula, **indistinguíveis do ameloblastoma**, e “raios de sol”, que imitam **osteossarcoma**. Recidiva média de cerca de 25%; sem metástases.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Mixoma odontogênico, Características clínicas e radiográficas e Tratamento e prognóstico, p. 718–720"
+    },
+    {
+      "id": "f10",
+      "frente": "Por que a displasia cemento-óssea em geral não é operada?",
+      "verso": "Não parece neoplásica. Na fase esclerótica fica hipovascular e sujeita a necrose e infecção; cirurgia (biópsia, exodontia eletiva) deve ser evitada. Faz-se controle com profilaxia e higiene.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Tratamento e prognóstico, p. 630–635"
+    },
+    {
+      "id": "f11",
+      "frente": "Como é o cementoblastoma e como se trata?",
+      "verso": "Massa radiopaca **fundida à raiz**, com fino halo radiolúcido, em jovens (média de 24 anos), mandíbula posterior. Extração do dente com a massa (ou excisão com amputação da raiz e endodontia); recidiva de cerca de 12%.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cementoblastoma (cementoma verdadeiro), Características clínicas e radiográficas e Tratamento e prognóstico, p. 644–645"
+    },
+    {
+      "id": "f12",
+      "frente": "Que achado sugere síndrome de Gardner num paciente com osteomas?",
+      "verso": "**Osteomas múltiplos** (crânio, seios, mandíbula), notados na puberdade e às vezes antes dos pólipos intestinais. Sem tratamento, os pólipos viram câncer colorretal; a colectomia profilática é comum.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Síndrome de Gardner, Características clínicas e radiográficas e Tratamento e prognóstico, p. 640–642"
+    },
+    {
+      "id": "f13",
+      "frente": "Que sinais de imagem o livro descreve no osteossarcoma dos maxilares?",
+      "verso": "Bordas mal definidas, destruição da cortical, reação periosteal em **raios de sol** (cerca de 25%) ou **triângulo de Codman**, reabsorção radicular **em pico** e **alargamento simétrico do espaço do ligamento periodontal** (sinal de Garrington).",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas, p. 649–653"
+    },
+    {
+      "id": "f14",
+      "frente": "Osteossarcoma dos maxilares: tratamento e fator prognóstico mais importante?",
+      "verso": "Ressecção cirúrgica. O fator prognóstico mais importante é a **remoção cirúrgica completa inicial**; a maxila é mais difícil de ressecar e tem pior prognóstico. Nos maxilares, a morte vem mais do descontrole local que de metástase.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Tratamento e prognóstico, p. 649–653"
+    },
+    {
+      "id": "f15",
+      "frente": "O que é a “síndrome do queixo dormente”?",
+      "verso": "Parestesia do lábio inferior e do queixo por metástase na mandíbula que envolve o **nervo mentual**. Em geral a metástase é de carcinoma (mama, pulmão, tireoide, próstata, rim) e quase sempre indica doença disseminada.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Neoplasias metastáticas dos ossos gnáticos, Características clínicas e radiográficas e Tratamento e prognóstico, p. 657 (fim da faixa não confirmado)"
+    },
+    {
+      "id": "f16",
+      "frente": "Condrossarcoma dos maxilares: que imagem e que localização preferida?",
+      "verso": "Radiolucência de limites mal definidos com **focos radiopacos** (calcificação da cartilagem). Prefere a **região anterior da maxila**; na mandíbula, a posterior. Tratamento: ressecção cirúrgica.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Condrossarcoma, Características clínicas e radiográficas e Tratamento e prognóstico, p. 653–655"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Menino de 11 anos, assintomático. A radiografia pedida porque o 13 não erupcionou mostra, na região anterior da maxila, um conjunto de pequenas estruturas semelhantes a dentes, de tamanhos e formas variados, cercado por fina zona radiolúcida. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Tumor odontogênico adenomatoide.",
+          "correta": false,
+          "justificativa": "Errada: o adenomatoide aparece como radiolucência circunscrita em volta da coroa do dente incluso, com no máximo calcificações delicadas; não como reunião de estruturas semelhantes a dentes.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Tumor odontogênico adenomatoide, Características clínicas e radiográficas, p. 702–704"
+        },
+        {
+          "texto": "Odontoma composto.",
+          "correta": true,
+          "justificativa": "Correta: o composto aparece como coleção de estruturas semelhantes a dentes em fina zona radiolúcida, é mais visto na região anterior da maxila, em geral nas duas primeiras décadas, e costuma impedir a erupção de um dente. Trata-se por excisão local simples.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Odontoma, Características clínicas e radiográficas e Tratamento e prognóstico, p. 712–714"
+        },
+        {
+          "texto": "Odontoma complexo.",
+          "correta": false,
+          "justificativa": "Errada: o complexo aparece como massa calcificada, sem forma de dente, e é mais comum na região de molares; aqui há várias estruturas semelhantes a dentes, na região anterior da maxila.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Odontoma, Características clínicas e radiográficas, p. 712–714"
+        },
+        {
+          "texto": "Osteoma.",
+          "correta": false,
+          "justificativa": "Errada: o osteoma aparece, em geral, como massa esclerótica circunscrita, e não como reunião de estruturas semelhantes a dentes; além disso, é mais detectado em adultos, e o paciente tem 11 anos.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Osteoma, Características clínicas e radiográficas, p. 639–640"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Odontoma, Características clínicas e radiográficas, p. 712–714",
+      "secao": "odontoma",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 38 anos com aumento de volume indolor no corpo da mandíbula. A radiografia mostra lesão multilocular em “bolhas de sabão”, com expansão das corticais e reabsorção das raízes vizinhas; a biópsia confirma ameloblastoma convencional. Qual é o tratamento que o livro descreve como o mais usado?",
+      "alternativas": [
+        {
+          "texto": "Curetagem simples da lesão.",
+          "correta": false,
+          "justificativa": "Errada: a curetagem deixa ilhas de tumor no osso, porque ele se infiltra além da margem radiográfica, e a recidiva é de 50 a 90%.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Enucleação como se fosse cisto, com acompanhamento longo.",
+          "correta": false,
+          "justificativa": "Errada: esse manejo é o descrito para o ameloblastoma unicístico, que parece cisto e tem diagnóstico microscópico; o caso é de convencional multilocular, já confirmado na biópsia.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Ressecção marginal.",
+          "correta": true,
+          "justificativa": "Correta: é o tratamento mais usado no ameloblastoma convencional, com recidiva de até 15%, contra 50 a 90% após curetagem.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Radioterapia como tratamento principal.",
+          "correta": false,
+          "justificativa": "Errada: o livro diz que a radioterapia raramente é usada, pela localização intraóssea e pelo risco de tumor induzido pela radiação em pacientes jovens.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699",
+      "secao": "ameloblastoma",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Jovem de 19 anos, assintomático. A panorâmica mostrou radiolucência unilocular circunscrita em volta da coroa do 38 incluso, e o cirurgião a enucleou como cisto dentígero. O laudo da peça volta como ameloblastoma unicístico, com o tumor restrito ao lúmen do cisto, sem invadir a parede fibrosa. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Ressecção local da área, como medida profilática.",
+          "correta": false,
+          "justificativa": "Errada: o livro cita a ressecção local como indicação defendida por alguns quando o tumor se estende à parede fibrosa; aqui o tumor está restrito ao lúmen, e nesse caso a enucleação provavelmente foi o tratamento adequado.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Radioterapia complementar.",
+          "correta": false,
+          "justificativa": "Errada: o livro diz que a radioterapia raramente é usada no ameloblastoma, pela localização intraóssea e pelo risco de tumor induzido pela radiação em pacientes jovens, como este.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Alta sem controle, pois a peça foi removida por inteiro.",
+          "correta": false,
+          "justificativa": "Errada: a recidiva após enucleação é de 10 a 20% nas séries antigas, e o livro pede acompanhamento por longo período.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Acompanhamento por longo período.",
+          "correta": true,
+          "justificativa": "Correta: com os elementos ameloblásticos confinados ao lúmen, a enucleação provavelmente bastou, e o paciente deve ser mantido sob acompanhamento por longo período.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699",
+      "secao": "ameloblastoma-variantes",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Menina de 14 anos, assintomática. A radiografia pedida porque o canino superior não erupcionou mostra radiolucência circunscrita, unilocular, em volta da coroa do dente incluso, que se estende ao longo da raiz além da junção amelocementária e tem calcificações delicadas no interior. A peça enucleada é envolta por espessa cápsula fibrosa e, ao microscópio, mostra células epiteliais colunares dispostas em estruturas semelhantes a ductos, com os núcleos afastados do espaço central. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Tumor odontogênico adenomatoide.",
+          "correta": true,
+          "justificativa": "Correta: jovem na faixa de 10 a 19 anos, maxila anterior, radiolucência unilocular em volta da coroa de canino incluso. A extensão pela raiz além da junção amelocementária e as calcificações delicadas ajudam a separá-lo do cisto dentígero; a cápsula espessa e as estruturas ductiformes são o aspecto característico do tumor. Enucleação; recidiva muito rara.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Tumor odontogênico adenomatoide, Características clínicas e radiográficas, Características histopatológicas e Tratamento e prognóstico, p. 702–704"
+        },
+        {
+          "texto": "Odontoma composto.",
+          "correta": false,
+          "justificativa": "Errada: o composto aparece como reunião de estruturas semelhantes a dentes; aqui há radiolucência circunscrita em volta da coroa, sem estruturas dentiformes.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Odontoma, Características clínicas e radiográficas, p. 712–714"
+        },
+        {
+          "texto": "Tumor odontogênico epitelial calcificante (Pindborg).",
+          "correta": false,
+          "justificativa": "Errada: o traço que define o Pindborg ao microscópio é outro, com células poliédricas e calcificações em anéis concêntricos dentro de material semelhante a amiloide; cápsula espessa com estruturas ductiformes é o que o livro descreve no adenomatoide. Além disso, o Pindborg é mais encontrado entre 30 e 50 anos, e o dente impactado associado costuma ser molar inferior; a paciente tem 14 anos e o dente é o canino superior.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Tumor odontogênico epitelial calcificante (tumor de Pindborg), Características clínicas e radiográficas e Características histopatológicas, p. 704–706"
+        },
+        {
+          "texto": "Cementoblastoma.",
+          "correta": false,
+          "justificativa": "Errada: o cementoblastoma aparece em geral como massa radiopaca fundida à raiz de um dente (dentes inclusos raramente são acometidos); aqui a imagem é radiolúcida, em volta da coroa de um incluso.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Cementoblastoma (cementoma verdadeiro), Características clínicas e radiográficas, p. 644–645"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Tumor odontogênico adenomatoide, Características clínicas e radiográficas e Características histopatológicas, p. 702–704",
+      "secao": "aot-pindborg",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 27 anos com aumento de volume indolor de crescimento rápido na mandíbula. A radiografia mostra lesão radiolúcida multilocular em “bolhas de sabão”, de margens festonadas, com trabéculas finas de osso residual em ângulos retos. Na cirurgia, o tecido é gelatinoso e sem cápsula. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Fibro-odontoma ameloblástico.",
+          "correta": false,
+          "justificativa": "Errada: ocorre em crianças (média de 10 anos), com material calcificado de densidade de dente dentro da radiolucência; a paciente tem 27 anos e a imagem é só radiolúcida.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Fibro-odontoma ameloblástico, Características clínicas e radiográficas, p. 709–710"
+        },
+        {
+          "texto": "Tumor odontogênico adenomatoide.",
+          "correta": false,
+          "justificativa": "Errada: tem cápsula espessa e, em cerca de 75%, é unilocular em volta da coroa de dente incluso, em jovens de 10 a 19 anos, mais na maxila anterior.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Tumor odontogênico adenomatoide, Características clínicas e radiográficas e Características histopatológicas, p. 702–704"
+        },
+        {
+          "texto": "Mixoma odontogênico.",
+          "correta": true,
+          "justificativa": "Correta: adulto jovem, expansão indolor com possível crescimento rápido, radiolucência multilocular de margens festonadas com trabéculas em ângulos retos, e tumor gelatinoso e sem cápsula na cirurgia. Pequeno: curetagem com reavaliação por 5 anos; grande: ressecção mais ampla.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Mixoma odontogênico, Características clínicas e radiográficas, Características histopatológicas e Tratamento e prognóstico, p. 718–720"
+        },
+        {
+          "texto": "Odontoma complexo.",
+          "correta": false,
+          "justificativa": "Errada: o complexo é uma massa calcificada com radiodensidade de dente, na maioria assintomática e descoberta nas duas primeiras décadas; aqui a lesão é multilocular radiolúcida, de crescimento rápido.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Odontoma, Características clínicas e radiográficas, p. 712–714"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Mixoma odontogênico, Características clínicas e radiográficas, p. 718–720",
+      "secao": "mixoma-mistos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher negra de 52 anos, sem queixas. As radiografias de rotina mostram várias lesões mistas, radiolúcidas e radiopacas, em toda a mandíbula, com envolvimento bilateral e simétrico; os dentes envolvidos são vitais. Qual é a conduta descrita pelo livro?",
+      "alternativas": [
+        {
+          "texto": "Controle periódico, com profilaxia e reforço da higiene oral, evitando cirurgia.",
+          "correta": true,
+          "justificativa": "Correta: o quadro é de displasia cemento-óssea florida, que não parece neoplásica e em geral não requer remoção. No paciente assintomático, o melhor manejo é o controle com profilaxia e higiene, e procedimentos cirúrgicos devem ser evitados.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Tratamento e prognóstico, p. 630–635"
+        },
+        {
+          "texto": "Biópsia de todas as lesões para confirmar o diagnóstico.",
+          "correta": false,
+          "justificativa": "Errada: mulher melanoderma com lesões múltiplas, bilaterais e simétricas permite diagnóstico presuntivo, e o livro manda evitar procedimentos cirúrgicos, como a biópsia, porque os sintomas costumam começar quando as massas escleróticas se expõem na boca.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Diagnóstico e Tratamento e prognóstico, p. 630–635"
+        },
+        {
+          "texto": "Extração dos dentes envolvidos.",
+          "correta": false,
+          "justificativa": "Errada: o livro recomenda manter os dentes e evitar exodontias eletivas, porque os sintomas costumam começar com a exposição das massas escleróticas na boca.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Tratamento e prognóstico, p. 630–635"
+        },
+        {
+          "texto": "Ressecção ampla, com margem de segurança.",
+          "correta": false,
+          "justificativa": "Errada: a displasia cemento-óssea não parece ser neoplásica e geralmente não requer remoção; só as raras formas expansivas, de crescimento progressivo, costumam exigir cirurgia.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Tratamento e prognóstico, p. 630–635"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Tratamento e prognóstico, p. 630–635",
+      "secao": "displasia-cemento-ossea",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Rapaz de 22 anos com dor e aumento de volume na região posterior da mandíbula. O primeiro molar inferior responde ao teste de vitalidade. A radiografia mostra massa radiopaca fundida à raiz, com fino halo radiolúcido e contorno radicular obscurecido. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Displasia cemento-óssea focal.",
+          "correta": false,
+          "justificativa": "Errada: a focal é assintomática, cerca de 90% dos casos ocorrem em mulheres, com média de 41 anos; este paciente é homem, de 22 anos, com dor.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Características clínicas e radiográficas, p. 630–635"
+        },
+        {
+          "texto": "Displasia cemento-óssea periapical.",
+          "correta": false,
+          "justificativa": "Errada: afeta sobretudo mulheres (cerca de 10 a 14 para 1), na região anterior da mandíbula, é assintomática, e o ligamento periodontal fica intacto, com fusão rara ao dente; aqui o paciente é homem, com dor, na região posterior e com massa fundida à raiz.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Características clínicas e radiográficas, p. 630–635"
+        },
+        {
+          "texto": "Osteoma.",
+          "correta": false,
+          "justificativa": "Errada: o osteoma é descrito como massa esclerótica da superfície ou do osso medular, em geral solitária, assintomática e de crescimento lento (dor é relatada em minoria); o livro descreve o cementoblastoma como massa fundida à raiz do dente, como a deste caso, com dor e dente vital.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Osteoma, Características clínicas e radiográficas, p. 639–640"
+        },
+        {
+          "texto": "Cementoblastoma.",
+          "correta": true,
+          "justificativa": "Correta: massa radiopaca fundida ao dente, com fino halo radiolúcido, em jovem (média de 24 anos), molares e pré-molares inferiores, com dor e aumento de volume em cerca de 70% e dente em geral vital. Trata-se por extração do dente com a massa.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Cementoblastoma (cementoma verdadeiro), Características clínicas e radiográficas e Tratamento e prognóstico, p. 644–645"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cementoblastoma (cementoma verdadeiro), Características clínicas e radiográficas, p. 644–645",
+      "secao": "cementoblastoma-osteoma",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Homem de 38 anos com aumento de volume doloroso no corpo da mandíbula, mobilidade de dois dentes e parestesia do lábio. A radiografia mostra lesão mista de bordas mal definidas, com destruição da cortical, reação periosteal em “raios de sol” e alargamento simétrico do espaço do ligamento periodontal. Qual é a hipótese e a conduta de escolha descritas?",
+      "alternativas": [
+        {
+          "texto": "Osteossarcoma; ressecção cirúrgica.",
+          "correta": true,
+          "justificativa": "Correta: dor e aumento de volume, mobilidade dentária e parestesia, bordas mal definidas, destruição cortical, raios de sol e alargamento simétrico do ligamento periodontal (sinal de Garrington) são achados descritos no osteossarcoma, na faixa de 3ª a 5ª década. O tratamento de escolha é a ressecção cirúrgica.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas e Tratamento e prognóstico, p. 649–653"
+        },
+        {
+          "texto": "Ameloblastoma convencional; ressecção marginal.",
+          "correta": false,
+          "justificativa": "Errada: no ameloblastoma dor e parestesia são incomuns, mesmo no tumor grande, e o livro descreve expansão das corticais; a destruição da cortical e a reação periosteal em raios de sol são descritas no osteossarcoma.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+        },
+        {
+          "texto": "Osteoma; observação periódica.",
+          "correta": false,
+          "justificativa": "Errada: o osteoma aparece em geral como massa esclerótica circunscrita, solitária, assintomática e de crescimento lento; o caso tem dor, parestesia, bordas mal definidas e destruição da cortical.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Osteoma, Características clínicas e radiográficas e Tratamento e prognóstico, p. 639–640"
+        },
+        {
+          "texto": "Displasia cemento-óssea; controle com higiene oral.",
+          "correta": false,
+          "justificativa": "Errada: a displasia cemento-óssea não parece neoplásica, e a evolução descrita é de maturação (radiolúcida, mista, radiopaca) com fino halo; a reação periosteal em raios de sol é descrita no osteossarcoma.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Características clínicas e radiográficas, p. 630–635"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas, p. 649–653",
+      "secao": "osteossarcoma",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Adolescente de 14 anos com dor e aumento de volume na região posterior da mandíbula, mobilidade de dentes, parestesia, febre e velocidade de hemossedimentação elevada. A radiografia mostra radiolucência mal definida, e o exame microscópico, lençóis de pequenas células redondas, sem produção de osteoide nem de cartilagem. O quadro foi tratado como infecção odontogênica, sem melhora. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Osteossarcoma.",
+          "correta": false,
+          "justificativa": "Errada: o critério microscópico essencial do osteossarcoma é a produção de osteoide por células mesenquimais malignas, e aqui o exame não mostra osteoide; o pico nos maxilares é na 3ª a 5ª década (média de 35 a 41 anos), e o paciente tem 14.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas e Características histopatológicas, p. 649–653"
+        },
+        {
+          "texto": "Condrossarcoma.",
+          "correta": false,
+          "justificativa": "Errada: o condrossarcoma é uma neoplasia maligna cujas células formam cartilagem, e aqui o exame não mostra cartilagem; nos maxilares o pico é na 3ª década (média de 33 anos), e o paciente tem 14.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Condrossarcoma (abertura) e Características clínicas e radiográficas, p. 653–655"
+        },
+        {
+          "texto": "Sarcoma de Ewing.",
+          "correta": true,
+          "justificativa": "Correta: neoplasia de células pequenas e redondas, na maioria em adolescentes (média de 15 anos); dor e aumento de volume, mobilidade e deslocamento dentário, parestesia, febre, leucocitose e hemossedimentação elevada em casos avançados, imagem radiolúcida mal definida, e confusão com infecção odontogênica ou osteomielite. O tratamento é quimioterapia com cirurgia e/ou radioterapia.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Sarcoma de Ewing, Características clínicas e radiográficas e Tratamento e prognóstico, p. 655–657"
+        },
+        {
+          "texto": "Carcinoma metastático.",
+          "correta": false,
+          "justificativa": "Errada: as metástases para os maxilares afetam na maioria adultos mais velhos, com média de 43 a 52 anos; o paciente tem 14 anos e o quadro microscópico é de células pequenas e redondas.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Neoplasias metastáticas dos ossos gnáticos, Características clínicas e radiográficas, p. 657 (fim da faixa não confirmado)"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Sarcoma de Ewing, Características clínicas e radiográficas, p. 655–657",
+      "secao": "outros-malignos",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Mulher de 58 anos, tratada de câncer de mama, queixa-se de dormência no lábio inferior e no queixo. Após a extração do 47, a dor local persiste. A radiografia mostra radiolucência mal definida, de aspecto “roído de traça”, no corpo da mandíbula. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Ameloblastoma convencional.",
+          "correta": false,
+          "justificativa": "Errada: no ameloblastoma o aumento de volume é indolor e dor e parestesia são incomuns, e a imagem típica é multilocular, com expansão das corticais.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+        },
+        {
+          "texto": "Carcinoma metastático para a mandíbula.",
+          "correta": true,
+          "justificativa": "Correta: parestesia do lábio inferior e do queixo (síndrome do queixo dormente) por envolvimento do nervo mentual, radiolucência mal definida “roído de traça”, adulta com câncer de mama (um dos primários mais comuns) e achado após exodontia, situação descrita no livro. O envolvimento dos maxilares quase sempre indica doença disseminada.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Neoplasias metastáticas dos ossos gnáticos, Características clínicas e radiográficas e Tratamento e prognóstico, p. 657 (fim da faixa não confirmado)"
+        },
+        {
+          "texto": "Tumor odontogênico epitelial calcificante (Pindborg).",
+          "correta": false,
+          "justificativa": "Errada: o sinal mais comum do Pindborg é aumento de volume indolor de crescimento lento, em pacientes de 30 a 50 anos; o caso tem parestesia e dor persistente, aos 58 anos.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Tumor odontogênico epitelial calcificante (tumor de Pindborg), Características clínicas e radiográficas, p. 704–706"
+        },
+        {
+          "texto": "Displasia cemento-óssea florida.",
+          "correta": false,
+          "justificativa": "Errada: nela as lesões evoluem de radiolúcidas para mistas e radiopacas, e a forma assintomática é achado de radiografia; o aspecto “roído de traça” e a parestesia do queixo são descritos nas metástases.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Características clínicas e radiográficas, p. 630–635"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Neoplasias metastáticas dos ossos gnáticos, Características clínicas e radiográficas, p. 657 (fim da faixa não confirmado)",
+      "secao": "outros-malignos",
+      "figura": null
+    }
+  ]
+}

@@ -247,6 +247,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "seção 2.4 e Tabela 3",
+   "secao": "degraus",
    "figura": null
   },
   {
@@ -284,6 +285,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "seção 2.4 e Tabela 3",
+   "secao": "degraus",
    "figura": null
   },
   {
@@ -321,6 +323,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "seção 2.4 e Tabela 3",
+   "secao": "degraus",
    "figura": null
   },
   {
@@ -358,6 +361,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "seção 3.4",
+   "secao": "abscesso-endo-perio",
    "figura": null
   },
   {
@@ -395,6 +399,7 @@
    ],
    "fonte": "carranza13",
    "onde": "cap. 46, Resumo, p. 511",
+   "secao": "abscesso-endo-perio",
    "figura": null
   },
   {
@@ -432,6 +437,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "seções 1 e 1.4",
+   "secao": "abscesso-endo-perio",
    "figura": null
   },
   {
@@ -469,6 +475,7 @@
    ],
    "fonte": "herrera2018",
    "onde": "Tabela 4 (seção 2.5)",
+   "secao": "escada",
    "figura": null
   },
   {
@@ -506,6 +513,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)",
+   "secao": "outras-explicacoes",
    "figura": null
   }
  ]

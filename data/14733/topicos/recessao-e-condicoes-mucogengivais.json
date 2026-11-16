@@ -206,6 +206,7 @@
    ],
    "fonte": "cortellini2018",
    "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)",
+   "secao": "cairo",
    "figura": null
   },
   {
@@ -243,6 +244,7 @@
    ],
    "fonte": "cortellini2018",
    "onde": "considerações diagnósticas, CAL interdental (classificação de Cairo)",
+   "secao": "cairo",
    "figura": null
   },
   {
@@ -280,6 +282,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 2",
+   "secao": "fenotipo",
    "figura": null
   },
   {
@@ -317,6 +320,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "recessao-na-classificacao",
    "figura": null
   },
   {
@@ -354,6 +358,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 2",
+   "secao": "recessao",
    "figura": null
   },
   {
@@ -391,6 +396,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "definição de caso de periodontite (opção B e exclusões)",
+   "secao": "recessao-na-classificacao",
    "figura": null
   }
  ]

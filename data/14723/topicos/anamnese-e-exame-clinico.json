@@ -1,0 +1,597 @@
+{
+  "slug": "anamnese-e-exame-clinico",
+  "titulo": "Anamnese e exame extra e intrabucal sistematizado (sequência, palpação de linfonodos)",
+  "area": "Clínica Integrada",
+  "origem": "Marcucci 3ª ed., cap. 4",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "marcucci3-cap4",
+      "ref": "Guimarães Júnior J. Metodologia do Exame Clínico Estomatológico. In: Marcucci G (ed.). Fundamentos de Odontologia: Estomatologia. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2020. Cap. 4, p. 29–56.",
+      "curta": "Marcucci 3ª ed., cap. 4"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "visao-geral",
+      "titulo": "O exame clínico, como se divide e o prontuário",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Conceitos semiológicos, Prontuário e Divisão do exame clínico, p. 29–30",
+      "texto": "**Sinal e sintoma.** **Sinal** é o dado que o profissional percebe de forma objetiva no exame físico (muitas vezes uma lesão fundamental) ou que chega por exame complementar. **Sintoma** é o que o paciente sente e relata na anamnese, como dor, parestesia ou queimação. **Semiografar** é registrar por escrito os dados do exame clínico.\n\n**Ramos da semiologia.** A **semiotécnica** reúne as técnicas e manobras para obter sinais e sintomas. A **propedêutica clínica** ordena esses dados para chegar às hipóteses diagnósticas, ao diagnóstico e ao prognóstico. A **semiogênese** estuda como a sintomatologia se forma.\n\n**Como o exame clínico se divide:**\n- **fase subjetiva (anamnese):** o paciente relata o que sente e como os sinais evoluíram;\n- **fase objetiva (exame físico):** o profissional descreve com precisão os sinais captados pelos órgãos dos sentidos e pesquisa sintomas provocados por manobras, como palpação e percussão. O exame físico é **geral**, **locorregional extraoral** e **locorregional intraoral**.\n\n**Por que começar pela anamnese.** O livro discorda de quem examina antes de ouvir. Motivos: o paciente quer ser ouvido; é preciso conhecer a visão dele sobre os sintomas; evita-se antecipar o diagnóstico diferencial; e não se desvia o relato para confirmar uma impressão já formada.\n\n**Prontuário.** Todo encontro com o paciente é registrado em formulário próprio. O documento é confidencial, é a principal base de dados em auditorias jurídicas e deve ser escrito para que outras pessoas entendam, com identificação clara de quem registrou e do departamento. As consultas seguintes são datadas e anotadas em “evolução clínica”: mudanças nos sinais e sintomas, exames pedidos e resultados, providências terapêuticas e seus efeitos. Na anamnese, mantenha contato visual em vez de olhar só o prontuário.\n\n**Material (Quadro 4.1).** Equipo com boa iluminação, equipamento de proteção individual, afastador, espelho, pinça, explorador, sonda periodontal, seringa tríplice, gaze e algodão, esfigmomanômetro, estetoscópio e termômetro. Uma nota recomenda evitar afastadores de língua de madeira potencialmente contaminados e preferir os cirúrgicos ou os de plástico embalados pelo fabricante."
+    },
+    {
+      "id": "conduzir",
+      "titulo": "Como conduzir a anamnese",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Anamnese ou exame subjetivo, p. 31–32; Tipos de pergunta, p. 34",
+      "texto": "A anamnese **não é uma conversa social**. Não basta saber o que perguntar: é preciso saber **como** perguntar.\n\n**Ambiente e postura:**\n- local com privacidade possível e sem interrupções; paciente e profissional sentados, com os olhos na mesma altura (a mesa de escritório é melhor que a cadeira odontológica, onde o profissional costuma ficar mais alto); sem feixe de luz nos olhos do paciente;\n- cumprimentar, chamar o paciente pelo nome e se apresentar (o estudante se diz estudante);\n- tratamento formal (senhor, senhora, senhorita), sem “mãe”, “vovô”, “tio”, “querida”;\n- ser calmo e sem pressa; evitar expressões de aborrecimento, impaciência ou desaprovação; manter contato visual, sem olhar fixo demais nem de menos.\n\n**Objetividade.** Deixe crenças e preconceitos de lado antes de observar e não interprete o sintoma de forma precipitada. O profissional hábil não registra “o paciente informa mal”: provavelmente foi ele quem não soube obter a informação.\n\n**Situações frequentes.** Paciente que fala demais: interromper com cortesia e direcionar para o que é indispensável. Paciente ansioso: reconhecer o sentimento, sem pedir que não se preocupe. O acompanhante é a fonte da história em criança, idoso ou quando há impedimento de compreensão ou diálogo.\n\n**Tipos de pergunta.** Sem jargão técnico: a linguagem se ajusta à escolaridade e à profissão do paciente.\n- **aberta** (“Diga-me tudo o que lhe aconteceu”): o paciente discorre livremente; serve ao ansioso e perde utilidade com o reticente;\n- **fechada** (“Há quanto tempo você apresenta esse problema?”): resposta curta e objetiva; contorna a verborragia;\n- **direcionada** (“Deve ranger os dentes, não é verdade?”): traz a resposta embutida; em geral deve ser evitada, porque pode induzir;\n- **contraditória:** confere uma informação ou achado suspeito;\n- **indireta:** esclarece outro problema (“Sua gengiva costuma sangrar?” mostra se o paciente segue a higiene orientada).\n\n**Além das palavras.** Gestos, postura, expressão e distância (comunicação não verbal) e o tom, o volume e as pausas da voz (paralinguística) podem revelar medo, vergonha ou ansiedade; as pausas merecem tolerância. Só pela anamnese não se confirma o diagnóstico, mas, somada ao exame físico, ela reduz o número de hipóteses e de exames complementares."
+    },
+    {
+      "id": "identificacao-queixa",
+      "titulo": "Identificação, queixa principal e história odontoestomatognática",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Identificação do paciente, p. 34–35; Queixa principal ou estímulo iatrotrópico e História odontoestomatognática, p. 35",
+      "texto": "**Identificação sumária** (Quadro 4.7): nome, estado civil, sexo, raça ou etnia, idade, profissão, naturalidade, procedência, endereço, telefone, e-mail e quem encaminhou. É a **única parte do exame que o pessoal auxiliar pode fazer**. O profissional lê esses dados antes de começar, para chamar o paciente pelo nome e pelo tratamento adequado ao estado civil e à faixa etária.\n\nOs dados dão pistas diagnósticas. Exemplos do livro: carcinomas são mais frequentes na meia-idade; sarcomas, em pacientes pediátricos; osteossarcoma, no sexo masculino.\n\n**Identificação expandida (biografia e história psicossocial):** religião, família, medos, expectativas sobre o tratamento, relações com dentistas anteriores, nível cultural, entre outros. Nem sempre é perguntada na primeira consulta, mas deve ao menos ser observada ao longo do tratamento. Não é curiosidade: a conduta, a comunicação e até as opções técnicas são, dentro do possível, adaptadas ao paciente. Numa anamnese formal, o livro pede não exagerar no número de perguntas.\n\n**Queixa principal (estímulo iatrotrópico).** É o **motivo pelo qual o paciente procurou o profissional**. Nem sempre é o problema mais importante: ele pode vir tratar uma cárie e descobrir uma neoplasia maligna que ignorava. A anotação é sucinta, no máximo com a duração (por exemplo, “bolinha na gengiva há 4 meses”); quando fica longa, já é história da doença atual. Perguntas abertas: “O que o está incomodando?”, “O que o trouxe à consulta?”, “O que você está sentindo?”. Conforme a gravidade da queixa, o exame é reduzido ao imprescindível e o alívio é providenciado de imediato.\n\n**História odontoestomatognática.** Não é só a história dental: reúne todas as experiências do paciente com o sistema odontoestomatognático e as visitas anteriores ao dentista (Quadro 4.8). Por exemplo: quantas vezes vai ao dentista e quando foi a última; como escova; medo do dentista; reação a anestésico local; herpes labial, candidose, aftas; dor nos dentes; dor ou estalido na ATM; boca seca; ranger os dentes; sangramento gengival; extrações; gânglios aumentados (“íngua”) na cabeça e no pescoço; tumor já operado na boca. As primeiras perguntas do quadro são abertas; as demais são de sim ou não, com detalhe pedido em alguns itens."
+    },
+    {
+      "id": "hda",
+      "titulo": "História da doença atual",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, História da doença atual, p. 35–37",
+      "texto": "A **história da doença atual** (HDA) é a história da queixa principal: uma narrativa **cronológica**, clara e detalhada. O paciente tende a começar pelo estado de hoje; o profissional o leva, com sutileza, a contar os fatos em ordem.\n\n**Sequência da HDA (Quadro 4.9):**\n- data e descrição dos primeiros sinais e sintomas;\n- caracterização dos sintomas: como percebe, periodicidade, frequência, o que alivia e o que agrava;\n- evolução até o momento;\n- exames complementares feitos, resultados e se estão disponíveis;\n- tratamentos feitos por conta própria ou orientados por profissional;\n- estado atual.\n\nO Quadro 4.10 acrescenta: o que o paciente acha que causou o problema, manifestações associadas, profissionais já procurados, diagnósticos recebidos e como a queixa interfere na vida dele. Quando a queixa é **dor**, o Quadro 4.11 pede início, localização, para onde irradia, duração, o que alivia e o que agrava, intensidade e como ela se apresenta (por exemplo, latejante ou queimante).\n\n**A duração relatada pode não ser a real.** A alteração pode existir sem que o paciente note até ficar mais visível; o livro cita displasia fibrosa e querubismo, presentes desde o nascimento e percebidos meses ou anos depois. O paciente também pode não saber a origem provável e ligar o início a um evento, como um traumatismo; a duração real pode ser outra.\n\n**Como perguntar na HDA:**\n- comece por perguntas abertas e passe às fechadas e mais específicas (por exemplo, onde sente a dor, que mostre onde, se fica ali ou irradia e para onde);\n- **não induza:** prefira “Com o que se parece sua lesão branca?” a “A sua lesão branca parece leite coalhado?”; se o paciente não souber descrever, ofereça alternativas;\n- faça uma pergunta de cada vez, em linguagem que ele entenda;\n- não opine nem critique o uso de substâncias nocivas: reúna os dados e planeje como ajudar o paciente a evitá-las.\n\n**Recursos do entrevistador:** facilitação (“Continue”, “E então?”), reflexão (repetir as palavras do paciente), esclarecimento (“O que você quer dizer por…?”), empatia (“Entendo que isto deve incomodá-lo muito”), confrontação e interpretação. Para encerrar: “Você gostaria de falar mais alguma coisa?”."
+    },
+    {
+      "id": "historia-medica",
+      "titulo": "Tratamento médico atual e história médica pregressa",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Tratamento médico atual e História médica pregressa, p. 38; Quadro 4.13, p. 39",
+      "texto": "**Tratamento médico atual.** Anote as doenças em tratamento, o que se faz, há quanto tempo, quem acompanha e se o paciente segue o tratamento. É comum o paciente omitir o que usa, sobretudo “produtos naturais”, e alguns deles afetam a agregação plaquetária. Se ele não souber informar, peça as receitas ou bulas e consulte um guia terapêutico atualizado. Conhecer o tratamento evita interações medicamentosas e ajuda a detectar reações colaterais.\n\nOs dados podem explicar a queixa: o livro cita aumento de volume nos ossos gnáticos em paciente com disfunção renal, que acaba diagnosticado como hiperparatireoidismo secundário, e queixa de disfunção da ATM em paciente com artrite reumatoide, que é só parte do quadro geral.\n\n**História médica pregressa.** Busca o estado geral de saúde segundo o conhecimento e a opinião do paciente, que pode omitir o que acha que não interessa ao dentista. Obtenha-a com persistência, mesmo que pareça redundante. O livro sugere a sequência do “método saca-rolhas” (Quadro 4.13):\n1. doenças que o paciente já teve;\n2. se já procurou médico e por quê;\n3. hospitalização e cirurgia (o texto da p. 38 põe a hospitalização antes da cirurgia; o Quadro 4.13, da p. 39, lista cirurgias antes de hospitalizações);\n4. por fim, a revisão dos órgãos e sistemas.\n\nSe nada for obtido, registra-se “nada digno de nota” ou “o paciente não soube informar”, mas a falha é de quem não soube perguntar.\n\n**Tabagismo, etilismo e drogas.** As perguntas podem constranger, mas são necessárias, e o profissional não julga. Pode-se começar perguntando sobre o uso na família. Registre: tabaco, tipo e quantidade por dia; álcool, tipo de bebida e doses por dia; psicotrópicos, tipo, frequência e forma de uso. Alguns pacientes são dependentes de fármacos sem acreditar nisso (exemplo do livro: uso abusivo de tranquilizantes menores).\n\nColher esses dados só vale se o profissional souber o que fazer com eles: obter informação importante e nada fazer a respeito, diz o livro, deixa de ser exame clínico."
+    },
+    {
+      "id": "recursos",
+      "titulo": "Recursos semiotécnicos do exame físico",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Exame físico ou exame objetivo, Recursos semiotécnicos, Inspeção, p. 39; Palpação, Percussão, Auscultação e Olfação, p. 40",
+      "texto": "No exame físico o profissional usa os órgãos dos sentidos (Quadro 4.14). Na anamnese o registro usa as palavras do paciente; aqui, **termos técnicos precisos**. O exame deve ser meticuloso, ordenado e sistemático, sem rispidez e sem demonstrar desaprovação. O estudante não deve oferecer hipóteses além do que sabe: isso fica para professores mais experientes.\n\n**Inspeção** (visão). Procura alterações de cor, superfície, textura, contorno e tamanho, o que exige conhecer as variações da normalidade. Não deve ser o único recurso: o livro aponta isso como causa de um dos principais defeitos do exame físico. Facilitam a inspeção: secar a saliva (aspiração, gaze ou ar), espelho, afastadores, boa iluminação, lupa e gaze, que também traciona a língua. Próteses removíveis e totais são retiradas para avaliar qualidade, oclusão, estabilidade e retenção.\n\n**Diascopia.** Comprime-se a área com lâmina de microscopia e observa-se o que ocorre logo após soltar. Se a origem é sanguínea, a compressão empalidece o conteúdo dentro do vaso, mas não o que extravasou; se é pigmento, a cor não esmaece. Na **transiluminação**, a luz atravessa o tecido (um fotopolimerizador serve de fonte).\n\n**Palpação** (tato e pressão). Obtém o que a inspeção não dá: consistência (pétrea, flácida, borrachoide), espessura, tamanho, compressibilidade, delimitação, mobilidade, sensibilidade, temperatura e linfonodos aumentados. A sensibilidade palpada nem sempre coincide com a relatada na anamnese. A palpação é **direta** (bimanual, bidigital, digitopalmar) ou **indireta**, com explorador ou sonda periodontal, e pode ser comparada com o lado oposto.\n\n**Percussão.** Golpes diretos com as pontas dos dedos ou indiretos com um instrumento, como o cabo do espelho. Compara-se a sensibilidade de um local com a de outro semelhante. Nos dentes, começa-se a certa distância, para o paciente se acostumar e poder relatar a sensibilidade do dente afetado.\n\n**Auscultação.** Escuta de sons do organismo, com ou sem instrumento que os amplie, como o estetoscópio.\n\n**Olfação.** Pouco usada em Odontologia, mas reconhece halitose, bebida alcoólica, odor cetônico de diabético descompensado e odor pútrido de necrose e de secreção purulenta por anaeróbios. Depende da experiência do examinador."
+    },
+    {
+      "id": "fisico-geral",
+      "titulo": "Exame físico geral e sinais vitais",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Exame físico geral, p. 40–42; Sinais vitais, p. 43–45",
+      "texto": "O paciente é uma **unidade indivisível**: examinar só a boca é uma abordagem parcial. Na fase geral observam-se todas as regiões, exceto cabeça e região cervical, que pertencem ao exame locorregional extraoral.\n\n**Ectoscopia** (análise superficial ou externa). Observam-se sexo, estado geral, idade aparente, estatura, tegumento visível, postura, ambulação, jeito de cumprimentar, vestimenta, higiene, odores, fácies, afetividade, fala e níveis de percepção e consciência, e se o paciente vem sozinho ou acompanhado. O exame físico começa pela simples presença do paciente. Exemplos do Quadro 4.16: mãos na face, face contraída e inquietação sugerem pulpite aguda ou abscesso dentoalveolar; proteger a face para ninguém tocar sugere nevralgia trigeminal.\n\n**Tegumento visível.** Pele muito seca sugere desidratação. A palidez (anemias, insuficiência arterial) vê-se nos leitos ungueais, nos lábios e nas mucosas palpebrais; a icterícia (por exemplo, na hepatite), na região palmar, na face e na esclerótica. No teste de circulação capilar, pressiona-se a unha: a cor rosada deve voltar logo ao soltar; se não voltar, há insuficiência circulatória.\n\n**Sinais vitais** (Quadro 4.18), valores do adulto:\n\n| Sinal | Referência no livro |\n|---|---|\n| Pressão arterial | ótima abaixo de 120 × 80 mmHg; normal abaixo de 130 × 85; abaixo de 100 × 60, hipotenso |\n| Pulso | 60 a 90 ciclos/min em repouso; palpar a artéria radial com três dedos, sem o polegar, nos dois lados |\n| Respiração | 8 a 16 ciclos/min |\n| Temperatura axilar | 36 a 37,8 °C |\n| IMC (peso em kg ÷ altura em m, ao quadrado) | de 20 a 25, faixa normal |\n\nA hipertensão não se diagnostica com uma leitura: se a primeira estiver alta, a aferição é repetida em seguida e em outros dias. O paciente deve estar em repouso de 5 minutos antes da aferição."
+    },
+    {
+      "id": "extrabucal",
+      "titulo": "Exame extrabucal: fácies, músculos, ATM e seios paranasais",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Fácies, p. 45–46; Seios paranasais, p. 46–47; Músculos mastigatórios e faciais, p. 46–47; Articulação temporomandibular, p. 47",
+      "texto": "O exame **locorregional extraoral** examina a cabeça e a região cervical.\n\n**Fácies** é o aspecto geral do rosto, que pode sugerir doenças. Três exemplos do livro: **síndrome de Cushing**, com “face em lua cheia”, hirsutismo e acne; **síndrome de Down**, com fissuras orbitais oblíquas, ponte nasal deprimida e língua protrusa; **acromegalia**, com face alongada, mandíbula proeminente e macroglossia.\n\n**Músculos mastigatórios e faciais.** Palpe os dois lados e compare. O masseter se palpa por compressão digital ou bidigital; sensibilidade aumentada pode indicar bruxismo ou outras parafunções. Nesse caso, palpe também os temporais (região parietal do crânio), a ATM e, por dentro da boca, os pterigóideos laterais (atrás e um pouco acima das tuberosidades da maxila).\n\n**Articulação temporomandibular (ATM).** Examine todo paciente quanto a assimetria facial e a limitação ou desvio na abertura e no fechamento. Manobra:\n- palpação suave e bilateral, com indicador e médio à frente do trago e com o dedo mínimo logo atrás do trago, por dentro da concha da orelha, com a boca fechada e na abertura máxima;\n- pedir que abra e feche a boca várias vezes, para perceber **crepitação, clique ou estalo**;\n- medir a abertura máxima com paquímetro, auscultar com estetoscópio e observar desvios laterais ao abrir. Sons no estetoscópio sugerem, mas não garantem anormalidade.\n\nO côndilo normalmente gira e avança ao abrir a boca; se não avança, algo impede a translação. **Dor à palpação ou edema** indicam inflamação. Junto com desvio lateral, limitação da abertura, dor ao mastigar, travamento, otalgia, estalido (som seco e descontínuo), crepitação (som contínuo, como papel-celofane amassado) ou mialgia, sugerem **disfunção temporomandibular (DTM)**. O questionário de triagem do Quadro 4.24 ajuda, mas não deve ser o único recurso.\n\n**Seios paranasais.** Só os maxilares e os frontais são acessíveis. Algumas dores sinusais podem ser confundidas com odontalgia. Pressione com os dois polegares a região das sobrancelhas (frontais, sem comprimir os olhos) e abaixo das proeminências dos zigomáticos (maxilares), dos dois lados, e pergunte se há diferença de sensibilidade."
+    },
+    {
+      "id": "glandulas",
+      "titulo": "Glândulas salivares maiores",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49",
+      "texto": "As glândulas salivares maiores são as **parótidas** e as **submandibulares** (bilaterais) e as **sublinguais**. O diagnóstico depende da queixa principal, da HDA e do exame da glândula e do **efluente**, a saliva que sai pelo ducto.\n\n**Anamnese.** Se há dor: quando começou, quanto durou e **se tem relação com a mastigação** (o fluxo salivar aumenta ao mastigar). Pergunte também sobre aumento de volume, febre ou calafrios, mudança na quantidade ou na qualidade da saliva e **paralisia facial**, quando a parótida está envolvida: o nervo facial passa pela glândula, e a paralisia pode ser o primeiro sinal de neoplasia maligna que o infiltra. Em tumor benigno, é muito rara.\n\n**Parótida.** Fica na face lateral do ramo da mandíbula, na região pré-auricular, e contorna a borda posterior. Em geral, pressionada contra o ramo, tem consistência macia e volume discreto; a borda anterior se define melhor quando o paciente cerra os dentes. A saliva sai pela **carúncula parotídea**, uma papila na bochecha à frente do primeiro ou do segundo molar superior. Seque a mucosa com gaze, palpe e observe a saliva sair: a normal é clara, de baixa viscosidade e incolor. Atenção a pus, muco mais viscoso ou partículas.\n\n**Submandibulares.** Ficam na borda inferior do corpo da mandíbula. Palpam-se pela pele e por dentro da boca, pelo assoalho ou, melhor ainda, de forma **bidigital**, ou com os dedos de uma mão no assoalho e os da outra na pele. Normalmente são flácidas e móveis; não devem estar mais fibrosas. O ducto desemboca ao lado do frênulo lingual, na carúncula sublingual. São as glândulas mais associadas a **cálculos** (sialolitíase), porque a secreção é mais mucoide e o ducto tem curvatura. O cálculo obstrui o ducto, com inchaço e dor rápidos, seguidos de inflamação e infecção (sialoadenite). A estase no ducto provoca retenção salivar, conhecida como **rânula**.\n\n**Sublinguais.** Ficam logo abaixo da mucosa do assoalho; normais, quase não se palpam. A palpação é intra ou extraoral, bidigital ou digitopalmar.\n\n**Nódulo ou tumoração** na glândula, descartados inflamação e retenção de muco, deve ser biopsiado, de forma aberta ou por punção aspirativa com agulha fina. Entre os cistos e neoplasias glandulares, o livro dá 25% malignos e 75% benignos."
+    },
+    {
+      "id": "linfonodos",
+      "titulo": "Palpação de linfonodos da cabeça e do pescoço",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Cadeias linfonodais craniocervicais, p. 49; Quadro 4.25 e Quadro 4.26, p. 49–50",
+      "texto": "**Técnica geral.** Palpe com os dedos indicador e médio, com o paciente sentado, de preferência com o examinador **atrás** dele, e examine os **dois lados** (as cadeias são pares). O livro lista muitas cadeias (submentuais, submandibulares, parotídeas, linguais, tonsilar, cervicais, jugulodigástrica, pré-auriculares, mastóideas, occipitais, entre outras). O Quadro 4.25 detalha as mais palpadas.\n\n**Manobras por cadeia:**\n- **submentuais:** examinador atrás do paciente; uma mão o empurra gentilmente para frente, sem sair do plano sagital (para não reduzir a tensão do platisma); a outra palpa, levando os linfonodos de encontro à face interna da mandíbula;\n- **submandibulares:** inclinar a cabeça do paciente para o lado a ser palpado, para relaxar a musculatura; tracionar os dedos do plano sagital para a face medial da parte posterior do corpo e do ângulo da mandíbula, deslocando-os para a frente;\n- **cervicais anteriores profundos:** dedos por trás e sobre o esternocleidomastóideo, da apófise mastoide até a região supraclavicular. Se houver dúvida sobre a existência de um linfonodo supraclavicular anterior profundo alterado, pedir que o paciente tussa;\n- **occipitais:** deslizar os dedos do occipício à nuca;\n- **pré-auriculares e mastóideos:** palpar à frente e atrás da orelha externa.\n\n**O que se descreve.** Gânglios normais não são palpáveis: descreve-se o que se palpa. Escreve-se primeiro o nome da cadeia e o lado (se bilateral). Os achados não são interpretados na hora; a interpretação fica para a construção das hipóteses. Ipsilateral (ou homolateral) é o mesmo lado da lesão; contralateral, o outro.\n\n**Inflamatório ou neoplásico?** O livro busca classicamente separar os dois (Quadro 4.26):\n\n| Característica | Inflamatório | Neoplásico maligno (primário ou metastático) |\n|---|---|---|\n| Aumento de volume | presente e limitado | presente e ilimitado |\n| Superfície | lisa | bosselada (com protuberâncias) |\n| Infiltração | não | sim |\n| Mobilidade | sim | não |\n| Sensibilidade à palpação | sim | não (no início pode estar sensível) |\n| Hipertermia | sim, mais frequente na fase aguda | não (“nódulo frio”) |\n| Consistência | borrachoide ou fibrosa | pétrea ou dura |"
+    },
+    {
+      "id": "intrabucal",
+      "titulo": "Exame intrabucal: sequência e achados do exame",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Exame físico locorregional intraoral, p. 49–50; Mucosas dos palatos, p. 50–51",
+      "texto": "O exame **intrabucal** cobre a cavidade oral e a orofaringe. O paciente fica sentado na cadeira, que se inclina em várias posições, e a linha de visão do profissional fica no nível da boca. Examinam-se todos os tecidos, não só dentes e periodonto: a boca é de acesso fácil, e, para o livro, o dentista terá a chance de diagnosticar cedo, em certos casos, algo que poderá salvar a vida do paciente.\n\n**Sequência dos subtítulos do livro:** lábios e vestíbulo; assoalho oral e face medial da mandíbula; língua; mucosas das bochechas; rebordos alveolares; mucosas dos palatos; regiões retropalatinas e orofaríngeas.\n\n**Achados que o livro descreve na mucosa:**\n- gengiva acastanhada pela melanina em pacientes de etnia negra, sem anormalidade;\n- papilas fungiformes, foliáceas e valadas do dorso da língua, que o paciente costuma achar que são doença;\n- varicosidades no ventre e nas bordas da língua, comuns de meia-idade em diante;\n- **carúncula parotídea**, à frente dos primeiros e segundos molares: comparar os dois lados mostra simetria e afasta doença;\n- **linha alba**: reticulado esbranquiçado plano ou levemente papular, na altura da oclusão, da comissura labial ao ligamento pterigomandibular, por hiperqueratose e traumatismo; pode se intensificar por traumatismo excessivo na mastigação ou por hábito parafuncional;\n- **grânulos de Fordyce**: pápulas amareladas, sobretudo no terço posterior da bochecha (glândulas sebáceas ectópicas);\n- úvula bífida ou ausente; tonsilas de adulto que pouco passam dos pilares tonsilares, mais visíveis em crianças.\n\n**O que a palpação mostra e a inspeção não:**\n- no assoalho, estruturas calcificadas (sialólitos); protuberâncias laterais na face medial da mandíbula, com mucosa normal, podem ser **toros mandibulares**;\n- no palato duro, podem-se sentir crepitação, depressão e choque de retorno, o que demonstra osteólise de causas variáveis; nódulo recoberto de mucosa normal pode simular **toro palatino**, um desvio de desenvolvimento sem significado patológico;\n- a expansão dos rebordos alveolares pode revelar aumento de volume dos ossos gnáticos.\n\nEm tabagistas, as glândulas menores do palato duro podem apresentar pontos vermelhos ou pápulas brancas com centro vermelho, o que evidencia a mucosite da estomatite nicotínica."
+    },
+    {
+      "id": "roteiro",
+      "titulo": "Roteiro do exame físico por região",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Articulação temporomandibular, p. 47; Glândulas submandibulares, parotídeas e submentuais, p. 47–49; Cadeias linfonodais craniocervicais, p. 49; Exame físico locorregional intraoral, p. 49–51",
+      "texto": "O livro divide o exame em anamnese, exame físico geral, locorregional extraoral e locorregional intraoral. Nas estruturas pares, palpe os dois lados e compare.\n\n| Região | Manobra | O que observar |\n|---|---|---|\n| ATM | palpação bilateral à frente do trago, boca fechada e aberta; abrir e fechar várias vezes; medir a abertura com paquímetro | crepitação, clique ou estalo; desvio lateral; limitação; dor; edema; assimetria |\n| Músculos mastigatórios | palpação bilateral; masseter por compressão digital ou bidigital | sensibilidade aumentada (bruxismo, parafunções) |\n| Parótida | palpar contra o ramo da mandíbula; secar a carúncula e observar a saliva | consistência e volume; saliva clara ou com pus, muco viscoso ou partículas |\n| Submandibulares | pela pele e pelo assoalho; bidigital, ou com uma mão no assoalho e outra na pele | flácidas e móveis, ou mais fibrosas; cálculo; fluxo salivar |\n| Linfonodos | indicador e médio, examinador atrás do paciente sentado; cadeia por cadeia, dos dois lados | aumento de volume, superfície, mobilidade, consistência, sensibilidade, temperatura |\n| Lábios e vestíbulo | boca fechada, depois entreaberta; everter os lábios; inspeção e palpação bidigital | simetria, cor, textura, consistência; frênulos, bridas laterais, fundos de sulco |\n| Assoalho oral | língua elevada; indicador de cada lado, do frênulo até a região mais posterior; palpação digitopalmar | cor, consistência, sensibilidade; carúnculas e ductos; sialólitos; toros |\n| Língua | em repouso, elevada e tracionada para os lados, apreendida com gaze; ventre, ápice, bordas e dorso | lesões; frênulo e pregas sublinguais; papilas; terços posteriores |\n| Mucosas das bochechas | inspeção, palpação bidigital e digitopalmar, tração para anterolateral; secar a carúncula parotídea | carúncula e retorno da saliva; linha alba; grânulos de Fordyce |\n| Rebordos alveolares | afastar as bochechas, com o paciente em oclusão; inspeção e palpação | expansão que sugere aumento dos ossos gnáticos |\n| Palatos | inspeção e palpação; pedir o “A” prolongado para ver o limite entre palato duro e mole | consistência, superfície, cor e mobilidade; crepitação, depressão, choque de retorno; toro |\n| Orofaringe | abaixar a língua, se necessário | fauces, úvula, pilares tonsilares, região tonsilar |"
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual a diferença entre sinal e sintoma?",
+      "verso": "**Sinal:** dado percebido objetivamente pelo profissional no exame físico (ou por exame complementar). **Sintoma:** o que o paciente sente e relata na anamnese, como dor ou parestesia.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Conceitos semiológicos, p. 29"
+    },
+    {
+      "id": "f02",
+      "frente": "Como se divide o exame clínico?",
+      "verso": "Fase **subjetiva** (anamnese: o paciente relata) e fase **objetiva** (exame físico: o profissional descreve sinais e pesquisa sintomas provocados por manobras). O exame físico é geral, locorregional extraoral e intraoral.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Divisão do exame clínico, p. 30"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que começar pela anamnese e não pelo exame físico?",
+      "verso": "O paciente quer ser ouvido, o profissional conhece a visão dele, evita antecipar o diagnóstico diferencial e não desvia a espontaneidade do relato para confirmar uma impressão já formada.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Anamnese ou exame subjetivo, p. 30"
+    },
+    {
+      "id": "f04",
+      "frente": "O que é a queixa principal e como se anota?",
+      "verso": "É o **motivo pelo qual o paciente procurou o profissional**. Anotação sucinta, no máximo com a duração (“bolinha na gengiva há 4 meses”). Se fica longa, é história da doença atual.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Queixa principal ou estímulo iatrotrópico, p. 35"
+    },
+    {
+      "id": "f05",
+      "frente": "Qual a sequência da história da doença atual?",
+      "verso": "Primeiros sinais e sintomas; caracterização (percepção, periodicidade, frequência, o que alivia e agrava); evolução; exames complementares e resultados; tratamentos feitos; estado atual.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, História da doença atual, Quadro 4.9, p. 35–36"
+    },
+    {
+      "id": "f06",
+      "frente": "O que é pergunta direcionada e por que evitá-la?",
+      "verso": "É a que traz a resposta embutida (“Deve ranger os dentes, não é verdade?”). Em geral deve ser evitada, porque pode induzir a resposta.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Tipos de pergunta, p. 34"
+    },
+    {
+      "id": "f07",
+      "frente": "Quando usar pergunta aberta e quando usar fechada?",
+      "verso": "**Aberta:** deixa o paciente discorrer; serve ao ansioso e perde utilidade com o reticente. **Fechada:** resposta curta e objetiva; contorna a verborragia.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Tipos de pergunta, p. 34"
+    },
+    {
+      "id": "f08",
+      "frente": "Qual a única parte do exame clínico que o pessoal auxiliar pode fazer?",
+      "verso": "A **identificação sumária** (nome, idade, profissão, procedência, contato, quem encaminhou). O profissional a lê antes de começar para chamar o paciente pelo nome.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Identificação do paciente, p. 34–35"
+    },
+    {
+      "id": "f09",
+      "frente": "Qual a sequência do “método saca-rolhas” na história médica pregressa?",
+      "verso": "Doenças que já teve; se procurou médico e por quê; hospitalização e cirurgia (o texto e o Quadro 4.13 do livro trazem as duas em ordem inversa); por fim, revisão dos órgãos e sistemas.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, História médica pregressa, p. 38; Quadro 4.13, p. 39"
+    },
+    {
+      "id": "f10",
+      "frente": "O que a diascopia mostra?",
+      "verso": "Comprime-se a área com lâmina e observa-se ao soltar. Origem sanguínea: empalidece o conteúdo dentro do vaso, não o extravasado. Pigmento: a cor não esmaece.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Inspeção, p. 39"
+    },
+    {
+      "id": "f11",
+      "frente": "Como se diferenciam palpação direta e indireta, e o que é percussão indireta?",
+      "verso": "Palpação **direta:** bimanual, bidigital ou digitopalmar. **Indireta:** com explorador ou sonda periodontal. Percussão **indireta:** golpes com instrumento, como o cabo do espelho.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Palpação e Percussão, p. 40"
+    },
+    {
+      "id": "f12",
+      "frente": "Quais as características de um linfonodo inflamatório?",
+      "verso": "Aumento presente e limitado, superfície lisa, sem infiltração, móvel, sensível, com hipertermia (mais na fase aguda), consistência borrachoide ou fibrosa.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Quadro 4.26, p. 49–50"
+    },
+    {
+      "id": "f13",
+      "frente": "Quais as características de um linfonodo neoplásico maligno?",
+      "verso": "Aumento presente e ilimitado, superfície bosselada, com infiltração, imóvel, sem sensibilidade à palpação (no início pode estar sensível), sem hipertermia, consistência pétrea ou dura.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Quadro 4.26, p. 49–50"
+    },
+    {
+      "id": "f14",
+      "frente": "Como se palpam os linfonodos submandibulares?",
+      "verso": "Inclina-se a cabeça do paciente para o lado a ser palpado; os dedos tracionam do plano sagital para a face medial da parte posterior do corpo e do ângulo da mandíbula, deslocando-se para a frente.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Cadeias linfonodais craniocervicais, Quadro 4.25, p. 49"
+    },
+    {
+      "id": "f15",
+      "frente": "Como se palpa a ATM?",
+      "verso": "Palpação suave e bilateral com indicador e médio à frente do trago (e dedo mínimo atrás do trago, na concha), com a boca fechada e na abertura máxima, pedindo que abra e feche repetidamente.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Articulação temporomandibular, p. 47"
+    },
+    {
+      "id": "f16",
+      "frente": "O que se faz com a carúncula parotídea no exame?",
+      "verso": "Localiza-se à frente do primeiro ou segundo molar superior; seca-se com gaze ou ar e observa-se o retorno da saliva (normal: clara, pouco viscosa). Comparar os lados mostra simetria.",
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49; Mucosas das bochechas, p. 49–50"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na anamnese de um paciente com dor, o estudante pergunta: “Pelo jeito como você descreve a dor, imagino que ranja os dentes à noite, não é?”. Como o livro classifica essa pergunta e o que orienta?",
+      "alternativas": [
+        {
+          "texto": "Aberta; é a melhor opção para o paciente reticente",
+          "correta": false,
+          "justificativa": "A pergunta aberta deixa o paciente discorrer livremente e perde utilidade com o reticente; a pergunta do enunciado já traz a resposta embutida.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Tipos de pergunta, p. 34"
+        },
+        {
+          "texto": "Fechada; é a mais indicada para o paciente que fala demais",
+          "correta": false,
+          "justificativa": "A fechada tem resposta curta e específica, como “Há quanto tempo você apresenta esse problema?”; a do enunciado embute a resposta, que é o traço da direcionada.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Tipos de pergunta, p. 34"
+        },
+        {
+          "texto": "Direcionada, porque embute a resposta; em geral deve ser evitada, pois pode induzir",
+          "correta": true,
+          "justificativa": "A pergunta já traz a resposta embutida no conteúdo, que é o que define a direcionada; o livro diz que, em geral, deve ser evitada, porque pode levar à indução.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Tipos de pergunta, p. 34"
+        },
+        {
+          "texto": "Indireta; serve para esclarecer um problema que não está no enunciado",
+          "correta": false,
+          "justificativa": "A indireta esclarece outro problema, como perguntar se a gengiva sangra para saber se o paciente segue a higiene orientada; a do enunciado sugere a própria resposta.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Tipos de pergunta, p. 34"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Tipos de pergunta, p. 34",
+      "secao": "conduzir",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Ao contar a história da doença atual, o paciente começa descrevendo como a lesão está hoje. Qual é a orientação do livro?",
+      "alternativas": [
+        {
+          "texto": "Levá-lo, com sutileza, a relatar os fatos em ordem cronológica, a partir dos primeiros sinais e sintomas",
+          "correta": true,
+          "justificativa": "A HDA é uma narrativa cronológica, clara e detalhada; o paciente deve ser levado sutilmente a relatar em ordem, apesar da tendência de começar pelo estado atual.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História da doença atual, p. 35"
+        },
+        {
+          "texto": "Aceitar o relato começando pelo estado atual, que é o primeiro item da sequência",
+          "correta": false,
+          "justificativa": "O estado atual é o último item da sequência da HDA (Quadro 4.9), não o primeiro.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História da doença atual, Quadro 4.9, p. 35–36"
+        },
+        {
+          "texto": "Pedir que resuma o problema em uma frase e passar ao exame físico",
+          "correta": false,
+          "justificativa": "A HDA deve ser uma narrativa cronológica, clara e bem detalhada, e não uma frase; a anotação sucinta é a da queixa principal.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História da doença atual, p. 35"
+        },
+        {
+          "texto": "Sugerir a provável causa para que o paciente confirme",
+          "correta": false,
+          "justificativa": "O livro pede perguntas não tendenciosas, que não sugiram a resposta; o Quadro 4.10 pede que se pergunte o que o paciente acha que causou o problema.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História da doença atual, p. 35–37"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, História da doença atual, p. 35–37",
+      "secao": "hda",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Em uma clínica, a recepcionista preencheu a ficha do paciente antes da consulta. Segundo o livro, qual é a única parte do exame clínico que o pessoal auxiliar pode fazer?",
+      "alternativas": [
+        {
+          "texto": "A queixa principal",
+          "correta": false,
+          "justificativa": "O livro diz que a identificação sumária é a única parte que o pessoal auxiliar pode fazer; a queixa principal fica com o profissional.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Identificação do paciente, p. 34"
+        },
+        {
+          "texto": "A história médica pregressa",
+          "correta": false,
+          "justificativa": "Só a identificação sumária pode ser feita pelo pessoal auxiliar; a história médica é obtida pelo profissional, com persistência e sequência própria.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Identificação do paciente, p. 34"
+        },
+        {
+          "texto": "A história da doença atual",
+          "correta": false,
+          "justificativa": "Só a identificação sumária pode ser feita pelo pessoal auxiliar; a HDA é uma narrativa conduzida pelo profissional.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Identificação do paciente, p. 34"
+        },
+        {
+          "texto": "A identificação sumária",
+          "correta": true,
+          "justificativa": "É a única parte do exame que o pessoal auxiliar pode fazer; o profissional a lê antes para chamar o paciente pelo nome.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Identificação do paciente, p. 34–35"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Identificação do paciente, p. 34–35",
+      "secao": "identificacao-queixa",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um paciente responde “não tenho nenhuma doença” à primeira pergunta sobre a história médica. Para obtê-la pelo “método saca-rolhas” do livro, qual é a sequência de perguntas?",
+      "alternativas": [
+        {
+          "texto": "Hospitalizações, cirurgias, doenças que já teve e, por último, revisão dos sistemas",
+          "correta": false,
+          "justificativa": "No método do livro, a sequência começa pelas doenças que o paciente já teve, e não pelas hospitalizações.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História médica pregressa, p. 38"
+        },
+        {
+          "texto": "Doenças que já teve; se procurou médico e por quê; hospitalização e cirurgia; revisão dos sistemas",
+          "correta": true,
+          "justificativa": "É a sequência do método saca-rolhas descrita no livro: parte das doenças que já teve e termina na revisão dos sistemas (a ordem entre hospitalização e cirurgia difere entre o texto e o Quadro 4.13).",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História médica pregressa, p. 38; Quadro 4.13, p. 39"
+        },
+        {
+          "texto": "Revisão dos sistemas, doenças que já teve, cirurgias e hospitalizações",
+          "correta": false,
+          "justificativa": "A revisão dos órgãos e sistemas vem por último no método, e não no início.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História médica pregressa, p. 38"
+        },
+        {
+          "texto": "Cirurgias, hospitalizações, se procurou médico, doenças que já teve e revisão dos sistemas",
+          "correta": false,
+          "justificativa": "O método começa pelas doenças que já teve e passa a se procurou médico e por quê; esta alternativa começa pelas cirurgias.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, História médica pregressa, p. 38"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, História médica pregressa, p. 38",
+      "secao": "historia-medica",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "O dentista comprime com uma lâmina de microscopia uma mancha avermelhada da mucosa e, ao soltar, observa que ela empalideceu. O que isso indica, segundo o livro?",
+      "alternativas": [
+        {
+          "texto": "É pigmento, pois a coloração esmaece com a compressão",
+          "correta": false,
+          "justificativa": "No pigmento, a coloração não se esmaece com a diascopia.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Inspeção, p. 39"
+        },
+        {
+          "texto": "A diascopia não distingue origem sanguínea de pigmento",
+          "correta": false,
+          "justificativa": "O livro descreve a diascopia justamente como a manobra em que a origem sanguínea empalidece e o pigmento não esmaece.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Inspeção, p. 39"
+        },
+        {
+          "texto": "Origem sanguínea, com o conteúdo dentro do vaso, que empalidece à compressão",
+          "correta": true,
+          "justificativa": "Se a origem é hemática, a compressão empalidece o conteúdo intravascular, mas não o extravascular.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Inspeção, p. 39"
+        },
+        {
+          "texto": "Origem sanguínea, com o sangue já extravasado, que empalidece à compressão",
+          "correta": false,
+          "justificativa": "A compressão empalidece o conteúdo dentro do vaso, mas não o que extravasou.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Inspeção, p. 39"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Inspeção, p. 39",
+      "secao": "recursos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Para avaliar a sensibilidade de um dente, o dentista golpeia levemente com o cabo do espelho e compara com um dente semelhante. Qual recurso semiotécnico é esse?",
+      "alternativas": [
+        {
+          "texto": "Percussão indireta",
+          "correta": true,
+          "justificativa": "A percussão é feita com golpes diretos com os dedos ou indiretos com instrumentos, como o cabo do espelho, comparando a sensibilidade com a de outro local semelhante.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Percussão, p. 40"
+        },
+        {
+          "texto": "Palpação indireta",
+          "correta": false,
+          "justificativa": "A palpação indireta usa explorador ou sonda periodontal; o cabo do espelho aparece no livro como instrumento da percussão indireta.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Palpação, p. 40"
+        },
+        {
+          "texto": "Auscultação",
+          "correta": false,
+          "justificativa": "A auscultação detecta sons do organismo, com a audição ou com instrumentos que os amplifiquem, como o estetoscópio.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Auscultação, p. 40"
+        },
+        {
+          "texto": "Inspeção indireta",
+          "correta": false,
+          "justificativa": "A inspeção indireta usa microscópio, lupas ou espelho; o golpe com o cabo do espelho é descrito na percussão.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Inspeção, p. 39"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Percussão, p. 40",
+      "secao": "recursos",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "À palpação da região submandibular, o dentista encontra um linfonodo de superfície lisa, móvel, de consistência borrachoide, doloroso e com calor local. Qual quadro essas características sugerem, segundo o livro?",
+      "alternativas": [
+        {
+          "texto": "Linfadenomegalia neoplásica maligna, porque há aumento de volume",
+          "correta": false,
+          "justificativa": "O aumento de volume está presente nos dois tipos; o neoplásico tem superfície bosselada, é imóvel, de consistência pétrea ou dura e sem hipertermia.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.26, p. 49–50"
+        },
+        {
+          "texto": "Linfonodo normal, pois os gânglios saudáveis são palpáveis",
+          "correta": false,
+          "justificativa": "O livro diz que os gânglios normais não são palpáveis; os palpáveis são os alterados.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Cadeias linfonodais craniocervicais, p. 49"
+        },
+        {
+          "texto": "Não se pode diferenciar pela palpação",
+          "correta": false,
+          "justificativa": "O Quadro 4.26 traz justamente os descritores clínicos para separar a linfadenomegalia inflamatória da neoplásica maligna.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.26, p. 49–50"
+        },
+        {
+          "texto": "Linfadenomegalia inflamatória",
+          "correta": true,
+          "justificativa": "Aumento limitado, superfície lisa, mobilidade, sensibilidade, hipertermia e consistência borrachoide ou fibrosa descrevem o linfonodo inflamatório.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.26, p. 49–50"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Quadro 4.26, p. 49–50",
+      "secao": "linfonodos",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Para palpar os linfonodos submandibulares do lado direito, qual manobra o livro descreve?",
+      "alternativas": [
+        {
+          "texto": "Inclinar a cabeça do paciente para o lado direito e tracionar os dedos do plano sagital para a face medial da parte posterior da mandíbula, avançando para a frente",
+          "correta": true,
+          "justificativa": "A cabeça é inclinada para o lado a ser palpado, para relaxar a musculatura, e os dedos vão do plano sagital à face medial da região posterior do corpo e do ângulo mandibular.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.25, p. 49"
+        },
+        {
+          "texto": "Empurrar o paciente para frente, sem desviar do plano sagital, e comprimir contra a face interna da mandíbula",
+          "correta": false,
+          "justificativa": "Essa é a manobra dos linfonodos submentuais, não dos submandibulares.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.25, p. 49"
+        },
+        {
+          "texto": "Deslizar os dedos do occipício até a nuca",
+          "correta": false,
+          "justificativa": "Essa é a manobra das cadeias occipitais.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.25, p. 49–50"
+        },
+        {
+          "texto": "Pedir que o paciente tussa e palpar a região supraclavicular",
+          "correta": false,
+          "justificativa": "O livro indica a tosse na dúvida sobre um linfonodo supraclavicular anterior profundo; a manobra dos submandibulares é a da alternativa correta.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Quadro 4.25, p. 49–50"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Quadro 4.25, p. 49",
+      "secao": "linfonodos",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente relata inchaço e dor rápidos em uma glândula salivar. O dentista suspeita de cálculo (sialolitíase). Qual glândula maior é a mais associada a essa condição, e por quê?",
+      "alternativas": [
+        {
+          "texto": "Parótida, porque sua saliva é mais mucoide",
+          "correta": false,
+          "justificativa": "A saliva mais mucoide é a da submandibular; a saliva parotídea normal é clara, de baixa viscosidade e incolor.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49"
+        },
+        {
+          "texto": "Sublingual, porque está logo abaixo da mucosa do assoalho",
+          "correta": false,
+          "justificativa": "O livro diz que os cálculos são mais comuns nas submandibulares e raramente ocorrem na sublingual.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49"
+        },
+        {
+          "texto": "Submandibular, porque a secreção é mais mucoide e o ducto tem curvatura",
+          "correta": true,
+          "justificativa": "O livro associa as submandibulares aos cálculos pela secreção mais mucoide e pela curvatura do ducto.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49"
+        },
+        {
+          "texto": "Parótida, porque o nervo facial passa por ela",
+          "correta": false,
+          "justificativa": "O livro cita a passagem do nervo facial pela parótida ao tratar da paralisia facial, que pode ser o primeiro sinal de neoplasia maligna; para os cálculos, aponta a submandibular, pela secreção mais mucoide e pelo ducto curvo.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Glândulas submandibulares, parotídeas e submentuais, p. 47–49",
+      "secao": "glandulas",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Na mucosa das bochechas, dos dois lados, o dentista vê um reticulado esbranquiçado plano, na altura em que os dentes se tocam, indo da comissura labial ao ligamento pterigomandibular. Como o livro chama esse achado?",
+      "alternativas": [
+        {
+          "texto": "Grânulos de Fordyce",
+          "correta": false,
+          "justificativa": "Os grânulos de Fordyce são pápulas amareladas, sobretudo no terço posterior; o achado do enunciado é um reticulado esbranquiçado plano.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Mucosas das bochechas, p. 49–50"
+        },
+        {
+          "texto": "Linha alba",
+          "correta": true,
+          "justificativa": "É o reticulado esbranquiçado plano ou levemente papular, por hiperqueratose e traumatismo, na correspondência dos dentes em oclusão, da comissura ao ligamento pterigomandibular.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Mucosas das bochechas, p. 49–50"
+        },
+        {
+          "texto": "Estomatite nicotínica",
+          "correta": false,
+          "justificativa": "A estomatite nicotínica é descrita no palato duro de tabagistas, com pontos vermelhos ou pápulas brancas de centro vermelho.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Mucosas dos palatos, p. 50–51"
+        },
+        {
+          "texto": "Carúncula parotídea",
+          "correta": false,
+          "justificativa": "A carúncula parotídea é uma papila à frente do primeiro ou segundo molar superior, de onde sai a saliva da parótida.",
+          "fonte": "marcucci3-cap4",
+          "onde": "cap. 4, Mucosas das bochechas, p. 49–50"
+        }
+      ],
+      "fonte": "marcucci3-cap4",
+      "onde": "cap. 4, Mucosas das bochechas, p. 49–50",
+      "secao": "intrabucal",
+      "figura": null
+    }
+  ]
+}

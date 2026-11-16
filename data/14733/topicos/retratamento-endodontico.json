@@ -244,6 +244,7 @@
       ],
       "fonte": "cohen12-cap10",
       "onde": "p. 338",
+      "secao": "causas",
       "figura": null
     },
     {
@@ -281,6 +282,7 @@
       ],
       "fonte": "cohen12-cap10",
       "onde": "p. 346–347",
+      "secao": "retratar-ou-operar",
       "figura": null
     },
     {
@@ -318,6 +320,7 @@
       ],
       "fonte": "cohen12-cap10",
       "onde": "p. 346–347",
+      "secao": "retratar-ou-operar",
       "figura": null
     },
     {
@@ -355,6 +358,7 @@
       ],
       "fonte": "cohen12-cap10",
       "onde": "p. 347",
+      "secao": "retratar-ou-operar",
       "figura": null
     },
     {
@@ -392,6 +396,7 @@
       ],
       "fonte": "cohen12-cap10",
       "onde": "p. 390",
+      "secao": "remocao",
       "figura": null
     },
     {
@@ -429,6 +434,7 @@
       ],
       "fonte": "cohen12-cap11",
       "onde": "p. 430–433",
+      "secao": "cirurgia",
       "figura": null
     },
     {
@@ -466,6 +472,7 @@
       ],
       "fonte": "cohen12-cap11",
       "onde": "p. 438",
+      "secao": "cirurgia",
       "figura": null
     },
     {
@@ -503,6 +510,7 @@
       ],
       "fonte": "cohen12-cap11",
       "onde": "p. 405–406",
+      "secao": "indicacoes-cirurgia",
       "figura": null
     }
   ]

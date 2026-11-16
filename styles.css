@@ -188,6 +188,8 @@ a.cartao::after, .cartao > a::after { content: ""; position: absolute; right: 18
 #painel > * + * { margin-top: 16px; }
 
 /* resumo */
+.secao { position: relative; scroll-margin-top: calc(48px + env(safe-area-inset-top, 0px) + 8px); }
+.secao:focus { outline: none; }
 .secao h2 { margin-bottom: 8px; }
 .secao .fonte { color: var(--muted); font-size: 12px; margin-top: 8px; }
 .md > :first-child { margin-top: 0; }
@@ -248,7 +250,86 @@ a.cartao::after, .cartao > a::after { content: ""; position: absolute; right: 18
 .lista-erradas { padding-left: 1.2em; margin: 0; }
 .lista-erradas li + li { margin-top: 8px; }
 
+/* o que reler */
+.reler > h2 { margin: 0; }
+.reler > * + * { margin-top: 8px; }
+.reler > p { margin-bottom: 0; }
+.reler-lista { background: var(--surface); border-radius: 12px; overflow: hidden; }
+.reler-linha { position: relative; display: grid; gap: 8px; padding: 12px 16px; }
+.reler-linha + .reler-linha::before { content: ""; position: absolute; left: 16px; right: 0; top: 0; height: .5px; background: var(--separator); }
+.reler-info { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; min-width: 0; }
+.reler-nome { flex: 1 1 auto; min-width: 0; font-size: 17px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.reler-cont { flex: none; color: var(--muted); font-size: 15px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.reler-linha.certa .reler-nome { color: var(--muted); }
+.reler-btn { width: 100%; font-size: 17px; }
+.reler-btn.sec { background: var(--fill); }
+.reler-btn.sec:hover { background: var(--separator); }
+/* destino do atalho "Reler esta seção": barra de 3 px que some em ~2 s (com movimento reduzido, fica até a próxima troca de aba) */
+.secao[data-destino]::before { content: ""; position: absolute; left: -8px; top: 0; bottom: 0; width: 3px; border-radius: 2px; background: var(--accent); animation: sumir 400ms ease 1.6s forwards; }
+@keyframes sumir { to { opacity: 0; } }
+
+/* desempenho */
+.desempenho > h2 { margin: 0; }
+.desempenho > * + * { margin-top: 8px; }
+.desempenho > .desemp-lista { margin-top: 16px; }
+.desempenho > .privacidade { margin-top: 12px; margin-bottom: 0; }
+.desemp-cont, .desemp-prova { margin: 0; }
+.desemp-prova .selo { margin-top: 0; }
+.desemp-lista { background: var(--surface); border-radius: 12px; overflow: hidden; }
+.desemp-item { position: relative; }
+.desemp-item + .desemp-item::before { content: ""; position: absolute; left: 16px; right: 0; top: 0; height: .5px; background: var(--separator); }
+.desemp-linha { display: grid; gap: 8px; width: 100%; min-height: 48px; padding: 12px 16px; text-align: left; background: transparent; border: 0; border-radius: 0; cursor: pointer; transition: background-color var(--t); }
+.desemp-linha:active { background: var(--fill); }
+.desemp-linha:focus-visible { outline-offset: -2px; border-radius: 12px; }
+.desemp-cab { display: flex; align-items: center; gap: 12px; min-width: 0; }
+.desemp-titulo { flex: 1 1 auto; min-width: 0; font-size: 17px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.desemp-chev { flex: none; width: 8px; height: 8px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted); transform: rotate(45deg); margin: -3px 4px 0 0; transition: transform var(--t); }
+.desemp-linha[aria-expanded="true"] .desemp-chev { transform: rotate(-135deg); margin-top: 3px; }
+.faixa { display: grid; grid-template-columns: 76px minmax(0, 1fr) 48px; align-items: center; gap: 8px; min-width: 0; }
+.faixa-rot { color: var(--muted); font-size: 13px; }
+.faixa-num { color: var(--fg); font-size: 15px; font-weight: 600; text-align: right; font-variant-numeric: tabular-nums; }
+.barra { display: block; height: 8px; border-radius: 4px; background: var(--separator); overflow: hidden; }
+.barra-in { display: block; height: 100%; border-radius: 4px; }
+.barra-in.q { background: var(--accent); }
+.barra-in.f { background: var(--fg); }
+.desemp-evol { padding: 0 16px 8px; }
+.desemp-evol[hidden] { display: none; }
+.desemp-evol > * + * { margin-top: 8px; }
+.desemp-evol p { margin: 0; }
+.desemp-evol .btn.sec { margin-left: -20px; }
+.ev-svg { display: block; width: 100%; height: auto; }
+.ev-svg text { font-family: var(--body); font-variant-numeric: tabular-nums; }
+.ev-base, .ev-max { stroke: var(--separator); stroke-width: 1; }
+.ev-linha { fill: none; stroke: var(--accent); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
+.ev-svg .pt { fill: var(--accent); }
+.ev-svg .pt.ult { fill: var(--fg); }
+.ev-num { fill: var(--fg); font-size: 11px; font-weight: 600; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
+.desemp-item[hidden] { display: none; }
+.desempenho > .desemp-todos { margin-top: 4px; margin-left: -4px; padding: 0 16px; font-size: 15px; }
+.ev-eixo, .ev-data { fill: var(--muted); font-size: 10px; }
+
+/* revisão */
+.revisar > h2 { margin: 0; }
+.revisar > * + * { margin-top: 8px; }
+.revisar > p { margin-bottom: 0; }
+.revisar > .revisar-lista { margin-top: 16px; }
+.revisar > .btn { width: 100%; margin-top: 16px; }
+.revisar > .privacidade { margin-top: 12px; }
+.revisar-lista { background: var(--surface); border-radius: 12px; overflow: hidden; }
+.revisar-linha { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 48px; padding: 12px 16px; min-width: 0; }
+.revisar-linha + .revisar-linha::before { content: ""; position: absolute; left: 16px; right: 0; top: 0; height: .5px; background: var(--separator); }
+.revisar-nome { flex: 1 1 auto; min-width: 0; font-size: 17px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.revisar-qtd { flex: none; color: var(--muted); font-size: 15px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.rev-box > * + * { margin-top: 16px; }
+.rev-box > .reler { margin-top: 24px; }
+.rev-tema { color: var(--muted); font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; line-height: 1.3; overflow-wrap: anywhere; }
+.reler-quem { flex: 1 1 auto; min-width: 0; }
+.reler-quem .reler-nome { display: block; }
+.reler-tema { display: block; margin-top: 2px; color: var(--muted); font-size: 13px; line-height: 1.3; overflow-wrap: anywhere; }
+.resumo-final p { margin: 0; }
+
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; }
   .flash { animation: fade 150ms ease; }
+  .secao[data-destino]::before { animation: none; }
 }

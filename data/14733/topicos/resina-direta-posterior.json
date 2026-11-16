@@ -263,6 +263,7 @@
       ],
       "fonte": "baratieri-cap5",
       "onde": "p. 108, 111",
+      "secao": "sistemas-adesivos",
       "figura": null
     },
     {
@@ -300,6 +301,7 @@
       ],
       "fonte": "baratieri-cap5",
       "onde": "p. 106, 108",
+      "secao": "sistemas-adesivos",
       "figura": null
     },
     {
@@ -337,6 +339,7 @@
       ],
       "fonte": "baratieri-cap5",
       "onde": "p. 102",
+      "secao": "condicionamento",
       "figura": null
     },
     {
@@ -374,6 +377,7 @@
       ],
       "fonte": "baratieri-cap5",
       "onde": "p. 102",
+      "secao": "condicionamento",
       "figura": null
     },
     {
@@ -411,6 +415,7 @@
       ],
       "fonte": "baratieri-cap17-18",
       "onde": "p. 400",
+      "secao": "matriz-cunha-anel",
       "figura": null
     },
     {
@@ -448,6 +453,7 @@
       ],
       "fonte": "mondelli-cap20",
       "onde": "p. 211",
+      "secao": "preparo-mod",
       "figura": null
     },
     {
@@ -485,6 +491,7 @@
       ],
       "fonte": "baratieri-cap17-18",
       "onde": "p. 386",
+      "secao": "preparo-conservador",
       "figura": null
     },
     {
@@ -522,6 +529,7 @@
       ],
       "fonte": "baratieri-cap17-18",
       "onde": "p. 367–368",
+      "secao": "insercao-mondelli",
       "figura": null
     }
   ]

@@ -266,6 +266,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 5, p. 140",
+   "secao": "quando-endo",
    "figura": null
   },
   {
@@ -303,6 +304,7 @@
    ],
    "fonte": "shillingburg2012",
    "onde": "cap. 13, p. 214",
+   "secao": "pino",
    "figura": null
   },
   {
@@ -340,6 +342,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 5, p. 141–142",
+   "secao": "casos",
    "figura": null
   },
   {
@@ -377,6 +380,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 2, seção Forma de resistência",
+   "secao": "casos",
    "figura": null
   },
   {
@@ -414,6 +418,7 @@
    ],
    "fonte": "kuijper2026",
    "onde": "p. 9–10 (seções 3.1–3.3)",
+   "secao": "casos",
    "figura": null
   },
   {
@@ -451,6 +456,7 @@
    ],
    "fonte": "kuijper2023",
    "onde": "p. 303–304 (Tabelas 4 e 5)",
+   "secao": "dente-tratado",
    "figura": null
   },
   {
@@ -488,6 +494,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 5, p. 141",
+   "secao": "ferula",
    "figura": null
   },
   {
@@ -525,6 +532,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 35, seção Características do dente preparado",
+   "secao": "custo-coroa",
    "figura": null
   },
   {
@@ -562,6 +570,7 @@
    ],
    "fonte": "shillingburg2012",
    "onde": "cap. 13, p. 216–217",
+   "secao": "pino",
    "figura": null
   },
   {
@@ -599,6 +608,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 21, introdução; cap. 2, seção Forma de resistência",
+   "secao": "dente-tratado",
    "figura": null
   }
  ]

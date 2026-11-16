@@ -1,0 +1,524 @@
+{
+  "slug": "lesoes-traumaticas-e-reacionais",
+  "titulo": "Lesões reacionais: hiperplasia fibrosa inflamatória, granuloma piogênico, lesão periférica de células gigantes e fibroma ossificante periférico",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 12",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap12",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 12, Neoplasias de Tecidos Moles, p. 501–563.",
+      "curta": "Neville 5ª ed., cap. 12"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "reacional",
+      "titulo": "O que é uma lesão reacional e o que isso muda na conduta",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, introdução do capítulo; Hiperplasia fibrosa inflamatória, introdução e Tratamento e prognóstico, p. 504–506; Hiperplasia papilar inflamatória, introdução e Tratamento e prognóstico, p. 506–507; Granuloma piogênico, introdução, Características histopatológicas e Tratamento e prognóstico, p. 512–514; Lesão periférica de células gigantes, introdução, p. 514–515; Fibroma ossificante periférico, introdução e Tratamento e prognóstico, p. 515–517; Fibroma, introdução e Características clínicas, p. 501–503",
+      "texto": "O cap. 12 reúne dois grupos de lesões de tecido mole de origem mesenquimal: **proliferações reacionais semelhantes a tumores** e **neoplasias verdadeiras**. As reacionais são, nas palavras do livro, \"semelhantes a tumores\". Neste tema elas aparecem como aumento de volume, nódulo ou prega.\n\nO capítulo não define \"lesão reacional\": o conceito usado aqui reúne o que o livro diz de cada lesão. **Reacional** quer dizer que o tecido cresce em resposta a um estímulo, e não por ser uma neoplasia. Os estímulos que o livro cita para as lesões deste tema são **irritação local, trauma, prótese mal adaptada, má higiene e fatores hormonais**.\n\nAs lesões deste tema:\n- **ligadas à prótese:** hiperplasia fibrosa inflamatória e hiperplasia papilar inflamatória;\n- **crescimentos da gengiva:** granuloma piogênico, lesão periférica de células gigantes e fibroma ossificante periférico.\n\nUm cuidado: alguns granulomas piogênicos de padrão lobular (hemangioma capilar lobular) hoje são classificados entre os tumores vasculares (Boxe 12.2).\n\n**O que isso muda na conduta.** A lógica se repete na maioria:\n- **tirar a lesão e tirar a causa:** corrigir ou refazer a prótese; raspar os dentes vizinhos para remover a fonte de irritação. Se a causa fica, a recidiva é mais provável. Na hiperplasia papilar inflamatória inicial, tirar a prótese pode bastar, sem cirurgia;\n- **examinar o que foi removido:** o livro pede exame microscópico do tecido na hiperplasia fibrosa inflamatória, no granuloma piogênico e no fibroma ossificante periférico. Só no granuloma ele dá a razão: afastar lesões mais graves.\n\n**Epúlide** é termo genérico para qualquer aumento de volume da gengiva ou do rebordo alveolar. Aparece no nome de várias lesões deste tema (epúlide fissurada, epúlide de células gigantes, epúlide fibroide ossificante), mas sozinho não é diagnóstico.\n\n**Ponte com o fibroma:** o fibroma, que o livro chama de \"neoplasia\" mais comum da boca, também pode ser uma hiperplasia reacional a irritação ou trauma. Ele é estudado em outro tema. Fica aqui um elo: muitos fibromas da gengiva parecem ser granulomas piogênicos que amadureceram."
+    },
+    {
+      "id": "hfi",
+      "titulo": "Hiperplasia fibrosa inflamatória (epúlide fissurada)",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, introdução, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 504–506",
+      "texto": "**O que é:** hiperplasia de tecido conjuntivo fibroso, com aparência de neoplasia, que se forma junto às **bordas de uma prótese total ou parcial mal adaptada**. Outros nomes: epúlide fissurada, epúlide por dentadura.\n\n**Como aparece:**\n- uma ou várias **pregas** de tecido no **vestíbulo**; o mais comum são **duas pregas**, com a borda da prótese encaixada na fissura entre elas;\n- tecido em geral **firme e fibroso**; algumas lesões são vermelhas e ulceradas, parecidas com granuloma piogênico;\n- tamanho de menos de 1 cm até lesões que ocupam quase todo o vestíbulo;\n- às vezes a superfície tem áreas de hiperplasia papilar inflamatória.\n\n**Onde:** em geral na face **vestibular** do rebordo alveolar; às vezes na face lingual do rebordo inferior. Ocorre na maxila e na mandíbula; a região **anterior** é mais afetada que a posterior.\n\n**Em quem:** adultos de **meia-idade e idosos**, como se espera de uma lesão ligada à prótese. Forte predileção pelo **sexo feminino**: dois terços a três quartos dos casos biopsiados.\n\n**Histopatologia:** pregas de tecido conjuntivo fibroso hiperplásico com inflamação crônica; ulceração não é rara, sobretudo no fundo das fissuras. Raramente se forma osso ou cartilagem por irritação crônica, o que não deve ser confundido com sarcoma.\n\n**Pólipo fibroepitelial:** lesão parecida, menos comum, no **palato duro sob prótese superior**. Massa rosa e achatada, presa por um **pedículo estreito** (base fina), com bordas recortadas como uma folha. Assenta numa leve depressão do palato e se levanta fácil com a sonda exploradora.\n\n**Tratamento:** **remoção cirúrgica com exame microscópico** do tecido e **prótese refeita ou corrigida**, para evitar a recidiva. Vale também para o pólipo fibroepitelial."
+    },
+    {
+      "id": "hpi",
+      "titulo": "Hiperplasia papilar inflamatória (papilomatose por dentadura)",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 506–507",
+      "texto": "**O que é:** crescimento reacional que se forma em geral, mas nem sempre, **sob a dentadura**. Alguns autores o incluem no espectro da estomatite por dentadura. A causa exata não é conhecida; o livro associa a lesão a três fatores:\n- prótese removível **mal adaptada**;\n- **má higiene** da prótese;\n- uso da prótese **24 horas por dia**.\n\nCerca de **20%** de quem usa prótese removível 24 horas por dia tem a lesão. O papel da *Candida* foi sugerido, mas é incerto.\n\n**Como aparece:** mucosa **vermelha**, de superfície **\"pedregosa\" ou papilar** (coberta de pequenas projeções), em geral **sem sintomas**. Muitos casos vêm junto com estomatite por dentadura.\n\n**Onde:** **palato duro, sob a base da dentadura**. No início pode ocupar só a abóbada palatina; nos casos avançados, todo o palato. Menos vezes aparece no rebordo inferior desdentado ou sobre uma hiperplasia fibrosa inflamatória. Raramente ocorre em quem não usa prótese (respiradores bucais, palato alto) e, associada à *Candida*, em pacientes dentados com HIV.\n\n**Histopatologia:** projeções papilares recobertas por epitélio hiperplásico. Nos casos avançados o epitélio pode imitar um carcinoma (hiperplasia pseudoepiteliomatosa), e o patologista não deve confundir os dois.\n\n**Tratamento:**\n- **lesão inicial:** tirar a dentadura pode bastar para o vermelho e o edema regredirem, com o tecido voltando perto do normal; antifúngico tópico ou sistêmico também pode melhorar;\n- **lesão avançada ou colagenizada (fibrosa):** muitos clínicos excisam o tecido antes de fazer a prótese nova; o livro cita vários métodos cirúrgicos para essa remoção;\n- **depois da cirurgia:** reembasar a prótese antiga com condicionador tecidual temporário; após a cicatrização, orientar o paciente a **tirar a prótese à noite e mantê-la limpa**."
+    },
+    {
+      "id": "granuloma",
+      "titulo": "Granuloma piogênico, inclusive na gestação e no alvéolo de extração",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, introdução, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 512–514",
+      "texto": "**O que é:** crescimento nodular tradicionalmente tido como não neoplásico: uma resposta do tecido a **irritação local, má higiene ou fatores hormonais**. Pelo que se acredita hoje, **não é infeccioso**; e, apesar do nome, **não é um granuloma verdadeiro**. Ao microscópio é um tecido muito vascular, parecido com tecido de granulação.\n\n**Como aparece:** aumento de volume de superfície **lisa ou lobulada**, em geral **pediculado** (preso por um pedículo), às vezes **séssil** (de base larga). A superfície costuma estar **ulcerada**. A cor vai do **rosa ao vermelho e ao roxo**, conforme a idade da lesão: as jovens são muito vascularizadas; as antigas ficam mais colagenizadas e **rosadas**. Vai de poucos milímetros a vários centímetros. É **indolor, mas sangra fácil**. Pode crescer rápido e assustar, por lembrar lesão maligna.\n\n**Onde:** **gengiva em 75 a 85%** dos casos, um pouco mais na superior, mais na região anterior e na face vestibular; pode passar entre os dentes. Não é incomum haver história de trauma antes da lesão, sobretudo nas que ficam fora da gengiva. A variante lobular (hemangioma capilar lobular) aparece mais em lábio, língua e mucosa jugal.\n\n**Em quem:** qualquer idade, mais em **crianças e adultos jovens**, com predileção pelo **sexo feminino**.\n\n**Na gestação (tumor gravídico):** frequente na gengiva de grávidas. Pode começar no 1º trimestre e fica mais comum a partir do **7º mês**. Após o parto, algumas regridem sozinhas ou amadurecem e passam a lembrar um fibroma. **Adie o tratamento**, salvo problema funcional ou estético importante: a recidiva é alta se a lesão é removida na gravidez.\n\n**No alvéolo de extração (epúlide granulomatosa):** tecido de granulação que cresce no alvéolo após a exodontia, parecido com granuloma piogênico; em geral é reação a um **sequestro ósseo**.\n\n**Tratamento:** excisão cirúrgica conservadora, em geral curativa, com **exame microscópico** para afastar lesão mais grave. Na gengiva, a excisão é estendida à região subperiosteal e os **dentes vizinhos são raspados**. Recidiva de **3 a 15%**."
+    },
+    {
+      "id": "lpcg",
+      "titulo": "Lesão periférica de células gigantes",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, introdução, Características clínicas e radiográficas, Características histopatológicas e Tratamento e prognóstico, p. 514–515",
+      "texto": "**O que é:** crescimento com aparência de tumor, relativamente comum, provavelmente **reacional a irritação local ou trauma**, e não neoplasia. Já foi chamada de granuloma reparativo de células gigantes. Ao microscópio é muito parecida com a **lesão central de células gigantes** do osso, e alguns a consideram a versão de tecido mole dela.\n\n**Onde:** **exclusivamente na gengiva ou no rebordo alveolar desdentado**; também já foi descrita junto a implantes. Ocorre na região anterior ou posterior, com a **mandíbula mais afetada que a maxila (3:2)**.\n\n**Como aparece:** nódulo **vermelho a vermelho-azulado**, séssil ou pediculado, ulcerado ou não; a maioria tem **menos de 2 cm**. Lembra o granuloma piogênico da gengiva, mas tende a ser mais **azul-arroxeada**, enquanto o granuloma é vermelho brilhante.\n\n**Em quem:** praticamente qualquer idade, sobretudo da 1ª à 6ª década; idade média entre 31 e 46 anos nas grandes séries; cerca de **55% em mulheres**.\n\n**Radiografia:** às vezes há **reabsorção em \"taça\"** do osso alveolar sob a lesão. Nesses casos fica difícil saber se ela é periférica ou se é uma lesão central que rompeu a cortical e chegou à gengiva.\n\n**Histopatologia:** muitas **células gigantes multinucleadas** entre células mesenquimais ovoides e fusiformes, com **hemorragia abundante** e depósito de hemossiderina. Não é raro haver áreas de osso reacional ou calcificações distróficas.\n\n**Tratamento:** excisão cirúrgica local, **com atenção à base da lesão**, e **raspagem cuidadosa dos dentes vizinhos** para tirar a irritação e reduzir o risco de recidiva. Recidiva em cerca de **10 a 18%**; se voltar, faz-se nova excisão.\n\n**Hiperparatireoidismo:** raramente, lesões iguais a esta aparecem nessa doença endócrina (os tumores marrons). Eles tendem a ser intraósseos, mas o hiperparatireoidismo deve ser lembrado diante de uma lesão periférica de células gigantes."
+    },
+    {
+      "id": "fop",
+      "titulo": "Fibroma ossificante periférico",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma ossificante periférico, introdução, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 515–517",
+      "texto": "**O que é:** crescimento gengival relativamente comum, considerado **reacional** mais do que neoplásico. A origem é incerta: acredita-se que alguns comecem como **granulomas piogênicos que amadurecem, ficam fibrosos e depois calcificam**, mas nem todos seguem esse caminho. O material mineralizado deve vir do periósteo ou do ligamento periodontal. Apesar do nome, **não** é a versão de tecido mole do fibroma ossificante central do osso.\n\n**Onde:** **exclusivamente na gengiva**, em geral a partir da **papila interdental**. Discreta preferência pela maxila; **mais de 50% na região de incisivos e caninos**.\n\n**Como aparece:** nódulo séssil ou pediculado, **vermelho a rosa**, muitas vezes ulcerado. Provavelmente começa ulcerado; nas lesões antigas a úlcera cicatriza e a superfície fica íntegra. As **vermelhas e ulceradas** são confundidas com granuloma piogênico; as **rosadas e sem úlcera**, com fibroma. A maioria tem **menos de 2 cm** e está presente há semanas ou meses quando é diagnosticada. Os dentes em geral não são afetados; raramente migram ou se perdem.\n\n**Em quem:** **adolescentes e adultos jovens**, com pico entre **10 e 19 anos**; quase **dois terços em mulheres**.\n\n**Histopatologia:** proliferação de fibroblastos com **material mineralizado**: osso, material cementoide ou calcificações distróficas, muitas vezes misturados. Às vezes há células gigantes multinucleadas, em geral junto ao material mineralizado.\n\n**Tratamento:** excisão cirúrgica local **subperiosteal** (por baixo do periósteo), com **exame histopatológico**; se a base da lesão fica, a recidiva é mais comum. Os **dentes vizinhos devem ser raspados com vigor**. Na região anterior da maxila pode ser preciso cirurgia periodontal (retalho reposicionado, enxerto de conjuntivo) para corrigir o defeito na gengiva. A excisão em geral cura, mas a recidiva relatada é de **8 a 16%**."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: os nódulos reacionais da gengiva e as lesões da prótese",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, p. 512–514; Lesão periférica de células gigantes, p. 514–515; Fibroma ossificante periférico, p. 515–517; Hiperplasia fibrosa inflamatória, p. 504–506; Hiperplasia papilar inflamatória (Características clínicas, Características histopatológicas e Tratamento e prognóstico de cada uma), p. 506–507",
+      "texto": "| Lesão | Cor e superfície | Onde | Em quem | Histopatologia | Conduta e recidiva |\n|---|---|---|---|---|---|\n| **Granuloma piogênico** | do rosa ao vermelho e ao roxo, conforme a idade (antiga: rosa); em geral ulcerado; sangra fácil | gengiva em 75 a 85%; anterior e vestibular | crianças e adultos jovens; mulheres; grávidas | tecido muito vascular, tipo granulação | excisão (subperiosteal na gengiva) e raspagem; 3 a 15%; na gravidez, adiar |\n| **Lesão periférica de células gigantes** | vermelho-azulada a azul-arroxeada; ulcerada ou não; < 2 cm | só gengiva ou rebordo; mandíbula 3:2 | média de 31 a 46 anos; 55% mulheres | células gigantes multinucleadas e hemorragia; às vezes reabsorção em taça na radiografia | excisão local, com atenção à base, e raspagem; 10 a 18%; lembrar hiperparatireoidismo |\n| **Fibroma ossificante periférico** | vermelho e ulcerado ou rosa e íntegro; < 2 cm | só gengiva, papila interdental; > 50% em incisivos e caninos | pico de 10 a 19 anos; 2/3 mulheres | fibroblastos com material mineralizado | excisão subperiosteal e raspagem; 8 a 16% |\n\n**O que separa as três na clínica:** a cor sozinha separa mal, porque as três podem ser vermelhas e ulceradas; o tom azul-arroxeado é só uma tendência da lesão de células gigantes. Dão pistas a idade (fibroma ossificante periférico no adolescente), a região (incisivos e caninos, com discreta predileção pela maxila, no fibroma ossificante periférico; mandíbula na lesão periférica de células gigantes), esse tom azul-arroxeado e a gestação no granuloma piogênico.\n\n**O exame do tecido:** o livro manda examinar ao microscópio o tecido removido do granuloma piogênico (para afastar lesões mais graves) e do fibroma ossificante periférico; para a lesão periférica de células gigantes, não faz esse pedido de forma explícita. Cada uma tem um padrão próprio (coluna \"Histopatologia\"), mas há sobreposição: a lesão de células gigantes pode ter osso reacional e calcificações, e o fibroma ossificante periférico pode ter células gigantes.\n\n**O que elas têm em comum na conduta:** excisão local e **raspar os dentes vizinhos** para remover a irritação. Se a base ou a causa ficam, a recidiva é mais provável; o livro diz isso com todas as letras para a base do fibroma ossificante periférico.\n\n**As lesões da prótese:**\n- **hiperplasia fibrosa inflamatória:** pregas no **vestíbulo**, na borda da prótese; excisão com exame e prótese corrigida ou refeita;\n- **hiperplasia papilar inflamatória:** mucosa vermelha e **papilar no palato** sob a base da prótese; no início, tirar a prótese e, se preciso, antifúngico; avançada, excisão antes da prótese nova."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "\"Epúlide\" é um diagnóstico?",
+      "verso": "Não. É **termo genérico** para qualquer aumento de volume da gengiva ou do rebordo alveolar.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, introdução, p. 504–506"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual é o aspecto típico da hiperplasia fibrosa inflamatória?",
+      "verso": "Pregas de tecido no vestíbulo, em geral **duas**, com a **borda da prótese mal adaptada encaixada na fissura** entre elas.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+    },
+    {
+      "id": "f03",
+      "frente": "Em quem a hiperplasia fibrosa inflamatória é mais comum?",
+      "verso": "Adultos de **meia-idade e idosos**; **dois terços a três quartos** dos casos biopsiados são em mulheres.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+    },
+    {
+      "id": "f04",
+      "frente": "Pólipo fibroepitelial: onde e como?",
+      "verso": "No **palato duro sob prótese superior**. Massa rosa e achatada, presa por **pedículo estreito**, bordas recortadas como folha; levanta com a sonda.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+    },
+    {
+      "id": "f05",
+      "frente": "Quais três fatores o livro associa à hiperplasia papilar inflamatória?",
+      "verso": "Prótese removível **mal adaptada**, **má higiene** da prótese e uso da prótese **24 horas por dia**.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução, p. 506–507"
+    },
+    {
+      "id": "f06",
+      "frente": "Que proporção dos usuários de prótese removível 24 h por dia tem hiperplasia papilar inflamatória?",
+      "verso": "Cerca de **20%**.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução, p. 506–507"
+    },
+    {
+      "id": "f07",
+      "frente": "Hiperplasia papilar inflamatória inicial: o que o livro indica?",
+      "verso": "**Tirar a dentadura**: o vermelho e o edema podem regredir. Antifúngico tópico ou sistêmico também pode melhorar. Casos avançados ou fibrosos: excisão antes da prótese nova.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, Tratamento e prognóstico, p. 506–507"
+    },
+    {
+      "id": "f08",
+      "frente": "Granuloma piogênico: em que proporção ocorre na gengiva?",
+      "verso": "**75 a 85%** dos casos orais.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+    },
+    {
+      "id": "f09",
+      "frente": "O granuloma piogênico é infecção? É granuloma verdadeiro?",
+      "verso": "Pelo que se acredita hoje, **não é infecção**; e **não é granuloma verdadeiro**. É resposta a irritação local, má higiene ou fatores hormonais.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, introdução, p. 512–514"
+    },
+    {
+      "id": "f10",
+      "frente": "Granuloma piogênico na gestação: quando aparece e o que fazer?",
+      "verso": "Pode começar no 1º trimestre; fica mais comum a partir do **7º mês**. **Adiar o tratamento** (recidiva alta), salvo problema funcional ou estético importante.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, Características clínicas e Tratamento e prognóstico, p. 512–514"
+    },
+    {
+      "id": "f11",
+      "frente": "O que é a epúlide granulomatosa?",
+      "verso": "Tecido de granulação que cresce no **alvéolo após extração**, parecido com granuloma piogênico; em geral reação a **sequestro ósseo**.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+    },
+    {
+      "id": "f12",
+      "frente": "Que diferença de cor o livro aponta entre a lesão periférica de células gigantes e o granuloma piogênico?",
+      "verso": "A lesão de células gigantes em geral é mais **azul-arroxeada**; o granuloma piogênico, **vermelho brilhante**. É só tendência: as duas podem ser vermelhas e se parecem na clínica.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas, p. 514–515"
+    },
+    {
+      "id": "f13",
+      "frente": "Que achado radiográfico a lesão periférica de células gigantes pode ter?",
+      "verso": "**Reabsorção em \"taça\"** do osso alveolar sob a lesão; aí fica difícil separá-la de uma lesão central que rompeu a cortical.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas, p. 514–515"
+    },
+    {
+      "id": "f14",
+      "frente": "Que doença sistêmica lembrar diante de uma lesão periférica de células gigantes?",
+      "verso": "**Hiperparatireoidismo** (tumores marrons), embora estes tendam a ser intraósseos.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, Tratamento e prognóstico, p. 514–515"
+    },
+    {
+      "id": "f15",
+      "frente": "Fibroma ossificante periférico: idade de pico e local típico?",
+      "verso": "Pico entre **10 e 19 anos**; só na gengiva, em geral a partir da **papila interdental**; mais de 50% na região de **incisivos e caninos**.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma ossificante periférico, Características clínicas, p. 515–517"
+    },
+    {
+      "id": "f16",
+      "frente": "Recidiva relatada: granuloma piogênico, lesão periférica de células gigantes e fibroma ossificante periférico?",
+      "verso": "Granuloma piogênico **3 a 15%**; lesão periférica de células gigantes **10 a 18%**; fibroma ossificante periférico **8 a 16%**.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Tratamento e prognóstico de Granuloma piogênico, Lesão periférica de células gigantes e Fibroma ossificante periférico, p. 512–517"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 68 anos usa a mesma prótese total superior há muitos anos. No vestíbulo anterior há duas pregas de tecido firme, e a borda da prótese se encaixa na fissura entre elas. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Hiperplasia fibrosa inflamatória",
+          "correta": true,
+          "justificativa": "Pregas no vestíbulo, em geral duas, com a borda da prótese mal adaptada encaixada na fissura, em mulher idosa: é o quadro típico da hiperplasia fibrosa inflamatória.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        },
+        {
+          "texto": "Hiperplasia papilar inflamatória",
+          "correta": false,
+          "justificativa": "A hiperplasia papilar inflamatória é uma mucosa vermelha e papilar no palato duro, sob a base da prótese, e não pregas no vestíbulo.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, Características clínicas, p. 506–507"
+        },
+        {
+          "texto": "Pólipo fibroepitelial",
+          "correta": false,
+          "justificativa": "O pólipo fibroepitelial fica no palato duro sob a prótese superior, como massa achatada presa por pedículo estreito, e não no vestíbulo.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        },
+        {
+          "texto": "Granuloma piogênico",
+          "correta": false,
+          "justificativa": "O granuloma piogênico é um nódulo em geral pediculado e ulcerado, sobretudo da gengiva; não forma pregas encaixadas na borda da prótese.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506",
+      "secao": "hfi",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Mulher de 68 anos tem, no vestíbulo anterior, duas pregas de tecido firme; a borda da prótese total superior, mal adaptada, encaixa na fissura entre elas. O diagnóstico é hiperplasia fibrosa inflamatória. Qual conduta o livro indica?",
+      "alternativas": [
+        {
+          "texto": "Antifúngico tópico e reavaliação, mantendo a prótese",
+          "correta": false,
+          "justificativa": "Antifúngico aparece como opção na hiperplasia papilar inflamatória inicial, não na hiperplasia fibrosa inflamatória, cujo tratamento é cirúrgico.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, Tratamento e prognóstico, p. 506–507"
+        },
+        {
+          "texto": "Remoção cirúrgica sem exame, mantendo a mesma prótese",
+          "correta": false,
+          "justificativa": "O livro pede exame microscópico do tecido removido e correção ou troca da prótese; manter a prótese mal adaptada favorece a recidiva.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Tratamento e prognóstico, p. 504–506"
+        },
+        {
+          "texto": "Remoção cirúrgica com exame microscópico e prótese refeita ou corrigida",
+          "correta": true,
+          "justificativa": "É a conduta do livro: tirar a lesão, examinar o tecido ao microscópio e refazer ou corrigir a prótese para prevenir a recidiva.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Tratamento e prognóstico, p. 504–506"
+        },
+        {
+          "texto": "Adiar qualquer tratamento e observar a regressão espontânea",
+          "correta": false,
+          "justificativa": "Adiar e esperar regressão é a orientação para o granuloma piogênico da gestação, não para a hiperplasia fibrosa inflamatória.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Tratamento e prognóstico, p. 512–514"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Tratamento e prognóstico, p. 504–506",
+      "secao": "hfi",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 70 anos dorme com a prótese total superior e a higieniza pouco. Não tem queixa. O palato duro, sob a base da prótese, está vermelho e com superfície granulosa, \"pedregosa\". Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Hiperplasia fibrosa inflamatória",
+          "correta": false,
+          "justificativa": "A hiperplasia fibrosa inflamatória forma pregas no vestíbulo, junto à borda da prótese, e não uma mucosa papilar no palato.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        },
+        {
+          "texto": "Hiperplasia papilar inflamatória",
+          "correta": true,
+          "justificativa": "Mucosa vermelha, pedregosa ou papilar, assintomática, no palato sob a dentadura, em quem usa a prótese 24 horas e a higieniza mal: é a hiperplasia papilar inflamatória.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução e Características clínicas, p. 506–507"
+        },
+        {
+          "texto": "Pólipo fibroepitelial",
+          "correta": false,
+          "justificativa": "O pólipo fibroepitelial também fica no palato sob a prótese, mas é uma massa rosa, achatada e pediculada, não uma superfície vermelha e papilar.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        },
+        {
+          "texto": "Granuloma piogênico",
+          "correta": false,
+          "justificativa": "O granuloma piogênico é um aumento de volume em geral pediculado e ulcerado, que sangra fácil; não é uma mucosa vermelha e papilar do palato.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, Características clínicas, p. 506–507",
+      "secao": "hpi",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 70 anos dorme com a prótese total superior e a higieniza pouco. O palato duro, sob a base da prótese, está vermelho e papilar: é uma hiperplasia papilar inflamatória inicial, ainda pouco fibrosa. O que o livro indica nessa fase?",
+      "alternativas": [
+        {
+          "texto": "Excisão de todo o palato, mantendo o uso da prótese dia e noite",
+          "correta": false,
+          "justificativa": "A excisão fica para casos avançados ou colagenizados, e o uso da prótese 24 horas por dia é um dos fatores da lesão; depois o paciente deve tirá-la à noite.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução e Tratamento e prognóstico, p. 506–507"
+        },
+        {
+          "texto": "Excisão do tecido hiperplásico antes de fazer a prótese nova",
+          "correta": false,
+          "justificativa": "Excisar antes da prótese nova é o que muitos clínicos fazem nos casos avançados ou colagenizados; na lesão inicial, tirar a prótese pode bastar para o vermelho e o edema regredirem.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, Tratamento e prognóstico, p. 506–507"
+        },
+        {
+          "texto": "Excisão subperiosteal e raspagem dos dentes vizinhos",
+          "correta": false,
+          "justificativa": "Excisão subperiosteal com raspagem é a conduta do fibroma ossificante periférico, um nódulo da gengiva, não de uma lesão difusa do palato sob a prótese.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma ossificante periférico, Tratamento e prognóstico, p. 515–517"
+        },
+        {
+          "texto": "Tirar a prótese e, se preciso, usar antifúngico tópico ou sistêmico",
+          "correta": true,
+          "justificativa": "Na lesão inicial, remover a dentadura pode fazer o vermelho e o edema regredirem; o antifúngico também pode melhorar o quadro.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, Tratamento e prognóstico, p. 506–507"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hiperplasia papilar inflamatória, Tratamento e prognóstico, p. 506–507",
+      "secao": "hpi",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Gestante no 7º mês tem um nódulo vermelho, pediculado e ulcerado na gengiva vestibular anterior superior, que sangra ao escovar. Não atrapalha a mastigação nem incomoda a estética. Qual é a conduta mais adequada segundo o livro?",
+      "alternativas": [
+        {
+          "texto": "Adiar a remoção para depois do parto e reavaliar, pois algumas lesões regridem",
+          "correta": true,
+          "justificativa": "Na gestação o tratamento deve ser adiado, salvo problema funcional ou estético importante: a recidiva é alta se removido nesse período e algumas lesões regridem após o parto.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Tratamento e prognóstico, p. 512–514"
+        },
+        {
+          "texto": "Excisão imediata, porque fora da gestação a excisão costuma ser curativa",
+          "correta": false,
+          "justificativa": "A excisão costuma curar fora da gestação, mas o livro aponta recidiva alta quando a lesão é removida durante a gravidez.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Tratamento e prognóstico, p. 512–514"
+        },
+        {
+          "texto": "Antibiótico, já que o granuloma piogênico é causado por bactérias piogênicas",
+          "correta": false,
+          "justificativa": "Hoje se acredita que o granuloma piogênico não está relacionado a infecção; é resposta a irritação local, má higiene ou fatores hormonais.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, introdução, p. 512–514"
+        },
+        {
+          "texto": "Excisão local e raspagem, pela suspeita de lesão periférica de células gigantes",
+          "correta": false,
+          "justificativa": "A lesão periférica de células gigantes tende a ser azul-arroxeada, não vermelho brilhante, e a gestação aponta para o granuloma piogênico, cuja conduta aqui é adiar.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas, p. 514–515"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Granuloma piogênico, Características clínicas e Tratamento e prognóstico, p. 512–514",
+      "secao": "granuloma",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Homem de 40 anos tem um nódulo azul-arroxeado de 1,5 cm na gengiva inferior. A radiografia mostra reabsorção em forma de taça do osso alveolar logo abaixo. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Granuloma piogênico",
+          "correta": false,
+          "justificativa": "O granuloma piogênico costuma ser vermelho brilhante e mais comum em crianças e adultos jovens; o livro não descreve reabsorção óssea em taça nele.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+        },
+        {
+          "texto": "Fibroma ossificante periférico",
+          "correta": false,
+          "justificativa": "O fibroma ossificante periférico é vermelho a rosa, tem pico entre 10 e 19 anos, em geral nasce da papila interdental, com mais de 50% na região de incisivos e caninos.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma ossificante periférico, Características clínicas, p. 515–517"
+        },
+        {
+          "texto": "Lesão periférica de células gigantes",
+          "correta": true,
+          "justificativa": "Nódulo gengival azul-arroxeado, menor que 2 cm, mais na mandíbula, em adulto, às vezes com reabsorção em taça do osso: é a lesão periférica de células gigantes.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas, p. 514–515"
+        },
+        {
+          "texto": "Hiperplasia fibrosa inflamatória",
+          "correta": false,
+          "justificativa": "A hiperplasia fibrosa inflamatória são pregas no vestíbulo, ligadas à borda de prótese mal adaptada, e não um nódulo gengival com reabsorção do osso.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas, p. 514–515",
+      "secao": "lpcg",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Uma lesão periférica de células gigantes foi confirmada no exame microscópico. Além da excisão local e da raspagem dos dentes vizinhos, que condição o livro manda considerar?",
+      "alternativas": [
+        {
+          "texto": "Gestação, pelos efeitos vasculares do estrogênio e da progesterona",
+          "correta": false,
+          "justificativa": "A relação com os hormônios da gestação é descrita para o granuloma piogênico, não para a lesão periférica de células gigantes.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+        },
+        {
+          "texto": "Hiperparatireoidismo, cujos tumores marrons podem ser iguais a ela",
+          "correta": true,
+          "justificativa": "Lesões indistinguíveis da lesão periférica de células gigantes aparecem raramente no hiperparatireoidismo (tumores marrons), e essa doença deve ser considerada.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lesão periférica de células gigantes, Tratamento e prognóstico, p. 514–515"
+        },
+        {
+          "texto": "Candidíase, a ser tratada com antifúngico",
+          "correta": false,
+          "justificativa": "O livro cita a Candida e o antifúngico na hiperplasia papilar inflamatória, sob a dentadura, e não na lesão periférica de células gigantes.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia papilar inflamatória, introdução e Tratamento e prognóstico, p. 506–507"
+        },
+        {
+          "texto": "Sequestro ósseo em alvéolo de extração recente",
+          "correta": false,
+          "justificativa": "O sequestro ósseo no alvéolo explica a epúlide granulomatosa, parecida com granuloma piogênico, e não a lesão periférica de células gigantes.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características clínicas, p. 512–514"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes, Tratamento e prognóstico, p. 514–515",
+      "secao": "lpcg",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Menina de 15 anos tem há alguns meses um nódulo rosa, sem úlcera, de 1 cm, que nasce da papila entre o incisivo lateral e o canino superiores. A peça removida mostra fibroblastos com trabéculas de osso e calcificações. Qual é o diagnóstico?",
+      "alternativas": [
+        {
+          "texto": "Granuloma piogênico",
+          "correta": false,
+          "justificativa": "O granuloma piogênico é um tecido muito vascular, tipo granulação, em geral ulcerado; o caso descreve nódulo sem úlcera com fibroblastos e material mineralizado.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características histopatológicas, p. 512–514"
+        },
+        {
+          "texto": "Lesão periférica de células gigantes",
+          "correta": false,
+          "justificativa": "A lesão periférica de células gigantes mostra células gigantes multinucleadas com hemorragia abundante e é mais comum na mandíbula (3:2). Pode ter osso reacional, mas o caso não descreve células gigantes nem hemorragia.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lesão periférica de células gigantes, Características clínicas e radiográficas e Características histopatológicas, p. 514–515"
+        },
+        {
+          "texto": "Hiperplasia fibrosa inflamatória",
+          "correta": false,
+          "justificativa": "A hiperplasia fibrosa inflamatória é ligada à borda de prótese mal adaptada, no vestíbulo de adultos mais velhos, e não um nódulo da papila em adolescente.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características clínicas, p. 504–506"
+        },
+        {
+          "texto": "Fibroma ossificante periférico",
+          "correta": true,
+          "justificativa": "O conjunto aponta para o fibroma ossificante periférico: adolescente, nódulo rosa que nasce da papila interdental, na região de incisivos e caninos, e fibroblastos com material mineralizado. A histologia sozinha não decide, porque a lesão de células gigantes também pode ter osso reacional e calcificações.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma ossificante periférico, Características clínicas e Características histopatológicas, p. 515–517"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma ossificante periférico, Características clínicas e Características histopatológicas, p. 515–517",
+      "secao": "fop",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Um nódulo gengival de 1,5 cm foi removido. Na clínica, poderia ser fibroma ossificante periférico ou lesão periférica de células gigantes. Qual achado do tecido aponta para a lesão periférica de células gigantes?",
+      "alternativas": [
+        {
+          "texto": "Proliferação de fibroblastos com osso, material cementoide ou calcificações",
+          "correta": false,
+          "justificativa": "É o padrão básico do fibroma ossificante periférico. A lesão de células gigantes pode ter áreas de osso reacional ou calcificações, mas o que a caracteriza são as células gigantes com hemorragia.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma ossificante periférico, Características histopatológicas, p. 515–517; Lesão periférica de células gigantes, Características histopatológicas, p. 514–515"
+        },
+        {
+          "texto": "Muitas células gigantes multinucleadas entre células ovoides e fusiformes, com hemorragia abundante",
+          "correta": true,
+          "justificativa": "É o padrão da lesão periférica de células gigantes, com depósito de hemossiderina. O fibroma ossificante periférico às vezes tem células gigantes, mas em geral junto ao material mineralizado, que é o seu padrão básico.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lesão periférica de células gigantes, Características histopatológicas, p. 514–515; Fibroma ossificante periférico, Características histopatológicas, p. 515–517"
+        },
+        {
+          "texto": "Proliferação muito vascular, parecida com tecido de granulação",
+          "correta": false,
+          "justificativa": "Tecido muito vascular, tipo granulação, é o padrão do granuloma piogênico, e não de nenhuma das duas lesões do caso.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Granuloma piogênico, Características histopatológicas, p. 512–514"
+        },
+        {
+          "texto": "Pregas de tecido conjuntivo fibroso hiperplásico com inflamação crônica",
+          "correta": false,
+          "justificativa": "Pregas de tecido fibroso hiperplásico com inflamação crônica descrevem a hiperplasia fibrosa inflamatória, ligada à borda da prótese.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hiperplasia fibrosa inflamatória, Características histopatológicas, p. 504–506"
+        }
+      ],
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lesão periférica de células gigantes e Fibroma ossificante periférico, Características histopatológicas, p. 514–517",
+      "secao": "comparacao",
+      "figura": null
+    }
+  ]
+}

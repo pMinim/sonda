@@ -163,6 +163,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 3",
+   "secao": "primario-secundario",
    "figura": null
   },
   {
@@ -200,6 +201,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 3",
+   "secao": "primario-secundario",
    "figura": null
   },
   {
@@ -237,6 +239,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 3",
+   "secao": "o-que-faz",
    "figura": null
   },
   {
@@ -274,6 +277,7 @@
    ],
    "fonte": "fan2018",
    "onde": "conclusões",
+   "secao": "o-que-faz",
    "figura": null
   },
   {
@@ -311,6 +315,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 3",
+   "secao": "primario-secundario",
    "figura": null
   }
  ]

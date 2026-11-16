@@ -230,7 +230,8 @@
       ],
       "figura": null,
       "fonte": "baratieri-cap11",
-      "onde": "p. 228"
+      "onde": "p. 228",
+      "secao": "cor-e-ensaio"
     },
     {
       "id": "q02",
@@ -267,7 +268,8 @@
       ],
       "figura": null,
       "fonte": "baratieri-cap11",
-      "onde": "p. 206"
+      "onde": "p. 206",
+      "secao": "cor-e-ensaio"
     },
     {
       "id": "q03",
@@ -304,7 +306,8 @@
       ],
       "figura": null,
       "fonte": "baratieri-cap11",
-      "onde": "p. 206"
+      "onde": "p. 206",
+      "secao": "cor-e-ensaio"
     },
     {
       "id": "q04",
@@ -341,7 +344,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 262"
+      "onde": "p. 262",
+      "secao": "preparo-bisel"
     },
     {
       "id": "q05",
@@ -378,7 +382,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 264"
+      "onde": "p. 264",
+      "secao": "retencao"
     },
     {
       "id": "q06",
@@ -415,7 +420,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 268–269"
+      "onde": "p. 268–269",
+      "secao": "insercao"
     },
     {
       "id": "q07",
@@ -452,7 +458,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 271"
+      "onde": "p. 271",
+      "secao": "acabamento"
     },
     {
       "id": "q08",
@@ -489,7 +496,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 263"
+      "onde": "p. 263",
+      "secao": "retencao"
     },
     {
       "id": "q09",
@@ -526,7 +534,8 @@
       ],
       "figura": null,
       "fonte": "mondelli-cap27-28",
-      "onde": "p. 260"
+      "onde": "p. 260",
+      "secao": "retencao"
     }
   ]
 }

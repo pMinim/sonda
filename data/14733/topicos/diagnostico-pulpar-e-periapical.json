@@ -232,6 +232,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 17",
+      "secao": "sensibilidade",
       "figura": null
     },
     {
@@ -269,6 +270,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 16–17",
+      "secao": "sensibilidade",
       "figura": null
     },
     {
@@ -306,6 +308,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 13",
+      "secao": "exame-clinico",
       "figura": null
     },
     {
@@ -343,6 +346,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 27",
+      "secao": "polpa",
       "figura": null
     },
     {
@@ -380,6 +384,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 28",
+      "secao": "periapice",
       "figura": null
     },
     {
@@ -417,6 +422,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "Boxe 1.2, p. 14",
+      "secao": "exame-clinico",
       "figura": null
     },
     {
@@ -454,6 +460,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 19",
+      "secao": "testes-especiais",
       "figura": null
     },
     {
@@ -491,6 +498,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 19",
+      "secao": "imagem",
       "figura": null
     },
     {
@@ -528,6 +536,7 @@
       ],
       "fonte": "cohen12-cap1",
       "onde": "p. 18",
+      "secao": "testes-especiais",
       "figura": null
     }
   ]

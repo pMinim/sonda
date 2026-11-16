@@ -1,0 +1,583 @@
+{
+  "slug": "biopsia-e-exames-complementares",
+  "titulo": "Biópsia e exames complementares: quando biopsiar, citologia, imagem, exames de sangue",
+  "area": "Estomatologia",
+  "origem": "Marcucci 3ª ed., cap. 5",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "marcucci3-cap5",
+      "ref": "Silveira FRX, Santos GG, Guimarães Júnior J. Métodos Diagnósticos. In: Marcucci G (ed.). Fundamentos de Odontologia: Estomatologia. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2020. Cap. 5, p. 57–84.",
+      "curta": "Marcucci 3ª ed., cap. 5"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "complementar",
+      "titulo": "Para que serve um exame complementar e como julgar um teste",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos Diagnósticos, Introdução, p. 57",
+      "texto": "Exame complementar (ou subsidiário) é o que o clínico pede para somar ao exame clínico. O capítulo lista três metas:\n\n- **confirmação diagnóstica:** confirmar a hipótese formada depois do exame clínico;\n- **exclusão diagnóstica:** descartar um quadro que pode coexistir com o que se investiga. Exemplo do livro: descartar gravidez antes de um exame que seria contraindicado no primeiro trimestre;\n- **prospecção em segmentos populacionais:** exame sem suspeita clínica, muitas vezes exigido por lei, como a sorologia em doadores de sangue ou os exames admissionais.\n\nO livro diz que o cirurgião-dentista busca, em geral, uma das duas primeiras metas; a terceira fica com os serviços médicos.\n\n**Como julgar a confiabilidade de um exame** (definições do capítulo):\n- **especificidade:** caracterizar apenas os indivíduos doentes, excluindo falso-positivos e falso-negativos;\n- **sensibilidade:** caracterizar a doença sem excluir doentes que seriam classificados como sadios;\n- **acurácia:** o valor medido chega mais perto do real;\n- **precisão:** valores próximos quando o mesmo ensaio é repetido, na mesma substância e na mesma amostra.\n\nO exame ideal seria o mais específico, sensível, justo e preciso, com custo adequado ao paciente."
+    },
+    {
+      "id": "radiografias",
+      "titulo": "Radiografias: intrabucais, panorâmica e outras extrabucais",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Exames radiográficos, Técnicas intrabucais e Técnicas extrabucais, p. 57–58; Radiografia digital, p. 61",
+      "texto": "Nas técnicas **intrabucais** o filme fica dentro da boca: a imagem é mais nítida, mas só da área do filme. Nas **extrabucais** o filme fica fora: mostram mais do complexo maxilomandibular, com menos precisão.\n\n**Periapical.** A mais comum. A boca toda usa 14 radiografias (7 na maxila e 7 na mandíbula). O livro a liga a tratamento periodontal ou endodôntico prévio, traumatismo, implantes e história familiar de alterações do desenvolvimento, e a sinais como cárie, dente mal posicionado, mobilidade, dor dentária, mudança de forma ou cor do dente, erupção fora de época, assimetria facial e aumento de volume focal dos maxilares.\n\n**Interproximal.** Mostra as coroas e as cristas ósseas com os arcos em oclusão; a raiz não aparece. Indicação principal: suspeita de **cárie interproximal**. Avalia também o excesso proximal de restaurações.\n\n**Oclusal.** O filme fica na superfície oclusal, preso quando o paciente fecha de leve a boca; dá visão mais ampla da maxila ou da mandíbula. Indicações: desdentado total (raízes residuais, dentes inclusos, lesões que a periapical não mostrou pelo tamanho do filme), suspeita de **sialolitíase** no ducto submandibular e fraturas de maxila e mandíbula.\n\n**Panorâmica.** A extrabucal mais usada. Serve para lesões extensas da maxila ou da mandíbula, que muitas vezes aparecem como aumento de volume e assimetria facial, e para o paciente que não consegue abrir a boca para o filme intrabucal.\n\n**Outras extrabucais** (laterais, posteroanteriores, axial e para a articulação temporomandibular): a sialografia, com contraste, estuda as glândulas salivares maiores; é invasiva e pede indicação precisa. A telerradiografia avalia o desenvolvimento craniofacial e é muito usada em Ortodontia. A axial (incidência de Hirtz) mostra fraturas ou alterações do arco zigomático.\n\n**Digital.** Um sensor ligado ao computador substitui a película periapical, reduz em cerca de 90% o tempo de exposição do paciente à radiação e dispensa a revelação química."
+    },
+    {
+      "id": "imagem",
+      "titulo": "Tomografia, ultrassonografia, ressonância e medicina nuclear",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Tomografia computadorizada, p. 59–60; Ultrassonografia, p. 65–66; Ressonância magnética e Medicina nuclear, p. 66–67",
+      "texto": "**Tomografia computadorizada (TC).** Usa raios X e computador: detectores leem a radiação que atravessou o paciente e o computador monta a imagem em cortes, sem superposição das estruturas. Em Estomatologia serve menos para o diagnóstico em si e mais para investigar lesões **traumáticas ou neoplásicas** e a relação delas com as estruturas vizinhas. Também delimita a área do osso antes de colocar implantes. A TC espiral gira de modo contínuo e faz o exame em até 24 s.\n\n**Ultrassonografia.** Ondas sonoras acima de 20.000 Hz, com gel entre o transdutor e a pele. Líquido dá imagem anecoica (sem eco) e osso dá sombra acústica. Na boca, estuda as **glândulas salivares maiores** e, em alguns distúrbios da articulação temporomandibular, os músculos da mastigação. Nas lesões focais da parótida, o livro cita sensibilidade de 100%, contra 75% da sialografia. Para delimitar neoplasia maligna, prefere TC ou ressonância.\n\n**Ressonância magnética (RM).** Imagens em cortes, sem radiação ionizante, a partir dos núcleos de hidrogênio dos tecidos sob campo magnético. Em Estomatologia: delimitar neoplasias e estudar a articulação temporomandibular, onde, segundo estudo citado no livro, mostra o disco articular melhor que a técnica transcraniana, a tomografia e a artrografia. O custo é alto. **Contraindicações:** clipes eletromagnéticos de cirurgia de aneurisma cerebral, marca-passo, prótese valvar cardíaca, claustrofobia e gestação.\n\n**Medicina nuclear.** O paciente recebe um radiofármaco (traçador) em baixa dose de radiação, e uma gamacâmara registra o funcionamento do órgão; não usa contraste. A **cintilografia óssea** é indicada principalmente para pesquisar metástases ósseas e serve também em osteomielite, displasia fibrosa e doença de Paget. A cintilografia das glândulas salivares maiores com tecnécio-99m avalia função e permeabilidade dos ductos, por exemplo na síndrome de Sjögren; é contraindicada em gestantes e lactantes, salvo extrema necessidade."
+    },
+    {
+      "id": "citologia",
+      "titulo": "Citologia esfoliativa: indicações, técnica, limites e classes",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Exames citológicos e Citologia esfoliativa, p. 62; classes III a V e biópsia, Biópsia, p. 63",
+      "texto": "**Citologia esfoliativa** é o exame das células colhidas da superfície de uma lesão da mucosa. Foi lançada por Papanicolaou e Traut, em 1941, para o colo do útero, e adaptada ao carcinoma epidermoide da boca como método subsidiário.\n\n**Limite:** não substitui a biópsia. Entra quando a biópsia não é possível, por impedimento clínico do paciente ou por recusa dele.\n\n**Outras indicações** (que não são câncer): doenças vesicobolhosas infecciosas (herpes simples, varicela-zóster), hipersensibilidade (eritema polimorfo, síndrome de Stevens-Johnson), autoimunes (pênfigos e penfigoides), infecções como candidose e paracoccidioidomicose, e o líquido de lesões císticas. A citologia de Tzanck, com imunofluorescência direta, confirma principalmente o pênfigo vulgar, de modo rápido, fácil, não invasivo e barato.\n\n**Técnica:**\n1. raspar a lesão com espátula metálica ou *citobrush* (espátula de madeira e zaragatoa ressecam o material);\n2. espalhar o material em lâmina de vidro já identificada;\n3. fixar com álcool-éter 70% ou fixador em spray;\n4. corar por Papanicolaou ou hematoxilina-eosina (HE) e levar ao microscópio;\n5. transportar a lâmina em recipiente próprio, imersa no fixador.\n\n**Classes do resultado (Papanicolaou e Traut):**\n\n| Classe | Significado |\n|---|---|\n| 0 | material insuficiente: repetir o exame |\n| I | células normais |\n| II | células inflamatórias, sem características de malignidade |\n| III | células sugestivas de malignidade |\n| IV | células fortemente sugestivas de malignidade |\n| V | exame conclusivo de malignidade |\n\nClasses III, IV e V levam à biópsia (próxima seção)."
+    },
+    {
+      "id": "biopsia",
+      "titulo": "Biópsia: o que é, indicações e contraindicações",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63–64",
+      "texto": "**Biópsia** é o procedimento diagnóstico que retira um fragmento de tecido de um ser vivo para estudar as alterações. É exame complementar, não tratamento. O livro diz que deveria ser rotina nos ambulatórios odontológicos, por ser em geral viável ao clínico, embora na prática fique mais com especialistas em Estomatologia e Cirurgia.\n\n**Primeira escolha para investigar:**\n- lesão ulcerada ou não, com suspeita de malignidade, e úlcera que não cicatriza após 10 a 20 dias (Marcucci);\n- placa ceratótica ou mácula eritroplásica;\n- citologia esfoliativa com resultado de classe III, IV ou V;\n- lesão óssea, expansiva ou não, e crescimento da superfície da mucosa.\n\n**Contraindicações.** Não há absolutas. As relativas dependem quase sempre do estado geral ou da condição local e devem ser pesadas no diagnóstico clínico:\n- **diabético não controlado, hipertenso grave** ou outra condição sistêmica: falar com o médico para saber as condições mínimas;\n- **suspeita de lesão benigna:** pode-se esperar uma oportunidade para atuar com mais segurança;\n- **lesão angiomatosa:** exige cuidado, e a morfologia da lesão deve estar bem caracterizada;\n- **lesão intraóssea:** muitas vezes só a radiografia, que não diz se a lesão é angiomatosa. Antes da biópsia, faz-se a **punção** para eliminar essa possibilidade.\n\nA biópsia segue as normas de biossegurança da clínica odontológica (cap. 3 do livro)."
+    },
+    {
+      "id": "incisional-excisional",
+      "titulo": "Biópsia incisional e excisional: técnica e caso do melanoma",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63–64",
+      "texto": "A biópsia tem dois grupos principais.\n\n**Incisional:** retira só um **fragmento** da lesão. Indicada na suspeita de neoplasia maligna, na manifestação bucal de doença sistêmica e nas lesões muito extensas da mucosa, em que não há indicação técnica para remover tudo em um só ato. No esquema do livro, a retirada correta do fragmento dá material suficiente; os erros frequentes de técnica deixam material insuficiente.\n\n**Excisional:** retira **toda** a lesão. Indicada nas lesões pequenas, sem suspeita de malignidade, em que o exame vai corresponder ao tratamento. Deve levar a lesão inteira, com atenção à margem de segurança quando ela é exigida. Mesmo sem essa exigência, as bordas da peça devem mostrar tecido sadio.\n\n**Na ficha clínica:** o exame vai no espaço dos exames e a remoção cirúrgica da lesão é anotada no item do tratamento, porque, didaticamente, biópsia é exame e não tratamento.\n\n**Caso especial: suspeita de melanoma maligno.** A neoplasia é, em geral, agressiva, apesar de rara. Como a manipulação pode agravar a lesão ou causar metástases, o livro preconiza **encaminhar o paciente direto ao oncologista** a partir da suspeita. Ele registra que vários autores discutem se o clínico deve manipular a lesão, pelo tempo entre a biópsia e o encaminhamento ao oncologista.\n\n**O outro lado, como o livro relata:** o ambulatório de Estomatologia da USP biopsia sempre e encaminha o paciente com o resultado do histopatológico. Ele explica que a maioria dos pacientes não tem recursos para a saúde, o que aumenta o risco de demora ou de não procurar o serviço quando vão ao oncologista só com a suspeita clínica, e relata que nenhum dos casos de pacientes atendidos nesse ambulatório mudou de prognóstico por ter sido feita a biópsia (a afirmação vale para esses pacientes, não para todos os casos de melanoma). A conduta que o livro preconiza continua sendo o encaminhamento direto."
+    },
+    {
+      "id": "paaf",
+      "titulo": "Punção aspirativa com agulha fina (PAAF)",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, Punção aspirativa com agulha fina, p. 64–65",
+      "texto": "A **PAAF** é a punção com agulha fina e seringa ligada a um sistema que faz vácuo (a pistola de Franzen). O material é espalhado em lâmina, corado e examinado pelo patologista, que avalia as células: é análise **citológica**. O livro a lista entre os outros tipos de biópsia.\n\n**Onde se usa:** linfonodos, tireoide, glândulas salivares maiores e mama. Na boca era pouco usada; hoje é mais difundida nas lesões das glândulas salivares menores e da mucosa. Em outro ponto do mesmo trecho, o livro a chama de raramente usada na cavidade bucal. Serve para diferenciar processo inflamatório, neoplasia benigna e neoplasia maligna, evitando muitas vezes um procedimento mais invasivo.\n\n**Vantagens:** técnica simples, de baixo custo, relativamente indolor, feita por um profissional no ambulatório, com antissepsia e biossegurança, e de resultado rápido. O livro dá sensibilidade e especificidade de 80 a 100% e acurácia de 60 a 100%.\n\n**Desvantagens:** não classifica bem as neoplasias e exige treino do clínico e do patologista. **Complicações:** disseminação de células neoplásicas, hemorragia, hematoma e edema no local.\n\n**Material:** agulhas descartáveis de calibre 18 a 27, seringas de 10 a 20 mL e a pistola de Franzen.\n\n**Técnica resumida:** antissepsia; decidir se usa anestesia infiltrativa local; agulha na lesão com movimentos de vaivém, enquanto a outra mão imobiliza a lesão; depois, esfregaço em duas a três lâminas, secas ao ar ou fixadas com spray.\n\n**Leitura:** baixa celularidade, baixa aderência entre as células e polimorfismo indicam lesão **benigna**."
+    },
+    {
+      "id": "hemograma-coagulograma",
+      "titulo": "Exames de sangue antes de operar: hemograma e coagulograma",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames hematológicos, Coagulograma, p. 68–69; Eritrograma e Leucograma, p. 69–72 (contador; fronteiras entre as p. 70 e 77 não confirmadas)",
+      "texto": "O livro quer saber, antes de operar, se o paciente coagula e cicatriza bem e se tem anemia ou infecção. O dentista investiga isso na anamnese (Quadro 5.4 do livro: sangrou muito ou voltou a sangrar depois de extração? tem hematomas sem trauma? algum parente tem problema de sangramento?) e por exames.\n\n**Coagulograma** (avaliação inicial de distúrbio hemorrágico e da hemostasia no pré-operatório): tempo de sangramento, tempo de coagulação, contagem de plaquetas, tempo de protrombina (TP) e tempo de tromboplastina parcial ativada (TTPA).\n- **TP:** vias extrínseca e comum, função do fígado e controle do paciente anticoagulado. Abaixo de 30% de atividade há sérias consequências; o livro aceita operar com 70%.\n- **TTPA:** via intrínseca (hemofilias A e B; fatores VIII, IX, XI e XII) e controle de heparina. Fica normal em trombocitopenia e na doença de von Willebrand.\n- **Tempo de sangramento:** avalia plaquetas e vasos; é feito no próprio paciente.\n- **Plaquetas:** o tempo de sangramento é normal quando elas estão em pelo menos 100.000/mm³; a função hemostática pode se manter, mesmo com trombocitopenia, até 70.000/µℓ. São dois dados diferentes do livro: um fala do tempo de sangramento, o outro da função hemostática.\n\n| Exame | Referência do livro |\n|---|---|\n| Eritrócitos | homem de raça branca 4,4 a 6 milhões/mm³; mulher de raça branca 4,2 a 5,5 milhões/mm³ (no livro, 5% menores em pessoas de raça negra) |\n| Hemoglobina | os números do livro não fecham entre si: média 15,5 ± 2,5 g/dℓ; mínimo 15 g (homem) e 13,5 g (mulher); anemia abaixo de 13 a 15 g/dℓ no homem. O tema não escolhe um |\n| Hematócrito | homem 41 a 51%; mulher 37 a 47% |\n| Leucócitos | 4.000 a 10.000/mm³ |\n| Plaquetas | 150.000 a 450.000/mm³; tempo de sangramento normal com pelo menos 100.000/mm³; função hemostática mantida até 70.000/µℓ |\n| Tempo de sangramento | 2 a 5 min |\n| Tempo de coagulação | 5 a 10 min (até 15 min em seringa plástica); o livro a chama de prova relativamente grosseira |\n| TP (maiores de 6 meses) | 70 a 100% de atividade ou 10 a 20 s |\n| TTPA (maiores de 6 meses) | menos de 1,2 min, geralmente 60 a 70 s |\n\nAnemia achada no pré-operatório pede interconsulta com o hematologista."
+    },
+    {
+      "id": "glicemia-sorologias",
+      "titulo": "Glicemia, hemoglobina glicada e sorologias",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames bioquímicos, Glicose, p. 79–80; Exames sorológicos, p. 73–78; Doenças autoimunes, p. 78 (contador; fronteiras não confirmadas, p. 78 sem leitura própria)",
+      "texto": "**Glicemia.** O livro chama de irracional operar sem avaliar a glicemia: o diabético exige cuidado com a cicatrização e a resposta inflamatória, o que pode significar menor resposta às infecções, e o estresse cirúrgico pode descompensar o diabetes no pós-operatório. Paciente compensado (normoglicêmico e sem glicosúria, isto é, sem glicose na urina) pode ser considerado normal para a cirurgia.\n- **Glicemia em jejum** (sangue venoso, jejum de 12 h): não deve passar de 110 mg/dℓ. É o retrato do momento.\n- **Hemoglobina glicosilada (HbA1c):** reflete os **últimos 3 meses**, pois parte da glicose se fixa na hemoglobina até o eritrócito ser destruído. Confirma se o paciente que diz controlar bem a glicemia controla mesmo. Abaixo de **7%** é bom controle; referência de 4 a 6% (por cromatografia líquida de alta performance); repetir a cada 6 meses, segundo a American Diabetes Association citada no livro. Não substitui a glicemia diária.\n\n**Sorologias** dosam anticorpos ou antígenos no soro, para diagnosticar ou acompanhar a doença. O essencial:\n- **IgM e IgG:** na hepatite A, o IgM indica doença em atividade; na caxumba e no sarampo, IgG e IgM reagentes confirmam e IgG sozinho indica doença passada ou vacina. Na rubéola e na toxoplasmose o IgM pode durar mais de um ano, por isso se pede a avidez do IgG.\n- **Sífilis:** o teste não treponêmico (VDRL) pode dar falso-positivo; confirma-se com um treponêmico (FTA-ABS), que permanece positivo depois (cicatriz sorológica).\n- **HIV:** duas técnicas de ELISA diferentes; se discordam ou se ambas são positivas, o Western blot é obrigatório.\n- **Hepatite B:** HBsAg positivo por mais de 6 meses indica portador; anti-HBs de 10 mUI/mℓ ou mais é considerado expressivo na proteção.\n- **Pênfigos e penfigoides:** a imunofluorescência direta, em biópsia, mostra IgG e complemento entre as células da epiderme nos pênfigos e em linha na membrana basal nos penfigoides."
+    },
+    {
+      "id": "resumo-exames",
+      "titulo": "Pergunta clínica e exame: quadro-resumo",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos Diagnósticos, síntese das seções anteriores, p. 57–80",
+      "texto": "Cada linha repete o que as seções anteriores já trazem.\n\n| Pergunta clínica | Exame que o livro indica | Seção |\n|---|---|---|\n| Cárie entre dentes, excesso de restauração | radiografia interproximal | radiografias |\n| Lesão em dente tratado, área periapical | radiografia periapical | radiografias |\n| Raiz residual ou dente incluso em desdentado; sialolitíase no ducto submandibular | radiografia oclusal | radiografias |\n| Lesão extensa de maxila ou mandíbula; paciente não abre a boca | radiografia panorâmica | radiografias |\n| Lesão traumática ou neoplásica e suas relações; área do osso antes do implante | tomografia computadorizada | imagem |\n| Glândulas salivares maiores | ultrassonografia | imagem |\n| Disco da articulação temporomandibular | ressonância magnética | imagem |\n| Metástase óssea | cintilografia óssea | imagem |\n| Biópsia impossível por impedimento ou recusa; vesículas, bolhas, pênfigo | citologia esfoliativa | citologia |\n| Lesão ulcerada com suspeita de malignidade, placa ceratótica, mácula eritroplásica, citologia classe III a V, lesão óssea | biópsia (primeira escolha) | biopsia |\n| Suspeita de neoplasia maligna, manifestação bucal de doença sistêmica, lesão muito extensa | biópsia incisional | incisional-excisional |\n| Lesão pequena, sem suspeita de malignidade | biópsia excisional | incisional-excisional |\n| Suspeita de melanoma | encaminhar direto ao oncologista | incisional-excisional |\n| Lesão intraóssea antes de biopsiar | punção | biopsia |\n| Linfonodo, glândula salivar: inflamatório, benigno ou maligno? | PAAF | paaf |\n| Via intrínseca, hemofilia | TTPA | hemograma-coagulograma |\n| Plaquetas e vasos | tempo de sangramento | hemograma-coagulograma |\n| Controle do diabetes nos últimos 3 meses | hemoglobina glicosilada | glicemia-sorologias |\n| Confirmar sífilis | teste treponêmico (FTA-ABS) | glicemia-sorologias |"
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais as três metas de um exame complementar, segundo o capítulo?",
+      "verso": "Confirmação diagnóstica, exclusão diagnóstica e prospecção em segmentos populacionais. O dentista busca, em geral, uma das duas primeiras.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Introdução, p. 57"
+    },
+    {
+      "id": "f02",
+      "frente": "Como o capítulo define sensibilidade e especificidade?",
+      "verso": "**Especificidade:** caracterizar apenas os doentes, excluindo falso-positivos e falso-negativos. **Sensibilidade:** caracterizar a doença sem excluir doentes classificados como sadios.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Introdução, p. 57"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual a principal indicação da radiografia interproximal?",
+      "verso": "Suspeita de **cárie interproximal**. Mostra coroas e cristas ósseas; a raiz não aparece. Avalia também excesso proximal de restaurações.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Técnicas intrabucais, Radiografia interproximal, p. 57"
+    },
+    {
+      "id": "f04",
+      "frente": "Quando pedir radiografia oclusal?",
+      "verso": "Desdentado total (raízes residuais, dentes inclusos, lesões que a periapical não mostrou), suspeita de sialolitíase no ducto submandibular e fraturas de maxila e mandíbula.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Técnicas intrabucais, Radiografia oclusal, p. 57"
+    },
+    {
+      "id": "f05",
+      "frente": "Para que serve a radiografia panorâmica em Estomatologia?",
+      "verso": "Investigar lesões extensas da maxila ou da mandíbula, muitas vezes com aumento de volume e assimetria facial, e quando o paciente não abre a boca para o filme intrabucal.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Técnicas extrabucais, Radiografia panorâmica, p. 57–58"
+    },
+    {
+      "id": "f06",
+      "frente": "Quando a citologia esfoliativa entra no lugar da biópsia?",
+      "verso": "Quando a biópsia não é possível, por impedimento clínico ou por recusa do paciente. O método não substitui a biópsia.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Citologia esfoliativa, p. 62"
+    },
+    {
+      "id": "f07",
+      "frente": "O que fazer com cada classe da citologia esfoliativa?",
+      "verso": "Classe 0: material insuficiente, repetir. I: normal. II: inflamatória. III, IV e V: sugestiva, fortemente sugestiva e conclusiva de malignidade, e levam à biópsia.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Citologia esfoliativa, p. 62; classes III a V e biópsia, Biópsia, p. 63"
+    },
+    {
+      "id": "f08",
+      "frente": "Que instrumento usar na coleta da citologia, e qual evitar?",
+      "verso": "Espátula metálica ou *citobrush*. Evitar espátula de madeira e zaragatoa, que desidratam o material.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Citologia esfoliativa, p. 62"
+    },
+    {
+      "id": "f09",
+      "frente": "Em que lesões a biópsia é de primeira escolha?",
+      "verso": "Lesão com suspeita de malignidade, úlcera que não cicatriza após 10 a 20 dias, placa ceratótica, mácula eritroplásica, citologia classe III a V e lesão óssea ou crescimento da mucosa.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual a diferença entre biópsia incisional e excisional?",
+      "verso": "**Incisional:** retira só um fragmento (suspeita de malignidade, doença sistêmica, lesão muito extensa). **Excisional:** retira toda a lesão, com bordas de tecido sadio (lesão pequena, sem suspeita de malignidade).",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63–64"
+    },
+    {
+      "id": "f11",
+      "frente": "O que fazer antes de biopsiar uma lesão intraóssea?",
+      "verso": "A punção, para eliminar a possibilidade de lesão angiomatosa, que a radiografia sozinha muitas vezes não distingue.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 64"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual a conduta preconizada na suspeita de melanoma maligno oral?",
+      "verso": "Encaminhar o paciente direto ao oncologista a partir da suspeita, porque a manipulação pode agravar a lesão ou causar metástases.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63"
+    },
+    {
+      "id": "f13",
+      "frente": "Que achados da PAAF indicam lesão benigna?",
+      "verso": "Baixa celularidade, baixa aderência entre as células e polimorfismo.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Punção aspirativa com agulha fina, p. 65"
+    },
+    {
+      "id": "f14",
+      "frente": "Cite contraindicações da ressonância magnética.",
+      "verso": "Clipes eletromagnéticos de cirurgia de aneurisma cerebral, marca-passo, prótese valvar cardíaca, claustrofobia e gestação.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Ressonância magnética, p. 66"
+    },
+    {
+      "id": "f15",
+      "frente": "Que exame do coagulograma avalia a via intrínseca (hemofilias A e B)?",
+      "verso": "O tempo de tromboplastina parcial ativada (TTPA). O tempo de protrombina avalia as vias extrínseca e comum.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames hematológicos, Coagulograma, p. 68–69"
+    },
+    {
+      "id": "f16",
+      "frente": "O que a hemoglobina glicosilada (HbA1c) mostra que a glicemia em jejum não mostra?",
+      "verso": "O controle dos últimos 3 meses; a glicemia em jejum é um retrato do momento. Abaixo de 7% é bom controle.",
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames bioquímicos, Glicose, p. 79–80"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente de 58 anos, tabagista, tem úlcera extensa de 4 cm na borda da língua, de bordas endurecidas. A hipótese é carcinoma espinocelular. Ele aceita o procedimento e não tem impedimento clínico. Que exame o livro indica como primeira escolha?",
+      "alternativas": [
+        {
+          "texto": "Citologia esfoliativa, para evitar o corte",
+          "correta": false,
+          "justificativa": "A citologia entra quando a biópsia não é possível por impedimento clínico ou recusa; o paciente aceita e não tem impedimento. O livro diz que ela não substitui a biópsia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Biópsia excisional, retirando a lesão inteira",
+          "correta": false,
+          "justificativa": "A excisional é indicada para lesões pequenas, sem suspeita de malignidade; aqui a lesão é extensa e há suspeita de neoplasia maligna.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63–64"
+        },
+        {
+          "texto": "Biópsia incisional, retirando um fragmento",
+          "correta": true,
+          "justificativa": "A incisional retira só um fragmento e é indicada na suspeita de neoplasia maligna e nas lesões muito extensas. Lesão ulcerada com suspeita de malignidade é indicação de primeira escolha de biópsia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        },
+        {
+          "texto": "Encaminhar direto ao oncologista, sem biopsiar",
+          "correta": false,
+          "justificativa": "O livro preconiza o encaminhamento direto na suspeita de melanoma; aqui a hipótese é carcinoma espinocelular.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63",
+      "secao": "incisional-excisional",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente de 45 anos tem uma lesão enegrecida no palato, de crescimento recente. O clínico suspeita de melanoma maligno. Qual conduta o livro preconiza (a que ele recomenda, e não a prática de um serviço que ele apenas relata)?",
+      "alternativas": [
+        {
+          "texto": "Biópsia excisional no consultório, com margem de segurança",
+          "correta": false,
+          "justificativa": "A manipulação pode agravar a lesão ou causar metástases; por isso o livro preconiza o encaminhamento direto na suspeita de melanoma.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        },
+        {
+          "texto": "Citologia esfoliativa e retorno com o laudo",
+          "correta": false,
+          "justificativa": "A citologia entra quando a biópsia não é possível por impedimento clínico ou recusa; para a suspeita de melanoma o livro preconiza encaminhar direto ao oncologista.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        },
+        {
+          "texto": "Biópsia incisional no consultório e encaminhamento com o resultado",
+          "correta": false,
+          "justificativa": "Essa é a prática do ambulatório da USP, que o livro relata; a conduta que ele preconiza na suspeita de melanoma é o encaminhamento direto, porque a manipulação pode agravar a lesão ou causar metástases.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        },
+        {
+          "texto": "Encaminhar direto ao oncologista a partir da suspeita",
+          "correta": true,
+          "justificativa": "A neoplasia é, em geral, agressiva, e a manipulação pode agravar a lesão ou causar metástases; o livro preconiza o encaminhamento direto.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63",
+      "secao": "incisional-excisional",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "O laudo da citologia esfoliativa de uma lesão da mucosa chega como classe 0. Como interpretar?",
+      "alternativas": [
+        {
+          "texto": "Material insuficiente: repetir o exame",
+          "correta": true,
+          "justificativa": "Pela classificação de Papanicolaou e Traut adotada no capítulo, a classe 0 é material insuficiente e o exame deve ser repetido.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Células fortemente sugestivas de malignidade: biopsiar",
+          "correta": false,
+          "justificativa": "Esse é o significado da classe IV, não da classe 0.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Células normais: encerrar a investigação",
+          "correta": false,
+          "justificativa": "Células normais são a classe I; a classe 0 indica material insuficiente.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Células inflamatórias, sem malignidade",
+          "correta": false,
+          "justificativa": "Isso é a classe II; a classe 0 indica material insuficiente.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Citologia esfoliativa, p. 62",
+      "secao": "citologia",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente saudável, que concorda com a biópsia, tem uma pequena elevação de 5 mm na mucosa jugal, de aspecto benigno, sem nenhuma suspeita de malignidade. O exame vai corresponder ao tratamento. Que tipo de biópsia está indicado?",
+      "alternativas": [
+        {
+          "texto": "Biópsia incisional, retirando um fragmento",
+          "correta": false,
+          "justificativa": "A incisional é indicada na suspeita de neoplasia maligna, em doença sistêmica ou em lesão muito extensa; nenhuma dessas situações aparece no caso.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        },
+        {
+          "texto": "Citologia esfoliativa no lugar da biópsia",
+          "correta": false,
+          "justificativa": "A citologia entra quando a biópsia não é possível por impedimento clínico ou recusa; o paciente é saudável e concorda com o procedimento.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Biópsia excisional, retirando toda a lesão com bordas de tecido sadio",
+          "correta": true,
+          "justificativa": "A excisional é indicada para lesão pequena, sem suspeita de malignidade, quando o exame corresponde ao tratamento; as bordas da peça devem mostrar tecido sadio.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63–64"
+        },
+        {
+          "texto": "Encaminhar direto ao oncologista",
+          "correta": false,
+          "justificativa": "O encaminhamento direto é o que o livro preconiza na suspeita de melanoma; o caso não traz essa suspeita.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 63–64",
+      "secao": "incisional-excisional",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "O patologista descreve o esfregaço de uma PAAF de lesão de glândula salivar menor com baixa celularidade, baixa aderência entre as células e polimorfismo. Qual a interpretação?",
+      "alternativas": [
+        {
+          "texto": "Lesão maligna, pois o polimorfismo indica malignidade",
+          "correta": false,
+          "justificativa": "O livro diz que esse conjunto de achados indica lesão benigna.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Punção aspirativa com agulha fina, p. 65"
+        },
+        {
+          "texto": "Lesão benigna",
+          "correta": true,
+          "justificativa": "Baixa celularidade, baixa aderência celular e polimorfismo indicam lesão benigna, segundo o capítulo.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Punção aspirativa com agulha fina, p. 65"
+        },
+        {
+          "texto": "Tipo histológico da neoplasia definido, dispensando outro exame",
+          "correta": false,
+          "justificativa": "Uma desvantagem da PAAF, segundo o livro, é não classificar adequadamente as neoplasias.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Punção aspirativa com agulha fina, p. 65"
+        },
+        {
+          "texto": "Material insuficiente: repetir a punção",
+          "correta": false,
+          "justificativa": "O livro associa esse conjunto de achados (baixa celularidade, baixa aderência entre as células e polimorfismo) à lesão benigna.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Punção aspirativa com agulha fina, p. 65"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Punção aspirativa com agulha fina, p. 65",
+      "secao": "paaf",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "A radiografia mostra lesão radiolúcida expansiva na mandíbula, e o clínico decide investigar. A radiografia sozinha não diz se a lesão é angiomatosa. O que o livro manda fazer antes da biópsia?",
+      "alternativas": [
+        {
+          "texto": "Realizar a punção, para eliminar a possibilidade de lesão angiomatosa",
+          "correta": true,
+          "justificativa": "Nas lesões intraósseas, quando a radiografia não aponta se a lesão é angiomatosa, deve-se puncionar antes da biópsia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 64"
+        },
+        {
+          "texto": "Fazer a biópsia incisional direto, pois a radiografia já basta",
+          "correta": false,
+          "justificativa": "O livro diz que a radiografia muitas vezes não aponta se a lesão é angiomatosa; por isso a punção vem antes.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 64"
+        },
+        {
+          "texto": "Fazer citologia esfoliativa da mucosa sobre a lesão",
+          "correta": false,
+          "justificativa": "A citologia colhe células da superfície da mucosa; a lesão é intraóssea e o livro pede punção antes da biópsia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Citologia esfoliativa, p. 62"
+        },
+        {
+          "texto": "Aguardar, pois lesão óssea pode esperar",
+          "correta": false,
+          "justificativa": "O livro admite esperar na suspeita de lesão benigna; para lesão óssea, expansiva ou não, a biópsia é de primeira escolha.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Biópsia, p. 63–64"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos citológicos e biópsia, Biópsia, p. 64",
+      "secao": "biopsia",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Um paciente vai ser operado, e há suspeita de hemofilia A (deficiência do fator VIII). Qual exame do coagulograma avalia melhor a via intrínseca?",
+      "alternativas": [
+        {
+          "texto": "Tempo de sangramento",
+          "correta": false,
+          "justificativa": "O tempo de sangramento avalia alterações das plaquetas e dos vasos, não a via intrínseca.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Tempo de sangramento, p. 68–69"
+        },
+        {
+          "texto": "Contagem de plaquetas",
+          "correta": false,
+          "justificativa": "A contagem de plaquetas mede as plaquetas; o livro liga a via intrínseca e as hemofilias A e B ao TTPA.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Contagem de plaquetas, p. 68–69"
+        },
+        {
+          "texto": "Tempo de protrombina",
+          "correta": false,
+          "justificativa": "O tempo de protrombina avalia as vias extrínseca e comum; a via intrínseca, onde está o fator VIII, é avaliada pelo TTPA.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Tempo de protrombina, p. 68–69"
+        },
+        {
+          "texto": "Tempo de tromboplastina parcial ativada",
+          "correta": true,
+          "justificativa": "O TTPA é medido para avaliar as hemofilias A e B e é o melhor teste da via intrínseca, que inclui o fator VIII.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Tempo de tromboplastina parcial ativada, p. 68–69"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames hematológicos, Coagulograma, p. 68–69",
+      "secao": "hemograma-coagulograma",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Um paciente diabético afirma que controla bem a glicemia. Que exame confirma o controle dos últimos 3 meses?",
+      "alternativas": [
+        {
+          "texto": "Tempo de coagulação",
+          "correta": false,
+          "justificativa": "O tempo de coagulação mede a formação do coágulo, não o controle da glicemia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Tempo de coagulação, p. 68–69"
+        },
+        {
+          "texto": "Glicemia em jejum",
+          "correta": false,
+          "justificativa": "A glicemia em jejum é instantânea, segundo o livro; não reflete os últimos 3 meses.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Exames bioquímicos, Glicose, p. 79–80"
+        },
+        {
+          "texto": "Contagem de plaquetas",
+          "correta": false,
+          "justificativa": "A contagem de plaquetas avalia a capacidade de coagular, não a glicemia.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Coagulograma, Contagem de plaquetas, p. 68–69"
+        },
+        {
+          "texto": "Hemoglobina glicosilada (HbA1c)",
+          "correta": true,
+          "justificativa": "A HbA1c reflete os últimos 3 meses e confirma se o paciente que alega bom controle de fato o tem; abaixo de 7% é bom controle.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Exames bioquímicos, Glicose, p. 79–80"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames bioquímicos, Glicose, p. 79–80",
+      "secao": "glicemia-sorologias",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente de 30 anos, com todos os dentes, queixa-se de dor sem lesão aparente. O dentista suspeita de cárie entre os molares e não vê sinal de lesão extensa nem de trauma. Qual radiografia está indicada?",
+      "alternativas": [
+        {
+          "texto": "Panorâmica",
+          "correta": false,
+          "justificativa": "A panorâmica é indicada para lesões extensas da maxila ou da mandíbula, e o caso não traz isso; as extrabucais têm menos precisão que as intrabucais.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Técnicas extrabucais, p. 57–58"
+        },
+        {
+          "texto": "Oclusal",
+          "correta": false,
+          "justificativa": "A oclusal é indicada em desdentados, sialolitíase e fraturas; o paciente tem todos os dentes e não tem trauma.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Radiografia oclusal, p. 57"
+        },
+        {
+          "texto": "Tomografia computadorizada",
+          "correta": false,
+          "justificativa": "A TC é usada para investigar lesões traumáticas ou neoplásicas e planejar implantes; o caso não traz nenhuma dessas situações.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Tomografia computadorizada, p. 60"
+        },
+        {
+          "texto": "Interproximal",
+          "correta": true,
+          "justificativa": "A principal indicação da interproximal é a suspeita de cáries interproximais; ela mostra as coroas e as cristas ósseas.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Radiografia interproximal, p. 57"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Métodos radiológicos, Técnicas intrabucais, Radiografia interproximal, p. 57",
+      "secao": "radiografias",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "O teste não treponêmico (VDRL) de um paciente com suspeita de sífilis é reagente. Qual o próximo passo segundo o livro?",
+      "alternativas": [
+        {
+          "texto": "Confirmar com teste treponêmico, como o FTA-ABS",
+          "correta": true,
+          "justificativa": "Os não treponêmicos podem dar falso-positivo; por isso se faz a bateria treponêmica de confirmação.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Sorologia para doenças bacterianas, p. 74–75"
+        },
+        {
+          "texto": "Considerar a sífilis confirmada e dispensar outros exames",
+          "correta": false,
+          "justificativa": "O livro diz que os não treponêmicos podem dar falso-positivo, por isso se confirma com treponêmico.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Sorologia para doenças bacterianas, p. 74–75"
+        },
+        {
+          "texto": "Pedir Western blot",
+          "correta": false,
+          "justificativa": "O livro cita o Western blot como obrigatório na sorologia do HIV; para o VDRL reagente na sífilis, indica confirmar com teste treponêmico.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Sorologia para doenças virais, HIV, p. 76–77"
+        },
+        {
+          "texto": "Pedir a avidez do IgG",
+          "correta": false,
+          "justificativa": "O livro pede a avidez do IgG quando o IgM da rubéola ou da toxoplasmose pode durar mais de um ano; para o VDRL reagente na sífilis, indica confirmar com teste treponêmico.",
+          "fonte": "marcucci3-cap5",
+          "onde": "cap. 5, Exames sorológicos, IgM e IgG (rubéola, toxoplasmose), p. 77–78"
+        }
+      ],
+      "fonte": "marcucci3-cap5",
+      "onde": "cap. 5, Exames sorológicos, Sorologia para doenças bacterianas, p. 74–75 (contador; fronteiras não confirmadas)",
+      "secao": "glicemia-sorologias",
+      "figura": null
+    }
+  ]
+}

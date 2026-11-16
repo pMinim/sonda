@@ -70,6 +70,11 @@ def validar_topico(caminho, slug_esperado):
             if "fonte" in a and a["fonte"] not in fontes:
                 erro(f"{onde}: questão '{q.get('id')}' alternativa {k+1} tem fonte '{a['fonte']}' que não existe em fontes[]")
             checar_onde(a, f"questão '{q.get('id')}' alternativa {k+1}", onde)
+        sec = q.get("secao")
+        if not isinstance(sec, str) or not sec.strip():
+            erro(f"{onde}: questão '{q.get('id')}' sem 'secao'")
+        elif sec not in secoes:
+            erro(f"{onde}: questão '{q.get('id')}' aponta para seção inexistente '{sec}'")
         fig = q.get("figura")
         if fig and not (RAIZ / fig).exists() and not (caminho.parent / fig).exists():
             erro(f"{onde}: questão '{q.get('id')}' referencia figura '{fig}' inexistente")

@@ -48,14 +48,18 @@
       "codigo": "14723",
       "nome": "Propedêutica Clínica",
       "sigla": "Propedêutica",
-      "status": "em-breve",
-      "areas": [],
+      "status": "ativa",
+      "areas": [
+        "Estomatologia",
+        "Endodontia",
+        "Clínica Integrada"
+      ],
       "turmas": [
         {
           "nome": "Liberdade · terça noite",
           "proximaProva": {
-            "nome": "A2",
-            "data": "2026-11-17"
+            "nome": "A1",
+            "data": "2026-12-01"
           }
         }
       ]

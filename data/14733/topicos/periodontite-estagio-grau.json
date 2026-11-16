@@ -263,6 +263,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 4 e notas",
+   "secao": "conta-e-casos",
    "figura": null
   },
   {
@@ -300,6 +301,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 3 e notas",
+   "secao": "caso-estagio",
    "figura": null
   },
   {
@@ -337,6 +339,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 4 e notas",
+   "secao": "grau",
    "figura": null
   },
   {
@@ -374,6 +377,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)",
+   "secao": "criterios",
    "figura": null
   },
   {
@@ -411,6 +415,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 3 e notas",
+   "secao": "estagios",
    "figura": null
   },
   {
@@ -448,6 +453,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico)",
+   "secao": "criterios",
    "figura": null
   },
   {
@@ -485,6 +491,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 1",
+   "secao": "estagio-grau-extensao",
    "figura": null
   },
   {
@@ -522,6 +529,7 @@
    ],
    "fonte": "tonetti2018",
    "onde": "Tabela 3 e notas",
+   "secao": "conta-e-casos",
    "figura": null
   }
  ]

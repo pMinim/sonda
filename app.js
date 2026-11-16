@@ -10,6 +10,8 @@
   var linkIcone = document.querySelector('link[rel="icon"]');
   var ICONE = linkIcone ? linkIcone.getAttribute('href') : 'assets/favicon.svg';
   var filtroErradas = false;   // pedido de abrir o quiz só com as erradas
+  var destinoResumo = null;    // pedido de abrir um tema já na aba Resumo, numa seção ({ slug, sec }); telaTopico consome uma vez
+  var INTERVALOS = [1, 2, 4];  // dias até a questão voltar: errou, 1ª volta, 2ª volta
   var flashSes = null, quizSes = null;
 
   /* ---------- estado ---------- */
@@ -67,6 +69,20 @@
     return Math.round((Date.UTC(p[0], p[1] - 1, p[2]) - a) / 86400000);
   }
   function dataBr(iso) { var p = iso.split('-'); return p[2] + '/' + p[1]; }
+  /* datas da fila de revisão: texto AAAA-MM-DD na data LOCAL do aparelho */
+  function z2(n) { return (n < 10 ? '0' : '') + n; }
+  function isoDe(dt) { return dt.getFullYear() + '-' + z2(dt.getMonth() + 1) + '-' + z2(dt.getDate()); }
+  function hojeIso() { return isoDe(new Date()); }
+  function somaDias(iso, n) {
+    var p = iso.split('-').map(Number);
+    return isoDe(new Date(p[0], p[1] - 1, p[2] + n, 12, 0, 0));
+  }
+  function rotQuestoes(n) { return n + (n === 1 ? ' questão' : ' questões'); }
+  function embaralhar(arr) {
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var tmp = a[i]; a[i] = a[j]; a[j] = tmp; }
+    return a;
+  }
   var SVG_VOLTAR = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>';
 
   var SVG_OK = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M7.5 12.5l3 3 6-7"/></svg>';
@@ -146,6 +162,7 @@
       if (h === 'minhas') return telaMinhas(codigos);
       if (h.indexOf('d-') === 0) return telaDisciplina(h.slice(2), codigos);
       if (h.indexOf('t-') === 0) return telaTopico(h.slice(2), codigos);
+      if (h.indexOf('r-') === 0) return telaRevisao(h.slice(2), codigos);
       ir('minhas');
     }).catch(function (e) {
       cabecalho(null);
@@ -228,6 +245,67 @@
     return { resp: resp, ac: ac, nq: (top.questoes || []).length, dom: dom, nf: (top.flashcards || []).length, erradas: resp - ac };
   }
 
+  /* ---------- fila de revisão ---------- */
+  /* est.fila[slug][idQuestao] = { p: índice do intervalo, em: 'AAAA-MM-DD' (dia em que a questão volta) } */
+  function entradaValida(e) {
+    return !!e && typeof e === 'object' && (e.p === 0 || e.p === 1 || e.p === 2) && typeof e.em === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(e.em);
+  }
+  function objeto(v) { return !!v && typeof v === 'object' && !Array.isArray(v); }
+  /* a regra única: toda resposta de quiz passa por aqui, dentro do mesmo mudar() que grava a resposta */
+  function regraFila(est, slug, id, ok) {
+    var hoje = hojeIso();
+    if (!ok) {
+      if (!objeto(est.fila)) est.fila = {};
+      if (!objeto(est.fila[slug])) est.fila[slug] = {};
+      est.fila[slug][id] = { p: 0, em: somaDias(hoje, INTERVALOS[0]) };
+      return;
+    }
+    var tema = objeto(est.fila) && objeto(est.fila[slug]) ? est.fila[slug] : null;
+    var e = tema ? tema[id] : null;
+    if (!entradaValida(e) || e.em > hoje) return;
+    if (e.p < INTERVALOS.length - 1) tema[id] = { p: e.p + 1, em: somaDias(hoje, INTERVALOS[e.p + 1]) };
+    else {
+      delete tema[id];
+      if (!Object.keys(tema).length) delete est.fila[slug];
+    }
+  }
+  function gravarResposta(slug, id, esc, ok) {
+    mudar(function (e) {
+      e.quiz = e.quiz || {}; e.quiz[slug] = e.quiz[slug] || {};
+      e.quiz[slug][id] = { esc: esc, ok: ok };
+      regraFila(e, slug, id, ok);
+    });
+  }
+  /* entradas válidas da fila de uma disciplina (tema com conteúdo, questão que existe, entrada bem formada) */
+  function filaValida(abertos, porSlug) {
+    var f = ler().fila, out = [];
+    if (!objeto(f)) return out;
+    abertos.forEach(function (t, ordem) {
+      var dados = porSlug[t.slug], ft = f[t.slug];
+      if (!dados || !objeto(ft)) return;
+      var porId = {};
+      (dados.questoes || []).forEach(function (q) { porId[q.id] = q; });
+      Object.keys(ft).forEach(function (id) {
+        var e = ft[id];
+        if (!Object.prototype.hasOwnProperty.call(porId, id) || !entradaValida(e)) return;
+        out.push({ slug: t.slug, titulo: t.titulo, ordem: ordem, q: porId[id], top: dados, p: e.p, em: e.em });
+      });
+    });
+    return out;
+  }
+  function carregarTemas(cod) {
+    return getJson('data/' + cod + '/topicos.json').then(function (tj) {
+      var abertos = tj.topicos.filter(function (t) { return t.status !== 'em-breve'; });
+      return Promise.all(abertos.map(function (t) {
+        /* tema compartilhado: o arquivo mora na disciplina de origem, como na tela do tema */
+        return getJson('data/' + (t.compartilhadoDe || cod) + '/topicos/' + t.slug + '.json').catch(function () { return null; });
+      })).then(function (dados) {
+        var porSlug = {}; abertos.forEach(function (t, i) { porSlug[t.slug] = dados[i]; });
+        return { tj: tj, abertos: abertos, porSlug: porSlug };
+      });
+    });
+  }
+
   /* ---------- disciplina ---------- */
   var STATUS = { 'pronto': ['pronto', 'Pronto'], 'em-revisao': ['revisao', 'Em revisão pelo professor'], 'em-breve': ['breve', 'Conteúdo em breve'] };
   function telaDisciplina(cod, codigos) {
@@ -235,13 +313,14 @@
     if (!d || codigos.indexOf(cod) < 0 || d.status !== 'ativa') return ir('minhas');
     cabecalho(d.sigla, 'minhas', 'Disciplinas');
     app.innerHTML = '';
-    getJson('data/' + cod + '/topicos.json').then(function (tj) {
-      var abertos = tj.topicos.filter(function (t) { return t.status !== 'em-breve'; });
-      return Promise.all(abertos.map(function (t) {
-        return getJson('data/' + cod + '/topicos/' + t.slug + '.json').catch(function () { return null; });
-      })).then(function (dados) {
-        var porSlug = {}; abertos.forEach(function (t, i) { porSlug[t.slug] = dados[i]; });
+    carregarTemas(cod).then(function (r) {
+      var tj = r.tj, abertos = r.abertos, porSlug = r.porSlug;
+      {
         app.appendChild(el('h1', { class: 'large-title', text: d.nome }));
+        var painelRev = painelRevisar(cod, filaValida(abertos, porSlug));
+        if (painelRev) app.appendChild(painelRev);
+        var painelDes = painelDesempenho(d, abertos, porSlug);
+        if (painelDes) app.appendChild(painelDes);
         var areas = d.areas && d.areas.length ? d.areas.slice() : [];
         tj.topicos.forEach(function (t) { if (areas.indexOf(t.area) < 0) areas.push(t.area); });
         ligarTitulo();
@@ -253,7 +332,7 @@
           tops.forEach(function (t) { cards.appendChild(cartaoTopico(t, porSlug[t.slug])); });
           sec.appendChild(cards); app.appendChild(sec);
         });
-      });
+      }
     }).catch(function () { telaErro('Não foi possível carregar os tópicos.', 'minhas'); });
   }
   function cartaoTopico(t, dados) {
@@ -277,6 +356,179 @@
     return wrap;
   }
 
+  /* ---------- para revisar hoje ---------- */
+  function painelRevisar(cod, itens) {
+    if (!itens.length) return null;
+    var hoje = hojeIso();
+    var venc = itens.filter(function (i) { return i.em <= hoje; });
+    var sec = el('section', { class: 'revisar', 'data-revisar': '1' }, [el('h2', { text: 'Para revisar hoje' })]);
+    if (!venc.length) {
+      var prox = itens.reduce(function (m, i) { return i.em < m ? i.em : m; }, itens[0].em);
+      var n = itens.filter(function (i) { return i.em === prox; }).length;
+      sec.appendChild(el('p', { class: 'muted pequeno', 'data-revisar-vazia': '1', text: 'Nada para hoje. Próxima revisão: ' + dataBr(prox) + ' (' + rotQuestoes(n) + ').' }));
+      return sec;
+    }
+    sec.appendChild(el('p', { class: 'muted pequeno', text: 'Questões que você errou voltam aqui no dia marcado.' }));
+    var grupos = {}, ordemG = [];
+    venc.forEach(function (i) {
+      if (!grupos[i.slug]) { grupos[i.slug] = { slug: i.slug, titulo: i.titulo, ordem: i.ordem, n: 0 }; ordemG.push(i.slug); }
+      grupos[i.slug].n++;
+    });
+    var linhas = ordemG.map(function (s) { return grupos[s]; }).sort(function (a, b) { return (b.n - a.n) || (a.ordem - b.ordem); });
+    sec.appendChild(el('div', { class: 'revisar-lista' }, linhas.map(function (g) {
+      return el('div', { class: 'revisar-linha', 'data-revisar-tema': g.slug, 'data-qtd': g.n }, [
+        el('span', { class: 'revisar-nome', text: g.titulo }),
+        el('span', { class: 'revisar-qtd', text: rotQuestoes(g.n) })]);
+    })));
+    sec.appendChild(el('a', { class: 'btn', href: '#r-' + cod, 'data-acao': 'revisar', text: 'Começar a revisão · ' + rotQuestoes(venc.length) }));
+    sec.appendChild(el('p', { class: 'privacidade', text: 'Errou: volta amanhã. Acertou no dia marcado: volta mais tarde, e depois da terceira vez sai da fila. Fica guardado só neste aparelho.' }));
+    return sec;
+  }
+
+  /* ---------- painel de desempenho ---------- */
+  var SVG_NS = 'http://www.w3.org/2000/svg';
+  function svgEl(tag, attrs, filhos) {
+    var n = document.createElementNS(SVG_NS, tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) {
+      if (k === 'text') n.textContent = attrs[k];
+      else if (attrs[k] != null && attrs[k] !== false) n.setAttribute(k, attrs[k]);
+    });
+    (filhos || []).forEach(function (f) { if (f) n.appendChild(f); });
+    return n;
+  }
+  function rodadasDe(slug) {
+    var r = (ler().rodadas || {})[slug];
+    if (!Array.isArray(r)) return [];
+    return r.filter(function (x) { return x && typeof x.ac === 'number' && typeof x.n === 'number' && x.n > 0; });
+  }
+  function dataRodada(em) {
+    var d = new Date(em);
+    if (isNaN(d.getTime())) return '--/--';
+    function z(n) { return (n < 10 ? '0' : '') + n; }
+    return z(d.getDate()) + '/' + z(d.getMonth() + 1);
+  }
+  function listaE(itens) {
+    if (itens.length < 2) return itens.join('');
+    return itens.slice(0, -1).join(', ') + ' e ' + itens[itens.length - 1];
+  }
+  var NUM_EXT = ['zero', 'uma', 'duas', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito'];
+  function graficoEvolucao(pts) {
+    var W = 300, H = 108, X0 = 44, X1 = 276, YB = 88, YT = 24;
+    var n = pts.length, nmax = 0, mesmoN = true;
+    pts.forEach(function (r) { if (r.n > nmax) nmax = r.n; if (r.n !== pts[0].n) mesmoN = false; });
+    var xs = pts.map(function (r, i) { return n === 1 ? (X0 + X1) / 2 : X0 + i * (X1 - X0) / (n - 1); });
+    var ys = pts.map(function (r) { return YB - (r.ac / r.n) * (YB - YT); });
+    function f(v) { return String(Math.round(v * 10) / 10); }
+    var filhos = [
+      svgEl('line', { class: 'ev-base', x1: 28, y1: YB, x2: 292, y2: YB }),
+      svgEl('line', { class: 'ev-max', x1: 28, y1: YT, x2: 292, y2: YT, 'stroke-dasharray': '3 3' }),
+      svgEl('text', { class: 'ev-eixo', x: 12, y: YB + 3, 'text-anchor': 'middle', text: '0' }),
+      svgEl('text', { class: 'ev-eixo', x: 12, y: YT + 3, 'text-anchor': 'middle', text: String(nmax) })
+    ];
+    if (n > 1) filhos.push(svgEl('polyline', { class: 'ev-linha', points: xs.map(function (x, i) { return f(x) + ',' + f(ys[i]); }).join(' ') }));
+    pts.forEach(function (r, i) {
+      var ult = i === n - 1;
+      filhos.push(svgEl('circle', { class: 'pt' + (ult ? ' ult' : ''), cx: f(xs[i]), cy: f(ys[i]), r: ult ? 5 : 4 }));
+      filhos.push(svgEl('text', { class: 'ev-num', x: f(xs[i]), y: f(ys[i] - 9), 'text-anchor': 'middle', text: mesmoN ? String(r.ac) : r.ac + '/' + r.n }));
+      filhos.push(svgEl('text', { class: 'ev-data', x: f(xs[i]), y: H - 4, 'text-anchor': 'middle', text: dataRodada(r.em) }));
+    });
+    var rot = mesmoN
+      ? listaE(pts.map(function (r) { return String(r.ac); })) + (n === 1 && pts[0].ac === 1 ? ' acerto' : ' acertos') + ' em ' + pts[0].n
+      : listaE(pts.map(function (r) { return r.ac + ' de ' + r.n; })) + ' acertos';
+    var qtd = n === 1 ? 'em uma rodada' : 'em ' + (NUM_EXT[n] || n) + ' rodadas';
+    return svgEl('svg', { class: 'ev-svg', viewBox: '0 0 ' + W + ' ' + H, role: 'img', 'aria-label': 'Evolução no quiz: ' + rot + ', ' + qtd }, filhos);
+  }
+  function regiaoEvolucao(slug, idReg, rods) {
+    var compl = rods.filter(function (r) { return !r.parcial; });
+    var temParcial = rods.length > compl.length;
+    var reg = el('div', { class: 'desemp-evol', id: idReg, 'data-evolucao': slug, hidden: true });
+    if (!compl.length) {
+      reg.setAttribute('data-rodadas', '0');
+      reg.appendChild(el('p', { class: 'muted pequeno', text: 'Ainda não há rodada completa do quiz registrada neste aparelho. A linha de evolução começa na próxima vez que você terminar o quiz deste tema.' }));
+    } else {
+      var pts = compl.slice(-8);
+      reg.setAttribute('data-rodadas', String(pts.length));
+      reg.appendChild(graficoEvolucao(pts));
+      var p1 = pts[0], p2 = pts[pts.length - 1];
+      var mesmoN = pts.every(function (r) { return r.n === p1.n; });
+      var leg;
+      if (pts.length === 1) leg = '1 rodada · ' + p1.ac + (p1.ac === 1 ? ' acerto' : ' acertos') + ' em ' + p1.n;
+      else if (mesmoN) leg = pts.length + ' rodadas · de ' + p1.ac + ' para ' + p2.ac + ' acertos em ' + p1.n;
+      else leg = pts.length + ' rodadas · de ' + p1.ac + '/' + p1.n + ' para ' + p2.ac + '/' + p2.n + ' acertos';
+      reg.appendChild(el('p', { class: 'muted pequeno ev-leg', text: leg }));
+    }
+    if (temParcial && compl.length) reg.appendChild(el('p', { class: 'muted pequeno ev-leg', text: 'As rodadas só com as erradas não entram na linha.' }));
+    reg.appendChild(el('a', { class: 'btn sec', href: '#t-' + slug, text: 'Abrir o tema' }));
+    return reg;
+  }
+  function faixa(rotulo, cls, num, den) {
+    var pct = den ? Math.round(100 * num / den) : 0;
+    return el('span', { class: 'faixa' }, [
+      el('span', { class: 'faixa-rot', text: rotulo }),
+      el('span', { class: 'barra', 'aria-hidden': 'true' }, [el('span', { class: 'barra-in ' + cls, style: 'width:' + pct + '%' })]),
+      el('span', { class: 'faixa-num', text: num + '/' + den })
+    ]);
+  }
+  function painelDesempenho(d, abertos, porSlug) {
+    var itens = [], total = 0;
+    abertos.forEach(function (t, ordem) {
+      var dados = porSlug[t.slug]; if (!dados) return;
+      total++;
+      var p = progressoTopico(t.slug, dados), rods = rodadasDe(t.slug);
+      if (p.resp > 0 || p.dom > 0 || rods.length > 0) itens.push({ slug: t.slug, titulo: t.titulo, p: p, rods: rods, ordem: ordem });
+    });
+    if (!itens.length) return null;
+    function fr(a, b) { return b ? a / b : 0; }
+    itens.sort(function (a, b) {
+      return (fr(a.p.ac, a.p.nq) - fr(b.p.ac, b.p.nq)) || (fr(a.p.dom, a.p.nf) - fr(b.p.dom, b.p.nf)) || (a.ordem - b.ordem);
+    });
+    var sec = el('section', { class: 'desempenho', 'data-desempenho': '1' });
+    sec.appendChild(el('h2', { text: 'Seu desempenho em ' + d.sigla }));
+    sec.appendChild(el('p', { class: 'muted pequeno desemp-cont', text: itens.length + ' de ' + total + ' temas começados' }));
+    (d.turmas || []).forEach(function (t) {
+      var pr = provaTxt(t.proximaProva); if (!pr) return;
+      sec.appendChild(el('p', { class: 'muted pequeno desemp-prova' }, [
+        t.proximaProva.nome + ' · ' + t.nome.replace(/\s*[—–]\s*/g, ' · ') + ' ',
+        el('span', { class: 'selo dias', text: pr.dias })
+      ]));
+    });
+    var lista = el('div', { class: 'desemp-lista' });
+    itens.forEach(function (it) {
+      var idReg = 'evol-' + it.slug;
+      var reg = regiaoEvolucao(it.slug, idReg, it.rods);
+      var btn = el('button', { class: 'desemp-linha', type: 'button', 'aria-expanded': 'false', 'aria-controls': idReg,
+        'data-desemp-tema': it.slug, 'data-quiz': it.p.ac + '/' + it.p.nq, 'data-flash': it.p.dom + '/' + it.p.nf }, [
+        el('span', { class: 'desemp-cab' }, [el('span', { class: 'desemp-titulo', text: it.titulo }), el('span', { class: 'desemp-chev', 'aria-hidden': 'true' })]),
+        faixa('Quiz', 'q', it.p.ac, it.p.nq),
+        faixa('Flashcards', 'f', it.p.dom, it.p.nf)
+      ]);
+      btn.addEventListener('click', function () {
+        var abre = btn.getAttribute('aria-expanded') !== 'true';
+        btn.setAttribute('aria-expanded', abre ? 'true' : 'false');
+        reg.hidden = !abre;
+      });
+      lista.appendChild(el('div', { class: 'desemp-item' }, [btn, reg]));
+    });
+    sec.appendChild(lista);
+    /* com muitos temas começados, só os mais fracos ficam à vista; o resto abre por um botão */
+    var VISIVEIS = 5;
+    if (itens.length > VISIVEIS) {
+      var extras = Array.prototype.slice.call(lista.children, VISIVEIS);
+      var txtTodos = 'Mostrar os ' + itens.length + ' temas começados', txtMenos = 'Mostrar só os ' + VISIVEIS + ' mais fracos';
+      extras.forEach(function (n) { n.hidden = true; });
+      var todos = el('button', { class: 'btn sec desemp-todos', type: 'button', 'data-desemp-todos': '1', 'aria-expanded': 'false', text: txtTodos });
+      todos.addEventListener('click', function () {
+        var abre = todos.getAttribute('aria-expanded') !== 'true';
+        todos.setAttribute('aria-expanded', abre ? 'true' : 'false');
+        todos.textContent = abre ? txtMenos : txtTodos;
+        extras.forEach(function (n) { n.hidden = !abre; });
+      });
+      sec.appendChild(todos);
+    }
+    sec.appendChild(el('p', { class: 'privacidade', text: 'Seu desempenho fica guardado só neste aparelho. O app não envia nada a ninguém; se você trocar de aparelho ou limpar os dados do navegador, ele recomeça.' }));
+    return sec;
+  }
+
   /* ---------- tópico ---------- */
   function acharTopico(slug, codigos) {
     var ativos = codigos.filter(function (c) { var d = disc(c); return d && d.status === 'ativa'; });
@@ -289,6 +541,8 @@
     });
   }
   function telaTopico(slug, codigos) {
+    var dest = destinoResumo; destinoResumo = null;
+    if (dest && dest.slug !== slug) dest = null;
     acharTopico(slug, codigos).then(function (ach) {
       if (!ach) { cabecalho('Tópico', 'minhas'); return telaErro('Tópico não encontrado.', 'minhas'); }
       return getJson('data/' + (ach.meta.compartilhadoDe || ach.cod) + '/topicos/' + slug + '.json').then(function (top) {
@@ -301,23 +555,24 @@
         ligarTitulo();
         var aba = ler().aba; if (['resumo', 'flashcards', 'quiz'].indexOf(aba) < 0) aba = 'resumo';
         if (filtroErradas) aba = 'quiz';
+        if (dest) { aba = 'resumo'; filtroErradas = false; }
         var painel = el('div', { id: 'painel', role: 'tabpanel' });
         var abas = el('div', { class: 'abas', role: 'tablist', 'data-sel': '0' });
         [['resumo', 'Resumo'], ['flashcards', 'Flashcards'], ['quiz', 'Quiz']].forEach(function (a) {
           abas.appendChild(el('button', { class: 'aba', type: 'button', role: 'tab', 'data-aba': a[0], 'aria-selected': 'false', text: a[1],
             onclick: function () { filtroErradas = false; mostrarAba(a[0]); } }));
         });
-        function mostrarAba(nome) {
+        function mostrarAba(nome, secId) {
           mudar(function (e) { e.aba = nome; });
           abas.setAttribute('data-sel', ['resumo', 'flashcards', 'quiz'].indexOf(nome));
           Array.prototype.forEach.call(abas.children, function (b) { b.setAttribute('aria-selected', b.getAttribute('data-aba') === nome ? 'true' : 'false'); });
           painel.innerHTML = '';
-          if (nome === 'resumo') abaResumo(painel, top);
+          if (nome === 'resumo') { abaResumo(painel, top); if (secId) irParaSecao(painel, secId); }
           else if (nome === 'flashcards') abaFlash(painel, top);
-          else abaQuiz(painel, top);
+          else abaQuiz(painel, top, function (id) { mostrarAba('resumo', id); });
         }
         app.appendChild(abas); app.appendChild(painel);
-        mostrarAba(aba);
+        mostrarAba(aba, dest ? dest.sec : null);
       });
     }).catch(function () { cabecalho('Tópico', 'minhas'); telaErro('Não foi possível carregar o tópico.', 'minhas'); });
   }
@@ -332,6 +587,19 @@
   }
   function fonteTxt(top, id, onde) {
     return 'Fonte: ' + fonteRef(top, id) + (onde ? ' — ' + onde : '');
+  }
+
+  /* rola até uma seção do resumo, marca o destino e põe o foco nela (a margem de rolagem fica no CSS) */
+  function irParaSecao(box, id) {
+    var sec = null;
+    Array.prototype.forEach.call(box.querySelectorAll('.secao'), function (n) { if (n.getAttribute('data-secao') === id) sec = n; });
+    if (!sec) return;
+    sec.setAttribute('data-destino', '1');
+    sec.setAttribute('tabindex', '-1');
+    function rolar() { sec.scrollIntoView({ block: 'start', behavior: 'auto' }); }
+    try { sec.focus({ preventScroll: true }); } catch (e) { sec.focus(); }
+    rolar();
+    if (window.requestAnimationFrame) window.requestAnimationFrame(rolar);
   }
 
   /* resumo */
@@ -402,61 +670,116 @@
     iniciar(pendentes());
   }
 
-  /* quiz */
-  function abaQuiz(box, top) {
+  /* quiz: a questão na tela (comum à aba Quiz e à revisão; o.tema só na revisão, onde cada questão traz o tema dela) */
+  function desenharQuestao(box, s, q, top, o) {
+    box.appendChild(el('div', { class: 'contador', text: o.contador }));
+    if (o.tema) box.appendChild(el('div', { class: 'rev-tema', 'data-revisao-tema': o.tema.slug, text: o.tema.titulo }));
+    box.appendChild(el('p', { class: 'enunciado', text: q.enunciado }));
+    if (!s.ordem[o.chave]) s.ordem[o.chave] = embaralhar(q.alternativas);
+    var alts = s.ordem[o.chave];
+    var certa = alts.findIndex(function (a) { return a.correta; });
+    var altsBox = el('div', { class: 'alts' });
+    alts.forEach(function (a, idx) {
+      var resp = s.escolha !== null;
+      var cls = 'alt' + (resp ? (idx === certa ? ' certa' : (idx === s.escolha ? ' errada' : '')) + (idx === s.escolha ? ' escolhida' : '') : '');
+      altsBox.appendChild(el('button', { class: cls, type: 'button', 'data-alt': idx, disabled: resp,
+        onclick: function () { o.aoResponder(idx, certa); } }, [
+        el('span', { class: 'marca', 'aria-hidden': 'true', html: resp ? (idx === certa ? SVG_OK : (idx === s.escolha ? SVG_ERRO : '')) : '' }),
+        el('span', { class: 'letra', text: 'ABCDEFG'[idx] + ')' }), el('span', { text: a.texto })]));
+    });
+    box.appendChild(altsBox);
+    if (s.escolha !== null) {
+      var ok = s.escolha === certa;
+      var fb = el('div', { class: 'feedback', 'data-feedback': ok ? 'certa' : 'errada' }, [
+        el('div', { class: 'veredito ' + (ok ? 'ok' : 'bad') }, [el('span', { class: 'marca', 'aria-hidden': 'true', html: ok ? SVG_OK : SVG_ERRO }), el('span', { text: ok ? 'Correto' : 'Errado' })])]);
+      var grupoJust = el('div', { class: 'grupo' });
+      alts.forEach(function (a, idx) {
+        var marca = idx === certa ? 'Correta' : 'Errada';
+        var p = el('div', { class: 'just' }, [el('strong', { class: idx === certa ? 'certa' : 'errada', text: 'ABCDEFG'[idx] + ') ' + marca + (idx === s.escolha ? ' (sua resposta)' : '') + '. ' }), a.justificativa]);
+        if (a.fonte) p.appendChild(el('span', { class: 'fonte-alt', text: ' (' + fonteCurta(top, a.fonte) + (a.onde ? ' — ' + a.onde : '') + ')' }));
+        if (idx === s.escolha) p.style.color = 'var(--fg)';
+        grupoJust.appendChild(p);
+      });
+      fb.appendChild(grupoJust);
+      fb.appendChild(el('div', { class: 'fonte pequeno muted', text: fonteTxt(top, q.fonte, q.onde) }));
+      fb.appendChild(el('button', { class: 'btn', type: 'button', 'data-acao': 'proxima', text: s.i + 1 < s.fila.length ? 'Próxima' : 'Ver placar',
+        onclick: function () { s.i++; s.escolha = null; o.aoAvancar(); window.scrollTo(0, 0); } }));
+      box.appendChild(fb);
+    }
+  }
+  function rolarFeedback(box) {
+    var f = box.querySelector('.feedback'); if (f && f.scrollIntoView) f.scrollIntoView({ block: 'nearest', behavior: 'auto' });
+  }
+  /* uma linha de "O que reler"; tema (só na revisão) = { slug, titulo }; k = posição (o primeiro botão é o principal) */
+  function linhaReler(l, k, titulo, tema, aoReler) {
+    var erro = l.e > 0;
+    var nome = el('span', { class: 'reler-nome', text: titulo });
+    var quem = tema ? el('div', { class: 'reler-quem' }, [nome, el('span', { class: 'reler-tema', text: tema.titulo })]) : nome;
+    var linha = el('div', { class: 'reler-linha' + (erro ? '' : ' certa'), 'data-reler-secao': l.id, 'data-reler-tema': tema ? tema.slug : false, 'data-erros': l.e, 'data-total': l.t }, [
+      el('div', { class: 'reler-info' }, [quem, el('span', { class: 'reler-cont', text: (erro ? 'errou ' + l.e : 'acertou ' + l.t) + ' de ' + l.t })])]);
+    if (erro) linha.appendChild(el('button', { class: 'btn reler-btn' + (k ? ' sec' : ''), type: 'button', 'data-acao': 'reler', text: 'Reler esta seção', onclick: aoReler }));
+    return linha;
+  }
+
+  function abaQuiz(box, top, irResumo) {
     var qs = top.questoes || [];
     function salvas() { return ((ler().quiz || {})[top.slug]) || {}; }
-    function iniciar(lista) { quizSes = { fila: lista.slice(), i: 0, resp: {}, escolha: null, ordem: {} }; desenhar(); }
-    function embaralhar(arr) {
-      var a = arr.slice();
-      for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var tmp = a[i]; a[i] = a[j]; a[j] = tmp; }
-      return a;
-    }
+    function iniciar(lista, parcial) { quizSes = { fila: lista.slice(), i: 0, resp: {}, escolha: null, ordem: {}, gravada: false, parcial: !!parcial || lista.length !== qs.length }; desenhar(); }
     function desenhar() {
       var s = quizSes;
       box.innerHTML = '';
       if (s.i >= s.fila.length) return placar();
       var q = s.fila[s.i];
-      box.appendChild(el('div', { class: 'contador', text: 'Questão ' + (s.i + 1) + ' de ' + s.fila.length }));
-      box.appendChild(el('p', { class: 'enunciado', text: q.enunciado }));
-      if (!s.ordem[q.id]) s.ordem[q.id] = embaralhar(q.alternativas);
-      var alts = s.ordem[q.id];
-      var certa = alts.findIndex(function (a) { return a.correta; });
-      var altsBox = el('div', { class: 'alts' });
-      alts.forEach(function (a, idx) {
-        var resp = s.escolha !== null;
-        var cls = 'alt' + (resp ? (idx === certa ? ' certa' : (idx === s.escolha ? ' errada' : '')) + (idx === s.escolha ? ' escolhida' : '') : '');
-        altsBox.appendChild(el('button', { class: cls, type: 'button', 'data-alt': idx, disabled: resp,
-          onclick: function () { responder(q, idx, certa); } }, [
-          el('span', { class: 'marca', 'aria-hidden': 'true', html: resp ? (idx === certa ? SVG_OK : (idx === s.escolha ? SVG_ERRO : '')) : '' }),
-          el('span', { class: 'letra', text: 'ABCDEFG'[idx] + ')' }), el('span', { text: a.texto })]));
-      });
-      box.appendChild(altsBox);
-      if (s.escolha !== null) {
-        var ok = s.escolha === certa;
-        var fb = el('div', { class: 'feedback', 'data-feedback': ok ? 'certa' : 'errada' }, [
-          el('div', { class: 'veredito ' + (ok ? 'ok' : 'bad') }, [el('span', { class: 'marca', 'aria-hidden': 'true', html: ok ? SVG_OK : SVG_ERRO }), el('span', { text: ok ? 'Correto' : 'Errado' })])]);
-        var grupoJust = el('div', { class: 'grupo' });
-        alts.forEach(function (a, idx) {
-          var marca = idx === certa ? 'Correta' : 'Errada';
-          var p = el('div', { class: 'just' }, [el('strong', { class: idx === certa ? 'certa' : 'errada', text: 'ABCDEFG'[idx] + ') ' + marca + (idx === s.escolha ? ' (sua resposta)' : '') + '. ' }), a.justificativa]);
-          if (a.fonte) p.appendChild(el('span', { class: 'fonte-alt', text: ' (' + fonteCurta(top, a.fonte) + (a.onde ? ' — ' + a.onde : '') + ')' }));
-          if (idx === s.escolha) p.style.color = 'var(--fg)';
-          grupoJust.appendChild(p);
-        });
-        fb.appendChild(grupoJust);
-        fb.appendChild(el('div', { class: 'fonte pequeno muted', text: fonteTxt(top, q.fonte, q.onde) }));
-        fb.appendChild(el('button', { class: 'btn', type: 'button', 'data-acao': 'proxima', text: s.i + 1 < s.fila.length ? 'Próxima' : 'Ver placar',
-          onclick: function () { s.i++; s.escolha = null; desenhar(); window.scrollTo(0, 0); } }));
-        box.appendChild(fb);
-      }
+      desenharQuestao(box, s, q, top, { contador: 'Questão ' + (s.i + 1) + ' de ' + s.fila.length, chave: q.id,
+        aoResponder: function (idx, certa) { responder(q, idx, certa); }, aoAvancar: desenhar });
     }
     function responder(q, idx, certa) {
       var s = quizSes; if (s.escolha !== null) return;
       s.escolha = idx; s.resp[q.id] = idx === certa;
-      mudar(function (e) { e.quiz = e.quiz || {}; e.quiz[top.slug] = e.quiz[top.slug] || {}; e.quiz[top.slug][q.id] = { esc: idx, ok: idx === certa }; });
+      gravarResposta(top.slug, q.id, idx, idx === certa);
+      /* a rodada é gravada ao responder a última questão da fila, uma única vez por sessão */
+      if (s.i === s.fila.length - 1 && !s.gravada) {
+        s.gravada = true;
+        var acs = 0; s.fila.forEach(function (x) { if (s.resp[x.id]) acs++; });
+        var rod = { em: new Date().toISOString(), ac: acs, n: s.fila.length };
+        if (s.parcial) rod.parcial = true;
+        mudar(function (e) {
+          e.rodadas = e.rodadas || {};
+          var lst = Array.isArray(e.rodadas[top.slug]) ? e.rodadas[top.slug] : [];
+          lst.push(rod);
+          e.rodadas[top.slug] = lst.slice(-60);
+        });
+      }
       desenhar();
-      var f = box.querySelector('.feedback'); if (f && f.scrollIntoView) f.scrollIntoView({ block: 'nearest', behavior: 'auto' });
+      rolarFeedback(box);
+    }
+    /* "O que reler": as questões da rodada agrupadas pela seção do resumo onde está a resposta */
+    function relerBloco() {
+      var s = quizSes, ordemSec = {}, titulos = {}, porSec = {}, ids = [];
+      (top.resumo || []).forEach(function (r, i) { ordemSec[r.id] = i; titulos[r.id] = r.titulo; });
+      s.fila.forEach(function (q) {
+        if (!q.secao || ordemSec[q.secao] == null) return;
+        if (!porSec[q.secao]) { porSec[q.secao] = { id: q.secao, e: 0, t: 0, ord: ordemSec[q.secao] }; ids.push(q.secao); }
+        porSec[q.secao].t++;
+        if (!s.resp[q.id]) porSec[q.secao].e++;
+      });
+      if (!ids.length) return null;
+      var linhas = ids.map(function (i) { return porSec[i]; });
+      var com = linhas.filter(function (l) { return l.e > 0; }).sort(function (a, b) {
+        return (b.e - a.e) || (b.e * a.t - a.e * b.t) || (a.ord - b.ord);
+      });
+      var sem = linhas.filter(function (l) { return !l.e; }).sort(function (a, b) { return a.ord - b.ord; });
+      var bl = el('section', { class: 'reler', 'data-reler': '1' }, [el('h2', { text: 'O que reler' })]);
+      if (!com.length) {
+        bl.appendChild(el('p', { class: 'muted', text: 'Nenhum erro nesta rodada: nada para reler agora.' }));
+        return bl;
+      }
+      var lista = el('div', { class: 'reler-lista' });
+      com.concat(sem).forEach(function (l, k) {
+        lista.appendChild(linhaReler(l, k, titulos[l.id], null, function () { if (irResumo) irResumo(l.id); }));
+      });
+      bl.appendChild(lista);
+      return bl;
     }
     function placar() {
       var s = quizSes;
@@ -464,24 +787,103 @@
       var acertos = s.fila.length - erradas.length;
       box.appendChild(el('div', { class: 'resumo-final', 'data-placar': '1' }, [
         el('div', { class: 'grande', text: 'Você acertou ' + acertos + ' de ' + s.fila.length })]));
+      var bloco = relerBloco();
+      if (bloco) box.appendChild(bloco);
       if (erradas.length) {
         box.appendChild(el('h2', { text: 'Para rever' }));
         box.appendChild(el('ul', { class: 'lista-erradas' }, erradas.map(function (q) { return el('li', { text: q.enunciado }); })));
       }
       box.appendChild(el('div', { class: 'linha-botoes' }, [
-        erradas.length ? el('button', { class: 'btn', type: 'button', text: 'Refazer as erradas', onclick: function () { iniciar(erradas); } }) : null,
+        erradas.length ? el('button', { class: 'btn', type: 'button', text: 'Refazer as erradas', onclick: function () { iniciar(erradas, true); } }) : null,
         el('button', { class: 'btn sec', type: 'button', text: 'Refazer tudo', onclick: function () { iniciar(qs); } })
       ]));
     }
-    var lista = qs;
+    var lista = qs, soErradas = false;
     if (filtroErradas) {
       var sv = salvas();
       var er = qs.filter(function (q) { return sv[q.id] && !sv[q.id].ok; });
-      if (er.length) lista = er;
+      if (er.length) { lista = er; soErradas = true; }
       filtroErradas = false;
     }
-    iniciar(lista);
+    iniciar(lista, soErradas);
   }
+
+  /* ---------- revisão de hoje (#r-<cod>) ---------- */
+  function telaRevisao(cod, codigos) {
+    var d = disc(cod);
+    if (!d || codigos.indexOf(cod) < 0 || d.status !== 'ativa') return ir('minhas');
+    cabecalho('Revisão de hoje', 'd-' + cod, d.sigla);
+    app.innerHTML = '';
+    carregarTemas(cod).then(function (r) {
+      if (rota() !== 'r-' + cod) return;
+      var hoje = hojeIso();
+      var itens = embaralhar(filaValida(r.abertos, r.porSlug).filter(function (i) { return i.em <= hoje; }));
+      app.appendChild(el('div', { class: 'cab-topico' }, [el('h1', { class: 'large-title', text: 'Revisão de hoje' }), el('div', { class: 'meta', text: d.sigla })]));
+      ligarTitulo();
+      var box = el('div', { class: 'rev-box' });
+      app.appendChild(box);
+      var voltar = function () { return el('a', { class: 'btn sec', href: '#d-' + cod, text: 'Voltar à disciplina' }); };
+      if (!itens.length) {
+        box.appendChild(el('p', { text: 'Nada para revisar hoje.' }));
+        box.appendChild(voltar());
+        return;
+      }
+      quizSes = { rev: true, fila: itens.map(function (i) { i.chave = i.slug + '/' + i.q.id; return i; }), i: 0, resp: {}, escolha: null, ordem: {} };
+      desenharRevisao(box, voltar);
+    }).catch(function () { telaErro('Não foi possível carregar a revisão.', 'd-' + cod); });
+  }
+  function desenharRevisao(box, voltar) {
+    var s = quizSes;
+    if (!s || !s.rev) return;
+    box.innerHTML = '';
+    if (s.i >= s.fila.length) return placarRevisao(box, s, voltar);
+    var it = s.fila[s.i];
+    desenharQuestao(box, s, it.q, it.top, { contador: 'Questão ' + (s.i + 1) + ' de ' + s.fila.length, chave: it.chave, tema: { slug: it.slug, titulo: it.titulo },
+      aoResponder: function (idx, certa) {
+        if (s.escolha !== null) return;
+        s.escolha = idx; s.resp[it.chave] = idx === certa;
+        gravarResposta(it.slug, it.q.id, idx, idx === certa);
+        desenharRevisao(box, voltar);
+        rolarFeedback(box);
+      },
+      aoAvancar: function () { desenharRevisao(box, voltar); } });
+  }
+  function fraseFimRevisao(e, a) {
+    var pe = e === 1 ? 'A que você errou volta amanhã.' : 'As ' + e + ' que você errou voltam amanhã.';
+    var pa = a === 1 ? 'A que acertou volta mais tarde ou sai da fila.' : 'As ' + a + ' que acertou voltam mais tarde ou saem da fila.';
+    return (e ? pe : '') + (e && a ? ' ' : '') + (a ? pa : '');
+  }
+  function placarRevisao(box, s, voltar) {
+    var erradas = s.fila.filter(function (i) { return !s.resp[i.chave]; });
+    var acertos = s.fila.length - erradas.length;
+    box.appendChild(el('div', { class: 'resumo-final', 'data-placar': '1' }, [
+      el('div', { class: 'grande', text: 'Você acertou ' + acertos + ' de ' + s.fila.length }),
+      el('p', { class: 'muted', 'data-revisao-fim': '1', text: fraseFimRevisao(erradas.length, acertos) })]));
+    /* "O que reler": só as seções das questões erradas, uma linha por (tema, seção) */
+    var grupos = {}, chaves = [];
+    s.fila.forEach(function (i) {
+      var ords = {}, titulos = {};
+      (i.top.resumo || []).forEach(function (r, k) { ords[r.id] = k; titulos[r.id] = r.titulo; });
+      var sec = i.q.secao;
+      if (!sec || ords[sec] == null) return;
+      var ch = i.slug + '|' + sec;
+      if (!grupos[ch]) { grupos[ch] = { id: sec, slug: i.slug, tema: i.titulo, titulo: titulos[sec], e: 0, t: 0, ordTema: i.ordem, ord: ords[sec] }; chaves.push(ch); }
+      grupos[ch].t++;
+      if (!s.resp[i.chave]) grupos[ch].e++;
+    });
+    var com = chaves.map(function (c) { return grupos[c]; }).filter(function (g) { return g.e > 0; }).sort(function (a, b) {
+      return (b.e - a.e) || (a.ordTema - b.ordTema) || (a.ord - b.ord);
+    });
+    if (com.length) {
+      var lista = el('div', { class: 'reler-lista' });
+      com.forEach(function (g, k) {
+        lista.appendChild(linhaReler(g, k, g.titulo, { slug: g.slug, titulo: g.tema }, function () { destinoResumo = { slug: g.slug, sec: g.id }; ir('t-' + g.slug); }));
+      });
+      box.appendChild(el('section', { class: 'reler', 'data-reler': '1' }, [el('h2', { text: 'O que reler' }), lista]));
+    }
+    box.appendChild(el('div', { class: 'linha-botoes' }, [voltar()]));
+  }
+
 
   window.addEventListener('hashchange', render);
   render();

@@ -208,6 +208,7 @@
    ],
    "fonte": "berglundh2018",
    "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)",
+   "secao": "criterios-berglundh",
    "figura": null
   },
   {
@@ -245,6 +246,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "risco-periodontite",
    "figura": null
   },
   {
@@ -282,6 +284,7 @@
    ],
    "fonte": "berglundh2018",
    "onde": "seção Case definitions and diagnostic considerations (mucosite peri-implantar)",
+   "secao": "tres-condicoes",
    "figura": null
   },
   {
@@ -319,6 +322,7 @@
    ],
    "fonte": "berglundh2018",
    "onde": "seção Case definitions and diagnostic considerations (peri-implantite sem exames anteriores)",
+   "secao": "criterios-berglundh",
    "figura": null
   },
   {
@@ -356,6 +360,7 @@
    ],
    "fonte": "berglundh2018",
    "onde": "seção Peri-implantitis (progressão)",
+   "secao": "tres-condicoes",
    "figura": null
   },
   {
@@ -393,6 +398,7 @@
    ],
    "fonte": "hammerle2018",
    "onde": "definições de deficiência de tecido duro e mole",
+   "secao": "rebordo",
    "figura": null
   },
   {
@@ -430,6 +436,7 @@
    ],
    "fonte": "caton2018",
    "onde": "seção A new classification for peri-implant diseases and conditions",
+   "secao": "paralelo",
    "figura": null
   }
  ]

@@ -208,6 +208,7 @@
    ],
    "fonte": "carranza13",
    "onde": "cap. 69, p. 739–740 (Quadro 69.1)",
+   "secao": "onde-mora",
    "figura": null
   },
   {
@@ -245,6 +246,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 4",
+   "secao": "insercao-supracrestal",
    "figura": null
   },
   {
@@ -282,6 +284,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 4",
+   "secao": "insercao-supracrestal",
    "figura": null
   },
   {
@@ -319,6 +322,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "seção 2",
+   "secao": "fenotipo",
    "figura": null
   },
   {
@@ -356,6 +360,7 @@
    ],
    "fonte": "jepsen2018",
    "onde": "Tabela 4",
+   "secao": "fatores-dente-protese",
    "figura": null
   },
   {
@@ -393,6 +398,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "p. 28",
+   "secao": "quando-nao-cabe",
    "figura": null
   },
   {
@@ -430,6 +436,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "fenotipo",
    "figura": null
   }
  ]

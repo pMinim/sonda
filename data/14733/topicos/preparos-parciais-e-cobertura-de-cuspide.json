@@ -259,6 +259,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 4, p. 127",
+   "secao": "caso-e-frases",
    "figura": null
   },
   {
@@ -296,6 +297,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 21, introdução; Fig. 21.1",
+   "secao": "quando-cobrir",
    "figura": null
   },
   {
@@ -333,6 +335,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 31, seção Forma de resistência; cap. 33, introdução",
+   "secao": "escala",
    "figura": null
   },
   {
@@ -370,6 +373,7 @@
    ],
    "fonte": "kuijper2026",
    "onde": "p. 2 (Introdução)",
+   "secao": "overlay-endocrown",
    "figura": null
   },
   {
@@ -407,6 +411,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 32, seção Acabamento da cavidade",
+   "secao": "preparo-parcial",
    "figura": null
   },
   {
@@ -444,6 +449,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 4, p. 127",
+   "secao": "preparo-parcial",
    "figura": null
   },
   {
@@ -481,6 +487,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 4, p. 127",
+   "secao": "preparo-parcial",
    "figura": null
   },
   {
@@ -518,6 +525,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "caps. 33 e 34",
+   "secao": "overlay-endocrown",
    "figura": null
   },
   {
@@ -555,6 +563,7 @@
    ],
    "fonte": "prott2025",
    "onde": "p. 629 (seção 3.3.1), p. 630 (Tabela 4) e p. 632 (Tabela 6)",
+   "secao": "materiais",
    "figura": null
   },
   {
@@ -592,6 +601,7 @@
    ],
    "fonte": "pegoraro2013",
    "onde": "cap. 4, p. 127",
+   "secao": "materiais",
    "figura": null
   },
   {
@@ -629,6 +639,7 @@
    ],
    "fonte": "mondelli2017",
    "onde": "cap. 33, introdução",
+   "secao": "caso-e-frases",
    "figura": null
   }
  ]

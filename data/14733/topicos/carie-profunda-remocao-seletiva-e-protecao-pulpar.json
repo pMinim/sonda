@@ -264,6 +264,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 885–888",
+      "secao": "com-exposicao",
       "figura": null
     },
     {
@@ -301,6 +302,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 884–885",
+      "secao": "sem-exposicao",
       "figura": null
     },
     {
@@ -338,6 +340,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 906; 886–887",
+      "secao": "sangramento",
       "figura": null
     },
     {
@@ -375,6 +378,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 884, 886–887",
+      "secao": "sangramento",
       "figura": null
     },
     {
@@ -412,6 +416,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 890",
+      "secao": "materiais",
       "figura": null
     },
     {
@@ -449,6 +454,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 905",
+      "secao": "restaurar-acompanhar",
       "figura": null
     },
     {
@@ -486,6 +492,7 @@
       ],
       "fonte": "mondelli-cap20",
       "onde": "p. 211",
+      "secao": "na-cavidade",
       "figura": null
     },
     {
@@ -523,6 +530,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 906–907",
+      "secao": "restaurar-acompanhar",
       "figura": null
     },
     {
@@ -560,6 +568,7 @@
       ],
       "fonte": "cohen12-cap24",
       "onde": "p. 902",
+      "secao": "preservar-a-polpa",
       "figura": null
     }
   ]

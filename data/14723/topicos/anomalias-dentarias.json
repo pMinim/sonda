@@ -1,0 +1,531 @@
+{
+  "slug": "anomalias-dentarias",
+  "titulo": "Anomalias dentárias de número, forma, tamanho, estrutura e erupção",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 2",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap2",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 2, Anomalias Dentárias, p. 50–113.",
+      "curta": "Neville 5ª ed., cap. 2"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "erupcao",
+      "titulo": "Erupção: retardo, impactação, sequestro e anquilose",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Distúrbios localizados da erupção, Retardo na erupção e Características clínicas e radiográficas (falha primária na erupção), p. 69; Falha primária na erupção, Tratamento e prognóstico, p. 70; Impactação, Características clínicas e radiográficas, p. 70; Tratamento e prognóstico, p. 70–71; Anquilose, Patogênese e Características clínicas e radiográficas, p. 71–72; Tratamento e prognóstico, p. 72",
+      "texto": "**Retardo na erupção.** *Emergência* é o momento em que a ponta da coroa passa a gengiva. A erupção é considerada atrasada quando a emergência não ocorre até 12 meses depois do intervalo normal, ou quando a raiz já está 75% formada. Se o atraso é localizado, a radiografia costuma mostrar a barreira no trajeto (supranumerário, lesão, tecido cicatricial): retirá-la pode bastar, e, se o dente não erupciona, faz-se exposição cirúrgica com tração ortodôntica. Se é difuso, procure doença sistêmica, como o hipotireoidismo. Na **falha primária na erupção** o caminho está livre, mas o dente não completa a erupção: infraoclusão de dentes posteriores, em geral bilateral. Se leve, não precisa de tratamento; se grave, o livro indica extração e implante.\n\n**Impactação** é o dente que para de erupcionar antes de emergir. O livro chama todos os não erupcionados de impactados, porque um dente que parece \"incluso\" pode ter por cima um hamartoma ou tumor. Na dentição permanente os mais afetados são os **terceiros molares inferiores**, seguidos pelos molares e caninos superiores. Impactação de decíduo é extremamente rara. A causa mais comum é apinhamento com desenvolvimento insuficiente dos maxilares. O dente pode estar parcial ou totalmente impactado e se classifica pela angulação: mesioangular, distoangular, vertical, horizontal ou invertido.\n\n**Sequestro de erupção:** pequenas espículas ósseas não vitais junto à coroa de um posterior permanente parcialmente irrompido, às vezes com leve sensibilidade ao comer. Em geral não se trata: reabsorve ou esfolia sozinho.\n\n**Conduta na impactação:** observar, tracionar ortodonticamente, transplantar ou remover. A remoção é bem apoiada quando há sintoma ou doença. Para o dente impactado sem sintoma e sem doença, a revisão Cochrane de 2016 não achou evidência suficiente: decide-se com o paciente e acompanha-se em intervalos regulares. Sem intervir, há risco de apinhamento, reabsorção e cárie nos vizinhos, infecção, cistos e neoplasias; intervindo, há risco de perda sensorial, alveolite, trismo, infecção e fratura.\n\n**Anquilose (infraoclusão).** Depois de emergir, o dente continua a erupcionar um pouco, para compensar o desgaste da mastigação e o crescimento dos maxilares. Quando essa erupção para, há anquilose: fusão entre cemento ou dentina e osso alveolar (também chamada de retenção secundária; causa desconhecida). A alteração da oclusão aparece em geral entre 7 e 18 anos, com pico aos 8 e 9; em crianças, a prevalência detectável é de 1,3 a 8,9%. Os mais afetados são os **molares decíduos**, começando pelo primeiro molar inferior (nos decíduos, os inferiores são afetados dez vezes mais que os superiores). Em permanentes é incomum.\n- O dente fica **abaixo do plano oclusal** dos vizinhos, em paciente que já tinha oclusão completa.\n- A percussão só dá som maciço quando mais de 20% da raiz está fundida ao osso.\n- Na radiografia o espaço do ligamento periodontal pode estar ausente, mas a fusão muitas vezes está na furca e a radiografia convencional a detecta com dificuldade; a TCFC (tomografia de feixe cônico) ajuda.\n- Deixado no lugar, os vizinhos quase sempre se inclinam para ele e o antagonista frequentemente extrui; mais raramente há falta de rebordo e impactação do permanente abaixo; aumenta a frequência de mordida aberta e cruzada.\n\n**Conduta na anquilose:** o dente fundido ao osso **não responde à tração ortodôntica**. Se há sucessor permanente, não se extrai o molar decíduo até ficar evidente que a esfoliação não ocorre normalmente ou que surgem alterações oclusais; depois da extração o permanente em geral irrompe normalmente. Só nos molares decíduos graves o livro indica exodontia com mantenedor de espaço. Em dente permanente, ou decíduo sem sucessor, restaura-se a altura oclusal com reconstrução protética."
+    },
+    {
+      "id": "falta-e-tamanho",
+      "titulo": "Dentes que faltam, dentes pequenos e dentes grandes",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73; Características clínicas, Agenesia dentária, p. 74–75; Tratamento e prognóstico, p. 77–78; Alterações de desenvolvimento do tamanho de dentes, Características clínicas, Microdontia e Macrodontia, p. 79–80; Tratamento e prognóstico, p. 80",
+      "texto": "**Termos.** Valem para dente que **não se formou**, e não para o impactado ou extraído:\n- **agenesia:** falha na formação de um dente;\n- **hipodontia:** ausência de 1 a 5 dentes;\n- **oligodontia:** ausência de 6 ou mais dentes, sem contar os terceiros molares;\n- **anodontia:** nenhum dente se formou. \"Anodontia parcial\" é paradoxal e deve ser evitado.\n\n**Frequência:** na dentição permanente, 3 a 10% sem contar os terceiros molares (23% contando); mais em mulheres, cerca de 1,5 para 1. Na decídua é incomum (menos de 1%), e a falta de um decíduo costuma levar à falta do sucessor. Entre brancos com agenesia, cerca de 80% perdem só um ou dois dentes. **Mais ausentes:** terceiros molares, segundos pré-molares e incisivos laterais. **Menos ausentes:** incisivos centrais, primeiros molares e caninos.\n\n**Alerta:** muitas ausências, ou ausência dos dentes mais estáveis (incisivos centrais superiores e primeiros molares), pedem avaliação de **displasia ectodérmica**. A anodontia é rara e aparece na displasia ectodérmica hipoidrótica hereditária.\n\n**Conduta:** um único dente ausente em geral não exige tratamento. Com vários ausentes, faz-se reabilitação protética. Em crianças, prótese fixa convencional em geral não é indicada (risco para a polpa no preparo; o crescimento pode levar os dentes ligados pela prótese à infraoclusão e à anquilose), e o implante age como dente anquilosado, então só entra após o crescimento ósseo, exceto na anodontia. Prótese removível ou ponte em resina costuma servir até lá.\n\n**Tamanho.** **Microdontia** é dente fisicamente menor; dente normal que parece pequeno em arcada grande não conta. A forma isolada mais comum é o **incisivo lateral superior conoide** (coroa em cone, faces proximais convergindo para a borda incisal), que costuma vir com falta de dentes: microdontia se associa à agenesia, e **macrodontia** (dente fisicamente maior, em geral incisivos ou caninos) à hiperdontia. Geralmente só poucos dentes mudam de tamanho. Não há tratamento, salvo por estética (o lateral conoide costuma receber coroa total de porcelana)."
+    },
+    {
+      "id": "numero-mais",
+      "titulo": "Dentes a mais: supranumerários, dentes natais e transposição",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Hiperdontia, p. 75–77; Transposição dentária e Dentes natais e neonatais, p. 77; Tratamento e prognóstico, p. 78",
+      "texto": "**Hiperdontia** é a formação de dentes além do número normal; os extras são **supranumerários**. Na dentição permanente ocorre em 0,1 a 3,8%, mais em homens (2 para 1). Em 76 a 86% dos casos há um só supranumerário, e, quando é único, em cerca de 95% dos casos está na maxila, com predileção pela região anterior. A maioria se desenvolve nas duas primeiras décadas, mas pode surgir bem depois, o que justifica acompanhamento longo.\n\n**Nomes pelo local:** **mesiodente** (região dos incisivos superiores, a mais comum), **distomolar** (quarto molar acessório) e **paramolar** (posterior, por lingual ou vestibular a um molar). **Pela forma:** suplementar (tamanho e forma normais) ou rudimentar (cônico, tuberculado ou molariforme). O mesiodente cônico é dos mais comuns e pode irromper; o tuberculado raramente irrompe. Cerca de 75% dos supranumerários da maxila anterior não erupcionam.\n\n**Quando suspeitar:** se os dentes de uma região demoram a irromper, procure supranumerário. A panorâmica enxerga mal a região anterior: combine com radiografias oclusal e periapical.\n\n**Conduta:** só 7 a 20% dos supranumerários não dão complicação. O tratamento de rotina é **extraí-los cedo, ainda na dentição mista**. Removido cedo, o dente permanente irrompe sozinho em 75% dos casos, entre 18 meses e 3 anos depois; se não erupcionar, expõe-se e traciona-se. No mesiodente, a extração antes dos 6 a 7 anos parece vantajosa; depois dos 10 anos, associou-se a mais malformação dos permanentes vizinhos. Atraso no tratamento traz erupção retardada, dilaceração, diastema, erupção ectópica e risco de cistos e tumores odontogênicos.\n\n**Dentes natais e neonatais.** *Natais* estão presentes ao nascimento; *neonatais* surgem nos primeiros 30 dias. Cerca de 85% dos natais são incisivos inferiores, e cerca de 90% são decíduos que irromperam cedo, e não supranumerários. Se estáveis, conservam-se; remove-se se a mobilidade oferece risco de aspiração. A úlcera na amamentação (doença de Riga-Fede) pode melhorar com placa ou desgaste das bordas incisais. Se a remoção ocorrer nos primeiros 10 dias de vida, dá-se vitamina K.\n\n**Transposição:** um dente normal irrompe na posição errada (por exemplo, canino entre os pré-molares). Já foi confundida com supranumerário, mas se associa a mais hipodontia, e não a hiperdontia."
+    },
+    {
+      "id": "duplos",
+      "titulo": "Dentes duplos (geminação e fusão) e concrescência",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alteração de desenvolvimento da forma dos dentes, Geminação, fusão e concrescência, Características clínicas, p. 80; Concrescência, p. 82; Tratamento e prognóstico, p. 82",
+      "texto": "**Dente duplo** é o nome para **geminação** e **fusão**: dois dentes unidos pela dentina e, talvez, pelas polpas. O livro os distingue **contando os dentes da arcada**, porque as definições históricas (por germe que se divide ou por dois germes que se unem) são confusas:\n- **Geminação:** ao contar os dentes da arcada, o número é o esperado quando o dente duplo vale por um.\n- **Fusão:** mesmo com o dente duplo valendo por um, a arcada fica com um dente a menos.\n\n**Concrescência** é outra coisa e não é dente duplo: dois dentes adjacentes unidos **só pelo cemento**, sem dentina em comum.\n\nAlguns autores dizem que a geminação tem um canal radicular só e a fusão, canais separados, mas isso não vale para todos os casos. Dentes duplos ocorrem nas duas dentições, mais na região anterior e superior, e afetam sobretudo incisivos e caninos. Frequência: 0,3 a 0,5% na permanente e 0,5 a 2,5% na decídua. A geminação é bem mais comum na maxila, e a fusão, na mandíbula. Os aspectos mais comuns: coroa bifurcada sobre uma raiz, coroa grande com raiz grande, duas coroas com raiz dupla cônica, duas coroas com duas raízes ligadas.\n\n**Conduta no dente duplo (geminação e fusão):** na decídua, pode haver apinhamento e erupção ectópica ou retardada do permanente: acompanhe clínica e radiograficamente e extraia se necessário. Na permanente, a TCFC ajuda a ver o nível da união, as raízes e os canais. Se as polpas são separadas, a hemissecção pode funcionar; com câmara pulpar ampla, a secção exige endodontia. Como têm sulcos profundos e cárie fácil, selam-se ou restauram-se.\n\n**Concrescência:** mais na região posterior superior. Pode ser do desenvolvimento (segundo molar com raízes coladas a um terceiro molar impactado) ou **pós-inflamatória** (molar com cárie extensa cujos ápices cobrem as raízes de um terceiro molar inclinado; o cemento repara a área). Em geral não se trata, a menos que atrapalhe a erupção. Na exodontia de dente desvitalizado cujos ápices cobrem o vizinho, espere união inesperada: pode ser preciso separar as raízes cirurgicamente."
+    },
+    {
+      "id": "cuspides-e-invaginado",
+      "titulo": "Cúspide em garra e dente invaginado",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alteração de desenvolvimento da forma dos dentes, Cúspides acessórias, Cúspide em garra, p. 83–84; Dente evaginado, p. 84–85; Dente invaginado, p. 85–87",
+      "texto": "**Cúspide em garra:** cúspide extra, bem delimitada, num dente anterior, que se estende por pelo menos metade da distância entre a junção amelocementária e a borda incisal. Em geral sai da face lingual, em desenho de tridente (\"garra de águia\"); a maioria tem corno pulpar. Atinge sobretudo incisivos superiores permanentes. Nos superiores costuma interferir na oclusão e deve ser removida **aos poucos** (por exemplo, três visitas espaçadas por 6 a 8 semanas), porque a remoção abrupta pode expor a polpa; assim ela recua sem se expor. Depois, o dente é restaurado. Fissura profunda entre a cúspide e o dente, vista na erupção, se restaura preventivamente.\n\n**Dente evaginado** (só menção): cúspide extra de esmalte e dentina na face oclusal, sobretudo de pré-molares, que costuma fraturar; a remoção é sempre indicada.\n\n**Dente invaginado (*dens in dente*):** invaginação profunda da coroa ou da raiz, revestida por esmalte; o coronário é o mais comum, em incisivos laterais superiores. Pedem radiografia: fossa ou sulco palatino, dente em barril ou cone, coroa mais larga que a do lado oposto. Três tipos, com risco diferente para a polpa:\n- **Tipo I:** só na coroa, o mais comum.\n- **Tipo II:** passa da junção amelocementária e termina em fundo cego; há canais ligando a invaginação à polpa, e a necrose pode vir muito antes de o ápice fechar.\n- **Tipo III:** atravessa a raiz e perfura o ápice ou a lateral, sem comunicação imediata com a polpa, mas com lesão inflamatória mesmo com polpa viva.\n\n**Conduta, por tipo:** no **tipo I pequeno**, a radiografia confirma o tipo e a abertura é restaurada após a erupção, para prevenir cárie e doença pulpar; se a invaginação não é detectada cedo, a necrose pulpar é frequente. No **tipo II** maior, remove-se o conteúdo e a dentina cariada e põe-se base de hidróxido de cálcio. Com comunicação ou comprometimento pulpar, endodontia. No **tipo III** com lesão, tratamento endodôntico, às vezes com cirurgia."
+    },
+    {
+      "id": "raiz-e-esmalte",
+      "titulo": "Raiz e esmalte ectópico: pérola, taurodontia e dilaceração",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alteração de desenvolvimento da forma dos dentes, Esmalte ectópico, Pérolas de esmalte, p. 87–89; Taurodontia, p. 89–90; Dilaceração, p. 91–93",
+      "texto": "**Pérola de esmalte:** esmalte na raiz, longe da junção cemento-esmalte, mais em molares superiores e perto da furca, que aparece na radiografia como nódulo radiopaco (pode ser confundido com cálculo; a TCFC resolve), em geral sem tratamento, mas é ponto fraco da inserção periodontal e retém biofilme, por isso pede higiene meticulosa.\n\n**Taurodontia:** câmara pulpar alta, com assoalho e bifurcação deslocados para o ápice; dente retangular, nos molares; diagnóstico pela radiografia. Sem tratamento, mas a endodontia fica mais difícil.\n\n**Dilaceração:** curvatura anormal da raiz, às vezes da coroa. Sem trauma, afeta sobretudo terceiros molares inferiores; após trauma ao decíduo, afeta incisivos superiores. Leve: sem tratamento; cuidado com fratura na exodontia e perfuração na endodontia."
+    },
+    {
+      "id": "estrutura",
+      "titulo": "Estrutura: amelogênese imperfeita, dentinogênese imperfeita e displasia dentinária",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento na estrutura dos dentes, Amelogênese imperfeita, p. 95–101; Distúrbios hereditários da dentina, Dentinogênese imperfeita, p. 101–105; Displasia dentinária radicular, p. 105–106",
+      "texto": "**Amelogênese imperfeita (AI):** defeito hereditário do esmalte, sem doença sistêmica nem síndrome, que em geral atinge decíduos e permanentes. Pela classificação de Witkop, há quatro grandes tipos, pelo que se vê. No fundo, o esmalte é pouco, mas duro (hipoplásico), ou de espessura normal, porém fraco e mole (hipomineralizado):\n- **Hipoplásica:** pouco esmalte, mas duro e bem mineralizado, que contrasta com a dentina na radiografia. Pode ter depressões do tamanho de cabeça de alfinete ou esmalte finíssimo (dentes pequenos, amarelados, com espaços entre eles).\n- **Hipomaturada:** esmalte de espessura normal, mas fraco e quebradiço, com manchas branco-opacas ou marrons; pode lembrar fluorose.\n- **Hipocalcificada:** esmalte mole, \"como queijo\", perdido rápido, marrom-alaranjado, com muito cálculo; sobra só a parte cervical.\n- **Com taurodontia:** esmalte hipomaturado ou hipoplásico, com taurodontia.\n\nAntes da erupção, nos dois tipos hipomineralizados o esmalte tem espessura normal e radiopacidade parecida com a da dentina. Por serem difíceis de distinguir, muitos autores os agrupam como \"AI hipomineralizada\". A diferença que importa é a da hipoplásica: lá falta esmalte (espessura), aqui o esmalte existe, mas é mole (dureza). Os problemas são estética, sensibilidade e perda de dimensão vertical; na hipoplásica generalizada indica-se cobertura protética total cedo.\n\n**Dentinogênese imperfeita (DGI):** defeito hereditário da dentina, autossômico dominante, cerca de 1 em 8.000 brancos nos EUA. Os decíduos são os mais afetados. Os dentes ficam **translúcidos**, de amarelo-marrom a azul-acinzentado; o esmalte se solta da dentina defeituosa e o desgaste é acelerado. Na radiografia: **coroas bulbosas, constrição cervical, raízes finas** e, na forma moderada, câmara inicialmente grande que se **oblitera** rápido após a erupção. Na forma grave, os \"dentes em concha\" têm dentina finíssima e polpa enorme, com exposições pulpares, sobretudo nos decíduos. Coroa total é mal indicada (fratura cervical), e microexposições causam lesão periapical. A osteogênese imperfeita com dentes opalescentes é doença à parte.\n\n**Displasia dentinária:** a forma leve da DGI (antiga displasia dentinária tipo II) tem decíduos como na DGI e permanentes de cor normal, com câmaras em \"corola de cardo\". A **displasia dentinária radicular** é rara e dá \"dentes sem raízes\": coroa e esmalte normais, raízes curtas e sem canal, mobilidade, esfoliação precoce e lesões periapicais sem causa aparente."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: o que mais se confunde",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Geminação, fusão e concrescência, p. 80–82; Amelogênese imperfeita, p. 95–101; Dentinogênese imperfeita, p. 102–105",
+      "texto": "| Anomalia | O que se une ou o que falha | Como se reconhece | Radiografia | Conduta |\n|---|---|---|---|---|\n| **Geminação** | dente duplo (dentina unida) | contagem da arcada normal com o duplo valendo por um; coroa bífida; mais na maxila | um canal comum em muitos casos, não em todos | acompanhar; hemissecção se polpas separadas; selar sulcos |\n| **Fusão** | dente duplo (dentina unida) | contagem com um dente a menos, o duplo valendo por um; mais na mandíbula | canais separados em muitos casos, não em todos | acompanhar; extrair o decíduo se atrapalhar o permanente |\n| **Concrescência** | dois dentes unidos só pelo cemento (não é dente duplo) | região posterior superior; dentina separada | raízes coladas, às vezes após inflamação | sem tratamento; cuidado na exodontia |\n| **Amelogênese imperfeita** | esmalte | esmalte fino, mole ou quebradiço; cor de branco-opaca a marrom | esmalte fino ou com radiopacidade parecida com a da dentina | estética, sensibilidade; cobertura protética precoce na hipoplásica |\n| **Dentinogênese imperfeita** | dentina | dentes translúcidos, amarelo-marrom a azul-acinzentado; esmalte se solta | coroas bulbosas, constrição cervical, raízes finas, polpa obliterada (forma moderada) | proteger do desgaste; coroa total mal indicada |\n\n**O que separa:** entre os dentes duplos, a **contagem** (geminação normal, fusão com um a menos). A concrescência não é dente duplo: une só pelo **cemento**, com a dentina separada. Na estrutura, o **esmalte** perdido de um dente de dentina normal aponta para a AI; a **cor translúcida com coroa bulbosa e polpa obliterada** aponta para a DGI. Na displasia dentinária radicular as coroas são normais e o problema está nas raízes curtas."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quando a erupção é considerada atrasada?",
+      "verso": "Quando a emergência não ocorre até 12 meses depois do intervalo normal, ou quando a raiz já está 75% formada.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Distúrbios localizados da erupção, Retardo na erupção, p. 69"
+    },
+    {
+      "id": "f02",
+      "frente": "Falha primária na erupção: o que é e como aparece?",
+      "verso": "Erupção incompleta mesmo com o caminho livre. Típica nos posteriores, com infraoclusão, em geral bilateral. Leve: sem tratamento.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Distúrbios localizados da erupção, Características clínicas e radiográficas, p. 69; Falha primária na erupção, Tratamento e prognóstico, p. 70"
+    },
+    {
+      "id": "f03",
+      "frente": "Quais são os dentes permanentes mais impactados?",
+      "verso": "Terceiros molares inferiores, seguidos pelos molares e caninos superiores.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Impactação, Características clínicas e radiográficas, p. 70"
+    },
+    {
+      "id": "f04",
+      "frente": "O que é o sequestro de erupção e o que fazer?",
+      "verso": "Espículas ósseas não vitais junto à coroa de posterior permanente parcialmente irrompido, com leve sensibilidade. Em geral sem tratamento: reabsorve ou esfolia.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Impactação, Características clínicas e radiográficas, p. 70; Tratamento e prognóstico, p. 71"
+    },
+    {
+      "id": "f05",
+      "frente": "Como reconhecer a anquilose de um molar decíduo?",
+      "verso": "Dente abaixo do plano oclusal em paciente com oclusão prévia completa. Percussão maciça só se mais de 20% da raiz está fundida. Na radiografia, o espaço do ligamento periodontal pode estar ausente (mas a fusão costuma ficar na furca).",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Anquilose, Características clínicas e radiográficas, p. 71"
+    },
+    {
+      "id": "f06",
+      "frente": "Molar decíduo anquilosado com sucessor presente: extrai-se logo?",
+      "verso": "Não. Espera-se até evidenciar que a esfoliação não ocorre normalmente ou que surgem alterações oclusais. Depois da extração, o permanente em geral irrompe normalmente.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Anquilose, Tratamento e prognóstico, p. 72"
+    },
+    {
+      "id": "f07",
+      "frente": "Hipodontia, oligodontia e anodontia: como se definem?",
+      "verso": "Hipodontia: falta de 1 a 5 dentes. Oligodontia: 6 ou mais, sem contar terceiros molares. Anodontia: nenhum dente se formou.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais dentes permanentes mais faltam e que sinal pede investigar displasia ectodérmica?",
+      "verso": "Terceiros molares, segundos pré-molares e incisivos laterais. Muitas ausências, ou falta de incisivos centrais superiores e primeiros molares, pedem avaliar displasia ectodérmica.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Características clínicas, Agenesia dentária, p. 74"
+    },
+    {
+      "id": "f09",
+      "frente": "Qual é a forma típica da microdontia isolada?",
+      "verso": "Incisivo lateral superior conoide: coroa em cone, faces proximais convergindo para a borda incisal. Costuma vir com agenesia.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do tamanho de dentes, Características clínicas, Microdontia, p. 79–80"
+    },
+    {
+      "id": "f10",
+      "frente": "Mesiodente, distomolar e paramolar: o que são?",
+      "verso": "Mesiodente: supranumerário na região dos incisivos superiores. Distomolar: quarto molar acessório. Paramolar: supranumerário posterior, por lingual ou vestibular a um molar.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Hiperdontia, p. 76"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual é a conduta de rotina para o supranumerário?",
+      "verso": "Extração o mais cedo possível, na dentição mista. Removido cedo, o permanente irrompe sozinho em 75% dos casos, entre 18 meses e 3 anos.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Tratamento e prognóstico, p. 78"
+    },
+    {
+      "id": "f12",
+      "frente": "Dente natal e neonatal: qual a diferença e quando remover?",
+      "verso": "Natal: presente ao nascimento. Neonatal: surge nos primeiros 30 dias. Remove-se se a mobilidade oferece risco de aspiração; estável, conserva-se.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Dentes natais e neonatais, p. 77; Tratamento e prognóstico, p. 78"
+    },
+    {
+      "id": "f13",
+      "frente": "Como distinguir geminação de fusão?",
+      "verso": "Pela contagem dos dentes da arcada, com o dente duplo valendo por um: na geminação o número é o esperado; na fusão fica um dente a menos.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Geminação, fusão e concrescência, p. 80"
+    },
+    {
+      "id": "f14",
+      "frente": "Que sinais clínicos sugerem dente invaginado e pedem radiografia?",
+      "verso": "Fossa ou sulco palatino, dente em barril ou cone, coroa mais larga que a do lado oposto e microdontia localizada.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Dente invaginado, p. 85"
+    },
+    {
+      "id": "f15",
+      "frente": "Como remover uma cúspide em garra que interfere na oclusão?",
+      "verso": "Aos poucos, pois a maioria tem corno pulpar: por exemplo, três visitas espaçadas por 6 a 8 semanas, com verniz fluoretado.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84"
+    },
+    {
+      "id": "f16",
+      "frente": "Que achados clínicos e radiográficos marcam a dentinogênese imperfeita?",
+      "verso": "Dentes translúcidos, de amarelo-marrom a azul-acinzentado; coroas bulbosas, constrição cervical, raízes finas e, na forma moderada, polpa que oblitera depois da erupção.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Dentinogênese imperfeita, Características clínicas e radiográficas, p. 102"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Jovem de 19 anos, sem queixa, tem um terceiro molar inferior impactado, sem cárie, sem cisto e sem lesão no dente vizinho. Qual é a posição do livro sobre esse caso?",
+      "alternativas": [
+        {
+          "texto": "A remoção é obrigatória, porque todo dente impactado evolui para doença",
+          "correta": false,
+          "justificativa": "O livro diz que a remoção é bem apoiada quando há sintoma ou doença; para o dente assintomático e sem doença não há evidência suficiente.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Impactação, Tratamento e prognóstico, p. 70–71"
+        },
+        {
+          "texto": "A remoção é contraindicada, porque a cirurgia sempre causa dano sensorial",
+          "correta": false,
+          "justificativa": "Há riscos de intervir (perda sensorial, alveolite, trismo), mas não são constantes; o livro não contraindica a remoção, deixa a decisão com o paciente.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Impactação, Tratamento e prognóstico, p. 71"
+        },
+        {
+          "texto": "Não há evidência suficiente para decidir: escolhe-se com o paciente e acompanha-se em intervalos regulares",
+          "correta": true,
+          "justificativa": "A revisão Cochrane de 2016 não encontrou evidência suficiente; valores do paciente e experiência clínica orientam, com avaliação regular se o dente for mantido.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Impactação, Tratamento e prognóstico, p. 71"
+        },
+        {
+          "texto": "Deve-se tracionar o dente ortodonticamente, pois é a única opção para o terceiro molar",
+          "correta": false,
+          "justificativa": "A tração é uma das opções (com observação, transplante e remoção), não a única.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Impactação, Tratamento e prognóstico, p. 70"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Impactação, Tratamento e prognóstico, p. 70–71",
+      "secao": "erupcao",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Menino de 8 anos, que sempre teve oclusão completa, apresenta o primeiro molar inferior decíduo discretamente abaixo do plano oclusal dos vizinhos (infraoclusão leve). A radiografia mostra o sucessor permanente presente. Qual é a conduta indicada?",
+      "alternativas": [
+        {
+          "texto": "Tração ortodôntica do molar decíduo para levá-lo ao plano oclusal",
+          "correta": false,
+          "justificativa": "O dente anquilosado está fundido ao osso e não responde à tração; a tentativa pode até intruí-lo.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Anquilose, Tratamento e prognóstico, p. 72"
+        },
+        {
+          "texto": "Não extrair, por ora, e acompanhar até que a esfoliação falhe ou surjam alterações oclusais",
+          "correta": true,
+          "justificativa": "Com o sucessor presente, a extração só se faz quando fica evidente que a esfoliação não ocorre normalmente ou surgem alterações oclusais; depois, o permanente em geral irrompe normalmente.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Anquilose, Tratamento e prognóstico, p. 72"
+        },
+        {
+          "texto": "Reconstrução protética para restaurar a altura oclusal do molar decíduo",
+          "correta": false,
+          "justificativa": "A reconstrução protética é a conduta para dentes permanentes ou decíduos sem sucessor, o que não é o caso.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Anquilose, Tratamento e prognóstico, p. 72"
+        },
+        {
+          "texto": "Extração imediata, porque a anquilose sempre impede a erupção do sucessor",
+          "correta": false,
+          "justificativa": "O livro manda esperar quando há sucessor, e a exodontia com mantenedor fica para os molares decíduos graves; só ocasionalmente o dente anquilosado causa impactação do permanente abaixo dele.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Anquilose, Características clínicas e radiográficas, p. 72"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Anquilose, Características clínicas e radiográficas e Tratamento e prognóstico, p. 71–72",
+      "secao": "erupcao",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Uma adolescente de 15 anos não formou 8 dos seus dentes permanentes, sem contar os terceiros molares. Qual é o termo correto para esse quadro?",
+      "alternativas": [
+        {
+          "texto": "Hipodontia",
+          "correta": false,
+          "justificativa": "Hipodontia é a falta de 1 a 5 dentes.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73"
+        },
+        {
+          "texto": "Anodontia parcial",
+          "correta": false,
+          "justificativa": "O livro diz que esse termo é paradoxal e deve ser evitado.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73"
+        },
+        {
+          "texto": "Anodontia",
+          "correta": false,
+          "justificativa": "Anodontia é a ausência total de formação dentária, o que não ocorre aqui.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73"
+        },
+        {
+          "texto": "Oligodontia",
+          "correta": true,
+          "justificativa": "Oligodontia é a ausência de 6 ou mais dentes, sem contar os terceiros molares.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, definições, p. 72–73",
+      "secao": "falta-e-tamanho",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Menina de 8 anos tem o incisivo central superior direito não erupcionado; o esquerdo já irrompeu. A radiografia mostra um dente cônico entre os incisivos. Qual é a conduta de rotina?",
+      "alternativas": [
+        {
+          "texto": "Extrair o dente cônico supranumerário cedo, ainda na dentição mista",
+          "correta": true,
+          "justificativa": "O tratamento de rotina é extrair os supranumerários o mais cedo possível; removidos cedo, 75% dos permanentes irrompem sozinhos.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Tratamento e prognóstico, p. 78"
+        },
+        {
+          "texto": "Extrair o incisivo central não erupcionado",
+          "correta": false,
+          "justificativa": "O dente permanente é o que se quer preservar; o problema é o supranumerário que o impede de irromper.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Tratamento e prognóstico, p. 78"
+        },
+        {
+          "texto": "Aguardar até a fase adulta, pois a maioria dos supranumerários não dá complicação",
+          "correta": false,
+          "justificativa": "Só 7 a 20% dos supranumerários não dão complicação; o atraso traz erupção retardada, diastema e risco de cistos.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Tratamento e prognóstico, p. 78"
+        },
+        {
+          "texto": "Extrair o supranumerário somente depois dos 10 anos, para facilitar a cirurgia",
+          "correta": false,
+          "justificativa": "A remoção após os 10 anos se associa a mais malformação dos permanentes vizinhos; antes dos 6 a 7 anos parece vantajosa.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Tratamento e prognóstico, p. 78"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Alterações de desenvolvimento do número de dentes, Hiperdontia e Tratamento e prognóstico, p. 76–78",
+      "secao": "numero-mais",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Em uma criança, há um dente duplo no lugar do incisivo lateral e do canino inferiores. Ao contar os dentes da arcada com o dente duplo valendo por um, falta um dente. Qual é a anomalia?",
+      "alternativas": [
+        {
+          "texto": "Geminação",
+          "correta": false,
+          "justificativa": "Na geminação, a arcada tem o número esperado de dentes quando o dente duplo vale por um.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Geminação, fusão e concrescência, p. 80"
+        },
+        {
+          "texto": "Fusão",
+          "correta": true,
+          "justificativa": "Fusão é o dente duplo em que a arcada fica com um dente a menos, mesmo com o dente duplo valendo por um.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Geminação, fusão e concrescência, p. 80"
+        },
+        {
+          "texto": "Concrescência",
+          "correta": false,
+          "justificativa": "Concrescência é a união de dois dentes só pelo cemento, sem dentina em comum, e não é dente duplo; o critério da contagem, descrito no caso, é o da fusão.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Geminação, fusão e concrescência, Concrescência, p. 80–82"
+        },
+        {
+          "texto": "Dente invaginado",
+          "correta": false,
+          "justificativa": "É uma invaginação profunda da coroa ou da raiz revestida por esmalte, e não a união de dois dentes.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dente invaginado, p. 85"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Geminação, fusão e concrescência, p. 80",
+      "secao": "duplos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Um jovem tem o incisivo lateral superior em forma de barril, com fossa palatina profunda, sem queixa. Qual é a conduta mais adequada?",
+      "alternativas": [
+        {
+          "texto": "Observar e só tratar se doer, porque a necrose pulpar é rara nesses dentes",
+          "correta": false,
+          "justificativa": "Se a invaginação não é detectada cedo, a necrose pulpar é frequente no dente invaginado.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dente invaginado, Tratamento e prognóstico, p. 87"
+        },
+        {
+          "texto": "Fazer tratamento endodôntico profilático em todos os casos",
+          "correta": false,
+          "justificativa": "A endodontia é indicada quando há comunicação ou comprometimento pulpar evidente; no tipo I pequeno, a conduta é restaurar a abertura.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dente invaginado, Tratamento e prognóstico, p. 87"
+        },
+        {
+          "texto": "Pedir radiografia e, se a invaginação for pequena (tipo I), restaurar a abertura após a erupção",
+          "correta": true,
+          "justificativa": "Os sinais clínicos sugerem dente invaginado e pedem radiografia, que mostra o tipo; no tipo I pequeno, restaura-se a abertura após a erupção para prevenir cárie e doença pulpar.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dente invaginado, p. 85; Tratamento e prognóstico, p. 87"
+        },
+        {
+          "texto": "Desgastar o dente aos poucos em três visitas, como se faz na cúspide em garra",
+          "correta": false,
+          "justificativa": "O desgaste gradual é conduta da cúspide em garra, que tem corno pulpar; no invaginado o problema é a invaginação.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, p. 84"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Dente invaginado, p. 85; Tratamento e prognóstico, p. 87",
+      "secao": "cuspides-e-invaginado",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Um incisivo lateral superior tem uma cúspide extra lingual, em forma de tridente, que interfere na oclusão. Como o livro recomenda removê-la?",
+      "alternativas": [
+        {
+          "texto": "Aos poucos, em visitas espaçadas, porque a maioria tem corno pulpar",
+          "correta": true,
+          "justificativa": "A remoção abrupta pode expor a polpa; o desgaste gradual, por exemplo em três visitas espaçadas por 6 a 8 semanas, deixa a polpa recuar.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84"
+        },
+        {
+          "texto": "Em uma única sessão, sem cuidado com a polpa, pois a cúspide é só esmalte",
+          "correta": false,
+          "justificativa": "A cúspide tem esmalte e dentina e quase sempre um corno pulpar; remoção abrupta pode expor a polpa.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84"
+        },
+        {
+          "texto": "Não se remove, porque nos superiores ela nunca interfere",
+          "correta": false,
+          "justificativa": "Nos dentes superiores as cúspides em garra frequentemente interferem na oclusão e devem ser removidas.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84"
+        },
+        {
+          "texto": "Extração do incisivo, pois a cúspide indica necrose pulpar",
+          "correta": false,
+          "justificativa": "A cúspide em garra não indica necrose pulpar; a conduta é a remoção gradual da cúspide e a restauração, conservando o dente.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Cúspides acessórias, Cúspide em garra, Tratamento e prognóstico, p. 84",
+      "secao": "cuspides-e-invaginado",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Criança com dentes decíduos translúcidos, de cor azul-acinzentada. A radiografia mostra coroas bulbosas, constrição cervical, raízes finas e câmaras pulpares obliteradas. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Amelogênese imperfeita hipocalcificada",
+          "correta": false,
+          "justificativa": "Nela o defeito é do esmalte, mole e perdido rápido, em dentes de forma normal; não há coroas bulbosas com polpa obliterada.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Amelogênese imperfeita, Variantes hipomaturada e hipocalcificada, p. 99–100"
+        },
+        {
+          "texto": "Displasia dentinária radicular",
+          "correta": false,
+          "justificativa": "Nela as coroas são normais e o problema está nas raízes curtas, sem canal.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Displasia dentinária radicular, p. 105"
+        },
+        {
+          "texto": "Amelogênese imperfeita hipoplásica",
+          "correta": false,
+          "justificativa": "Nela o defeito é do esmalte (pouco esmalte, com depressões ou fino); a coroa não é bulbosa e não há constrição cervical nem raízes finas.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Amelogênese imperfeita hipoplásica, p. 96–97"
+        },
+        {
+          "texto": "Dentinogênese imperfeita",
+          "correta": true,
+          "justificativa": "Dentes translúcidos de amarelo-marrom a azul-acinzentado, com coroas bulbosas, constrição cervical, raízes finas e polpa obliterada, são o quadro da DGI.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dentinogênese imperfeita, Características clínicas e radiográficas, p. 102"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Dentinogênese imperfeita, Características clínicas e radiográficas, p. 102",
+      "secao": "estrutura",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com defeito hereditário do esmalte, sem doença sistêmica. Os dentes são pequenos e amarelados, com espaços entre eles; o esmalte que existe é fino, mas duro, e na radiografia contrasta bem com a dentina. Qual é o padrão de amelogênese imperfeita?",
+      "alternativas": [
+        {
+          "texto": "Hipoplásica: pouco esmalte, mas bem mineralizado",
+          "correta": true,
+          "justificativa": "Na hipoplásica o problema é a quantidade (esmalte fino ou ausente em áreas), e o esmalte presente é duro e bem mineralizado, por isso contrasta com a dentina.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Amelogênese imperfeita hipoplásica, p. 96–98"
+        },
+        {
+          "texto": "Hipomineralizada: esmalte de espessura normal, porém fraco e mole",
+          "correta": false,
+          "justificativa": "Na hipomineralizada a espessura é normal e o problema é a dureza; antes da erupção o esmalte tem radiopacidade parecida com a da dentina, sem o contraste do esmalte duro.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Amelogênese imperfeita, p. 95; Variantes hipomaturada e hipocalcificada, p. 99"
+        },
+        {
+          "texto": "Dentinogênese imperfeita",
+          "correta": false,
+          "justificativa": "Nela o defeito é da dentina: dentes translúcidos, coroas bulbosas, constrição cervical e raízes finas; o esmalte se solta da dentina defeituosa.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Dentinogênese imperfeita, Características clínicas e radiográficas, p. 102"
+        },
+        {
+          "texto": "Displasia dentinária radicular",
+          "correta": false,
+          "justificativa": "Nela coroa e esmalte são normais, e o problema está nas raízes curtas, sem canal.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Displasia dentinária radicular, p. 105"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Amelogênese imperfeita, p. 95–98; Variantes hipomaturada e hipocalcificada, p. 99",
+      "secao": "estrutura",
+      "figura": null
+    }
+  ]
+}

@@ -19,7 +19,8 @@ RAIZ = Path(__file__).resolve().parents[1]
 PUBLICO = "https://github.com/pMinim/sonda.git"
 AUTOR = ("Pedro Minim", "228259975+pMinim@users.noreply.github.com")  # e-mail "noreply" do GitHub
 FORA = {"ESTADO.md"}
-PROIBIDO = re.compile(r"\.(csv|xlsx?|xlsm|pptx?|docx?|pdf|rtf)$|lista|ementa|fontes-extraidas|whatsapp|gabarito|prova", re.I)
+# "ementa" só no começo de um nome ou depois de / _ . -: senão "complementares" (tema de biópsia) era recusado
+PROIBIDO = re.compile(r"\.(csv|xlsx?|xlsm|pptx?|docx?|pdf|rtf)$|lista|(^|[/_.-])ementa|fontes-extraidas|whatsapp|gabarito|prova", re.I)
 
 def git(*args, cwd=RAIZ, saida=False):
     r = subprocess.run(["git", *args], cwd=cwd, check=True, capture_output=saida)

@@ -273,6 +273,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "casos",
    "figura": null
   },
   {
@@ -310,6 +311,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "saude",
    "figura": null
   },
   {
@@ -347,6 +349,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "saude",
    "figura": null
   },
   {
@@ -384,6 +387,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "tres-terrenos",
    "figura": null
   },
   {
@@ -421,6 +425,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "saude",
    "figura": null
   },
   {
@@ -458,6 +463,7 @@
    ],
    "fonte": "murakami2018",
    "onde": "Tabela 2, item C",
+   "secao": "gengivite",
    "figura": null
   },
   {
@@ -502,6 +508,7 @@
    ],
    "fonte": "murakami2018",
    "onde": "seção Modifying factors (aumentos gengivais induzidos por fármacos)",
+   "secao": "fatores",
    "figura": null
   },
   {
@@ -539,6 +546,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "Tabela 1",
+   "secao": "gengivite",
    "figura": null
   },
   {
@@ -576,6 +584,7 @@
    ],
    "fonte": "chapple2018",
    "onde": "seções sobre as condições gengivais não induzidas pelo biofilme",
+   "secao": "nao-induzidas",
    "figura": null
   }
  ]

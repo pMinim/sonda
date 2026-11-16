@@ -1,0 +1,524 @@
+{
+  "slug": "periapicopatias",
+  "titulo": "Periapicopatias: granuloma, cisto radicular, abscesso periapical e osteíte condensante",
+  "area": "Endodontia",
+  "origem": "Neville 5ª ed., cap. 3",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap3",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 3, Doença Pulpar e Periapical, p. 114–142.",
+      "curta": "Neville 5ª ed., cap. 3"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "polpa-ao-apice",
+      "titulo": "Da polpa ao periápice: de onde vem a lesão",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Pulpite, introdução e Características clínicas (Pulpite reversível, Pulpite irreversível, Necrose pulpar), p. 114; Tratamento e prognóstico, p. 116; Granuloma periapical, introdução, p. 120",
+      "texto": "**Por que a infecção chega ao osso:** a polpa fica fechada em tecido duro, então o edema da inflamação não tem para onde crescer e costuma causar dor. Ela recebe sangue só pelo forame apical (a abertura na ponta da raiz), sem circulação colateral. Com a polpa exposta, o espaço pulpar contaminado liga a boca ao osso alveolar, que normalmente é estéril. A infecção que passa ao osso pode dar complicações graves, como trombose do seio cavernoso, angina de Ludwig e sepse. A dor da pulpite é uma defesa: leva o paciente ao tratamento antes disso.\n\n**Pulpite reversível:** a polpa volta ao normal se o estímulo for removido. A dor é intensa ao frio ou ao doce (às vezes ao calor) e passa em poucos segundos depois que o estímulo sai. Não há mobilidade nem dor à percussão. Remove-se o irritante e reavalia-se a polpa nos 3 meses seguintes, para confirmar a cicatrização.\n\n**Pulpite irreversível:** a polpa foi danificada além do ponto de recuperação. A dor é aguda ao estímulo térmico e continua depois que ele sai; pode ser espontânea e piorar ao deitar. Nas fases tardias é pulsante e acorda o paciente à noite: o calor piora e o frio pode aliviar. Em geral ainda não há mobilidade nem dor à percussão, porque a inflamação não chegou ao ápice. A dor pulpar nunca cruza a linha média, mas pode ser referida de uma arcada para a outra. O livro diz que a pulpite hiperplásica irreversível e a crônica são tratadas pela extração do dente ou pelo tratamento de canal.\n\n**Necrose pulpar:** suspeita-se quando o dente não responde ao teste de sensibilidade elétrico ou térmico. Os sintomas vão de nenhum a dor aguda.\n\n**A ponte para o ápice:** as lesões das próximas seções são a reação defensiva do ápice à infecção microbiana no canal de um dente não vital."
+    },
+    {
+      "id": "granuloma",
+      "titulo": "Granuloma periapical (periodontite apical crônica)",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical (periodontite apical crônica), introdução e Características clínicas e radiográficas, p. 120; Características histopatológicas, p. 121",
+      "texto": "**O que é:** tecido de granulação acumulado em massa ao redor do ápice de um dente não vital, em inflamação crônica ou subaguda. O nome não é exato, porque ao microscópio não há inflamação granulomatosa verdadeira; o livro admite que **periodontite apical** poderia ser mais adequado, embora o termo possa confundir o clínico. É uma reação de defesa à infecção do canal radicular. Pode surgir depois que um abscesso periapical se acalma ou ser a primeira lesão do ápice.\n\n**Fase inicial (periodontite apical aguda):** predominam os neutrófilos, que liberam prostaglandinas e ativam osteoclastos (células que reabsorvem osso). Há dor latejante constante, dor ao morder e à percussão, e o dente responde negativamente ao teste de vitalidade ou com atraso. Ainda não se vê alteração na radiografia. Com o tempo, as células crônicas dominam e os sintomas diminuem.\n\n**Quadro crônico:** a maioria é assintomática e descoberta em radiografia de rotina, muitas vezes sem lembrança de dor prévia. Em geral não há mobilidade nem sensibilidade importante à percussão. O dente não responde aos testes térmico e elétrico, a menos que a necrose esteja só em um canal de um dente com várias raízes.\n\n**Radiografia:** radiolucência (área escura) no ápice, de quase imperceptível a mais de 2 cm. Em geral há perda da lâmina dura apical. O limite pode ser nítido ou mal definido, com ou sem borda radiopaca, e a reabsorção da raiz não é incomum.\n\n**Histopatologia:** tecido de granulação inflamado, cercado por parede de tecido conjuntivo fibroso, com linfócitos, plasmócitos e histiócitos. Pequenos focos de abscesso não bastam para chamar a lesão de abscesso periapical.\n\n**Não é estática:** pode virar cisto ou abscesso. A agudização dentro de um granuloma é o **abscesso fênix**, e o aumento da lesão costuma ocorrer em surtos."
+    },
+    {
+      "id": "cisto-periapical",
+      "titulo": "Cisto periapical (radicular)",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical (cisto radicular; cisto periodontal apical), introdução, p. 122; Características clínicas e radiográficas, p. 122–123; Granuloma periapical, Características clínicas e radiográficas, p. 120; Características histopatológicas, p. 124",
+      "texto": "**O que é:** cisto verdadeiro, revestido por epitélio, no ápice de um dente não vital. Presume-se que a inflamação possa estimular o epitélio, que vem sobretudo dos restos epiteliais de Malassez e, às vezes, do epitélio crevicular, do revestimento do seio maxilar ou dos trajetos fistulosos. A parede é de tecido conjuntivo fibroso e o lúmen tem líquido e restos celulares. O líquido entra para equilibrar a pressão osmótica, por isso o cisto cresce devagar e a maioria não fica grande.\n\n**Sintomas:** em geral nenhum, salvo agudização. Se for grande, pode haver edema, sensibilidade branda e movimento dos dentes vizinhos. O dente de origem não responde aos testes térmico e elétrico.\n\n**Radiografia:** radiolucência arredondada no ápice, com perda da lâmina dura. A reabsorção radicular é comum. Ao crescer, o contorno se achata junto aos dentes vizinhos, e a lesão pode ocupar um quadrante inteiro. Nos dentes decíduos, aparece com mais frequência nos molares, circundando as raízes e preenchendo o espaço entre elas, na bifurcação.\n\n**Cisto ou granuloma pela imagem?** O livro diz que o padrão radiográfico é idêntico e que não é possível separá-los de forma consistente. Cistos nascem até em radiolucências pequenas. A maioria dos cistos é maior que os granulomas, e lesões bem grandes frequentemente são cistos, mas tamanho e forma não fecham o diagnóstico. Granulomas também podem passar de 2 cm e ter ou não borda radiopaca, então nem o tamanho nem a borda separam as duas lesões. Tomografia de feixe cônico, ressonância e ultrassom de alta resolução ajudam em muitos casos, e as variações ainda impedem o diagnóstico definitivo só pela imagem. Há granulomas com líquido no centro e sem epitélio, e cistos quase sólidos que imitam granuloma.\n\n**Cisto em bolsa e cisto verdadeiro:** no cisto em bolsa o revestimento é incompleto, porque o ápice do dente entra no lúmen; no verdadeiro, a estrutura é completa. Acredita-se que o primeiro costume responder à endodontia e o segundo exigir cirurgia. Como essa distinção tem poucas implicações cirúrgicas e só é segura com o dente inteiro removido, o livro considera a subclassificação histopatológica impraticável.\n\n**Histopatologia:** epitélio pavimentoso estratificado e parede fibrosa com infiltrado inflamatório crônico. Podem aparecer cristais de colesterol."
+    },
+    {
+      "id": "lateral-residual",
+      "titulo": "Cisto radicular lateral e cisto periapical residual",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, introdução (cisto radicular lateral e cisto periapical residual), p. 122; Cisto radicular lateral, Características clínicas e radiográficas, p. 122; Cisto periapical residual, p. 124; Tratamento e prognóstico, p. 126",
+      "texto": "**Cisto radicular lateral:** cisto inflamatório que aparece na face lateral da raiz, não no ápice. Também nasce dos restos de Malassez. A inflamação pode vir de doença periodontal ou de necrose pulpar que se espalha do canal até a lateral da raiz. Na radiografia é uma radiolucência discreta ao longo da raiz e simula o cisto periodontal lateral do desenvolvimento, (o livro remete ao capítulo dos cistos do desenvolvimento). Ao microscópio, é um cisto de origem inflamatória. Muitos casos de cisto globulomaxilar têm origem inflamatória e são, na verdade, cistos radiculares laterais.\n\nA fonte da inflamação e a perda da lâmina dura podem passar despercebidas sem alta suspeita. Antes de explorar cirurgicamente uma radiolucência lateral, avalie o periodonto e a vitalidade dos dentes vizinhos. Elimine todos os focos inflamatórios e acompanhe como no cisto periapical. O livro cita casos em que o cisto foi removido antes dessa avaliação: se esse for o diagnóstico, a busca da fonte inflamatória é obrigatória.\n\n**Cisto periapical residual:** o tecido inflamatório do ápice que não foi curetado quando o dente foi extraído pode originar um cisto inflamatório. Aparece como radiolucência redonda ou oval, de tamanho variável, dentro da crista alveolar, no local de uma extração anterior. Com o tempo, o conteúdo degenerado pode calcificar e deixar uma radiopacidade no centro. Muitos cistos diminuem e podem resolver sozinhos, sem o estímulo inflamatório. Sobre a conduta, o livro manda excisar cirurgicamente todos eles, porque outros cistos e tumores, odontogênicos ou não, podem imitar o aspecto.\n\n**Histologia comum:** os três cistos inflamatórios (periapical, radicular lateral e residual) são semelhantes ao microscópio."
+    },
+    {
+      "id": "conduta",
+      "titulo": "Lesões periapicais crônicas: conduta e controle",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 121–122; Cisto periapical, Tratamento e prognóstico, p. 126; cicatriz fibrosa periapical, p. 122",
+      "texto": "**Objetivo:** alguns pesquisadores acreditam que eliminar todos os microrganismos dos canais é improvável. A endodontia busca reduzir a carga microbiana a um nível que não sustente a inflamação do ápice.\n\n**Primeira linha, no granuloma e no cisto:** se o dente puder ser mantido, tratamento de canal. Se não for restaurável, extração com curetagem de todo o tecido mole do ápice. Clínicos experientes obtêm sucesso só com endodontia em lesões de quase 2 cm. Em lesões grandes, pode ser preciso associar um procedimento cirúrgico à endodontia, com biópsia.\n\n**Medicamentos:** nos casos sintomáticos, anti-inflamatórios não esteroides ajudam. Antibiótico sistêmico não é recomendado, salvo se houver edema ou alterações sistêmicas.\n\n**Controle:** reavaliar no mínimo em 1 e 2 anos, para ver se a lesão aumentou e se cicatrizou. Muitos clínicos fazem também consultas em 1, 3 e 6 meses. O fator mais importante para o sucesso é a qualidade do tratamento endodôntico, e uma restauração coronária deficiente pode levar à falha mesmo com endodontia excelente.\n\n**Quando a cirurgia periapical:** se o tratamento inicial falha, o retratamento endodôntico vem antes da cirurgia. A cirurgia costuma ficar para lesões maiores que 2 cm, dentes sem condição de endodontia convencional e lesões que não respondem ao retratamento. Inclui curetagem completa do tecido mole, amputação da parte apical da raiz e vedação do forame do canal.\n\n**Biópsia:** todo o tecido removido vai para exame histopatológico, que nesses casos é obrigatório. A maioria é doença inflamatória periapical, mas uma pequena porcentagem importante é outra lesão: queratocisto odontogênico, lesões fibro-ósseas, ameloblastomas ou lesões de células gigantes.\n\n**Cicatriz fibrosa periapical:** às vezes o defeito se enche de tecido colagenoso denso, em vez de osso. É mais comum quando as corticais vestibular e lingual foram perdidas. Se a cirurgia mostrar corticais ausentes, avise o paciente. A cicatriz não é indicação de nova cirurgia."
+    },
+    {
+      "id": "abscesso",
+      "titulo": "Abscesso periapical: quadro, drenagem e tratamento",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, definição e Características clínicas e radiográficas, p. 126; vias de drenagem, p. 126–127; Tratamento e prognóstico, p. 128–129",
+      "texto": "**O que é:** reunião de células de inflamação aguda ao redor do ápice de um dente não vital. Pode ser a primeira lesão ou a agudização de uma lesão crônica (abscesso fênix). A fonte costuma ser óbvia, mas a morte da polpa pode vir de trauma, em dente sem cárie nem restauração.\n\n**Sintomático e assintomático:** o livro prefere esses nomes a agudo e crônico, porque os dois são reações agudas. No sintomático, o dente fica sensível no início, e a pressão direta muitas vezes alivia. Depois a dor aumenta, muitas vezes com dor à percussão, dente extruído (fora do alvéolo) e inchaço. Não responde ao frio nem ao teste elétrico. Pode haver cefaleia, mal-estar, febre e calafrios. A radiografia mostra espessamento do ligamento periodontal apical, radiolucência mal definida ou nada, pois não houve tempo de destruir osso.\n\n**Por onde drena:** pela via de menor resistência. Pode seguir pela medula e causar osteomielite ou perfurar o córtex e chegar ao tecido mole (celulite). A maioria perfura pela vestibular, onde o osso é mais fino. Incisivos laterais superiores, raízes palatinas dos molares superiores e segundo e terceiro molares inferiores drenam tipicamente pela lingual. O pus pode formar aumento de volume séssil ou sair por um seio na boca. A abertura da fístula, com tecido de granulação, é a **parúlide (furúnculo gengival)**. Um cone de guta-percha no trajeto, com radiografia, pode ajudar a identificar o dente de origem. Pode haver também fístula cutânea. Com drenagem crônica, o abscesso fica assintomático; se o trajeto bloqueia, os sintomas voltam em pouco tempo.\n\n**Tratamento:** drenagem e eliminação do foco; nos abscessos localizados, os sintomas diminuem bastante em 48 horas depois de começada a drenagem adequada. Se há expansão, considere a incisão do edema; se o dente está extruído, reduza a oclusão. Anti-inflamatórios não esteroides ajudam, salvo contraindicação. **Antibiótico não é recomendado** em abscesso bem localizado e fácil de drenar, em paciente saudável. Fica para quem não tem acesso imediato ao dentista, pacientes comprometidos, celulite significativa ou sinais de disseminação (febre, linfadenopatia, mal-estar). A fístula costuma sumir após endodontia ou extração; se persistir, exige remoção cirúrgica e curetagem do trajeto."
+    },
+    {
+      "id": "osteite",
+      "titulo": "Osteíte condensante",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Osteíte condensante (osteomielite esclerosante focal), definição, Características clínicas e radiográficas e Tratamento e prognóstico, p. 137",
+      "texto": "**O que é:** área localizada de esclerose óssea (osso mais denso) junto ao ápice de um dente. A polpa desse dente mostra pulpite ou necrose. A associação com inflamação é o ponto central, porque várias outras lesões intraósseas dão imagem parecida.\n\n**Em quem e onde:** é mais vista em crianças e jovens, mas ocorre em adultos. A maioria dos casos está nas regiões de pré-molares e molares da mandíbula.\n\n**Como é na radiografia:** zona localizada, em geral uniforme, de maior radiodensidade junto ao ápice de um dente com ligamento periodontal espessado ou lesão inflamatória apical. Não deve haver expansão clínica. Pode haver uma lesão radiolucente inflamatória ao lado. Diferente das lesões das seções anteriores, que aparecem como radiolucências, aqui o achado central é o aumento de densidade.\n\n**O que a separa da parecida:** na osteosclerose idiopática a radiopacidade fica separada do ápice; na osteíte condensante ela está junto ao ápice.\n\n**Tratamento e prognóstico:** resolve-se o foco de infecção do dente, com extração ou tratamento endodôntico apropriado. Cerca de **85%** dos casos regridem, parcial ou totalmente, em geral junto com a normalização do ligamento periodontal. Se a lesão persistir e o ligamento continuar aumentado, reavalie o tratamento endodôntico. A área densa que sobra depois da resolução é chamada de **cicatriz óssea**. Já se viu reabsorção radicular quando o osso esclerótico estava no caminho do movimento ortodôntico."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: as lesões periapicais",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, p. 120–122; Cisto periapical, p. 122–126; Abscesso periapical, p. 126–129; Osteíte condensante, p. 137",
+      "texto": "| Lesão | Sintoma | Vitalidade do dente | Imagem | Conduta |\n|---|---|---|---|---|\n| **Granuloma periapical** | em geral nenhum; dor se agudizar | não responde (exceto necrose em um só canal de dente multirradicular) | radiolucência apical de quase imperceptível a mais de 2 cm, com perda da lâmina dura | endodontia ou extração com curetagem; controle de 1 e 2 anos |\n| **Cisto periapical** | em geral nenhum; edema se grande | não responde | igual ao granuloma; radiolucência arredondada, reabsorção comum | igual ao granuloma; biópsia na cirurgia |\n| **Cisto radicular lateral** | não descrito no livro | avaliar: pode vir de necrose pulpar ou de doença periodontal | radiolucência discreta na face lateral da raiz | eliminar todos os focos inflamatórios; avaliar o periodonto antes |\n| **Cisto residual** | não descrito no livro | dente já extraído | radiolucência redonda ou oval na crista alveolar, onde houve extração | excisão cirúrgica |\n| **Abscesso sintomático** | dor, dente extruído, inchaço, às vezes febre | não responde | espessamento do ligamento ou radiolucência mal definida; pode não haver nada | drenagem e eliminação do foco; antibiótico só em situações específicas |\n| **Abscesso assintomático (com fístula)** | nenhum; parúlide ou drenagem | não responde | pode haver radiolucência periapical (como na Fig. 3.39) | eliminar o foco; fístula persistente pede curetagem |\n| **Osteíte condensante** | o do dente (pulpite ou necrose) | polpa com pulpite ou necrose | radiopacidade uniforme junto ao ápice | tratar o dente; cerca de 85% regridem |\n\n**O que separa as principais:** granuloma e cisto têm a mesma imagem; a diferença é histológica, e o livro diz que separar granuloma epitelizado, cisto em bolsa e cisto verdadeiro tem poucas implicações cirúrgicas. O abscesso tem sintomas agudos ou fístula. Entre as lesões desta tabela, a osteíte condensante é a que aumenta a densidade, em vez de ser radiolucência."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Pulpite reversível e irreversível: qual é a diferença?",
+      "verso": "Na **reversível** o tecido volta à saúde se o estímulo for removido. Na **irreversível** a polpa foi danificada além do ponto de recuperação.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Pulpite, introdução, p. 114"
+    },
+    {
+      "id": "f02",
+      "frente": "Como é a dor da pulpite irreversível?",
+      "verso": "Aguda ao estímulo térmico e **contínua depois que ele sai**; pode ser espontânea e piorar ao deitar. Nas fases tardias é pulsante e acorda à noite.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Pulpite, Pulpite irreversível, p. 114"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que granuloma periapical é um nome impreciso?",
+      "verso": "Ao microscópio não há inflamação granulomatosa verdadeira. O livro admite que **periodontite apical** poderia ser mais adequado, mas o termo pode confundir o clínico.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical (periodontite apical crônica), introdução, p. 120"
+    },
+    {
+      "id": "f04",
+      "frente": "Como é o granuloma periapical no paciente?",
+      "verso": "Em geral **assintomático**, achado em radiografia de rotina. O dente não responde aos testes pulpares térmico e elétrico, a menos que a necrose esteja só em um canal de dente com várias raízes.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120"
+    },
+    {
+      "id": "f05",
+      "frente": "O que é o abscesso fênix?",
+      "verso": "A agudização dentro de um granuloma periapical crônico, com volta dos sintomas e possível aumento da radiolucência.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, introdução, p. 120; Abscesso periapical, definição, p. 126"
+    },
+    {
+      "id": "f06",
+      "frente": "É possível separar cisto de granuloma periapical só pela radiografia?",
+      "verso": "**Não de forma definitiva.** O padrão é idêntico; tamanho e forma não decidem, nem com tomografia, ressonância ou ultrassom.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, Características clínicas e radiográficas, p. 123; Granuloma periapical, p. 120"
+    },
+    {
+      "id": "f07",
+      "frente": "De onde vem o epitélio do cisto periapical?",
+      "verso": "Normalmente dos **restos epiteliais de Malassez**; também do epitélio crevicular, do seio ou dos trajetos fistulosos.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, introdução, p. 122"
+    },
+    {
+      "id": "f08",
+      "frente": "Onde fica o cisto radicular lateral e o que ele simula?",
+      "verso": "Na **face lateral da raiz**. Simula o cisto periodontal lateral do desenvolvimento; muitos cistos globulomaxilares são, na verdade, radiculares laterais.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto radicular lateral, p. 122"
+    },
+    {
+      "id": "f09",
+      "frente": "Como surge o cisto periapical residual?",
+      "verso": "De tecido inflamatório do ápice **não curetado** na extração. Radiolucência redonda ou oval na crista alveolar, onde havia o dente.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, introdução, p. 122–123; Cisto periapical residual, p. 124"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual o controle mínimo depois da endodontia de uma lesão periapical?",
+      "verso": "Reavaliação em **1 e 2 anos**, no mínimo. Muitos clínicos fazem também 1, 3 e 6 meses.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122"
+    },
+    {
+      "id": "f11",
+      "frente": "Quando se indica cirurgia periapical?",
+      "verso": "Em geral, lesões **maiores que 2 cm**, dentes sem condição de endodontia convencional e lesões que não respondem ao retratamento. O tecido removido vai para histopatologia.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122"
+    },
+    {
+      "id": "f12",
+      "frente": "Abscesso periapical: por que não chamar de agudo e crônico?",
+      "verso": "Os dois são reações agudas. O livro usa **sintomático e assintomático**.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, Características clínicas e radiográficas, p. 126"
+    },
+    {
+      "id": "f13",
+      "frente": "O que é parúlide e como achar o dente de origem?",
+      "verso": "É a abertura intraoral da fístula, com tecido de granulação. Um **cone de guta-percha** no trajeto, com radiografia, pode ajudar a identificar o dente.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, vias de drenagem, p. 126"
+    },
+    {
+      "id": "f14",
+      "frente": "Abscesso periapical localizado em paciente saudável: usa antibiótico?",
+      "verso": "**Não**, se é bem localizado e fácil de drenar. Trata-se com drenagem e eliminação do foco. O antibiótico fica para casos específicos.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128"
+    },
+    {
+      "id": "f15",
+      "frente": "Osteíte condensante: o que acontece após tratar o dente?",
+      "verso": "Cerca de **85%** regridem, parcial ou totalmente. O que sobra é chamado de cicatriz óssea.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 34 anos, sem queixa, tem uma radiolucência apical de 1 cm no segundo pré-molar inferior, descoberta em radiografia de rotina. O dente não responde aos testes térmico e elétrico e não dói à percussão. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Abscesso periapical sintomático",
+          "correta": false,
+          "justificativa": "O abscesso sintomático tem dor, muitas vezes com dor à percussão, e inchaço; o paciente não tem queixa.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Características clínicas e radiográficas, p. 126"
+        },
+        {
+          "texto": "Granuloma periapical (periodontite apical crônica)",
+          "correta": true,
+          "justificativa": "A maioria é assintomática e achada em radiografia de rotina, com dente sem resposta aos testes pulpares e sem sensibilidade importante à percussão.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120"
+        },
+        {
+          "texto": "Osteíte condensante",
+          "correta": false,
+          "justificativa": "Na osteíte condensante o achado é uma zona de maior radiodensidade junto ao ápice, e não uma radiolucência.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Características clínicas e radiográficas, p. 137"
+        },
+        {
+          "texto": "Pulpite irreversível",
+          "correta": false,
+          "justificativa": "Na pulpite irreversível há dor (aguda ao estímulo térmico, contínua, espontânea ou noturna); o paciente não tem queixa.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Pulpite, Pulpite irreversível, p. 114"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120",
+      "secao": "granuloma",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Uma radiografia mostra radiolucência periapical bem definida de 2,5 cm em um incisivo central não vital. O que o livro diz sobre separar cisto de granuloma por essa imagem?",
+      "alternativas": [
+        {
+          "texto": "Lesão acima de 2 cm é sempre cisto",
+          "correta": false,
+          "justificativa": "Granulomas também podem passar de 2 cm; lesões grandes frequentemente são cistos, mas tamanho e forma não decidem o diagnóstico.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120; Cisto periapical, Características clínicas e radiográficas, p. 123"
+        },
+        {
+          "texto": "A borda radiopaca define o granuloma",
+          "correta": false,
+          "justificativa": "O granuloma pode ou não ter borda radiopaca; ela não separa as duas lesões.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120; Cisto periapical, Características clínicas e radiográficas, p. 123"
+        },
+        {
+          "texto": "A tomografia de feixe cônico dá o diagnóstico definitivo",
+          "correta": false,
+          "justificativa": "Tomografia, ressonância e ultrassom ajudam, mas as variações continuam a impedir o diagnóstico definitivo só pela imagem.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, Características clínicas e radiográficas, p. 123"
+        },
+        {
+          "texto": "Nem tamanho nem forma permitem o diagnóstico definitivo",
+          "correta": true,
+          "justificativa": "O padrão radiográfico é idêntico, e a maioria dos cistos é maior que os granulomas, mas tamanho e forma não são critério definitivo, nem com imagens mais recentes.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, Características clínicas e radiográficas, p. 123"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, Características clínicas e radiográficas, p. 123",
+      "secao": "cisto-periapical",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Uma radiografia mostra radiolucência discreta ao longo da face lateral da raiz mesial de um primeiro molar inferior, sem lesão no ápice. Antes de qualquer exploração cirúrgica, qual é a conduta indicada pelo livro?",
+      "alternativas": [
+        {
+          "texto": "Enucleação imediata, sem testes adicionais",
+          "correta": false,
+          "justificativa": "O livro adverte que a fonte da inflamação pode passar despercebida e manda avaliar antes o periodonto e a vitalidade dos dentes vizinhos.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto radicular lateral, Características clínicas e radiográficas, p. 122"
+        },
+        {
+          "texto": "Antibiótico sistêmico e reavaliação em 48 horas",
+          "correta": false,
+          "justificativa": "O antibiótico sistêmico não é recomendado em lesões periapicais crônicas, salvo edema ou alterações sistêmicas; a conduta aqui é avaliar a fonte da inflamação.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 121"
+        },
+        {
+          "texto": "Avaliar o status periodontal e a vitalidade dos dentes adjacentes",
+          "correta": true,
+          "justificativa": "O cisto radicular lateral pode vir de doença periodontal ou de necrose pulpar; é preciso procurar a fonte inflamatória antes da exploração cirúrgica.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto radicular lateral, Características clínicas e radiográficas, p. 122"
+        },
+        {
+          "texto": "Fechar o diagnóstico de cisto de desenvolvimento pela imagem",
+          "correta": false,
+          "justificativa": "A imagem simula o cisto periodontal lateral do desenvolvimento, mas a histologia é de cisto inflamatório; a imagem sozinha não fecha o diagnóstico.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, introdução (cisto radicular lateral), p. 122"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto radicular lateral, Características clínicas e radiográficas, p. 122",
+      "secao": "lateral-residual",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Uma mulher de 48 anos, sem sintomas, tem radiolucência redonda de 1,5 cm dentro da crista alveolar, em uma área onde o dente foi extraído há anos. Qual é a conduta descrita no livro?",
+      "alternativas": [
+        {
+          "texto": "Tratamento endodôntico dos dentes vizinhos",
+          "correta": false,
+          "justificativa": "O cisto residual não está ligado a dente presente no local; vem de tecido inflamatório deixado na extração.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, introdução (cisto periapical residual), p. 122–123"
+        },
+        {
+          "texto": "Excisão cirúrgica, porque outras lesões podem simular o cisto",
+          "correta": true,
+          "justificativa": "Outros cistos e tumores, odontogênicos ou não, podem simular um cisto periapical residual, e por isso todos devem ser excisados cirurgicamente.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, Tratamento e prognóstico, p. 126"
+        },
+        {
+          "texto": "Cirurgia periapical no dente adjacente, com amputação do ápice",
+          "correta": false,
+          "justificativa": "A cirurgia periapical se aplica a lesões ligadas a dente presente que não respondem à endodontia; aqui não há dente na área.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, Tratamento e prognóstico, p. 126"
+        },
+        {
+          "texto": "Antibiótico sistêmico e reavaliação em 48 horas",
+          "correta": false,
+          "justificativa": "Não há infecção aguda no quadro, e o antibiótico não é a conduta para lesão periapical crônica.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 121"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Cisto periapical, Tratamento e prognóstico, p. 126",
+      "secao": "lateral-residual",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um dente com granuloma periapical foi tratado endodonticamente. Qual acompanhamento o livro considera o mínimo?",
+      "alternativas": [
+        {
+          "texto": "Reavaliação em 1 e 2 anos, no mínimo",
+          "correta": true,
+          "justificativa": "O livro pede avaliação em intervalos de 1 e 2 anos, no mínimo, para excluir aumento da lesão e garantir a cicatrização; muitos clínicos fazem também 1, 3 e 6 meses.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122"
+        },
+        {
+          "texto": "Alta após a restauração, pois a radiografia de controle é dispensável",
+          "correta": false,
+          "justificativa": "O livro enfatiza a importância das consultas de rotina e do controle da cicatrização.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122"
+        },
+        {
+          "texto": "Retorno só se houver dor ou fístula",
+          "correta": false,
+          "justificativa": "A lesão pode aumentar sem sintomas; por isso o controle é programado, e não só por queixa.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120; Tratamento e prognóstico, p. 122"
+        },
+        {
+          "texto": "Uma única reavaliação aos 3 meses, como na pulpite reversível",
+          "correta": false,
+          "justificativa": "Os 3 meses são o prazo de reavaliação da pulpite reversível; nas lesões periapicais o mínimo é 1 e 2 anos.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Pulpite, Tratamento e prognóstico, p. 116; Granuloma periapical, Tratamento e prognóstico, p. 122"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122",
+      "secao": "conduta",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Adulto saudável tem dor há dois dias no incisivo central superior: dente extruído, doloroso à percussão, com inchaço vestibular localizado, sem febre. O dente não responde ao frio. A drenagem é fácil. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Antibiótico sistêmico de rotina, sem drenar",
+          "correta": false,
+          "justificativa": "O livro não recomenda antibiótico em abscesso localizado e fácil de drenar em paciente saudável; o tratamento é a drenagem.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128"
+        },
+        {
+          "texto": "Aguardar a formação de fístula para drenar",
+          "correta": false,
+          "justificativa": "O tratamento é drenar e eliminar o foco; a incisão do edema parece resolver mais rápido que a drenagem só pelo canal.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128"
+        },
+        {
+          "texto": "Drenar, eliminar o foco, reduzir a oclusão do dente extruído e usar anti-inflamatório",
+          "correta": true,
+          "justificativa": "Drenagem e eliminação do foco, redução da oclusão se o dente está extruído e anti-inflamatórios, sem antibiótico em quadro localizado de paciente saudável.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128"
+        },
+        {
+          "texto": "Curetagem de todo o tecido mole do ápice e amputação da raiz como primeiro passo",
+          "correta": false,
+          "justificativa": "A cirurgia periapical é reservada a lesões maiores que 2 cm, a dentes sem condição de endodontia convencional e a lesões que não respondem ao retratamento.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Tratamento e prognóstico, p. 122"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128",
+      "secao": "abscesso",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Criança de 9 anos tem um nódulo vermelho-amarelado e assintomático na gengiva vestibular da região anterior da mandíbula. Os dentes parecem normais e é difícil dizer qual é não vital. Como achar o dente de origem?",
+      "alternativas": [
+        {
+          "texto": "Remover o nódulo e não investigar o dente",
+          "correta": false,
+          "justificativa": "A parúlide é a abertura de uma fístula e persiste se o dente de origem não for tratado.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, vias de drenagem, p. 126; Tratamento e prognóstico, p. 129"
+        },
+        {
+          "texto": "Confiar só no teste de vitalidade, que sempre identifica o dente",
+          "correta": false,
+          "justificativa": "O livro diz que pode ser difícil determinar se o dente ligado à parúlide é vital ou não.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, vias de drenagem, p. 126"
+        },
+        {
+          "texto": "Inserir um cone de guta-percha no trajeto e fazer radiografia",
+          "correta": true,
+          "justificativa": "O cone no trajeto fistuloso pode ajudar a identificar, na radiografia, o dente de origem.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, vias de drenagem, p. 126"
+        },
+        {
+          "texto": "Prescrever antibiótico e aguardar o fechamento do trajeto",
+          "correta": false,
+          "justificativa": "Antibiótico não é recomendado em abscesso localizado em paciente saudável; o trajeto costuma desaparecer depois da endodontia ou da extração.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Tratamento e prognóstico, p. 128–129"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Abscesso periapical, vias de drenagem, p. 126",
+      "secao": "abscesso",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Menino de 11 anos tem cárie profunda no primeiro molar inferior. A radiografia mostra uma zona de maior radiodensidade junto ao ápice desse dente, sem expansão. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Granuloma periapical",
+          "correta": false,
+          "justificativa": "O granuloma aparece como radiolucência no ápice, e não como área de maior radiodensidade.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Granuloma periapical, Características clínicas e radiográficas, p. 120"
+        },
+        {
+          "texto": "Cisto periapical",
+          "correta": false,
+          "justificativa": "O cisto é uma radiolucência arredondada no ápice, e não uma área de maior radiodensidade.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Cisto periapical, Características clínicas e radiográficas, p. 123"
+        },
+        {
+          "texto": "Abscesso periapical sintomático",
+          "correta": false,
+          "justificativa": "No abscesso a radiografia mostra espessamento do ligamento periodontal, radiolucência mal definida ou nada, e há dor e inchaço; não há aumento de densidade.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Abscesso periapical, Características clínicas e radiográficas, p. 126"
+        },
+        {
+          "texto": "Osteíte condensante",
+          "correta": true,
+          "justificativa": "Zona de maior radiodensidade junto ao ápice de dente com polpa comprometida, em jovem, na mandíbula posterior e sem expansão, é o quadro da osteíte condensante.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Características clínicas e radiográficas, p. 137"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Osteíte condensante, Características clínicas e radiográficas, p. 137",
+      "secao": "osteite",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Depois de tratar o dente com osteíte condensante, o que o livro espera da lesão?",
+      "alternativas": [
+        {
+          "texto": "Em cerca de 85% dos casos, regressão parcial ou total",
+          "correta": true,
+          "justificativa": "Depois da extração ou da endodontia apropriada, cerca de 85% regridem parcial ou totalmente; o que fica é a cicatriz óssea.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137"
+        },
+        {
+          "texto": "Persistência em quase todos, com indicação de curetagem do osso esclerótico",
+          "correta": false,
+          "justificativa": "A maioria regride; o tratamento é do foco odontogênico, e não do osso esclerótico.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137"
+        },
+        {
+          "texto": "Regressão total em todos os casos, sem sobrar área densa",
+          "correta": false,
+          "justificativa": "Cerca de 85% regridem, parcial ou totalmente, e o que sobra é a cicatriz óssea; o livro não fala em regressão total em todos.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137"
+        },
+        {
+          "texto": "Evolução para cisto periapical em quase todos os casos",
+          "correta": false,
+          "justificativa": "O livro não descreve essa evolução; descreve a regressão em cerca de 85% dos casos.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Osteíte condensante, Tratamento e prognóstico, p. 137",
+      "secao": "osteite",
+      "figura": null
+    }
+  ]
+}
