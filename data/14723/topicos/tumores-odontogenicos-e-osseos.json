@@ -344,11 +344,11 @@
           "onde": "cap. 15, Odontoma, Características clínicas e radiográficas, p. 712–714"
         },
         {
-          "texto": "Tumor odontogênico epitelial calcificante (Pindborg).",
+          "texto": "Displasia cemento-óssea periapical.",
           "correta": false,
-          "justificativa": "Errada: o traço que define o Pindborg ao microscópio é outro, com células poliédricas e calcificações em anéis concêntricos dentro de material semelhante a amiloide; cápsula espessa com estruturas ductiformes é o que o livro descreve no adenomatoide. Além disso, o Pindborg é mais encontrado entre 30 e 50 anos, e o dente impactado associado costuma ser molar inferior; a paciente tem 14 anos e o dente é o canino superior.",
-          "fonte": "neville5-cap15",
-          "onde": "cap. 15, Tumor odontogênico epitelial calcificante (tumor de Pindborg), Características clínicas e radiográficas e Características histopatológicas, p. 704–706"
+          "justificativa": "Errada: a displasia cemento-óssea periapical fica na região anterior da mandíbula e é diagnosticada em geral entre 30 e 50 anos, quase nunca antes dos 20; a paciente tem 14 anos e a lesão envolve a coroa de um canino superior incluso.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Displasia cemento-óssea (displasia óssea), Displasia cemento-óssea periapical, Características clínicas e radiográficas, p. 630–635"
         },
         {
           "texto": "Cementoblastoma.",
@@ -520,11 +520,11 @@
       "enunciado": "Adolescente de 14 anos com dor e aumento de volume na região posterior da mandíbula, mobilidade de dentes, parestesia, febre e velocidade de hemossedimentação elevada. A radiografia mostra radiolucência mal definida, e o exame microscópico, lençóis de pequenas células redondas, sem produção de osteoide nem de cartilagem. O quadro foi tratado como infecção odontogênica, sem melhora. Qual é a hipótese mais provável?",
       "alternativas": [
         {
-          "texto": "Osteossarcoma.",
+          "texto": "Osteoma.",
           "correta": false,
-          "justificativa": "Errada: o critério microscópico essencial do osteossarcoma é a produção de osteoide por células mesenquimais malignas, e aqui o exame não mostra osteoide; o pico nos maxilares é na 3ª a 5ª década (média de 35 a 41 anos), e o paciente tem 14.",
+          "justificativa": "Errada: o osteoma é uma neoplasia benigna composta de osso maduro, compacto ou esponjoso; aqui o exame microscópico mostra lençóis de pequenas células redondas, sem produção de osteoide, e os osteomas dos ossos gnáticos são mais detectados em adultos.",
           "fonte": "neville5-cap14",
-          "onde": "cap. 14, Osteossarcoma (sarcoma osteogênico), Características clínicas e radiográficas e Características histopatológicas, p. 649–653"
+          "onde": "cap. 14, Osteoma, Características clínicas e radiográficas, p. 639–640"
         },
         {
           "texto": "Condrossarcoma.",

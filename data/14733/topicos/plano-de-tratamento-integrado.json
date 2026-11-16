@@ -1,0 +1,654 @@
+{
+  "slug": "plano-de-tratamento-integrado",
+  "titulo": "Plano de tratamento integrado: ordem das fases",
+  "area": "Integrado",
+  "origem": "Stefanac 3ª ed., cap. 4; Newman e Carranza 13ª ed., caps. 69 e 72; Lindhe 7ª ed., cap. 25; Pegoraro 2ª ed., cap. 1",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "stefanac2017",
+      "ref": "Stefanac SJ, Nesbit SP (eds.). Diagnosis and Treatment Planning in Dentistry. 3ª ed. St. Louis: Elsevier, 2017. Cap. 4, Developing the Treatment Plan (Stefanac SJ), p. 104–120.",
+      "curta": "Stefanac 3ª ed., cap. 4"
+    },
+    {
+      "id": "carranza13",
+      "ref": "Newman MG, Takei HH, Klokkevold PR, Carranza FA. Newman e Carranza: Periodontia Clínica. 13ª ed. Cap. 69, Preparo do Periodonto para a Odontologia Restauradora (Melnick, Takei), p. 739–741; cap. 72, Tratamento Periodontal de Suporte (Merin), p. 757–766.",
+      "curta": "Carranza 13ª ed., caps. 69 e 72"
+    },
+    {
+      "id": "lindhe7",
+      "ref": "Berglundh T, Giannobile WV, Lang NP et al. (org.). Tratado de Periodontia Clínica e Implantologia Oral. 7ª ed. Guanabara Koogan. Cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais (Salvi GE, Lang NP, Cortellini P), pp. 575–596. Páginas conforme a edição digital.",
+      "curta": "Lindhe 7ª ed., cap. 25"
+    },
+    {
+      "id": "pegoraro2013",
+      "ref": "Pegoraro LF, Valle AL, Araujo CRP, Bonfante G, Conti PCR. Prótese Fixa: bases para o planejamento em reabilitação oral. 2ª ed. Artes Médicas, 2013. Cap. 1, Exame do paciente (Pegoraro, Bonachela), p. 13–49.",
+      "curta": "Pegoraro 2ª ed., cap. 1"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "stefanac-antes",
+      "titulo": "Antes de ordenar: objetivos, visioning e dentes-chave",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, pp. 104–110",
+      "texto": "Antes de ordenar as fases, o Stefanac pede três coisas.\n\n**Objetivos de tratamento, combinados com o paciente.** Eles ligam o diagnóstico aos procedimentos (Table 4-1, p. 106). O paciente tem metas de curto prazo (a queixa principal) e de longo prazo (manter os dentes). O livro recomenda perguntas abertas, não dirigidas.\n\n**Modificadores.** Má motivação, higiene ruim e dieta rica em carboidratos refinados podem afetar muito o prognóstico de qualquer plano. Se o paciente ainda assim quer restaurações complexas, implantes ou próteses, o dentista informa o alto risco de fracasso e registra a conversa. O custo é outro modificador e pode ser barreira ao tratamento. O **plano ideal** é o ponto de partida. O **plano modificado** equilibra os objetivos do paciente e os do dentista; um exemplo do livro: dentes periodontalmente comprometidos, ainda sem muita mobilidade nem sintomas, podem ser observados, com a extração planejada se a mobilidade aumentar ou surgirem sintomas.\n\n**Visioning.** É imaginar o estado final do caso antes de começar, como escolher o destino antes da viagem, e voltar até o início perguntando que passos e custos isso exige. Exemplo do livro: se o destino é dentadura, talvez só os posteriores sejam extraídos primeiro, mantendo-se os anteriores para a aparência, até a dentadura imediata, que costuma precisar de reembasamento 6 a 12 meses depois da instalação. Se o destino é prótese parcial removível, definem-se os pilares, quais pedem coroa delineada (surveyed crown) para dar retenção, a necessidade de núcleo e de endodontia antes dele, e se o estado periodontal de vários pilares pede um plano com outros pilares.\n\n**Dentes-chave (key teeth).** São dentes que podem ser salvos e dão estabilidade ao arco, servindo de pilar de prótese fixa e removível; perdê-los limita as opções. Qualidades:\n1. periodontalmente estáveis, com pouca mobilidade (entre os anteriores, os caninos têm a relação coroa-raiz mais favorável; molares multirradiculares, como os primeiros molares, têm melhor prognóstico como pilares que os de raiz única, cônica ou fundida, sobretudo se as raízes são divergentes);\n2. bem posicionados no arco (terceiros molares e, muitas vezes, segundos molares não servem);\n3. restauráveis (cárie abaixo do nível da crista alveolar pode tornar o dente um candidato ruim).\n\nO terceiro recurso do livro para casos complexos é o faseamento (phasing), que divide o plano em fases para melhorar o prognóstico e facilitar a compreensão do paciente."
+    },
+    {
+      "id": "stefanac-fases",
+      "titulo": "As cinco fases do Stefanac",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Phasing, pp. 109–111",
+      "texto": "O Stefanac divide o plano em **cinco fases**, em sequência. Os nomes abaixo são a tradução literal dos que o livro usa; o termo original vem entre parênteses.\n\n| Ordem | Fase | O que cobre |\n|---|---|---|\n| 1 | **Fase sistêmica** (systemic phase) | saúde geral e psicológica: consulta a médicos, profilaxia antibiótica, manejo de estresse e medo, evitar medicamentos e produtos como o látex |\n| 2 | **Fase aguda** (acute phase) | problemas sintomáticos: dor, edema, infecção, dente quebrado, restauração perdida |\n| 3 | **Fase de controle da doença** (disease control phase) | controlar a doença ativa e a infecção, parar a deterioração oclusal e estética, manejar fatores de risco |\n| 4 | **Fase de tratamento definitivo** (definitive treatment phase) | reabilitar a boca, melhorando estética e função |\n| 5 | **Fase de cuidado de manutenção** (maintenance care phase) | reavaliação periódica e cuidado de suporte, contínuos |\n\n**Fase aguda.** Pode incluir extrações, endodontia, periodontia inicial, restaurações provisórias ou permanentes, reparo de prótese e medicamentos para dor e infecção. Costuma vir antes do plano abrangente.\n\n**Fase de controle da doença.** Para muitos pacientes, é controlar a cárie e deter a doença periodontal antes de decidir como reconstruir ou substituir dentes. Procedimentos típicos: instrução de higiene, raspagem e alisamento radicular, avaliação e prevenção de cárie, endodontia, extração de dentes sem prognóstico e restauração das cáries. Ela termina numa **avaliação pós-tratamento** (posttreatment assessment), antes de qualquer tratamento definitivo.\n\n**Fase de tratamento definitivo.** Periodontia avançada e cirurgia periodontal, ortodontia e terapia oclusal, cirurgia bucal (extrações eletivas, cirurgia pré-protética e ortognática), endodontia eletiva (não aguda), restaurações de dente isolado, reposição de dentes com prótese fixa ou removível, inclusive implantes, e procedimentos estéticos.\n\n**Fase de cuidado de manutenção.** O livro diz que ela é mais que um \"check-up a cada 6 meses\": é um plano personalizado e contínuo. Procedimentos típicos: exames periódicos de tecidos duros e moles, manutenção periodontal, flúor e instrução de higiene."
+    },
+    {
+      "id": "stefanac-posicao",
+      "titulo": "Por que cada fase fica onde fica (Stefanac)",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, pp. 109–111, 114, 116",
+      "texto": "Esta seção reúne o que o capítulo dá como razão para a posição de cada fase. Onde o livro não diz o porquê, a tabela diz que ele não detalha.\n\n| Fase | Posição e razão que o livro dá |\n|---|---|\n| Sistêmica | Abre a sequência do Box 4-1. Trata de avaliar a história de saúde e controlar a saúde geral e psicológica antes ou durante o tratamento. O capítulo não detalha por que ela é a primeira. |\n| Aguda | Costuma vir antes do plano abrangente. Dor e inchaço são tratados logo. Para criar vínculo, o livro recomenda sequenciar cedo o tratamento da queixa principal, quando possível (p. 114). |\n| Controle da doença | Vem antes de reconstruir ou substituir: cárie é controlada e doença periodontal é detida antes de decidir como reabilitar. Termina na avaliação pós-tratamento. |\n| Tratamento definitivo | Só começa depois da avaliação pós-tratamento. Em quem vai repor dentes, os dentes-chave recebem atenção especial nessa avaliação: resposta ao controle da doença e aptidão como pilares (p. 116). |\n| Manutenção | É a última e não tem fim: o livro diz que o plano sistêmico e o de manutenção são contínuos, ao contrário das fases aguda, de controle da doença e definitiva, que terminam com a lista de procedimentos (p. 111). Sem reavaliação periódica e cuidado de suporte, a condição pode recidivar. |\n\n**Quando a queixa pertence a outra fase.** O livro dá dois exemplos.\n- Paciente que quer repor dentes ausentes e tem doença periodontal ativa: uma prótese parcial fixa nesse momento pode ser inadequada. A solução pode ser uma prótese parcial removível provisória, e o dentista explica a importância da fase de controle.\n- Paciente com cárie extensa que quer tratar primeiro os anteriores, por estética: pode-se tratar o posterior mais grave e um ou dois anteriores na consulta seguinte, como acordo.\n\n**Dentro de cada fase.** Atribuem-se os procedimentos às fases e, dentro da fase, ordena-se do problema mais grave para o menos grave. Quando não dá para ordenar em linha, agrupa-se, por exemplo, em \"tratar cedo\" e \"tratar depois\".\n\n**Para comparar.** Outra fonte divide o tratamento em fases diferentes: ver a seção «Lindhe: as quatro fases e o porquê da ordem» (Lindhe). As duas listas não são unidas."
+    },
+    {
+      "id": "stefanac-box",
+      "titulo": "A sequência do Box 4-1",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, Guidelines for Sequencing Dental Treatment, p. 113; Fig. 4-1, p. 105; p. 111",
+      "texto": "O Box 4-1 usa os nomes: tratamento sistêmico (systemic treatment), tratamento agudo (acute treatment), controle da doença (disease control), tratamento definitivo (definitive treatment) e terapia de manutenção (maintenance therapy). O texto das fases chama a última de fase de cuidado de manutenção (maintenance care phase, p. 111), e a Fig. 4-1 (p. 105) a rotula maintenance/monitoring/prevention. Na ordem em que o quadro lista:\n\n**I. Sistêmico.** Consulta com o médico do paciente, premedicação, manejo de estresse e medo, posicionamento especial, outros cuidados para doença sistêmica.\n\n**II. Agudo.** Emergência para dor ou infecção; tratamento da queixa urgente, quando possível.\n\n**III. Controle da doença.**\n1. remover cárie para determinar a restaurabilidade de dentes questionáveis;\n2. extrair dentes sem prognóstico ou problemáticos, com substituição provisória se preciso;\n3. periodontia: instrução de higiene; raspagem e alisamento radicular e profilaxia; controle de outros fatores contribuintes (substituir restaurações defeituosas e remover cárie; reduzir hábitos parafuncionais e tabagismo);\n4. controle de cárie: avaliação de risco, restaurações provisórias, restaurações definitivas;\n5. substituir restaurações defeituosas;\n6. endodontia para condições pulpares ou periapicais patológicas;\n7. estabilizar dentes com restaurações provisórias ou de fundação;\n8. avaliação pós-tratamento.\n\n**IV. Tratamento definitivo.**\n1. periodontia avançada;\n2. estabilizar a oclusão (dimensão vertical, guia anterior, plano oclusal);\n3. ortodontia e/ou cirurgia ortognática;\n4. ajuste oclusal;\n5. restauração definitiva de dentes individuais: primeiro os endodonticamente tratados, depois os dentes-chave, depois os demais;\n6. odontologia estética (clareamento, restaurações estéticas);\n7. extração eletiva de dentes assintomáticos;\n8. reposição de dentes ausentes: prótese parcial fixa e implantes, prótese parcial removível, próteses totais;\n9. avaliação pós-tratamento.\n\n**V. Manutenção.** Visitas periódicas."
+    },
+    {
+      "id": "stefanac-regras-1",
+      "titulo": "Regras de ordem: periodontia, cárie e endodontia",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Periodontal Therapy, Caries Control, Endodontics, pp. 109–110, 113–115",
+      "texto": "**Periodontia.** Em geral deve acontecer o mais cedo possível, mas pode ser adiada em três situações: para resolver uma queixa simples (restauração perdida, terceiro molar impactado sintomático); para restaurar cáries grandes, sobretudo subgengivais, com restauração provisória ou definitiva, que deixa o tratamento periodontal mais confortável e começa a resolver a gengivite; e para extrair dentes não restauráveis ou sem prognóstico periodontal antes da raspagem. Em paciente que não consulta há anos, com placa e cálculo, às vezes se começa antes do exame completo, com raspagem grosseira ou desbridamento de placa, para ver as superfícies.\n\n**Cárie.** Reduzir carboidratos refinados, melhorar a remoção de placa e aplicar flúor começam logo e se reforçam em todas as consultas. A ordem dos dentes:\n1. **sintomáticos primeiro.** Extraem-se os que não devem ser mantidos por razão periodontal ou restauradora. Nos demais, remove-se toda a cárie, faz-se endodontia se necessário e coloca-se restauração definitiva ou provisória;\n2. **assintomáticos com cárie perto da polpa**, clínica ou radiográfica, para evitar sintomas e lesão irreversível da polpa;\n3. **remover a cárie para testar a restaurabilidade.** Se a cárie está no nível da crista alveolar ou abaixo, remove-se e decide-se se o dente pode ser restaurado. O livro diz que a endodontia só começa quando o dente estiver periodontalmente sadio e restaurável;\n4. **por fim, cárie dos assintomáticos**, com restauração definitiva quando possível, ordenada primeiro pela gravidade e depois por quadrante.\n\n**Endodontia.** Em dentes com muitas cáries profundas ou dor pulpar, o livro prefere remover cárie e polpa, colocar curativo sedativo e completar a endodontia depois de algum controle. Quanto às restaurações permanentes, as dos dentes endodonticamente tratados vêm antes das dos dentes vitais, se possível, para evitar fratura.\n\n**Onde a endodontia entra.** Fase aguda: entre os tratamentos possíveis para sintomas (pp. 109–110). Controle da doença: para condição pulpar ou periapical patológica (Box 4-1, III.F, p. 113). Tratamento definitivo: a endodontia eletiva, não aguda (p. 110). O capítulo não detalha como a condição da p. 115 se concilia com a endodontia da fase aguda."
+    },
+    {
+      "id": "stefanac-regras-2",
+      "titulo": "Regras de ordem: extrações, oclusão e reposição de dentes",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Extractions, Third Molars, Occlusion, Tooth Replacement, pp. 108, 115–116",
+      "texto": "**Extrações.** O mais cedo possível, para cicatrizar antes das próteses. O livro diz que se deve tentar limitar o número de consultas cirúrgicas e extrair de uma vez todos os dentes sem prognóstico ou não restauráveis. Pode ser preciso adiar a extração de assintomáticos para manter o aspecto ou a posição dos dentes opostos e dos adjacentes com provisórios. Exemplo clássico: dentadura imediata, com extração dos posteriores primeiro, anteriores mantidos, moldagem 6 a 8 semanas depois e entrega junto com a extração dos anteriores. O reembasamento costuma vir em 6 a 12 meses (p. 108).\n\n**Terceiros molares.**\n- Sintomáticos: extrair logo.\n- Assintomáticos ou impactados: no fim do controle da doença ou no tratamento definitivo.\n- Se o plano prevê extrair o terceiro molar e fazer coroa no segundo molar que fica à frente dele, o terceiro sai antes, para evitar dano aos vizinhos.\n\n**Oclusão.** Estabilidade é meta importante do plano abrangente. O tratamento oclusal normalmente começa depois do controle da doença (ortodontia, ajuste, mudança de dimensão vertical); às vezes um ajuste limitado faz parte da terapia inicial. Ao restaurar com coroas ou próteses, desenvolve-se primeiro a oclusão anterior e depois a posterior.\n\n**Reposição de dentes** (implantes, prótese parcial fixa ou removível). Esses pacientes costumam ter vários problemas.\n1. Controlar cárie e doença periodontal começa já; provisórios podem ser necessários.\n2. No controle da doença, identificam-se os dentes-chave, sobretudo os que serão pilares de próteses parciais fixas e removíveis; pode ser preciso um desenho preliminar da prótese parcial removível em modelos, com delineador, e avaliar cirurgia pré-protética, como remoção de tórus.\n3. Na avaliação pós-tratamento, os dentes-chave recebem atenção especial: resposta ao controle da doença e aptidão como pilares.\n4. O desenho final da prótese parcial removível fica pronto antes do tratamento definitivo, para incorporar apoios oclusais, planos-guia e áreas de retenção.\n5. Procedimentos pré-protéticos (por exemplo, remover tórus), endodontia, núcleos, coroas delineadas (survey crowns) e prótese parcial fixa vêm antes de confeccionar a prótese parcial removível."
+    },
+    {
+      "id": "stefanac-limites",
+      "titulo": "Plano que para no controle, plano ativo e plano perpétuo",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, pp. 110, 116–119",
+      "texto": "**Nem todo plano vai até o definitivo.** Em casos com muitos problemas, pode não ser possível um plano completo, com controle da doença e tratamento definitivo. O livro dá duas opções:\n- **só controle da doença** (disease control only), útil quando o dentista está incerto sobre a gravidade da doença, as opções de tratamento ou o compromisso do paciente (p. 110): controla cárie e periodontite ativa, retira dentes sem prognóstico e usa provisórios para os ausentes, se preciso. Ao fim, avaliação pós-tratamento e então manutenção ou um novo plano definitivo. A Fig. 4-3 mostra um paciente com anos de negligência, cárie generalizada e doença periodontal, em que se indica o controle antes de qualquer coroa;\n- **controle da doença com plano definitivo tentativo** (tentative): permite visualizar um fim sem perder flexibilidade, e também exige reavaliação antes de começar o definitivo.\n\nSe a doença não está controlada ou o paciente quer limitar o tratamento, ele pode entrar num **período de espera** (holding period), sem seguir para o definitivo. Plano só de controle precisa dizer por escrito que haverá reavaliação e tratamento definitivo depois (p. 118).\n\n**Dois planos registrados** (p. 119):\n- **plano ativo** (active treatment plan): lista os procedimentos de controle e definitivos, na ordem em que serão feitos; costuma ter um fim, em geral uma reavaliação pós-tratamento;\n- **plano perpétuo** (perpetual treatment plan): não tem fim; reúne as ações de manutenção e sistêmicas válidas enquanto durar a relação dentista-paciente.\n\nO **plano de consultas** (appointment plan) é documento à parte, com as atividades de cada consulta.\n\n**Convênio privado** (p. 117). Os limites anuais podem levar a tratamento em etapas. O procedimento típico é fazer o controle da doença primeiro, com restaurações provisórias, adiando a reabilitação mais cara. Nem sempre é possível adiar a reabilitação mais cara: o livro dá o exemplo de vários dentes endodonticamente tratados que deveriam receber coroa de proteção. Reparar restaurações em vez de coroar pode economizar, mas pode só adiar o inevitável.\n\n**Consentimento** (p. 117). O dentista revela sete itens: a natureza da condição, o tratamento proposto, os riscos, as complicações possíveis, as consequências de não tratar, as alternativas e o prognóstico."
+    },
+    {
+      "id": "carranza-69",
+      "titulo": "Carranza: o preparo do periodonto antes da restauradora",
+      "fonte": "carranza13",
+      "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Sequência do Tratamento, Quadro 69.1, pp. 739–741",
+      "texto": "Nas páginas do cap. 69, o Carranza não usa os nomes de fase do Stefanac; o Quadro 69.1 traz dois blocos, e a sequência do tratamento põe o controle da doença ativa antes do cuidado restaurador (pp. 739–740). Os dois livros dividem o plano de modos diferentes; este tema mostra cada um como está, sem unir as listas.\n\n**Quadro 69.1, sequência de tratamento no preparo do periodonto (pp. 739–741):**\n\n| Bloco | Itens |\n|---|---|\n| Controle da doença ativa | tratamento de emergência; extração de dentes condenados; instruções de higiene oral; raspagem e alisamento radicular; reavaliação; cirurgia periodontal; terapia ortodôntica adjuvante |\n| Cirurgia pré-protética | manejo dos problemas mucogengivais; preservação da morfologia da crista após extração; procedimentos de aumento de coroa; reconstrução da crista alveolar |\n\nO quadro empilha os dois blocos, com o controle da doença ativa em cima e a cirurgia pré-protética embaixo; as listas dentro de cada bloco não são numeradas. O texto da p. 739 divide o preparo em duas fases e numera: (1) controle da inflamação periodontal e (2) cirurgia periodontal pré-protética (Quadro 69.1).\n\n**Reavaliação.** É feita 4 semanas depois da higiene e da raspagem. Se restam bolsas maiores do que 5 mm, a cirurgia periodontal deve ser considerada antes de prosseguir com o cuidado restaurador (pp. 739–741). A legenda da Fig. 69.2 (p. 741) diz que a inflamação associada às bolsas com profundidade maior do que 5 mm sugere a necessidade de cirurgia periodontal.\n\n**O que o capítulo não traz.** O quadro não tem fase sistêmica, fase definitiva nem manutenção; a manutenção é tratada no cap. 72. O capítulo também não diz quanto esperar depois da cirurgia antes de restaurar.\n\n**Para comparar.** Outra fonte dá valor diferente para a reavaliação: ver a seção «Lindhe: a reavaliação depois da fase inicial» (Lindhe). Cada número fica com o seu livro."
+    },
+    {
+      "id": "carranza-72",
+      "titulo": "Carranza: onde entra a manutenção (cap. 72)",
+      "fonte": "carranza13",
+      "onde": "cap. 72, Tratamento Periodontal de Suporte, Fundamento lógico, Figuras 72.1 e 72.2, Tabela 72.3, pp. 757–758 (Fig. 72.2 e fundamento lógico), p. 764 (Tabela 72.3)",
+      "texto": "No cap. 72, o Carranza fala em **Fase I, Fase II, Fase III e Fase IV**: a Fase II é a cirurgia, a Fase III é a restauração e a Fase IV é a manutenção. O capítulo não detalha o que a Fase I contém.\n\n**Onde a manutenção entra.** O tratamento periodontal de suporte é um programa de consultas periódicas que começa logo depois do fim da Fase I e da reavaliação. A cirurgia (Fase II) e a restauração (Fase III) são feitas em paralelo, integradas à manutenção.\n- **Sequência incorreta** (Fig. 72.1): Fase I, reavaliação, Fase II, Fase III e só então a Fase IV, a manutenção.\n- **Sequência correta** (Fig. 72.2): a manutenção começa após a reavaliação da Fase I.\n\n**O fundamento lógico traz estes dados (p. 758):**\n- os patógenos subgengivais voltam aos níveis de antes do tratamento em cerca de 9 a 11 semanas, com grande variação entre pacientes;\n- a cicatrização pode formar epitélio juncional longo, com inserção frágil, que predispõe a bolsa recorrente sem manutenção.\n\nPoucos pacientes colaboram bem com o cronograma. Numa amostra de 961 pacientes acompanhados de 1 a 8 anos, a cooperação foi completa em 16,44%, nenhuma em 34,13% e errática em 49,43% (Fig. 72.3, p. 758).\n\n**Intervalos de retorno** (Tabela 72.3, p. 764; o intervalo inicial é de 3 meses, ajustável, p. 758):\n\n| Paciente | Intervalo |\n|---|---|\n| Primeiro ano, cicatrização de rotina sem ocorrências especiais | 3 meses |\n| Primeiro ano, caso difícil (prótese complicada, furca, relação coroa-raiz desfavorável ou cooperação questionável) | 1 a 2 meses |\n| Classe A (resultados excelentes mantidos por 1 ano ou mais) | 6 meses a 1 ano |\n| Classe B (resultados bons, com alguns fatores de risco) | 3 a 4 meses |\n| Classe C (resultados ruins ou vários fatores negativos) | 1 a 3 meses |\n\n**Para comparar.** Outra fonte dá os intervalos de retorno à sua maneira: ver a seção «Lindhe: a manutenção e o intervalo de retorno» (Lindhe). Os intervalos de cada livro não são unidos."
+    },
+    {
+      "id": "lindhe-fases",
+      "titulo": "Lindhe: as quatro fases e o porquê da ordem",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Introdução e Fases do tratamento, pp. 575–576",
+      "texto": "O Lindhe divide o tratamento de pacientes com cárie e doença periodontal ou peri-implantar em **quatro fases**, nesta ordem. A premissa do capítulo: cárie, doença periodontal e doença peri-implantar são infecções oportunistas por biofilme. Eliminar ou controlar a infecção e introduzir o controle do biofilme leva, na maioria dos casos, à saúde; quando ela não pode ser alcançada e mantida, o objetivo é parar a progressão.\n\n| Ordem | Fase | O que faz, segundo o capítulo |\n|---|---|---|\n| 1 | **Sistêmica** | reduzir ou eliminar condições sistêmicas para melhorar o resultado da terapia causal e proteger paciente e profissionais do risco de infecção; consulta com o médico, se necessário; esforço para levar o fumante a um programa de cessação do tabagismo |\n| 2 | **Inicial (higiênica), terapia relacionada à causa** | principal terapia relacionada à causa: boas condições de higiene e eliminação das infecções da boca, removendo depósitos moles e duros e fatores de retenção, e motivando o controle do biofilme. Pode incluir escavação de cárie e medicação provisória do canal radicular. Termina em reavaliação e planejamento das terapias adicionais e de suporte |\n| 3 | **Corretiva** | trata as sequelas das infecções: cirurgia periodontal e de implantes, obturação do canal radicular, tratamento restaurador e/ou ortodôntico e protético |\n| 4 | **Manutenção** | terapia periodontal e peri-implantar de suporte (TPS): prevenir reinfecção e recorrência |\n\n**Por que a corretiva vem depois.** O capítulo diz que a escolha do tratamento restaurador e protético só é planejada quando o sucesso da terapia causal já pode ser avaliado. A cooperação do paciente na terapia em geral determina o conteúdo da fase corretiva: se for insatisfatória, pode ser inútil iniciar os procedimentos, e não há melhora permanente de saúde, função e estética. Como apoio, o capítulo cita ensaios clínicos: com bom controle de biofilme, gengivectomia e cirurgia a retalho deram frequentemente ganho de osso alveolar e de inserção clínica; em dentições contaminadas por biofilme, a cirurgia causou mais destruição.\n\n**Sem fase aguda.** O capítulo não nomeia fase aguda nem fase de controle da doença. Condições como pulpite, periodontite periapical e abscesso gengival entram na divisão do tratamento, e a fase inicial pode incluir escavação de cárie e medicação provisória do canal. A ordem do Stefanac está nas seções dele; este tema não une as duas listas."
+    },
+    {
+      "id": "lindhe-metas",
+      "titulo": "Lindhe: metas clínicas e fatores de risco",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Metas do tratamento, pp. 575–576",
+      "texto": "O capítulo lista parâmetros clínicos que a terapia deve atingir:\n\n- **gengivite** reduzida ou resolvida: média de sangramento à sondagem (SS) de 20% ou menos;\n- **furcas abertas** em dentes multirradiculares: o envolvimento horizontal no início da furca não deve passar de 2 a 3 mm;\n- **ausência de dor**;\n- **satisfação do paciente** com a estética e a função;\n- **bolsas residuais**: o capítulo escreve a meta como \"sem bolsas residuais com redução na PB > 5 mm\" (PB, profundidade de sondagem da bolsa).\n\n**Fatores de risco que também precisam ser abordados.** O capítulo aponta três como os principais: controle inadequado do biofilme, consumo de tabaco e diabetes melito não controlado. A fase sistêmica inclui o esforço de levar o fumante a um programa de cessação do tabagismo.\n\nO capítulo não traz tabela de critérios numéricos para passar de uma fase à seguinte. O que decide a passagem é a reavaliação, descrita nas seções seguintes."
+    },
+    {
+      "id": "lindhe-provisorio",
+      "titulo": "Lindhe: o plano inicial é provisório",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Plano de tratamento inicial; Apresentação de caso; Conclusão, pp. 577–580 e 595",
+      "texto": "Depois do exame e do diagnóstico de todas as condições patológicas, monta-se um **plano de tratamento inicial**. Na fase de manejo é quase sempre impossível definir a sequência de tudo. O capítulo dá três razões:\n\n1. **O grau de sucesso do tratamento inicial é desconhecido.** A reavaliação depois da terapia relacionada à causa é a base para escolher a terapia adicional. A eliminação da doença depende não só da raspagem subgengival, mas da capacidade e da disposição do paciente de controlar o biofilme e de adotar hábitos alimentares adequados.\n2. **A necessidade \"subjetiva\" do paciente de tratamento adicional é desconhecida.** Na consulta de apresentação do caso descobre-se se ela coincide com a avaliação do profissional. O principal objetivo do paciente é eliminar a dor e satisfazer demandas de conforto mastigatório e estética, que variam muito de um para outro.\n3. **O resultado de algumas etapas é imprevisível.** Em formas avançadas de cárie e de doença periodontal ou peri-implantar, em geral não se prevê quais dentes serão tratados com sucesso; fases fundamentais e difíceis precisam ser feitas e avaliadas antes de se decidir todos os aspectos da fase corretiva definitiva.\n\n**Apresentação de caso.** Faz parte do plano inicial: descreve ao paciente os objetivos do tratamento e como atingi-los. Vantagens, desvantagens e alternativas de um plano são explicadas e discutidas, e a atitude do paciente diante das alternativas orienta o plano geral.\n\n**Variação.** No fim do capítulo, os autores dizem que os pacientes variam e podem exigir mudança na sequência das fases; as mudanças são aceitáveis desde que se entendam os princípios fundamentais que caracterizam cada fase."
+    },
+    {
+      "id": "lindhe-prognostico",
+      "titulo": "Lindhe: prognóstico de cada dente antes da terapia",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Prognóstico pré-terapêutico de cada dente, Fig. 25.5, pp. 578–580",
+      "texto": "Com base no exame completo (periodonto, peri-implante, cárie, sensibilidade, diagnóstico, necessidades de estética e função), cada dente recebe um prognóstico **antes** da terapia. As três perguntas do capítulo: qual dente tem prognóstico bom (seguro), qual não é aconselhável tratar e qual é duvidoso (inseguro).\n\n**Bom.** Terapia relativamente simples; o dente pode ser pilar seguro para função.\n\n**Não aconselhável tratar.** O dente deve ser extraído já no tratamento inicial relacionado à causa. Critérios por grupo:\n- periodontais: abscessos periodontais recorrentes; lesões combinadas periodontal e endodôntica; perda de inserção até a região apical;\n- endodônticos: perfuração na metade apical da raiz; lesão periapical grande (mais de 6 mm de diâmetro);\n- dentários: fratura vertical da raiz; fratura oblíqua no terço médio; lesão de cárie extensa que chega ao canal radicular;\n- funcionais: terceiro molar sem antagonista e com lesão de cárie ou periodontal.\n\n**Duvidoso.** Exige tratamento mais abrangente e terapia adicional para se tornar bom. Critérios:\n- periodontais: envolvimento de furca classe II ou III; defeitos ósseos angulares (verticais); perda óssea horizontal acima de dois terços da raiz;\n- endodônticos: tratamento endodôntico incompleto; patologia periapical; pinos ou núcleos volumosos;\n- dentários: cárie radicular extensa.\n\nA Fig. 25.5 do caso S.B. é uma grade com a numeração dos dentes e uma linha para cada categoria (sem razão para tratar, duvidoso e bom) em cada arcada, com um X em cada dente."
+    },
+    {
+      "id": "lindhe-reavaliacao",
+      "titulo": "Lindhe: a reavaliação depois da fase inicial",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1 (reavaliação depois da fase inicial; planejamento da fase corretiva), pp. 579–581",
+      "texto": "**Quando.** A fase inicial termina com uma análise completa dos resultados quanto à eliminação e ao controle das infecções orais, periodontais e de cárie. Para haver cicatrização completa dos tecidos periodontais, a reavaliação **não deve ser feita antes de 6 a 12 semanas** da última sessão de instrumentação mecânica subgengival.\n\n**O que ela decide.** Os resultados são a base para escolher, se preciso, as medidas corretivas. Se a doença periodontal e a cárie estiverem sob controle adequado e as metas atingidas, total ou parcialmente, a terapia corretiva pode ser executada, para corrigir as sequelas da infecção. Procedimentos:\n- endodontia complementar, com ou sem pino e núcleo;\n- cirurgia periodontal: o tipo (regenerativa, ressectiva ou desbridamento a retalho aberto) e a extensão se baseiam na PB, no envolvimento de furca e no sangramento à sondagem (SS) da reavaliação; em geral só onde a inflamação não cedeu à raspagem e ao alisamento, em defeitos ósseos angulares e em multirradiculares com furca;\n- **implantes** nas áreas edêntulas, por motivos funcionais e estéticos: o capítulo grifa que a terapia com implantes só começa depois que todas as infecções dentárias estiverem controladas, isto é, depois do sucesso do tratamento periodontal;\n- tratamento restaurador e protético definitivos, com próteses fixas ou removíveis.\n\n**Ilustração, caso S.B. (27 anos, saudável e não fumante).** Fase sistêmica sem exames médicos nem aconselhamento antitabagismo. Fase inicial com quatro medidas: motivação e instrução de higiene, com controle e reinstrução; raspagem e alisamento radicular sob anestesia, com remoção de fatores de retenção de biofilme; escavação e restauração das cáries dos dentes 16 e 26; endodontia do dente 46. Só depois da reavaliação veio a fase corretiva, com cirurgia periodontal, regeneração tecidual guiada no dente 36, ortodontia anterior superior e resina composta nos anteriores superiores."
+    },
+    {
+      "id": "lindhe-manutencao",
+      "titulo": "Lindhe: a manutenção e o intervalo de retorno",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Fase corretiva (manutenção); Reavaliação depois da fase corretiva; Fase de manutenção, pp. 576 e 582–583",
+      "texto": "**Quando entra.** Depois da terapia relacionada à causa, o paciente passa a um sistema de revisão para prevenir recorrência de periodontite, cárie e peri-implantite. A TPS deve ser agendada já na reavaliação depois da terapia inicial, independentemente de haver necessidade de terapia adicional.\n\n**Reavaliação depois da fase corretiva.** É nova análise completa dos resultados quanto à eliminação dos danos da destruição periodontal, incluindo as condições periodontais e peri-implantares. Os resultados dão a base da análise do risco periodontal residual, que determina a frequência dos retornos.\n\n**Intervalo.** Baseia-se na avaliação do risco periodontal (PRA), estabelecida nessa reavaliação. O programa de revisão é montado conforme a necessidade individual: pelo risco residual depois da terapia ativa, alguns pacientes voltam a cada 3 meses, outros só uma ou duas vezes por ano. O capítulo cita que o controle de biofilme pelo paciente, somado às visitas regulares de manutenção depois do tratamento ativo, controla gengivite e periodontite e limita a perda dentária por mais de 30 anos.\n\n**Visita de revisão**, cinco itens:\n1. atualizar a história clínica e de tabagismo;\n2. examinar os tecidos moles, com avaliação do risco de câncer;\n3. anotar as bolsas com PB de 5 mm ou mais da boca toda e o SS;\n4. reinstrumentar os locais com PB de 5 mm ou mais;\n5. polimento e flúor para prevenir cárie.\n\n**Também na manutenção:** controle regular das restaurações protéticas feitas na fase corretiva; teste de vitalidade pulpar nos dentes pilares (a perda de vitalidade é complicação frequente); radiografias interproximais em intervalos regulares, conforme a atividade de cárie.\n\n**Para comparar.** Outra fonte trata do começo da manutenção e dos intervalos de retorno à sua maneira: ver a seção «Carranza: onde entra a manutenção (cap. 72)» (Carranza)."
+    },
+    {
+      "id": "pegoraro-exame",
+      "titulo": "Pegoraro: o que o exame levanta antes do plano (anamnese, exame e dentes)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, pp. 13–28",
+      "texto": "O Pegoraro não divide o tratamento em fases nomeadas. O cap. 1 trata do **exame** e do que ele precisa levantar antes de planejar; só no fim (pp. 41–46) chega ao planejamento.\n\n**Anamnese primeiro** (p. 14). Saúde geral (pode excluir o tratamento \"ideal\"), alergias, diabetes e anemia controlados, história de hemorragia antes de cirurgia periodontal ou implante, hábitos parafuncionais e erosão ligados à perda de dimensão vertical, tratamentos anteriores e grau de motivação e de adesão.\n\n**Exame extraoral** (pp. 17–18). Dimensão vertical, suporte labial, linha do sorriso; palpação de masseter, temporal, músculos cervicais e articulação temporomandibular. Para trabalho protético, o paciente deve estar sem sinais e sintomas de disfunção temporomandibular.\n\n**Exame intraoral** (p. 18). Começa pelos tecidos moles, porque lesões podem mudar a prioridade. Depois, dentes e periodonto.\n\n**Dentes** (pp. 19–28):\n- **cárie:** triagem do grupo de risco antes do tratamento (manchas brancas, profundidade das lesões, interproximais, fluxo e tampão salivar, microbiologia). Segundo o livro, a cárie é a principal causa de fracasso em prótese parcial fixa (p. 19);\n- **higiene:** é preciso haver espaço para a escova interproximal; se o paciente não consegue manter higiene satisfatória, o dentista assume essa função com controles periódicos (p. 19);\n- **oclusão:** exame clínico e em articulador; contatos exagerados podem causar pericementite traumática e deslocamento do retentor, e daí recidiva de cárie (p. 26);\n- **número e disposição:** a disposição importa mais que a quantidade (p. 27);\n- **inclinação:** pode pedir ameloplastia, ortodontia, coroas telescópicas, encaixes ou endodontia com finalidade protética (pp. 27–28);\n- **coroa clínica:** curta quando a altura é menor que a largura; altura mínima de 4 mm (p. 28);\n- **vitalidade:** teste térmico em todo pilar. dentes despolpados não devem ser usados como pilares de extensos espaços edêntulos nem, principalmente, de pôntico suspenso (cantilever), que exige ao menos dois dentes polpados (p. 28)."
+    },
+    {
+      "id": "pegoraro-periodonto",
+      "titulo": "Pegoraro: risco periodontal, radiografias e modelos",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, pp. 29–41",
+      "texto": "**Risco periodontal** (pp. 29–30). Identifica-se se o paciente tem ou não risco de doença periodontal; se tem, especifica-se o grau (baixo, médio ou alto). Todos precisam de controle de placa e motivação para higiene antes de iniciar o tratamento.\n- **Sem risco:** o tratamento restaurador pode começar mais cedo.\n- **Com risco:** a fase de controle de placa é mais prolongada, para verificar a resposta tecidual ao preparo prévio antes de seguir. O paciente deve entender que novas próteses, sozinhas, não curam a doença periodontal.\n\n**Exame periodontal** (pp. 31–36):\n- sondagem de seis pontos por dente; o sangramento indica inflamação marginal e dificulta moldagem e cimentação (pp. 31–32);\n- furca, graus I, II e III; manter ou extrair o dente é decisão de custo-benefício (p. 33);\n- mobilidade: grau 1 (0 a 1 mm no sentido horizontal), grau 2 (mais de 1 mm horizontal), grau 3 (vertical e horizontal); reavaliar nos provisórios (p. 35);\n- mucosa ceratinizada de 2 mm ou mais é exigida para procedimentos restauradores (p. 35).\n\n**Área edêntula e radiografias** (pp. 37–39). Avaliar o rebordo antes de planejar os pônticos. Para implante, altura e espessura óssea pela panorâmica e, se preciso, por tomografia. Radiografias: panorâmica antes da consulta inicial em casos extensos; periapicais pela técnica do paralelismo; interproximais para próteses antigas e recidiva de cárie; tomografia de feixe cônico para implante, enxerto, articulação e variações anatômicas.\n\n**Modelos de estudo** (p. 41). Na maioria dos casos de prótese, montam-se em articulador semiajustável (ASA) na relação cêntrica, com arco facial ou plano de Camper e registro intermaxilar confiável. Servem para registrar a situação inicial, observar os contatos entre relação cêntrica e máxima intercuspidação, prever o efeito de ajuste oclusal, fazer o enceramento diagnóstico, os provisórios e o guia cirúrgico. Do enceramento pode sair a matriz ou as próprias coroas provisórias, antes de qualquer desgaste na boca.\n\nO livro diz que a fase de exame deve dar todas as informações para um plano individualizado; falha na coleta pode gerar tratamento tecnicamente perfeito, mas inadequado ao paciente."
+    },
+    {
+      "id": "pegoraro-decisao",
+      "titulo": "Pegoraro: plano preliminar × definitivo e dente × implante",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, Planejamento, pp. 42–46",
+      "texto": "**Preliminar e definitivo** (p. 42). Depois dos exames clínico e radiográfico e da montagem dos modelos em articulador, começa o planejamento. Ele pode ser apenas preliminar e ser definido depois da colocação das coroas provisórias e das cirurgias periodontais, conforme a extensão e as características do caso.\n\n**Dente ou implante** (p. 42). O dentista deve considerar implante em vez de desgastar dentes íntegros, ou combinar prótese sobre implante com prótese sobre dentes. Segundo o livro, a porcentagem de sucesso de próteses fixas sobre dentes ou sobre implantes, após 5 ou 10 anos, é praticamente igual. Dentes com perda parcial de suporte ósseo também podem ser pilares com sucesso; por isso, extrair para colocar implante deve ser feito com cautela.\n\n**Critérios para prótese fixa sobre implante** (pp. 42–46):\n- número, comprimento e disposição dos implantes, em planos frontal, lateral e sagital; implantes curtos precisam mais disso;\n- espaço mínimo de 7 mm entre dentes adjacentes para implante de plataforma regular, deixando cerca de 1,5 mm até o dente para a papila; até 3 mm entre implantes (p. 42);\n- reabsorção óssea horizontal e vertical, sobretudo anterior, com suporte labial e possível necessidade de enxerto (p. 43);\n- número e suporte dos dentes remanescentes, com a opção de extrair e fazer prótese sobre implante (p. 43).\n\n**Resto radicular** (p. 46). Avalia-se a qualidade do remanescente radicular e a dificuldade da endodontia e do núcleo: se manter o dente se justifica, ou se é melhor extrair e colocar implante.\n\n**Vizinhos** (p. 46). O livro diz que a preservação de dentes naturais deve sempre ser o objetivo do tratamento. Vizinhos íntegros ou com pequenas restaurações favorecem implante unitário; a segunda opção é a prótese adesiva. Vizinhos com restaurações extensas, ou com próteses a trocar, favorecem a prótese fixa convencional.\n\n**Outros fatores** (p. 46): custo, saúde geral, tempo de cicatrização, previsibilidade estética, condição psicológica e expectativa do paciente, experiência do dentista. O livro pede planejamento simples, conservador e realista, e ouvir o paciente antes de definir."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as cinco fases do plano no Stefanac, em ordem?",
+      "verso": "Sistêmica (systemic), aguda (acute), de controle da doença (disease control), de tratamento definitivo (definitive treatment) e de cuidado de manutenção (maintenance care).",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Phasing, p. 109"
+    },
+    {
+      "id": "f02",
+      "frente": "Quais são as quatro fases do Lindhe (cap. 25), em ordem?",
+      "verso": "Sistêmica; inicial (higiênica), terapia relacionada à causa; corretiva; manutenção (terapia periodontal de suporte, TPS). O capítulo não nomeia fase aguda nem fase de controle da doença.",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Introdução e Fases do tratamento, pp. 575–576"
+    },
+    {
+      "id": "f03",
+      "frente": "Na prática, o que é a fase de controle da doença?",
+      "verso": "Para muitos pacientes, controlar a cárie e deter a doença periodontal antes de decidir como reconstruir ou substituir dentes.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, disease control phase, p. 110"
+    },
+    {
+      "id": "f04",
+      "frente": "O que fecha o controle da doença antes do tratamento definitivo?",
+      "verso": "A avaliação pós-tratamento (posttreatment assessment). Em quem vai repor dentes, os dentes-chave recebem atenção especial nessa avaliação.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, p. 110; Box 4-1, p. 113; p. 116"
+    },
+    {
+      "id": "f05",
+      "frente": "Como se ordena o que está dentro de cada fase?",
+      "verso": "Do problema mais grave para o menos grave; quando não dá para ordenar em linha, agrupa-se em \"tratar cedo\" e \"tratar depois\".",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Guidelines for Sequencing, p. 113"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual condição o Stefanac põe para começar a endodontia?",
+      "verso": "O dente precisa estar periodontalmente sadio e restaurável.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Caries Control, p. 115"
+    },
+    {
+      "id": "f07",
+      "frente": "Lindhe: quando fazer a reavaliação depois da fase inicial e o que ela decide?",
+      "verso": "Não antes de 6 a 12 semanas da última instrumentação subgengival, para a cicatrização completa. Ela é a base para escolher as medidas da fase corretiva.",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1, reavaliação depois da fase inicial, pp. 579–581"
+    },
+    {
+      "id": "f08",
+      "frente": "Por que o Lindhe diz que o plano de tratamento inicial é provisório?",
+      "verso": "Três razões: o grau de sucesso do tratamento inicial é desconhecido; a necessidade subjetiva do paciente de tratamento adicional é desconhecida; o resultado de algumas etapas é imprevisível.",
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Plano de tratamento inicial, pp. 577–578"
+    },
+    {
+      "id": "f09",
+      "frente": "Quais as três qualidades de um dente-chave (key tooth)?",
+      "verso": "Periodontalmente estável, bem posicionado no arco e restaurável.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Key teeth, p. 109"
+    },
+    {
+      "id": "f10",
+      "frente": "Quando o Stefanac admite um plano só de controle da doença?",
+      "verso": "Quando o dentista está incerto sobre a gravidade da doença, as opções de tratamento ou o compromisso do paciente, ou quando a complexidade impede um plano completo. Ele exige, por escrito, a reavaliação e o tratamento definitivo depois.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, pp. 110, 118"
+    },
+    {
+      "id": "f11",
+      "frente": "Como o Stefanac descreve a fase de manutenção?",
+      "verso": "Mais que um \"check-up a cada 6 meses\": plano personalizado e contínuo, sem fim.",
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, maintenance care phase, p. 111; perpetual treatment plan, p. 119"
+    },
+    {
+      "id": "f12",
+      "frente": "Quais os dois blocos do Quadro 69.1 do Carranza?",
+      "verso": "Controle da doença ativa e cirurgia pré-protética.",
+      "fonte": "carranza13",
+      "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Quadro 69.1, pp. 739–741"
+    },
+    {
+      "id": "f13",
+      "frente": "Carranza, cap. 69: quando reavaliar e o que fazer com bolsas maiores do que 5 mm?",
+      "verso": "Reavaliar 4 semanas depois de higiene e raspagem; com bolsas maiores do que 5 mm (legenda da Fig. 69.2), considerar cirurgia periodontal antes do cuidado restaurador.",
+      "fonte": "carranza13",
+      "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Fig. 69.2, pp. 739–741"
+    },
+    {
+      "id": "f14",
+      "frente": "Carranza, cap. 72: quando começa a manutenção na sequência das fases?",
+      "verso": "Logo depois da reavaliação da Fase I, com cirurgia (Fase II) e restauração (Fase III) integradas à manutenção.",
+      "fonte": "carranza13",
+      "onde": "cap. 72, Tratamento Periodontal de Suporte, Figuras 72.1 e 72.2, pp. 757–758"
+    },
+    {
+      "id": "f15",
+      "frente": "Pegoraro: como o risco periodontal muda o início do tratamento restaurador?",
+      "verso": "Sem risco, ele pode começar mais cedo. Com risco, a fase de controle de placa é mais prolongada, para ver a resposta tecidual.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, p. 30"
+    },
+    {
+      "id": "f16",
+      "frente": "Pegoraro: resto radicular, manter ou extrair e implantar?",
+      "verso": "Avalia-se a qualidade do remanescente radicular e a dificuldade da endodontia e do núcleo para decidir se manter o dente se justifica ou se é melhor extrair e colocar implante.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, p. 46"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Pela sequência do Stefanac, o paciente chega com dor intensa, edema e um dente quebrado. A saúde geral já foi avaliada na fase sistêmica. Em qual fase se resolve essa queixa?",
+      "alternativas": [
+        {
+          "texto": "Fase de controle da doença, junto da avaliação pós-tratamento.",
+          "correta": false,
+          "justificativa": "A fase de controle da doença controla cárie e doença periodontal e termina na avaliação pós-tratamento; os problemas sintomáticos (dor, edema, infecção, dente quebrado) pertencem à fase aguda.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Phasing, pp. 109–110"
+        },
+        {
+          "texto": "Fase aguda.",
+          "correta": true,
+          "justificativa": "A fase aguda resolve problemas sintomáticos: dor, edema, infecção, dente quebrado, restauração perdida. Costuma vir antes do plano abrangente.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, acute phase, pp. 109–110"
+        },
+        {
+          "texto": "Fase de tratamento definitivo, depois da reavaliação.",
+          "correta": false,
+          "justificativa": "O tratamento definitivo só começa depois da avaliação pós-tratamento do controle da doença; dor e edema são tratados logo.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, pp. 110, 114"
+        },
+        {
+          "texto": "Fase de cuidado de manutenção, nas visitas periódicas.",
+          "correta": false,
+          "justificativa": "A manutenção é a última fase, de reavaliação periódica e cuidado de suporte; os problemas sintomáticos são da fase aguda.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, maintenance care phase, p. 111"
+        }
+      ],
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, acute phase, pp. 109–110",
+      "secao": "stefanac-fases",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "No Box 4-1 do Stefanac, qual item fecha a fase de controle da doença, antes do tratamento definitivo?",
+      "alternativas": [
+        {
+          "texto": "Ajuste oclusal.",
+          "correta": false,
+          "justificativa": "O ajuste oclusal é item do tratamento definitivo (IV), não do controle da doença.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113"
+        },
+        {
+          "texto": "Reposição de dentes ausentes com prótese fixa e implantes.",
+          "correta": false,
+          "justificativa": "A reposição de dentes ausentes está no tratamento definitivo (IV).",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113"
+        },
+        {
+          "texto": "Terapia de manutenção, com visitas periódicas.",
+          "correta": false,
+          "justificativa": "A manutenção é a fase V, depois do tratamento definitivo.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113"
+        },
+        {
+          "texto": "Avaliação pós-tratamento (posttreatment assessment).",
+          "correta": true,
+          "justificativa": "É o último item da fase III, o controle da doença, e vem antes de qualquer tratamento definitivo.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113"
+        }
+      ],
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113",
+      "secao": "stefanac-box",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Pela sequência do Stefanac, um molar tem cárie profunda que chega ao nível da crista alveolar e o plano prevê endodontia para uma condição pulpar patológica. Qual condição o livro exige para a endodontia começar?",
+      "alternativas": [
+        {
+          "texto": "As restaurações definitivas de todos os dentes vitais já estarem feitas.",
+          "correta": false,
+          "justificativa": "O livro põe as restaurações permanentes dos dentes endodonticamente tratados antes das dos vitais, se possível.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Endodontics, p. 115"
+        },
+        {
+          "texto": "O dente estar periodontalmente sadio e restaurável.",
+          "correta": true,
+          "justificativa": "O livro diz que a endodontia só começa quando o dente estiver periodontalmente sadio e restaurável; para isso se remove a cárie e se testa a restaurabilidade.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Caries Control, p. 115"
+        },
+        {
+          "texto": "A avaliação pós-tratamento já ter sido concluída.",
+          "correta": false,
+          "justificativa": "O Box 4-1 lista a endodontia para condições patológicas dentro do controle da doença, antes da avaliação pós-tratamento, que é o último item da fase.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Box 4-1, p. 113"
+        },
+        {
+          "texto": "A oclusão já estar estabilizada, com ajuste oclusal feito.",
+          "correta": false,
+          "justificativa": "O tratamento oclusal normalmente começa depois do controle da doença; a endodontia para patologia está dentro dele.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Occlusion, p. 115; Box 4-1, p. 113"
+        }
+      ],
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Caries Control, p. 115",
+      "secao": "stefanac-regras-1",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Pela lógica do Lindhe, a última sessão de instrumentação subgengival de um paciente foi há 3 semanas. Pode-se fazer agora a reavaliação que orienta a fase corretiva?",
+      "alternativas": [
+        {
+          "texto": "Pode, pois a higiene do paciente já está boa.",
+          "correta": false,
+          "justificativa": "O prazo da reavaliação é o da cicatrização completa dos tecidos periodontais: não antes de 6 a 12 semanas da última instrumentação subgengival. Três semanas é menos que isso.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1, reavaliação depois da fase inicial, pp. 579–581"
+        },
+        {
+          "texto": "Pode, logo ao fim da última sessão, sem esperar a cicatrização.",
+          "correta": false,
+          "justificativa": "O capítulo liga o prazo à cicatrização completa dos tecidos periodontais e fixa o mínimo em 6 a 12 semanas da última instrumentação subgengival.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1, reavaliação depois da fase inicial, pp. 579–581"
+        },
+        {
+          "texto": "Não: a reavaliação só vem depois da fase corretiva.",
+          "correta": false,
+          "justificativa": "A fase inicial termina em reavaliação, e é ela a base para escolher as medidas corretivas. Há outra reavaliação depois da fase corretiva, para definir a frequência da manutenção.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Fases do tratamento; Reavaliação depois da fase inicial e da fase corretiva, pp. 576 e 579–582"
+        },
+        {
+          "texto": "Ainda não: o prazo é de pelo menos 6 a 12 semanas da última instrumentação subgengival.",
+          "correta": true,
+          "justificativa": "Para haver cicatrização completa, a reavaliação não deve ser feita antes de 6 a 12 semanas depois da última sessão de instrumentação mecânica subgengival. Com 3 semanas, ainda não.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1, reavaliação depois da fase inicial, pp. 579–581"
+        }
+      ],
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Apresentação de caso 1, reavaliação depois da fase inicial, pp. 579–581",
+      "secao": "lindhe-reavaliacao",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Pela sequência do Stefanac, o terceiro molar de um paciente é assintomático e o plano prevê extraí-lo e fazer coroa no segundo molar que fica à frente dele. Qual a ordem?",
+      "alternativas": [
+        {
+          "texto": "Extrair o terceiro molar depois de cimentada a coroa do segundo molar.",
+          "correta": false,
+          "justificativa": "O livro manda extrair o terceiro molar antes, para evitar dano aos vizinhos.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Third Molars, p. 115"
+        },
+        {
+          "texto": "Extrair o terceiro molar antes de fazer a coroa no segundo molar.",
+          "correta": true,
+          "justificativa": "Se o plano prevê extrair o terceiro molar e coroa no segundo molar à frente dele, o terceiro sai antes.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Third Molars, p. 115"
+        },
+        {
+          "texto": "Manter o terceiro molar até a fase de manutenção.",
+          "correta": false,
+          "justificativa": "Terceiros molares assintomáticos saem no fim do controle da doença ou no tratamento definitivo, e com coroa planejada no segundo molar sai antes.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Third Molars, p. 115"
+        },
+        {
+          "texto": "Extrair o terceiro molar somente se ficar sintomático.",
+          "correta": false,
+          "justificativa": "O livro prevê a extração dos assintomáticos no fim do controle da doença ou no definitivo, e antes da coroa vizinha quando ela está no plano.",
+          "fonte": "stefanac2017",
+          "onde": "cap. 4, Developing the Treatment Plan, Third Molars, p. 115"
+        }
+      ],
+      "fonte": "stefanac2017",
+      "onde": "cap. 4, Developing the Treatment Plan, Third Molars, p. 115",
+      "secao": "stefanac-regras-2",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Pela lógica do Carranza (cap. 69), quatro semanas depois da higiene e da raspagem a reavaliação mostra bolsas maiores do que 5 mm (legenda da Fig. 69.2). O que o capítulo manda considerar antes de prosseguir com o cuidado restaurador?",
+      "alternativas": [
+        {
+          "texto": "Prosseguir com o cuidado restaurador, já que a reavaliação foi feita.",
+          "correta": false,
+          "justificativa": "O capítulo manda considerar a cirurgia periodontal antes de prosseguir com o cuidado restaurador.",
+          "fonte": "carranza13",
+          "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, pp. 739–741"
+        },
+        {
+          "texto": "Cirurgia periodontal.",
+          "correta": true,
+          "justificativa": "Com bolsas maiores do que 5 mm na reavaliação (legenda da Fig. 69.2, p. 741), a cirurgia periodontal deve ser considerada antes do cuidado restaurador.",
+          "fonte": "carranza13",
+          "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Fig. 69.2, pp. 739–741"
+        },
+        {
+          "texto": "Passar para a cirurgia pré-protética sem nova etapa de controle.",
+          "correta": false,
+          "justificativa": "A cirurgia pré-protética do quadro trata de problemas mucogengivais, preservação da crista, aumento de coroa e reconstrução da crista; a cirurgia que o capítulo manda considerar com bolsas maiores do que 5 mm é a periodontal, item do controle da doença ativa.",
+          "fonte": "carranza13",
+          "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Quadro 69.1, pp. 739–741"
+        },
+        {
+          "texto": "Encerrar o tratamento de emergência e reavaliar na manutenção.",
+          "correta": false,
+          "justificativa": "O tratamento de emergência é um item do controle da doença ativa, e a decisão sobre as bolsas acontece na reavaliação, antes do cuidado restaurador.",
+          "fonte": "carranza13",
+          "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Quadro 69.1, pp. 739–741"
+        }
+      ],
+      "fonte": "carranza13",
+      "onde": "cap. 69, Preparo do Periodonto para a Odontologia Restauradora, Fig. 69.2, pp. 739–741",
+      "secao": "carranza-69",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Pela lógica do Carranza (cap. 72), em que ponto da sequência das fases começa o tratamento periodontal de suporte (a manutenção)?",
+      "alternativas": [
+        {
+          "texto": "Depois da Fase III, quando a restauração estiver concluída.",
+          "correta": false,
+          "justificativa": "Essa é a sequência que o capítulo mostra como incorreta (Fig. 72.1).",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Fig. 72.1, pp. 757–758"
+        },
+        {
+          "texto": "Depois da cirurgia (Fase II) e antes da restauração (Fase III).",
+          "correta": false,
+          "justificativa": "O capítulo põe a manutenção logo após a reavaliação da Fase I, com cirurgia e restauração integradas a ela.",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Fig. 72.2, p. 758"
+        },
+        {
+          "texto": "Logo depois da reavaliação da Fase I, com cirurgia e restauração em paralelo.",
+          "correta": true,
+          "justificativa": "É a sequência correta da Fig. 72.2: a manutenção começa após a reavaliação da Fase I.",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Fig. 72.2, p. 758"
+        },
+        {
+          "texto": "Só quando surgirem sinais de recidiva da doença.",
+          "correta": false,
+          "justificativa": "O capítulo põe o início do programa de consultas logo depois do fim da Fase I e da reavaliação (pp. 757–758); os sinais de recidiva aparecem à parte, como sinais de fracasso do tratamento (p. 762).",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, pp. 757–758, 762"
+        }
+      ],
+      "fonte": "carranza13",
+      "onde": "cap. 72, Tratamento Periodontal de Suporte, Fig. 72.2, p. 758",
+      "secao": "carranza-72",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o Carranza (cap. 72), um paciente está no primeiro ano de manutenção, com terapia de rotina e cicatrização sem ocorrências especiais. Qual o intervalo de retorno da Tabela 72.3?",
+      "alternativas": [
+        {
+          "texto": "6 meses a 1 ano.",
+          "correta": false,
+          "justificativa": "É o intervalo da Classe A, de resultados excelentes mantidos por 1 ano ou mais.",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Tabela 72.3, p. 764"
+        },
+        {
+          "texto": "1 a 2 meses.",
+          "correta": false,
+          "justificativa": "É o intervalo do primeiro ano em caso difícil (prótese complicada, furca, relação coroa-raiz desfavorável ou cooperação questionável).",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Tabela 72.3, p. 764"
+        },
+        {
+          "texto": "3 meses.",
+          "correta": true,
+          "justificativa": "É o intervalo do paciente de primeiro ano com terapia de rotina e cicatrização sem ocorrências especiais.",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Tabela 72.3, p. 764"
+        },
+        {
+          "texto": "3 a 4 meses, como na Classe B.",
+          "correta": false,
+          "justificativa": "A Classe B descreve resultados mantidos por 1 ano ou mais, com fatores de risco; o paciente do primeiro ano tem linha própria na tabela.",
+          "fonte": "carranza13",
+          "onde": "cap. 72, Tratamento Periodontal de Suporte, Tabela 72.3, p. 764"
+        }
+      ],
+      "fonte": "carranza13",
+      "onde": "cap. 72, Tratamento Periodontal de Suporte, Tabela 72.3, p. 764",
+      "secao": "carranza-72",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o Pegoraro (cap. 1), num dente com resto radicular avaliam-se a qualidade do remanescente e a dificuldade da endodontia e do núcleo, e a manutenção do dente se justifica. Qual a conduta indicada pelo livro?",
+      "alternativas": [
+        {
+          "texto": "Extrair e colocar implante, porque o livro prefere o implante ao dente.",
+          "correta": false,
+          "justificativa": "O livro cita porcentagem de sucesso praticamente igual de prótese fixa sobre dentes e sobre implantes e pede cautela ao extrair para colocar implante (p. 42); diz também que a preservação de dentes naturais deve sempre ser o objetivo do tratamento (p. 46).",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 1, Exame do paciente, pp. 42, 46"
+        },
+        {
+          "texto": "Manter o dente, com endodontia e núcleo.",
+          "correta": true,
+          "justificativa": "Quando a avaliação mostra que manter o dente se justifica, mantém-se o dente, com o tratamento endodôntico e o núcleo; se não, a opção é extrair e colocar implante (p. 46).",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 1, Exame do paciente, p. 46"
+        },
+        {
+          "texto": "Extrair e fazer prótese adesiva.",
+          "correta": false,
+          "justificativa": "Para o resto radicular o livro opõe manter o dente a extrair e colocar implante; a prótese adesiva é a segunda opção quando os vizinhos estão íntegros ou com pequenas restaurações (p. 46).",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 1, Exame do paciente, p. 46"
+        },
+        {
+          "texto": "Decidir só depois da cimentação definitiva.",
+          "correta": false,
+          "justificativa": "O planejamento pode ser só preliminar e ser definido depois das coroas provisórias e das cirurgias periodontais (p. 42); a decisão sobre manter ou extrair não espera a cimentação definitiva.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 1, Exame do paciente, p. 42"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 1, Exame do paciente, p. 46",
+      "secao": "pegoraro-decisao",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Pela lógica do Lindhe, um paciente saudável e não fumante, com uma área edêntula, faz a reavaliação 8 semanas depois da última instrumentação subgengival. A cárie está controlada, mas dois molares seguem com inflamação que não cedeu à raspagem e ao alisamento radicular. Ele quer um implante na área edêntula. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Tratar esses molares, com cirurgia periodontal onde a inflamação persiste, e iniciar o implante só depois que as infecções estiverem controladas.",
+          "correta": true,
+          "justificativa": "A terapia com implantes só começa depois que todas as infecções dentárias estiverem controladas, isto é, depois do sucesso do tratamento periodontal. A cirurgia periodontal se aplica, em geral, onde a inflamação não cedeu à raspagem e ao alisamento.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Planejamento da fase corretiva, implantes, pp. 580–581"
+        },
+        {
+          "texto": "Colocar o implante agora, porque a cirurgia para implante pertence à fase corretiva.",
+          "correta": false,
+          "justificativa": "Os implantes são da fase corretiva, mas só depois que todas as infecções dentárias estiverem controladas. Os dois molares com inflamação persistente mostram que isso ainda não aconteceu.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Planejamento da fase corretiva, implantes, pp. 580–581"
+        },
+        {
+          "texto": "Dispensar a terapia adicional e manter o paciente só na manutenção.",
+          "correta": false,
+          "justificativa": "A TPS é agendada na reavaliação de qualquer modo, mas a cirurgia periodontal se aplica onde a inflamação não cedeu à raspagem, que é o caso dos dois molares.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Planejamento da fase corretiva; Fase de manutenção, pp. 580–583"
+        },
+        {
+          "texto": "Repetir a fase sistêmica, com consulta médica e aconselhamento antitabagismo.",
+          "correta": false,
+          "justificativa": "A fase sistêmica trata condições sistêmicas e o tabagismo. O paciente é saudável e não fumante, e nos casos do capítulo, em que o paciente é saudável e não fumante, ela não pede exames médicos nem aconselhamento antitabagismo.",
+          "fonte": "lindhe7",
+          "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Fases do tratamento; Apresentação de caso 1, pp. 576 e 579–580"
+        }
+      ],
+      "fonte": "lindhe7",
+      "onde": "cap. 25, Plano de Tratamento de Pacientes com Doenças Periodontais, Planejamento da fase corretiva, implantes, pp. 580–581",
+      "secao": "lindhe-reavaliacao",
+      "figura": null
+    }
+  ]
+}

@@ -84,6 +84,7 @@ async function abrirQuiz(page, slug) {
   await page.click('[data-aba=quiz]');
 }
 const TJ = JSON.parse(readFileSync(path.join(RAIZ, 'data', '14733', 'topicos.json'), 'utf8')).topicos;
+const NP = topicoJson('periodontite-estagio-grau').questoes.length, AC1 = Math.ceil(NP / 2);   // 1a rodada: pares certas, ímpares erradas
 const COM_CONTEUDO = TJ.filter(t => t.status !== 'em-breve');
 const isoDias = (dias, h = 12) => new Date(2026, 9, 1 + dias, h, 0, 0).toISOString();
 
@@ -124,7 +125,7 @@ try {
   ok((await page.textContent('main')).includes('Periodontite: estágio, grau e extensão'), 'tópico listado');
   ok(await page.locator('[data-desempenho]').count() === 0, 'sem resposta nenhuma, a disciplina não tem painel de desempenho');
   const emBreve = JSON.parse(readFileSync(path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data', '14733', 'topicos.json'), 'utf8')).topicos.filter(t => t.status === 'em-breve').length;
-  ok(emBreve >= 1 && await page.locator('[data-topico][aria-disabled=true]').count() === emBreve, 'tópicos em breve desabilitados (' + emBreve + ')');
+  ok(await page.locator('[data-topico][aria-disabled=true]').count() === emBreve, 'tópicos em breve desabilitados (' + emBreve + ')');
   ok(await page.locator('[data-errei="periodontite-estagio-grau"]').isDisabled(), '"Estudar o que errei" desabilitado sem respostas');
   await page.screenshot({ path: `${CAPTURAS}/disciplina.png` });
   await semRolagem(page, 'disciplina');
@@ -155,7 +156,7 @@ try {
   const questoesJson = JSON.parse(readFileSync(path.join(RAIZ, 'data', '14733', 'topicos', 'periodontite-estagio-grau.json'), 'utf8')).questoes;
   await page.click('[data-aba=quiz]');
   let temFonteAlt = false;
-  for (let i = 0; i < 8; i++) {
+  for (let i = 0; i < NP; i++) {
     await page.waitForSelector('.alt');
     if (i === 0) await semRolagem(page, 'quiz');
     // feedback independe da ordem: pares clicam a correta, ímpares uma errada (localizadas pelo texto, vindo do JSON)
@@ -175,7 +176,7 @@ try {
   }
   if (!temFonteAlt) console.log('  sem fonte por alternativa neste tema');
   await page.waitForSelector('[data-placar]');
-  ok(/Você acertou \d+ de 8/.test(await page.textContent('[data-placar]')), 'placar aparece: ' + (await page.textContent('[data-placar]')).trim());
+  ok(new RegExp('Você acertou [0-9]+ de ' + NP).test(await page.textContent('[data-placar]')), 'placar aparece: ' + (await page.textContent('[data-placar]')).trim());
   await page.screenshot({ path: `${CAPTURAS}/quiz-placar.png` });
   await semRolagem(page, 'placar');
 
@@ -185,13 +186,13 @@ try {
   await page.reload();
   await page.waitForSelector('.prog-quiz');
   const pq = await page.textContent('[data-topico="periodontite-estagio-grau"] .prog-quiz'), pf = await page.textContent('[data-topico="periodontite-estagio-grau"] .prog-flash');
-  ok(/Quiz: \d+\/8 acertos \(8 respondidas\)/.test(pq), 'progresso quiz: ' + pq);
+  ok(new RegExp(`Quiz: [0-9]+/${NP} acertos [(]${NP} respondidas[)]`).test(pq), 'progresso quiz: ' + pq);
   ok(new RegExp('Flashcards: 2/' + nFc + ' dominados').test(pf), 'progresso flashcards: ' + pf);
   ok(!(await page.locator('[data-errei="periodontite-estagio-grau"]').isDisabled()), '"Estudar o que errei" habilitado');
   await page.click('[data-errei="periodontite-estagio-grau"]');
   await page.waitForSelector('.alt');
   const total = await page.textContent('.contador');
-  ok(/Questão 1 de \d+/.test(total) && !total.endsWith('de 8'), 'quiz filtrado: ' + total);
+  ok(/Questão 1 de \d+/.test(total) && !total.endsWith('de ' + NP), 'quiz filtrado: ' + total);
   // 6
   console.log('6. Figuras no resumo');
   // um tema só com fotos e um com fotos e esquema SVG
@@ -226,7 +227,7 @@ try {
   await abrirDisciplina(page);
   ok(await page.locator('[data-desempenho]').count() === 1, 'painel aparece depois do quiz completo');
   ok(await page.locator('[data-desemp-tema]').count() === 1, 'exatamente 1 linha no painel');
-  ok(await page.getAttribute('[data-desemp-tema]', 'data-quiz') === '4/8', 'data-quiz 4/8');
+  ok(await page.getAttribute('[data-desemp-tema]', 'data-quiz') === `${AC1}/${NP}`, `data-quiz ${AC1}/${NP}`);
   ok(await page.getAttribute('[data-desemp-tema]', 'data-flash') === `2/${nFc}`, `data-flash 2/${nFc}`);
   const ptxt = await page.textContent('[data-desempenho]');
   ok(ptxt.includes(`1 de ${nTemas} temas começados`), `texto "1 de ${nTemas} temas começados"`);
@@ -236,7 +237,7 @@ try {
   ok(/A1 · Guarulhos · quarta noite/.test(ptxt), 'prova com o nome da turma');
   let est = await lerEstado(page);
   const r1 = (est.rodadas || {})[SLUG] || [];
-  ok(r1.length === 1 && r1[0].ac === 4 && r1[0].n === 8 && !('parcial' in r1[0]) && new Date(r1[0].em).toISOString() === r1[0].em, 'rodada gravada {ac:4, n:8} sem parcial e com em ISO');
+  ok(r1.length === 1 && r1[0].ac === AC1 && r1[0].n === NP && !('parcial' in r1[0]) && new Date(r1[0].em).toISOString() === r1[0].em, `rodada gravada {ac:${AC1}, n:${NP}} sem parcial e com em ISO`);
   ok(!!(est.quiz && est.quiz[SLUG] && est.flash && est.flash[SLUG]), 'formato antigo (quiz, flash) continua no estado');
   await semRolagem(page, 'painel de desempenho');
   await page.addStyleTag({ content: '#topo { visibility: hidden }' });   // a barra fixa não entra nas capturas de elemento
@@ -247,7 +248,7 @@ try {
   await linha.click();
   ok(await linha.getAttribute('aria-expanded') === 'true' && await reg.isVisible(), 'tocar abre a evolução');
   ok(await reg.getAttribute('data-rodadas') === '1' && await reg.locator('circle.pt').count() === 1, 'evolução com 1 rodada e 1 ponto');
-  ok(/1 rodada · 4 acertos em 8/.test(await reg.textContent()), 'legenda de uma rodada');
+  ok((await reg.textContent()).includes(`1 rodada · ${AC1} acertos em ${NP}`), 'legenda de uma rodada');
   await linha.click();
   ok(await linha.getAttribute('aria-expanded') === 'false' && !(await reg.isVisible()), 'tocar de novo fecha');
 
@@ -256,11 +257,11 @@ try {
   await responderQuiz(page, () => true);
   est = await lerEstado(page);
   const r2 = est.rodadas[SLUG];
-  ok(r2.length === 2 && r2[1].ac === 8 && r2[1].n === 8 && !('parcial' in r2[1]), 'segunda rodada {ac:8, n:8}');
+  ok(r2.length === 2 && r2[1].ac === NP && r2[1].n === NP && !('parcial' in r2[1]), `segunda rodada {ac:${NP}, n:${NP}}`);
   await abrirDisciplina(page);
   await linha.click();
   ok(await reg.getAttribute('data-rodadas') === '2' && await reg.locator('circle.pt').count() === 2, 'evolução com 2 pontos');
-  ok((await reg.textContent()).includes('2 rodadas · de 4 para 8 acertos em 8'), 'legenda "2 rodadas · de 4 para 8 acertos em 8"');
+  ok((await reg.textContent()).includes(`2 rodadas · de ${AC1} para ${NP} acertos em ${NP}`), 'legenda de duas rodadas');
   ok(await page.locator('[data-desemp-tema]').count() === 1, 'continua 1 linha');
   await semRolagem(page, 'painel com evolução aberta');
   await page.locator('[data-desempenho]').screenshot({ path: `${CAPTURAS}/desempenho-evolucao.png` });
@@ -269,7 +270,7 @@ try {
   await abrirQuiz(page, SLUG);
   await responderQuiz(page, i => i >= 3);
   est = await lerEstado(page);
-  ok(est.rodadas[SLUG].length === 3 && est.rodadas[SLUG][2].ac === 5 && !('parcial' in est.rodadas[SLUG][2]), 'terceira rodada completa {ac:5, n:8}');
+  ok(est.rodadas[SLUG].length === 3 && est.rodadas[SLUG][2].ac === NP - 3 && !('parcial' in est.rodadas[SLUG][2]), `terceira rodada completa {ac:${NP - 3}, n:${NP}}`);
   await abrirDisciplina(page);
   await page.click(`[data-errei="${SLUG}"]`);
   await page.waitForSelector('.alt');
@@ -422,7 +423,7 @@ try {
   const S10 = 'periodontite-estagio-grau';
   const TJ10 = topicoJson(S10), Q10 = TJ10.questoes, ORD10 = TJ10.resumo.map(r => r.id);
   const TIT10 = Object.fromEntries(TJ10.resumo.map(r => [r.id, r.titulo]));
-  ok(Q10.length === 8 && Q10.every(q => ORD10.includes(q.secao)), 'tema com 8 questões, todas com secao válida');
+  ok(Q10.length === NP && Q10.every(q => ORD10.includes(q.secao)), `tema com ${NP} questões, todas com secao válida`);
   const contar = (qs, erradas) => {
     const m = {};
     qs.forEach(q => { const l = m[q.secao] = m[q.secao] || { id: q.secao, e: 0, t: 0 }; l.t++; if (erradas.has(q.id)) l.e++; });
@@ -456,9 +457,9 @@ try {
   await responderQuiz(page, (i, q) => !erradas10.has(q.id));
   ok(await page.locator('[data-reler]').count() === 1 && (await page.textContent('[data-reler] h2')) === 'O que reler', 'placar com o bloco "O que reler"');
   let esp = contar(Q10, erradas10), lin = await linhas10(page);
-  ok(new Set(lin.map(l => l.id)).size === lin.length && lin.length === new Set(Q10.map(q => q.secao)).size, 'uma linha por seção das 8 questões');
+  ok(new Set(lin.map(l => l.id)).size === lin.length && lin.length === new Set(Q10.map(q => q.secao)).size, `uma linha por seção das ${NP} questões`);
   confere(lin, esp, 'rodada completa');
-  ok(esp[0].id === multi && esp[0].e === 2, `a seção com mais erros (${multi}, não a primeira do resumo) vem primeiro`);
+  ok(esp[0].id === multi && esp[0].e === contagem10[multi], `a seção com mais erros (${multi}, não a primeira do resumo) vem primeiro`);
   ok(lin[0].cls.split(' ').includes('btn') && !lin[0].cls.split(' ').includes('sec') && lin.filter(l => l.e).slice(1).every(l => l.cls.split(' ').includes('sec')), 'primeiro botão é "btn"; os demais, "btn sec"');
   ok(await page.evaluate(() => { const a = document.querySelector('[data-reler]'), b = document.querySelector('.lista-erradas'); return !!(a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING); }), '"O que reler" vem antes de "Para rever"');
   ok(await page.locator('.lista-erradas li').count() === erradas10.size, '"Para rever" continua com as erradas');

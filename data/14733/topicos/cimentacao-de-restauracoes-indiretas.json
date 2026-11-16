@@ -1,0 +1,609 @@
+{
+  "slug": "cimentacao-de-restauracoes-indiretas",
+  "titulo": "Cimentação: convencional × adesiva, tratamento da superfície da peça",
+  "area": "Prótese",
+  "origem": "Pegoraro 2ª ed., cap. 12; Shillingburg 4ª ed., cap. 21",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "pegoraro2013",
+      "ref": "Pegoraro LF, Valle AL, Araujo CRP, Bonfante G, Conti PCR. Prótese Fixa: bases para o planejamento em reabilitação oral. 2ª ed. Artes Médicas, 2013. Cap. 12, Cimentação provisória e definitiva (Bonfante), pp. 451–484.",
+      "curta": "Pegoraro 2ª ed., cap. 12"
+    },
+    {
+      "id": "shillingburg2012",
+      "ref": "Shillingburg HT et al. Fundamentals of Fixed Prosthodontics. 4ª ed. Quintessence, 2012. Cap. 21, Cementation and Bonding, pp. 383–410 (edição original em inglês).",
+      "curta": "Shillingburg 4ª ed., cap. 21"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "cimentos-pegoraro",
+      "titulo": "Os cimentos definitivos segundo o Pegoraro",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Cimentação definitiva: cimentos, p. 457–458; seleção do cimento, p. 462",
+      "texto": "O cimento definitivo ideal resistiria à dissolução na boca, uniria à dentina e ao metal ou à cerâmica, teria boa resistência à tração, boa manipulação, película fina, ação antibacteriana, estética, biocompatibilidade e radiopacidade. O livro diz que nenhum agente cimentante definitivo reúne todas essas propriedades. Por isso a escolha pesa o que mais importa em cada caso.\n\n**Fosfato de zinco.** Por décadas foi o único cimento definitivo. Não tem adesão nem ação antibacteriana, é muito solúvel e pode irritar a polpa. É indicado para coroas metálicas e metalocerâmicas, núcleos metálicos fundidos e PPF (prótese parcial fixa) em cerâmica reforçada com zircônia (sobre cerâmica, a Tabela 12.1 diz outra coisa; ver a seção «Tabela 12.1: limitações de cada cimento, e o que o livro diz sobre cerâmica»). A união é só micromecânica: altura, forma e área do preparo decidem a retenção.\n\n**Ionômero de vidro convencional.** Libera flúor, tem expansão térmica baixa e união físico-química ao dente. Na p. 457, os valores baixos de resistência podem comprometer o uso em áreas de grande estresse; na p. 462, o livro diz que a resistência à compressão e à tração do ionômero é melhor que a do fosfato. O capítulo não concilia as duas passagens. A absorção de água pode prejudicar as propriedades nas etapas iniciais. Indicado para coroas metálicas e metalocerâmicas, núcleos, PPF em cerâmica reforçada e zircônia (também aqui vale a ressalva da Tabela 12.1). É anticariogênico e é o cimento de eleição quando a prótese foi trocada por recidiva de cárie.\n\n**Ionômero modificado por resina.** Tem monômeros resinosos, pode ser fotoativado ou de presa química, libera flúor, resiste mais à flexão que o convencional e é praticamente insolúvel.\n\n**Cimentos resinosos.** Aderem quimicamente ao esmalte e à dentina e mecanicamente à cerâmica silanizada. Têm baixa solubilidade e alta resistência, mas a técnica é complexa. Servem para PPF com ou sem metal, inlays, onlays, facetas e pinos.\n\n**Autoadesivos.** Dispensam adesivo na interface com a dentina ou com o material, liberam flúor e têm boas propriedades em meio úmido. Ainda não têm resultado clínico de longo prazo. O livro os indica para metalocerâmicas, cerâmicas e pinos."
+    },
+    {
+      "id": "tabela-pegoraro",
+      "titulo": "Tabela 12.1: limitações de cada cimento, e o que o livro diz sobre cerâmica",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Tabela 12.1, p. 479 (e Cimentação definitiva: cimentos, p. 457)",
+      "texto": "A Tabela 12.1 resume cada cimento (o livro a dá como adaptada de Pegoraro, da Silva e Carvalho):\n\n| Cimento | Limitações listadas na tabela |\n|---|---|\n| Fosfato de zinco | Sensibilidade pós-operatória ocasional; baixa dureza; alta solubilidade; não indicado para a maioria das cerâmicas |\n| Ionômero convencional | Sensibilidade pós-operatória ocasional; sensível à água e a cargas mecânicas; não indicado para a maioria das cerâmicas |\n| Ionômero modificado por resina | Absorção de água e expansão; degradação com o tempo e em altas temperaturas; não indicado para a maioria das cerâmicas |\n| Resinoso adesivo | Manuseio difícil e sensível à técnica; exige primers e adesivos; alto custo; sensibilidade pós-operatória ocasional; degradação com o tempo e em altas temperaturas; não indicado para algumas cerâmicas |\n| Resinoso autoadesivo | Poucos estudos longitudinais |\n\nComo vantagens, a tabela traz, para o fosfato, mais de 100 anos de uso clínico, simplicidade e baixo custo; para o autoadesivo, facilidade de utilização, tempo clínico (como a tabela escreve) e sem necessidade de pré-tratamento da dentina. Nas três primeiras linhas, a coluna de indicações traz coroas, PPF e pinos intrarradiculares metálicos e também coroas e PPF cerâmicos.\n\n**O texto e a tabela divergem sobre cerâmica.** No texto (p. 457), o fosfato de zinco é indicado para PPF em cerâmica reforçada com zircônia, e o ionômero de vidro convencional para PPF em cerâmica reforçada e zircônia. Na Tabela 12.1 (p. 479), as linhas do fosfato e do ionômero convencional listam coroas e PPF cerâmicos entre as indicações e, na coluna de limitações, dizem que o cimento não é indicado para a maioria das cerâmicas. O capítulo não concilia as passagens; este tema mostra as duas e não escolhe."
+    },
+    {
+      "id": "cimentos-shillingburg",
+      "titulo": "Os cimentos segundo o Shillingburg",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 398–401",
+      "texto": "O Shillingburg descreve os cimentos por propriedades e por limitações.\n\n**Fosfato de zinco.** Resistência à compressão de 96 a 110 MPa (megapascal) e pH de 3,5 na cimentação. Foi muito acusado de irritar a polpa, embora um estudo (Brännström e Nyborg) não tenha achado efeito irritante do fosfato em si. O verniz de cavidade reduz a irritação, mas também reduz a retenção.\n\n**Policarboxilato.** Resistência à tração maior que a do fosfato e à compressão menor em 24 h; pH de 4,8. As moléculas grandes penetram pouco nos túbulos e irritam pouco a polpa. Une-se ao aço inoxidável, mas não ao ouro. O trecho do Pegoraro sobre cimentos definitivos não inclui este cimento.\n\n**Ionômero de vidro.** Compressão de 127 MPa e tração de 8 MPa. Libera flúor e é bacteriostático na presa. Sobre a solubilidade, o livro diz, na p. 400, que o ionômero é menos solúvel que o cimento de fosfato de zinco e, na p. 401, que a solubilidade dele em água é muito maior que a dos outros cimentos dentais. Em um estudo foi 65% mais retentivo que o fosfato. Pontos fracos: pH baixo na presa e hipersensibilidade pós-cimentação. É mais translúcido que o fosfato, o que pode deixar o esmalte cinza perto de metal.\n\n**Ionômero modificado por resina.** O livro diz que combina a resistência e a insolubilidade da resina com a liberação de flúor. Um produto de fabricante é descrito como indicado para restaurações totalmente metálicas, metalocerâmicas e cerâmicas totais com núcleo de zircônia ou alumina (p. 401).\n\n**Cimento de resina.** Tração de 30 a 40 MPa, cerca de cinco vezes a do fosfato, e quase insolúvel. Limitações: película espessa, microinfiltração pela contração de presa e reação pulpar em dentina viva recém-cortada.\n\n**Óxido de zinco e eugenol** não é indicado para cimentação definitiva.\n\n**Resumo do livro para escolher:** o livro diz que a escolha do cimento não é uma decisão simples. O fosfato de zinco é um cimento forte, com muitos anos de uso. Quando a profundidade do preparo ou um histórico de hipersensibilidade preocupa a vitalidade da polpa, ele indica um cimento mais biocompatível, como o policarboxilato. Se o paciente tem histórico de falha rápida de coroas anteriores por dissolução do fosfato e cárie marginal, o ionômero pode ajudar a evitar a recorrência. O cimento de resina é indicado onde se quer união micromecânica, sobretudo com preparo em grande parte em esmalte e margens acessíveis."
+    },
+    {
+      "id": "escolha-pegoraro",
+      "titulo": "Quando usar cimento convencional e quando usar resinoso (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Seleção do cimento, p. 462–463; cimentos resinosos, p. 466–468 e 471",
+      "texto": "**Fosfato × ionômero.** Os dois têm espessura de película, retenção e escoamento parecidos. O fosfato é mais solúvel, sobretudo em meio ácido, e irrita mais a polpa. O ionômero exige controle de umidade mais rigoroso, na cimentação e depois dela. Os dois podem causar sensibilidade pós-cimentação. Na p. 462, o livro cita como vantagem do ionômero resistência à compressão e à tração melhores que as do fosfato; a p. 457 fala em valores baixos de resistência (ver a seção «Os cimentos definitivos segundo o Pegoraro»).\n\n**Quando o livro sugere o ionômero:**\n- paciente com alto risco de cárie ou prótese trocada por cárie;\n- margem em cemento, por recessão gengival;\n- refluxo, erosão ou bebidas ácidas com frequência (o fosfato é muito solúvel em meio ácido; neste item, o livro sugere ionômero ou resinoso);\n- paciente sem flúor na água;\n- restauração translúcida, de cerâmica de alta fusão, no lugar do fosfato.\n\n**Resinoso.** O sucesso depende da união com a dentina e com a liga ou a cerâmica. Escolha o modo de ativação pela luz que chega à peça:\n- **fotoativado:** facetas e inlays de caixa rasa, em que a luz atravessa;\n- **químico:** pinos e estruturas espessas;\n- **dual:** quando opacidade e espessura limitam a luz; a parte química é necessária.\n\n**Compatibilidade com o adesivo.** Adesivo simplificado (ácido e permeável à água da dentina) combinado com cimento químico ou dual pode gerar reação na interface e acúmulo de gotas de água, o que degrada a união. O livro prefere adesivo convencional de três passos ou autocondicionante de dois passos, em camada fina e com o solvente bem evaporado.\n\n**Autoadesivo.** Indicado para pinos e para metalocerâmicas e cerâmicas totais acidorresistentes.\n\n**Limite de qualquer cimento.** Usar cimento adesivo não garante sucesso em preparo sem retenção e sem estabilidade."
+    },
+    {
+      "id": "escolha-shillingburg",
+      "titulo": "Cimento convencional × resina (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 398–402 e 409",
+      "texto": "**Convencional (fosfato, ionômero, policarboxilato).** O fosfato age por mecanismo não adesivo: engancha as irregularidades, sem adesão molecular. Ionômero e policarboxilato têm alguma adesão molecular, limitada pela coesão do próprio cimento.\n\n**Resina.** A união é micromecânica e a resistência à tração é alta (30 a 40 MPa, cerca de cinco vezes a do fosfato). O livro diz que ela permite preparos menos extensos em facetas cerâmicas e PPF adesivas. Facetas e inlays cerâmicos são condicionados, silanizados e unidos ao esmalte com cimento resinoso. Em um estudo citado, coroas de cerâmica condicionadas por dentro e unidas com resina composta foram 50% mais resistentes que as cimentadas com fosfato.\n\n**Modo de ativação.** Os resinosos podem ser autopolimerizantes (sob restaurações opacas, que bloqueiam a luz), fotopolimerizados ou duais (sob cerâmica translúcida). O adesivo de dentina sob cimento resinoso é crítico, exceto em preparo todo em esmalte.\n\n**O que pesa contra a resina:**\n- película espessa e microinfiltração por contração de presa;\n- reação pulpar em dentina viva recém-cortada;\n- em margem subgengival, o excesso endurecido é difícil de remover, o que pode impedir o uso de resina em coroa total subgengival;\n- se a resina endurece com a peça mal assentada, em geral é preciso destruir a restauração;\n- cada tipo de resina tem instruções próprias, que devem ser revistas antes do uso.\n\n**Lacunas do capítulo.** O cap. 21 não detalha o tratamento da zircônia (remete a outro capítulo o cimento dual sob cerâmica translúcida, p. 402) e não traz cimento autoadesivo com esse nome; diz apenas que muitos cimentos resinosos atuais são autocondicionantes e dispensam pré-tratamento específico da dentina além da limpeza (p. 400). Para zircônia e autoadesivo, use a seção do Pegoraro."
+    },
+    {
+      "id": "peca-pegoraro",
+      "titulo": "Tratamento da superfície interna da peça (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Tratamento da superfície dentária e da cerâmica, p. 471–472 (metal: p. 458, 455 e 471)",
+      "texto": "**Cerâmica com sílica** (feldspática, de leucita, dissilicato). A sequência do livro, sempre conforme o fabricante:\n1. jateamento com óxido de alumínio de 50 µm;\n2. ácido fluorídrico, na concentração e no tempo do fabricante, sem tocar as superfícies externas;\n3. silano, conforme o fabricante;\n4. adesivo, eliminação dos excessos e polimerização.\n\n**Silano.** Molécula bifuncional: une-se aos radicais hidroxila (OH) da cerâmica e à parte orgânica do adesivo ou do cimento. Cuidados: conferir a validade; não usar solução turva; o frasco duplo é preferível ao único. Depois de seco, forma três camadas, e a intermediária se hidrolisa após a cimentação. Para evitar a hidrólise da camada intermediária depois da cimentação, alguns autores recomendam removê-la com água quente ou aquecer a superfície com ar quente a cerca de 50 °C por 15 s, o que tira o excesso de água, de solvente e de silano não reativo. O excesso de silano também pode sair na prova final, antes da cimentação.\n\n**Quem faz o quê.** Normalmente o técnico faz o ácido fluorídrico; o cirurgião-dentista faz o silano, depois da prova final. Se a cor for definida com pasta de prova (try-in), isso vem antes do ácido fluorídrico.\n\n**Cerâmica sem sílica** (muita alumina ou zircônia). Não reage ao ácido fluorídrico. As opções do livro são a silicatização (jateamento com óxidos de sílica) ou um cimento resinoso com monômeros fosfatados. Cimento não adesivo também pode ser usado, desde que o preparo compense a falta de união.\n\n**Metal.** Na limpeza da peça para fosfato ou ionômero, o livro usa o jateamento com bicarbonato ou óxido de alumínio, que cria microrretenções (p. 458). No passo da cimentação provisória, a superfície metálica interna deve estar livre de óxidos de cromo e jateada com óxido de alumínio, o que lhe dá aspecto fosco (p. 455). Com resinoso, use primer específico para metal ou apenas as microrretenções do jateamento (p. 471)."
+    },
+    {
+      "id": "peca-shillingburg",
+      "titulo": "Tratamento da superfície da peça: metal e cerâmica (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 383, 397–398, 401–402 e 409",
+      "texto": "**Metal.**\n- O jateamento com partículas deixa a superfície limpa e texturizada, ideal para cimento convencional.\n- O ouro não é adequado à união molecular direta; o livro cita uma camada fina de silano ligada ao ouro com equipamento especial, ou uma camada de estanho depositada por eletrólise sobre a liga, descrita como igualmente eficaz.\n- Para a união micromecânica no metal, o livro lista o ataque eletrolítico, o ataque químico e o jateamento (p. 398).\n- Na técnica de resina autopolimerizante, o jateamento interno usa óxido de alumínio de 50 µm a 80 psi ou mais, seguido de lavagem e secagem com ar sem óleo (p. 402).\n- Metal básico une bem à resina quando condicionado (prótese fixa adesiva).\n\n**Cerâmica.** Em facetas e inlays cerâmicos, o livro manda condicionar, silanizar e unir ao esmalte com cimento resinoso (p. 409). Em porcelana, o silano deu cisalhamento que superou a resistência coesiva da porcelana (cerca de 30 MPa) em laboratório, valor que cai depois de termociclagem em água; o livro vê a adesão molecular como reforço da retenção mecânica e micromecânica, e não como mecanismo independente (p. 398).\n\n**Cimentos para coroa cerâmica.** O capítulo diz que coroas cerâmicas podem ser cimentadas com fosfato, ionômero ou resina composta, sem separar por tipo de cerâmica.\n\n**Lacuna.** O capítulo não detalha o tratamento da zircônia; só cita, para um ionômero modificado de fabricante, a indicação em cerâmica total com núcleo de zircônia ou alumina (p. 401). Para ela, veja a seção do Pegoraro."
+    },
+    {
+      "id": "dente-pegoraro",
+      "titulo": "Preparo da superfície do dente (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Proteção do complexo dentina-polpa, p. 461; autoadesivo, p. 469; resinoso, p. 471",
+      "texto": "**Fosfato de zinco.** Isole o campo e proteja o complexo dentina-polpa: água de cal por 2 a 3 min (anti-inflamatória e antibacteriana) e duas camadas de verniz, com pincel, de cerca de 5 µm cada, para impedir que agentes irritantes do cimento, como o ácido do fosfato, penetrem. O verniz não vai ao término cervical e o livro o indica só com o fosfato de zinco (p. 461). O que o Shillingburg diz sobre verniz está na seção própria dele; este tema não concilia os dois.\n\n**Ionômero.** Limpe com pedra-pomes e taça de borracha, sem ressecar a dentina.\n\n**Resinoso.** Entre os cimentos para PPF e restaurações unitárias, só os resinosos exigem adesivo na dentina. Seguindo o fabricante:\n1. remover o excesso de provisório (sob cerâmica, usar cimento provisório sem eugenol);\n2. isolar e limpar com taça e pedra-pomes com água;\n3. condicionar com gel de ácido fosfórico a **37%**, por 30 s no esmalte e 15 s na dentina;\n4. lavar por 30 s e secar sem ressecar;\n5. aplicar o adesivo.\n\nO Shillingburg dá outra concentração para a dentina; a posição dele está na seção própria, e este tema não escolhe entre os dois livros.\n\n**Autoadesivo.** Sem tratamento da dentina: só limpeza com taça e pedra-pomes, e a dentina fica levemente úmida (Fig. 12.9).\n\n**Umidade do sulco.** Se necessário, coloque fio com solução hemostática no término cervical. Na hora de cimentar, retire o fio e seque o término com algodão ou jato leve (p. 462)."
+    },
+    {
+      "id": "dente-shillingburg",
+      "titulo": "Preparo da superfície do dente (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 400–404",
+      "texto": "**Ácido na dentina.** O livro diz que soluções de ácido fosfórico a 10% são preferíveis às de quase 40%. Em uma das duas técnicas de resina descritas, o protocolo usa gel de ácido fosfórico a 10% por 15 s em esmalte e dentina (p. 403). O livro também diz que cada sistema pede um ácido, e que se deve usar o indicado para o adesivo em uso (p. 400). Como o outro livro dá número diferente, as duas posições ficam registradas, sem escolha.\n\n**Verniz.** Aqui o livro separa três situações:\n- **Fosfato de zinco:** duas camadas finas de verniz de copal, aplicadas com algodão e secas com ar, selam parcialmente os túbulos e protegem a polpa da acidez (p. 404). O verniz reduz a irritação, mas também a retenção (p. 400); por isso o livro diz que ele não deve ser usado em dente não vital nem com outros tipos de cimento (p. 404).\n- **Ionômero de vidro:** o livro diz que o verniz não é geralmente recomendado, já que as moléculas grandes do cimento devem penetrar menos nos túbulos, e que áreas próximas à polpa recebem hidróxido de cálcio. As margens do cimento precisam de proteção precoce contra umidade e ressecamento, com vaselina ou verniz (p. 401).\n- **Ionômero modificado por resina:** não aplicar verniz no dente, que anularia a adesividade (p. 402).\n\nPara o dente vital, o livro registra que cerca de 18% dos dentes restaurados com núcleo e coroa total tiveram necrose pulpar depois, e por isso o cuidado com o cimento é maior em dente já cariado e restaurado (p. 404).\n\n**Limpeza.** Para o ionômero modificado, pedra-pomes úmida e sem óleo em taça, lavar e secar levemente. Para o ionômero modificado por resina, a smear layer (camada de lama dentinária) não deve ser removida com ácido antes do cimento, em comparação com os ionômeros restauradores mais viscosos, porque o ganho de retenção é pequeno e há risco pulpar (p. 402).\n\n**Resina.** O adesivo tem protocolo próprio de cada sistema (p. 402–403). O livro diz também que muitos cimentos resinosos atuais são autocondicionantes e dispensam pré-tratamento específico da dentina além da limpeza (p. 400)."
+    },
+    {
+      "id": "antes-de-cimentar-pegoraro",
+      "titulo": "Antes de cimentar: provisória, limpeza da peça e preparo (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Remoção da provisória, p. 458–461; seleção e procedimentos, p. 462–463",
+      "texto": "1. **Remover a provisória.** Use o saca-pontes, sem traumatizar a gengiva. Se for muito difícil, adie a cimentação definitiva. Dentes muito paralelos e longos, com perda óssea, podem luxar na tentativa.\n2. **Limpar a peça por dentro.** Lave e escove, tire o cimento provisório interno com instrumento pontiagudo e solventes, e use ultrassom (de preferência com pontas de profilaxia) e jateamento com bicarbonato ou óxido de alumínio, que cria microrretenções. Em metal, o jateamento é o passo da superfície interna.\n3. **Passar fio dental** de cerca de 15 cm nas interproximais antes de cimentar, para tirar resíduo e ter uma saída de emergência da peça.\n4. **Preparar o dente** (seção do dente) e **isolar**. Com ionômero o controle de umidade é mais crítico que com fosfato.\n5. **Manipular conforme o fabricante.** Fosfato: 1 a 1,5 min; a mistura cai como gota quando a espátula é levantada a cerca de 1 cm da placa. Ionômero: no máximo 30 s, com o pó incorporado rápido.\n6. **Aplicar com pincel nas paredes axiais internas.** A face oclusal não precisa ser preenchida, e nos términos cervicais pode ir pouco cimento.\n\nPara peça de cerâmica ou de metal com resinoso, o tratamento da superfície está na seção da peça; o silano entra depois da prova final."
+    },
+    {
+      "id": "assentamento-pegoraro",
+      "titulo": "Assentar, remover excessos e orientar o paciente (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Assentamento, excessos e cuidados, p. 460 e 464; Figura 12.10, p. 470; falhas, p. 480–481",
+      "texto": "**Assentar.** Pressão digital firme e uniforme, de cerca de 4 kg, por 1 minuto, olhando se o cimento escoa em todo o contorno cervical. Peça ao paciente que oclua para avaliar a posição. Se houver desajuste, remova com os fios colocados antes ou com o saca-pontes. Não é preciso manter a pressão além de 1 min quando há escoamento e assentamento. Cuidado com rolo de algodão ou bastão: pode comprometer o isolamento e assentar a prótese fora de posição.\n\n**Vibração.** Ultrassom sem água por 3 a 5 s em cada retentor, com a prótese assentada. Mesmo assim, ainda pode escoar bastante cimento.\n\n**Excessos.**\n- Espere a presa e remova com a sonda 5, com atenção ao sulco e ao sangramento. Vaselina nas margens externas antes, e fio dental nas proximais, facilitam o trabalho.\n- Com **resinoso**, a Figura 12.10 mostra pré-fotoativação de 10 s antes de remover o excesso nas faces proximais; depois, fio dental nas proximais e a fotoativação final.\n\n**Depois da cimentação.**\n- Duas camadas de verniz de copal na região cervical dos retentores recém-cimentados.\n- Oriente o paciente a não mastigar por **1 hora**, tempo em que o cimento atinge cerca de 90% da presa.\n- Se a prótese descimentar cedo, o livro lembra causas como hábitos parafuncionais, sobrecarga oclusal e preparo intrassulcular com término em dentina; sem falha técnica, verifique a oclusão (p. 480–481)."
+    },
+    {
+      "id": "isolamento-shillingburg",
+      "titulo": "Prova, remoção da provisória e isolamento (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 388–389, 401–402 e 404",
+      "texto": "**Prova antes de cimentar.** Avalie contatos proximais, margens, oclusão, contornos e estética (p. 388).\n\n**Remover a provisória.** O livro cita a pinça Backhaus, basculando, ou um cinzel de 1,5 mm sob uma protuberância vestibular perto da ameia proximal (p. 388).\n\n**Peça que não sai na prova.** Se uma coroa assentada na prova não sai com gaze seca e leve balanço, o livro descreve um cubo removedor de coroa amolecido em água quente: o paciente morde e abre rápido. Isso exige antagonistas naturais firmes, sem restaurações cimentadas (p. 389).\n\n**Isolamento.**\n- **Fosfato de zinco:** campo seco durante a cimentação e a presa, com roletes de algodão e sugador (na mandíbula, o livro cita um dispositivo de sucção que protege a língua); inlays com dique de borracha (p. 404).\n- **Ionômero modificado por resina:** isolamento completo e controle de umidade são essenciais; dique de borracha se o campo não ficar seco; vaselina por fora da coroa facilita a remoção, sem contaminar a parte interna (p. 401).\n- **Resina:** use dique de borracha. Um atraso de 1 minuto na aplicação do adesivo pode reduzir a união em 50% (p. 402).\n\n**Cuidado com a pressa na resina.** Se ela endurece com a peça mal assentada, em geral é preciso destruir a restauração. Confira o assentamento antes de a resina endurecer.\n\n**Dente vital.** Quando o cimento é ácido, o verniz de copal protege a polpa; a dor do paciente sem anestesia, sobre dente vital sem verniz, sinaliza a irritação do cimento (p. 404). Como o verniz reduz a retenção, o livro diz que ele não deve ser usado em dente não vital nem com outros tipos de cimento (p. 404)."
+    },
+    {
+      "id": "assentamento-shillingburg",
+      "titulo": "Manipular, assentar e remover excessos (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 404–407",
+      "texto": "**Fosfato de zinco.**\n- Pó e líquido em placa de vidro resfriada e enxugada; frasco tampado, com o líquido dispensado só na hora, porque perder ou ganhar água altera o cimento.\n- Pó em incrementos de cerca de 3 mm, cada um misturado por 10 a 20 s em área ampla, devagar: a mistura resfria, neutraliza a acidez e retarda a presa.\n- **Consistência:** ao levantar a espátula, o cimento forma um fio de cerca de 10 mm. Se escorre rápido, está fino demais. Se precisa ser empurrado, está grosso demais, e isso não se corrige com líquido: refaça a mistura. Mais pó dá cimento mais resistente e menos ácido. Pó adicionado devagar prolonga a presa; adicionado depressa, encurta a presa e enfraquece o cimento.\n\n**Policarboxilato.** Proporção de 1,5 de pó para 1,0 de líquido, com mistura em até 30 s (p. 407).\n\n**Aplicar.** Pincele o cimento na peça limpa e seca. Pincelar deu discrepância de assentamento cerca de um terço menor que encher a peça até a metade, e mais de dois terços menor que encher por completo.\n\n**Assentar.** Em posteriores com oclusão uniforme, o paciente oclui sobre um wafer plástico ou palito de madeira. Coroas anteriores, ou as que ocluem em um só ponto, podem inclinar; use o dedo com rolinho de algodão. A vibração com o cabo de espelho assenta melhor que força estática.\n\n**Confirmar.** Apalpe a margem supragengival com a sonda, através do cimento extrudado, ou retire o palito, peça oclusão com um shim entre os vizinhos. Se não assentou, remova antes da presa e repita. Mantenha o campo seco até a presa: o fosfato é muito solúvel se molhado cedo.\n\n**Excesso.** Não remova o excesso mole, porque ele protege as margens. Depois da presa, use scaler, sonda e fio dental com nó, e confira o sulco com a sonda várias vezes."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Pegoraro, existe um cimento definitivo com todas as propriedades desejáveis?",
+      "verso": "Não: nenhum agente cimentante definitivo reúne todas elas (baixa solubilidade, união, película fina, ação antibacteriana, estética, radiopacidade). A escolha pesa o caso.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+    },
+    {
+      "id": "f02",
+      "frente": "De que depende a retenção com fosfato de zinco?",
+      "verso": "A união é só micromecânica; altura, forma e área do preparo são decisivas.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual cimento é o de eleição quando a prótese foi trocada por recidiva de cárie?",
+      "verso": "O ionômero de vidro: é anticariogênico e libera flúor.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+    },
+    {
+      "id": "f04",
+      "frente": "Cite situações em que o Pegoraro sugere ionômero em vez de fosfato.",
+      "verso": "Alto risco de cárie ou prótese trocada por cárie; margem em cemento; paciente sem flúor na água; restauração translúcida de cerâmica de alta fusão. No refluxo e na erosão, ionômero ou resinoso.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, pp. 462–463"
+    },
+    {
+      "id": "f05",
+      "frente": "Que modo de ativação do resinoso serve a faceta ou inlay de caixa rasa? E pino ou estrutura espessa?",
+      "verso": "Faceta e inlay raso: fotoativado (a luz atravessa). Pino e estrutura espessa: químico. Dual quando opacidade e espessura limitam a luz.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 467"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que cimento resinoso químico ou dual combina mal com adesivo simplificado?",
+      "verso": "O adesivo simplificado é ácido e permeável à água da dentina: ocorre reação na interface e acúmulo de gotas, que degradam a união. Preferir adesivo de três passos ou autocondicionante de dois passos.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 466–467"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual a sequência de tratamento da cerâmica com sílica antes do resinoso?",
+      "verso": "Jateamento com óxido de alumínio de 50 µm, ácido fluorídrico (concentração e tempo do fabricante), silano, adesivo, eliminar os excessos e polimerizar.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 471"
+    },
+    {
+      "id": "f08",
+      "frente": "O que é o silano e como evitar a hidrólise da camada?",
+      "verso": "Molécula bifuncional que une a cerâmica (radicais hidroxila, OH) à parte orgânica do cimento. Alguns autores recomendam remover a camada intermediária com água quente ou aquecer a superfície com ar quente a cerca de 50 °C por 15 s.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+    },
+    {
+      "id": "f09",
+      "frente": "Quem aplica o ácido fluorídrico e quem aplica o silano?",
+      "verso": "Normalmente o técnico faz o ácido fluorídrico; o cirurgião-dentista faz o silano, depois da prova final.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+    },
+    {
+      "id": "f10",
+      "frente": "Zircônia e alumina reagem ao ácido fluorídrico? Qual a alternativa?",
+      "verso": "Não. Silicatização (jateamento com óxidos de sílica) ou resinoso com monômeros fosfatados.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+    },
+    {
+      "id": "f11",
+      "frente": "Como se assenta a peça, segundo o Pegoraro?",
+      "verso": "Pressão digital firme e uniforme, cerca de 4 kg, por 1 min; ultrassom sem água por 3 a 5 s em cada retentor.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+    },
+    {
+      "id": "f12",
+      "frente": "Como facilitar a remoção de excesso de resinoso nas proximais?",
+      "verso": "Pré-fotoativar por 10 s, depois remover com sonda, passar fio dental e fazer a fotoativação final.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, Figura 12.10, p. 470"
+    },
+    {
+      "id": "f13",
+      "frente": "Que consistência o fosfato de zinco deve ter, segundo o Shillingburg?",
+      "verso": "Ao levantar a espátula, forma um fio de cerca de 10 mm. Fino demais escorre; grosso demais não se corrige com líquido: refazer.",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 405"
+    },
+    {
+      "id": "f14",
+      "frente": "O que fazer com o excesso mole de cimento logo após assentar?",
+      "verso": "Não remover: ele protege as margens. Depois da presa, scaler, sonda e fio com nó; conferir o sulco várias vezes.",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 406"
+    },
+    {
+      "id": "f15",
+      "frente": "O que o Shillingburg diz sobre o dique de borracha na cimentação com resina?",
+      "verso": "O dique de borracha deu resultado superior e permite melhor controle, mesmo com um sistema que tolera umidade. Dá para cimentar com roletes de algodão se o adesivo for aplicado de imediato, e um atraso de 1 minuto no adesivo pode reduzir a união em 50%.",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 402"
+    },
+    {
+      "id": "f16",
+      "frente": "Qual cimento do Shillingburg une aço inoxidável mas não ouro?",
+      "verso": "O policarboxilato (pH de 4,8, pouca irritação pulpar).",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 400"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Uma coroa de zircônia será cimentada com resinoso. O colega propõe condicionar a superfície interna com ácido fluorídrico, como se faz na cerâmica feldspática. Qual é a conduta descrita pelo Pegoraro?",
+      "alternativas": [
+        {
+          "texto": "Ácido fluorídrico, só que por mais tempo que o do fabricante.",
+          "correta": false,
+          "justificativa": "O livro diz que as cerâmicas com muita alumina ou zircônia, com pouca ou nenhuma sílica, não são suscetíveis ao ácido fluorídrico.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "Silicatização por jateamento com óxidos de sílica, ou resinoso com monômeros fosfatados.",
+          "correta": true,
+          "justificativa": "São as duas opções que o livro dá para cerâmica sem sílica.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "Aquecer a superfície a cerca de 50 °C por 15 s antes do cimento.",
+          "correta": false,
+          "justificativa": "O livro cita esse aquecimento entre os cuidados com o silano, para evitar a hidrólise da camada intermediária.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "Nenhum tratamento, porque o cimento adesivo compensa a falta de retenção do preparo.",
+          "correta": false,
+          "justificativa": "O livro diz que o emprego de cimentos adesivos não é garantia de sucesso em preparos sem retenção e estabilidade, e para a cerâmica sem sílica indica silicatização ou cimento com monômeros fosfatados.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 471"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 472",
+      "secao": "peca-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Ao planejar uma faceta cerâmica em laboratório, quem normalmente faz cada etapa de tratamento da cerâmica, segundo o Pegoraro?",
+      "alternativas": [
+        {
+          "texto": "O dentista faz o ácido fluorídrico e o técnico faz o silano na prova final.",
+          "correta": false,
+          "justificativa": "É o inverso: o técnico faz o ácido fluorídrico e o dentista aplica o silano.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "Normalmente o técnico faz o ácido fluorídrico e o dentista aplica o silano depois da prova final.",
+          "correta": true,
+          "justificativa": "É a divisão descrita no livro.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "O técnico faz os dois, e o dentista só aplica o adesivo.",
+          "correta": false,
+          "justificativa": "O livro atribui o silano ao dentista, depois da prova final.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        },
+        {
+          "texto": "O dentista faz os dois no mesmo dia, antes da prova com pasta de cor.",
+          "correta": false,
+          "justificativa": "O livro atribui o ácido fluorídrico ao técnico e o silano ao dentista, depois da prova final; a pasta de prova, se usada, vem antes do ácido.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 472"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 472",
+      "secao": "peca-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Uma PPF com cimento resinoso foi assentada. O excesso nas faces proximais está difícil de remover. O que o Pegoraro mostra para facilitar?",
+      "alternativas": [
+        {
+          "texto": "Pressão digital de 4 kg por 1 minuto antes de qualquer remoção.",
+          "correta": false,
+          "justificativa": "O livro descreve essa pressão (cerca de 4 kg, por 1 min) para assentar a peça.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Ultrassom sem água por 3 a 5 s em cada retentor.",
+          "correta": false,
+          "justificativa": "O livro descreve o ultrassom sem água por 3 a 5 s em cada retentor com a prótese assentada.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Verniz de copal nas margens cervicais, antes da remoção.",
+          "correta": false,
+          "justificativa": "O livro descreve o verniz de copal na região cervical dos retentores recém-cimentados.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Pré-fotoativação por 10 s, depois sonda e fio dental.",
+          "correta": true,
+          "justificativa": "É o que a Figura 12.10 mostra para o excesso nas proximais com resinoso.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, Figura 12.10, p. 470"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 470",
+      "secao": "assentamento-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Terminada a cimentação de uma coroa, qual orientação o Pegoraro dá ao paciente sobre mastigar?",
+      "alternativas": [
+        {
+          "texto": "Não mastigar por 1 hora, tempo em que o cimento atinge cerca de 90% da presa.",
+          "correta": true,
+          "justificativa": "É a orientação do livro.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Liberar a mastigação na hora, porque o cimento já está assentado.",
+          "correta": false,
+          "justificativa": "O livro orienta não mastigar por 1 hora.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Não mastigar por 24 horas, para a presa completa.",
+          "correta": false,
+          "justificativa": "O livro cita 1 hora, tempo de cerca de 90% de presa.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        },
+        {
+          "texto": "Mastigar normalmente assim que o excesso for removido com a sonda 5.",
+          "correta": false,
+          "justificativa": "A orientação do livro é não mastigar por 1 hora; o excesso é removido com a sonda 5 depois da presa.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 464"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 464",
+      "secao": "assentamento-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 58 anos, com cáries recorrentes, tem coroa metalocerâmica trocada por cárie de margem. Qual cimento o Pegoraro aponta como de eleição?",
+      "alternativas": [
+        {
+          "texto": "Fosfato de zinco, por ser o cimento de rotina mais antigo.",
+          "correta": false,
+          "justificativa": "O livro descreve o fosfato sem ação antibacteriana e sem adesão, e aponta o ionômero como cimento de eleição para esse caso.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+        },
+        {
+          "texto": "Resinoso autoadesivo, por dispensar adesivo.",
+          "correta": false,
+          "justificativa": "O livro registra que o autoadesivo ainda não tem resultado clínico de longo prazo; a eleição para recidiva de cárie é outra.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 457–458"
+        },
+        {
+          "texto": "Ionômero de vidro, por ser anticariogênico.",
+          "correta": true,
+          "justificativa": "O livro o chama de cimento de eleição quando a troca foi por recidiva de cárie.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+        },
+        {
+          "texto": "Resinoso adesivo, pela alta dureza e boa estética.",
+          "correta": false,
+          "justificativa": "O livro descreve a técnica do cimento resinoso como complexa; o cimento de eleição quando a troca foi por recidiva de cárie é o ionômero.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 457"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 457 e 463",
+      "secao": "cimentos-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Uma faceta fina e translúcida será cimentada com resinoso. Qual modo de ativação o Pegoraro associa a esse tipo de peça?",
+      "alternativas": [
+        {
+          "texto": "Químico, indicado para pinos e estruturas espessas.",
+          "correta": false,
+          "justificativa": "O modo químico é o indicado para pinos e estruturas espessas, e não para faceta fina.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 467"
+        },
+        {
+          "texto": "Fotoativado, porque a luz atravessa a peça.",
+          "correta": true,
+          "justificativa": "O livro associa o fotoativado a facetas e inlays de caixa rasa, em que a luz atravessa.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 467"
+        },
+        {
+          "texto": "Dual, com a parte química obrigatória.",
+          "correta": false,
+          "justificativa": "O dual é indicado quando opacidade e espessura limitam a luz, o que não é o caso de faceta fina e translúcida.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 467"
+        },
+        {
+          "texto": "Nenhum: faceta é cimentada com fosfato de zinco.",
+          "correta": false,
+          "justificativa": "O livro indica cimentos resinosos para facetas (p. 457) e associa o fotoativado a facetas e inlays de caixas rasas (p. 467).",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 457 e 467"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 467",
+      "secao": "escolha-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Ao cimentar uma coroa com resina, qual cuidado o Shillingburg descreve?",
+      "alternativas": [
+        {
+          "texto": "Passar verniz de copal no dente antes do adesivo.",
+          "correta": false,
+          "justificativa": "O livro descreve o verniz de copal com o fosfato de zinco e diz que, por reduzir a retenção, ele não deve ser usado com outros tipos de cimento; para a resina, o cuidado descrito é o isolamento.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 400, 402 e 404"
+        },
+        {
+          "texto": "Dispensar isolamento quando o campo parece seco.",
+          "correta": false,
+          "justificativa": "O livro diz que o dique de borracha dá resultado superior e melhor controle com resina, e que dá para cimentar com roletes de algodão apenas se o adesivo for aplicado de imediato.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 402"
+        },
+        {
+          "texto": "Conferir o assentamento só depois que a resina endurecer.",
+          "correta": false,
+          "justificativa": "Se a resina endurece com a peça mal assentada, em geral é preciso destruir a restauração.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 402"
+        },
+        {
+          "texto": "Usar dique de borracha e aplicar o adesivo logo, sem atraso.",
+          "correta": true,
+          "justificativa": "São as duas informações do livro: o dique dá resultado superior e melhor controle, e com roletes de algodão é preciso aplicar o adesivo de imediato, porque um atraso de 1 minuto pode reduzir a união em 50%.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 402"
+        }
+      ],
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 402",
+      "secao": "isolamento-shillingburg",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Você assentou uma coroa com fosfato de zinco e vê excesso mole nas margens. Qual conduta o Shillingburg descreve?",
+      "alternativas": [
+        {
+          "texto": "Deixar o excesso até a presa e depois remover com scaler, sonda e fio com nó, conferindo o sulco.",
+          "correta": true,
+          "justificativa": "O excesso mole protege as margens; remove-se depois da presa, e o sulco é conferido várias vezes.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 406"
+        },
+        {
+          "texto": "Remover todo o excesso na hora com a sonda, antes de o paciente ocluir.",
+          "correta": false,
+          "justificativa": "O livro diz para não remover o excesso mole.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 406"
+        },
+        {
+          "texto": "Remover o isolamento para o paciente ocluir livremente até a presa.",
+          "correta": false,
+          "justificativa": "O campo deve ficar seco até a presa; o fosfato é muito solúvel se molhado cedo.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 406"
+        },
+        {
+          "texto": "Passar algodão úmido nas margens para tirar o excesso mole.",
+          "correta": false,
+          "justificativa": "O livro manda não remover o excesso mole, e o fosfato é muito solúvel se molhado cedo.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 406"
+        }
+      ],
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 406",
+      "secao": "assentamento-shillingburg",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Ao misturar fosfato de zinco, o cimento pronto precisa ser empurrado pela espátula e não forma fio ao levantá-la. O que fazer, segundo o Shillingburg?",
+      "alternativas": [
+        {
+          "texto": "Adicionar algumas gotas de líquido para fluidificar.",
+          "correta": false,
+          "justificativa": "Cimento grosso demais não se corrige com líquido.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 405"
+        },
+        {
+          "texto": "Refazer a mistura.",
+          "correta": true,
+          "justificativa": "O livro diz que o cimento grosso demais não se corrige com líquido, e manda refazer.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 405"
+        },
+        {
+          "texto": "Usar assim, pressionando mais forte na hora de assentar.",
+          "correta": false,
+          "justificativa": "O livro classifica o cimento que precisa ser empurrado como grosso demais, e manda refazer, e não compensar na pressão.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 405"
+        },
+        {
+          "texto": "Incorporar mais pó rapidamente para acelerar a presa.",
+          "correta": false,
+          "justificativa": "Pó adicionado depressa encurta a presa e enfraquece o cimento.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 21, Cementation and Bonding, p. 405"
+        }
+      ],
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, p. 405",
+      "secao": "assentamento-shillingburg",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Ao cimentar uma coroa com cimento autoadesivo, qual o preparo da dentina descrito pelo Pegoraro?",
+      "alternativas": [
+        {
+          "texto": "Condicionar com ácido fosfórico e aplicar adesivo, como no cimento resinoso.",
+          "correta": false,
+          "justificativa": "Para o autoadesivo, o livro mostra a dentina sem tratamento (Figura 12.9); o tratamento da dentina com adesivo é descrito para os cimentos resinosos (p. 471).",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 469 e 471"
+        },
+        {
+          "texto": "Duas camadas de verniz de copal sobre a dentina.",
+          "correta": false,
+          "justificativa": "O verniz é indicado só com o fosfato de zinco.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, p. 461"
+        },
+        {
+          "texto": "Secar bem a dentina com jato de ar, para ficar sem umidade.",
+          "correta": false,
+          "justificativa": "Na Figura 12.9, a dentina fica levemente úmida.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, Figura 12.9, p. 469"
+        },
+        {
+          "texto": "Só limpar com taça e pedra-pomes, deixando a dentina levemente úmida.",
+          "correta": true,
+          "justificativa": "É o que a Figura 12.9 mostra para o autoadesivo.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 12, Cimentação provisória e definitiva, Figura 12.9, p. 469"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 12, Cimentação provisória e definitiva, p. 469",
+      "secao": "dente-pegoraro",
+      "figura": null
+    }
+  ]
+}

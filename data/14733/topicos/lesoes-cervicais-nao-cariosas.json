@@ -1,0 +1,614 @@
+{
+  "slug": "lesoes-cervicais-nao-cariosas",
+  "titulo": "Lesões cervicais não cariosas: diagnóstico e conduta",
+  "area": "Dentística e reabilitação",
+  "origem": "Nascimento et al. 2016; Goodacre et al. 2023 (resumo); Baratieri vol. 1, caps. 1, 2 e 12",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "nascimento2016",
+      "ref": "Nascimento MM, Dilbone DA, Pereira PNR, Duarte WR, Geraldeli S, Delgado AJ. Abfraction lesions: etiology, diagnosis, and treatment options. Clin Cosmet Investig Dent. 2016;8:79–87. doi:10.2147/CCIDE.S63465. Revisão. PMC4861607.",
+      "curta": "Nascimento et al., 2016"
+    },
+    {
+      "id": "goodacre2023",
+      "ref": "Goodacre CJ, Roberts WE, Munoz CA. Noncarious cervical lesions: Morphology and progression, prevalence, etiology, pathophysiology, and clinical guidelines for restoration. J Prosthodont. 2023;32(2):e1–e18. doi:10.1111/jopr.13585. PMID 35920595. Revisão. Citado pelo resumo (registro PubMed, revisado em 27/01/2026, consultado em 16/11/2026); o tema usa só o resumo.",
+      "curta": "Goodacre et al., 2023 (resumo)"
+    },
+    {
+      "id": "baratieri2010",
+      "ref": "Baratieri LN. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed., Santos, 2010 (exemplar da 7ª reimpressão, 2018). Cap. 1, p. 14; cap. 2, p. 22; cap. 12, Preparo e restauração Classe V com compósitos, pp. 241–262 (usada a seção Lesões não cariosas, pp. 241–249).",
+      "curta": "Baratieri, vol. 1, cap. 12"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "termos",
+      "titulo": "LCNC e os termos de Nascimento (2016)",
+      "fonte": "nascimento2016",
+      "onde": "Resumo; Introdução; Teoria da abfração; Diagnóstico (definições)",
+      "texto": "**LCNC** (no artigo, em inglês, NCCL) é a lesão cervical não cariosa: perda de tecido dental na região cervical, por desgaste normal ou patológico. A abfração é um tipo de LCNC. A etiologia é multifatorial, e o artigo diz que hoje não é correto atribuí-la a um só mecanismo.\n\n**Os termos, como o artigo os usa:**\n- **Abfração:** pela teoria, a flexão do dente na região cervical, causada por forças oclusais de compressão e de tração, produziria microfraturas nos cristais de hidroxiapatita do esmalte e da dentina, com fadiga e deformação.\n- **Erosão** (no original, *erosion*): perda progressiva de tecido duro dental por ácidos de origem não bacteriana, intrínsecos ou extrínsecos.\n- **Biocorrosão:** termo proposto para abranger toda degradação química, bioquímica e eletroquímica. O artigo escreve “erosão ou biocorrosão” lado a lado, sem dizer que são a mesma coisa.\n- **Abrasão:** o artigo a cita como processo de desgaste ao lado da abfração e da erosão, mas não a define.\n- **Atrição:** o artigo não a menciona.\n\nEste tema não define abrasão nem atrição, porque a fonte não o faz.\n\nO desgaste cervical por abfração pode ocorrer com função normal ou anormal e pode vir junto de desgaste patológico, como abrasão e erosão. Quando o mesmo paciente tem mais de um mecanismo, o artigo explica pela interação de fatores químicos, biológicos e comportamentais."
+    },
+    {
+      "id": "etiologia",
+      "titulo": "Etiologia: o que o artigo sustenta e o que não",
+      "fonte": "nascimento2016",
+      "onde": "Introdução; Teoria da abfração; Diagnóstico (erosão)",
+      "texto": "**A teoria da abfração ainda não está comprovada**, segundo a conclusão da própria seção do artigo. A hipótese inicial foi a de tração por forças mastigatórias e má oclusão; depois, as lesões passaram a ser chamadas de abfração. O artigo diz que a etiologia é pouco compreendida e controversa.\n\n**Oclusão:** a evidência de associação entre fatores oclusais e LCNC é fraca. Os fatores citados são interferência nos movimentos excursivos, força, contatos prematuros, tipo de guia e deslizamento da oclusão central para a máxima intercuspidação.\n\n**Dois dados que enfraquecem a ligação direta:**\n- nem todo paciente com abfração tem desgaste oclusal (bruxismo ou apertamento);\n- nem todo paciente com desgaste oclusal tem LCNC.\n\nO artigo também diz que a LCNC não deve ser atribuída a um só mecanismo e que a abfração pode vir junto de desgaste patológico, como abrasão e erosão.\n\nUm estudo de tomografia de coerência óptica, citado no artigo, sugere que a desmineralização da dentina forma a lesão cedo e que a carga oclusal contribui para a progressão.\n\nO consenso de 2018 sobre doenças periodontais também trata da relação entre força oclusal e lesão cervical não cariosa: ver o tema «Forças oclusais traumáticas».\n\n**Fatores de erosão** listados no artigo:\n- regurgitação (complicação gastrointestinal, ou induzida em anorexia e bulimia);\n- dieta ácida (cítricos, sucos, refrigerantes, vinho);\n- bochechos ácidos frequentes;\n- exposição ocupacional (por exemplo, fábricas de baterias);\n- lazer (piscina clorada).\n\nO diagnóstico de erosão pode ser difícil: o paciente pode não contar um transtorno alimentar, ou não ligar azia e desconforto gástrico aos defeitos nos dentes."
+    },
+    {
+      "id": "aspecto",
+      "titulo": "Aspecto clínico e onde ocorrem",
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico",
+      "texto": "**Abfração:** lesões em cunha ou em V nas superfícies vestibulares, com ângulos interno e externo bem definidos. O artigo cita também formas em C, de fundo arredondado, e formas mistas. Conforme a progressão, pode ser mais profunda que larga.\n\n**Erosão e abrasão** alteram a aparência: ângulos menos nítidos e contorno mais amplo, em forma de pires.\n\n**Lesão abaixo da margem gengival**, fora do alcance da escova, tem, segundo o artigo, as forças de carga biomecânica como contribuinte principal.\n\n**Sinais de erosão** descritos no artigo:\n- facetas brilhantes em dentes ou restaurações;\n- concavidades amplas no esmalte liso e perda da anatomia da superfície;\n- aumento da translucidez incisal e lascamento incisal;\n- superfícies oclusais com concavidades e dentina exposta.\n\nA erosão por vômito costuma atingir a face palatina dos superiores.\n\n**Onde e em quem (com a condição de cada número):**\n- a LCNC é mais frequente em incisivos e pré-molares do que em caninos e molares;\n- pré-molares inferiores são afetados com mais frequência e mais gravemente que os superiores;\n- a incidência de abfração sobe de 3% para 17% entre 20 e 70 anos de idade (o artigo diz que ela é mais prevalente em adultos);\n- pré-molares de pacientes com mais de 40 anos são os dentes mais restaurados por LCNC."
+    },
+    {
+      "id": "diagnostico",
+      "titulo": "Diagnóstico e avaliação da atividade",
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico",
+      "texto": "**Base do diagnóstico:** anamnese completa e exame clínico cuidadoso.\n- **Anamnese:** refluxo gastroesofágico, transtornos alimentares e dieta.\n- **Exame:** oclusão, parafunção e hábitos orais, inclusive hábitos ocupacionais e rituais.\n\n**Avaliar se a lesão está ativa** faz parte do plano de tratamento. O artigo cita:\n- fotografias intraorais padronizadas e modelos de estudo, para medir as dimensões ao longo do tempo;\n- **teste do risco com lâmina nº 12:** a marca feita na superfície, se perder total ou parcialmente a definição, pode indicar processo ativo.\n\n**Índice de Smith e Knight** (0 a 4):\n\n| Escore | Critério |\n|---|---|\n| 0 | sem mudança de contorno |\n| 1 | perda mínima de contorno |\n| 2 | defeito com menos de 1 mm de profundidade |\n| 3 | defeito de 1 a 2 mm |\n| 4 | defeito com mais de 2 mm, ou exposição de dentina secundária ou de polpa |\n\n**Índice mais recente para LCNC** (1 a 3): o 1 tem profundidades de até 1 mm, em cunha ou V, com ângulo agudo (menor que 90°); o 2, profundidades acima de 1 mm até 2 mm, em pires, com ângulo obtuso entre 90° e 135°; o 3, profundidades acima de 2 mm, em pires, com ângulo obtuso maior que 135°.\n\nO artigo diz que o CAD-CAM pode servir para diagnóstico e monitoramento, mas ainda precisam ser testados. O artigo não traz comparação de sinais entre LCNC e cárie."
+    },
+    {
+      "id": "acompanhar",
+      "titulo": "Acompanhar, ajuste oclusal, placa e prevenção",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento (monitoramento; ajuste oclusal; placas oclusais; medidas preventivas); Resumo",
+      "texto": "**Acompanhar sem tratar:** a decisão depende da idade e de como a lesão compromete vitalidade e função. O desgaste cervical fisiológico é lento e crônico. Quando a lesão é **indolor e não afeta a estética** (em geral o paciente não se queixa), e nos casos sem consequências clínicas graves e/ou **rasos, com menos de 1 mm de profundidade**, o artigo considera aconselhável acompanhar a progressão em intervalos regulares, sem tratamento. A atividade pode ser avaliada **a cada 6 a 12 meses**, também nas consultas de higiene.\n\nNo resumo, o artigo diz que, em dente assintomático, sem comprometimento de vitalidade e função, a abfração deve ser monitorada por **pelo menos 6 meses** antes de qualquer procedimento invasivo.\n\n**Ajuste oclusal:** o artigo diz que **não há evidência de eficácia** dessa intervenção. Ajuste inadequado pode aumentar o risco de cárie, de desgaste oclusal e de hipersensibilidade. Aparelhos que prometem ajustar a oclusão merecem cautela. Se se suspeita que a abfração é fator dominante, qualquer decisão por tratamento destrutivo e irreversível, como o ajuste oclusal, deve ser considerada com muito cuidado.\n\n**Placas oclusais** para bruxismo noturno são recomendadas em alguns trabalhos, mas o artigo diz que **não há evidência que sustente seu uso**.\n\n**Restauração e ajuste oclusal não são indicados para prevenir perda dental adicional ou a progressão da abfração** (resumo do artigo).\n\n**Medidas preventivas citadas:**\n- orientação de dieta e de técnica de escovação;\n- placa de proteção noturna, para apertamento ou bruxismo;\n- goma de mascar, para aumentar a saliva;\n- encaminhamento médico, se houver condição intrínseca ou mental."
+    },
+    {
+      "id": "hipersensibilidade",
+      "titulo": "Hipersensibilidade: não invasivo primeiro",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento (hipersensibilidade)",
+      "texto": "**O que é:** dor curta e aguda a um estímulo. Pode ser sintoma temporário no início da LCNC: a dentina remineraliza e a sensibilidade pode diminuir com o tempo. Se persistir, trata-se.\n\n**Opções não invasivas** listadas pelo artigo:\n- camada adesiva aplicada no consultório;\n- dessensibilizantes e verniz de flúor;\n- flúor de alta concentração e arginina, em casa;\n- creme dental com nitrato de potássio;\n- fluoreto diamino de prata (para o que outra fonte diz dele na cárie radicular, ver o tema «Risco de cárie, adequação do meio e cárie radicular»).\n\nO artigo diz que a eficácia clínica dos lasers é incerta.\n\n**Como alguns agentes atuam:** um dessensibilizante com hidroxietil metacrilato e glutaraldeído obstrui os túbulos (o primeiro) e coagula proteínas do fluido dentinário (o segundo). Agentes de união e verniz funcionam como selantes temporários dos túbulos.\n\n**Restaurar por hipersensibilidade só quando o tratamento não invasivo falha**, em casos extremos de persistência. O artigo traz um dado: a sensibilidade caiu no início com resina composta e com ionômero modificado por resina, mas **em 20% a 30% das LCNC restauradas houve aumento de sensibilidade aos 6 meses**, ao ar na resina composta e ao frio no ionômero modificado por resina."
+    },
+    {
+      "id": "restaurar-nascimento",
+      "titulo": "Quando restaurar, segundo Nascimento (2016)",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento (restauração)",
+      "texto": "O artigo diz que o valor da restauração na LCNC ainda é questionável e que a falha das restaurações é comum, porque a etiologia multifatorial costuma não ser controlada. **Não há evidência de que restaurar impeça a progressão da lesão**: a restauração não serve como medida preventiva.\n\nNão há diretriz geralmente aceita. Os autores sugerem considerar a restauração só quando **um ou mais** de seis critérios estiverem presentes:\n1. lesão cariosa ativa e cavitada associada à abfração, após avaliação do risco de cárie;\n2. margens cervicais ou todas as margens da lesão em posição subgengival, que impedem o controle de placa e aumentam o risco de cárie e de doença periodontal;\n3. perda extensa de estrutura que compromete a integridade do dente, defeito próximo à polpa ou polpa exposta;\n4. hipersensibilidade persistente, com falha das opções não invasivas;\n5. pilar de prótese;\n6. exigência estética do paciente.\n\n**Pilar de prótese parcial removível:** considerar a distribuição da carga axial, para evitar estresse excessivo na restauração cervical; os grampos podem acelerar o desgaste da resina.\n\n**Estética:** fazer a análise do sorriso antes de decidir; o paciente com linha do sorriso baixa talvez não precise de restauração.\n\n**Risco-benefício:** restaurações cervicais podem aumentar o acúmulo de placa e favorecer cárie e doença periodontal. Se restaurar, o mais conservador possível. Entre os fatores que afetam a retenção estão a localização do dente, a idade do paciente e a oclusão."
+    },
+    {
+      "id": "material-recessao",
+      "titulo": "Material, evidência e recessão associada",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento (restauração; retração e cirurgia)",
+      "texto": "**Propriedades desejáveis do material:** baixo módulo de elasticidade, boa adesão à dentina, resistência ao desgaste e resistência à dissolução ácida.\n\n**O mais usado é a resina composta**, provavelmente pela estética e por ser mais conservadora, diz o artigo. Ionômero de vidro, ionômero modificado por resina e laminado de ionômero com resina são citados, mas pouco usados. Há poucos estudos longos. Numa revisão sistemática citada, o ionômero e os adesivos autocondicionantes mais suaves tiveram os melhores resultados de adesão clínica.\n\n**Dificuldades citadas:** controle de umidade, acesso a margens subgengivais e tratamento da dentina esclerótica com adesivo.\n\n**Recessão gengival associada:**\n- classes I e II de Miller (sem perda de inserção e óssea interdental) permitem cobertura radicular completa até a junção cemento-esmalte; nas classes III e IV a cobertura é parcial ou impossível;\n- se a junção cemento-esmalte desapareceu por perda de coroa, a cirurgia não resolve o defeito da coroa: o artigo propõe **restaurar antes da cirurgia**, para ver melhor o campo e dar base estável e convexa ao retalho;\n- a restauração recria o contorno da coroa e o da junção perdida, na posição de máxima cobertura prevista;\n- nas revisões citadas, o retalho coronário avançado com enxerto de tecido conjuntivo deu os melhores resultados; a necessidade do enxerto aumenta quando há depressões radiculares apicais à restauração, em geral por abrasão;\n- o artigo diz que a abordagem combinada pode ser recomendada para abfração com abrasão radicular profunda.\n\nConclusão do artigo: não há evidência conclusiva de regimes de tratamento confiáveis e previsíveis para a abfração."
+    },
+    {
+      "id": "goodacre",
+      "titulo": "Goodacre et al. (2023): o que o resumo diz",
+      "fonte": "goodacre2023",
+      "onde": "Resumo (PubMed, PMID 35920595)",
+      "texto": "Esta seção usa **só o resumo** da revisão de Goodacre, Roberts e Munoz; o texto completo não é usado neste tema.\n\n**Morfologia:** depressões arredondadas, em pires, lisas e sem traços, que progridem sobretudo em altura; ou indentações em V, que aumentam em altura e em profundidade.\n\n**Prevalência:** de menos de 10% a mais de 90%, aumentando com a idade. Local comum: faces vestibulares dos pré-molares superiores. O Nascimento trata de onde as lesões ocorrem em outro ponto: ver a seção «Aspecto clínico e onde ocorrem».\n\n**Etiologia:** multifatorial, por hábitos pessoais, como escovação horizontal excessiva e consumo de alimentos e bebidas ácidos. Sobre oclusão, alguns estudos associam fatores oclusais à prevalência e outros não. Sobre a abfração, há publicações a favor e contra o conceito, e algumas dizem que falta documentação clínica. Seja qual for o mecanismo, há desmineralização.\n\n**Tratamento:** conservador, por prevenção, com a restauração adiada o máximo possível. Indicações de restaurar citadas: progressão da lesão, impacto na qualidade de vida, sensibilidade, estética ruim e acúmulo de alimento.\n\n**Diretrizes de restauração do resumo:**\n- resina composta é comumente usada; ionômero e ionômero modificado por resina também;\n- dentina esclerótica não condiciona como a normal: texturizar com broca diamantada fina;\n- bisel no esmalte, para ampliar a área de adesão, melhorar a retenção e a estética; retenção mecânica pode ser usada;\n- condicionamento ácido da dentina aumentado para 30 s, por causa da dentina esclerótica; adesivo com fricção leve por 20 s;\n- havendo cárie, o fluoreto diamino de prata pode paralisá-la, em vez de restaurar. Para o que outra fonte diz do fluoreto diamino de prata na cárie radicular, ver o tema «Risco de cárie, adequação do meio e cárie radicular»."
+    },
+    {
+      "id": "baratieri-indicacao",
+      "titulo": "Baratieri: quando restaurar e o que controlar antes",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, Lesões não cariosas, p. 242 e p. 249",
+      "texto": "No capítulo de Classe V, o Baratieri chama de **lesões não cariosas Classe V** as perdas de estrutura dental na região cervical dos dentes (figs. 12.1 e 12.2). O livro não define abrasão, abfração nem o que chama de **corrosão**: só cita os nomes e a associação deles como fatores etiológicos (as pp. 14 e 22, na seção seguinte, também só os citam). A palavra é “corrosão”, e não “erosão”, como no Nascimento.\n\n**Indicação do tratamento restaurador (p. 242):**\n- comprometimento estético, biológico ou funcional;\n- hipersensibilidade que não responde à terapia não invasiva.\n\n**Antes de qualquer procedimento restaurador**, é preciso diagnosticar e controlar os fatores etiológicos: corrosão, abrasão, abfração ou a associação delas (p. 242). A p. 249 repete: os fatores causais devem ser pesquisados e tratados antes ou ao mesmo tempo que a restauração.\n\n**O que esta seção do livro não traz:** critério para não restaurar, escolha de material (só fala em compósito), tabela ou quadro, e diagnóstico diferencial. Para o acompanhamento sem restaurar e para a evidência sobre oclusão, ver as seções do Nascimento; o Baratieri não as discute."
+    },
+    {
+      "id": "baratieri-enquadramento-preparo",
+      "titulo": "Baratieri: classe V não cariosa e preparo (pp. 14 e 22)",
+      "fonte": "baratieri2010",
+      "onde": "cap. 1, Classificação das lesões e cavidades, p. 14; cap. 2, Objetivos do preparo em restaurações diretas com compósitos, p. 22",
+      "texto": "**Enquadramento (p. 14, cap. 1):** a Classe V é a lesão ou cavidade no terço gengival das faces vestibular e lingual ou palatal de todos os dentes. A classificação de Black era restrita às lesões cariosas; o livro diz que a mesma nomenclatura pode ser usada, atualmente, para perdas de estrutura causadas por processos não cariosos, e cita abrasão, atrição, corrosão e abfração. A página só enquadra: não define esses termos nem traz etiologia ou conduta.\n\n**Conduta no preparo (p. 22, cap. 2):**\n- na restauração direta com compósito, a adesão é um excelente meio de retenção e permite remover menos tecido;\n- em lesões Classe V não cariosas, por abrasão, corrosão, atrição ou abfração, **não há necessidade de remover estrutura dental** antes das etapas adesivas e da inserção do compósito;\n- a busca pela excelência estética pode justificar algum preparo (por exemplo, remover estrutura escurecida ou manchada), que deve ser sempre o mais conservador possível;\n- nas Classe V, o acesso às margens melhora com afastamento gengival por fios ou grampos retratores.\n\nO livro usa “corrosão”, e não “erosão”, como o Nascimento."
+    },
+    {
+      "id": "baratieri-isolamento-adesivo",
+      "titulo": "Baratieri: isolamento e adesivo na Classe V",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, Lesões não cariosas, pp. 242 a 245",
+      "texto": "**Antes do isolamento:** profilaxia e seleção de cor, registrando as informações cromáticas (p. 242).\n\n**Isolamento absoluto**, de preferência com grampos retratores, para expor bem a margem gengival. Às vezes o grampo precisa ser modificado para a retração gengival do caso. O grampo 212 é estabilizado com godiva de baixa fusão, para não se soltar durante a restauração (p. 242).\n\n**Vantagem do compósito (p. 244):** por ser adesivo, dispensa as retenções macromecânicas, obrigatórias nas restaurações não adesivas. O procedimento se restringe, basicamente, a repor a estrutura perdida, **sem desgaste prévio adicional**.\n\n**Substratos (p. 244):** às vezes a margem fica toda em esmalte; o mais frequente é a margem cervical estar em dentina. O protocolo adesivo deve respeitar essa diferença, para unir bem aos dois tecidos.\n\n**Sequência mostrada no capítulo (pp. 244 e 245):**\n1. sistema adesivo de dois passos, com condicionamento ácido que começa no esmalte e se estende à dentina, onde fica 15 s (p. 244, texto e Fig. 12.11);\n2. lavagem e dentina **mantida úmida**;\n3. **ao menos duas camadas** de adesivo, com leves jatos de ar entre elas, para volatilizar os solventes;\n4. remoção dos excessos de adesivo junto às margens e à garra do grampo;\n5. fotoativação e inserção do compósito."
+    },
+    {
+      "id": "baratieri-resina",
+      "titulo": "Baratieri: inserção da resina, acabamento e polimento",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, Lesões não cariosas, pp. 245 a 249",
+      "texto": "**Escolha do compósito (p. 245):** pela relação das Classe V com o periodonto, é essencial que a resina tenha boas características de polimento. Massas com características ópticas de dentina só são necessárias nas lesões cervicais mais profundas; nas superficiais, em geral basta compósito do tipo esmalte.\n\n**Incrementos (p. 245):** para reduzir o estresse da contração de polimerização, usar **pequenos incrementos**, inseridos e adaptados em sequência, **primeiro na margem cervical e depois na oclusal**. A técnica também facilita a estratificação estética.\n\n**Passo a passo (p. 246):**\n1. primeiro incremento, levemente mais saturado, adaptado contra a margem cervical com espátulas e pincéis;\n2. antes de fotoativar, checar o contorno: sem excessos grosseiros e com volume compatível com a cavidade;\n3. fotoativar conforme a técnica escolhida, discutida no cap. 7;\n4. segundo incremento, preenchendo o espaço até a margem oclusal e deixando espaço para a última camada;\n5. incremento final, que restitui o volume total; pincéis ajudam a evitar excessos e dão superfície lisa.\n\nObservar o perfil da restauração e se ela acompanha os dentes vizinhos.\n\n**Acabamento (pp. 248 e 249):** limita-se à remoção dos excessos de adesivo e de resina nas margens. Lâminas de bisturi nº 12 e discos flexíveis abrasivos são muito apropriados. Fazer sempre que possível **antes de remover o dique e o grampo**, pelo afastamento dos tecidos moles e pelo acesso à margem gengival. Sem o grampo, acabar a margem costuma ser mais difícil, pela gengiva e pelo sangramento.\n\n**Polimento final (p. 249):** pastas de polimento, com escova Robinson ou discos de feltro."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como o Nascimento explica a abfração?",
+      "verso": "Flexão do dente na região cervical por forças oclusais de compressão e tração, com microfraturas dos cristais de hidroxiapatita. O artigo conclui que a teoria **ainda não está comprovada**.",
+      "fonte": "nascimento2016",
+      "onde": "Teoria da abfração"
+    },
+    {
+      "id": "f02",
+      "frente": "Erosão e biocorrosão no Nascimento: qual a relação?",
+      "verso": "*Erosion*: perda de tecido duro por ácidos não bacterianos. *Biocorrosão*: abrange toda degradação química, bioquímica e eletroquímica. O artigo escreve “erosão ou biocorrosão” lado a lado, sem dizer que são a mesma coisa.",
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico"
+    },
+    {
+      "id": "f03",
+      "frente": "O Nascimento define abrasão e atrição?",
+      "verso": "**Não.** A abrasão aparece só como processo de desgaste ao lado da abfração e da erosão; o artigo não menciona a atrição.",
+      "fonte": "nascimento2016",
+      "onde": "Introdução; Diagnóstico"
+    },
+    {
+      "id": "f04",
+      "frente": "Como a abfração difere de erosão e abrasão no aspecto?",
+      "verso": "Abfração: cunha ou V, ângulos interno e externo bem definidos. Erosão e abrasão: ângulos menos nítidos e contorno amplo, em pires.",
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico"
+    },
+    {
+      "id": "f05",
+      "frente": "Como o artigo sugere avaliar se a lesão está ativa?",
+      "verso": "Fotos padronizadas, modelos de estudo e medidas ao longo do tempo; marca com **lâmina nº 12** que perde a definição pode indicar processo ativo.",
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico"
+    },
+    {
+      "id": "f06",
+      "frente": "Lesão indolor, sem queixa estética e rasa (menos de 1 mm): conduta no Nascimento?",
+      "verso": "**Acompanhar** a progressão em intervalos regulares, sem tratar; a atividade pode ser avaliada a cada 6 a 12 meses, nas consultas de higiene.",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Monitoramento"
+    },
+    {
+      "id": "f07",
+      "frente": "O que o Nascimento diz da evidência de ajuste oclusal e de placas oclusais?",
+      "verso": "Ajuste oclusal: **não há evidência de eficácia**. Placas para bruxismo noturno: recomendadas em alguns trabalhos, mas **sem evidência que sustente o uso**.",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Ajuste oclusal e Placas oclusais"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais os seis critérios do Nascimento para restaurar?",
+      "verso": "Cárie ativa cavitada associada; margens da lesão subgengivais, que impedem o controle de placa; perda extensa, defeito próximo à polpa ou polpa exposta; hipersensibilidade persistente; pilar de prótese; exigência estética.",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Restauração"
+    },
+    {
+      "id": "f09",
+      "frente": "Restaurar impede a progressão da LCNC?",
+      "verso": "Segundo o Nascimento, **não há evidência** disso: a restauração não serve como medida preventiva.",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Restauração; Resumo"
+    },
+    {
+      "id": "f10",
+      "frente": "Restauração por hipersensibilidade: qual dado o Nascimento traz?",
+      "verso": "O artigo cita relato de que **20% a 30%** das LCNC restauradas tiveram aumento de sensibilidade aos **6 meses** (ao ar na resina; ao frio no ionômero modificado por resina).",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Hipersensibilidade"
+    },
+    {
+      "id": "f11",
+      "frente": "Propriedades desejáveis do material restaurador, segundo o Nascimento?",
+      "verso": "Baixo módulo de elasticidade, boa adesão à dentina, resistência ao desgaste e à dissolução ácida. O mais usado é a resina composta.",
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Restauração"
+    },
+    {
+      "id": "f12",
+      "frente": "Quando o Baratieri indica restaurar a lesão não cariosa Classe V?",
+      "verso": "Comprometimento **estético, biológico ou funcional**, e hipersensibilidade que não responde à terapia não invasiva.",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, Lesões não cariosas, p. 242"
+    },
+    {
+      "id": "f13",
+      "frente": "O que o Baratieri manda fazer antes da restauração?",
+      "verso": "Diagnosticar e controlar os fatores etiológicos (corrosão, abrasão, abfração ou associação); pesquisar e tratar **antes ou junto** com a restauração.",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 242 e p. 249"
+    },
+    {
+      "id": "f14",
+      "frente": "Qual a vantagem do compósito na Classe V não cariosa (Baratieri)?",
+      "verso": "Por ser adesivo, dispensa retenções macromecânicas: basta repor a estrutura perdida, **sem desgaste prévio adicional**.",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 244"
+    },
+    {
+      "id": "f15",
+      "frente": "Como o Baratieri manda inserir a resina na Classe V?",
+      "verso": "**Pequenos incrementos**, primeiro na margem cervical e depois na oclusal, para reduzir o estresse da contração de polimerização.",
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 245"
+    },
+    {
+      "id": "f16",
+      "frente": "O que o resumo de Goodacre diz do tratamento das LCNC?",
+      "verso": "Conservador, por prevenção, com a **restauração adiada o máximo possível**. Citado apenas pelo resumo.",
+      "fonte": "goodacre2023",
+      "onde": "Resumo (PubMed)"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Pela descrição do Nascimento, qual lesão tem aspecto em cunha ou em V, com ângulos interno e externo bem definidos?",
+      "alternativas": [
+        {
+          "texto": "Erosão.",
+          "correta": false,
+          "justificativa": "Erosão e abrasão alteram a aparência: ângulos menos nítidos e contorno mais amplo, em pires.",
+          "fonte": "nascimento2016",
+          "onde": "Diagnóstico"
+        },
+        {
+          "texto": "Abfração.",
+          "correta": true,
+          "justificativa": "É a lesão descrita em cunha ou V nas faces vestibulares, com ângulos interno e externo bem definidos.",
+          "fonte": "nascimento2016",
+          "onde": "Diagnóstico"
+        },
+        {
+          "texto": "Abrasão.",
+          "correta": false,
+          "justificativa": "O artigo a coloca junto da erosão, com ângulos menos nítidos e contorno em pires.",
+          "fonte": "nascimento2016",
+          "onde": "Diagnóstico"
+        },
+        {
+          "texto": "Lesão com contorno em pires e ângulo obtuso maior que 135°.",
+          "correta": false,
+          "justificativa": "Esse é o escore 3 do índice mais recente, com profundidades acima de 2 mm e forma em pires, e não o aspecto em cunha com ângulos bem definidos.",
+          "fonte": "nascimento2016",
+          "onde": "Diagnóstico"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Diagnóstico",
+      "secao": "aspecto",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente de 45 anos tem uma lesão em V na face vestibular de um pré-molar inferior, indolor, com menos de 1 mm de profundidade, e não se queixa da estética. Qual a conduta indicada pelo Nascimento?",
+      "alternativas": [
+        {
+          "texto": "Restaurar com resina composta, para evitar a progressão da lesão.",
+          "correta": false,
+          "justificativa": "O artigo diz que não há evidência de que a restauração impeça a progressão, e nenhum dos seis critérios para restaurar consta do caso descrito.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Restauração"
+        },
+        {
+          "texto": "Fazer ajuste oclusal imediato, para interromper a lesão.",
+          "correta": false,
+          "justificativa": "O artigo diz que não há evidência de eficácia do ajuste oclusal, que pode ainda aumentar cárie, desgaste e hipersensibilidade.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Ajuste oclusal"
+        },
+        {
+          "texto": "Indicar placa oclusal noturna como tratamento da lesão cervical.",
+          "correta": false,
+          "justificativa": "O artigo diz que não há evidência que sustente o uso de placas.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Placas oclusais"
+        },
+        {
+          "texto": "Acompanhar sem tratar, reavaliando a cada 6 a 12 meses.",
+          "correta": true,
+          "justificativa": "Lesão indolor, sem efeito estético e com menos de 1 mm é a situação em que o artigo recomenda acompanhar, com reavaliação nas consultas de higiene.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Monitoramento"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Monitoramento",
+      "secao": "acompanhar",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Qual situação consta entre os critérios que o Nascimento sugere para restaurar uma LCNC?",
+      "alternativas": [
+        {
+          "texto": "Prevenir a progressão da lesão.",
+          "correta": false,
+          "justificativa": "O artigo diz que não há evidência de que restaurar impeça a progressão; a restauração não serve como medida preventiva.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Restauração; Resumo"
+        },
+        {
+          "texto": "Dente que será pilar de prótese.",
+          "correta": true,
+          "justificativa": "Pilar de prótese é o quinto dos seis critérios sugeridos pelos autores.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Restauração"
+        },
+        {
+          "texto": "Hipersensibilidade antes de qualquer tentativa de tratamento não invasivo.",
+          "correta": false,
+          "justificativa": "O critério é hipersensibilidade persistente, com falha das opções não invasivas.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Restauração; Hipersensibilidade"
+        },
+        {
+          "texto": "Abfração em dente assintomático, com menos de 6 meses de monitoramento.",
+          "correta": false,
+          "justificativa": "No resumo, a abfração em dente assintomático, sem comprometimento de vitalidade e função, deve ser monitorada por pelo menos 6 meses antes de qualquer procedimento invasivo (ver, na seção «Acompanhar, ajuste oclusal, placa e prevenção», o acompanhamento por pelo menos 6 meses).",
+          "fonte": "nascimento2016",
+          "onde": "Resumo"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Restauração",
+      "secao": "restaurar-nascimento",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "O que o Nascimento afirma sobre ajuste oclusal como tratamento da LCNC?",
+      "alternativas": [
+        {
+          "texto": "Há evidência forte de que ele impede a progressão da lesão e a perda de estrutura dental.",
+          "correta": false,
+          "justificativa": "O artigo diz que não há evidência de eficácia dessa intervenção; no resumo, ajuste oclusal não é indicado para prevenir a progressão.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Ajuste oclusal; Resumo"
+        },
+        {
+          "texto": "Deve ser feito junto a toda restauração cervical, para reduzir a falha dessas restaurações no tempo.",
+          "correta": false,
+          "justificativa": "O artigo diz que o ajuste oclusal foi proposto para prevenir a lesão e reduzir a falha de restaurações cervicais, mas que sua eficácia não é sustentada por evidência; no resumo, restauração e ajuste oclusal não são indicados para prevenir a progressão da abfração.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Ajuste oclusal e placas oclusais; Resumo"
+        },
+        {
+          "texto": "Não há evidência de eficácia, e o ajuste inadequado pode aumentar o risco de cárie e de desgaste.",
+          "correta": true,
+          "justificativa": "É o que o artigo diz na seção sobre ajuste oclusal.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Ajuste oclusal"
+        },
+        {
+          "texto": "É a primeira escolha quando há bruxismo noturno, antes de qualquer outra medida, inclusive placas.",
+          "correta": false,
+          "justificativa": "Para bruxismo noturno o artigo cita as placas, e diz que também para elas não há evidência que sustente o uso.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Placas oclusais"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Ajuste oclusal",
+      "secao": "acompanhar",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um paciente com LCNC relata sensibilidade ao frio e ao ar. Segundo o Nascimento, o que vem antes da restauração?",
+      "alternativas": [
+        {
+          "texto": "Tratamento não invasivo, como dessensibilizante ou verniz de flúor.",
+          "correta": true,
+          "justificativa": "O artigo só admite restaurar por hipersensibilidade quando o tratamento não invasivo falhar.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Hipersensibilidade"
+        },
+        {
+          "texto": "Restauração imediata, que elimina a sensibilidade de forma previsível.",
+          "correta": false,
+          "justificativa": "Num relato citado, 20% a 30% das LCNC restauradas tiveram aumento de sensibilidade aos 6 meses; e o artigo só admite restaurar por hipersensibilidade quando o tratamento não invasivo falha.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Hipersensibilidade"
+        },
+        {
+          "texto": "Laser, que tem eficácia clínica comprovada para esse fim.",
+          "correta": false,
+          "justificativa": "O artigo diz que a eficácia clínica dos lasers é incerta.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Hipersensibilidade"
+        },
+        {
+          "texto": "Nenhuma conduta, porque a sensibilidade nunca regride com o tempo.",
+          "correta": false,
+          "justificativa": "O artigo diz que a sensibilidade pode ser temporária no início da LCNC e diminuir com a remineralização da dentina; se persistir, trata-se.",
+          "fonte": "nascimento2016",
+          "onde": "Tratamento, Hipersensibilidade"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Tratamento, Hipersensibilidade",
+      "secao": "hipersensibilidade",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Segundo o Baratieri (cap. 12), quando o tratamento restaurador da lesão não cariosa Classe V é indicado?",
+      "alternativas": [
+        {
+          "texto": "Somente quando há hipersensibilidade, mesmo antes de qualquer terapia não invasiva ter sido tentada.",
+          "correta": false,
+          "justificativa": "A p. 242 lista também o comprometimento estético, biológico ou funcional.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 242"
+        },
+        {
+          "texto": "Com comprometimento estético, biológico ou funcional, ou hipersensibilidade sem resposta à terapia não invasiva.",
+          "correta": true,
+          "justificativa": "São as duas indicações descritas na p. 242.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 242"
+        },
+        {
+          "texto": "Em qualquer lesão cervical, para controlar os fatores etiológicos e impedir a progressão da lesão.",
+          "correta": false,
+          "justificativa": "Pela p. 242, os fatores etiológicos são diagnosticados e controlados antes da restauração; a indicação de restaurar é outra.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 242"
+        },
+        {
+          "texto": "Quando a lesão passa de 2 mm de profundidade, qualquer que seja o quadro clínico do paciente.",
+          "correta": false,
+          "justificativa": "A p. 242 lista outras indicações (comprometimento estético, biológico ou funcional; hipersensibilidade que não responde à terapia não invasiva). Os 2 mm aparecem nos índices do Nascimento, não nessa lista.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 242"
+        }
+      ],
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 242",
+      "secao": "baratieri-indicacao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Qual a vantagem do compósito na restauração Classe V não cariosa, segundo o Baratieri?",
+      "alternativas": [
+        {
+          "texto": "Exige retenções macromecânicas, como as restaurações não adesivas em geral.",
+          "correta": false,
+          "justificativa": "Pela p. 244, as retenções macromecânicas são obrigatórias nas restaurações não adesivas e o compósito as dispensa.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 244"
+        },
+        {
+          "texto": "Dispensa o isolamento do campo operatório durante a restauração.",
+          "correta": false,
+          "justificativa": "A p. 242 manda isolar o campo de forma absoluta, de preferência com grampos retratores.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 242"
+        },
+        {
+          "texto": "Pede desgaste prévio adicional para dar forma e retenção à cavidade.",
+          "correta": false,
+          "justificativa": "A p. 244 diz que o procedimento se restringe, basicamente, a repor a estrutura perdida, sem desgaste prévio adicional.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 244"
+        },
+        {
+          "texto": "Por ser adesivo, basta repor a estrutura, sem retenções macromecânicas.",
+          "correta": true,
+          "justificativa": "É a vantagem descrita na p. 244.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 244"
+        }
+      ],
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 244",
+      "secao": "baratieri-isolamento-adesivo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Como o Baratieri orienta a inserção do compósito na cavidade cervical?",
+      "alternativas": [
+        {
+          "texto": "Pequenos incrementos, primeiro na margem cervical e depois na oclusal.",
+          "correta": true,
+          "justificativa": "A p. 245 descreve essa sequência para reduzir o estresse da contração de polimerização.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 245"
+        },
+        {
+          "texto": "Um único incremento volumoso, fotoativado de uma só vez, para ganhar tempo.",
+          "correta": false,
+          "justificativa": "A p. 245 pede pequenos incrementos, adaptados em sequência.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 245"
+        },
+        {
+          "texto": "Primeiro na margem oclusal e depois na cervical, em pequenos incrementos.",
+          "correta": false,
+          "justificativa": "A ordem descrita na p. 245 é a inversa: cervical primeiro.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 245"
+        },
+        {
+          "texto": "Massa de dentina em toda lesão, mesmo superficial, para melhorar a estética.",
+          "correta": false,
+          "justificativa": "A p. 245 diz que massas com características de dentina só são necessárias nas lesões mais profundas; nas superficiais, em geral basta compósito tipo esmalte.",
+          "fonte": "baratieri2010",
+          "onde": "cap. 12, p. 245"
+        }
+      ],
+      "fonte": "baratieri2010",
+      "onde": "cap. 12, p. 245",
+      "secao": "baratieri-resina",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "O que o resumo de Goodacre et al. (2023) diz sobre o tratamento das LCNC?",
+      "alternativas": [
+        {
+          "texto": "Restaurar assim que a lesão é diagnosticada, para impedir a progressão.",
+          "correta": false,
+          "justificativa": "O resumo diz que o tratamento é conservador, por prevenção, com a restauração adiada o máximo possível.",
+          "fonte": "goodacre2023",
+          "onde": "Resumo (PubMed)"
+        },
+        {
+          "texto": "É conservador, por prevenção, com restauração adiada o máximo possível.",
+          "correta": true,
+          "justificativa": "É o que o resumo afirma sobre o tratamento.",
+          "fonte": "goodacre2023",
+          "onde": "Resumo (PubMed)"
+        },
+        {
+          "texto": "Os fatores oclusais têm associação comprovada em todos os estudos.",
+          "correta": false,
+          "justificativa": "O resumo diz que alguns estudos associam fatores oclusais à prevalência e outros não.",
+          "fonte": "goodacre2023",
+          "onde": "Resumo (PubMed)"
+        },
+        {
+          "texto": "A abfração é um conceito aceito sem publicações contrárias.",
+          "correta": false,
+          "justificativa": "O resumo diz que há publicações a favor e contra o conceito de abfração.",
+          "fonte": "goodacre2023",
+          "onde": "Resumo (PubMed)"
+        }
+      ],
+      "fonte": "goodacre2023",
+      "onde": "Resumo (PubMed)",
+      "secao": "goodacre",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Sobre a teoria da abfração, o que o Nascimento conclui?",
+      "alternativas": [
+        {
+          "texto": "Foi comprovada por estudos clínicos de oclusão.",
+          "correta": false,
+          "justificativa": "O artigo diz que a evidência de associação entre fatores oclusais e LCNC é fraca e que a teoria ainda não está comprovada.",
+          "fonte": "nascimento2016",
+          "onde": "Teoria da abfração"
+        },
+        {
+          "texto": "Todo paciente com desgaste oclusal tem LCNC.",
+          "correta": false,
+          "justificativa": "O artigo diz que nem todo paciente com desgaste oclusal tem LCNC.",
+          "fonte": "nascimento2016",
+          "onde": "Teoria da abfração"
+        },
+        {
+          "texto": "Ainda não está comprovada, e a LCNC não deve ser atribuída a um só mecanismo.",
+          "correta": true,
+          "justificativa": "São duas afirmações do artigo: a conclusão da seção da teoria e a etiologia multifatorial na Introdução.",
+          "fonte": "nascimento2016",
+          "onde": "Teoria da abfração; Introdução"
+        },
+        {
+          "texto": "Explica a lesão apenas quando há desgaste oclusal, e nunca com erosão associada.",
+          "correta": false,
+          "justificativa": "O artigo diz que a abfração pode vir junto de desgaste patológico, como abrasão e erosão.",
+          "fonte": "nascimento2016",
+          "onde": "Resumo"
+        }
+      ],
+      "fonte": "nascimento2016",
+      "onde": "Teoria da abfração; Introdução",
+      "secao": "etiologia",
+      "figura": null
+    }
+  ]
+}

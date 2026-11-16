@@ -63,8 +63,8 @@
       "id": "outros",
       "titulo": "Outros que entram no diferencial",
       "fonte": "neville5-cap12",
-      "onde": "cap. 12, Fibroma de células gigantes, p. 503–504; Malformações linfáticas (linfangioma; higroma cístico), p. 539–541; Tumor de células granulares, p. 531–532",
-      "texto": "**Fibroma de células gigantes**\n- Neoplasia que, ao contrário do fibroma comum, não parece ligada à irritação crônica.\n- Nódulo sem sintomas, séssil ou pediculado, em geral **menor que 1 cm**, com superfície **papilar**: por isso pode ser confundido com papiloma.\n- Mais em jovens (cerca de 60% nas três primeiras décadas). Cerca de 50% na **gengiva**, a inferior duas vezes mais que a superior; língua e palato também.\n- O traço microscópico: fibroblastos grandes, estrelados, com vários núcleos, perto da superfície.\n- Conduta: excisão conservadora; recorrência rara.\n- **Papila retrocanina:** pápula rosa, menor que 5 mm, muitas vezes bilateral, na gengiva lingual do canino inferior. É variação anatômica normal, comum em jovens, que some com a idade. Reconheça: ela **não precisa ser removida**.\n\n**Malformação linfática (linfangioma)**\n- Cerca de metade é notada ao nascer e 90% aparecem até os 2 anos; 50 a 75% ficam na cabeça e pescoço.\n- Na boca, o local mais comum são os **dois terços anteriores da língua**, onde pode causar macroglossia (língua aumentada).\n- Superfície pedregosa, como um grupo de **vesículas translúcidas** (\"ovos de rã\"); algumas ficam arroxeadas por sangramento.\n- Lesão pequena sem prejuízo pode ser só acompanhada; a recorrência após cirurgia é comum nas microcísticas da boca.\n\n**Tumor de células granulares**\n- Neoplasia benigna incomum, mais na boca que na pele. A **língua** responde por um terço a metade dos casos, mais no dorso.\n- Nódulo séssil, sem sintomas, em geral até 2 cm, rosado ou às vezes amarelado. Mais da 4ª à 6ª década; mulheres 3:1.\n- Conduta: excisão local conservadora; recidiva incomum."
+      "onde": "cap. 12, Fibroma de células gigantes, p. 503–504; Malformações linfáticas (linfangioma; higroma cístico), p. 539–541; Tumor de células granulares, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 531–532",
+      "texto": "**Fibroma de células gigantes**\n- Neoplasia que, ao contrário do fibroma comum, não parece ligada à irritação crônica.\n- Nódulo sem sintomas, séssil ou pediculado, em geral **menor que 1 cm**, com superfície **papilar**: por isso pode ser confundido com papiloma.\n- Mais em jovens (cerca de 60% nas três primeiras décadas). Cerca de 50% na **gengiva**, a inferior duas vezes mais que a superior; língua e palato também.\n- O traço microscópico: fibroblastos grandes, estrelados, com vários núcleos, perto da superfície.\n- Conduta: excisão conservadora; recorrência rara.\n- **Papila retrocanina:** pápula rosa, menor que 5 mm, muitas vezes bilateral, na gengiva lingual do canino inferior. É variação anatômica normal, comum em jovens, que some com a idade. Reconheça: ela **não precisa ser removida**.\n\n**Malformação linfática (linfangioma)**\n- Cerca de metade é notada ao nascer e 90% aparecem até os 2 anos; 50 a 75% ficam na cabeça e pescoço.\n- Na boca, o local mais comum são os **dois terços anteriores da língua**, onde pode causar macroglossia (língua aumentada).\n- Superfície pedregosa, como um grupo de **vesículas translúcidas** (\"ovos de rã\"); algumas ficam arroxeadas por sangramento.\n- Lesão pequena sem prejuízo pode ser só acompanhada; a recorrência após cirurgia é comum nas microcísticas da boca.\n\n**Tumor de células granulares**\n- Neoplasia benigna incomum, mais na boca que na pele. A **língua** responde por um terço a metade dos casos, mais no dorso.\n- Nódulo séssil, sem sintomas, em geral até 2 cm, rosado ou às vezes amarelado. Mais da 4ª à 6ª década; mulheres 3:1.\n- **Alerta ao microscópio:** a **hiperplasia pseudoepiteliomatosa** do epitélio de superfície, relatada em mais de 50% dos casos, às vezes é tão marcante que leva a diagnóstico errôneo de carcinoma espinocelular e a cirurgia de câncer desnecessária; o patologista deve ter isso em mente, sobretudo em biópsia pequena e superficial ou do dorso da língua.\n- Conduta: excisão local conservadora; recidiva incomum."
     },
     {
       "id": "comparacao",
@@ -458,39 +458,39 @@
     },
     {
       "id": "q08",
-      "enunciado": "Paciente de 18 anos tem radiolucidez multilocular na mandíbula, sem diagnóstico, com mobilidade dentária e sangramento pelo sulco gengival na região. O que fazer antes de uma biopsia?",
+      "enunciado": "Menina de 1 ano tem aumento de volume nos dois terços anteriores da língua, notado ao nascimento, com superfície pedregosa que lembra um grupo de vesículas translúcidas. Qual é o diagnóstico mais provável?",
       "fonte": "neville5-cap12",
-      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas (Malformações vasculares intraósseas) e Tratamento e prognóstico, p. 533–537",
-      "secao": "malformacoes",
+      "onde": "cap. 12, Malformações linfáticas (linfangioma; higroma cístico), Características clínicas, p. 539–541",
+      "secao": "outros",
       "figura": null,
       "alternativas": [
         {
-          "texto": "Extrair o dente móvel e curetar a loja para obter material",
+          "texto": "Papiloma escamoso",
           "correta": false,
-          "justificativa": "O livro relata hemorragias graves e até fatais após extrações dentárias na área de malformações vasculares intraósseas.",
-          "fonte": "neville5-cap12",
-          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+          "justificativa": "O papiloma é um nódulo exofítico, em geral solitário e pediculado, com projeções em forma de dedo que dão aspecto de couve-flor, e cresce em geral até cerca de 0,5 cm (há relatos de lesões de até 3,0 cm); o quadro descrito, de superfície pedregosa com vesículas translúcidas, é o que o livro descreve na malformação linfática.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
         },
         {
-          "texto": "Fazer biopsia incisional direta, sem preparo adicional",
-          "correta": false,
-          "justificativa": "Biopsia incisional direta nessas lesões já causou hemorragias graves; o livro pede uma precaução antes.",
-          "fonte": "neville5-cap12",
-          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
-        },
-        {
-          "texto": "Indicar escleroterapia antes de saber o diagnóstico",
-          "correta": false,
-          "justificativa": "A escleroterapia é tratamento de malformação venosa já reconhecida, não um passo diagnóstico para lesão intraóssea sem diagnóstico.",
-          "fonte": "neville5-cap12",
-          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
-        },
-        {
-          "texto": "Fazer aspiração com agulha para excluir malformação vascular",
+          "texto": "Malformação linfática (linfangioma)",
           "correta": true,
-          "justificativa": "Mobilidade e sangramento pelo sulco podem ocorrer na malformação vascular intraóssea; a aspiração com agulha antes da biopsia é a precaução indicada pelo livro.",
+          "justificativa": "Os dois terços anteriores da língua são o local mais comum na boca, e a superfície pedregosa, semelhante a um grupo de vesículas translúcidas (\"ovos de rã\"), é o aspecto descrito pelo livro; cerca de metade dos casos é notada ao nascimento.",
           "fonte": "neville5-cap12",
-          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+          "onde": "cap. 12, Malformações linfáticas (linfangioma; higroma cístico), Características clínicas, p. 539–541"
+        },
+        {
+          "texto": "Lipoma",
+          "correta": false,
+          "justificativa": "O lipoma é um nódulo liso, macio e amarelado, e a maioria dos casos ocorre a partir dos 40 anos; o livro o descreve como incomum em criança.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, Características clínicas, p. 517–518"
+        },
+        {
+          "texto": "Tumor de células granulares",
+          "correta": false,
+          "justificativa": "O tumor de células granulares é um nódulo séssil, assintomático, rosado ou às vezes amarelado, mais da 4ª à 6ª década e raro em crianças.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Tumor de células granulares, Características clínicas, p. 531–532"
         }
       ]
     },

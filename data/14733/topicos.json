@@ -15,7 +15,7 @@
       "area": "Periodontia",
       "resumoCurto": "Como fechar o diagnóstico pela classificação de 2018: critérios de caso, os quatro estágios, os três graus e a extensão.",
       "status": "em-revisao",
-      "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple, Berglundh, Herrera) e Carranza 13ª ed."
+      "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple)"
     },
     {
       "slug": "lesoes-periodontais-agudas-e-endo-perio",
@@ -86,8 +86,8 @@
       "titulo": "Traumatismo dentário: fraturas coronárias e avulsão",
       "area": "Endodontia",
       "resumoCurto": "Fraturas de esmalte e dentina e a conduta na avulsão de dente permanente.",
-      "status": "em-breve",
-      "origem": "Livros-texto e seminários (a preparar)"
+      "status": "em-revisao",
+      "origem": "IADT 2020, partes 1 e 2 (tradução oficial em português)"
     },
     {
       "slug": "carie-profunda-remocao-seletiva-e-protecao-pulpar",
@@ -102,16 +102,16 @@
       "titulo": "Remoção seletiva de tecido cariado: critérios e evidência",
       "area": "Dentística e reabilitação",
       "resumoCurto": "Até onde remover na cárie profunda: remoção seletiva × completa, remoção em etapas e critérios para a dentina.",
-      "status": "em-breve",
-      "origem": "A preparar: livros-texto de dentística e consensos sobre remoção seletiva (a definir)"
+      "status": "em-revisao",
+      "origem": "Consenso ICCC, Schwendicke et al. 2016 (Adv Dent Res)"
     },
     {
       "slug": "risco-de-carie-adequacao-do-meio-e-carie-radicular",
       "titulo": "Risco de cárie, adequação do meio e cárie radicular",
       "area": "Dentística e reabilitação",
-      "resumoCurto": "Avaliação de risco, adequação do meio bucal e escolha do material na cárie radicular.",
-      "status": "em-breve",
-      "origem": "Livros-texto e seminários (a preparar)"
+      "resumoCurto": "O que a avaliação de risco consegue prever, o semáforo odontológico, o controle não operatório da doença com flúor, a cárie radicular e os idosos debilitados, segundo o Fejerskov, com o Cariologia (Série Abeno) ao lado.",
+      "status": "em-revisao",
+      "origem": "Fejerskov e Nyvad 4ª ed., caps. 4, 10, 15, 16 e 19; Maltz et al. (Série Abeno) 2016, caps. 6 e 7"
     },
     {
       "slug": "resina-direta-posterior",
@@ -133,9 +133,9 @@
       "slug": "lesoes-cervicais-nao-cariosas",
       "titulo": "Lesões cervicais não cariosas: diagnóstico e conduta",
       "area": "Dentística e reabilitação",
-      "resumoCurto": "Etiologia multifatorial, hipersensibilidade e quando restaurar ou acompanhar.",
-      "status": "em-breve",
-      "origem": "Livros-texto e seminários (a preparar)"
+      "resumoCurto": "Erosão (biocorrosão), abfração e outras lesões cervicais: etiologia, quando acompanhar, quando restaurar e a técnica em resina, segundo Nascimento, Goodacre (resumo) e Baratieri.",
+      "status": "em-revisao",
+      "origem": "Nascimento et al. 2016; Goodacre et al. 2023 (resumo); Baratieri vol. 1, caps. 1, 2 e 12"
     },
     {
       "slug": "preparos-parciais-e-cobertura-de-cuspide",
@@ -157,9 +157,9 @@
       "slug": "plano-de-tratamento-integrado",
       "titulo": "Plano de tratamento integrado: ordem das fases",
       "area": "Integrado",
-      "resumoCurto": "Da urgência à manutenção: a ordem das fases e quando a prótese espera o periodonto.",
-      "status": "em-breve",
-      "origem": "Livros-texto e seminários (a preparar)"
+      "resumoCurto": "As fases do plano e a ordem dentro de cada uma, pelo Stefanac e pelo Lindhe, com o Carranza e o Pegoraro ao lado.",
+      "status": "em-revisao",
+      "origem": "Stefanac 3ª ed., cap. 4; Newman e Carranza 13ª ed., caps. 69 e 72; Lindhe 7ª ed., cap. 25; Pegoraro 2ª ed., cap. 1"
     },
     {
       "slug": "interface-restauracao-periodonto",
@@ -173,49 +173,49 @@
       "slug": "fotografia-clinica-com-celular",
       "titulo": "Fotografia clínica com celular",
       "area": "Integrado",
-      "resumoCurto": "Termo e LGPD, kit mínimo, as 6 tomadas do protocolo, erros comuns e padronização do antes/depois.",
-      "status": "em-breve",
-      "origem": "Aula 02 — Prof. Pedro (texto de estudo)"
+      "resumoCurto": "Para que serve a fotografia na clínica, a técnica com câmera reflex (abertura, velocidade, ISO, balanço de branco, acessórios e tomadas), o que um estudo mediu com celular e câmera profissional, e as regras da Resolução CFO-196/2019 e da LGPD sobre imagem do paciente.",
+      "status": "em-revisao",
+      "origem": "Casaglia 2015; Moussa 2021; Rocha e Trigueiro, cap. 2, em Cordon, Laganá e Sesma 2015; Resolução CFO-196/2019; Lei nº 13.709/2018 (LGPD)"
     },
     {
       "slug": "cimentacao-de-restauracoes-indiretas",
       "titulo": "Cimentação: convencional × adesiva, tratamento da superfície da peça",
       "area": "Prótese",
-      "resumoCurto": "Fecha o ciclo das parciais e coroas (temas 14 e 15); cada cerâmica pede um protocolo",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Cimento convencional ou resinoso: indicações, preparo do dente e da peça (metal, cerâmica, zircônia) e a técnica de assentar e remover excessos, em dois livros-texto.",
+      "status": "em-revisao",
+      "origem": "Pegoraro 2ª ed., cap. 12; Shillingburg 4ª ed., cap. 21"
     },
     {
       "slug": "clareamento-dental",
       "titulo": "Clareamento caseiro e de consultório; dente desvitalizado",
       "area": "Dentística",
-      "resumoCurto": "Demanda frequente do paciente da clínica; sensibilidade e sequência antes de restaurar anterior",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Clareamento caseiro, de consultório e combinado: agentes e concentrações, proteção dos tecidos, sensibilidade e dente despolpado (tampão cervical, walking bleach, inside/outside), segundo o Mondelli.",
+      "status": "em-revisao",
+      "origem": "Mondelli, Dentística Operatória e Restauradora, 1ª ed., cap. 38"
     },
     {
       "slug": "deteccao-e-diagnostico-de-carie",
       "titulo": "Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão",
       "area": "Dentística",
-      "resumoCurto": "É o primeiro passo antes de qualquer decisão de remoção seletiva (tema 9) e de risco (tema 10)",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Como detectar e estadiar a lesão (inspeção visual com ICDAS, radiografia interproximal) e avaliar se está ativa: consenso ORCA-EFCD ao lado do Cariologia.",
+      "status": "em-revisao",
+      "origem": "ORCA-EFCD 2024, Paper I e Paper II; Maltz et al. (Série Abeno) 2016, cap. 6"
     },
     {
       "slug": "oclusao-na-clinica-restauradora",
       "titulo": "Oclusão na clínica restauradora: contatos, guias e ajuste das restaurações",
       "area": "Prótese",
-      "resumoCurto": "Toda restauração e coroa termina em ajuste oclusal",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Contatos, guias e posição mandibular ao restaurar: o que o Okeson, o Pegoraro e o Shillingburg pedem e como ajustar a restauração na boca.",
+      "status": "em-revisao",
+      "origem": "Okeson 8ª ed., caps. 5 e 20; Pegoraro 2ª ed., caps. 2 e 11; Shillingburg 4ª ed., caps. 2 e 21"
     },
     {
       "slug": "qualidade-do-tratamento-endodontico",
       "titulo": "Controle radiográfico de qualidade da obturação e selamento coronário",
       "area": "Endodontia",
-      "resumoCurto": "O aluno precisa julgar se a endo do próprio paciente está pronta para receber a restauração",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "O que a radiografia mostra e não mostra da obturação, os números de limite apical lado a lado, o selamento coronário e o que a metanálise de Gillen mediu.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., caps. 9 e 10; Gillen et al. 2011"
     }
   ]
 }

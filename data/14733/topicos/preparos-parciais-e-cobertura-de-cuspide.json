@@ -86,7 +86,7 @@
   },
   {
    "id": "caso-e-frases",
-   "titulo": "O caso que abre e fecha a aula, e as seis frases",
+   "titulo": "Os dois casos e as seis frases",
    "fonte": "pegoraro2013",
    "onde": "cap. 4, p. 127",
    "texto": "**Caso 1.** Paciente de cerca de 40 anos, molar inferior com restauração de amálgama MOD grande e cúspide vestibular fraturada mastigando; vital, sem dor. \"Doutor, vai ter que fazer coroa?\"\n\nCúspide fraturada não é sinônimo de coroa: é **parede a reforçar, não casa a demolir**. O Pegoraro indica o preparo tipo onlay justamente para fratura de cúspide e restauração extensa (p. 127). O degrau é **onlay** (ou overlay, na nomenclatura adesiva). A revisão sistemática de **Michaud e Dort (2024)** comparou onlay e coroa em dentes com perda MOD: só três estudos, sem metanálise, e os autores concluem que a evidência é **insuficiente**. Mas, nos três, a falha da coroa foi mais vezes **não restaurável**: falhas recuperáveis de 100%, 73% e 100% com onlay, contra 67%, 7% e 0% com coroa (Tabela 3, p. 298). Cuidado ao transpor: os três estudos foram em **pré-molares tratados endodonticamente**, e o caso 1 é um molar vital; o dado ajuda a pensar, não prova o caso.\n\n**Caso 2.** Foto de onlay de cerâmica (Felizardo, 2009): cavidade ampla, crista marginal perdida. O degrau é **onlay**. Cúspide que parece inteira não é parede que aguenta: a extensão da cavidade decide. O Mondelli indica o onlay para lesão extensa, em que a MOD chegaria a 1/2 da distância vestíbulo-lingual ou mais (cap. 33), e o Pegoraro, para restauração extensa (p. 127); a cúspide com menos de 2 mm é outro gatilho (Mondelli, cap. 21).\n\n**As seis frases para levar**\n\n1. Cúspide é parede mestra: cobre quando está fraca, não quando está inteira.\n2. A escala vai de reboco a demolição; o remanescente escolhe o degrau, não o hábito.\n3. Parcial aderido retém sobretudo por adesão: pede esmalte e ângulos suaves.\n4. Coroa total é o teto, não o padrão.\n5. Endo antes de coroa é indicação, não rotina. Pino retém núcleo; não reforça.\n6. Sem férula, nenhum pino salva."
@@ -606,7 +606,7 @@
   },
   {
    "id": "q11",
-   "enunciado": "Caso 2 da aula: foto de um onlay de cerâmica (Felizardo, 2009). A cavidade é ampla e a crista marginal foi perdida; as cúspides parecem inteiras. Qual é o degrau indicado?",
+   "enunciado": "Caso 2: foto de um onlay de cerâmica (Felizardo, 2009). A cavidade é ampla e a crista marginal foi perdida; as cúspides parecem inteiras. Qual é o degrau indicado?",
    "alternativas": [
     {
      "texto": "Inlay, porque as cúspides parecem inteiras.",
