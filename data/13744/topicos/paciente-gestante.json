@@ -1,0 +1,642 @@
+{
+  "slug": "paciente-gestante",
+  "titulo": "Gestante: trimestre ideal, radiografia, anestésicos e medicamentos seguros",
+  "area": "Pacientes Especiais",
+  "origem": "Little e Falace 9ª ed., cap. 17; Andrade (Terapêutica Medicamentosa) 3ª ed., cap. 17; Varellis (manual) 3ª ed., cap. 14",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lf9-cap17",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 17, Women's Health Issues, seção Pregnancy, p. 288–298.",
+      "curta": "Little e Falace 9ª ed., cap. 17"
+    },
+    {
+      "id": "andrade3-cap17",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 17, Gestantes ou lactantes, p. 164–174.",
+      "curta": "Andrade 3ª ed., cap. 17"
+    },
+    {
+      "id": "varellis3-cap14",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 14, Gestantes, p. 115–128 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 14"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "lf-fisiologia",
+      "titulo": "Little e Falace: quem é a paciente e o que muda no corpo",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288–289",
+      "texto": "**Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., a base do tema.** Os números daqui são deles.\n\nO atendimento de rotina da gestante é em geral seguro. Os dois elementos que o livro aponta como potencialmente nocivos são a **radiação ionizante** e os **medicamentos**. O dentista pesa o benefício do tratamento contra a exposição evitável de mãe e feto.\n\n**O que muda na paciente e pesa na cadeira**\n- **Sintomas por trimestre:** 1º, fadiga, tendência a síncope e hipotensão postural; 2º, bem-estar; 3º, mais fadiga e desconforto.\n- **Circulação:** o volume de sangue sobe 40 a 50% e o débito cardíaco 30 a 50%, mas os glóbulos vermelhos sobem só 15 a 20%, e o hematócrito cai. A pressão arterial costuma cair no 2º trimestre (em geral ≤ 100/70 mm Hg), com leve aumento no último mês.\n- **Sopro:** sopro sistólico ejetivo benigno em mais de 90% das gestantes. Sopro anterior à gestação, ou que persiste após o parto, pede avaliação.\n- **Hipotensão supina (fim da gestação):** deitada de costas, o útero comprime a veia cava inferior e vêm queda abrupta da pressão, bradicardia, suor, náusea, fraqueza e falta de ar. A conduta é virar a paciente para o **lado esquerdo**, o que tira o útero da veia cava; a pressão volta rápido.\n- **Respiração:** o diafragma sobe, e a dispneia piora de costas.\n- **Sangue:** vários fatores de coagulação aumentam (estado de hipercoagulabilidade), mas tempo de protrombina e TTPa ficam dentro dos limites de não grávidas. Os leucócitos quase dobram no termo, o que pode atrapalhar a leitura do hemograma numa infecção.\n- **Enjoo matinal:** até 70% das gestações, começa em geral entre a 4ª e a 8ª semana e melhora antes da 16ª. Vômito extremo pode causar erosão dentária.\n\n**Feto:** a organogênese ocorre no 1º trimestre, quando a suscetibilidade a malformação é maior; depois é crescimento e maturação. A dentição continua suscetível a toxinas, radiação e à descoloração por tetraciclina."
+    },
+    {
+      "id": "lf-avaliacao",
+      "titulo": "Little e Falace: anamnese, pressão e quando chamar o médico",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Box 17.1, p. 289–290",
+      "texto": "**Fonte: Little e Falace (EUA).** O livro diz que suas recomendações são diretrizes gerais, \"não regras imutáveis\".\n\n**Anamnese:** médico atual, medicamentos, tabaco, álcool e drogas ilícitas, e história de diabetes gestacional, aborto espontâneo, hipertensão e enjoo matinal. Se preciso, consulte o obstetra, sobretudo para certos medicamentos. A gestação é carregada de emoção: abertura, honestidade e confiança reduzem o estresse de ambos.\n\n**Sinais vitais:** no mínimo pressão arterial e pulso.\n- Sistólica ≥ 140 mm Hg e diastólica ≥ 90 mm Hg são sinais de hipertensão.\n- Preocupa um aumento de 30 mm ou mais na sistólica (o livro escreve \"30 mm\", sem unidade) ou de 15 mm Hg ou mais na diastólica, sobre os valores de antes da gestação, porque pode indicar **pré-eclâmpsia**.\n- Valores hipertensivos confirmados: **encaminhe ao médico** para diagnóstico e manejo.\n\n**Pré-eclâmpsia:** hipertensão com proteinúria, edema e visão turva. Evolui para **eclâmpsia**, condição de risco de vida, se surgem convulsões ou coma.\n\n**Diabetes gestacional:** ocorre em 2 a 6% das gestantes e aumenta o risco de infecção e de bebês grandes.\n\n**Aborto espontâneo:** ocorre em cerca de 15% das gestações, antes da 20ª semana, e suas causas mais comuns são anormalidades morfológicas ou cromossômicas. É muito improvável que um procedimento odontológico seja a causa, desde que se evitem hipóxia fetal e exposição a teratógenos. Doença febril e sepse também podem precipitar aborto; por isso o livro aconselha tratar logo a infecção odontogênica e a periodontite.\n\n**Resumo do Box 17.1:**\n- Sangramento: sem problemas.\n- Cadeira: no 3º trimestre pode não tolerar a posição supina.\n- Radiografias: só as necessárias, com avental de chumbo e protetor de tireoide.\n- Retorno: dentes limpos durante a gestação e orientação para não pôr o bebê para dormir com mamadeira."
+    },
+    {
+      "id": "lf-epoca",
+      "titulo": "Little e Falace: qual trimestre e como organizar a sessão",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291; Treatment Planning Modifications, p. 297; Antibiotics and Oral Contraceptives, p. 296",
+      "texto": "**Fonte: Little e Falace (EUA).**\n\nFora o controle de placa, o tratamento eletivo é melhor evitado no **1º trimestre**, pela possível vulnerabilidade do feto. O **2º trimestre** é o período mais seguro para o atendimento de rotina; a ênfase é controlar doença ativa e eliminar problemas que poderiam surgir mais adiante ou no pós-parto imediato, quando o atendimento costuma ser difícil. O início do 3º trimestre ainda é bom.\n\n| | 1º trimestre | 2º trimestre | 3º trimestre |\n|---|---|---|---|\n| Controle de placa, instrução de higiene, raspagem, polimento e curetagem | sim | sim | sim |\n| Demais atendimentos | evitar o eletivo, só urgência | rotina | rotina |\n\n**O livro diz duas coisas sobre o 3º trimestre:** a Tabela 17.1 põe atendimento de rotina em todo o trimestre; o texto da mesma página diz que, depois da metade do 3º trimestre, o eletivo é melhor adiado pelo desconforto crescente. O livro não concilia os dois.\n\n**Na cadeira:**\n- Evite tempo prolongado na cadeira por causa da hipotensão supina; consultas curtas, posição semirreclinada e trocas frequentes de posição ajudam. Se a hipotensão ocorrer, role a paciente para o lado esquerdo.\n- Nenhuma modificação técnica é necessária na gestante. Radiografias de boca toda, reconstruções, coroas e pontes e cirurgias importantes ficam melhor para depois do parto. Reflexo de vômito acentuado também pode levar a adiar certos procedimentos.\n- Infecção aguda: trate, independentemente do estágio da gestação.\n- Amálgama: em 2009 a FDA (EUA) concluiu que os dados existentes, embora limitados, não sugerem risco ao feto pelo vapor de mercúrio do amálgama. O livro lembra que vários países europeus e o Canadá têm recomendações nacionais para limitar ou evitar colocar e trocar amálgama na gestação."
+    },
+    {
+      "id": "lf-radiografia",
+      "titulo": "Little e Falace: radiografia na gestante",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, Tabela 17.2, p. 291–294",
+      "texto": "**Fonte: Little e Falace (EUA).** Área controversa: gestantes costumam temer o efeito dos raios X no bebê, e na quase totalidade dos casos o medo é infundado.\n\n**Segurança:** está bem estabelecida com exposição rápida (filme de alta velocidade ou imagem digital), filtração, colimação, avental de chumbo e protetor de tireoide. Os recursos mais importantes são o **avental de chumbo e o protetor de tireoide**. Exposição da tireoide materna acima de 0,4 mGy foi associada a leve redução do peso ao nascer.\n\n**Quando pedir:** evite a radiação ionizante se possível, sobretudo no 1º trimestre. A AAP e o ACOG (EUA) dizem que exame radiológico diagnóstico na gestação só se a informação for necessária ao cuidado e não puder ser obtida de outro modo. Use a radiografia de forma seletiva; interproximal, panorâmica ou periapicais selecionadas minimizam a dose.\n\n**Limiar de dose:** o NCRP (EUA) concluiu que exposições abaixo de **5 cGy (5 rad)** não se associam a aumento de malformações. Dados animais e humanos sustentam que, somando menos de 5 cGy na gestação, não há aumento de anomalias grosseiras nem de restrição de crescimento intrauterino. Unidades: 1 Gy = 100 rad, logo 1 cGy = 1 rad.\n\n**Idade gestacional:** na organogênese (do fim da 2ª à 8ª semana) o feto é extremamente sensível; o sistema nervoso central, sobretudo da 8ª à 15ª semana. Depois da 25ª semana, malformação maior é altamente improvável.\n\n**Tabela 17.2 do livro (dose efetiva, em µSv):**\n- interproximais posteriores, colimação retangular: 5;\n- boca toda, colimação retangular, PSP ou F-speed: 35;\n- boca toda, colimação redonda, D-speed: 388;\n- panorâmica: 9 a 24;\n- TC de feixe cônico de campo pequeno: 19 a 652.\n\nO texto diz que a tabela é \"em cGy\", mas ela está em µSv; o livro não explica.\n\n**Exemplo para a paciente:** duas periapicais com avental de chumbo dão dose gonadal ou fetal 700 vezes menor que 1 dia de radiação natural de fundo nos EUA."
+    },
+    {
+      "id": "lf-fda",
+      "titulo": "Little e Falace: categorias de risco da FDA e a rotulagem de 2015",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294; Fig. 17.2, p. 296",
+      "texto": "**Fonte: Little e Falace (EUA).** As categorias abaixo são da **FDA, agência norte-americana**; é o vocabulário que o livro usa, não uma regra brasileira.\n\n**As cinco categorias, segundo o livro:**\n- **A:** estudos controlados em humanos não mostraram risco ao feto e o dano parece remoto.\n- **B:** estudos em animais não indicaram risco e não há estudos em humanos; ou animais mostraram risco, mas estudos controlados em humanos não.\n- **C:** estudos em animais mostraram risco, mas não há estudos controlados em humanos, ou não há estudos em humanos nem em animais.\n- **D:** há evidência de risco fetal humano, mas em certas situações o fármaco pode ser usado apesar do risco.\n- **X:** evidência de anormalidade e risco fetal pela experiência humana, e o risco supera qualquer benefício na gestação.\n\n**Como o livro as usa:** A ou B são as preferíveis para prescrever. Muitos fármacos comuns em odontologia caem na C, e a segurança é muitas vezes incerta; a C é a que mais dificulta as decisões terapêuticas e medicolegais, e pode ser preciso consultar o médico. O médico pode desaconselhar um fármaco aprovado ou sugerir um duvidoso, porque as categorias são orientações gerais e podem ser incompletas. O livro dá o exemplo de um analgésico narcótico de categoria C usado ocasionalmente em gestante com dor intensa.\n\n**Os dois lados no próprio livro:**\n- **Texto (p. 293):** em 2008 a FDA anunciou a eliminação do sistema, por inadequações, mas segundo o livro o sistema original ainda estava em vigor. A Tabela 17.3 usa as categorias A a X.\n- **Fig. 17.2 (p. 296):** mostra a rotulagem da FDA de 2015, com vigência em 30 de junho de 2015. Ao lado das seções da rotulagem atual (8.1 Gestação, 8.2 Trabalho de parto e parto, 8.3 Mães lactantes), traz as da nova: 8.1 Gestação (incluindo trabalho de parto e parto), 8.2 Lactação e 8.3 Mulheres e homens com potencial reprodutivo.\n\nO livro não explica como as duas convivem. As letras A a X são o vocabulário do texto e da Tabela 17.3."
+    },
+    {
+      "id": "lf-anestesia-analgesia",
+      "titulo": "Little e Falace: anestésicos locais e analgésicos",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Box 17.1, p. 290; p. 294–295; Tabela 17.3",
+      "texto": "**Fonte: Little e Falace (EUA).** As letras entre parênteses são as categorias da FDA da Tabela 17.3.\n\n**Anestésicos locais:** lidocaína (B) e prilocaína (B) com epinefrina são em geral seguras. Articaína (C), bupivacaína (C) e mepivacaína (C) são tipicamente seguras, com alguma cautela. Anestésico e vasoconstritor atravessam a placenta, mas doses abaixo do limiar tóxico não causaram anormalidade fetal; **não exceda a dose máxima recomendada pelo fabricante**.\n\n**Anestésicos tópicos:** lidocaína tópica (B), sem problema. Benzocaína (C) e tetracaína (C), com cautela. Diclonina: o texto diz \"aceitável, com cautela\", e a Tabela 17.3 diz sim para gestação e amamentação; o livro não concilia.\n\n**Analgésicos**\n- **Acetaminofeno (paracetamol), B:** o de escolha na gestação.\n- **Aspirina (C/D) e anti-inflamatórios não esteroides (ibuprofeno C/D):** riscos de constrição do ducto arterioso, hemorragia pós-parto e trabalho de parto prolongado. Pela Tabela 17.3, aspirina (C/D): evitar; ibuprofeno (C/D, que o livro usa como representante de todos os anti-inflamatórios não esteroides): evitar o uso no 3º trimestre. O texto da p. 294 diz evitar (sobretudo no 3º trimestre) ou usar com cautela; o risco também é maior com uso prolongado e dose alta.\n- **Glicocorticoides (C):** evitar na gestação; a nota da tabela diz que corticoide oral não deve ser negado a quem tem asma aguda grave.\n- **Opioides:** a maioria, incluindo codeína (C), associa-se a defeitos congênitos; cautela e só se necessário. A segurança de hidrocodona (C) e oxicodona (B) é incerta: o texto diz evitar ou usar com cautela, e a tabela diz \"usar com cautela\"; o livro registra os dois.\n\n**Em combinações** (por exemplo oxicodona com acetaminofeno), vale o risco do componente de maior risco.\n\n**No Box 17.1:** os anestésicos locais usuais com vasoconstritor são seguros se a dose recomendada não for excedida; evite todos os fármacos, se possível; se necessários, prefira categoria A ou B."
+    },
+    {
+      "id": "lf-antibioticos-sedacao",
+      "titulo": "Little e Falace: antibióticos, anticoncepcional e sedação",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, Anxiolytics, Tabela 17.3, Box 17.2, p. 295–297",
+      "texto": "**Fonte: Little e Falace (EUA).**\n\n**Antibióticos seguros:** penicilinas (inclusive amoxicilina), cefalosporinas, metronidazol, clindamicina e eritromicina (exceto na forma estolato). Na tabela: azitromicina, cefalexina, clindamicina, metronidazol e penicilina são B; claritromicina é C, a evitar ou usar com cautela.\n\n**Contraindicados:** tetraciclina e doxiciclina (D). Ligam-se à hidroxiapatita e causam descoloração marrom dos dentes, esmalte hipoplásico e inibição do crescimento ósseo.\n\n**Infecção aguda:** trate, independentemente do estágio da gestação.\n\n**Dose:** a gestante deve receber a dose adulta plena, pelo tempo usual do tratamento, e as infecções graves devem ser tratadas de forma agressiva. O livro usa esquemas de dose maior porque a eliminação é mais rápida, pelo aumento da filtração glomerular; o exemplo dele é cefalexina 500 mg três vezes ao dia, em vez de 250 mg três vezes ao dia.\n\n**Antibiótico e anticoncepcional oral:** a preocupação vem da rifampicina; para os demais antibióticos os estudos foram menos convincentes. A ADA (EUA) recomenda: avisar a mulher do risco potencial de menor eficácia do anticoncepcional; sugerir que converse com o médico sobre método adicional não hormonal; e aconselhar que mantenha o anticoncepcional durante o antibiótico.\n\n**Ansiolíticos:** poucos são seguros. Benzodiazepínicos (D/X) devem ser evitados. Para zaleplon e zolpidem (C) o livro diz duas coisas: o texto manda evitar, e a Tabela 17.3 marca \"usar com cautela\" na gestação; o livro não concilia.\n\n**Óxido nitroso e oxigênio:**\n- exposição única e curta, **por menos de 35 minutos**, não foi associada a anomalia fetal humana (p. 296);\n- orientações da p. 297: inalação reduzida a **30 minutos**, no mínimo **50% de oxigênio**, sem exposições repetidas e prolongadas, de preferência no 2º e 3º trimestres;\n- o livro traz 35 e 30 minutos em páginas diferentes e não os concilia.\n\n**Para a equipe grávida:** exaustão (scavenging) e as medidas do Box 17.2. A exposição crônica a mais de 3 horas por semana, sem exaustão, foi associada a menor fertilidade e mais aborto espontâneo."
+    },
+    {
+      "id": "lf-lactacao",
+      "titulo": "Little e Falace: lactação",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, Tabela 17.3, p. 295–297",
+      "texto": "**Fonte: Little e Falace (EUA).**\n\n**O que o livro diz sobre o leite:** a quantidade de fármaco excretada no leite em geral não passa de cerca de **1 a 2% da dose materna**, então a maioria tem pouca importância farmacológica para o lactente. A AAP (EUA) conclui que a maioria dos fármacos prováveis de serem prescritos à lactante não deve afetar o suprimento de leite nem o bem-estar do bebê. O livro diz que os dados definitivos sobre doses e efeitos são limitados.\n\n**Poucos são contraindicados:** lítio, anticancerígenos, radiofármacos e fenindiona.\n\n**Como reduzir a exposição:** a lactante pode tomar o fármaco logo após amamentar e, se possível, evitar amamentar por 4 horas ou mais.\n\n**Tabela 17.3 (adaptada da AAP), coluna da amamentação:**\n- sim: acetaminofeno, ibuprofeno, codeína, amoxicilina, azitromicina, cefalexina, clindamicina, penicilina, lidocaína, prilocaína, epinefrina;\n- cautela: hidrocodona, oxicodona, claritromicina, eritromicina, articaína, benzocaína, tetracaína;\n- evitar: aspirina, doxiciclina, tetraciclina, benzodiazepínicos, difenidramina e metronidazol (que também pode dar gosto desagradável ao leite).\n\n**Notas da tabela:** na amamentação, evite doses de aspirina acima de 100 mg, pelo risco de disfunção plaquetária e síndrome de Reye. O antibiótico pode alterar a flora intestinal e causar diarreia no bebê; se o lactente tiver febre, o clínico deve considerar o antibiótico materno. A tabela pode ser modificada pelo médico e vale só como orientação geral."
+    },
+    {
+      "id": "lf-bucal",
+      "titulo": "Little e Falace: boca da gestante e prevenção",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Preventive Program, p. 290–291; Pathophysiology, p. 289; Oral Complications and Manifestations, p. 297–298",
+      "texto": "**Fonte: Little e Falace (EUA).**\n\n**Prevenção:** ensine, reforce e monitore a higiene bucal durante toda a gestação, inclusive no 1º trimestre. Oriente a limitar carboidratos refinados e refrigerantes. Raspagem, polimento e curetagem entram sempre que necessário. Clorexidina 0,12% pode ser usada com segurança, se preciso. A saliva materna é o principal veículo de transmissão de estreptococos cariogênicos ao bebê.\n\n**Periodontite e desfecho da gestação:** revisões recentes, segundo o livro, não sustentam que a periodontite aumente pré-eclâmpsia, parto prematuro ou baixo peso.\n\n**Flúor pré-natal:** benefício controverso. Um ensaio randomizado com 798 crianças acompanhadas por 5 anos não achou benefício significativo contra placebo, e em 2001 o CDC (EUA) disse faltar evidência para recomendá-lo.\n\n**Gengivite da gestação:** começa na gengiva marginal e interdental, em geral no 2º mês, e evolui para papilas vermelho-vivas, edemaciadas e dolorosas à palpação. O livro a atribui a resposta inflamatória exagerada a irritantes locais, higiene menos meticulosa e mudança hormonal.\n\n**Tumor da gestação:** em cerca de 1% das gestantes a hiperplasia forma um granuloma piogênico, mais comum na face labial da papila interdental, em geral assintomático e sangrante ao trauma da escovação. Após o parto, com higiene e remoção de cálculo, os tecidos regridem; excisão cirúrgica ou a laser só ocasionalmente, se houver sintomas, sangramento ou interferência na mastigação.\n\n**Doença periodontal:** na p. 289 o livro diz que não há evidência de que a gestação cause ou acelere a doença periodontal; na p. 298, que a gestação não a causa, mas pode modificar e piorar a existente.\n\n**Cárie:** o livro diz em uma página que não há evidência de que a gestação cause ou acelere cárie, e em outra que a incidência de cárie aumenta e, na sequência, que a relação com a fisiologia da gestação não foi demonstrada. Atribui a atividade de cárie a bactérias, carboidratos fermentáveis e má higiene.\n\n**Mitos:** o cálcio dos dentes não passa para a circulação, então não se justifica suplementá-lo para evitar perda de dentes (\"um dente por gestação\"). Mobilidade dentária é achado incomum e sinal de doença gengival ou do aparelho de inserção.\n\n**Vômito:** oriente a enxaguar após a regurgitação com solução que neutralize o ácido, como bicarbonato de sódio e água."
+    },
+    {
+      "id": "andrade-conduta",
+      "titulo": "Andrade: quando atender, trimestre, posição e radiografia",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, abertura (página sem número impresso visível); Época de atendimento, Horários e duração, Exame radiográfico, p. 164–166",
+      "texto": "**Fonte desta seção: Andrade (org.), Terapêutica Medicamentosa em Odontologia, 3ª ed., cap. 17.** Os números daqui são do Andrade, nas unidades dele (na radiação, mGy; o Little e Falace usa cGy, rad e µSv).\n\n**Antes de tudo:** na consulta inicial, considere toda mulher em idade fértil como grávida, \"até que se prove o contrário\". Muitos dentistas adiam o tratamento para depois do parto, e com isso um problema simples se agrava na gestação. A gestante pode questionar radiografia, anestesia local e qualquer medicamento; o livro sugere o check-up odontológico dentro do pré-natal.\n\n**O que pode ser feito:** todo tratamento essencial, incluindo exodontias não complicadas, periodontia básica, restaurações, endodontia e próteses. Reabilitações oclusais extensas e cirurgias mais invasivas ficam para o pós-parto. Procure o médico responsável pela gestação para trocar informações e avaliar risco e benefício dos medicamentos.\n\n**Trimestres, segundo o Andrade:**\n- **1º:** não é adequado; enjoos à menor provocação e maior vulnerabilidade do feto, com mais abortos espontâneos.\n- **2º:** \"melhor época\"; organogênese completa e mãe mais confortável. O único perigo é a hipotensão postural, se tratada em posição supina e levantada de forma brusca.\n- **3º, nas últimas semanas:** não é o ideal para tratamento prolongado (urinar mais, hipotensão postural, inchaço nas pernas e desconforto em posição supina).\n- O eletivo deve ser evitado \"nas primeiras 12 semanas de gestação e ao final dela\".\n- **Urgência** (pulpite, abscesso): não se adia em período nenhum, porque dor e infecção podem ser mais danosas à mãe e ao feto que o tratamento.\n\n**Sessão:** curta, de preferência na segunda metade da manhã (menos enjoo). A partir do 6º mês o feto pode comprimir veias abdominais; antes de a paciente levantar, deixe-a sentada ou de lado (de preferência o esquerdo) por alguns minutos. Nas últimas semanas, atenda semi-inclinada, não supina.\n\n**Radiografia:** com avental de chumbo e colar cervical, a periapical dá ao feto cerca de 0,0001 mGy, com filme ultrarrápido. O livro cita o NCRP (EUA): o feto pode receber até 50 mGy sem dano. Use exposição rápida, filtração, colimação e evite repetição."
+    },
+    {
+      "id": "andrade-anestesia-sedacao",
+      "titulo": "Andrade: anestésico local, prilocaína e sedação",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Sedação mínima, Anestesia local, Prilocaína e o risco de metemoglobinemia, Quadro 17.1 (segundo), p. 166–169",
+      "texto": "**Fonte: Andrade, cap. 17.** O livro usa o mesmo número 17.1 para dois quadros; o do protocolo de anestesia é o da p. 169.\n\n**Escolha da solução:** o consenso é usar a que dê a melhor anestesia à gestante, de preferência com vasoconstritor, que retarda a absorção, prolonga o efeito e reduz o risco de toxicidade à mãe e ao feto. Todos os anestésicos atravessam a placenta por difusão passiva.\n- **Lidocaína:** preferida; a metabolização hepática da mepivacaína é 2 a 3 vezes mais lenta que a da lidocaína, e o fígado fetal é imaturo.\n- **Bupivacaína:** a ligação proteica é alta (95%), mas a longa duração limita o uso.\n- **Articaína:** pelas características farmacocinéticas parece reunir as condições ideais, mas faltam evidências clínicas para confirmar.\n- **Prilocaína:** atravessa a placenta mais rápido; em dose excessiva causa metemoglobinemia na grávida ou no feto, e a anemia comum na gestação aumenta a suscetibilidade. Use com precaução.\n\n**Felipressina:** no Brasil, a prilocaína odontológica vem com felipressina, que tem semelhança estrutural com a ocitocina. Não há evidência de contração uterina nas doses habituais, mas é preferível evitar essas soluções na gestação.\n\n**Protocolo do livro (Quadro 17.1, p. 169):**\n- **Eletivos:** no 2º trimestre; lidocaína 2% com epinefrina 1:100.000 ou 1:200.000.\n- **Urgências (dor ou infecção):** em qualquer período; a mesma lidocaína na gestação normal, na história de anemia e na diabética ou hipertensa controlada.\n- **Urgências, hipertensão não controlada:** prilocaína 3% com felipressina ou mepivacaína 3% sem vasoconstritor, avaliando risco e benefício do atendimento ambulatorial com o médico. Com anemia associada: mepivacaína 3% sem vasoconstritor.\n- **Volume máximo, qualquer solução:** o de dois tubetes (3,6 mL) por sessão, injeção lenta e aspiração negativa.\n\nO livro traz os dois lados: o texto manda evitar a felipressina, e o quadro a lista para a hipertensa não controlada.\n\n**Sedação:** na paciente ansiosa, comece pela tranquilização verbal. Benzodiazepínicos são categoria D; o livro cita autores que associam o diazepam a fenda labial ou palatina e outros estudos que não acharam relação. Zaleplon, zolpidem e zopiclona (categoria C) seriam, segundo proposta recente, seguros, mas, se a sedação for imperativa, troque informações antes com o obstetra. Óxido nitroso e oxigênio: método seguro; limite de 30 minutos, pelo menos 50% de oxigênio, sem repetir e de preferência no 2º e 3º trimestres."
+    },
+    {
+      "id": "andrade-medicamentos",
+      "titulo": "Andrade: analgésico, anti-inflamatório e antibiótico",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Classificação do FDA, Quadro 17.1, p. 165; Controle da dor, Tratamento das infecções bacterianas, p. 169–170",
+      "texto": "**Fonte: Andrade, cap. 17.** As letras são as categorias de risco do **FDA (EUA)** que o livro usa no Quadro 17.1 (A, B, C, D e X). Ele diz que a placenta não é barreira, e sim uma \"peneira seletiva\": a maioria dos fármacos a atravessa por difusão passiva.\n\n**Dor:** quando o processo já está instalado, a principal conduta é remover a causa (por exemplo, pulpotomia ou pulpectomia na pulpite irreversível), o que muitas vezes basta.\n- **Paracetamol (B):** o de escolha em qualquer período. Doses de 500 a 750 mg, a cada 6 h, respeitando o limite máximo de três doses diárias, por tempo restrito; o livro traz as duas informações lado a lado e não indica a via.\n- **Dipirona (C):** estudos em Israel e no Brasil não acharam associação com malformação ou aborto, mas a bula recomenda não usar nos três primeiros meses, usar no 2º trimestre só após avaliação do médico e evitar nos três últimos meses.\n- **Opioides** (tramadol, codeína; C e D): evitar, pela associação com anomalias congênitas em altas doses ou uso prolongado e pela depressão respiratória.\n- **Aspirina e anti-inflamatórios não esteroides (C ou D):** evitar, sobretudo no último mês, pelo risco de trabalho de parto prolongado, sangramento, fechamento prematuro do ducto arterial e redução do fluxo renal.\n- **Corticoide, quando necessário:** dexametasona ou betametasona em dose única de 2 a 4 mg; há evidência de que corticoides (C) não são teratogênicos em humanos.\n\n**Infecção:** o mais importante é descontaminar o local (instrumentação periodontal ou dos canais, drenagem de abscesso). Antibiótico sistêmico complementa a descontaminação quando há sinais locais de disseminação (celulite, linfadenite, limitação da abertura bucal) e manifestações sistêmicas (febre, taquicardia, mal-estar geral).\n- **Primeira escolha:** penicilina V ou amoxicilina, nas doses habituais (B).\n- **Alergia à penicilina:** eritromicina de preferência na forma estearato, não estolato (mais hepatotóxico); clindamicina (B), reservada para alérgicas.\n- **Infecção mais avançada:** metronidazol (B) associado à amoxicilina.\n- **Azitromicina e claritromicina:** sem estudos adequados em grávidas.\n- **Tetraciclinas (D):** contraindicadas.\n\nTroque informações com o obstetra antes de usar antibacterianos como metronidazol e clindamicina."
+    },
+    {
+      "id": "andrade-periodontia-fluor",
+      "titulo": "Andrade: boca, pré-eclâmpsia e flúor",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Alterações na cavidade bucal, Perda dos dentes, p. 164; Doença periodontal na gestação, Uso do flúor, p. 170–172",
+      "texto": "**Fonte: Andrade, cap. 17.**\n\n**Gengivite gestacional:** o livro diz que ela não se diferencia da gengivite comum induzida por placa; deficiências nutricionais, imunodepressão transitória e descuido com a higiene são fatores associados, e o sangramento maior pode vir da vascularização aumentada do periodonto. O tratamento é periodontia básica, eliminação dos irritantes e motivação para a higiene.\n\n**Granuloma gravídico:** é o granuloma piogênico em gestante: lesão lobulada ou plana, pediculada, que pode surgir a partir do 3º mês, com aspecto de amora. O tratamento é a excisão cirúrgica com o tecido conjuntivo associado e a remoção de fatores etiológicos.\n\n**Mito:** o \"um dente por bebê\" não tem base científica; o livro cita um estudo de 1943 em que o conteúdo mineral da dentina não diminuiu.\n\n**Doença periodontal e a gestação, os dois lados do livro:** o Andrade diz que, embora não totalmente comprovado, há evidências de que a doença periodontal na gravidez, junto com outros fatores, pode ser um risco significativo para nascimento prematuro e baixo peso, e que se demonstrou possível relação com a pré-eclâmpsia. (O Little e Falace, na seção \"Little e Falace: boca da gestante e prevenção\", traz a posição oposta.) A conduta que o Andrade tira disso: instruir e motivar a gestante a prevenir e tratar a doença periodontal.\n\n**Pré-eclâmpsia, segundo o Andrade:** costuma se instalar a partir da 20ª semana, sobretudo no 3º trimestre, com hipertensão, inchaço (principalmente dos membros inferiores), aumento exagerado de peso e proteinúria. Pode evoluir para eclâmpsia: convulsão, às vezes precedida de dor de cabeça, de estômago e perturbações visuais, sangramento vaginal e coma, com risco de vida da mãe e do feto.\n\n**Carta ao obstetra:** o livro traz um modelo para um caso hipotético de gestante no 2º trimestre com periodontite crônica e cirurgia de acesso: o dentista descreve o procedimento, diz que não pode ser adiado pelo risco de agudização, informa lidocaína 2% com epinefrina 1:100.000 em pequenos volumes e paracetamol por no máximo 24 h, e coloca-se à disposição.\n\n**Flúor:** a eficácia pós-natal é bem estabelecida; durante a gestação, muito questionada. Segundo o FDA (EUA), não há evidência suficiente para prescrever suplemento. O livro diz que parece consensual que a suplementação na gestação não deve ser recomendada, mesmo com água fluoretada. O importante é ter flúor na boca da criança cedo, por bochecho ou dentifrício."
+    },
+    {
+      "id": "andrade-lactacao",
+      "titulo": "Andrade: lactação",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Uso de medicamentos durante a lactação, p. 172–173",
+      "texto": "**Fonte: Andrade, cap. 17.**\n\n**Ponto de partida:** o aleitamento traz benefícios nutricionais, imunológicos e afetivos. O medo do medicamento está entre as causas de abandono precoce, e muitos médicos preferem interromper a amamentação em vez de adequar a terapia. De modo geral, os fármacos considerados seguros na gravidez também o são na lactação; os anestésicos locais e a grande maioria dos medicamentos odontológicos passam em pequena quantidade ao leite e parecem não afetar o lactente em dose terapêutica.\n\n**Princípios do livro para a lactante:**\n- avalie a necessidade do fármaco e troque informações com o pediatra;\n- prefira fármacos já estudados e seguros para crianças (paracetamol em vez de ácido acetilsalicílico; penicilinas em vez de quinolonas);\n- prefira a forma pura, não a associação;\n- evite ação prolongada (midazolam em vez de diazepam na sedação oral; lidocaína em vez de bupivacaína);\n- programe o horário: a exposição do bebê diminui se a mãe usar o fármaco imediatamente antes ou depois de amamentar;\n- oriente a mãe a observar mudança de alimentação, de sono e problemas gastrintestinais do bebê.\n\n**Fármacos específicos:**\n- **Dipirona:** segura para dor leve a moderada, como o paracetamol. **Aspirina:** evitar, pela agregação plaquetária e pela síndrome de Reye.\n- **Ibuprofeno, diclofenaco e cetorolaco:** podem ser usados na dor e no edema mais intensos, assim como dexametasona e betametasona.\n- **Penicilinas, eritromicina e clindamicina:** passam ao leite em baixa concentração e a AAP (EUA) as considera compatíveis com o aleitamento; os riscos potenciais são alteração da microbiota (candidíase, diarreia), alergia ou sensibilização e interferência numa cultura se o bebê tiver febre.\n- **Metronidazol:** passa ao leite em maior concentração; 500 mg por dia, fracionados, por 3 dias, parece compatível. Fale antes com o pediatra.\n- **Diazepam:** pode se acumular no leite se usado de forma contínua, com letargia e perda de peso no bebê; o que o livro descreve não costuma ocorrer em dose única e eventual."
+    },
+    {
+      "id": "varellis-periodos",
+      "titulo": "Varellis: trimestres e conduta na cadeira",
+      "fonte": "varellis3-cap14",
+      "onde": "cap. 14, Gestantes, Fisiologia da gestação, p. 115; Cuidados necessários e Procedimentos por período gestacional, p. 122–123",
+      "texto": "**Fonte desta seção: manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed., cap. 14 (Gestantes).** É um manual de organizadora, não um clássico da área; o clássico do assunto, o Little e Falace (cap. 17), está nas seções anteriores. Os números são dele, e a numeração é a da edição digital, com fronteira entre páginas não confirmada.\n\n**Ideia central:** mãe e feto são dois pacientes. O livro cita que a literatura vai de contraindicar qualquer procedimento (exceto profilaxia e flúor) a avaliar a necessidade efetiva de tratamento, ponderando riscos e benefícios da não intervenção. Segundo ele, a gestante pode ser atendida em qualquer período, e o 2º trimestre é o mais indicado.\n\n**O manual traz os dois lados:** na p. 115 manda evitar o tratamento no 1º e no último trimestre; nas p. 122–123 lista os procedimentos de cada trimestre e diz que a gestante pode ser atendida em qualquer período. No 2º trimestre lista procedimentos cirúrgicos e, no mesmo trecho, manda evitar cirurgias eletivas. Não concilia.\n\n**Por trimestre, segundo o manual:**\n- **1º:** organogênese, feto mais suscetível a malformação e a aborto; procedimentos profilático-preventivos, eliminação de focos infecciosos locais e restauradores básicos; evitar medicamentos.\n- **2º:** profilaxia, procedimentos cirúrgicos, restauradores básicos e reabilitadores; é o melhor trimestre. O manual também manda evitar cirurgias eletivas, porque estresse e bacteriemia podem desencadear aborto.\n- **3º:** restauradores básicos, fluorterapia e controle terapêutico no início; a partir do meio, o feto pode comprimir a veia cava inferior (hipotensão supina), e há risco de anemia, hipertensão e eclâmpsia, além de desconforto na cadeira.\n\n**Cuidados na sessão:** sessões curtas e confortáveis, divisão dos procedimentos por trimestre, ação curativa junto da preventiva, educação em saúde e participação multiprofissional. **Posição:** almofada nas costas e barriga um pouco de lado, para evitar compressão da veia cava e hipotensão supina."
+    },
+    {
+      "id": "varellis-psicologico-puerperio",
+      "titulo": "Varellis: anamnese, fisiologia, aspectos psicológicos e puerpério",
+      "fonte": "varellis3-cap14",
+      "onde": "cap. 14, Gestantes, Mudanças fisiológicas, p. 117; Aspectos psicológicos, p. 119; Puerpério e Tratamento odontológico, p. 121–122",
+      "texto": "**Fonte: manual prático organizado por Varellis, cap. 14 (continuação).** Numeração da edição digital; fronteira entre páginas não confirmada.\n\n**Anamnese orientada:** interação com o ginecologista, histórico médico e de gestações anteriores, intercorrências, medicamentos antes e durante a gestação, estado psicológico e aceitação da gravidez. O manual propõe a reflexão de uma gestante com três abortos espontâneos prévios, em quarta gestação: o risco é culpar o tratamento, e a saída é individualizar, sem regra universal.\n\n**Mudanças fisiológicas, números do manual:** volume sanguíneo materno cerca de 30% maior; débito cardíaco 20 a 40% maior; hemoglobina cai por diluição (\"anemia fisiológica\"); coagulação e fibrinólise bastante alteradas; hipotensão em decúbito dorsal pela compressão da veia cava.\n\n**Aspectos psicológicos:** 1º trimestre, instabilidade emocional; 2º, o mais estável, com introspecção e aceitação; 3º, grande ansiedade (temor do parto e das novas responsabilidades). Conhecer essas fases ajuda a construir o vínculo de confiança.\n\n**Puerpério:** dura 3 semanas após o parto. Pode haver hipertensão persistente e febre puerperal (temperatura acima de 38 °C nos primeiros 14 dias). A psicose puerperal ocorre em 1:500 nascimentos e é diferente da depressão leve após o parto, com instinto suicida, depressão grave e manias; sentimentos negativos como choro persistente e falta de sono devem ser comunicados ao médico.\n\n**Na boca:** o manual liga a mobilidade dental ao hormônio relaxina no ligamento e cita pericoronarite em primigestas jovens."
+    },
+    {
+      "id": "varellis-radiacao",
+      "titulo": "Varellis: radiografia na gestante",
+      "fonte": "varellis3-cap14",
+      "onde": "cap. 14, Gestantes, Radiação, p. 118–119; Cuidados necessários, p. 122; Prevenção para o bebê, p. 128",
+      "texto": "**Fonte: manual prático organizado por Varellis, cap. 14.** Numeração da edição digital; fronteira entre páginas não confirmada.\n\n**Doses que o manual cita (atribuídas ao National Council of Radiologic Protection, órgão dos EUA, como o Little e Falace o identifica):**\n- uma dose de **50 mGy** oferece ao feto risco de dano desprezível;\n- com **100 mGy** o risco aumenta em 1:100 expostos;\n- para absorver essa dose, a gestante precisaria de seis tomografias computadorizadas da pelve;\n- outra referência do manual (British Columbia Ministry e Nuclear Regulatory Commission): a radiação absorvida pelo feto não deve exceder 5 rads.\n\n**Conduta:** avalie risco e benefício antes de qualquer exame e use a radiografia apenas quando necessária. Com indicação, use avental de chumbo e proteção cervical; o manual diz que, assim, o exame não é contraindicado. A radiografia digital é mais segura, por radiação menor que a das convencionais. A radiossensibilidade é maior nas células em mitose, com metabolismo aumentado e em estágios embrionários.\n\n**O manual traz os dois lados:** na p. 122, ao tratar dos cuidados, manda evitar radiografias no 1º trimestre (embriogênese) e usar o avental de chumbo em qualquer fase; na p. 119, diz que, com indicação e proteção, o exame não é contraindicado.\n\n**Períodos críticos para o dente e o resto do feto:** o manual cita o período crítico das duas primeiras semanas após a fertilização até o 60º dia (8 semanas, organogênese). A dentição decídua começa a formar-se a partir da 6ª semana e os permanentes a partir do 5º mês intrauterino; medicamentos, infecções e carências nutricionais podem alterar a formação e a mineralização."
+    },
+    {
+      "id": "varellis-medicamentos",
+      "titulo": "Varellis: anestésico local e medicamentos",
+      "fonte": "varellis3-cap14",
+      "onde": "cap. 14, Gestantes, Tabela 14.4, p. 120; Terapia medicamentosa, Tabelas 14.8 a 14.10, p. 125–127",
+      "texto": "**Fonte: manual prático organizado por Varellis, cap. 14.** A Tabela 14.8 é adaptada de Chisholm e Ferguson (2010), segundo o próprio livro. Numeração da edição digital; fronteira entre páginas não confirmada.\n\n**Princípios:** a barreira placentária não filtra por completo; use a menor dose efetiva pelo menor tempo, evite sessões demoradas e estressantes e oriente a paciente sem aumentar o medo.\n\n**Anestésico local:** o de eleição é a **lidocaína com vasoconstritor** (a 2%, com epinefrina ou norepinefrina), em seringa com aspiração; o vasoconstritor pode causar taquicardia e aumento da pressão, e a lidocaína, arritmias. O manual manda **evitar prilocaína e felipressina**, que descreve como tóxicas ao feto e ao recém-nascido, com risco de meta-hemoglobinemia (a prilocaína contém tolueno, e seu metabólito oxida o ferro da hemoglobina). Na Tabela 14.10, lidocaína e prilocaína aparecem como nível B, e bupivacaína e mepivacaína como nível C. O manual não concilia o texto com a Tabela 14.10.\n\n**Analgésicos e anti-inflamatórios:**\n- **Paracetamol:** 500 mg a cada 6 h; o de escolha (Tabela 14.8).\n- **Dipirona, com restrições:** 1 comprimido ou 35 gotas a cada 6 h.\n- **Ácido acetilsalicílico:** o texto (p. 127) diz que é contraindicado, pelo efeito sobre a coagulação; no último trimestre pode causar sangramento fetal e da mãe, prolongar a gestação e o parto. A Tabela 14.8 (p. 125) lista o ácido acetilsalicílico com \"evitar no 1º e no 3º trimestre e na amamentação\" e \"curtos períodos\". O manual não concilia o texto com a tabela.\n- **Diclofenaco:** o manual diz para não usar no último trimestre e, no mesmo trecho, para usar só com indicação formal e a menor posologia eficaz, sobretudo nos três últimos meses (inércia uterina, fechamento prematuro do canal arterial). Como alternativa, meios físicos: frio nas primeiras 2 h após o trauma ou calor local depois de 24 h.\n\n**Antibióticos:**\n- **Penicilinas:** 500 mg a cada 6 ou 8 h, conforme a gravidade (o texto agrupa nessa linha penicilinas e cefalosporinas; a via não vem). A penicilina V ou a amoxicilina podem ser usadas.\n- **Alergia:** o texto (p. 127) e a Tabela 14.4 indicam eritromicina (a tabela cita também clindamicina); mas a Tabela 14.8 diz para evitar a eritromicina por potencial hepatotoxicidade materna. A Tabela 14.4 diz que não há iatrogenias descritas. O manual não concilia.\n- **Cefalosporinas:** a Tabela 14.4 diz 1ª geração liberada e as demais a evitar por falta de estudos; a Tabela 14.8 lista a cefalosporina sem restrições. O manual não concilia.\n- **Tetraciclinas:** proibidas na gestação, pelo risco de pigmentação dentária, hipoplasia de esmalte e inibição do desenvolvimento ósseo. Cloranfenicol e estreptomicina são contraindicados."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Little e Falace, qual trimestre é o mais seguro para a rotina e o que se evita no 1º?",
+      "verso": "**2º trimestre.** No 1º evita-se o tratamento eletivo; controle de placa, instrução de higiene e raspagem entram em qualquer trimestre.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291"
+    },
+    {
+      "id": "f02",
+      "frente": "Gestante no fim da gestação, deitada de costas, com queda de pressão, suor e náusea. Conduta?",
+      "verso": "Hipotensão supina: o útero comprime a veia cava inferior. **Virar para o lado esquerdo**; a pressão volta rápido.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288"
+    },
+    {
+      "id": "f03",
+      "frente": "Segundo o Little e Falace, que aumento de pressão sobre o valor pré-gestação preocupa?",
+      "verso": "**30 mm ou mais na sistólica ou 15 mm Hg ou mais na diastólica**, pelo risco de pré-eclâmpsia. Valores hipertensivos confirmados: encaminhar ao médico.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual proteção o Little e Falace destaca como mais importante na radiografia da gestante?",
+      "verso": "**Avental de chumbo e protetor de tireoide.** Junto: exposição rápida, filtração e colimação.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 291–293"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o Little e Falace (NCRP, EUA), abaixo de que dose não há aumento de malformação?",
+      "verso": "**Abaixo de 5 cGy (5 rad)**, somando a gestação. Unidade do livro: 1 cGy = 1 rad.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 292"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo o Little e Falace, quais categorias de risco da FDA (EUA) são as preferíveis, e qual a mais difícil?",
+      "verso": "**A ou B** são as preferíveis; a **C** é a que mais dificulta a decisão, e pode exigir consulta ao médico.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294"
+    },
+    {
+      "id": "f07",
+      "frente": "O Little e Falace traz as categorias A a X da FDA e também a Fig. 17.2. O que a figura mostra?",
+      "verso": "A **rotulagem da FDA de 2015** (vigência em 30/6/2015), com seções 8.1 Gestação, 8.2 Lactação e 8.3 Mulheres e homens com potencial reprodutivo. O livro não explica como convive com as letras.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Fig. 17.2, p. 296"
+    },
+    {
+      "id": "f08",
+      "frente": "Analgésico de escolha na gestação segundo o Little e Falace, e o que se evita no 3º trimestre?",
+      "verso": "**Acetaminofeno (paracetamol).** Pela Tabela 17.3, aspirina: evitar; ibuprofeno: evitar no 3º trimestre.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295"
+    },
+    {
+      "id": "f09",
+      "frente": "Quais antibióticos o Little e Falace contraindica na gestação?",
+      "verso": "**Tetraciclina e doxiciclina**: descoloração marrom dos dentes, esmalte hipoplásico e inibição do crescimento ósseo.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, p. 295; Tabela 17.3, p. 295"
+    },
+    {
+      "id": "f10",
+      "frente": "Segundo o Little e Falace, quais as orientações do óxido nitroso na gestação (p. 297)?",
+      "verso": "Inalação de **30 minutos**, **pelo menos 50% de oxigênio**, sem exposições repetidas e prolongadas, de preferência no 2º e 3º trimestres.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Anxiolytics, p. 296–297"
+    },
+    {
+      "id": "f11",
+      "frente": "Quanto da dose materna passa para o leite, segundo o Little e Falace?",
+      "verso": "Em geral **no máximo cerca de 1 a 2%**; o fármaco pode ser tomado logo após amamentar.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, p. 297"
+    },
+    {
+      "id": "f12",
+      "frente": "O que é o tumor da gestação, segundo o Little e Falace?",
+      "verso": "Granuloma piogênico em **cerca de 1% das gestantes**, comum na face labial da papila interdental; regride após o parto com higiene e remoção de cálculo.",
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Oral Complications and Manifestations, p. 298"
+    },
+    {
+      "id": "f13",
+      "frente": "Urgência odontológica na gestante: segundo o Andrade, adia-se?",
+      "verso": "**Não.** Pulpite e abscesso devem ser tratados em qualquer período, porque dor e infecção podem ser mais danosas que o tratamento.",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Época de atendimento, p. 166"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Andrade, qual o volume máximo de anestésico por sessão na gestante?",
+      "verso": "**Dois tubetes (3,6 mL)**, em injeção lenta e após aspiração negativa.",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Andrade, qual a dose do paracetamol na gestante?",
+      "verso": "**500 a 750 mg, a cada 6 h, respeitando o limite máximo de três doses diárias**, por tempo restrito (categoria B). O livro traz as duas informações e não indica a via.",
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Controle da dor, Paracetamol, p. 169–170"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Gestante de 8 semanas, com controle de placa em dia, quer uma restauração eletiva por motivo estético. Segundo o Little e Falace, qual conduta?",
+      "alternativas": [
+        {
+          "texto": "Fazer a restauração de rotina agora, porque o 1º trimestre é o período mais seguro.",
+          "correta": false,
+          "justificativa": "O livro aponta o 2º trimestre como o mais seguro; no 1º o eletivo é melhor evitado.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291"
+        },
+        {
+          "texto": "Manter controle de placa, instrução de higiene e raspagem e deixar o eletivo para o 2º trimestre.",
+          "correta": true,
+          "justificativa": "O livro diz que, fora o controle de placa, o eletivo é melhor evitado no 1º trimestre, e que o 2º é o mais seguro; a Tabela 17.1 mantém higiene e raspagem em todos os trimestres.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291"
+        },
+        {
+          "texto": "Suspender também a instrução de higiene e a raspagem até depois do parto.",
+          "correta": false,
+          "justificativa": "A Tabela 17.1 marca sim para controle de placa, instrução de higiene e raspagem nos três trimestres.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291"
+        },
+        {
+          "texto": "Adiar tudo para a segunda metade do 3º trimestre, quando o atendimento é mais seguro.",
+          "correta": false,
+          "justificativa": "O texto diz que, depois da metade do 3º trimestre, o eletivo é melhor adiado pelo desconforto crescente.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, Dental Treatment Timing, Tabela 17.1, p. 291",
+      "secao": "lf-epoca",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Gestante de 36 semanas, deitada de costas na cadeira, refere falta de ar e fraqueza; a pressão medida caiu de forma abrupta, e ela está com suor e náusea. Qual conduta, segundo o Little e Falace?",
+      "alternativas": [
+        {
+          "texto": "Virar a paciente para o lado direito.",
+          "correta": false,
+          "justificativa": "O livro manda virar para o lado esquerdo, que tira o útero da veia cava inferior.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288"
+        },
+        {
+          "texto": "Manter a paciente deitada de costas até a pressão se normalizar.",
+          "correta": false,
+          "justificativa": "Em decúbito dorsal o útero comprime a veia cava inferior, causa do quadro; o livro indica tirar a paciente dessa posição.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288"
+        },
+        {
+          "texto": "Virar a paciente para o lado esquerdo e acompanhar a pressão, que volta rapidamente ao normal.",
+          "correta": true,
+          "justificativa": "O livro descreve a hipotensão supina do fim da gestação e a solução: virar para o lado esquerdo, o que tira o útero da veia cava; a pressão volta rápido.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288"
+        },
+        {
+          "texto": "Encaminhar com suspeita de pré-eclâmpsia, pela alteração da pressão.",
+          "correta": false,
+          "justificativa": "O quadro (queda abrupta da pressão, bradicardia, suor e náusea, deitada de costas no fim da gestação) é o da hipotensão supina, que se corrige virando para o lado esquerdo. A suspeita de pré-eclâmpsia, descrita na seção seguinte, parte de pressão elevada; aqui a pressão caiu.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288–289"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Pathophysiology and Complications, p. 288",
+      "secao": "lf-fisiologia",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Gestante de 28 semanas, cuja pressão antes da gestação era 108/68 mm Hg, tem 142/92 mm Hg em duas medidas no consultório. Segundo o Little e Falace, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Seguir o plano de tratamento e remedir só na consulta seguinte.",
+          "correta": false,
+          "justificativa": "O livro manda encaminhar ao médico quando os valores hipertensivos são confirmados, como aqui (≥ 140/90 mm Hg).",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290"
+        },
+        {
+          "texto": "Considerar normal, porque a pressão da gestante só preocupa quando a sistólica chega a 180 mm Hg.",
+          "correta": false,
+          "justificativa": "O livro dá sistólica ≥ 140 e diastólica ≥ 90 mm Hg como sinais de hipertensão na gestante.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290"
+        },
+        {
+          "texto": "Encaminhar ao médico, pois o aumento sobre o valor pré-gestação e o valor atual podem indicar pré-eclâmpsia.",
+          "correta": true,
+          "justificativa": "O valor passou de 140/90 mm Hg e o aumento foi de 34 mm na sistólica e 24 mm Hg na diastólica, acima de 30 e 15; o livro manda encaminhar o valor hipertensivo confirmado.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290"
+        },
+        {
+          "texto": "Suspender o anestésico com vasoconstritor, que é a causa do aumento.",
+          "correta": false,
+          "justificativa": "Pelo Box 17.1, os anestésicos locais usuais com vasoconstritor são seguros se a dose recomendada não for excedida, e a pressão elevada é tratada como possível sinal de pré-eclâmpsia.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Management, p. 290",
+      "secao": "lf-avaliacao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Gestante de 10 semanas, com dor em um molar, precisa de uma radiografia periapical para o diagnóstico. Qual conduta, segundo o Little e Falace?",
+      "alternativas": [
+        {
+          "texto": "Fazer a periapical, com avental de chumbo, protetor de tireoide, colimação e exposição rápida, por ser necessária ao diagnóstico.",
+          "correta": true,
+          "justificativa": "O livro diz que a segurança está bem estabelecida com essas medidas e que, de todas, o avental de chumbo e o protetor de tireoide são os mais importantes.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 291–293"
+        },
+        {
+          "texto": "Recusar qualquer radiografia até o 2º trimestre, porque a exposição odontológica passa de 5 cGy.",
+          "correta": false,
+          "justificativa": "O limiar do livro é abaixo de 5 cGy sem aumento de malformação; no exemplo dado à paciente, duas periapicais com avental de chumbo dão dose gonadal ou fetal 700 vezes menor que 1 dia de radiação natural de fundo.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 292–293"
+        },
+        {
+          "texto": "Fazer a radiografia dispensando o protetor de tireoide, pois o avental de chumbo basta.",
+          "correta": false,
+          "justificativa": "O livro destaca avental e protetor de tireoide juntos como os mais importantes, e liga exposição da tireoide acima de 0,4 mGy a leve queda do peso ao nascer.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 291–293"
+        },
+        {
+          "texto": "Pedir tomografia de feixe cônico de campo grande no lugar da periapical, por emitir menos radiação.",
+          "correta": false,
+          "justificativa": "O livro manda usar a radiografia de forma seletiva e diz que interproximal, panorâmica ou periapicais selecionadas minimizam a dose; na Tabela 17.2 a tomografia de campo grande vai de 68 a 1073 µSv, contra 5 µSv das interproximais e 35 µSv da boca toda com colimação retangular.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, Tabela 17.2, p. 292–293"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Dental Radiographs, p. 291–293",
+      "secao": "lf-radiografia",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Segundo o Little e Falace, qual afirmação sobre as categorias de risco na gestação da FDA (EUA) está de acordo com o capítulo?",
+      "alternativas": [
+        {
+          "texto": "A categoria A indica estudos só em animais, sem estudos em humanos.",
+          "correta": false,
+          "justificativa": "O livro define A como estudos controlados em humanos sem demonstração de risco ao feto.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294"
+        },
+        {
+          "texto": "A categoria D não admite o uso do fármaco em nenhuma situação.",
+          "correta": false,
+          "justificativa": "O livro diz que, na D, em certas situações o fármaco pode ser usado apesar do risco.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294"
+        },
+        {
+          "texto": "A categoria X admite o uso em situação de risco de vida, como a D.",
+          "correta": false,
+          "justificativa": "O livro diz que, na X, o risco supera qualquer benefício possível na gestação.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294"
+        },
+        {
+          "texto": "A e B são as preferíveis; a C, onde caem muitos fármacos de uso odontológico, é a que mais dificulta a decisão.",
+          "correta": true,
+          "justificativa": "O livro diz que A ou B são preferíveis e que a C é a que mais dificulta decisões terapêuticas e medicolegais, podendo exigir consulta ao médico.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, p. 293–294",
+      "secao": "lf-fda",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Gestante de 33 semanas, com dor após procedimento, pede o ibuprofeno que já usava. Segundo o Little e Falace, qual o analgésico indicado?",
+      "alternativas": [
+        {
+          "texto": "Ibuprofeno em dose baixa, pois os anti-inflamatórios são seguros no 3º trimestre.",
+          "correta": false,
+          "justificativa": "O livro diz que aspirina e anti-inflamatórios trazem risco de constrição do ducto arterioso, hemorragia pós-parto e trabalho de parto prolongado, e a Tabela 17.3 manda evitar o ibuprofeno no 3º trimestre.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Hidrocodona, considerada de segurança estabelecida.",
+          "correta": false,
+          "justificativa": "O livro diz que a segurança de hidrocodona e oxicodona é incerta.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Aspirina, por ser categoria B.",
+          "correta": false,
+          "justificativa": "A Tabela 17.3 dá à aspirina categoria C/D e a manda evitar.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Acetaminofeno (paracetamol), o analgésico de escolha na gestação.",
+          "correta": true,
+          "justificativa": "O livro o indica como o de escolha, categoria B; a Tabela 17.3 manda evitar a aspirina e o ibuprofeno no 3º trimestre.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Analgesics, p. 294; Tabela 17.3, p. 295",
+      "secao": "lf-anestesia-analgesia",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Gestante de 22 semanas, sem alergias, com abscesso e celulite, precisa de antibiótico. Segundo o Little e Falace, qual a escolha?",
+      "alternativas": [
+        {
+          "texto": "Doxiciclina, pela boa penetração em infecção bucal.",
+          "correta": false,
+          "justificativa": "O livro contraindica a doxiciclina, como a tetraciclina (categoria D, descoloração dos dentes e inibição do crescimento ósseo).",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, p. 295; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Amoxicilina, em dose adulta plena e pelo tempo usual do tratamento.",
+          "correta": true,
+          "justificativa": "O livro considera as penicilinas, inclusive a amoxicilina, em geral seguras, e manda dar à gestante a dose adulta plena e tratar de forma agressiva as infecções graves.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, p. 295; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Claritromicina, sem restrições.",
+          "correta": false,
+          "justificativa": "O livro manda evitar a claritromicina ou usar com cautela (categoria C).",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, p. 295; Tabela 17.3, p. 295"
+        },
+        {
+          "texto": "Nenhum antibiótico: adiar a infecção para o pós-parto.",
+          "correta": false,
+          "justificativa": "O livro diz para tratar a infecção aguda independentemente do estágio da gestação.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics and Oral Contraceptives, p. 296"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Drug Administration, Antibiotics, p. 295; Tabela 17.3, p. 295",
+      "secao": "lf-antibioticos-sedacao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Lactante com infecção odontogênica receberá um antibiótico. Segundo o Little e Falace, qual orientação sobre o fármaco e o leite?",
+      "alternativas": [
+        {
+          "texto": "A quantidade no leite costuma passar de 10 a 20% da dose materna, então se deve suspender a amamentação.",
+          "correta": false,
+          "justificativa": "O livro diz que a quantidade excretada no leite em geral não passa de cerca de 1 a 2% da dose materna.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, p. 297"
+        },
+        {
+          "texto": "Em geral, não passa de cerca de 1 a 2% da dose materna; a mãe pode tomar logo após amamentar e, se possível, esperar 4 horas ou mais para amamentar de novo.",
+          "correta": true,
+          "justificativa": "O livro dá a faixa de 1 a 2% e essas duas medidas para reduzir a concentração no leite.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, p. 297"
+        },
+        {
+          "texto": "Os anticancerígenos e o lítio são considerados seguros, mas os antibióticos não.",
+          "correta": false,
+          "justificativa": "O livro lista lítio, anticancerígenos, radiofármacos e fenindiona como contraindicados na lactação.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, p. 297"
+        },
+        {
+          "texto": "Todo antibiótico é contraindicado durante a amamentação.",
+          "correta": false,
+          "justificativa": "A Tabela 17.3 dá sim para amoxicilina, azitromicina, cefalexina, clindamicina e penicilina na amamentação.",
+          "fonte": "lf9-cap17",
+          "onde": "cap. 17, Women's Health Issues, Pregnancy, Tabela 17.3, p. 295"
+        }
+      ],
+      "fonte": "lf9-cap17",
+      "onde": "cap. 17, Women's Health Issues, Pregnancy, Nursing, p. 297",
+      "secao": "lf-lactacao",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o Andrade, gestante normotensa, sem anemia, no 2º trimestre, precisa de um procedimento eletivo sob anestesia local. Qual a solução e o volume máximo por sessão?",
+      "alternativas": [
+        {
+          "texto": "Lidocaína 2% com epinefrina 1:100.000 ou 1:200.000, no máximo dois tubetes (3,6 mL), em injeção lenta e após aspiração negativa.",
+          "correta": true,
+          "justificativa": "O protocolo do livro indica a lidocaína 2% com epinefrina nos eletivos, no 2º trimestre, com volume máximo de dois tubetes (3,6 mL).",
+          "fonte": "andrade3-cap17",
+          "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169"
+        },
+        {
+          "texto": "Lidocaína 2% com epinefrina 1:100.000, até quatro tubetes (7,2 mL).",
+          "correta": false,
+          "justificativa": "O volume máximo do protocolo é o de dois tubetes (3,6 mL) por sessão.",
+          "fonte": "andrade3-cap17",
+          "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169"
+        },
+        {
+          "texto": "Prilocaína 3% com felipressina, no máximo dois tubetes (3,6 mL).",
+          "correta": false,
+          "justificativa": "O livro prefere evitar a felipressina na gestação e a lista só para a hipertensa não controlada; a paciente do enunciado é normotensa.",
+          "fonte": "andrade3-cap17",
+          "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169"
+        },
+        {
+          "texto": "Mepivacaína 3% sem vasoconstritor, no máximo dois tubetes (3,6 mL).",
+          "correta": false,
+          "justificativa": "O livro a indica na hipertensão não controlada; a metabolização da mepivacaína é 2 a 3 vezes mais lenta que a da lidocaína, daí a preferência pela lidocaína.",
+          "fonte": "andrade3-cap17",
+          "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169"
+        }
+      ],
+      "fonte": "andrade3-cap17",
+      "onde": "cap. 17, Gestantes ou lactantes, Anestesia local, Quadro 17.1 (protocolo), p. 167–169",
+      "secao": "andrade-anestesia-sedacao",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o manual organizado por Varellis (cap. 14), qual o analgésico e antipirético de escolha na gestante?",
+      "alternativas": [
+        {
+          "texto": "Ácido acetilsalicílico, em curtos períodos.",
+          "correta": false,
+          "justificativa": "O manual não dá o ácido acetilsalicílico como analgésico de escolha: o texto o diz contraindicado (efeito sobre a coagulação; no último trimestre, sangramento fetal e da mãe, gestação e parto prolongados), e a Tabela 14.8 manda evitá-lo no 1º e no 3º trimestre. O de escolha, pela tabela, é o paracetamol.",
+          "fonte": "varellis3-cap14",
+          "onde": "cap. 14, Gestantes, Terapia medicamentosa, Analgésicos, p. 127; Tabela 14.8, p. 125"
+        },
+        {
+          "texto": "Paracetamol, 500 mg a cada 6 h.",
+          "correta": true,
+          "justificativa": "A Tabela 14.8 o dá como analgésico e antipirético de escolha, e o texto traz a dose de 500 mg a cada 6 h.",
+          "fonte": "varellis3-cap14",
+          "onde": "cap. 14, Gestantes, Terapia medicamentosa, Tabela 14.8 e Analgésicos, p. 126"
+        },
+        {
+          "texto": "Diclofenaco, sem restrições, inclusive no último trimestre.",
+          "correta": false,
+          "justificativa": "O manual diz para não usar o diclofenaco no último trimestre e só aceitá-lo com indicação formal e a menor posologia eficaz.",
+          "fonte": "varellis3-cap14",
+          "onde": "cap. 14, Gestantes, Terapia medicamentosa, Anti-inflamatórios, p. 127"
+        },
+        {
+          "texto": "Dipirona, sem restrições.",
+          "correta": false,
+          "justificativa": "O manual lista a dipirona com restrições (1 comprimido ou 35 gotas a cada 6 h), e o analgésico de escolha que indica é o paracetamol.",
+          "fonte": "varellis3-cap14",
+          "onde": "cap. 14, Gestantes, Terapia medicamentosa, Analgésicos, p. 126"
+        }
+      ],
+      "fonte": "varellis3-cap14",
+      "onde": "cap. 14, Gestantes, Terapia medicamentosa, Analgésicos, Tabela 14.8, p. 126–127",
+      "secao": "varellis-medicamentos",
+      "figura": null
+    }
+  ]
+}

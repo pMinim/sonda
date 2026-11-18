@@ -5,105 +5,113 @@
       "slug": "angina-iam-endocardite",
       "titulo": "Angina, infarto e endocardite: tempo após IAM, vasoconstritor e profilaxia",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Cardiopata é encaminhado ao aluno de 8º semestre (aula consta no índice, fora do cronograma oficial)",
-      "status": "em-breve",
-      "origem": "Cronograma da disciplina"
+      "resumoCurto": "Tempo após o infarto, vasoconstritor e profilaxia antibiótica da endocardite",
+      "status": "em-revisao",
+      "origem": "Malamed 7ª ed., caps. 27 e 28; Andrade e Ranali 3ª ed., cap. 8; AHA 2021 (endocardite); Andrade 3ª ed. (Terapêutica), cap. 18; Varellis (manual) 3ª ed., cap. 29 (só uma nota)"
     },
     {
       "slug": "anticoagulados-e-coagulopatias",
       "titulo": "Anticoagulantes, antiagregantes e coagulopatias hereditárias (hemofilia, von Willebrand)",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Risco hemorrágico define se e onde o paciente é atendido",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Antes de operar, avaliar o risco de sangrar e combinar a conduta com o médico",
+      "status": "em-revisao",
+      "origem": "Little e Falace 9ª ed., caps. 24, 25 e 5 (p. 75–82); Andrade, Terapêutica Medicamentosa, 3ª ed., cap. 19"
     },
     {
       "slug": "diabetes-mellitus",
-      "titulo": "Diabetes: controle glicêmico, relação bidirecional com periodontite, hipoglicemia no consultório",
+      "titulo": "Diabetes: critérios e metas de controle, relação bidirecional com a doença periodontal, hipoglicemia no consultório",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Condição sistêmica mais comum na clínica",
-      "status": "em-breve",
-      "origem": "Aula — Prof. Pedro"
+      "resumoCurto": "Distúrbio endócrino mais comum; critérios e metas de controle, relação com a doença periodontal nos dois sentidos e hipoglicemia como urgência do consultório",
+      "status": "em-revisao",
+      "origem": "Malamed 7ª ed., cap. 17; Andrade e Ranali 3ª ed., cap. 6 (hipoglicemia, pp. 66–69); Varellis (manual) 3ª ed., cap. 34; Little e Falace 9ª ed., cap. 14"
     },
     {
       "slug": "doenca-renal-cronica",
       "titulo": "Doença renal crônica e hemodiálise: dia do atendimento, sangramento, ajuste de dose",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Ajuste de medicamento e risco hemorrágico específicos",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Dia da hemodiálise, sangramento e ajuste de dose pela função renal",
+      "status": "em-revisao",
+      "origem": "Little e Falace 9ª ed., cap. 12; Varellis (org.) 3ª ed., cap. 33"
     },
     {
       "slug": "doencas-pulmonares",
-      "titulo": "Asma, DPOC (definição GOLD) e pneumonia aspirativa ligada ao biofilme",
+      "titulo": "Asma e DPOC no atendimento odontológico",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Conduta na crise de asma e higiene bucal como prevenção de pneumonia",
-      "status": "em-breve",
-      "origem": "Aula — Prof. Pedro"
+      "resumoCurto": "Crise de asma no consultório, cuidados com o asmático e manejo do paciente com DPOC (estágios, posição, sedação e medicamentos)",
+      "status": "em-revisao",
+      "origem": "Malamed 7ª ed., cap. 13; Andrade e Ranali 3ª ed., cap. 7; Varellis (org.) 3ª ed., cap. 30; Little e Falace 9ª ed., cap. 7"
     },
     {
-      "slug": "emergencias-medicas-no-consultorio",
-      "titulo": "Emergências médicas: síncope, hipoglicemia, crise asmática, anafilaxia, dor torácica, convulsão; kit básico",
+      "slug": "emergencias-prevencao-kit-e-reanimacao",
+      "titulo": "Emergências: prevenção, kit e reanimação",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Malamed é bibliografia básica e nenhuma aula do cronograma trata do tema isolado",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Avaliar o risco, ter o kit e a equipe prontos e iniciar a reanimação básica pela AHA 2025",
+      "status": "em-revisao",
+      "origem": "Malamed 7ª ed., caps. 2 e 3; AHA 2025, Partes 7, 6 e 4 (reanimação)"
+    },
+    {
+      "slug": "emergencias-sincope-convulsao-e-alergia",
+      "titulo": "Emergências: síncope, convulsão e alergia",
+      "area": "Pacientes Especiais",
+      "resumoCurto": "Síncope, convulsão e alergia no consultório: o Malamed e o Andrade e Ranali lado a lado",
+      "status": "em-revisao",
+      "origem": "Malamed 7ª ed., caps. 6, 21 e 24; Andrade e Ranali 3ª ed., caps. 6, 11 e 13"
     },
     {
       "slug": "hipertensao-arterial",
       "titulo": "Hipertensão: aferição, níveis que contraindicam o atendimento, vasoconstritor",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Medir PA antes de anestesiar é rotina obrigatória",
-      "status": "em-breve",
-      "origem": "Cronograma da disciplina"
+      "resumoCurto": "Medir a pressão em todo paciente e o que ela muda: atender, adiar ou encerrar",
+      "status": "em-revisao",
+      "origem": "Little e Falace 9ª ed., cap. 3; Malamed 7ª ed., cap. 2; Andrade e Ranali 3ª ed., cap. 10; Varellis (manual) 3ª ed., cap. 29"
     },
     {
       "slug": "osteonecrose-por-medicamentos",
       "titulo": "Osteonecrose dos maxilares associada a medicamentos (bisfosfonatos, denosumabe)",
       "area": "Pacientes Especiais",
       "resumoCurto": "Exodontia em usuário de antirreabsortivo é decisão de risco",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "status": "em-revisao",
+      "origem": "AAOMS 2022 (Ruggiero et al., declaração de posição, EUA); Neville 5ª ed., cap. 8"
     },
     {
       "slug": "paciente-gestante",
       "titulo": "Gestante: trimestre ideal, radiografia, anestésicos e medicamentos seguros",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Dúvida diária da clínica: trimestre ideal, radiografia e medicamentos seguros.",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Trimestre, radiografia, anestésico e medicamentos na gestação e na lactação",
+      "status": "em-revisao",
+      "origem": "Little e Falace 9ª ed., cap. 17; Andrade (Terapêutica Medicamentosa) 3ª ed., cap. 17; Varellis (manual) 3ª ed., cap. 14"
     },
     {
       "slug": "paciente-idoso-e-demencia",
-      "titulo": "Idoso frágil e demência: polifarmácia, hipossalivação, consentimento e cuidador",
+      "titulo": "Idoso e demência: fragilidade, medicamentos, xerostomia, consentimento e cuidador",
       "area": "Pacientes Especiais",
-      "resumoCurto": "A ementa cita envelhecimento; é o perfil que mais cresce",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Medicamentos, xerostomia, consentimento e cuidador no atendimento do idoso com demência",
+      "status": "em-revisao",
+      "origem": "Little e Falace 9ª ed., caps. 1 (p. 16) e 27; Varellis (manual) 3ª ed., caps. 12 e 26"
     },
     {
       "slug": "paciente-oncologico",
-      "titulo": "Paciente em radioterapia e quimioterapia de cabeça e pescoço: mucosite, xerostomia, osteorradionecrose",
+      "titulo": "Paciente oncológico: mucosite, xerostomia e osteorradionecrose",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Adequação bucal antes da radioterapia muda o prognóstico",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Mucosite, xerostomia e osteorradionecrose: o preparo da boca antes da radioterapia e da quimioterapia",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 8, pp. 273–278 (complicações da terapia antineoplásica); Varellis 3ª ed., cap. 13"
     },
     {
       "slug": "sindrome-de-down",
       "titulo": "Síndrome de Down: alterações bucais, cardiopatia, doença periodontal precoce",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Modelo de paciente com síndrome genética e cuidado ao longo da vida",
-      "status": "em-breve",
-      "origem": "Aula — Prof. Pedro"
+      "resumoCurto": "Cardiopatia, doença periodontal e alterações bucais, pelo manual do Varellis e a AHA 2021 (EUA)",
+      "status": "em-revisao",
+      "origem": "Varellis (manual) 3ª ed., cap. 19; AHA 2021, endocardite; Little e Falace 9ª ed., caps. 23 e 27 (menções)"
     },
     {
       "slug": "transtorno-do-espectro-autista",
       "titulo": "TEA: níveis de suporte (DSM-5-TR), manejo comportamental e estabilização protetora",
       "area": "Pacientes Especiais",
-      "resumoCurto": "Paciente frequente; estabilização tem exigência legal e ética",
-      "status": "em-breve",
-      "origem": "Aula — Prof. Pedro"
+      "resumoCurto": "Critérios e níveis do DSM-5-TR; manejo comportamental e estabilização protetora (AAPD)",
+      "status": "em-revisao",
+      "origem": "DSM-5-TR (APA, Artmed 2023), Transtorno do Espectro Autista; Varellis (manual) 3ª ed., cap. 43; AAPD 2026 (SHCN) e 2024 (Behavior Guidance e Protective Stabilization)"
     }
   ]
 }

@@ -1,0 +1,650 @@
+{
+  "slug": "angina-iam-endocardite",
+  "titulo": "Angina, infarto e endocardite: tempo após IAM, vasoconstritor e profilaxia",
+  "area": "Pacientes Especiais",
+  "origem": "Malamed 7ª ed., caps. 27 e 28; Andrade e Ranali 3ª ed., cap. 8; AHA 2021 (endocardite); Andrade 3ª ed. (Terapêutica), cap. 18; Varellis (manual) 3ª ed., cap. 29 (só uma nota)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "malamed7-cap27",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 27, Angina pectoris, p. 439–454 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 27"
+    },
+    {
+      "id": "malamed7-cap28",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 28, Infarto agudo do miocárdio, p. 455–473 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 28"
+    },
+    {
+      "id": "ar3-cap08",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 8, Dor no peito, p. 95–104.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 8"
+    },
+    {
+      "id": "aha2021-endocardite",
+      "ref": "Wilson WR, Gewitz M, Lockhart PB, et al. Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association. Circulation. 2021;143(20):e963–e978. doi:10.1161/CIR.0000000000000969 (com as correções de 30/08/2021 e 25/04/2022).",
+      "curta": "AHA 2021, endocardite (EUA)"
+    },
+    {
+      "id": "andrade3-cap18",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 18, Portadores de doenças cardiovasculares, p. 181–191.",
+      "curta": "Andrade 3ª ed., cap. 18"
+    },
+    {
+      "id": "varellis3-cap29",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 29, Alterações cardiovasculares, p. 245–254 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 29"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "angina-reconhecer",
+      "titulo": "Angina: reconhecer o tipo e a dor",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tabelas 27-1 e 27-2, Quadro 27-1 e diálogo da história médica, p. 439–445 e 449",
+      "texto": "Esta seção e as três seguintes seguem o Malamed (7ª ed., autor dos EUA), cap. 27. É a base do tema; os números e as condutas são dele.\n\n**O que é.** Angina é a dor ou o aperto torácico (às vezes só em áreas vizinhas, como mandíbula ou braço) que vem de isquemia do miocárdio, em geral por esforço e sem necrose. Indica doença arterial coronariana (DAC) significativa, embora não seja específica. O que aumenta a demanda de oxigênio do coração durante o atendimento é risco: o episódio costuma ceder, mas pode terminar em infarto, arritmia ou parada. Precipitantes comuns: esforço, estresse emocional, frio, refeição pesada, cafeína e fumo.\n\n**Três síndromes (Tabela 27-2):**\n- **Estável:** esforço, estresse emocional ou frio; dura 1 a 15 min; boa resposta à nitroglicerina; episódio previsível.\n- **Variante (Prinzmetal):** espasmo da coronária, mais em repouso, inclusive à noite; duração variável; boa resposta à nitroglicerina.\n- **Instável:** qualquer fator ou nenhum; até 30 min; resposta questionável. Entram aqui a angina em repouso (em geral com mais de 20 min), a grave de início recente (até 1 mês) e a de padrão crescente.\n\n**Como o paciente descreve.** Raramente fala em \"dor\": diz aperto, pressão, peso, que \"espreme\". É subesternal e irradia para ombro e braço esquerdos, pescoço, mandíbula ou epigástrio. Punho fechado diante do peito é o sinal de Levine, indicação forte de origem isquêmica. Pontada, \"facada\", dor fugaz ou formigamento sugerem origem não anginosa; se o paciente aponta com o dedo o ponto exato, geralmente não é isquemia. Dor que piora ao respirar ou que a palpação da parede reproduz também é menos provável de ser angina (Tabela 27-1).\n\n**Duração: o livro traz faixas diferentes, e o tema não escolhe.** Tabela 27-1: 2 a 5 min, sempre menos de 15 a 20 min. Tabela 27-2: 1 a 15 min na estável. Texto da p. 444: com repouso, o desconforto cessa em 2 a 10 min, e dor torácica com menos de 30 min \"geralmente não é anginosa\".\n\n**Sinal de alarme (p. 445):** dor no peito de 10 min ou mais pode ser infarto ou angina instável e pede ativação imediata do serviço de emergência médica.\n\n**Na anamnese:** peça que descreva um episódio típico, onde irradia, quanto dura, o que o precipita (anda dois quarteirões ou sobe um lance de escada sem dor?), a frequência (na estável, em média um ou dois por semana) e o efeito da nitroglicerina (alívio em cerca de 2 a 4 min). Mudança recente no padrão habitual (mais frequência, duração ou intensidade) sugere angina instável: comunique ao médico; se o paciente está no consultório e há suspeita de angina instável, ative o serviço de emergência na hora."
+    },
+    {
+      "id": "angina-atendimento",
+      "titulo": "Angina: pode atender hoje e o que muda na cadeira",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Considerações sobre a terapia odontológica, Tabela 27-6, Oxigênio e sedação, Sinais vitais, p. 445–449",
+      "texto": "**Angina instável.** O livro manda tratar como quem teve infarto nos últimos 6 meses: risco ASA 4 (classificação de risco do estado físico, da American Society of Anesthesiologists, como o Malamed a usa na Tabela 27-6), sem atendimento eletivo. Só emergência, depois de consultar o médico e, de preferência, em ambiente hospitalar.\n\n**Angina estável.** O texto diz que o anginoso típico é ASA 3. A Tabela 27-6 distribui por frequência e capacidade (dificuldade = falta de ar, dor torácica ou fadiga indevida):\n\n| Frequência | Capacidade | ASA | Considerações |\n|---|---|---|---|\n| 0 a 1 por mês | anda 2 quarteirões ou sobe um lance de escada sem dificuldade | 2 | usuais do ASA 2 e oxigênio |\n| 2 a 4 por mês | idem | 2 | idem, e possível nitroglicerina 5 min antes |\n| 2 a 3 por semana | dificuldade antes de 2 quarteirões | 3 | usuais do ASA 3, oxigênio e possível nitroglicerina 5 min antes |\n| diária, ou mudança nas últimas 2 a 3 semanas | não anda 2 quarteirões sem dificuldade | 4 | usuais do ASA 4 |\n\nMudança recente é mais frequência, duração ou gravidade, nova irradiação, crise com menos esforço ou resposta menor à dose usual de nitroglicerina.\n\n**Sinais vitais.** Em todo paciente com história de angina, registre antes de começar, em cada consulta: pressão arterial, frequência e ritmo cardíacos e frequência respiratória. O livro sugere repetir antes de liberar.\n\n**Estresse e tempo.** A prevenção é reduzir o estresse. Não há limite total de tempo, mas pare quando aparecer fadiga: suor, inquietude, mais ansiedade. Deixe descansar antes de liberar.\n\n**Oxigênio.** O anginoso é bom candidato: 3 a 5 L/min por cânula nasal ou 5 a 7 L/min por máscara nasal.\n\n**Sedação.** Indicada se há crise uma vez por semana ou mais, ou medo do tratamento. A técnica preferida do autor é óxido nitroso e oxigênio, que oferece mais oxigênio (a maioria das unidades não dá menos de 30%), reduz a liberação de catecolaminas e tem alguma analgesia.\n\n**Nitroglicerina antes do procedimento.** Algumas autoridades dão a todo anginoso, 5 min antes. O autor reserva para quem tem crises mais de uma vez por semana ou medo (ASA 3). Peça que o paciente traga o medicamento dele ao alcance; o do kit do consultório entra nas doses seguintes."
+    },
+    {
+      "id": "angina-vasoconstritor",
+      "titulo": "Angina: anestésico com vasoconstritor",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Controle da dor e Vasopressores, Fio retrator, p. 446–447",
+      "texto": "**Por que usar.** A dor é estressora: no estresse, a epinefrina que o organismo libera pode subir de 20 a 40 vezes. Para a maioria dos pacientes de risco cardíaco, o livro diz que o anestésico com vasoconstritor (epinefrina ou levonordefrina) é indicado: anestesia mais profunda e mais longa, menos sangramento e menor pico do anestésico no sangue. Sem vasoconstritor (mepivacaína 3% e prilocaína, nos EUA), a anestesia é mais curta, e dor significa mais catecolamina. Em estudos citados, 1,8 a 5,4 mL de anestésico com epinefrina 1:100.000 deram alterações pequenas e passageiras de pressão e frequência cardíaca em pessoas saudáveis ou com doença cardiovascular leve a moderada.\n\n**Quanto.** O livro diz que não há dose máxima oficialmente reconhecida de vasoconstritor e que se deve minimizá-lo em risco cardiovascular aumentado (ASA 3 ou mais). A dose máxima aceita sem caráter oficial para o paciente de risco cardíaco **ASA 3**, em uma consulta, é de **0,04 mg de epinefrina**. Equivale, nas contas do livro (tubete de 1,8 mL), a:\n- 1 tubete a 1:50.000 (0,02 mg/mL);\n- 2 tubetes a 1:100.000 (0,01 mg/mL);\n- 4 tubetes a 1:200.000 (0,005 mg/mL).\n\n**Condição: ASA 4 muda tudo.** Quem tem doença isquêmica mal controlada (ASA 4) não deve receber anestésico com vasoconstritor, e o procedimento eletivo também não deve ser considerado. Se a emergência exigir extração ou pulpectomia: epinefrina na menor dose eficaz (1:200.000 é a preferida), com aspiração e injeção lenta.\n\n**Contraindicações absolutas** ao vasoconstritor, que em regra também valem para o tratamento eletivo: arritmia que persiste apesar do tratamento, angina instável, infarto recente, hipertensão grave e insuficiência cardíaca grave não tratada.\n\n**Se o paciente diz que não pode receber epinefrina:** consulte o médico antes; persistindo a dúvida, ouça uma segunda opinião. O livro cita como alternativas mepivacaína com levonordefrina ou, em bloqueio de ramo e não em infiltração, prilocaína 4% ou mepivacaína 3% sem vasoconstritor.\n\n**β-bloqueador não seletivo** (nadolol, propranolol): foram relatados episódios agudos de hipertensão após anestésico com vasoconstritor.\n\n**Fio retrator com epinefrina** (epinefrina racêmica a 8%): absorvida rápido onde há abrasão ou sangramento, pode causar taquicardia, palpitações e isquemia no cardiopata. O livro cita a ADA (EUA): contraindicado em quem tem doença cardiovascular ou arritmia."
+    },
+    {
+      "id": "angina-crise",
+      "titulo": "Angina: conduta na crise no consultório",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tratamento, Etapas 1 a 5, Quadro 27-2, p. 449–454",
+      "texto": "**Quando é angina.** Só se pensa em crise de angina quando o paciente tem a história e diz que está tendo \"um ataque de angina\". Toda dor no peito pela primeira vez deve ser tratada como infarto: ativar de imediato o serviço de emergência médica.\n\n**Passo a passo (angina conhecida):**\n1. **Parar** o procedimento (o próprio tratamento pode ser o gatilho; muitas vezes o fim dele termina o episódio) e ativar a equipe do consultório.\n2. **Posição** que o paciente achar mais confortável, em geral sentado ou em pé; a supina raramente é preferida.\n3. Avaliar vias aéreas, respiração e circulação: o anginoso está consciente, respira e tem pulso.\n4. **Nitroglicerina** sublingual (1 comprimido) ou em spray, o mais rápido possível, de preferência a do próprio paciente. Dose usual: 0,3 a 0,6 mg. Spray: uma ou duas doses de início, sem passar de **3 doses em 15 min**. Comprimidos: a cada 5 min, no máximo 3 em 15 min. No consultório o spray é preferível, porque o comprimido é menos estável. Oxigênio por cânula nasal pode vir a qualquer momento.\n\n**Efeito esperado:** alívio em 2 a 4 min. Efeitos comuns: dor de cabeça, rubor, taquicardia e possível hipotensão. **Contraindicação:** hipotensão, geralmente pressão sistólica abaixo de 90 mmHg.\n\n**Se não aliviar em 5 min:** nova dose, de preferência a do kit do consultório, que está mais \"fresca\". Para testar um comprimido, o livro sugere pô-lo sob a língua: dormência e frescor indicam potência. A falha também pode significar que a dor não é angina, e sim infarto: a resposta à nitroglicerina ajuda no diagnóstico diferencial.\n\n**Quando chamar o serviço de emergência:**\n- dor que não cessou depois do oxigênio e de 3 doses (Quadro 27-2: chamar, dar aspirina e monitorar os sinais vitais; a dose da aspirina não consta neste capítulo);\n- dor que alivia e volta;\n- o paciente pede para chamar: faça-o na hora;\n- sem história de dor no peito: imediatamente.\n\nO livro cita a AHA (EUA): chamar se a dor não ceder com 3 comprimidos em 10 min; e, em quem não tem DAC conhecida, se a dor torácica durar 2 min ou mais.\n\n**Opioide** (morfina, meperidina) não é indicado na angina; só no infarto.\n\n**Depois:** procure o que desencadeou, reforce a redução do estresse, deixe descansar e registre os sinais vitais antes de liberar. O tratamento pode seguir depois que a dor acabar. O paciente pode sair sem acompanhante e dirigir se o dentista o considerar apto; em dúvida, acompanhante ou assistência médica."
+    },
+    {
+      "id": "iam-reconhecer",
+      "titulo": "Infarto: como reconhecer e como difere da angina",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Definição, Fatores predisponentes, Manifestações clínicas, Quadro 28-1 e Tabela 28-4, p. 456 e 462–465",
+      "texto": "Esta seção e as três seguintes seguem o Malamed (7ª ed.), cap. 28. O infarto agudo do miocárdio (IAM) é a necrose de uma região do miocárdio por falta de fluxo coronariano; em mais de 90% dos casos a causa é a DAC.\n\n**A dor.** Início súbito (cerca de 80% dos casos), intensa, de pressão ou peso, retroesternal (o relato típico é o de uma pedra muito pesada, ou de alguém sentado sobre o peito), com irradiação igual à da angina e duração de 30 min a horas se não for controlada. **Nem repouso nem nitroglicerina aliviam.**\n\n**Em 20 a 25% dos casos a dor é pequena ou ausente**, mascarada por complicações como edema pulmonar, síncope ou choque: infarto silencioso, mais comum em mulheres, idosos e diabéticos. Sintomas atípicos ocorrem em cerca de 10 a 30%.\n\n**Outros sinais.** Suor frio, medo de morte iminente, náuseas e vômitos, dispneia, tontura. **Diferença de comportamento:** o anginoso fica parado; no infarto o paciente se mexe, inquieto, procurando posição. Pode cerrar o punho no peito (sinal de Levine). Pele fria, pálida e úmida, cianose de mucosas e leito ungueal, pulso fraco e rápido (às vezes lento), pressão em geral baixa, respiração rápida e superficial. Arritmias são frequentes.\n\n**Suspeite de infarto em três situações:**\n1. primeira dor torácica sugestiva, em repouso ou em atividade normal;\n2. mudança no padrão da angina estável: mais frequente ou grave, ou angina em repouso pela primeira vez;\n3. dor sugestiva de isquemia em quem tem DAC, que não alivia com repouso nem com nitroglicerina.\n\n**Pistas do livro para o infarto:** dor com mais de 30 min (maior que a da angina), náuseas e vômitos, suor, dispneia, pulso irregular e fraqueza geral. No início pode ser difícil distinguir angina de infarto; a conduta está na seção de crise.\n\n**Por que o tempo importa.** O maior risco de morte está nas primeiras 4 a 6 horas. A fibrilação ventricular é 15 vezes mais provável na primeira hora que nas 12 seguintes. O período mais perigoso é o de espera pelo atendimento médico, e o livro atribui parte da mortalidade ao atraso entre o início dos sintomas e a chegada do serviço de emergência."
+    },
+    {
+      "id": "iam-pos-infarto",
+      "titulo": "Infarto: história, tempo desde o IAM e medicamentos",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Questionário e diálogo da história médica, Tabela 28-1, p. 458–460",
+      "texto": "**O que perguntar a quem já teve infarto:**\n- **Quando foi o último?** O risco de novo infarto fica aumentado durante o tratamento odontológico qualquer que seja o tempo, e é muito maior no pós-infarto imediato.\n- **O padrão da angina mudou no último mês?** Mais frequência, mais duração, mais gravidade ou menos efeito da nitroglicerina pode indicar angina instável: consulta médica imediata.\n- **Quais medicamentos?** Mostram o grau da lesão residual. Pergunte também por dor no peito, falta de ar e cansaço excessivo, e por sinais de arritmia.\n\n**Exame.** Registre sinais vitais antes e logo depois de cada consulta. Sinais de insuficiência cardíaca por dano ventricular: cianose periférica, extremidades frias, edema de tornozelo e ortopneia (falta de ar que melhora sentado). Muitos sobreviventes parecem bem; mesmo assim, o livro manda considerá-los de risco aumentado em todo procedimento odontológico.\n\n**Risco de reinfarto pelo tempo.** O livro cita um estudo clássico com pacientes cirúrgicos (Weinblatt e colaboradores), em que a taxa de reinfarto na cirurgia ou nas 4 h seguintes foi:\n\n| Cirurgia feita após o infarto | Reinfarto |\n|---|---|\n| até 3 meses | 37% |\n| 4 a 6 meses | 16% |\n| mais de 6 meses | 5% |\n| sem infarto prévio | 0,1% |\n\nA cicatrização costuma estar completa em cerca de 6 meses. A mortalidade global é de 30% no primeiro mês, a maior parte por arritmia ventricular.\n\n**Medicamentos do pós-IAM (Tabela 28-1):** β-bloqueadores (propranolol, timolol, metoprolol); antiplaquetários (aspirina e clopidogrel); inibidores da ECA (captopril); diuréticos; digitálicos e outros inotrópicos; nitratos; anticoagulante (varfarina).\n\n**Bloqueadores dos canais de cálcio: o livro diz duas coisas.**\n- Texto da p. 458: sem benefício a longo prazo no prognóstico geral.\n- Tabela 28-1, p. 460: diltiazem e verapamil \"previnem reinfarto e reduzem a taxa de mortalidade\".\n\nO tema não escolhe entre as duas leituras."
+    },
+    {
+      "id": "iam-eletivo",
+      "titulo": "Infarto: atendimento eletivo e os 6 meses",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Considerações da terapia odontológica, Tabela 28-2, Seis meses após o infarto, p. 460–462",
+      "texto": "**Classificação ASA (Tabela 28-2).** Depende do tempo desde o infarto, do número de infartos e de sinais contínuos de doença cardiovascular (dispneia, dor torácica, arritmia):\n\n| Situação | ASA | Considerações |\n|---|---|---|\n| um IAM há 6 meses ou mais, sem complicação residual | 2 ou 3 | usuais, oxigênio durante o tratamento e telefonema depois |\n| um IAM há 6 meses ou mais, com angina, insuficiência cardíaca ou arritmia | 3 ou 4 | usuais, nitroglicerina 5 min antes se há angina, oxigênio e telefonema depois |\n| mais de um IAM há 6 meses ou mais, sem complicação | 3 | usuais, oxigênio e telefonema |\n| IAM há menos de 6 meses ou complicação grave | 4 | usuais do ASA 4 |\n\n**Seis meses.** O livro recomenda muito evitar o atendimento eletivo, inclusive a limpeza (profilaxia dental), por pelo menos 6 meses após o infarto. Antes disso só emergência. Dor ou infecção aguda devem, em princípio, ser controladas com antibiótico e analgésico por via oral. Procedimento invasivo necessário (extração, pulpectomia) deve ser feito em ambiente controlado, como hospital, e só depois que a medicação falhar. Se for preciso atender em emergência nesse período, o livro sugere fortemente consulta médica antes.\n\n**Consulta médica** também se, após avaliação completa, o dentista tiver dúvida sobre o estado do paciente (por exemplo, se aguenta o estresse do tratamento).\n\n**Estresse, tempo, oxigênio e sedação.** Use o protocolo de redução do estresse. A sessão não deve passar da tolerância do paciente: se surgir dispneia, suor ou ansiedade, investigue e modifique ou interrompa. Oxigênio: 3 a 5 L/min por cânula nasal (umidificado) ou 5 a 7 L/min por capuz nasal. A sedação mais recomendada é óxido nitroso e oxigênio; evite hipóxia em qualquer técnica.\n\n**Vasoconstritor.** O livro diz que a liberação de catecolaminas pela dor pode ser mais perigosa que os 0,01 mg/mL de epinefrina (1:100.000) de um anestésico bem injetado. Contraindicado em arritmia ventricular intratável e em todo ASA 4 (eletivo também). Relativamente contraindicado com β-bloqueador não cardiosseletivo, como o propranolol.\n\n**Anticoagulante ou antiplaquetário.** Consulta médica antes de procedimento com risco de sangramento. Com INR (relação normalizada internacional, medida do tempo de protrombina) de 2 a 3 a cirurgia eletiva costuma ser feita sem adiar nem mudar o anticoagulante; use hemostático local, sutura, gelo, sem bochechos e dieta macia por 48 h. Evite, se possível, os bloqueios do alveolar inferior e do alveolar posterossuperior."
+    },
+    {
+      "id": "iam-crise",
+      "titulo": "Infarto: conduta na crise no consultório",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tratamento, Etapas 1 a 7, Quadro 28-2, p. 465–470",
+      "texto": "**Regra do livro.** O diagnóstico de angina no consultório só vale se o paciente tem história de angina e confirma que a dor é a de sempre. Em todas as outras situações, chame o serviço médico de emergência de imediato e trate como infarto. Três cenários:\n- angina conhecida, ataque típico: siga a seção de conduta da angina;\n- angina conhecida, mas o episódio é diferente (mais intenso, mais de 15 a 20 min, paciente assustado): chame; se ele pedir, chame na hora;\n- sem história de dor no peito: chame imediatamente.\n\n**Passos (etapas do livro e Quadro 28-2, na ordem do livro):**\n1. Parar o tratamento e ativar a equipe.\n2. Posição confortável; a ereta costuma ser a preferida. Avaliar vias aéreas, respiração e circulação.\n3. **Oxigênio** assim que possível, 4 a 6 L/min por cânula nasal ou capuz nasal. (O livro traz outra faixa na seção do atendimento eletivo, 3 a 5 L/min por cânula nasal, e não as harmoniza.)\n4. **Nitroglicerina:** se há história de angina, a do paciente primeiro, salvo contraindicação. No Quadro 28-2, para quem não tem história de angina, o livro diz para considerar nitroglicerina, uma dose apenas, se a pressão sistólica for acima de 90 mmHg. Contraindicada com pressão sistólica abaixo de 90 mmHg e se o paciente usou inibidor da fosfodiesterase (Viagra, Levitra, Cialis) nas 24 h anteriores (48 h para o tadalafil). Se a dor persiste, aumenta ou volta em poucos minutos, considere o infarto como diagnóstico presumido; o livro diz que, sem ECG com supra-ST, nenhuma dose adicional de nitroglicerina deve ser dada.\n5. **Aspirina:** 325 mg, sem revestimento entérico (em pó misturada em água é a preferida, ou mastigada e deglutida), a todo suspeito de infarto ou angina instável, salvo alergia significativa ou hemorragia potencialmente fatal. O livro cita doses-padrão de 160 a 325 mg; se só houver aspirina entérica, o primeiro comprimido deve ser mastigado ou esmagado.\n6. **Monitorar** pressão, frequência e ritmo cardíacos e respiração a cada 5 min, e registrar.\n7. **Dor:** se a nitroglicerina falha, o livro cita opioide parenteral (morfina) e a mistura de óxido nitroso e oxigênio a 50%, por capuz nasal ou máscara facial. Na falta de fontes portáteis, a equipe de resgate dá o analgésico parenteral no transporte.\n8. **Preparar-se para complicações:** arritmias ventriculares, insuficiência cardíaca e parada cardiorrespiratória. Sem monitor de ECG e treinamento específico, nenhum antiarrítmico (só oxigênio). A conduta na parada está no tema \"Emergências: prevenção, kit e reanimação\".\n9. **Transporte:** depois de estabilizado, o dentista acompanha na ambulância, se permitido, ou segue de carro e fica até um médico assumir.\n\nO livro insiste: \"não hesite em solicitar o serviço médico de emergência\". Metade dos que morrem de síndrome coronariana aguda morre antes de chegar ao hospital, e o atraso para buscar ajuda é grande."
+    },
+    {
+      "id": "ar-angina",
+      "titulo": "Angina pelo Andrade e Ranali: reconhecer, prevenir e tratar",
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Angina de peito, Prevenindo e Protocolo de atendimento, p. 98–99",
+      "texto": "Esta seção e as duas seguintes seguem o Andrade e Ranali (livro brasileiro, 3ª ed.), cap. 8. Os números são deles; o Malamed está nas seções anteriores.\n\n**O que é.** Dor torácica, geralmente abaixo do esterno, por queda temporária do fluxo nas coronárias, que costuma ceder com repouso ou nitrato sublingual. Estável: vem com o esforço e dura poucos minutos. Instável: surge com esforço mínimo ou em repouso.\n\n**A crise (6 sinais):** início repentino; paciente apreensivo, suando, com a mão no peito; dor subesternal ou precordial, de esmagamento ou queimação; ansioso pela medicação; duração aproximada de 2 a 3 min, com possível irradiação para ombro e braço esquerdos, costas, pescoço, mandíbula e dentes; respiração não piora a dor; pressão e frequência cardíaca sobem.\n\n**Perguntas:** ao caminhar ou subir escada precisa parar por dor ou falta de ar? Quando foi o último episódio, o que o precipitou, o que usou e em quanto tempo cessou? Qual a medicação atual e a dose? Nome e telefone do médico.\n\n**Prevenção (selecionadas):**\n- falar com o médico sobre vasodilatador profilático; ter nitrato sublingual do paciente ou no estojo;\n- aferir pulso e pressão antes de cada consulta; evitar sessões longas; parar se houver fadiga;\n- considerar sedação com benzodiazepínico oral ou óxido nitroso e oxigênio;\n- epinefrina só em coronariopatas com doença controlada, em 1:100.000 ou 1:200.000 e em pequeno volume (com 1:100.000, no máximo 2 tubetes por sessão); felipressina se não se prevê sangramento;\n- sem fio retrator com epinefrina; oxigênio por cânula nasal a 4 a 5 L/min; breve repouso antes de liberar.\n\n**Protocolo da crise (7 passos):**\n1. interromper;\n2. posição confortável (em geral cadeira semirreclinada);\n3. um comprimido sublingual: mononitrato de isossorbida 5 mg, dinitrato de isossorbida 5 mg ou propatilnitrato de isossorbida 10 mg;\n4. oxigênio a 3 L/min por cânula nasal ou máscara facial;\n5. se a dor persistir após 5 min, repetir o vasodilatador, no máximo duas vezes;\n6. controlada a crise, encaminhar para avaliação médica imediata, com acompanhante adulto;\n7. se os sintomas persistirem, chamar o serviço de urgência e monitorar os sinais vitais."
+    },
+    {
+      "id": "ar-iam",
+      "titulo": "Infarto pelo Andrade e Ranali: reconhecer e prevenir",
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Ocorrência, Sinais e sintomas, Prevenindo, Período de atendimento pré-hospitalar, p. 100–102",
+      "texto": "**Como separar da angina.** O livro diz que distinguir infarto de angina só pelos sinais nem sempre é fácil. Um recurso ainda usado: suspeitar de infarto quando a dor não alivia com o vasodilatador coronariano, ou alivia e reaparece quase logo.\n\n**Sinais e sintomas (6):**\n1. dor aguda de instalação repentina (80% dos casos), em geral no terço médio ou superior do esterno; no epigástrio, com náusea e vômito, pode ser confundida com gastrite, úlcera ou colecistite;\n2. paciente ansioso, suando, parecendo pressentir morte iminente;\n3. mão no peito com o punho fechado; dor profunda, como se houvesse \"uma pedra\" sobre o peito;\n4. irradiação, agora mais frequente, para ombro, face interna do braço e mão esquerdos, às vezes costas, pescoço, mandíbula, dentes e braço direito;\n5. dispneia comum; respiração não piora a dor; náusea e vômito frequentes;\n6. repouso e vasodilatador não aliviam.\n\n**Perguntas a quem já teve infarto:** quando foi, o que precipitou, se precisa parar ao caminhar ou subir escada, se teve dor recente no peito, qual a medicação e se mudou, nome e telefone do médico.\n\n**Prevenção (selecionada):**\n- evitar atender quem teve infarto recente (o livro diz \"período menor que seis meses\"); nas urgências (pulpite, abscesso), contatar o cardiologista para pesar risco e benefício do atendimento no consultório;\n- ter no estojo o vasodilatador coronariano e comprimidos de ácido acetilsalicílico de 100 mg;\n- sinais vitais antes e depois de cada sessão; sessões curtas; interromper se houver fadiga;\n- sedação mínima; a inalatória com óxido nitroso e oxigênio pode ser usada;\n- felipressina, ou pequenos volumes de epinefrina em 1:200.000 ou 1:100.000;\n- pós-operatório: analgésicos e corticosteroide (dexametasona ou betametasona) por tempo restrito; evitar anti-inflamatórios não esteroides;\n- sem fio retrator com epinefrina; oxigênio por cânula nasal a 2 a 3 L/min; breve repouso antes de liberar.\n\n**Atraso até o hospital.** O livro cita a diretriz brasileira de 2009 (IV Diretriz da Sociedade Brasileira de Cardiologia sobre infarto com supradesnível de ST): o tempo entre o início dos sintomas e o tratamento hospitalar pesa nos eventos graves, e na prática só 20% chegam ao pronto-socorro em até 2 horas. Os atrasos são maiores em idosos, mulheres e pessoas de baixa condição socioeconômica."
+    },
+    {
+      "id": "ar-iam-protocolo",
+      "titulo": "Infarto pelo Andrade e Ranali: protocolo e medicamentos",
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Protocolo de atendimento e Comentários finais, p. 102–103",
+      "texto": "**Protocolo de atendimento do infarto (10 passos):**\n1. interromper o atendimento;\n2. providenciar socorro médico ou transporte móvel de urgência; não levar o paciente ao hospital por conta própria, salvo onde não houver Samu (192) ou resgate do Corpo de Bombeiros (193);\n3. posição confortável (em geral cadeira semirreclinada);\n4. acalmar o paciente;\n5. dar **2 a 3 comprimidos de ácido acetilsalicílico de 100 mg**, amassados ou para mastigar;\n6. evitar qualquer esforço (descer da cadeira, andar, subir escada);\n7. cobertor ou manta, para evitar tremores e gasto de energia;\n8. oxigênio a 3 L/min, que limita a lesão isquêmica;\n9. monitorar os sinais vitais enquanto aguarda;\n10. se houver parada cardiorrespiratória, iniciar a RCP, que só se interrompe se a vítima reagir (movimento ou tosse) ou com a chegada de um desfibrilador externo automático.\n\n**Medidas dos comentários finais (diretriz brasileira de 2009, citada pelo livro).** O livro diz que as terapias da fase pré-hospitalar são empíricas, extrapoladas de pacientes hospitalizados, e que é coerente aplicá-las no consultório por profissionais com algum conhecimento e equipe treinada. Dose de aspirina e limite de pressão do nitrato são os deste livro; o Malamed traz os dele nas seções do cap. 28.\n\n| Medida | Dose ou condição, conforme o livro |\n|---|---|\n| Oxigênio | 3 L/min, a 100%, por cânula nasal; de rotina nas primeiras horas do infarto |\n| Nitrato sublingual | mononitrato ou dinitrato de isossorbida 5 mg, ou propatilnitrato 10 mg; no máximo 3 doses, com 5 min de intervalo |\n| Ácido acetilsalicílico | 160 a 325 mg (cerca de 2 a 3 comprimidos de 100 mg) |\n\n**Contraindicações do nitrato (livro):** pressão sistólica abaixo de 100 mmHg e uso nas últimas 24 h de sildenafil, vardenafil ou tadalafil, que podem potencializar a queda de pressão.\n\n**Contraindicações do ácido acetilsalicílico (livro):** alergia, úlcera péptica, sangramento ativo e hemofilia.\n\n**Por que o ácido acetilsalicílico.** O livro diz que inibe de modo irreversível a agregação plaquetária e é o antiagregante de eleição, de rotina em todo suspeito de infarto, respeitadas as contraindicações. Pacientes de maior risco podem ser instruídos pelo médico a tomá-lo em emergência.\n\n**Fluxo de oxigênio no capítulo (o livro não harmoniza):** angina, prevenção, 4 a 5 L/min; angina, protocolo, 3 L/min; infarto, prevenção, 2 a 3 L/min; infarto, protocolo e comentários, 3 L/min."
+    },
+    {
+      "id": "aha-quem",
+      "titulo": "Endocardite pela AHA 2021: quem e quais procedimentos",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Resumo, Tabela 3 (condições), Tabela 4 (procedimentos), discussão dos quatro grupos e discussão sobre ampliar as categorias de risco",
+      "texto": "**Documento.** Declaração científica da American Heart Association (EUA), de 2021, na versão corrigida de 2022 (Wilson e colaboradores). O verbo do documento é \"sugere\": a profilaxia antibiótica odontológica é **sugerida**, não imposta, e o texto diz que o benefício **não está comprovado** (não há ensaio randomizado de eficácia). A conclusão é manter a posição de 2007: sugerir profilaxia só para quem tem maior risco de desfecho ruim da endocardite por estreptococos do grupo viridans.\n\n**Por quê.** A bacteremia de atividades diárias (mastigar, escovar) é muito mais provável como causa que a de um procedimento odontológico. Mesmo uma profilaxia 100% eficaz evitaria poucos casos. Por isso o texto reforça a saúde bucal, idealmente com cuidado odontológico duas vezes ao ano.\n\n**Profilaxia sugerida (Tabela 3):**\n- **Prótese ou material cardíaco:** valva protética; implante transcateter de valva; reparo de valva com dispositivo (anéis, clipes); dispositivo de assistência ventricular esquerda ou coração implantável.\n- **Endocardite prévia,** recidivante ou recorrente.\n- **Cardiopatia congênita:** cianótica não reparada (incluindo shunts e condutos paliativos); defeito reparado com material protético ou dispositivo nos primeiros 6 meses; reparada com defeito residual junto ao remendo ou dispositivo; valva ou conduto da artéria pulmonar colocado por cirurgia ou cateter.\n- **Transplante cardíaco** com valvulopatia.\n\n**Profilaxia não sugerida:** marca-passo e outros dispositivos eletrônicos implantáveis; fechamento completo de defeito septal; enxertos e remendos vasculares periféricos (inclusive de hemodiálise); stents coronarianos ou vasculares; derivações ventrículo-atriais do sistema nervoso central; filtros de veia cava; pledgets. O documento também manteve a posição de não sugerir para valvopatia reumática, estenose aórtica, valva aórtica bicúspide e prolapso da valva mitral.\n\n**Procedimentos (Tabela 4), nos quatro grupos de maior risco:**\n- **sugerida** para todo procedimento que manipule tecido gengival ou região periapical dos dentes, ou perfure a mucosa oral;\n- **não sugerida** para injeção anestésica em tecido não infectado, radiografias, colocação de aparelhos protéticos removíveis ou ortodônticos, ajuste ortodôntico, braquetes, esfoliação de dentes decíduos e sangramento por trauma de lábio ou mucosa.\n\n**Decisão compartilhada.** A decisão cabe ao profissional e ao paciente, que deve saber que o benefício não é comprovado e que há riscos. O texto pede que a decisão seja comunicada ao dentista de forma documentada (prontuário ou via paciente)."
+    },
+    {
+      "id": "aha-regime",
+      "titulo": "Endocardite pela AHA 2021: regime antibiótico",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Tabela 5 (versão de 25/04/2022) e texto de reações, resistência e outras considerações",
+      "texto": "Dose, via e momento abaixo são da AHA 2021 (EUA), na versão corrigida da Tabela 5. **Dose única, 30 a 60 minutos antes do procedimento.**\n\n| Situação | Fármaco | Adulto | Criança |\n|---|---|---|---|\n| Via oral | amoxicilina | 2 g | 50 mg/kg |\n| Sem condição de usar via oral | ampicilina, ou | 2 g IM ou IV | 50 mg/kg IM ou IV |\n| | cefazolina ou ceftriaxona | 1 g IM ou IV | 50 mg/kg IM ou IV |\n| Alérgico a penicilina ou ampicilina, via oral | cefalexina (nota), ou | 2 g | 50 mg/kg |\n| | azitromicina ou claritromicina, ou | 500 mg | 15 mg/kg |\n| | doxiciclina | 100 mg | menos de 45 kg: 2,2 mg/kg; mais de 45 kg: 100 mg |\n\nNota: no lugar da cefalexina pode ser outra cefalosporina oral de primeira ou segunda geração em dose equivalente; cefalosporinas **não devem ser usadas** em quem teve anafilaxia, angioedema ou urticária com penicilina ou ampicilina.\n\n**Clindamicina.** A AHA 2021 diz que ela **não é mais recomendada** para profilaxia em procedimento odontológico: as reações são mais frequentes e mais graves, e um estudo do Reino Unido, citado no texto, sugere que até uma dose única pode causar complicações por Clostridioides difficile.\n\n**Outras condutas do texto:**\n- esqueceu de dar antes: pode dar **até 2 horas depois** do procedimento;\n- paciente em curso de 7 a 10 dias de antibiótico oral: preferir outra classe da Tabela 5 e, se possível, adiar o procedimento eletivo por pelo menos 10 dias depois do fim do curso;\n- paciente em antibiótico parenteral para endocardite ou outra infecção: pode manter o mesmo durante o procedimento;\n- procedimentos repetidos: usar um antibiótico alternativo a cada vez ou deixar intervalo de pelo menos 4 semanas, pela resistência dos estreptococos;\n- alergia à penicilina: o teste cutâneo é negativo em cerca de 90% dos rotulados como alérgicos; faça uma história cuidadosa do tipo e da gravidade da reação;\n- fora das situações da Tabela 5: julgamento clínico e decisão compartilhada."
+    },
+    {
+      "id": "andrade-ei",
+      "titulo": "Endocardite pelo Andrade (2014): contexto e quem tem risco",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Anormalidades das valvas cardíacas, Endocardite infecciosa, Prevenção e Quadro 18.1, Stents e piercings, p. 184–190",
+      "texto": "Esta seção e a seguinte seguem o Andrade (Terapêutica Medicamentosa em Odontologia, 3ª ed., 2014; livro brasileiro). O livro apoia-se na AHA de 2007. A declaração da AHA de 2021 está nas duas seções anteriores.\n\n**A doença.** A endocardite infecciosa é uma infecção da superfície do endocárdio, sobretudo das valvas. É rara (estima-se 1 caso por 100 mil pessoas), mas a mortalidade segue alta (25% nos últimos anos). Incubação média de 5 a 7 dias; os sinais aparecem em geral depois de duas semanas: febre baixa, dor nas articulações, fadiga, suor e perda de peso. Estreptococos e estafilococos respondem por mais de 80% dos casos.\n\n**A discussão sobre profilaxia (pontos do livro):** a maioria dos pacientes com endocardite não fez procedimento odontológico; o risco é maior em bacteremias repetidas (má saúde bucal, hábitos de higiene) que em um procedimento pontual; antissepsia prévia pode ser mais efetiva que o antibiótico; a profilaxia evita poucos casos, e os efeitos adversos de antibióticos dados sem critério podem superar o benefício. O NICE (Reino Unido) decidiu em 2008 não recomendar mais a profilaxia, o que o livro chama de radical. O livro diz que \"consenso nem sempre é sinal de bom senso\" e lembra que no Brasil febre reumática e doença de Chagas elevam a incidência de lesões valvares; por isso a interação entre dentista e cardiologista é fundamental. A posição da área de Farmacologia da FOP/Unicamp, citada, é seguir a AHA (2007).\n\n**Condições de alto risco (Quadro 18.1, AHA 2007 conforme o livro):** valva protética ou material protético no reparo valvar; endocardite prévia; valvopatia em transplantado cardíaco; cardiopatia congênita cianogênica não corrigida (incluindo shunts e condutos paliativos); cardiopatia congênita corrigida com material protético nos 6 primeiros meses; cardiopatia cianogênica corrigida com defeito residual.\n\n**Procedimentos:** todos que manipulem tecido gengival ou região periapical, ou perfurem a mucosa oral. Não requerem: anestesia de rotina em tecido não infectado, radiografias, colocação ou ajuste de aparelhos protéticos ou ortodônticos, esfoliação de decíduos e sangramento por trauma.\n\n**Outros casos do livro:**\n- revascularização do miocárdio, marca-passo e desfibrilador: em princípio sem profilaxia, mas quem decide é o cardiologista, pelas condições hemodinâmicas;\n- stent coronário: pela rápida adaptação do stent, o livro registra a opinião de autores de que a profilaxia contra endoarterite não é necessária; nos primeiros 30 dias, recomenda que o dentista discuta o antibiótico com o cardiologista, com os mesmos regimes da AHA;\n- piercing na boca é porta de entrada de bactérias; o dentista deve desencorajar."
+    },
+    {
+      "id": "andrade-regime",
+      "titulo": "Endocardite pelo Andrade (2014): regime e protocolo",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Regimes antibióticos para a prevenção da EI, Quadro 18.2, Protocolo de atendimento, itens 1 a 14, p. 186–189",
+      "texto": "**Quadro 18.2 (AHA 2007, como reproduzido no livro de 2014).** Dose única, 30 a 60 min antes do procedimento. Este é o regime do livro; o da AHA 2021 está na seção própria, e os dois diferem: o quadro do livro traz clindamicina, que a AHA 2021 diz não ser mais recomendada, e dá outras doses em criança (azitromicina e claritromicina, 10 mg/kg no livro). O intervalo entre sessões e os regimes abaixo são os do livro; a AHA 2021 trata procedimentos repetidos e o regime na seção própria.\n\n| Situação | Fármaco | Adulto | Criança |\n|---|---|---|---|\n| Regime padrão, via oral | amoxicilina | 2 g | 50 mg/kg |\n| Alérgico às penicilinas, via oral | cefalexina | 2 g | 50 mg/kg |\n| | clindamicina | 600 mg | 20 mg/kg |\n| | azitromicina ou claritromicina | 500 mg | 10 mg/kg |\n| Sem via oral | ampicilina | 2 g IM ou IV | 50 mg/kg IM ou IV |\n| | ou cefazolina | 1 g IM ou IV | 50 mg/kg IM ou IV |\n| Alérgico e sem via oral | cefazolina | 1 g IM ou IV | 50 mg/kg IM ou IV |\n| | clindamicina | 600 mg IM ou IV | 20 mg/kg IM ou IV |\n\nO livro avisa que cefalexina e cefazolina não servem para quem teve anafilaxia, angioedema ou urticária com penicilinas, e que a amoxicilina é a recomendada por absorver melhor e dar níveis mais altos e duradouros.\n\n**Protocolo de atendimento (FOP/Unicamp; 14 itens, resumidos, numeração do livro):**\n1. Classifique o paciente em ASA II, III ou IV; avalie a região, o tipo de procedimento e se há infecção.\n2. Encaminhe ao cardiologista, informando o procedimento; sedação mínima e anestesia com pequenos volumes de epinefrina (1:100.000 ou 1:200.000) ou felipressina.\n3. O cardiologista avalia o estado hemodinâmico e classifica o risco (baixo ou alto) para endocardite.\n4. Com ele, analise o quadro clínico e o estado imunológico e decidam se a profilaxia é necessária.\n5. Planeje o maior número possível de procedimentos sob a mesma cobertura antibiótica.\n6. Não use antimicrobianos diferentes dos regimes recomendados pela AHA (2007, como o livro cita).\n7. Confirme que o paciente tomou o antibiótico antes de começar.\n8. Antes de cada sessão, bochecho com digluconato de clorexidina 0,2%, para reduzir a magnitude das bacteremias.\n9. Evite traumatismo gengival desnecessário.\n10. Mantenha intervalo mínimo de **10 dias entre as sessões**, o que pode ajudar a evitar bactérias resistentes.\n11. Reforce a higiene bucal.\n12. Clorexidina 0,12% de uso contínuo: no máximo 3 dias.\n13. Nas urgências, ou se o cardiologista não for localizado, pese risco e benefício; em caso de dúvida, faça a profilaxia.\n14. Agende consultas periódicas de saúde bucal.\n\nO mecanismo pelo qual os antibióticos previnem a endocardite não é conhecido, segundo o livro."
+    },
+    {
+      "id": "varellis-nota",
+      "titulo": "Nota sobre o Varellis",
+      "fonte": "varellis3-cap29",
+      "onde": "cap. 29, Alterações Cardiovasculares, Endocardite infecciosa, p. 250–252",
+      "texto": "O Varellis, manual prático organizado por Maria Lucia Zarvos Varellis (3ª ed., 2017), traz no cap. 29 (p. 250–252) uma regra de profilaxia da endocardite dividida em risco alto e moderado, sem data no livro e diferente da lista da AHA 2021; por isso ela não entra neste tema como conduta. O regime vigente está na seção da AHA 2021 (EUA)."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Malamed, o que indica o punho fechado diante do peito?",
+      "verso": "É o sinal de Levine: indicação forte de que a dor é de origem isquêmica.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, diálogo da história médica, p. 443 e 445"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Malamed (Tabela 27-2), quanto duram a angina estável e a instável?",
+      "verso": "Estável: 1 a 15 minutos, com boa resposta à nitroglicerina. Instável: até 30 minutos, com resposta questionável.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tabela 27-2, p. 442"
+    },
+    {
+      "id": "f03",
+      "frente": "Segundo o Malamed, o que fazer se a dor no peito dura 10 minutos ou mais?",
+      "verso": "Pode ser infarto ou angina instável: ativar imediatamente o serviço de emergência médica.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, diálogo da história médica, p. 445"
+    },
+    {
+      "id": "f04",
+      "frente": "Em que classe ASA o Malamed põe a angina instável e quem tem crises diárias?",
+      "verso": "ASA 4: só atendimento de emergência, depois de consultar o médico. Eletivo não.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Considerações sobre a terapia odontológica, Tabela 27-6, p. 445–446"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o Malamed, qual a dose máxima de epinefrina por consulta no ASA 3?",
+      "verso": "0,04 mg. Equivale a cerca de 2 tubetes a 1:100.000 (ou 1 a 1:50.000, ou 4 a 1:200.000). É uma dose aceita sem caráter oficial.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo o Malamed, como dar a nitroglicerina na crise de angina?",
+      "verso": "Sublingual ou em spray, de preferência a do paciente: 0,3 a 0,6 mg, no máximo 3 doses em 15 minutos. O spray é preferível ao comprimido no consultório.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tratamento, Etapa 4a, p. 451"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Malamed, no suspeito de infarto, quando a nitroglicerina é contraindicada?",
+      "verso": "Com pressão sistólica abaixo de 90 mmHg e se o paciente usou inibidor da fosfodiesterase (Viagra, Levitra, Cialis) nas 24 h anteriores (48 h para o tadalafil).",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tratamento, Etapa 5c, p. 465, e Quadro 28-2, p. 470"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Malamed, anginoso sem alívio após oxigênio e 3 doses de nitroglicerina: o que fazer?",
+      "verso": "Solicitar o serviço médico de emergência, dar aspirina e monitorar e registrar os sinais vitais.",
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Etapa 4c e Quadro 27-2, p. 452–454"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Malamed, por quanto tempo evitar o atendimento eletivo depois de um infarto?",
+      "verso": "Por pelo menos 6 meses, inclusive a limpeza (profilaxia dental). Antes disso, só emergência.",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Seis meses após o infarto, p. 461"
+    },
+    {
+      "id": "f10",
+      "frente": "Estudo citado pelo Malamed: qual o reinfarto na cirurgia feita até 3 meses, de 4 a 6 meses e após 6 meses do IAM?",
+      "verso": "Reinfarto durante a cirurgia ou nas 4 h seguintes, em pacientes cirúrgicos: 37%, 16% e 5%. Sem infarto prévio, 0,1%.",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, diálogo da história médica, p. 459"
+    },
+    {
+      "id": "f11",
+      "frente": "Segundo o Malamed (Tabela 28-2), qual a classe ASA com IAM há menos de 6 meses?",
+      "verso": "ASA 4. Com IAM há 6 meses ou mais e sem complicação residual: ASA 2 ou 3.",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tabela 28-2, p. 460"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo o Malamed, qual a aspirina para quem tem suspeita de infarto?",
+      "verso": "325 mg, sem revestimento entérico, por via oral, mastigada e deglutida (ou em pó com água), salvo alergia significativa ou hemorragia potencialmente fatal.",
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tratamento, Etapa 5d, p. 466–467 (fronteira não confirmada)"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o Andrade e Ranali, quantas vezes se pode repetir o nitrato sublingual na angina?",
+      "verso": "Se a dor persistir após 5 minutos, no máximo duas repetições. Oxigênio a 3 L/min; se continuar, chamar o serviço de urgência.",
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Angina de peito, Protocolo de atendimento, p. 99"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Andrade e Ranali, qual a aspirina no infarto suspeito?",
+      "verso": "2 a 3 comprimidos de 100 mg, amassados ou para mastigar (faixa de 160 a 325 mg).",
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Protocolo de atendimento e Comentários finais, p. 102–103"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo a AHA 2021 (EUA), qual o regime oral de adulto para profilaxia da endocardite e quando dar?",
+      "verso": "Amoxicilina 2 g em dose única, 30 a 60 minutos antes. Se esqueceu, pode dar até 2 horas depois.",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Tabela 5 e texto de outras considerações"
+    },
+    {
+      "id": "f16",
+      "frente": "O que a AHA 2021 (EUA) diz sobre a clindamicina na profilaxia odontológica da endocardite?",
+      "verso": "Não é mais recomendada: as reações são mais frequentes e mais graves.",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Tabela 5 (nota) e texto de reações"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente de 58 anos, com angina estável conhecida, sente aperto subesternal durante uma extração e diz: \"é a minha angina de sempre\". Segundo o Malamed, qual a conduta inicial?",
+      "alternativas": [
+        {
+          "texto": "Concluir a extração com rapidez e dar a nitroglicerina logo depois.",
+          "correta": false,
+          "justificativa": "O livro manda parar imediatamente todos os procedimentos ao início da dor; muitas vezes o fim do procedimento termina o episódio.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Tratamento, Etapa 1, p. 451"
+        },
+        {
+          "texto": "Parar o procedimento, deixar o paciente na posição mais confortável e dar a nitroglicerina dele, sublingual ou em spray.",
+          "correta": true,
+          "justificativa": "É a sequência do livro: parar, posição que o paciente achar confortável (em geral sentado ou em pé) e nitroglicerina o mais rápido possível, de preferência a do próprio paciente.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Tratamento, Etapas 1 a 4c, p. 451–452"
+        },
+        {
+          "texto": "Deitar o paciente em posição supina e administrar morfina.",
+          "correta": false,
+          "justificativa": "O livro diz que a posição supina raramente é a preferida e que opioides não são indicados na angina; a única indicação de opioide é o infarto.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Etapa 2, p. 451; opioides, p. 452"
+        },
+        {
+          "texto": "Ativar o serviço de emergência e esperar a chegada dele antes de dar qualquer medicamento.",
+          "correta": false,
+          "justificativa": "Em quem tem angina conhecida e reconhece a crise como a de sempre, o livro manda dar a nitroglicerina o mais rápido possível; o serviço de emergência é chamado se a dor não ceder, se voltar ou se o paciente pedir.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Etapas 4a e 4c, p. 451–452"
+        }
+      ],
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tratamento, Etapas 1 a 4c, p. 451–452",
+      "secao": "angina-crise",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "O mesmo paciente recebeu oxigênio e três doses de nitroglicerina ao longo de 15 minutos e a dor no peito continua. Segundo o Malamed, o que fazer agora?",
+      "alternativas": [
+        {
+          "texto": "Retomar o tratamento planejado, já que a angina cede espontaneamente.",
+          "correta": false,
+          "justificativa": "O livro permite continuar o tratamento depois do fim da dor; aqui a dor persiste, e a conduta é chamar o serviço de emergência.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Etapas 4c e 5, p. 452"
+        },
+        {
+          "texto": "Dar uma quarta dose e repetir a cada 5 minutos até a dor ceder.",
+          "correta": false,
+          "justificativa": "O livro limita a nitroglicerina a 3 doses em 15 minutos; depois delas, sem alívio, a conduta é chamar o serviço de emergência.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Etapa 4a, p. 451"
+        },
+        {
+          "texto": "Solicitar o serviço médico de emergência, dar aspirina e monitorar e registrar os sinais vitais.",
+          "correta": true,
+          "justificativa": "É o desfecho do Quadro 27-2 quando a dor não desaparece depois de vasodilatador e oxigênio (até 3 doses).",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Quadro 27-2, p. 454; Etapa 4c, p. 452"
+        },
+        {
+          "texto": "Liberar o paciente com acompanhante para consulta médica no dia seguinte.",
+          "correta": false,
+          "justificativa": "Com dor persistente após o oxigênio e 3 doses, o Quadro 27-2 manda solicitar o serviço médico de emergência.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Quadro 27-2, p. 454"
+        }
+      ],
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Etapa 4c e Quadro 27-2, p. 452–454",
+      "secao": "angina-crise",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente ASA 3 por angina vai receber lidocaína com epinefrina 1:100.000 em tubetes de 1,8 mL. Segundo o Malamed, a dose máxima de epinefrina por consulta nesse paciente é 0,04 mg. Quantos tubetes isso representa?",
+      "alternativas": [
+        {
+          "texto": "Um tubete.",
+          "correta": false,
+          "justificativa": "O livro equipara 0,04 mg a um tubete só na concentração 1:50.000; para 1:100.000 a equivalência dele é de dois tubetes.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447"
+        },
+        {
+          "texto": "Dois tubetes.",
+          "correta": true,
+          "justificativa": "O livro equipara 0,04 mg a dois tubetes de 1:100.000 (0,01 mg/mL).",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447"
+        },
+        {
+          "texto": "Três tubetes.",
+          "correta": false,
+          "justificativa": "A equivalência do livro para 1:100.000 é de dois tubetes, não três.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447"
+        },
+        {
+          "texto": "Quatro tubetes.",
+          "correta": false,
+          "justificativa": "Quatro tubetes é a equivalência do livro para 1:200.000 (0,005 mg/mL); a 1:100.000 quatro tubetes passam do limite.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447"
+        }
+      ],
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Vasopressores, p. 447",
+      "secao": "angina-vasoconstritor",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 63 anos, angina estável há anos. Nas últimas duas semanas as crises passaram a surgir com menos esforço e a nitroglicerina alivia menos. Vem para restauração eletiva. Segundo o Malamed (Tabela 27-6), o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Tratar como ASA 3: atender com oxigênio e possível nitroglicerina 5 minutos antes.",
+          "correta": false,
+          "justificativa": "Essa conduta é da angina de 2 a 3 vezes por semana sem mudança recente; a Tabela 27-6 coloca em ASA 4 a mudança nas últimas 2 a 3 semanas (menos esforço, menor resposta à nitroglicerina).",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Tabela 27-6, p. 446"
+        },
+        {
+          "texto": "Tratar como ASA 2: atender com as considerações usuais e oxigênio.",
+          "correta": false,
+          "justificativa": "O ASA 2 da tabela é para crises de 0 a 4 por mês e sem dificuldade para andar 2 quarteirões; aqui houve mudança recente nas características.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Tabela 27-6, p. 446"
+        },
+        {
+          "texto": "Tratar como ASA 4, mas fazer o eletivo com anestésico sem vasoconstritor.",
+          "correta": false,
+          "justificativa": "No ASA 4 o livro limita o atendimento à emergência e depois de consultar o médico; o eletivo não é candidato.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Considerações sobre a terapia odontológica, p. 445"
+        },
+        {
+          "texto": "Tratar como ASA 4: adiar o eletivo e atender só emergência, depois de consultar o médico.",
+          "correta": true,
+          "justificativa": "A Tabela 27-6 põe em ASA 4 as crises diárias ou com mudança recente nas características, e o livro limita o ASA 4 à emergência após consulta ao médico.",
+          "fonte": "malamed7-cap27",
+          "onde": "cap. 27, Angina Pectoris, Tabela 27-6, p. 446; p. 445"
+        }
+      ],
+      "fonte": "malamed7-cap27",
+      "onde": "cap. 27, Angina Pectoris, Tabela 27-6, p. 445–446",
+      "secao": "angina-atendimento",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 55 anos teve infarto há 4 meses e hoje não tem sintomas. Quer fazer profilaxia (limpeza) e restaurações eletivas. Segundo o Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Atender como ASA 2, pois está sem sintomas.",
+          "correta": false,
+          "justificativa": "A Tabela 28-2 põe em ASA 4 o infarto documentado há menos de 6 meses; o ASA 2 ou 3 é para 6 meses ou mais sem complicação residual.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Tabela 28-2, p. 460"
+        },
+        {
+          "texto": "Fazer só a profilaxia, por ser procedimento sem risco.",
+          "correta": false,
+          "justificativa": "O livro diz que até procedimentos aparentemente inócuos, como a profilaxia, devem ser evitados por pelo menos 6 meses após o infarto.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Seis meses após o infarto, p. 461"
+        },
+        {
+          "texto": "Adiar o atendimento eletivo, inclusive a profilaxia, até pelo menos 6 meses do infarto.",
+          "correta": true,
+          "justificativa": "É a recomendação do livro; antes disso, só emergência, e com consulta médica fortemente sugerida.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Seis meses após o infarto, p. 461"
+        },
+        {
+          "texto": "Fazer o eletivo com anestésico sem vasoconstritor, que dispensa outros cuidados.",
+          "correta": false,
+          "justificativa": "Em ASA 4 (infarto há menos de 6 meses) o livro não considera o procedimento eletivo, com ou sem vasoconstritor.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Controle da dor, Tabela 28-2, p. 460–461"
+        }
+      ],
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tabela 28-2 e Seis meses após o infarto, p. 460–461",
+      "secao": "iam-eletivo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Homem de 50 anos, sem história de doença cardíaca, queixa-se durante o tratamento de dor intensa em peso atrás do esterno, com suor frio e náusea há 20 minutos. Segundo o Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Ativar de imediato o serviço de emergência, dar oxigênio e aspirina e monitorar os sinais vitais.",
+          "correta": true,
+          "justificativa": "Sem história de angina o livro manda chamar o serviço de emergência imediatamente e tratar como infarto: oxigênio, aspirina (pó ou mastigável) e monitorização dos sinais vitais.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Etapas 2 e 5a a 5e, Quadro 28-2, p. 465–470"
+        },
+        {
+          "texto": "Dar nitroglicerina e esperar alguns minutos para ver se a dor cede antes de decidir se chama o serviço de emergência.",
+          "correta": false,
+          "justificativa": "O erro é esperar: sem história de dor no peito, o livro manda solicitar o serviço médico de emergência imediatamente e tratar como infarto (Quadro 28-2); a nitroglicerina entra só como \"considerar\", uma dose, sem adiar a chamada.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Etapa 2 (c) e Quadro 28-2, p. 465 e 470"
+        },
+        {
+          "texto": "Deitar o paciente em posição supina e observar alguns minutos se a dor cede com repouso.",
+          "correta": false,
+          "justificativa": "O livro diz que a posição ereta é geralmente a preferida e que repouso não alivia a dor do infarto.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Etapa 3 e Manifestações clínicas, p. 462–465"
+        },
+        {
+          "texto": "Encerrar o procedimento e encaminhá-lo à consulta médica nas próximas 24 horas.",
+          "correta": false,
+          "justificativa": "Dor no peito sem história prévia exige solicitar o serviço médico de emergência imediatamente, e não consulta posterior.",
+          "fonte": "malamed7-cap28",
+          "onde": "cap. 28, Infarto Agudo do Miocárdio, Etapa 5a e Quadro 28-2, p. 465 e 470"
+        }
+      ],
+      "fonte": "malamed7-cap28",
+      "onde": "cap. 28, Infarto Agudo do Miocárdio, Tratamento, Etapas 2 a 5e, Quadro 28-2, p. 465–470",
+      "secao": "iam-crise",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Mulher de 62 anos tem dor torácica intensa no consultório, e a dor persiste depois das doses de nitrato sublingual, com intervalos de 5 minutos. Segundo o protocolo de infarto do Andrade e Ranali, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Controlar a crise e encaminhar para avaliação médica com acompanhante adulto.",
+          "correta": false,
+          "justificativa": "É o passo 6 do protocolo da angina, depois de a crise ser controlada; aqui a dor persiste apesar do nitrato, e o livro manda suspeitar de infarto.",
+          "fonte": "ar3-cap08",
+          "onde": "cap. 8, Dor no Peito, Angina de peito, Protocolo, p. 99; Infarto, p. 100"
+        },
+        {
+          "texto": "Levar a paciente ao hospital no carro do dentista.",
+          "correta": false,
+          "justificativa": "O livro diz para não transportar o paciente ao hospital, salvo onde não houver Samu (192) ou resgate do Corpo de Bombeiros (193).",
+          "fonte": "ar3-cap08",
+          "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Protocolo, passo 2, p. 102"
+        },
+        {
+          "texto": "Repetir o nitrato sublingual até a dor ceder, sem limite de doses.",
+          "correta": false,
+          "justificativa": "O livro fixa o máximo de 3 doses, com intervalos de 5 minutos.",
+          "fonte": "ar3-cap08",
+          "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Comentários finais, p. 103"
+        },
+        {
+          "texto": "Chamar o socorro médico, dar 2 a 3 comprimidos de ácido acetilsalicílico de 100 mg e oxigênio a 3 L/min, e monitorar os sinais vitais.",
+          "correta": true,
+          "justificativa": "São os passos 2, 5, 8 e 9 do protocolo do infarto do livro.",
+          "fonte": "ar3-cap08",
+          "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Protocolo de atendimento, p. 102"
+        }
+      ],
+      "fonte": "ar3-cap08",
+      "onde": "cap. 8, Dor no Peito, Infarto agudo do miocárdio, Protocolo de atendimento, p. 102–103",
+      "secao": "ar-iam-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo a AHA 2021 (declaração científica dos EUA), em qual destes pacientes a profilaxia antibiótica é sugerida antes de uma extração?",
+      "alternativas": [
+        {
+          "texto": "Portador de marca-passo.",
+          "correta": false,
+          "justificativa": "Dispositivos eletrônicos implantáveis, como o marca-passo, estão na lista em que a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 3"
+        },
+        {
+          "texto": "Portador de stent coronariano.",
+          "correta": false,
+          "justificativa": "Stents coronarianos ou vasculares estão na lista em que a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 3"
+        },
+        {
+          "texto": "Paciente que já teve endocardite infecciosa.",
+          "correta": true,
+          "justificativa": "Endocardite prévia, recidivante ou recorrente está na lista em que a profilaxia é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 3"
+        },
+        {
+          "texto": "Paciente com prolapso da valva mitral.",
+          "correta": false,
+          "justificativa": "O documento manteve a posição de não sugerir profilaxia para prolapso da valva mitral, valvopatia reumática, estenose aórtica e valva aórtica bicúspide.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, discussão sobre ampliar as categorias de risco (valvopatia reumática, estenose aórtica, valva bicúspide, prolapso mitral)"
+        }
+      ],
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Tabela 3 e discussão sobre ampliar as categorias de risco",
+      "secao": "aha-quem",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Mulher de 40 anos, com valva cardíaca protética e sem alergia a antibióticos, fará uma extração. Segundo a AHA 2021 (EUA), qual o regime oral de profilaxia?",
+      "alternativas": [
+        {
+          "texto": "Amoxicilina 2 g em dose única, 30 a 60 minutos antes do procedimento.",
+          "correta": true,
+          "justificativa": "É o regime oral de adulto da Tabela 5 para quem não é alérgico, em dose única.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 5"
+        },
+        {
+          "texto": "Amoxicilina 2 g uma hora antes e nova dose 6 horas depois.",
+          "correta": false,
+          "justificativa": "A Tabela 5 traz dose única, 30 a 60 minutos antes do procedimento.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 5"
+        },
+        {
+          "texto": "Clindamicina em dose única, 30 a 60 minutos antes.",
+          "correta": false,
+          "justificativa": "A AHA 2021 diz que a clindamicina não é mais recomendada nessa profilaxia; para quem não é alérgico, o regime oral é amoxicilina.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 5 (nota) e texto de reações"
+        },
+        {
+          "texto": "Cefalexina 2 g em dose única.",
+          "correta": false,
+          "justificativa": "A cefalexina está na linha de quem é alérgico a penicilina ou ampicilina; a paciente não é alérgica.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021 corrigida, Tabela 5"
+        }
+      ],
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021 corrigida, Tabela 5",
+      "secao": "aha-regime",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente com prótese valvar precisa de várias exodontias em sessões separadas. Segundo o protocolo de atendimento do Andrade (2014), qual conduta consta nele?",
+      "alternativas": [
+        {
+          "texto": "Fazer as sessões em dias seguidos, repetindo o antibiótico a cada uma.",
+          "correta": false,
+          "justificativa": "O protocolo prevê intervalo mínimo de 10 dias entre as sessões.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, item 10, p. 189"
+        },
+        {
+          "texto": "Agrupar o máximo de procedimentos sob a mesma cobertura antibiótica e manter intervalo mínimo de 10 dias entre as sessões.",
+          "correta": true,
+          "justificativa": "Itens do protocolo: fazer o maior número possível de procedimentos sob a mesma cobertura antibiótica e manter intervalo mínimo de 10 dias entre as sessões, o que ajuda a evitar bactérias resistentes.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, itens 5 e 10, p. 189"
+        },
+        {
+          "texto": "Dispensar o bochecho de clorexidina, porque o antibiótico já cobre a bacteremia.",
+          "correta": false,
+          "justificativa": "O protocolo manda bochecho com digluconato de clorexidina a 0,2% imediatamente antes de cada sessão, para reduzir a magnitude das bacteremias.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, item 8, p. 189"
+        },
+        {
+          "texto": "Usar o antimicrobiano de preferência do dentista, mesmo fora dos regimes da AHA.",
+          "correta": false,
+          "justificativa": "O protocolo diz para não empregar antimicrobianos diferentes dos que constam dos regimes recomendados pela AHA (2007, como o livro cita).",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, item 6, p. 189"
+        }
+      ],
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Protocolo de atendimento de pacientes com risco para a endocardite, p. 188–189",
+      "secao": "andrade-regime",
+      "figura": null
+    }
+  ]
+}

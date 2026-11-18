@@ -107,8 +107,10 @@
       "codigo": "13744",
       "nome": "Clínica Odontológica Integrada da Pessoa com Necessidades Especiais",
       "sigla": "PNE",
-      "status": "em-breve",
-      "areas": [],
+      "status": "ativa",
+      "areas": [
+        "Pacientes Especiais"
+      ],
       "turmas": [
         {
           "nome": "Guarulhos · segunda noite",

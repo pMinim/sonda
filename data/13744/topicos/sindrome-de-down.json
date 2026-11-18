@@ -1,0 +1,527 @@
+{
+  "slug": "sindrome-de-down",
+  "titulo": "Síndrome de Down: alterações bucais, cardiopatia, doença periodontal precoce",
+  "area": "Pacientes Especiais",
+  "origem": "Varellis (manual) 3ª ed., cap. 19; AHA 2021, endocardite; Little e Falace 9ª ed., caps. 23 e 27 (menções)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "varellis3-cap19",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 19, Síndrome de Down, p. 159–163 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 19"
+    },
+    {
+      "id": "aha2021-endocardite",
+      "ref": "Wilson WR, Gewitz M, Lockhart PB, et al. Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association. Circulation. 2021;143(20):e963–e978. doi:10.1161/CIR.0000000000000969 (com as correções de 30/08/2021 e 25/04/2022).",
+      "curta": "AHA 2021, endocardite (EUA)"
+    },
+    {
+      "id": "lf9-down",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 23, Disorders of White Blood Cells, p. 402–427, e cap. 27, Neurologic Disorders, p. 516–543 (menções de passagem, pp. 404, 406, 527 e 533).",
+      "curta": "Little e Falace 9ª ed., caps. 23 e 27"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "apresentacao",
+      "titulo": "O que é a síndrome e de onde vem o texto",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160",
+      "texto": "**Fonte deste tema:** o capítulo 19 do manual prático organizado por Maria Lucia Zarvos Varellis (Guanabara Koogan, 3ª ed., 2017), escrito por Walter L. Siqueira. É um manual de organizadora. O Little e Falace (autores dos EUA) só cita a síndrome de passagem, na seção própria mais adiante, e o Neville não tem entrada sobre ela; por isso o tema é curto.\n\nA síndrome de Down é uma aberração do **cromossomo 21** (trissomia do 21). O livro conta que o nome homenageia o médico inglês Langdon Down, que a chamou de \"idiotia mongólica\" pelo aspecto oblíquo dos olhos. Hoje se evitam \"mongolismo\" e \"mongoloide\"; usam-se **trissomia do cromossomo 21** ou **síndrome de Down**.\n\n**Três formas citogenéticas** (distribuição segundo o livro):\n\n- **trissomia simples do 21:** 96% dos casos;\n- **translocação** (um cromossomo, inteiro ou em parte, se liga a outro): 2%;\n- **mosaicismo** (algumas células com 47 cromossomos e outras com 46): 2%.\n\nÉ a anomalia genética de maior ocorrência: de 1 a cada 600 a 700 nascimentos, segundo o livro. A principal causa apontada é a **idade materna avançada**, e cerca de 50% dos fetos afetados são abortados espontaneamente."
+    },
+    {
+      "id": "sistemico",
+      "titulo": "Manifestações sistêmicas que você precisa conhecer",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161",
+      "texto": "Antes de atender, a anamnese precisa passar por estes pontos que o capítulo descreve:\n\n- **Coração:** cerca de 40 a 50% têm alguma anomalia cardíaca. A mais comum é o **prolapso da valva mitral**, cerca de 50% das doenças cardíacas desses pacientes. Sobre antibiótico, o manual afirma que o tratamento odontológico pede antibioticoterapia, sobretudo em procedimentos cruentos (raspagem subgengival, exodontia, endodontia). Essa é a orientação do manual e não a indicação atual: quem tem profilaxia sugerida é definido pela declaração da AHA 2021 (EUA), na seção própria, que não sugere profilaxia para o prolapso da valva mitral.\n- **Coluna cervical:** em 31% há defeito da articulação atlantoaxial, com distância maior que **5 mm** (valor máximo normal). O capítulo aponta possível compressão da medula espinal em movimentos bruscos de flexão ou extensão; não traz conduta de consultório para esse achado.\n- **Tireoide:** o mau funcionamento leva a hipotireoidismo (cerca de 32%), com hipodesenvolvimento ósseo e dentário e atraso na erupção.\n- **Imunidade:** deficiência na função dos leucócitos e na produção de linfócitos T, defeito dos monócitos; sensibilidade a infecções recorrentes (respiratórias, intestinais e orais). Desenvolvem mais leucemia.\n- **Audição:** 70 a 80% têm alteração do ouvido médio e menor audição.\n- **Doença de Alzheimer:** o livro aponta correlação (gene no cromossomo 21), com incidência que chega a 30%, comum acima de 35 anos.\n- **Hipotonia muscular:** cerca de 80%. Dificulta andar e a coordenação motora, o que prejudica a higiene bucal, e afeta o posicionamento da língua, a deglutição, a abertura e o fechamento da boca e a mastigação.\n- **Olhos:** estrabismo, hipertelorismo e catarata."
+    },
+    {
+      "id": "periodonto-dentes",
+      "titulo": "Doença periodontal e dentes",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161",
+      "texto": "**Doença periodontal:** acomete quase a totalidade dos pacientes; o livro cita um estudo de Cohen com **96%**. A evolução é rápida, semelhante à da periodontite juvenil (Shaw e Saxby), sobretudo em adolescentes, e pode começar na infância. A região mais atingida fica perto dos **incisivos inferiores**.\n\nA etiologia é desconhecida. O capítulo lista condições possíveis: má higiene, cálculo, maloclusão, menor capilaridade da mucosa e falha no metabolismo do colágeno. A explicação mais aceita é o **sinergismo entre a falha do colágeno e os defeitos do sistema imunológico**. A hipotonia e a coordenação motora ruim, vistas na seção anterior, atrapalham a higiene.\n\n**Agenesia dental:** alta, cerca de **63%** (nos dois sexos), em geral com falta de dois ou mais dentes. Na dentição permanente faltam mais:\n\n- terceiros molares;\n- incisivos laterais superiores;\n- incisivos laterais inferiores;\n- segundos pré-molares superiores.\n\nNa decídua faltam mais os incisivos laterais superiores e inferiores.\n\n**Erupção atrasada:** na decídua, o primeiro dente surge por volta do 12º ao 20º mês; na permanente, a primeira erupção ocorre por volta dos 8 a 9 anos. O atraso se liga a doenças sistêmicas (hipotireoidismo, raquitismo) ou a fator local (fibromatose gengival). A sequência também muda: erupcionam os primeiros molares e só depois os incisivos."
+    },
+    {
+      "id": "oclusao-lingua",
+      "titulo": "Oclusão e língua",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162",
+      "texto": "**Oclusão:** em **73%** dos casos há problema de oclusão. A maxila e o palato se desenvolvem pouco em relação à mandíbula, que cresce normalmente. Isso encurta a arcada superior e causa apinhamento. A maxila proporcionalmente menor leva à **mordida cruzada posterior**. A **mordida aberta anterior** vem do mau posicionamento da língua, que projeta os dentes anteriores para a frente.\n\n**Língua:** a literatura é controversa quanto ao tamanho. Uma linha defende **macroglossia**; outra, língua de tamanho normal numa cavidade oral reduzida pelo hipodesenvolvimento do terço médio da face, com a língua entre os lábios. Os dois lados ficam registrados, sem escolha.\n\nO capítulo cita ainda dois achados:\n\n- **hipotonia da língua** em 36,6% dos casos, que dificulta fala, mastigação e deglutição;\n- **língua fissurada** em 16%, que favorece a retenção de bactérias e de alimentos e a halitose."
+    },
+    {
+      "id": "carie-saliva",
+      "titulo": "Cárie e saliva",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163",
+      "texto": "Desde a década de 1950, pesquisas relatam **menor índice de cárie** que na população geral e que em outros deficientes mentais. Orner (1975) comparou o CPO-D com o de irmãos e achou valor menor em todas as idades, apesar de dieta e hábitos semelhantes.\n\nA literatura não explica o fenômeno. O capítulo cita quatro teorias:\n\n1. a alta agenesia aumenta o espaço interproximal e dificulta a retenção de alimentos;\n2. o atraso na erupção reduz o tempo de exposição aos ácidos;\n3. o bruxismo promove autolimpeza da superfície oclusal;\n4. mudanças na composição inorgânica da saliva, sobretudo no bicarbonato, dão maior capacidade de tamponamento.\n\n**Contradição apontada pelo livro:** esses pacientes não recebem cuidado especial. Randell e colaboradores observaram menos supervisão da higiene oral pelos pais, primeira consulta mais tardia e raro recebimento de suplemento ou aplicação de flúor em consultório.\n\n**Saliva:** há poucos estudos e a composição inorgânica é controversa. Alguns relataram mais sódio, cloro e bicarbonato. O **fluxo salivar** aparece reduzido, na saliva total e na da parótida. Na parte orgânica, mais proteína total, menos amilase e menor atividade da peroxidase. O capítulo diz que o papel real da saliva na cárie e na doença periodontal desses pacientes não é conhecido."
+    },
+    {
+      "id": "consultorio",
+      "titulo": "Precauções no consultório",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163",
+      "texto": "Segundo o capítulo, o tratamento é **ordinário** quando o dentista conhece as particularidades do paciente. Os cuidados que ele lista:\n\n- **menor tempo possível** na cadeira;\n- **anamnese completa**, para alterações sistêmicas e tratamentos médicos em curso;\n- **dique de borracha** sempre que possível, pois facilita e tranquiliza;\n- **estabilização da cabeça e do corpo** quando necessário;\n- paciente na **linha mediana da cadeira**, com os braços próximos ao corpo e as pernas estendidas;\n- em dúvida sobre a saúde, **contatar o médico responsável**.\n\nO capítulo fecha dizendo que muitas características orais têm etiologia e desenvolvimento pouco conhecidos, e que conhecer as particularidades permite um tratamento tranquilo e seguro.\n\n**O que o capítulo não detalha:** anestésico local e vasoconstritor, analgésicos, sedação, técnica de manejo comportamental e consentimento do paciente adulto. O tema não completa essas lacunas. A estabilização protetora e o manejo do comportamento são tratados no tema de TEA, com diretrizes da AAPD (EUA) para o paciente odontopediátrico; este capítulo do Varellis não os detalha."
+    },
+    {
+      "id": "endocardite-aha",
+      "titulo": "Profilaxia de endocardite: o que a AHA 2021 (EUA) sugere",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada",
+      "texto": "**Fonte desta seção:** declaração científica da American Heart Association (EUA), 2021, versão corrigida em 2022. Ela **sugere** a profilaxia só para o grupo de maior risco de desfecho ruim e diz que o benefício não está comprovado. Neste tema, a indicação de antibiótico antes de procedimento odontológico em cardiopata é a dessa declaração, e não a regra antiga do manual (seção sobre manifestações sistêmicas).\n\n**Profilaxia sugerida:**\n\n- **prótese ou material cardíaco:** valva protética, valva implantada por cateter, reparo de valva com dispositivo (anel, clipe), dispositivo de assistência ventricular esquerda ou coração implantável;\n- **endocardite prévia, recidivante ou recorrente;**\n- **cardiopatia congênita:** cianótica não reparada (incluindo shunts e condutos paliativos); reparada com material protético ou dispositivo, nos 6 primeiros meses após o procedimento; reparada com defeito residual ao lado de remendo ou dispositivo; valva ou conduto de artéria pulmonar colocado;\n- **receptor de transplante cardíaco que desenvolve valvulopatia.**\n\n**Profilaxia não sugerida:** marca-passo e outros dispositivos eletrônicos implantáveis, fechamento completo de defeito septal, enxertos e remendos vasculares periféricos, stents, derivações ventrículo-atriais do SNC, filtros de veia cava e pledgets. A declaração examinou ampliar as categorias e manteve a sugestão contra para valvopatias como o prolapso da valva mitral, o que difere do manual (seção sobre manifestações sistêmicas).\n\n**Procedimentos:** a profilaxia é sugerida para os que manipulam a gengiva ou a região periapical dos dentes, ou perfuram a mucosa oral. Não é sugerida para injeção anestésica em tecido não infectado, radiografias, colocação de prótese removível ou de aparelho ortodôntico, ajustes e braquetes, esfoliação de dentes decíduos e sangramento por trauma de lábio ou mucosa.\n\nA decisão é compartilhada entre profissional e paciente, que deve saber que não há benefício comprovado e que há riscos."
+    },
+    {
+      "id": "lf-down",
+      "titulo": "Little e Falace: o que o livro diz da síndrome de Down",
+      "fonte": "lf9-down",
+      "onde": "cap. 23, Disorders of White Blood Cells, leucemia mieloide aguda (etiologia), p. 404, e leucemia linfoblástica aguda, p. 406; cap. 27, Neurologic Disorders, Alzheimer (fisiopatologia), p. 527, e epilepsia (fisiopatologia), p. 533",
+      "texto": "**Fonte desta seção:** Little e Falace, 9ª ed. (autores dos EUA). O livro não tem capítulo nem seção sobre a síndrome de Down: ela aparece de passagem em quatro páginas, sem manejo odontológico.\n\n- **Leucemia (cap. 23, pp. 404 e 406):** a síndrome de Down está entre as doenças genéticas que aumentam o risco de leucemia mieloide aguda; a leucemia linfoblástica aguda é 18 a 20 vezes mais comum em pacientes com síndrome de Down (trissomia do 21), segundo o livro.\n- **Alzheimer (cap. 27, p. 527):** adultos com trissomia do 21 desenvolvem de modo consistente as marcas neuropatológicas da doença de Alzheimer se sobrevivem além dos 40 anos.\n- **Epilepsia (cap. 27, p. 533):** crises epilépticas ocorrem em condições genéticas como a síndrome de Down, a esclerose tuberosa e a neurofibromatose.\n\nO manual do Varellis dá outro dado sobre o Alzheimer; ver a seção de manifestações sistêmicas. São dados de fontes diferentes, e o tema não os iguala."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Que nomes o capítulo manda evitar e quais usar?",
+      "verso": "Evitar \"mongolismo\" e \"mongoloide\". Usar **trissomia do cromossomo 21** ou **síndrome de Down**.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Varellis, como se distribuem as formas citogenéticas, qual a ocorrência e a principal causa?",
+      "verso": "Trissomia simples do 21: 96%; translocação: 2%; mosaicismo (células com 47 e com 46 cromossomos): 2%. Ocorre em 1 a cada 600 a 700 nascimentos; principal causa apontada: idade materna avançada.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+    },
+    {
+      "id": "f04",
+      "frente": "Segundo o Varellis, qual a cardiopatia mais comum na síndrome de Down?",
+      "verso": "Prolapso da valva mitral: cerca de 50% das doenças cardíacas. Alguma anomalia cardíaca ocorre em cerca de 40 a 50%.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o Varellis, qual o achado da articulação atlantoaxial e o risco?",
+      "verso": "Em 31% a distância passa de 5 mm (máximo normal), com possível compressão da medula espinal em movimentos bruscos de flexão ou extensão.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+    },
+    {
+      "id": "f06",
+      "frente": "O que a hipotonia muscular (cerca de 80%) causa, segundo o Varellis?",
+      "verso": "Dificulta andar e a coordenação motora (prejudica a higiene bucal) e afeta língua, deglutição, abertura e fechamento da boca e mastigação.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Varellis, como é a doença periodontal na síndrome de Down?",
+      "verso": "Quase universal (Cohen: 96%), de evolução rápida como a periodontite juvenil, sobretudo em adolescentes, perto dos incisivos inferiores. Etiologia desconhecida.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais dentes permanentes mais faltam, segundo o Varellis?",
+      "verso": "Terceiros molares, incisivos laterais superiores e inferiores e segundos pré-molares superiores. Agenesia em cerca de 63%.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Varellis, quando erupciona o primeiro dente decíduo e o primeiro permanente?",
+      "verso": "Decíduo: por volta do 12º ao 20º mês. Permanente: por volta dos 8 a 9 anos. A sequência muda: primeiros molares antes dos incisivos.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual a causa da mordida cruzada posterior e da mordida aberta anterior, segundo o Varellis?",
+      "verso": "Cruzada posterior: maxila proporcionalmente menor. Aberta anterior: mau posicionamento da língua, que projeta os dentes anteriores.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162"
+    },
+    {
+      "id": "f11",
+      "frente": "Que teorias o Varellis cita para o baixo índice de cárie?",
+      "verso": "Agenesia (mais espaço interproximal), atraso de erupção, bruxismo (autolimpeza) e mais bicarbonato na saliva (maior tamponamento). A literatura não consegue explicá-lo.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163"
+    },
+    {
+      "id": "f12",
+      "frente": "Quais precauções de consultório o Varellis lista?",
+      "verso": "Menor tempo possível, anamnese completa, dique de borracha sempre que possível, estabilização da cabeça e do corpo se necessário, linha mediana com braços junto ao corpo e pernas estendidas.",
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163"
+    },
+    {
+      "id": "f13",
+      "frente": "Quem tem profilaxia de endocardite sugerida pela AHA 2021 (EUA)?",
+      "verso": "Prótese ou material cardíaco, endocardite prévia, certas cardiopatias congênitas e transplantado cardíaco com valvulopatia.",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+    },
+    {
+      "id": "f14",
+      "frente": "Pela AHA 2021 (EUA), a profilaxia é sugerida em injeção anestésica em tecido não infectado?",
+      "verso": "Não. É sugerida para procedimentos que manipulam gengiva ou região periapical, ou perfuram a mucosa oral.",
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+    },
+    {
+      "id": "f15",
+      "frente": "O que o Little e Falace diz de leucemia na síndrome de Down?",
+      "verso": "A leucemia linfoblástica aguda é 18 a 20 vezes mais comum. Síndrome de Down também está entre as doenças genéticas que aumentam o risco de leucemia mieloide aguda.",
+      "fonte": "lf9-down",
+      "onde": "cap. 23, Disorders of White Blood Cells, leucemia mieloide aguda (etiologia), p. 404, e leucemia linfoblástica aguda, p. 406"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Num prontuário de paciente com cromossomo 21 extra, você quer usar a nomenclatura que o capítulo do Varellis indica hoje. Qual escolhe?",
+      "alternativas": [
+        {
+          "texto": "Mongolismo.",
+          "correta": false,
+          "justificativa": "O capítulo diz que essa denominação é evitada atualmente.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+        },
+        {
+          "texto": "Trissomia do cromossomo 21.",
+          "correta": true,
+          "justificativa": "O capítulo indica trissomia do cromossomo 21 ou síndrome de Down, esta em homenagem ao primeiro descritor.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+        },
+        {
+          "texto": "Idiotia mongólica.",
+          "correta": false,
+          "justificativa": "Foi o nome dado pelo primeiro descritor, pelo aspecto dos olhos; dele vêm \"mongolismo\" e \"mongoloide\", que o capítulo diz que hoje se evitam.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+        },
+        {
+          "texto": "Paciente mongoloide.",
+          "correta": false,
+          "justificativa": "O capítulo cita \"mongoloides\" entre as denominações que se evitam atualmente.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Introdução e tipos citogenéticos, p. 159–160",
+      "secao": "apresentacao",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Adolescente com síndrome de Down e história de endocardite infecciosa fará vários procedimentos. Segundo a AHA 2021 (EUA), para qual deles a profilaxia é sugerida?",
+      "alternativas": [
+        {
+          "texto": "Injeção anestésica em tecido não infectado.",
+          "correta": false,
+          "justificativa": "Injeções anestésicas por tecido não infectado estão entre os procedimentos para os quais a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "Tomada de radiografias odontológicas.",
+          "correta": false,
+          "justificativa": "A tomada de radiografias consta entre os procedimentos para os quais a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "Extração de dente permanente.",
+          "correta": true,
+          "justificativa": "A profilaxia é sugerida para procedimentos que manipulam o tecido gengival ou a região periapical dos dentes, ou perfuram a mucosa oral, e a extração manipula a gengiva.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "Ajuste de aparelho ortodôntico.",
+          "correta": false,
+          "justificativa": "O ajuste de aparelhos ortodônticos está entre os procedimentos para os quais a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        }
+      ],
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada",
+      "secao": "endocardite-aha",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Adolescente com síndrome de Down tem a distância atlantoaxial acima de 5 mm. Segundo o Varellis, qual risco o capítulo associa a esse achado?",
+      "alternativas": [
+        {
+          "texto": "Possível compressão da medula espinal em movimentos bruscos de flexão ou extensão.",
+          "correta": true,
+          "justificativa": "O capítulo associa o defeito atlantoaxial, com distância acima do máximo normal de 5 mm, à possível compressão da medula espinal nesses movimentos.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+        },
+        {
+          "texto": "Atraso na erupção dentária por hipodesenvolvimento ósseo.",
+          "correta": false,
+          "justificativa": "O capítulo liga o atraso na erupção ao hipotireoidismo (e a outras causas), não à distância atlantoaxial.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+        },
+        {
+          "texto": "Perda de audição por alteração do ouvido médio.",
+          "correta": false,
+          "justificativa": "A alteração do ouvido médio (70 a 80%) é outra manifestação do capítulo; para a distância atlantoaxial acima de 5 mm o capítulo aponta a possível compressão da medula espinal.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+        },
+        {
+          "texto": "Dificuldade para mastigar e deglutir por hipotonia da língua.",
+          "correta": false,
+          "justificativa": "A hipotonia da língua (36,6%) é achado oral separado; para a distância atlantoaxial acima de 5 mm o capítulo aponta a possível compressão da medula espinal.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações sistêmicas, p. 159–161",
+      "secao": "sistemico",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Adolescente de 15 anos com síndrome de Down apresenta perda de inserção rápida, mais evidente nos incisivos inferiores. Segundo o Varellis, qual afirmação sobre esse quadro está correta?",
+      "alternativas": [
+        {
+          "texto": "A causa é conhecida e se resume à má higiene bucal.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a etiologia é desconhecida e lista várias condições possíveis, não só a má higiene.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "É mais comum depois dos 35 anos, quando surge o Alzheimer.",
+          "correta": false,
+          "justificativa": "A doença periodontal é descrita sobretudo em adolescentes, podendo iniciar na infância; os 35 anos aparecem para o Alzheimer.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "É restrita à região dos molares superiores.",
+          "correta": false,
+          "justificativa": "O local principal descrito é a região dos incisivos inferiores.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "Evolui rápido como a periodontite juvenil; a explicação mais aceita é o sinergismo entre falha do colágeno e defeito imunológico.",
+          "correta": true,
+          "justificativa": "É o que o capítulo descreve para a evolução e para a explicação mais aceita.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161",
+      "secao": "periodonto-dentes",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Segundo o Varellis, qual conjunto reúne os dentes permanentes mais frequentemente ausentes na síndrome de Down?",
+      "alternativas": [
+        {
+          "texto": "Incisivos centrais superiores, caninos e primeiros molares.",
+          "correta": false,
+          "justificativa": "O capítulo lista como mais ausentes na dentição permanente os terceiros molares, os incisivos laterais superiores e inferiores e os segundos pré-molares superiores; este conjunto é outro.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "Terceiros molares, incisivos laterais superiores e inferiores e segundos pré-molares superiores.",
+          "correta": true,
+          "justificativa": "São os quatro grupos que o capítulo cita como mais ausentes na dentição permanente.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "Incisivos laterais superiores e inferiores, só.",
+          "correta": false,
+          "justificativa": "Esses são os mais ausentes na dentição decídua; na permanente o capítulo lista também terceiros molares e segundos pré-molares superiores.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        },
+        {
+          "texto": "Primeiros pré-molares inferiores e segundos molares superiores.",
+          "correta": false,
+          "justificativa": "O capítulo lista como mais ausentes na dentição permanente os terceiros molares, os incisivos laterais superiores e inferiores e os segundos pré-molares superiores; este conjunto é outro.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Doença periodontal e Dentes, p. 159–161",
+      "secao": "periodonto-dentes",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Criança com síndrome de Down tem mordida cruzada posterior e mordida aberta anterior. Segundo o Varellis, como se explicam?",
+      "alternativas": [
+        {
+          "texto": "A cruzada vem do crescimento excessivo da mandíbula; a aberta, da agenesia.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a mandíbula tem crescimento normal; o hipodesenvolvimento é da maxila e do palato.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162"
+        },
+        {
+          "texto": "As duas vêm de macroglossia, que o capítulo dá como comprovada.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o tamanho da língua é controverso, com uma linha defendendo macroglossia e outra, língua normal.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162"
+        },
+        {
+          "texto": "A cruzada vem da hipotonia da língua; a aberta, da maxila maior.",
+          "correta": false,
+          "justificativa": "A maxila é proporcionalmente menor, e é isso que o capítulo liga à mordida cruzada posterior.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162"
+        },
+        {
+          "texto": "A cruzada vem da maxila proporcionalmente menor; a aberta, do mau posicionamento da língua.",
+          "correta": true,
+          "justificativa": "São as duas explicações que o capítulo dá.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Manifestações orais, Oclusão e Língua, p. 160–162",
+      "secao": "oclusao-lingua",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Os pais de um paciente com síndrome de Down perguntam por que o filho tem pouca cárie. Segundo o Varellis, qual explicação a literatura levanta?",
+      "alternativas": [
+        {
+          "texto": "O atraso na erupção reduz o tempo de exposição aos ácidos.",
+          "correta": true,
+          "justificativa": "É uma das quatro teorias do capítulo.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163"
+        },
+        {
+          "texto": "O fluxo salivar é maior que o da população geral.",
+          "correta": false,
+          "justificativa": "O capítulo descreve fluxo salivar reduzido, na saliva total e na parótida.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163"
+        },
+        {
+          "texto": "A dieta é menos cariogênica que a dos irmãos.",
+          "correta": false,
+          "justificativa": "Orner comparou com irmãos e achou CPO-D menor apesar de dieta e hábitos semelhantes.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163"
+        },
+        {
+          "texto": "A saliva tem menor capacidade de tamponamento.",
+          "correta": false,
+          "justificativa": "Uma das teorias do capítulo é o contrário: mais bicarbonato na saliva, com maior capacidade de tamponamento (o capítulo diz que a composição inorgânica é controversa).",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Cárie dentária e Composição salivar, p. 161–163",
+      "secao": "carie-saliva",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Adulto com síndrome de Down virá para um procedimento restaurador. Qual conduta está de acordo com as precauções do Varellis?",
+      "alternativas": [
+        {
+          "texto": "Reservar uma sessão longa para concluir tudo de uma vez.",
+          "correta": false,
+          "justificativa": "O capítulo pede o menor tempo possível na cadeira.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163"
+        },
+        {
+          "texto": "Dispensar a anamnese por se tratar de procedimento simples.",
+          "correta": false,
+          "justificativa": "O capítulo pede anamnese completa, para alterações sistêmicas e tratamentos médicos em curso.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163"
+        },
+        {
+          "texto": "Evitar o dique de borracha, que assusta o paciente.",
+          "correta": false,
+          "justificativa": "O capítulo indica dique sempre que possível, porque facilita e tranquiliza.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163"
+        },
+        {
+          "texto": "Usar o dique sempre que possível e posicionar o paciente na linha mediana, com braços junto ao corpo.",
+          "correta": true,
+          "justificativa": "São duas das precauções listadas no capítulo.",
+          "fonte": "varellis3-cap19",
+          "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163"
+        }
+      ],
+      "fonte": "varellis3-cap19",
+      "onde": "cap. 19, Síndrome de Down, Precauções no consultório odontológico e Considerações finais, p. 162–163",
+      "secao": "consultorio",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Quatro adultos com síndrome de Down precisam de exodontia. Segundo a AHA 2021 (EUA), em qual deles a profilaxia de endocardite é sugerida?",
+      "alternativas": [
+        {
+          "texto": "Prolapso da valva mitral, sem outra condição cardíaca.",
+          "correta": false,
+          "justificativa": "A declaração examinou ampliar as categorias e manteve a sugestão contra para valvopatias como o prolapso da valva mitral.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "Portador de marca-passo.",
+          "correta": false,
+          "justificativa": "Dispositivos eletrônicos implantáveis estão entre as condições em que a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "Portador de stent coronariano.",
+          "correta": false,
+          "justificativa": "Stents coronarianos e vasculares estão entre as condições em que a profilaxia não é sugerida.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        },
+        {
+          "texto": "História de endocardite infecciosa.",
+          "correta": true,
+          "justificativa": "Endocardite prévia está entre as condições de profilaxia sugerida, e a exodontia manipula a gengiva.",
+          "fonte": "aha2021-endocardite",
+          "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada"
+        }
+      ],
+      "fonte": "aha2021-endocardite",
+      "onde": "AHA 2021, Tabela 3 (condições), Tabela 4 (procedimentos) e texto sobre decisão compartilhada",
+      "secao": "endocardite-aha",
+      "figura": null
+    }
+  ]
+}

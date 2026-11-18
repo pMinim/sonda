@@ -1,0 +1,638 @@
+{
+  "slug": "transtorno-do-espectro-autista",
+  "titulo": "TEA: níveis de suporte (DSM-5-TR), manejo comportamental e estabilização protetora",
+  "area": "Pacientes Especiais",
+  "origem": "DSM-5-TR (APA, Artmed 2023), Transtorno do Espectro Autista; Varellis (manual) 3ª ed., cap. 43; AAPD 2026 (SHCN) e 2024 (Behavior Guidance e Protective Stabilization)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "dsm5tr-tea",
+      "ref": "American Psychiatric Association. Manual Diagnóstico e Estatístico de Transtornos Mentais: DSM-5-TR. Porto Alegre: Artmed; 2023. Transtorno do Espectro Autista, p. 56–67 (numeração da edição digital).",
+      "curta": "DSM-5-TR (APA, EUA)"
+    },
+    {
+      "id": "varellis3-cap43",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 43, Alterações Psíquicas, subseção Autismo, p. 350–351 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 43"
+    },
+    {
+      "id": "aapd-shcn2026",
+      "ref": "American Academy of Pediatric Dentistry. Management of Dental Patients with Special Health Care Needs. In: The Reference Manual of Pediatric Dentistry. AAPD; 2026. p. 388–395.",
+      "curta": "AAPD 2026, pacientes com necessidades especiais (EUA)"
+    },
+    {
+      "id": "aapd-comportamento2024",
+      "ref": "American Academy of Pediatric Dentistry. Behavior Guidance for the Pediatric Dental Patient. In: The Reference Manual of Pediatric Dentistry. AAPD; revisão de 2024. p. 403–423.",
+      "curta": "AAPD 2024, orientação do comportamento (EUA)"
+    },
+    {
+      "id": "aapd-estabilizacao2024",
+      "ref": "American Academy of Pediatric Dentistry. Use of Protective Stabilization for Pediatric Dental Patients. In: The Reference Manual of Pediatric Dentistry. AAPD; revisão de 2024. p. 424–430.",
+      "curta": "AAPD 2024, estabilização protetora (EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "criterios-dsm",
+      "titulo": "Critérios do DSM-5-TR",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Nota e Especificadores, p. 56–57",
+      "texto": "Esta seção e as duas seguintes são do **DSM-5-TR**, o manual de classificação da Associação Psiquiátrica Americana (EUA), na edição brasileira da Artmed (2023). É a classificação atual do transtorno do espectro autista. Nas páginas lidas, o manual descreve o diagnóstico e não trata do atendimento odontológico.\n\n**O diagnóstico exige os cinco critérios, de A a E:**\n- **A. Comunicação e interação social.** Déficits persistentes, em vários contextos, nos três aspectos ao mesmo tempo: reciprocidade socioemocional (conversa de ida e volta, compartilhar interesses e emoções, iniciar ou responder); comunicação não verbal usada na interação (contato visual, linguagem corporal, gestos, expressão facial); desenvolver, manter e compreender relacionamentos (ajustar o comportamento ao contexto, brincar de faz de conta, fazer amigos).\n- **B. Padrões restritos e repetitivos**, em pelo menos dois de quatro: movimentos, uso de objetos ou fala estereotipados (alinhar brinquedos, ecolalia); insistência nas mesmas coisas e adesão inflexível a rotinas (sofrimento com pequenas mudanças, dificuldade com transições, comer os mesmos alimentos todos os dias); interesses fixos e muito restritos; hiper ou hiporreatividade a estímulos sensoriais ou interesse incomum por aspectos sensoriais (indiferença aparente à dor, reação contrária a sons ou texturas específicas, fascínio por luzes ou movimento).\n- **C. Início precoce.** Os sintomas estão presentes cedo no desenvolvimento, mas podem só aparecer por inteiro quando a exigência social excede a capacidade, ou ficar mascarados por estratégias aprendidas depois.\n- **D. Prejuízo.** Os sintomas causam prejuízo clinicamente significativo no funcionamento social, profissional ou em outras áreas importantes, no presente.\n- **E. Não explicado melhor por deficiência intelectual** ou atraso global do desenvolvimento. Os dois costumam coexistir; para dar os dois diagnósticos, a comunicação social tem de estar abaixo do esperado para o nível geral de desenvolvimento.\n\nOs exemplos do manual são ilustrativos, não uma lista fechada.\n\n**Nota do manual:** quem tinha diagnóstico bem estabelecido, pelo DSM-IV, de transtorno autista, de Asperger ou de transtorno global do desenvolvimento sem outra especificação passa a receber o diagnóstico de transtorno do espectro autista. Quem tem déficits acentuados de comunicação social, mas não atende aos critérios do espectro, deve ser avaliado para transtorno da comunicação social (pragmática)."
+    },
+    {
+      "id": "niveis-dsm",
+      "titulo": "Níveis de gravidade (Tabela 2 do DSM-5-TR)",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59",
+      "texto": "O DSM-5-TR pede que se especifique a **gravidade atual**, com base na comunicação social e nos comportamentos restritos e repetitivos. A Tabela 2, intitulada níveis de gravidade, apresenta, como exemplos de níveis de necessidade de suporte, três níveis. Os rótulos do manual, do 3 ao 1: exigindo apoio muito substancial, exigindo apoio substancial e exigindo apoio.\n\n| Nível | Comunicação social | Comportamentos restritos e repetitivos |\n|---|---|---|\n| **3** | Déficits graves, verbais e não verbais, com prejuízo grave do funcionamento; muita limitação para iniciar interações; resposta mínima quando o outro inicia (exemplo do manual: fala inteligível de poucas palavras). | Inflexibilidade e extrema dificuldade com mudança interferem de modo acentuado em todas as esferas; grande sofrimento para mudar o foco ou as ações. |\n| **2** | Déficits graves; prejuízos sociais aparentes mesmo com apoio; limitação para iniciar e resposta reduzida ou anormal (exemplo: frases simples, interação restrita a interesses especiais). | Inflexibilidade e dificuldade com mudança aparecem o bastante para serem óbvias a um observador casual e interferem em vários contextos. |\n| **1** | Sem apoio, os déficits causam prejuízos notáveis; dificuldade para iniciar; respostas atípicas ou malsucedidas; pode parecer ter pouco interesse (exemplo: frases completas, mas falha na conversa de ida e volta). | A inflexibilidade interfere de modo significativo em um ou mais contextos; dificuldade para trocar de atividade; organização e planejamento atrapalham a independência. |\n\n**O que o manual diz sobre o uso dos níveis:**\n- Os dois domínios são classificados **em separado**; o manual diz que pode ser útil registrar o nível de cada um.\n- A gravidade **varia com o contexto e oscila com o tempo**; descreve a sintomatologia atual, que pode até ficar abaixo do nível 1.\n- As categorias de gravidade **não devem ser usadas para decidir a escolha e a oferta de serviços**. Quem tem habilidades melhores pode ter desafios psicossociais iguais ou maiores; as necessidades se definem caso a caso, conversando sobre as prioridades e metas da pessoa.\n\n**Além do nível, o manual manda especificar:** com ou sem comprometimento intelectual; com ou sem comprometimento da linguagem; se está associado a condição genética, médica ou fator ambiental conhecido (a síndrome de Down está entre os exemplos, sem que isso afirme causa); se está associado a outra alteração do neurodesenvolvimento, mental ou comportamental (por exemplo, irritabilidade, alterações do sono, comportamentos autolesivos, regressão); e se há catatonia."
+    },
+    {
+      "id": "caracteristicas-dsm",
+      "titulo": "O que o DSM-5-TR descreve: comunicação, sensorial, alimentação, autolesão",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores p. 59; Características Diagnósticas e Características Associadas, p. 60–62",
+      "texto": "**Espectro.** A expressão do transtorno varia muito com a gravidade, o nível de desenvolvimento e a idade. O diagnóstico é mais válido e confiável quando junta várias fontes: observação do clínico, história do cuidador e, quando possível, autorrelato. Instrumentos padronizados ajudam, mas o diagnóstico continua clínico, e não só o resultado de um questionário.\n\n**Linguagem e comunicação.** Muitos têm déficits de linguagem, da ausência de fala a atraso, compreensão reduzida e fala em eco; há também quem fale com fluência. Mesmo com vocabulário e gramática intactos, o uso da linguagem para comunicação social recíproca está prejudicado. A linguagem receptiva pode estar mais atrasada que a expressiva, e o manual manda avaliar as duas em separado. Em jovens e adultos fluentes, a linguagem corporal pode parecer estranha, rígida ou exagerada.\n\n**Quem não tem comprometimento intelectual ou de linguagem** pode ter déficits mais sutis e fazer grande esforço para escondê-los; quem desenvolveu estratégias compensatórias ainda tem dificuldade em situações novas ou sem apoio, com esforço e ansiedade para calcular o que é socialmente intuitivo; pode relatar que as interações são exaustivas.\n\n**Sensorial.** Respostas extremas a sons e texturas, cheirar ou tocar objetos de forma excessiva, fascínio por luzes e objetos giratórios e, às vezes, indiferença aparente à dor, ao calor ou ao frio.\n\n**Alimentação.** Reações extremas ou rituais ligados a gosto, cheiro, textura ou aparência da comida, e excesso de restrições alimentares, são comuns e podem ser a forma de apresentação do transtorno.\n\n**Rotina.** Sofrimento com mudança pequena, como a embalagem de um alimento favorito.\n\n**Características associadas:**\n- perfil intelectual irregular, mesmo com inteligência média ou alta;\n- déficits motores frequentes, como marcha atípica, falta de coordenação e andar na ponta dos pés;\n- **autolesão** (bater a cabeça, morder o punho) e comportamentos disruptivos ou desafiadores, mais comuns em crianças e adolescentes com autismo do que em outros transtornos, inclusive o do desenvolvimento intelectual;\n- comportamento semelhante à catatonia (lentificação e \"congelamento\" no meio da ação), em geral sem chegar a um episódio catatônico completo; o período de risco de catatonia comórbida parece ser maior na adolescência.\n\nNas páginas lidas, o manual não relaciona esses achados à conduta no consultório. As técnicas de manejo vêm das diretrizes da AAPD, nas seções seguintes."
+    },
+    {
+      "id": "varellis-autismo",
+      "titulo": "Varellis (manual): autismo, com critérios do DSM-IV-R",
+      "fonte": "varellis3-cap43",
+      "onde": "cap. 43, Alterações Psíquicas, subseção Autismo e Tabela 43.1, p. 350–351",
+      "texto": "**Sobre a fonte.** O Varellis é um **manual prático organizado por Maria Lucia Zarvos Varellis** (Guanabara Koogan, 3ª ed., 2017); não é um livro-texto clássico. A subseção \"Autismo\" está no cap. 43 (Alterações Psíquicas), p. 350–351, numeração do leitor. O livro usa \"autismo\" e \"quadro autista\" e não usa \"espectro autista\". **Os critérios que ele traz são os que o livro chama de DSM-IV-R, que é versão antiga. A classificação atual é a do DSM-5-TR**, nas três primeiras seções deste tema.\n\n**Como o livro descreve o autismo:**\n- Autores de orientação psicanalítica o tratam como forma primitiva e grave de psicose infantil; outros o classificam como alteração comportamental. Seger, citado pelo livro, fala em \"distúrbio global do desenvolvimento\", síndrome incapacitante de etiologia desconhecida.\n- O livro atribui a descrição a Leo Kanner, em estudo com 11 crianças (por Ajuriaguerra, como diz o texto).\n- Características: inabilidade para desenvolver relações, atraso na fala ou fala sem função comunicativa, brincar estereotipado, insistência na rotina, falta de imaginação.\n\n**Sinais que o livro lista por área:** alimentação (mastigação atípica, repertório alimentar que não aumenta); relação (não reage aos chamados, irrita-se com novos estímulos); brinquedos (não os usa de forma apropriada à idade); comunicação (não aponta, leva a pessoa pela mão para obter o que quer, não imita, ecolalia).\n\n**Critérios do DSM-IV-R, como o livro os cita:** sintomas antes dos 3 anos de idade; prejuízo qualitativo na interação social; prejuízo qualitativo na comunicação (ecolalia); padrões restritos e repetitivos de comportamento, interesses e atividades.\n\n**Tabela 43.1 (autismo × deficiência mental, termo do livro).** No autismo, o livro dá como muito frequentes a alteração grave da interação (parte da definição), a memória na aprendizagem de palavras, a ecolalia e o comportamento autoagressivo; a coordenação visual-motriz é boa, e a linguagem pode sofrer perda funcional. Na deficiência mental, a memória na aprendizagem de palavras e a ecolalia são pouco frequentes, e a coordenação visual-motriz é má.\n\n**Conduta que o livro dá:** para os casos graves, o livro indica anestesia geral, ou estabilização acompanhada de técnicas seguras de sedação. Nas considerações finais, o capítulo diz que tratar essas condições não é do dentista, que precisa de noções gerais para encaminhar a tratamento psicológico e/ou psiquiátrico. A subseção fichada não detalha técnicas de comportamento nem critérios para estabilizar. A AAPD (EUA) trata da estabilização protetora e da anestesia geral com critérios próprios, nas seções seguintes; o tema mostra cada fonte na sua seção e não as concilia."
+    },
+    {
+      "id": "aapd-shcn",
+      "titulo": "AAPD 2026: manejo do paciente com necessidades especiais",
+      "fonte": "aapd-shcn2026",
+      "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392",
+      "texto": "As próximas seções são de documentos da **AAPD**, a Academia Americana de Odontopediatria (EUA): são melhores práticas de uma sociedade de especialidade norte-americana, não regra brasileira. Os três documentos da AAPD usados neste tema são de uma academia de odontopediatria, e os de comportamento e estabilização trazem paciente pediátrico no título. As fontes usadas são diretrizes norte-americanas e não tratam de regra legal brasileira nem de regra para o adulto com autismo; o tema não as extrapola. Esta é a versão de 2026 do documento sobre pacientes com necessidades especiais de saúde (SHCN). **Ela não cita o autismo pelo nome**; fala de SHCN em geral, o que inclui diferenças de processamento sensorial. O documento trata do manejo do cuidado, não de tratamento de condições bucais específicas.\n\n**Quando o ambiente pesa.** Se ruído, luz, som, cheiros, sabores e texturas do consultório sobrecarregam o processamento sensorial, o paciente pode ficar defensivo ou não aceitar os procedimentos.\n\n**O que a AAPD diz que o profissional deve fazer:**\n- **Triagem no agendamento**, para saber se há SHCN e de que tipo. A equipe decide se precisa de consulta mais longa, de mais auxiliares, de melhor horário (manhã, primeiro do dia, poucos pacientes na espera) e de visitas introdutórias. A necessidade de mais tempo ou de serviço personalizado deve ser **registrada** no prontuário.\n- Entender as hipersensibilidades, os gatilhos de comportamento negativo, as estratégias que acalmam, a adesão a horário e rotina e as terapias em curso, e usar estratégias de manejo básicas e avançadas conforme a necessidade individual.\n- **Comunicar-se no nível do desenvolvimento cognitivo** e **não supor deficiência intelectual** só porque a comunicação é limitada, a menos que isso esteja especificado.\n- Seguir as leis de consentimento informado; com presença do responsável legal quando o paciente não pode consentir e, quando possível, facilitando a **tomada de decisão apoiada** entre paciente e responsável.\n- Obter história médica completa e consultar os médicos sobre medicamentos e interações. A estabilização protetora, a sedação e a anestesia geral aparecem entre os riscos a ponderar antes do procedimento.\n- Ter preparo de emergência: medicação de resgate, monitoração e protocolo de acionamento do serviço de emergência."
+    },
+    {
+      "id": "aapd-shcn-prevencao",
+      "titulo": "AAPD 2026: prevenção em casa",
+      "fonte": "aapd-shcn2026",
+      "onde": "Management of Dental Patients with SHCN, Prevention, p. 389–390",
+      "texto": "**Prevenção.** Cuidadores supervisionam a higiene diária. A escovação com dentifrício fluoretado é de **duas vezes ao dia**. Se o sabor ou a textura do dentifrício comum não é tolerado por questão sensorial, o documento aceita creme **sem espuma**, enxaguatório fluoretado ou alternativa aplicada com a escova. Escova elétrica e suporte de fio dental podem melhorar a adesão. Quem tem preferências de sabor e textura por causa de desafios sensoriais pode se beneficiar de orientação sobre os riscos e a prevenção. Estimulantes e antidepressantes podem causar boca seca e aumentar o risco de cárie."
+    },
+    {
+      "id": "aapd-comunicacao",
+      "titulo": "AAPD 2024: metas e avaliação do comportamento",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Background e Assessment, p. 404–406",
+      "texto": "Esta seção e as duas seguintes são do documento da **AAPD (EUA)** sobre orientação do comportamento do paciente odontopediátrico, revisão de 2024, publicado no manual de 2026.\n\n**Metas.** Estabelecer comunicação, reduzir medo e ansiedade, construir relação de confiança e entregar cuidado de qualidade de forma confortável, **minimamente restritiva**, segura e eficaz. Não é punição nem imposição de poder, e não pode ferir, envergonhar nem humilhar o paciente.\n\n**Avaliação.** Não há instrumento único e preciso. O documento manda perguntar aos pais sobre nível cognitivo, temperamento, ansiedade, reação a estranhos e comportamento em visitas anteriores, e depois observar o paciente. Dor deve ser avaliada e tratada durante o procedimento: ignorar uma mudança de comportamento causada por dor pode sensibilizar o paciente para as próximas consultas."
+    },
+    {
+      "id": "aapd-tecnicas-basicas",
+      "titulo": "AAPD 2024: consentimento e técnicas básicas de comportamento",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410",
+      "texto": "**Consentimento.** A comunicação **não exige consentimento específico**; **todas as outras técnicas exigem consentimento informado**. Ele inclui riscos, benefícios, alternativas, respostas às dúvidas e permissão **antes** do procedimento. Assinar não equivale a consentir. Se o comportamento leva a um novo plano, o novo método pede **novo consentimento**. A AAPD remete, para o consentimento, ao documento próprio dela e às leis estaduais dos EUA.\n\n**Técnicas básicas de comportamento (p. 407–410):** só a comunicação dispensa consentimento específico; o documento não diz que as demais técnicas desta lista estejam isentas.\n- **Comunicação em duas vias**, para todos os pacientes: perguntar, escutar e considerar o desenvolvimento cognitivo e outros déficits de comunicação ao escolher o método.\n- **Dizer-mostrar-fazer (tell-show-do):** explicar em linguagem adequada, demonstrar de forma não ameaçadora e fazer sem fugir do combinado. Ensina e dessensibiliza.\n- **Perguntar-dizer-perguntar:** para quem consegue dialogar; perguntar sobre sentimentos, explicar e perguntar de novo.\n- **Reforço positivo e elogio descritivo:** elogiar o comportamento específico, não um \"bom trabalho\" genérico.\n- **Distração:** imaginação, áudio, vídeo; uma pausa breve também distrai, antes de técnicas avançadas.\n- **Aumento do controle:** combinar com o paciente um sinal (levantar a mão) para pausar e treinar antes. Sem contraindicação, mas, usado cedo demais, pode aumentar o medo.\n- **Controle da voz:** contraindicado em paciente com deficiência auditiva.\n- **Presença ou ausência dos pais:** combinar antes com os pais; contraindicada quando eles não querem ou não conseguem apoiar. A técnica inclui pedir que os pais saiam quando o paciente não coopera e voltem como recompensa. Na estabilização protetora, o outro documento pede o contrário: considerar a presença do responsável (seção abaixo). Os dois estão no texto da AAPD, em contextos diferentes; o tema não concilia."
+    },
+    {
+      "id": "aapd-tea-tecnicas",
+      "titulo": "AAPD 2024: dessensibilização, ambiente sensorial, figuras e escalonamento",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410",
+      "texto": "Do mesmo documento da AAPD de 2024. As três primeiras técnicas abaixo (dessensibilização, ambientes sensoriais e PECS) **citam o autismo pelo nome**; adiamento e escalonamento são gerais, e o documento não os liga ao autismo. O documento não traz um protocolo de comportamento próprio para transtorno do espectro autista além do que está abaixo.\n\n**Dessensibilização.** Exposição gradual, em etapas, aos componentes que provocam ansiedade: livro, vídeo, site, treino em casa com espelho, visita sem tratamento e, só depois, a consulta. O documento a indica para quem tem medo, ansiedade e/ou transtornos do neurodesenvolvimento, e cita o transtorno do espectro autista. Contraindicação: nenhuma.\n\n**Ambientes sensoriais adaptados.** Luz baixa, projeções móveis no teto, música suave, manta ou envoltório para pressão profunda, com o objetivo de relaxar e evitar comportamento negativo. O documento os indica para pacientes com transtorno do espectro autista, dificuldades de processamento sensorial, outras deficiências ou ansiedade odontológica. Contraindicação: nenhuma.\n\n**Sistema de troca de figuras (PECS).** Técnica visual de comunicação alternativa para quem tem pouca ou nenhuma comunicação verbal. O documento diz que pode funcionar de forma especialmente boa em quem tem autismo e necessidades complexas de comunicação. Pode-se montar um quadro com figuras dos instrumentos e um símbolo, como uma placa de pare, para pedir pausa. Quem recebe não precisa de treinamento especial."
+    },
+    {
+      "id": "aapd-adiamento-escalonamento",
+      "titulo": "AAPD 2024: adiamento do tratamento e escalonamento",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Treatment deferral p. 407; Advanced behavior guidance p. 411–413",
+      "texto": "**Adiamento do tratamento.** A doença dentária geralmente não ameaça a vida, então o tipo e o momento do tratamento podem ser adiados, como alternativa à sedação ou à anestesia geral. Doença que avança rápido, trauma, dor ou infecção geralmente exigem tratamento imediato. Pode-se adiar tudo ou parte, ou usar intervenções terapêuticas (diamino fluoreto de prata, restauração terapêutica provisória, coroa pela técnica Hall, verniz de flúor) até o paciente conseguir cooperar, com avaliação individual; o documento recomenda reavaliações regulares quando se usa restauração terapêutica provisória ou diamino fluoreto de prata.\n\n**Escalonamento.** O documento diz que a maioria das crianças é manejada com técnicas básicas. As **avançadas** (estabilização protetora, sedação e anestesia geral) são para quem não coopera por falta de maturidade psicológica ou emocional e/ou por deficiência mental, física ou médica, e exigem treinamento além da graduação. A sedação é indicada para pacientes ansiosos em que as técnicas básicas falharam e para quem não coopera por imaturidade ou condição médica, física ou mental (p. 413). Entre as contraindicações da estabilização, o documento lista o paciente não cooperativo sem necessidade clara de tratamento naquela consulta (p. 412). O documento observa que os pais podem aceitar mais a técnica farmacológica do que a estabilização."
+    },
+    {
+      "id": "aapd-anestesia-geral",
+      "titulo": "AAPD 2024: anestesia geral",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Advanced behavior guidance, General anesthesia, p. 413–414",
+      "texto": "Do mesmo documento da AAPD (EUA) de 2024. O texto abaixo é o que a AAPD diz sobre anestesia geral, sem ligá-la ao autismo; o Varellis, na seção própria, tem a conduta dele.\n\n**Indicações.** A AAPD a indica quando não há cooperação por imaturidade ou deficiência; quando a anestesia local é ineficaz (infecção aguda, variação anatômica, alergia); em paciente extremamente medroso, pré-comunicativo ou não comunicativo; em cirurgia combinada; para proteger a psique ou reduzir risco; e em atendimento imediato e completo (trauma, celulite, dor aguda).\n\n**Contraindicações.** Paciente saudável e cooperativo com poucas necessidades; criança muito pequena cujas necessidades se resolvem com intervenções terapêuticas ou adiamento; conveniência; e condições médicas que a tornem inadequada.\n\n**Como se decide.** A decisão considera alternativas, risco-benefício e adiamento. O documento diz que a evidência crescente pede pesar o benefício contra possíveis efeitos nocivos e que falta pesquisa sobre os riscos em crianças pequenas."
+    },
+    {
+      "id": "estabilizacao-conceito",
+      "titulo": "Estabilização protetora: definição e pré-requisitos",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Definitions p. 424–425; Background p. 425–426; Indications p. 426",
+      "texto": "Documento da **AAPD (EUA)** sobre estabilização protetora em pacientes odontopediátricos, revisão de 2024. É melhor prática de sociedade norte-americana, com consenso de especialistas onde falta evidência; não é regra brasileira.\n\n**O que é.** Limitação física do movimento, por uma pessoa ou por equipamento, dispositivo ou material restritivo, **por tempo finito**, para fazer com segurança exame, diagnóstico e/ou tratamento. Antes se dizia \"restrição física\" e \"imobilização médica\". É uma **técnica avançada** de manejo do comportamento. Quando é feita por outra pessoa (pais, dentista, auxiliar), é ativa; quando é feita por dispositivo, é passiva. Os objetivos são reduzir ou eliminar o movimento indesejado, proteger paciente, responsável, dentista e equipe, e facilitar o tratamento de qualidade.\n\n**O que não é.** Abridor de boca em criança cooperativa não é estabilização protetora. Apoio de cabeça de cadeira de rodas e almofada da cadeira odontológica são auxiliares de posição, não necessariamente estabilização.\n\n**Pré-requisitos, pelo texto da AAPD:**\n- tentar **primeiro** o manejo comunicativo sem estabilização, a não ser que haja história de comportamento desadaptado ou combativo que possa ferir paciente ou equipe;\n- usar **somente** quando intervenções menos restritivas não funcionam;\n- **não deve** ser usada como disciplina, conveniência ou retaliação.\n\n**Em pacientes com necessidades especiais e autismo.** O documento diz que abordagens de manejo não farmacológico foram eficazes em alguns pacientes com transtorno do espectro autista e que, antes de estabilizar, é indicado **considerar alternativas**: distração, modelagem, integração sensorial, dessensibilização e reforço. Relata ainda que ambientes sensoriais adaptados e técnicas como a pressão profunda de um dispositivo de imobilização trouxeram conforto e reduziram o efeito de estímulos estressantes em pacientes com SHCN.\n\n**O que o documento não diz.** Nenhuma frase afirma que o paciente com autismo deve ser estabilizado. A indicação para SHCN é a de movimentos que, se descontrolados, seriam danosos ou prejudicariam de forma significativa a qualidade do cuidado (seção seguinte)."
+    },
+    {
+      "id": "estabilizacao-indicacoes",
+      "titulo": "Estabilização protetora: indicações e contraindicações",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427",
+      "texto": "Do documento da **AAPD (EUA)** sobre estabilização protetora, revisão de 2024.\n\n**Indicada para:**\n1. paciente que precisa de **diagnóstico imediato e/ou tratamento urgente e limitado** (exemplo do texto: criança pequena com trauma dental agudo) e não consegue cooperar pelo nível de desenvolvimento, por imaturidade ou por condição médica ou física;\n2. paciente que precisa de atendimento urgente e cujos **movimentos descontrolados** colocam em risco a segurança de paciente, responsável, dentista ou equipe;\n3. paciente **antes cooperativo** que de repente deixa de cooperar e não volta com as técnicas básicas, para proteger a segurança e concluir o procedimento;\n4. paciente **não cooperativo com necessidades limitadas** (exemplo: um quadrante), quando sedação ou anestesia geral talvez não sejam possíveis (não preenche critérios, fila longa para centro cirúrgico, custo e/ou preferência dos pais, depois de discutir as outras opções);\n5. paciente **sedado** que precisa de estabilização limitada para reduzir movimentos;\n6. paciente **com SHCN** que apresenta movimentos que, se descontrolados, seriam danosos para ele ou para o clínico, ou prejudicariam de forma significativa a qualidade do cuidado.\n\n**Contraindicada para:**\n1. paciente **cooperativo e não sedado**;\n2. paciente **não cooperativo sem necessidade clara de tratamento naquela consulta**;\n3. paciente que **não pode ser imobilizado com segurança** por condições médicas, psicológicas ou físicas associadas;\n4. paciente com **história de trauma físico ou psicológico**, incluindo abuso físico ou sexual ou outro trauma que o ponha em maior risco psicológico durante a restrição;\n5. paciente com **necessidades não emergenciais** que fará reabilitação de **boca toda ou de vários quadrantes**;\n6. **conveniência do profissional**;\n7. equipe **sem conhecimento e habilidade** na seleção do paciente e nas técnicas de restrição."
+    },
+    {
+      "id": "estabilizacao-consentimento",
+      "titulo": "Estabilização protetora: consentimento, assentimento e documentação",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428",
+      "texto": "Do documento da **AAPD (EUA)** sobre estabilização protetora, revisão de 2024. O consentimento segue as regras do próprio documento; as fontes deste tema não tratam da lei brasileira.\n\n**Consentimento.** A estabilização protetora, com ou sem dispositivo, dirigida pelo dentista e feita pela equipe, **exige consentimento informado de um dos pais**. O consentimento **deve** ser obtido e documentado no prontuário **antes** da estabilização. O profissional explica benefícios, riscos e **alternativas** (restauração terapêutica provisória, diamino fluoreto de prata, adiamento, e também sedação e anestesia geral) e ajuda os pais a decidir. Se o comportamento exigir mudança de técnica, é preciso **novo consentimento**, obtido e documentado.\n\n**Assentimento.** Quando o paciente pode entender, o profissional explica a necessidade da restrição e dá oportunidade de ele responder. O menor (não emancipado) não tem direito legal de consentir, mas seus desejos e sentimentos **devem ser considerados**. Em adolescentes ou adultos com **deficiência intelectual**, o assentimento também deve ser considerado.\n\n**O responsável pode encerrar.** Ele pode pôr fim à restrição **a qualquer momento**, se achar que há trauma físico ou psicológico. Nesse caso, o profissional conclui com segurança os passos necessários e encerra a consulta.\n\n**Presença dos pais.** O dentista **deve considerar** permitir que o responsável fique no consultório ou observe diretamente, salvo risco à segurança. Se os pais preferirem não estar, devem ser estimulados a dar apoio positivo antes e depois.\n\n**Documentação.** O prontuário **deve** conter:\n1. a indicação da estabilização;\n2. o tipo de estabilização;\n3. o consentimento informado;\n4. o motivo da exclusão dos pais durante a estabilização, quando for o caso;\n5. a duração da aplicação;\n6. a avaliação ou escala do comportamento durante a estabilização;\n7. qualquer resultado indesejado, como marcas na pele;\n8. as implicações para as consultas seguintes."
+    },
+    {
+      "id": "estabilizacao-cuidados",
+      "titulo": "Estabilização protetora: precauções, técnica e riscos",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Education p. 426; Precautions p. 427; Techniques e Monitoring p. 427–428; Risks p. 428",
+      "texto": "Do documento da **AAPD (EUA)** sobre estabilização protetora, revisão de 2024.\n\n**Treinamento.** Tentar estabilizar sem treino adequado expõe a risco o paciente, o cuidador, o clínico e a equipe. O documento diz que o profissional **deve** ter formação teórica e prática além da graduação e que a equipe **deve** ser treinada em técnicas seguras e humanas.\n\n**Precauções.** Antes, revisar o histórico médico em busca de condições ou medicamentos que comprometam a função fisiológica ou contraindiquem a técnica: instabilidade cardíaca, pulmonar e respiratória; problemas de alinhamento musculoesquelético ou fraqueza; hipermobilidade articular; fragilidade óssea; vulnerabilidade da pele ao estresse mecânico; instabilidade psicológica; distúrbios de termorregulação; medicamentos psicotrópicos.\n\n**Durante:**\n- usar a **alternativa menos restritiva**; as estabilizações ativa e passiva podem ser combinadas;\n- aperto e duração **devem** ser monitorados e reavaliados em intervalos regulares;\n- a estabilização em torno de membros ou do tórax **não pode** restringir ativamente a circulação nem a respiração, e **não deve causar dor**;\n- observar a linguagem corporal e avaliar a dor de forma contínua, e modificar o procedimento ao primeiro sinal de desconforto;\n- manter comunicação contínua, com empatia e instruções claras;\n- iniciar com a criança deitada de costas, o mais confortável possível; em estabilização de corpo inteiro, a restrição é feita em sequência e o apoio de cabeça, se houver, é ativado por último;\n- não fazer quantidade excessiva de tratamento enquanto o paciente está imobilizado: a saúde física e psicológica prevalece sobre conveniência ou remuneração;\n- em estresse grave ou histeria, **terminar a estabilização o mais rápido possível**.\n\n**Equipamento passivo adjunto.** Deve ser fácil de usar, do tamanho adequado, macio e contornado, **feito para estabilização (não improvisado)** e desinfetável.\n\n**Remoção.** Pode ser em sequência, com pausas curtas para avaliar a cooperação; lutar durante a remoção pode aumentar o risco de lesão para todos. Fazer debriefing com pais e paciente quando a imobilização foi imprevista.\n\n**Riscos.** A maioria das lesões é de hematomas e arranhões leves, mas há relatos de lesões mais graves; há menos lesões com estabilização passiva do que com a ativa. Com **prancha rígida**, o paciente pode superaquecer, **nunca** deve ficar sem supervisão e pode ter a via aérea comprometida se o pescoço não puder estender por inteiro, sobretudo em crianças pequenas ou sedadas. A liberação de catecolaminas na agitação pode sensibilizar o coração e causar arritmias."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quantos e quais são os critérios diagnósticos do transtorno do espectro autista no DSM-5-TR?",
+      "verso": "Cinco, todos presentes: A, comunicação e interação social; B, padrões restritos e repetitivos; C, início precoce; D, prejuízo no funcionamento; E, não explicado melhor por deficiência intelectual ou atraso global.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, p. 56–57"
+    },
+    {
+      "id": "f02",
+      "frente": "Quantos dos quatro tipos de padrão do Critério B o DSM-5-TR exige?",
+      "verso": "Pelo menos dois. Um dos quatro é a hiper ou hiporreatividade a estímulos sensoriais ou o interesse incomum por aspectos sensoriais do ambiente.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Critério B, p. 56–57"
+    },
+    {
+      "id": "f03",
+      "frente": "Quais são os três níveis de gravidade da Tabela 2 do DSM-5-TR?",
+      "verso": "Nível 3, exigindo apoio muito substancial; nível 2, exigindo apoio substancial; nível 1, exigindo apoio. Os dois domínios, comunicação social e comportamentos restritos e repetitivos, são classificados em separado.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Tabela 2, p. 57–59"
+    },
+    {
+      "id": "f04",
+      "frente": "O DSM-5-TR aceita usar o nível para decidir que serviços o paciente recebe?",
+      "verso": "Não. As categorias de gravidade não devem decidir a escolha e a oferta de serviços; as necessidades se definem caso a caso, conversando sobre as prioridades e metas da pessoa.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, p. 57–59"
+    },
+    {
+      "id": "f05",
+      "frente": "O nível de gravidade de uma pessoa com autismo é fixo?",
+      "verso": "Não. Segundo o DSM-5-TR, a gravidade varia com o contexto e oscila com o tempo; descreve a sintomatologia atual.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, p. 57–59"
+    },
+    {
+      "id": "f06",
+      "frente": "O que o DSM-5-TR diz sobre alimentação em quem tem autismo?",
+      "verso": "Reações extremas ou rituais ligados a gosto, cheiro, textura ou aparência da comida, e excesso de restrições alimentares, são comuns e podem ser a forma de apresentação do transtorno.",
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Características Diagnósticas, p. 60–62"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual versão do DSM o Varellis usa no subitem Autismo, e o que isso significa?",
+      "verso": "O DSM-IV-R, versão antiga. O Varellis é manual de organizadora; a classificação atual é a do DSM-5-TR.",
+      "fonte": "varellis3-cap43",
+      "onde": "cap. 43, Alterações Psíquicas, subseção Autismo, p. 350–351"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Varellis (critérios do DSM-IV-R), até que idade os sintomas devem se manifestar?",
+      "verso": "Antes dos 3 anos de idade, junto com prejuízo qualitativo na interação social, prejuízo qualitativo na comunicação e padrões restritos e repetitivos.",
+      "fonte": "varellis3-cap43",
+      "onde": "cap. 43, Alterações Psíquicas, subseção Autismo, p. 350–351"
+    },
+    {
+      "id": "f09",
+      "frente": "O que a AAPD (2026) pede já no agendamento de um paciente com necessidades especiais?",
+      "verso": "Triagem para saber se há SHCN e de que tipo, decidir sobre consulta mais longa, mais auxiliares, melhor horário e visitas introdutórias, e registrar no prontuário a necessidade de mais tempo ou serviço personalizado.",
+      "fonte": "aapd-shcn2026",
+      "onde": "Management of Dental Patients with SHCN, Recommendations, p. 391–392"
+    },
+    {
+      "id": "f10",
+      "frente": "Segundo a AAPD (2026), o que não se deve supor quando a comunicação do paciente é limitada?",
+      "verso": "Deficiência intelectual: a AAPD diz para não supor, a menos que esteja especificada. A comunicação deve ser no nível do desenvolvimento cognitivo.",
+      "fonte": "aapd-shcn2026",
+      "onde": "Management of Dental Patients with SHCN, Recommendations, p. 391–392"
+    },
+    {
+      "id": "f11",
+      "frente": "Para que a AAPD (2024) indica a dessensibilização, e o que ela envolve?",
+      "verso": "Para medo, ansiedade e/ou transtornos do neurodesenvolvimento, citando o espectro autista. É exposição gradual, em etapas, até a consulta, passando por visita sem tratamento.",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Desensitization, p. 409"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo a AAPD (2024), qual técnica de comportamento dispensa consentimento específico?",
+      "verso": "A comunicação. Todas as outras técnicas exigem consentimento informado, que inclui riscos, benefícios, alternativas e permissão antes do procedimento.",
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Informed consent, p. 405–406"
+    },
+    {
+      "id": "f13",
+      "frente": "Para que a estabilização protetora nunca deve ser usada, segundo a AAPD (2024)?",
+      "verso": "Como disciplina, conveniência ou retaliação. Só se usa quando intervenções menos restritivas não funcionam.",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Indications, p. 426"
+    },
+    {
+      "id": "f14",
+      "frente": "Cite contraindicações da estabilização protetora segundo a AAPD (2024).",
+      "verso": "Paciente cooperativo e não sedado; história de trauma físico ou psicológico, incluindo abuso; necessidades não emergenciais de reabilitação de boca toda ou de vários quadrantes. Há também conveniência do profissional e equipe sem preparo.",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Contraindications, p. 427"
+    },
+    {
+      "id": "f15",
+      "frente": "Quem consente na estabilização protetora, e quem pode encerrá-la?",
+      "verso": "Um dos pais dá o consentimento informado, obtido e documentado antes. O responsável pode encerrar a restrição a qualquer momento, se achar que há trauma físico ou psicológico; então o profissional conclui com segurança os passos necessários e encerra a consulta.",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427"
+    },
+    {
+      "id": "f16",
+      "frente": "O que a estabilização em torno de membros ou do tórax não pode fazer, segundo a AAPD (2024)?",
+      "verso": "Restringir ativamente a circulação ou a respiração; também não deve causar dor. A prancha rígida nunca deve ficar sem supervisão.",
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Precautions p. 427; Risks p. 428"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo a Tabela 2 do DSM-5-TR, criança com autismo fala frases simples, tem interação restrita a interesses especiais reduzidos e comunicação não verbal acentuadamente estranha. A inflexibilidade é óbvia a um observador casual e interfere em vários contextos. Como o manual nomeia esse nível?",
+      "alternativas": [
+        {
+          "texto": "Exigindo apoio, nível 1.",
+          "correta": false,
+          "justificativa": "O nível 1 traz exemplo de frases completas, com falha na conversa de ida e volta, e inflexibilidade com interferência significativa em um ou mais contextos.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "Exigindo apoio muito substancial, nível 3.",
+          "correta": false,
+          "justificativa": "O nível 3 traz exemplo de fala inteligível de poucas palavras, e a inflexibilidade interfere de modo acentuado em todas as esferas.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "Exigindo apoio substancial, nível 2.",
+          "correta": true,
+          "justificativa": "O nível 2 tem frases simples como exemplo, interação limitada a interesses especiais reduzidos e inflexibilidade óbvia a um observador casual, em vários contextos.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "Exigindo apoio muito substancial, nível 2.",
+          "correta": false,
+          "justificativa": "Na Tabela 2, exigindo apoio muito substancial é o rótulo do nível 3; o nível 2 é o que exige apoio substancial.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        }
+      ],
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59",
+      "secao": "niveis-dsm",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "A mãe de um paciente com autismo pergunta se o nível dele no laudo define os serviços que ele vai receber. Segundo o DSM-5-TR, qual afirmação sobre o uso dos níveis é correta?",
+      "alternativas": [
+        {
+          "texto": "As categorias de gravidade não devem decidir a escolha e a oferta de serviços; as necessidades se definem caso a caso.",
+          "correta": true,
+          "justificativa": "O manual diz que as categorias não devem ser usadas para decidir serviços, porque quem tem habilidades melhores pode ter desafios iguais ou maiores.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "O nível é fixo desde o diagnóstico e vale para qualquer contexto.",
+          "correta": false,
+          "justificativa": "O manual diz que a gravidade varia com o contexto e oscila com o tempo.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "Um único nível resume a comunicação social e os comportamentos repetitivos.",
+          "correta": false,
+          "justificativa": "O manual manda classificar os dois domínios em separado e diz que pode ser útil registrar o nível de cada um.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        },
+        {
+          "texto": "Quem está no nível 1 tem sempre menos desafios psicossociais do que quem está no nível 3.",
+          "correta": false,
+          "justificativa": "O manual diz que quem tem habilidades melhores pode ter desafios psicossociais iguais ou maiores.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59"
+        }
+      ],
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Especificadores, Tabela 2, p. 57–59",
+      "secao": "niveis-dsm",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Adulto tem, em prontuário antigo, diagnóstico bem estabelecido de transtorno de Asperger, pelo DSM-IV. Segundo a nota do DSM-5-TR, que diagnóstico ele deve receber?",
+      "alternativas": [
+        {
+          "texto": "Transtorno da comunicação social (pragmática).",
+          "correta": false,
+          "justificativa": "O manual reserva essa avaliação a quem tem déficits acentuados de comunicação social, mas não atende aos critérios do espectro; o diagnóstico de Asperger aqui está bem estabelecido.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Nota ao final dos critérios, p. 57"
+        },
+        {
+          "texto": "Transtorno de Asperger mantido como diagnóstico separado.",
+          "correta": false,
+          "justificativa": "O manual diz que quem tinha esse diagnóstico bem estabelecido pelo DSM-IV passa a receber o de transtorno do espectro autista.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Nota ao final dos critérios, p. 57"
+        },
+        {
+          "texto": "Transtorno global do desenvolvimento sem outra especificação.",
+          "correta": false,
+          "justificativa": "Essa categoria também está entre as que o manual manda converter em transtorno do espectro autista.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Nota ao final dos critérios, p. 57"
+        },
+        {
+          "texto": "Transtorno do espectro autista.",
+          "correta": true,
+          "justificativa": "A nota manda dar o diagnóstico de transtorno do espectro autista a quem tinha diagnóstico bem estabelecido de transtorno autista, de Asperger ou de transtorno global do desenvolvimento sem outra especificação.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Nota ao final dos critérios, p. 57"
+        }
+      ],
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Nota ao final dos critérios, p. 57",
+      "secao": "criterios-dsm",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Dentista atende menino de 6 anos que sofre muito quando a embalagem de um alimento favorito muda, aceita só os mesmos alimentos e reage com extremo desconforto ao som do sugador. Em qual critério do DSM-5-TR esses achados se encaixam?",
+      "alternativas": [
+        {
+          "texto": "Déficit de reciprocidade socioemocional, do Critério A.",
+          "correta": false,
+          "justificativa": "O Critério A trata de conversa de ida e volta, comunicação não verbal e relacionamentos; o quadro descrito fala de rotina, alimentação e sons.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Critério B, p. 56"
+        },
+        {
+          "texto": "Padrões restritos e repetitivos, do Critério B.",
+          "correta": true,
+          "justificativa": "O Critério B inclui a insistência nas mesmas coisas, o sofrimento com pequenas mudanças, comer os mesmos alimentos e a reação contrária a sons específicos.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Critério B, p. 56"
+        },
+        {
+          "texto": "Presença dos sintomas cedo no desenvolvimento, do Critério C.",
+          "correta": false,
+          "justificativa": "O Critério C trata do momento em que os sintomas aparecem, e o enunciado não traz dado sobre isso.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Critério B, p. 56"
+        },
+        {
+          "texto": "Exclusão por deficiência intelectual, do Critério E.",
+          "correta": false,
+          "justificativa": "O Critério E pede que os sintomas não sejam mais bem explicados por deficiência intelectual; o enunciado não traz dado sobre desenvolvimento intelectual.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Critério B, p. 56"
+        }
+      ],
+      "fonte": "dsm5tr-tea",
+      "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Critério B, p. 56",
+      "secao": "criterios-dsm",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Aluno lê no Varellis, subseção Autismo, que os sintomas se manifestam antes dos 3 anos, com prejuízo qualitativo na interação social e na comunicação e padrões restritos e repetitivos. Que critérios são esses e qual é a classificação atual?",
+      "alternativas": [
+        {
+          "texto": "São do DSM-5-TR, que o Varellis atualiza com os níveis de gravidade.",
+          "correta": false,
+          "justificativa": "O Varellis cita o DSM-IV-R na p. 350; os níveis são da Tabela 2 do DSM-5-TR (p. 59).",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Nota e Especificadores, p. 57–59"
+        },
+        {
+          "texto": "São do DSM-IV-R, que ainda é a classificação atual.",
+          "correta": false,
+          "justificativa": "O Varellis cita o DSM-IV-R, versão antiga; a nota do DSM-5-TR manda dar o diagnóstico de transtorno do espectro autista a quem tinha diagnóstico bem estabelecido pelo DSM-IV.",
+          "fonte": "dsm5tr-tea",
+          "onde": "cap. 3, Transtorno do Espectro Autista, Critérios Diagnósticos, Nota e Especificadores, p. 57–59"
+        },
+        {
+          "texto": "São do DSM-IV-R, versão antiga; a classificação atual é a do DSM-5-TR.",
+          "correta": true,
+          "justificativa": "O livro cita o DSM-IV-R, de versão antiga; a classificação atual e os níveis de gravidade são do DSM-5-TR.",
+          "fonte": "varellis3-cap43",
+          "onde": "cap. 43, Alterações Psíquicas, subseção Autismo e Tabela 43.1, p. 350–351"
+        },
+        {
+          "texto": "São do DSM-5-TR, que não prevê níveis de gravidade.",
+          "correta": false,
+          "justificativa": "O DSM-5-TR prevê três níveis na Tabela 2, e o Varellis cita o DSM-IV-R.",
+          "fonte": "varellis3-cap43",
+          "onde": "cap. 43, Alterações Psíquicas, subseção Autismo e Tabela 43.1, p. 350–351"
+        }
+      ],
+      "fonte": "varellis3-cap43",
+      "onde": "cap. 43, Alterações Psíquicas, subseção Autismo e Tabela 43.1, p. 350–351",
+      "secao": "varellis-autismo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "A mãe de um menino de 9 anos com autismo liga para marcar a primeira consulta e diz que ele não tolera barulho e espera em sala cheia. Segundo a AAPD (2026), o que a equipe deve fazer ao agendar?",
+      "alternativas": [
+        {
+          "texto": "Fazer a triagem, considerar horário de poucos pacientes na espera, consulta mais longa e visita introdutória, e registrar a necessidade no prontuário.",
+          "correta": true,
+          "justificativa": "A AAPD pede triagem no agendamento e decisão sobre tempo, auxiliares, melhor horário (manhã, primeiro do dia, poucos na espera) e visitas introdutórias, com registro no prontuário.",
+          "fonte": "aapd-shcn2026",
+          "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392"
+        },
+        {
+          "texto": "Marcar como qualquer outra consulta, sem registrar nada de especial.",
+          "correta": false,
+          "justificativa": "A AAPD pede que a necessidade de mais tempo ou de serviço personalizado seja registrada no prontuário; marcar sem registrar nada contraria isso.",
+          "fonte": "aapd-shcn2026",
+          "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392"
+        },
+        {
+          "texto": "Avaliar a necessidade só na cadeira, no dia da consulta.",
+          "correta": false,
+          "justificativa": "A AAPD pede a triagem já no agendamento, para saber se há SHCN e preparar a equipe.",
+          "fonte": "aapd-shcn2026",
+          "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392"
+        },
+        {
+          "texto": "Registrar o paciente como tendo deficiência intelectual, porque a comunicação dele é limitada.",
+          "correta": false,
+          "justificativa": "A AAPD diz para não supor deficiência intelectual só porque a comunicação é limitada, a menos que esteja especificada; o enunciado nem fala em comunicação limitada.",
+          "fonte": "aapd-shcn2026",
+          "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392"
+        }
+      ],
+      "fonte": "aapd-shcn2026",
+      "onde": "Management of Dental Patients with SHCN, Background e Recommendations, p. 388–392",
+      "secao": "aapd-shcn",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Ao planejar o atendimento de uma criança com transtorno do espectro autista, o aluno lista as técnicas que usará. Segundo a AAPD (2024), para qual delas o documento diz que não é preciso consentimento específico?",
+      "alternativas": [
+        {
+          "texto": "Dessensibilização, com visitas sem tratamento.",
+          "correta": false,
+          "justificativa": "A dessensibilização é outra técnica básica, listada à parte (p. 409); o documento diz que todas as técnicas, exceto a comunicação, exigem consentimento informado.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410"
+        },
+        {
+          "texto": "Sedação para o procedimento.",
+          "correta": false,
+          "justificativa": "O registro da sedação traz o consentimento antes do procedimento (p. 413); o documento diz que todas as técnicas, exceto a comunicação, exigem consentimento informado.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410"
+        },
+        {
+          "texto": "Estabilização protetora com dispositivo.",
+          "correta": false,
+          "justificativa": "A estabilização exige consentimento informado de um dos pais (p. 426); o documento diz que todas as técnicas, exceto a comunicação, exigem consentimento informado.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410"
+        },
+        {
+          "texto": "Comunicação em duas vias (perguntar e escutar).",
+          "correta": true,
+          "justificativa": "A AAPD diz que a comunicação não exige consentimento específico e que todas as outras técnicas exigem.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410"
+        }
+      ],
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Informed consent p. 405–406; Basic behavior guidance p. 407–410",
+      "secao": "aapd-tecnicas-basicas",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Menino de 8 anos com autismo e comunicação verbal limitada recusa a primeira consulta por causa do ruído e da luz do consultório. Não há dor nem urgência, e nenhuma técnica básica foi tentada. Qual conduta combina com a AAPD (2024)?",
+      "alternativas": [
+        {
+          "texto": "Estabilização protetora logo na primeira consulta, porque ele tem autismo.",
+          "correta": false,
+          "justificativa": "A AAPD trata a estabilização como técnica avançada e a contraindica para o paciente não cooperativo sem necessidade clara de tratamento naquela consulta (p. 412); aqui não há dor nem urgência.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Treatment deferral p. 407; Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410; Advanced behavior guidance p. 411–413"
+        },
+        {
+          "texto": "Dessensibilização em etapas, ambiente sensorial adaptado e quadro de figuras para pedir pausa.",
+          "correta": true,
+          "justificativa": "A AAPD indica a dessensibilização e os ambientes sensoriais adaptados para o transtorno do espectro autista, e o sistema de troca de figuras para comunicação verbal limitada.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Treatment deferral p. 407; Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410; Advanced behavior guidance p. 411–413"
+        },
+        {
+          "texto": "Sedação já na primeira consulta, antes de qualquer técnica básica.",
+          "correta": false,
+          "justificativa": "A AAPD apresenta o adiamento do tratamento como alternativa à sedação e à anestesia geral, e diz que doença que avança rápido, trauma, dor ou infecção geralmente exigem tratamento imediato; aqui não há dor nem urgência.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Treatment deferral p. 407; Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410; Advanced behavior guidance p. 411–413"
+        },
+        {
+          "texto": "Evitar a dessensibilização, que a AAPD contraindica em transtornos do neurodesenvolvimento.",
+          "correta": false,
+          "justificativa": "A AAPD indica a dessensibilização para quem tem transtornos do neurodesenvolvimento, citando o espectro autista, e não traz contraindicação.",
+          "fonte": "aapd-comportamento2024",
+          "onde": "Behavior Guidance, Treatment deferral p. 407; Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410; Advanced behavior guidance p. 411–413"
+        }
+      ],
+      "fonte": "aapd-comportamento2024",
+      "onde": "Behavior Guidance, Treatment deferral p. 407; Desensitization p. 409; Additional considerations for dental patients with anxiety or special health care needs p. 410; Advanced behavior guidance p. 411–413",
+      "secao": "aapd-tea-tecnicas",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Menina de 7 anos com autismo não coopera. O prontuário registra história de abuso físico. Ela precisa de restaurações em todos os quadrantes (reabilitação de boca toda), sem dor nem urgência. Segundo a AAPD (2024), a estabilização protetora é:",
+      "alternativas": [
+        {
+          "texto": "Indicada, porque ela não coopera com as técnicas básicas.",
+          "correta": false,
+          "justificativa": "A não cooperação não basta: o documento contraindica a estabilização em quem tem história de trauma físico ou psicológico e em reabilitação não emergencial de vários quadrantes.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427"
+        },
+        {
+          "texto": "Indicada, desde que os pais assinem o consentimento.",
+          "correta": false,
+          "justificativa": "O consentimento é exigido, mas não afasta uma contraindicação: história de abuso físico e necessidade não emergencial.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427"
+        },
+        {
+          "texto": "Contraindicada, por causa da história de abuso físico e da necessidade não emergencial.",
+          "correta": true,
+          "justificativa": "O documento contraindica a técnica na história de trauma físico ou psicológico, incluindo abuso, e nas necessidades não emergenciais de reabilitação de vários quadrantes.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427"
+        },
+        {
+          "texto": "Indicada, para encurtar o tempo das restaurações.",
+          "correta": false,
+          "justificativa": "A conveniência do profissional está entre as contraindicações.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427"
+        }
+      ],
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Indications p. 426; Contraindications p. 427",
+      "secao": "estabilizacao-indicacoes",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Durante uma estabilização protetora planejada em menino de 6 anos com transtorno do espectro autista, o pai observa sofrimento psicológico intenso e pede para parar. Segundo a AAPD (2024), o que o profissional faz?",
+      "alternativas": [
+        {
+          "texto": "Conclui com segurança os passos necessários e encerra a consulta.",
+          "correta": true,
+          "justificativa": "O responsável pode encerrar a restrição a qualquer momento se achar que há trauma físico ou psicológico; o profissional conclui com segurança os passos necessários e encerra a consulta.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428"
+        },
+        {
+          "texto": "Continua até o fim do procedimento, porque o consentimento já foi assinado.",
+          "correta": false,
+          "justificativa": "O documento dá ao responsável o direito de encerrar a restrição a qualquer momento; o consentimento assinado não o impede.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428"
+        },
+        {
+          "texto": "Pede que o pai saia da sala e prossegue sem ele.",
+          "correta": false,
+          "justificativa": "O documento diz que o dentista deve considerar permitir a presença do responsável, salvo risco à segurança, e o enunciado traz um pedido de parar.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428"
+        },
+        {
+          "texto": "Dá novo consentimento por conta própria e muda para outra técnica.",
+          "correta": false,
+          "justificativa": "Quando o comportamento exige mudança de técnica, é preciso novo consentimento obtido e documentado; o pai aqui pediu para encerrar, e não para trocar de técnica.",
+          "fonte": "aapd-estabilizacao2024",
+          "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428"
+        }
+      ],
+      "fonte": "aapd-estabilizacao2024",
+      "onde": "Protective Stabilization, Informed consent p. 426; Consent p. 427; Techniques p. 427; Documentation p. 428",
+      "secao": "estabilizacao-consentimento",
+      "figura": null
+    }
+  ]
+}

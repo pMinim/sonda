@@ -1,0 +1,616 @@
+{
+  "slug": "osteonecrose-por-medicamentos",
+  "titulo": "Osteonecrose dos maxilares associada a medicamentos (bisfosfonatos, denosumabe)",
+  "area": "Pacientes Especiais",
+  "origem": "AAOMS 2022 (Ruggiero et al., declaração de posição, EUA); Neville 5ª ed., cap. 8",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "aaoms2022",
+      "ref": "Ruggiero SL, Dodson TB, Aghaloo T, Carlson ER, Ward BB, Kademani D. American Association of Oral and Maxillofacial Surgeons' Position Paper on Medication-Related Osteonecrosis of the Jaws, 2022 Update. J Oral Maxillofac Surg. 2022;80(5):920–943. doi:10.1016/j.joms.2022.02.008.",
+      "curta": "AAOMS 2022 (EUA)"
+    },
+    {
+      "id": "neville5-cap08",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 8, Lesões Físicas e Químicas (numeração da edição digital).",
+      "curta": "Neville 5ª ed., cap. 8"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "definicao",
+      "titulo": "O que é MRONJ e como se define",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Purpose; MRONJ Case Definition; Causality",
+      "texto": "Esta seção e as nove seguintes da AAOMS são da **declaração de posição da AAOMS 2022** (associação de cirurgiões bucomaxilofaciais dos EUA; Ruggiero e cols., atualização de maio de 2022). É documento de sociedade norte-americana, não regra local nem diretriz brasileira. Os números dessas seções são dela. O Neville entra mais adiante, em seções próprias.\n\n**MRONJ** é a sigla da própria AAOMS para osteonecrose dos maxilares relacionada a medicamentos (*medication-related osteonecrosis of the jaws*). Os critérios clínicos não mudaram desde 2014. A definição pede os **três** elementos juntos:\n1. tratamento atual ou prévio com antirreabsortivo, sozinho ou com imunomodulador ou antiangiogênico;\n2. osso exposto, ou osso que se sonda por fístula intra ou extraoral na região maxilofacial, **por mais de 8 semanas**;\n3. sem história de radioterapia nos maxilares e sem metástase nos maxilares.\n\nFaltando um dos três, não é MRONJ pela definição. Osso exposto ou sequestro também ocorre em quem nunca usou antirreabsortivo, e o documento diz que a MRONJ deve ser distinguida das outras osteonecroses pela história e pelo exame clínico.\n\n**O que se confunde com MRONJ** (lista da AAOMS): osteíte alveolar, sinusite, gengivite e periodontite, cárie, patologia periapical, odontalgia, neuralgias atípicas, lesões fibro-ósseas, sarcoma, osteomielite esclerosante crônica e disfunção da ATM.\n\n**Por que a causalidade é incerta:** a MRONJ é rara e multifatorial, e há necrose de maxilar em quem nunca usou antirreabsortivo (infecção, trauma, tabaco, esteroides, imunossupressão, doenças autoimunes, diabetes, quimioterapia). O documento propõe decisão compartilhada entre médico, dentista e paciente, com comparação entre o risco e o benefício do medicamento."
+    },
+    {
+      "id": "medicamentos",
+      "titulo": "Quais medicamentos entram",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Medications; Angiogenesis Inhibition; Risk Factors, Medication-related; Future Research",
+      "texto": "**AAOMS 2022.** O principal parâmetro do risco é a indicação do tratamento (câncer ou osteoporose). Ao ponderar suspensão e cirurgia, o documento considera também frequência da dose, duração, comorbidades e outros medicamentos.\n\n**Bisfosfonatos (BPs).** São antirreabsortivos usados:\n- no **câncer**: hipercalcemia da malignidade, compressão medular e fraturas patológicas (os chamados eventos esqueléticos), em metástase óssea de tumor sólido e mieloma múltiplo;\n- na **osteoporose e na osteopenia**, para prevenir fratura por fragilidade.\nOrais citados: alendronato e risedronato. Parenterais: zoledronato e ibandronato. Também são usados na doença de Paget e na osteogênese imperfeita.\n\n**Denosumabe (DMB).** Anticorpo humanizado contra o RANK-L, também antirreabsortivo. Prolia: subcutâneo a cada 6 meses (osteoporose). Xgeva: mensal (eventos esqueléticos em metástase de tumor sólido). Diferença para os BPs: o denosumabe **não se liga ao osso**, e o efeito sobre a remodelação diminui, na maior parte, em até 6 meses depois de parar.\n\n**Romosozumabe.** Anticorpo contra a esclerostina (via Wnt): aumenta a formação óssea e reduz a reabsorção. Subcutâneo, para prevenir fratura em mulheres osteoporóticas.\n\n**Antiangiogênicos e outros.** Inibidores de VEGF, inibidores de tirosina quinase (sunitinibe), bevacizumabe, aflibercepte, inibidores de mTOR (everolimo), rádio-223, raloxifeno e imunossupressores (metotrexato, corticoides). Comparados aos antirreabsortivos, a evidência é nível 5 (relato isolado ou minissérie com menos de 5 casos), e a incidência com antiangiogênicos é bem menor.\n\n**O que os dados sustentam:** os dados que apontam os antirreabsortivos como fator de risco são robustos. Para antiangiogênicos, corticoides e imunomoduladores, são relatos e séries pequenas, e o documento pede estudos prospectivos controlados."
+    },
+    {
+      "id": "risco",
+      "titulo": "Risco com número: câncer × osteoporose",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Medication-related (texto); Prevention Strategies (divergência interna)",
+      "texto": "Números da **AAOMS 2022**. O principal parâmetro é a **indicação** do tratamento. O texto dá abaixo de **5%** para o grupo câncer e abaixo de **0,05%** para o grupo osteoporose; mais adiante, o próprio texto traz o denosumabe na osteoporose com 0,04% a 0,3%.\n\n**Câncer:**\n- Placebo nos ensaios: 0% a 0,7%.\n- Zoledronato: risco cumulativo em geral abaixo de 5%, com faixa de 0% a 18%; a variação vem do tempo de seguimento (1 a 10 anos). É de 2 a 10 vezes o do placebo.\n- Denosumabe: 0% a 6,9%, a maioria dos estudos abaixo de 5%, comparável ao do zoledronato.\n- Duração (n = 5.723): zoledronato 0,5% em 1 ano, 1,0% em 2 anos e 1,3% em 3 anos; denosumabe 0,8%, 1,8% e 1,8%.\n- Outra revisão (Ng e cols.): zoledronato 1,6% a 4% com até 2 anos e 3,8% a 18% com mais de 2 anos; denosumabe 1,9% abaixo de 24 meses e 6,9% acima disso.\n\n**Osteoporose:**\n- Placebo: 0% a 0,02%. Tratados com BPs: 0,02% a 0,05%, faixa que se sobrepõe à do placebo.\n- Zoledronato IV: estimado em até 0,02% (2 por 10.000). BP oral: até 0,05% (5 por 10.000).\n- Denosumabe: 0,04% a 0,3% (o 0,3% vem de 10 anos de seguimento). O texto diz que fica quase uma ordem de grandeza acima dos BPs e que precisa de mais pesquisa.\n- Romosozumabe: 0,03% a 0,05%, comparável ao alendronato (0,05%).\n- Duração com BPs: dados mistos. A conclusão do texto é que a duração pode ser fator de risco, mas o risco geral continua baixo.\n\n**A AAOMS traz dois números diferentes para o mesmo dado.** Os dois lados, sem escolher:\n\n| Dado (osteoporose) | Seção Risk Factors | Seção de prevenção, assintomáticos |\n|---|---|---|\n| Bisfosfonatos | 0,02% a 0,05% | 0,02% a 0,04% |\n| Denosumabe | 0,04% a 0,3% | 0,3% |\n\n**Outras condições:** denosumabe em tumor de células gigantes, 0,7% a 5% em dois estudos. Em crianças e jovens tratados (osteogênese imperfeita, 486 sujeitos, por 4,5 a 6,8 anos), nenhum caso, com estudos limitados pela amostra pequena."
+    },
+    {
+      "id": "fatores",
+      "titulo": "Fatores de risco: o que mais pesa na cadeira",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Local Factors; Demographic and Systemic; Prevention of MRONJ",
+      "texto": "**AAOMS 2022.** A **cirurgia dentoalveolar** é o fator predisponente identificável mais comum: a extração é o evento desencadeante em **62% a 82%** dos casos de MRONJ.\n\n**Risco depois de uma extração:**\n- osteoporose com bisfosfonato: 0% a 0,15%;\n- osteoporose com denosumabe: 1%;\n- câncer com bisfosfonato: 1,6% a 14,8% (série de 61 pacientes e 102 extrações: 13,1%; revisão de Gaudin, n = 564: 3,2%).\n\nO texto diz que as estimativas em alto risco se agrupam entre 1% e 5%, parecidas com as da osteorradionecrose após extração em irradiados.\n\n**Doença dentária prévia:** doença periodontal ou periapical é fator em cerca de 50% dos casos em pacientes com câncer. O texto aponta que a extração pode **expor** a MRONJ em vez de ser a causa, e que falta estimativa ajustada para a doença prévia.\n\n**Prótese:** uso de prótese teve OR de 4,9 (IC 95% 1,2 a 20,1) em câncer com zoledronato. Em outro estudo (1.621 pacientes com câncer), o risco foi duas vezes maior em quem usa prótese.\n\n**Onde aparece:** mandíbula 75%, maxila 25%, ambas 4,5%.\n\n**Corticoides:** associados a maior risco. **Anemia** (Hb abaixo de 10 g/dL), **diabetes**, **tabaco**, idade, sexo e tipo de câncer: relatados de modo inconsistente ou variável (tabaco: OR 3,0, IC 95% 0,8 a 10,4, sem significância em um estudo). O texto atribui a maior frequência em mulheres às doenças de base.\n\n**Fatores modificáveis:** fazer as cirurgias de alto risco antes de iniciar a terapia; antibióticos e antissépticos bucais antes e depois da cirurgia; fechamento primário dos alvéolos; boa higiene bucal; parar de fumar; controlar o diabetes.\n\n**Genética:** os estudos mostram associação fraca ou nula; o papel não está estabelecido."
+    },
+    {
+      "id": "estadiamento",
+      "titulo": "Estadiamento: de 0 a 3",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Staging",
+      "texto": "**AAOMS 2022.** O sistema nasceu em 2009, foi modificado em 2014 e a AAOMS o manteve **sem alteração** em 2022. O texto teme que dar peso demais aos achados radiográficos infle a frequência por falsos positivos.\n\n| Categoria | O que o documento descreve |\n|---|---|\n| Em risco | sem osso necrótico aparente; paciente assintomático que usa antirreabsortivo, IV ou oral |\n| Estágio 0 | sem osso necrótico clínico, com sintomas ou achados inespecíficos (abaixo) |\n| Estágio 1 | osso exposto e necrótico, ou fístula que sonda até o osso, em paciente assintomático e sem sinal de infecção ou inflamação |\n| Estágio 2 | osso exposto e necrótico, ou fístula que sonda até o osso, com infecção ou inflamação; sintomático |\n| Estágio 3 | osso exposto e necrótico, ou fístula, com infecção e mais um ou mais de: osso necrótico além do osso alveolar (borda inferior e ramo da mandíbula; seio maxilar e zigoma na maxila); fratura patológica; fístula extraoral; comunicação oroantral ou oronasal; osteólise até a borda inferior da mandíbula ou o assoalho do seio |\n\n**Estágio 0, o que o dentista reconhece:**\n- **sintomas:** odontalgia sem causa odontogênica; dor óssea surda e contínua no maxilar, que pode irradiar para a ATM; dor sinusal; alteração neurossensitiva;\n- **clínicos:** mobilidade dentária não explicada por periodontite crônica; edema intra ou extraoral;\n- **radiográficos:** perda ou reabsorção óssea alveolar não atribuível à periodontite crônica; mudança do padrão trabecular, osso esclerótico e ausência de osso novo em alvéolos de extração; áreas de osteoesclerose; espessamento ou obscurecimento do ligamento periodontal.\n\nEsses achados também ocorrem em quem já teve estágio 1, 2 ou 3 e cicatrizou, sem osso exposto. A progressão do estágio 0 para o 1 foi relatada em **até 50%** dos pacientes com estágio 0, e por isso o documento o considera possível precursor."
+    },
+    {
+      "id": "prevencao",
+      "titulo": "Prevenção antes de iniciar o medicamento",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Management Strategies; Prevention Strategies (antes de iniciar, câncer e osteoporose); Optimization of Oral Health",
+      "texto": "**AAOMS 2022.** As metas são prevenir a MRONJ, apoiar a continuidade do tratamento do câncer e da saúde óssea (prevenção de fratura por fragilidade) e preservar a qualidade de vida. A abordagem é multidisciplinar, com consulta odontológica quando o paciente se beneficiará da terapia.\n\n**Antes de iniciar o antirreabsortivo, câncer**\n- Há suporte robusto para a triagem e o cuidado dentário **antes** da terapia. Em estudo prospectivo em câncer de próstata com metástase óssea, a vigilância odontológica regimentada reduziu o risco relativo em 2,5 vezes, comparada ao tratamento só quando havia sintoma. Não há ensaio randomizado de estratégias de prevenção em extrações.\n- Exame odontológico completo, clínico e radiográfico, antes de todo paciente com doença maligna. Avaliar também cárie, periodontite, raízes residuais, patologia periapical, edentulismo e estabilidade da prótese.\n- Se as condições sistêmicas permitirem, **adiar o início do medicamento até a saúde dental estar otimizada**, em decisão conjunta com o médico. O texto fala em consenso amplo de que otimizar antes é eficaz.\n- Extrair dentes não restauráveis e de prognóstico ruim e fazer as outras cirurgias eletivas necessárias nessa hora. Adiar a terapia, se possível, até a mucosa cobrir e haver cicatrização óssea adequada (o texto não dá prazo em dias).\n- Manter profilaxia, controle de cárie, dentística conservadora e endodontia não operatória, de forma frequente e por tempo indefinido.\n- Examinar a região lingual posterior de quem usa prótese, local comum de trauma, e orientar o paciente a relatar dor, edema ou osso exposto.\n\n**Antes de iniciar, osteoporose**\n- O risco é bem menor, e a urgência de otimizar a saúde dental é menor. No início, é prudente informar o paciente do risco de MRONJ, junto com o benefício do medicamento na prevenção de fraturas e a raridade da MRONJ. Manter a saúde dental durante e depois.\n- Conclusão do texto: o benefício de prevenir fratura supera o risco de MRONJ na osteoporose, e é prejudicial suspender o antirreabsortivo por receio de MRONJ."
+    },
+    {
+      "id": "durante-terapia",
+      "titulo": "Durante a terapia: extração e implante",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Prevention Strategies, Tabela 2 e texto (durante a terapia); Risk Factors, Local Factors",
+      "texto": "**AAOMS 2022.**\n\n**Câncer, assintomático, em antirreabsortivo**\n- Evitar, se possível, procedimentos com lesão óssea direta. Se a cirurgia dentoalveolar for inevitável (dente fraturado, periodontite avançada), informar os riscos. O texto diz que a vantagem de suspender o medicamento continua não comprovada.\n- Dente não restaurável: remover a coroa e tratar as raízes endodonticamente; extrair se necessário. A Tabela 2 fala em considerar técnicas de retenção radicular para evitar extrações.\n- **Implantes são contraindicados** (Tabela 2) e devem ser evitados no paciente com câncer em antirreabsortivo parenteral ou antiangiogênico (texto).\n\n**Osteoporose, assintomático**\n- Os dados epidemiológicos continuam limitados e faltam recomendações sólidas para BPs orais. A cirurgia dentoalveolar eletiva, em geral, não parece contraindicada nesse grupo.\n- A Tabela 2 pede, na maioria dos pacientes, nenhuma mudança no plano operatório, considerando: esquema do medicamento, duração, comorbidades, outros medicamentos (quimioterapia, esteroides, antiangiogênicos), grau de infecção ou inflamação e extensão da cirurgia. Os marcadores de remodelação óssea (CTX) não servem para avaliar o risco.\n\n**Implante na osteoporose:** é área de pesquisa. As revisões reconhecem falta de dados de qualidade e de ensaios randomizados, e os dados são conflitantes.\n- Granate e cols.: risco elevado em implantes de região posterior quando o BP passou de **3 anos** e havia corticoide sistêmico.\n- Gelazius e Stavropoulos: sem aumento de risco.\n- Coorte de **44.900** pacientes (9.738 com histórico de BP): menor risco de ONJ em quem recebeu implante, ao contrário da extração.\n- A necrose ligada a implante pode ser precoce (desencadeada pela cirurgia) ou tardia (desencadeada pela presença do implante). Nas revisões, a maioria foi tardia (**mais de 12 meses**), com frequência em implantes colocados antes do BP.\n- Se o implante for colocado, o consentimento deve incluir o baixo risco de MRONJ e a falha precoce e tardia do implante, com retorno regular de longo prazo.\n\n**Endodontia e periodontia:** risco desconhecido. **Implante com denosumabe:** a AAOMS cita um relato de 0,5%; os outros procedimentos não têm número."
+    },
+    {
+      "id": "drug-holiday",
+      "titulo": "Suspender o medicamento antes da cirurgia (drug holiday)",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday); Treatment Strategies",
+      "texto": "**AAOMS 2022.** *Drug holiday* é a suspensão temporária do antirreabsortivo antes de uma extração ou outro procedimento com lesão óssea (implante, periodontia, endodontia apical).\n\n**O que o documento diz**\n- A prática era controversa em 2014 e **continua controversa**. Várias sociedades internacionais a aceitaram ou recomendaram, mas a evidência a favor ou contra é **inconclusiva**; a raridade da MRONJ impede ensaios com poder.\n- O risco de suspender é perder a eficácia, com eventos esqueléticos e fraturas.\n- Fatores a ponderar: risco da doença (câncer ou osteoporose), frequência da dose, duração, comorbidades, outros medicamentos (quimioterapia, esteroides, antiangiogênicos), grau de infecção ou inflamação e extensão da cirurgia.\n- **O grupo não chegou a consenso:** ficou dividido em partes iguais entre oferecer a suspensão caso a caso, como nas recomendações anteriores, e nunca recomendá-la, por entender que o risco de suspender pode superar o benefício.\n- Em câncer assintomático, o benefício da suspensão continua não comprovado. Na MRONJ já instalada, o benefício da suspensão para a cirurgia também não foi comprovado.\n\n**Denosumabe na osteoporose.** Há preocupação especial com o aumento rebote da reabsorção depois de parar, com risco de fraturas vertebrais múltiplas. Se o medicamento for suspenso, o texto sugere otimizar o momento e a duração: a cirurgia dentoalveolar pode ser feita **3 a 4 meses depois da última dose**, quando a inibição osteoclástica diminui, e o medicamento retomado **6 a 8 semanas depois** da cirurgia.\n\n**Na tabela de prevenção (Tabela 2)**, as linhas de osteoporose e de câncer dizem que os *drug holidays* são controversos, e a de osteoporose acrescenta que os marcadores de remodelação óssea não ajudam a avaliar o risco."
+    },
+    {
+      "id": "conduta-estagio",
+      "titulo": "Conduta por estágio e as Figs. 1 a 4",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Treatment Strategies; Figs. 1 a 4",
+      "texto": "**AAOMS 2022.** O texto diz que o manejo **não operatório** e o **operatório** são aceitáveis em **todos** os estágios, conforme o julgamento cirúrgico e os fatores do paciente, em decisão compartilhada. A radiografia é de máxima importância; a imagem tridimensional pode identificar sequestros em formação ou formados.\n\n**Não operatório (texto e Fig. 2).** Educar e tranquilizar o paciente, controlar a dor e a infecção secundária, para permitir a separação (sequestro) do osso necrótico exposto.\n- **Estágio 1:** cuidado local da ferida no osso exposto, com enxaguatórios antimicrobianos (o texto cita clorexidina), melhor higiene para remover o biofilme da superfície necrótica e remoção de sequestro móvel ou bem formado. A cirurgia pode não ser indicada se não há progressão e a qualidade de vida é adequada.\n- **Estágio 2:** a mesma conduta, mais **antibióticos sistêmicos** e controle da dor. O paciente pode ter dificuldade com o cuidado local.\n- **Estágio 3:** idem, com antibiótico sistêmico (oral ou IV). Se o paciente não tem condição cirúrgica, o não operatório pode ser indicado; a Fig. 2 manda considerar a cirurgia se a condição médica melhorar.\n- A exfoliação do osso exposto muitas vezes leva à resolução. Oxigênio hiperbárico e ozonioterapia têm pouca evidência e não são recomendados como base do tratamento.\n\n**Operatório.** Relatado com altas taxas de sucesso em todos os estágios, inclusive o 1. A MRONJ pode progredir de modo imprevisível, e o não operatório nem sempre leva à separação do osso e à resolução. O documento traz, nas Figs. 3 e 4, algoritmos cirúrgicos por localização (mandíbula e maxila) e por estágio, que não são detalhados aqui.\n\n**Fig. 1 × texto: a AAOMS mostra dois pontos de partida.**\n- **Fig. 1 (avaliação inicial):** para todos, começam medidas não operatórias (por exemplo, enxaguatórios com clorexidina, antibióticos, sequestrectomia); depois vêm novo estadiamento e a decisão compartilhada entre não operatório e operatório.\n- **Texto:** na doença progressiva ou mais avançada na apresentação, a ressecção deve ser feita **sem** medidas não operatórias prolongadas antes. Com vigilância ativa no não operatório, na falha a intervenção operatória deve ser precoce."
+    },
+    {
+      "id": "incertezas",
+      "titulo": "O que a AAOMS diz que ainda não se sabe",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Future Research; Causality; Risk Factors",
+      "texto": "**AAOMS 2022.**\n\n- **Risco por exposição:** a exposição total ao antirreabsortivo pode ser fator de risco, mas é difícil medir só em anos. O texto sugere uma carga cumulativa de dose. Protocolos de redução de dose em sobreviventes de câncer com metástase óssea estão em estudo, sem resposta se reduzem o risco.\n- **Outros medicamentos:** para antiangiogênicos, corticoides e imunomoduladores, os dados são relatos e séries pequenas. São necessários estudos prospectivos controlados.\n- **Cirurgias sem número:** o risco de implante, endodontia e periodontia é desconhecido. Para o denosumabe na osteoporose, a faixa é ampla (0,04% a 0,3%). O romosozumabe deve continuar monitorado. Em crianças, o texto pede vigilância.\n- **Tabaco, diabetes, anemia, sexo e idade:** relatos inconsistentes.\n- **Biomarcadores e drug holidays:** não há ensaio randomizado que estabeleça a eficácia de marcadores de remodelação óssea nem de drug holidays. Nenhum biomarcador está validado para decisão clínica.\n- **Genética:** associação fraca ou nula nos estudos.\n- **Prudência:** até haver ensaios, a AAOMS considera prudente reconhecer que biomarcadores, *drug holidays* e fatores genéticos podem ter papel."
+    },
+    {
+      "id": "neville-medicamentos",
+      "titulo": "Neville: nome, medicamentos e esquemas",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, abertura e Boxes 8.3 e 8.4, p. 278–280",
+      "texto": "**Seção de apoio: tudo aqui é do Neville 5ª ed. (cap. 8).** Os números são dele e vêm das revisões que ele cita. Para a definição do tema, vale a seção da AAOMS.\n\n**Nome.** Em 2003 começou a ser reconhecido um padrão de osteonecrose de difícil tratamento ligado a certos medicamentos, a princípio os bisfosfonatos (BRONJ). Em 2011, pela associação com o denosumabe, a ADA (EUA) mudou o nome para osteonecrose relacionada a antirreabsortivos (ARONJ). O posicionamento da AAOMS de 2014 passou a chamá-la de **osteonecrose dos maxilares relacionada a medicamentos (MRONJ)**, porque antiangiogênicos também podem estar implicados. Segundo o livro, nome, definição e estadiamento permanecem inalterados na atualização de 2022.\n\n**Medicamentos mais usuais (Boxe 8.4):** aminobisfosfonatos (com nitrogênio), denosumabe e romosozumabe. Os antirreabsortivos são usados sobretudo em osteoporose ou em neoplasias com envolvimento ósseo (mieloma múltiplo, mama, próstata) e, menos, em doença de Paget, osteogênese imperfeita, artrite reumatoide e tumores de células gigantes. A maioria dos casos ocorre em quem usa a medicação para câncer. No romosozumabe, o risco é comparável ao do alendronato.\n\n**Esquemas citados (Boxe 8.4):**\n- câncer: pamidronato e ácido zoledrônico por infusão IV a cada 4 semanas; denosumabe por injeção a cada 4 semanas;\n- osteoporose: risedronato e alendronato por via oral, semanal; ácido zoledrônico IV, anual; denosumabe por injeção a cada 6 meses; romosozumabe por injeção mensal.\n\n**Antiangiogênicos (Boxe 8.3):** inibidores de tirosinoquinase (axitinibe, cabozantinibe, dasatinibe, erlotinibe, imatinibe, pazopanibe, sorafenibe, sunitinibe) e anticorpos contra o fator de crescimento endotelial vascular (aflibercepte, bevacizumabe, ramucirumabe). O risco aumenta se combinados com bisfosfonatos. Inibidores de mTOR, imunomoduladores (adalimumabe, infliximabe, rituximabe) e metotrexato aparecem em pequenas séries, e o livro pede mais pesquisa.\n\n**Quanto o fármaco fica no corpo:** os bisfosfonatos têm meia-vida longa, de cerca de 10 anos, com depósitos no osso por mais de 4 décadas. O denosumabe não se deposita no osso: meia-vida de 24,5 dias e eliminação completa em 4 a 5 meses. Apesar do uso em crianças, o livro não registra osteonecrose nelas."
+    },
+    {
+      "id": "neville-frequencia",
+      "titulo": "Neville: frequência, local e imagem",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Características clínicas e radiográficas, p. 280–282",
+      "texto": "**Neville 5ª ed. (cap. 8).** Os números abaixo são do livro, de revisões de casos relatados, com vieses que ele mesmo aponta. O livro pede estudos prospectivos randomizados.\n\n**Frequência**\n- Em revisão de 2.408 casos de BRONJ, **89%** ocorreram com formulações IV (sobretudo pamidronato e ácido zoledrônico) para câncer, e 43% em pacientes com mieloma múltiplo.\n- Câncer, via IV: prevalência estimada em 100 casos por 10.000 pacientes.\n- Osteoporose com bisfosfonato: estimativa da indústria de 0,7 caso por 100.000 por ano; revisão recente, 10 casos a cada 100.000 pacientes (100 vezes menos que no câncer).\n- Metanálise: prevalência de **0,01%** em antirreabsortivos para osteoporose, **12%** para câncer e **16%** para antirreabsortivos mais antiangiogênicos.\n- Denosumabe: em revisões de pacientes com câncer randomizados para ácido zoledrônico ou denosumabe, a frequência foi semelhante. O livro cita 70 a 90 casos por 10.000 em câncer com denosumabe.\n\n**Fatores adicionais:** idade acima de 65 anos, corticosteroides, quimioterápicos, diabetes, tabagismo ou álcool, higiene oral deficiente e uso da medicação por mais de 3 anos. Um teste preditivo ainda não foi confirmado, e o CTX sérico não mostrou acurácia para prever o risco.\n\n**Onde e como começa (revisão detalhada do livro)**\n- Mandíbula 65%, maxila 27%, ambos os ossos 8%.\n- Em 67% a necrose veio depois de exodontia, em 26% foi espontânea e em 7% se associou à pressão de prótese removível ou a pequeno trauma de um tórus.\n- Entre os com osso exposto: 16% assintomáticos, 66% com dor e 18% com envolvimento extenso, cuja dor não respondia a antibióticos.\n\n**Radiografia:** o osso em risco iminente costuma mostrar radiopacidade aumentada antes da necrose clínica, sobretudo nas cristas alveolares. Nos casos graves, imagem radiolucente mal definida, com aspecto de roído por traças, com ou sem sequestro radiopaco central. A necrose pode levar a fístula cutânea ou fratura patológica."
+    },
+    {
+      "id": "neville-prevencao",
+      "titulo": "Neville: prevenção e conduta até o estágio 3",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 282–284",
+      "texto": "**Neville 5ª ed. (cap. 8).** O livro diz que praticamente todas as recomendações são empíricas: não há grande estudo caso-controle randomizado de prevenção ou tratamento. A melhor abordagem terapêutica é a **prevenção**.\n\n**Antes do medicamento (câncer):** melhorar a saúde dentária e evitar procedimentos futuros que mexam no osso: eliminar focos de infecção, remover grandes tórus e dentes parcialmente impactados. Se a cirurgia for necessária, o livro recomenda adiar o início do medicamento por alguns meses, com antibioticoterapia profilática. Em revisão de 18 anos com 273 pacientes (Memorial Sloan Kettering), a avaliação odontológica prévia se associou a **0,9%** de MRONJ, contra **10,5%** sem essa avaliação.\n\n**Câncer em terapia antirreabsortiva:** evitar manipular o osso, se possível. O tratamento endodôntico convencional é melhor opção que a extração. Dente não vital e não restaurável: endodontia seguida de amputação da coroa. Mobilidade grau +1 ou +2: esplintar. Mobilidade grau +3: pode extrair.\nSe a cirurgia for inevitável durante terapia IV, a probabilidade de osteonecrose pode ser reduzida com **antibioticoterapia profilática iniciada 1 dia antes e mantida por 3 dias depois** de qualquer procedimento odontológico invasivo.\n\n**MRONJ instalada:** o objetivo principal é minimizar a dor. A remoção agressiva do osso necrótico leva a mais necrose óssea, e o oxigênio hiperbárico não mostrou benefício. O livro descreve:\n- **Estágio 1 (assintomático):** bochechos diários de clorexidina e monitoramento próximo; alisar bordas ásperas do osso exposto e remover com cuidado sequestros expostos; placa macia pode aliviar se o osso irrita os tecidos vizinhos.\n- **Estágio 2 (sintomático):** antibiótico sistêmico e clorexidina em geral reduzem o desconforto; se o antibiótico não controla a infecção, considerar internação para antibiótico IV.\n- **Estágio 3 (necrose além do alvéolo):** remoção cirúrgica do osso morto, com ressecção e reconstrução quando preciso.\n\n**Controvérsia conservador × cirúrgico:** todos concordam que o estágio 3 se trata com cirurgia; a discussão está nos estágios 1 e 2. Muitos consideram a cirurgia o padrão-ouro em todos os estágios. Um estudo de 2019, com 92 pacientes em estágio 1 tratados de modo conservador, mostrou que 80% progrediram para o estágio 2 ou 3. O livro cita a AAOMS 2022 como apoiando a cirurgia mais precoce, com acompanhamento clínico e radiográfico próximo. O livro traz as duas posições: de um lado, que a remoção agressiva do osso necrótico leva a mais necrose; de outro, que a cirurgia é o padrão-ouro em todos os estágios. Não concilia."
+    },
+    {
+      "id": "neville-osteoporose",
+      "titulo": "Neville: osteoporose, datas das doses e risco × benefício",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 283–284",
+      "texto": "**Neville 5ª ed. (cap. 8).** Os prazos abaixo são do livro; a seção da AAOMS traz os dela.\n\n**Suspensão do medicamento.** Por causa da meia-vida longa dos bisfosfonatos, o livro diz que parar não traz benefício a curto prazo. Em relatos de casos refratários isolados, a suspensão por 6 a 12 meses foi, às vezes, ligada a sequestro e resolução. Segundo o livro, na atualização de 2022 da AAOMS o grupo se dividiu entre suspensão temporária e risco de suspender maior que o benefício.\n\n**Agendar pela data da dose (osteoporose), sem suspender**\n- Ácido zoledrônico IV **anual:** adiar os procedimentos cirúrgicos por **2 meses** depois da infusão, com 10 meses de cicatrização antes da próxima.\n- Denosumabe **a cada 6 meses:** planejar o procedimento para **2 meses depois** da injeção, com 4 meses de cicatrização antes da próxima.\n- A pior abordagem, diz o livro, é ignorar as datas: cirurgia perto da infusão ou da injeção maximiza efeitos adversos sobre a cicatrização.\n\n**Outros procedimentos na osteoporose:** restauradores, protéticos, endodônticos convencionais e periodontais de rotina podem ser feitos. A ortodontia não é contraindicada; avaliar o progresso depois de 2 a 3 meses de terapia ativa. Evitar técnicas invasivas, como cirurgia ortognática, extração dos quatro pré-molares e mini-implantes.\n\n**Consentimento:** antes de procedimento ósseo, alertar o paciente das complicações e do risco de MRONJ. O livro recomenda muito o termo de consentimento impresso e o registro da discussão de benefícios, riscos e alternativas.\n\n**Osteoporose × câncer:** a osteonecrose da osteoporose tende a ser menos extensa e mais responsiva ao tratamento conservador. Se o medicamento puder ser suspenso, muitos casos se resolvem sem cirurgia, de forma lenta ao longo de meses.\n\n**Risco × benefício:** os benefícios da terapia antirreabsortiva parecem superar muito o risco de MRONJ. **Nenhum paciente deve suspender o medicamento sem recomendação médica.** O livro cita que 75% dos pacientes com fratura de quadril por osteoporose nunca se recuperam por completo, com mortalidade de 20% em mulheres e 30% em homens; os antirreabsortivos reduzem as fraturas de quadril em cerca de 50%.\n\n**Em casa:** todos devem manter excelente higiene oral. Os bisfosfonatos orais são cáusticos: o paciente deve minimizar o contato com a mucosa e engolir a medicação por completo."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Pela AAOMS 2022, quais os três elementos da definição de MRONJ?",
+      "verso": "Antirreabsortivo atual ou prévio; osso exposto (ou fístula que sonda até o osso) por mais de 8 semanas; sem radioterapia nos maxilares nem metástase nos maxilares.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Purpose; MRONJ Case Definition; Causality"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual a diferença do denosumabe para os bisfosfonatos, segundo a AAOMS?",
+      "verso": "O denosumabe não se liga ao osso. O efeito sobre a remodelação diminui, na maior parte, em até 6 meses depois de parar.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Medications"
+    },
+    {
+      "id": "f03",
+      "frente": "Segundo a AAOMS, qual o principal parâmetro do risco de MRONJ e quais os valores?",
+      "verso": "Câncer, abaixo de 5%; osteoporose, abaixo de 0,05% (limite do texto; o denosumabe na osteoporose chega a 0,3%).",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Medication-related"
+    },
+    {
+      "id": "f04",
+      "frente": "AAOMS: risco de MRONJ com bisfosfonato na osteoporose. Que dois números o documento traz?",
+      "verso": "0,02% a 0,05% na seção Risk Factors e 0,02% a 0,04% na seção de prevenção. O texto não escolhe.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors; Prevention Strategies"
+    },
+    {
+      "id": "f05",
+      "frente": "AAOMS: risco com denosumabe na osteoporose. Que dois números o documento traz?",
+      "verso": "0,04% a 0,3% (o 0,3% vem de 10 anos de seguimento) em Risk Factors; 0,3% na seção de prevenção.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors; Prevention Strategies"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual o fator predisponente identificável mais comum de MRONJ pela AAOMS?",
+      "verso": "A cirurgia dentoalveolar: a extração é o evento desencadeante em 62% a 82% dos casos.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Local Factors"
+    },
+    {
+      "id": "f07",
+      "frente": "AAOMS: o que caracteriza o estágio 0?",
+      "verso": "Sem osso necrótico clínico, mas com sintomas ou achados inespecíficos (por exemplo, odontalgia sem causa odontogênica, dor óssea surda, mobilidade não explicada, perda óssea alveolar não atribuível à periodontite). Foi relatada progressão para o estágio 1 em até 50% dos pacientes com estágio 0.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Staging"
+    },
+    {
+      "id": "f08",
+      "frente": "AAOMS: como diferenciar os estágios 1, 2 e 3 do osso exposto?",
+      "verso": "Estágio 1: assintomático, sem infecção. Estágio 2: com infecção ou inflamação, sintomático. Estágio 3: infecção e mais um de osso necrótico além do alvéolo, fratura patológica, fístula extraoral, comunicação oroantral ou oronasal, osteólise até a borda inferior ou o assoalho do seio.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Staging"
+    },
+    {
+      "id": "f09",
+      "frente": "AAOMS: o que fazer antes de iniciar antirreabsortivo em paciente com câncer?",
+      "verso": "Exame odontológico completo, extrair dentes não restauráveis e de prognóstico ruim, e adiar o início do medicamento, se possível e se as condições sistêmicas permitirem, até a mucosa cobrir e haver cicatrização óssea.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Prevention Strategies"
+    },
+    {
+      "id": "f10",
+      "frente": "AAOMS: o implante dentário em paciente com câncer em antirreabsortivo?",
+      "verso": "É contraindicado na Tabela 2 e deve ser evitado, no antirreabsortivo parenteral ou antiangiogênico, segundo o texto.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Prevention Strategies, Tabela 2"
+    },
+    {
+      "id": "f11",
+      "frente": "O que a AAOMS 2022 concluiu sobre o drug holiday?",
+      "verso": "Não chegou a consenso: o grupo ficou dividido em partes iguais entre oferecer a suspensão caso a caso e nunca recomendá-la. A evidência é inconclusiva.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday)"
+    },
+    {
+      "id": "f12",
+      "frente": "AAOMS: se o denosumabe da osteoporose for suspenso, quando fazer a cirurgia e quando retomar?",
+      "verso": "Cirurgia 3 a 4 meses depois da última dose; retomar o medicamento 6 a 8 semanas depois da cirurgia.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday)"
+    },
+    {
+      "id": "f13",
+      "frente": "AAOMS: conduta não operatória no estágio 1?",
+      "verso": "Cuidado local da ferida, enxaguatórios antimicrobianos (o texto cita clorexidina), higiene para remover o biofilme e remoção de sequestro móvel. Sem antibiótico sistêmico na Fig. 2.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Treatment Strategies; Fig. 2"
+    },
+    {
+      "id": "f14",
+      "frente": "Em que a Fig. 1 da AAOMS e o texto divergem para a doença avançada?",
+      "verso": "A Fig. 1 começa medidas não operatórias para todos antes de reestadiar. O texto diz que, na doença progressiva ou avançada na apresentação, a ressecção deve ser feita sem medidas não operatórias prolongadas.",
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Treatment Strategies; Fig. 1"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Neville, que medida reduz a chance de osteonecrose em cirurgia inevitável durante terapia IV?",
+      "verso": "Antibioticoterapia profilática iniciada 1 dia antes e mantida por 3 dias depois de qualquer procedimento odontológico invasivo.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 282–284"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o Neville, o paciente pode suspender o antirreabsortivo por conta própria?",
+      "verso": "Não: nenhum paciente deve suspender sem recomendação médica, porque os benefícios da terapia antirreabsortiva parecem superar muito o risco de MRONJ.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, p. 283–284"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 70 anos usa alendronato oral para osteoporose. Tem uma área de osso exposto no rebordo mandibular há 5 semanas, sem história de radioterapia nem metástase nos maxilares. Segundo a AAOMS 2022, o quadro já preenche a definição de MRONJ?",
+      "alternativas": [
+        {
+          "texto": "Sim, porque osso exposto em quem usa antirreabsortivo já define a MRONJ.",
+          "correta": false,
+          "justificativa": "A definição inclui o tempo: o osso exposto precisa persistir por mais de 8 semanas, e aqui são 5.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Purpose; MRONJ Case Definition; Causality"
+        },
+        {
+          "texto": "Ainda não, porque o osso exposto precisa persistir por mais de 8 semanas.",
+          "correta": true,
+          "justificativa": "A definição pede os três elementos: antirreabsortivo, osso exposto por mais de 8 semanas e ausência de radioterapia ou metástase nos maxilares. O tempo ainda não foi atingido.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Purpose; MRONJ Case Definition; Causality"
+        },
+        {
+          "texto": "Não, porque a definição só vale para bisfosfonato por via intravenosa.",
+          "correta": false,
+          "justificativa": "A definição fala em antirreabsortivo atual ou prévio, sem restringir a via; a própria AAOMS cita bisfosfonatos orais, como o alendronato.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, MRONJ Case Definition; Medications"
+        },
+        {
+          "texto": "Não, porque a definição só vale para quem usa denosumabe.",
+          "correta": false,
+          "justificativa": "A definição fala em antirreabsortivo, e a AAOMS inclui bisfosfonatos e denosumabe.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, MRONJ Case Definition; Medications"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Purpose; MRONJ Case Definition; Causality",
+      "secao": "definicao",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente de 74 anos em denosumabe a cada 6 meses para osteoporose pergunta o que o diferencia dos bisfosfonatos que a amiga usa. Segundo a AAOMS 2022, qual a diferença?",
+      "alternativas": [
+        {
+          "texto": "O denosumabe é um anticorpo contra a esclerostina e aumenta a formação óssea.",
+          "correta": false,
+          "justificativa": "Essa é a descrição do romosozumabe; o denosumabe é anticorpo contra o RANK-L.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Medications"
+        },
+        {
+          "texto": "O denosumabe é um inibidor do VEGF, da família dos antiangiogênicos.",
+          "correta": false,
+          "justificativa": "Os inibidores de VEGF são antiangiogênicos; o denosumabe é antirreabsortivo, anticorpo contra o RANK-L.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Medications; Angiogenesis Inhibition"
+        },
+        {
+          "texto": "O denosumabe não se liga ao osso, e seu efeito sobre a remodelação diminui na maior parte em até 6 meses depois de parar.",
+          "correta": true,
+          "justificativa": "É a diferença apontada pela AAOMS entre o denosumabe e os bisfosfonatos.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Medications"
+        },
+        {
+          "texto": "O denosumabe só é usado no câncer, em injeção mensal.",
+          "correta": false,
+          "justificativa": "A injeção mensal (Xgeva) é a do câncer; a AAOMS cita também o denosumabe subcutâneo a cada 6 meses (Prolia) para osteoporose, como neste caso.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Medications"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Medications",
+      "secao": "medicamentos",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 62 anos, em tratamento de mieloma múltiplo com zoledronato, precisa de extração de um molar com doença periodontal. O que a AAOMS 2022 aponta como o fator predisponente identificável mais comum de MRONJ?",
+      "alternativas": [
+        {
+          "texto": "Tabagismo.",
+          "correta": false,
+          "justificativa": "A AAOMS descreve o tabaco como fator relatado de modo variável: um estudo deu OR 3,0 sem significância e outros não mostraram associação.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Demographic and Systemic"
+        },
+        {
+          "texto": "Diabetes.",
+          "correta": false,
+          "justificativa": "A AAOMS descreve o diabetes como fator relatado de modo inconsistente.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Demographic and Systemic"
+        },
+        {
+          "texto": "Anemia com hemoglobina abaixo de 10 g/dL.",
+          "correta": false,
+          "justificativa": "A AAOMS descreve a anemia como fator relatado de modo inconsistente.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Demographic and Systemic"
+        },
+        {
+          "texto": "A cirurgia dentoalveolar, com a extração como evento desencadeante em 62% a 82% dos casos.",
+          "correta": true,
+          "justificativa": "A AAOMS aponta a cirurgia dentoalveolar como o fator predisponente identificável mais comum.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Local Factors"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Local Factors",
+      "secao": "fatores",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Mulher de 55 anos com câncer de mama metastático para o osso vai receber denosumabe mensal e pergunta sobre o risco de osteonecrose. Segundo a AAOMS 2022, qual faixa descreve o risco do denosumabe no câncer?",
+      "alternativas": [
+        {
+          "texto": "0,04% a 0,3%.",
+          "correta": false,
+          "justificativa": "Essa é a faixa do denosumabe na osteoporose, indicação de risco bem menor.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Medication-related"
+        },
+        {
+          "texto": "0,02% a 0,05%.",
+          "correta": false,
+          "justificativa": "Essa é a faixa dos bisfosfonatos na osteoporose, não a do denosumabe no câncer.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Medication-related"
+        },
+        {
+          "texto": "0% a 6,9%, com a maioria dos estudos abaixo de 5%.",
+          "correta": true,
+          "justificativa": "É a faixa que a AAOMS traz para o denosumabe no câncer, comparável à do zoledronato.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Medication-related"
+        },
+        {
+          "texto": "0% a 0,02%, a mesma do placebo.",
+          "correta": false,
+          "justificativa": "Essa é a faixa do placebo na osteoporose; no câncer o placebo ficou entre 0% e 0,7%.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Risk Factors, Medication-related"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Risk Factors, Medication-related",
+      "secao": "risco",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente em zoledronato para mieloma tem osso exposto e necrótico na mandíbula, com dor, edema e pus. Não há fístula extraoral, comunicação com o seio nem fratura, e o osso necrótico não passa do osso alveolar. Pelo estadiamento da AAOMS 2022, qual o estágio?",
+      "alternativas": [
+        {
+          "texto": "Estágio 0.",
+          "correta": false,
+          "justificativa": "O estágio 0 não tem osso necrótico exposto; aqui o osso está exposto.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Staging"
+        },
+        {
+          "texto": "Estágio 1.",
+          "correta": false,
+          "justificativa": "O estágio 1 é assintomático e sem sinal de infecção ou inflamação; aqui há dor, edema e pus.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Staging"
+        },
+        {
+          "texto": "Estágio 2.",
+          "correta": true,
+          "justificativa": "Osso exposto e necrótico com infecção ou inflamação e sintomas, sem as características do estágio 3, é estágio 2.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Staging"
+        },
+        {
+          "texto": "Estágio 3.",
+          "correta": false,
+          "justificativa": "O estágio 3 exige mais uma característica, como osso necrótico além do alvéolo, fratura patológica, fístula extraoral ou comunicação oroantral; nenhuma está presente.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Staging"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Staging",
+      "secao": "estadiamento",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 58 anos com câncer de mama vai iniciar zoledronato. O dente 46 é não restaurável e de prognóstico ruim, e o médico informa que as condições sistêmicas permitem adiar o início. Segundo a AAOMS 2022, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Iniciar o medicamento agora e extrair o dente apenas se surgir dor.",
+          "correta": false,
+          "justificativa": "A AAOMS orienta otimizar a saúde dental antes de iniciar e extrair dentes não restauráveis e de prognóstico ruim.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, antes de iniciar, câncer"
+        },
+        {
+          "texto": "Extrair o dente e adiar, se possível, o início do medicamento até a mucosa cobrir e haver cicatrização óssea adequada.",
+          "correta": true,
+          "justificativa": "É o que a AAOMS descreve para o paciente com câncer antes da terapia: extrair os dentes não restauráveis e adiar, se possível, até a cicatrização.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, antes de iniciar, câncer"
+        },
+        {
+          "texto": "Manter o dente e substituí-lo depois por implante assim que o medicamento começar.",
+          "correta": false,
+          "justificativa": "O implante é contraindicado no paciente com câncer em antirreabsortivo (Tabela 2).",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, Tabela 2"
+        },
+        {
+          "texto": "Extrair o dente e não iniciar nenhum antirreabsortivo, de forma definitiva.",
+          "correta": false,
+          "justificativa": "Entre as metas da AAOMS está apoiar a continuidade do tratamento do câncer e da saúde óssea; a orientação é adiar, se possível, e não abandonar o medicamento.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Management Strategies"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Management Strategies; Prevention Strategies (antes de iniciar, câncer e osteoporose); Optimization of Oral Health",
+      "secao": "prevencao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Homem de 66 anos, com câncer de próstata e metástase óssea, usa denosumabe mensal. O dente 37 está assintomático e não é restaurável. Segundo a AAOMS 2022 (câncer, assintomático, em antirreabsortivo), qual a abordagem?",
+      "alternativas": [
+        {
+          "texto": "Remover a coroa e tratar as raízes endodonticamente, extraindo apenas se necessário.",
+          "correta": true,
+          "justificativa": "É a conduta descrita para dente não restaurável nesse cenário, em linha com a retenção radicular da Tabela 2.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, durante a terapia, câncer; Tabela 2"
+        },
+        {
+          "texto": "Extrair o dente e colocar implante imediato.",
+          "correta": false,
+          "justificativa": "A AAOMS contraindica o implante no paciente com câncer em antirreabsortivo (Tabela 2), diz que deve ser evitado no parenteral ou antiangiogênico (texto) e pede evitar a cirurgia dentoalveolar, se possível.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, Tabela 2"
+        },
+        {
+          "texto": "Suspender o denosumabe por 3 meses antes de extrair.",
+          "correta": false,
+          "justificativa": "A AAOMS diz que, em câncer assintomático, a vantagem de suspender o medicamento continua não comprovada.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, durante a terapia, câncer"
+        },
+        {
+          "texto": "Extrair de imediato, porque a cirurgia eletiva não é contraindicada nesse grupo.",
+          "correta": false,
+          "justificativa": "Essa frase da AAOMS é do grupo da osteoporose; no câncer, o texto manda evitar procedimentos com lesão óssea direta, se possível.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Prevention Strategies, durante a terapia"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Prevention Strategies, Tabela 2 e texto (durante a terapia); Risk Factors, Local Factors",
+      "secao": "durante-terapia",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Mulher de 75 anos usa denosumabe a cada 6 meses para osteoporose e precisa de extração. O médico decide suspender o medicamento. Segundo a AAOMS 2022, qual o momento sugerido para a cirurgia e para retomar?",
+      "alternativas": [
+        {
+          "texto": "Cirurgia 1 a 2 semanas depois da última dose; retomar na semana seguinte à cirurgia.",
+          "correta": false,
+          "justificativa": "A AAOMS sugere a cirurgia 3 a 4 meses depois da última dose, quando a inibição osteoclástica diminui, e retomar o medicamento 6 a 8 semanas depois da cirurgia.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday)"
+        },
+        {
+          "texto": "Cirurgia no mesmo dia da próxima dose, sem retomar depois.",
+          "correta": false,
+          "justificativa": "A AAOMS fala em retomar o medicamento 6 a 8 semanas depois da cirurgia; não sugere deixar de retomá-lo.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday)"
+        },
+        {
+          "texto": "Qualquer momento serve, pois o medicamento perde o efeito assim que se para.",
+          "correta": false,
+          "justificativa": "A AAOMS diz que o efeito sobre a remodelação diminui, na maior parte, em até 6 meses depois de parar, e dá prazos para a cirurgia e para a retomada.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Medications; Cessation of At-Risk Medication Therapy (Drug Holiday)"
+        },
+        {
+          "texto": "Cirurgia 3 a 4 meses depois da última dose; retomar 6 a 8 semanas depois da cirurgia.",
+          "correta": true,
+          "justificativa": "É o esquema que a AAOMS sugere para o denosumabe na osteoporose se a suspensão for escolhida.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday)"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Cessation of At-Risk Medication Therapy (Drug Holiday); Treatment Strategies",
+      "secao": "drug-holiday",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Homem de 69 anos, em zoledronato para mieloma, tem osso exposto e necrótico na mandíbula. Ele não tem dor, não há sinal de infecção, a lesão não progrediu e a qualidade de vida é adequada. Segundo a AAOMS 2022, qual conduta não operatória cabe?",
+      "alternativas": [
+        {
+          "texto": "Antibiótico sistêmico e controle da dor, como no estágio 2.",
+          "correta": false,
+          "justificativa": "Segundo a Fig. 2, o antibiótico sistêmico entra a partir do estágio 2; aqui o paciente não tem sintoma nem infecção.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Treatment Strategies; Fig. 2"
+        },
+        {
+          "texto": "Oxigênio hiperbárico como base do tratamento.",
+          "correta": false,
+          "justificativa": "A AAOMS diz que há pouca evidência e que o oxigênio hiperbárico não é recomendado como base do tratamento.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Treatment Strategies"
+        },
+        {
+          "texto": "Cuidado local da ferida, enxaguatório antimicrobiano (clorexidina), higiene e remoção de sequestro móvel, com vigilância.",
+          "correta": true,
+          "justificativa": "É a conduta do estágio 1 no texto e na Fig. 2; a cirurgia pode não ser indicada sem progressão e com qualidade de vida adequada.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Treatment Strategies; Fig. 2"
+        },
+        {
+          "texto": "Suspender o zoledronato para permitir a cura.",
+          "correta": false,
+          "justificativa": "A conduta não operatória da AAOMS (texto e Fig. 2) é cuidado local da ferida, higiene e remoção de sequestro móvel; a suspensão do medicamento não está entre elas. A AAOMS diz ainda que, na MRONJ já instalada, o benefício da suspensão para a intervenção operativa não foi comprovado.",
+          "fonte": "aaoms2022",
+          "onde": "AAOMS 2022, Treatment Strategies; Fig. 2; Cessation of At-Risk Medication Therapy (Drug Holiday)"
+        }
+      ],
+      "fonte": "aaoms2022",
+      "onde": "AAOMS 2022, Treatment Strategies; Fig. 2",
+      "secao": "conduta-estagio",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Homem de 60 anos com câncer de pulmão usa ácido zoledrônico IV e tem um dente com mobilidade grau +3 que precisa ser extraído. Segundo o Neville, o que reduz a probabilidade de osteonecrose nessa cirurgia?",
+      "alternativas": [
+        {
+          "texto": "Esplintar o dente em vez de extraí-lo.",
+          "correta": false,
+          "justificativa": "Segundo o Neville, o esplintamento é para mobilidade +1 ou +2; no grau +3 o dente pode ser extraído.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 282–284"
+        },
+        {
+          "texto": "Suspender o ácido zoledrônico por 6 a 12 meses antes da extração.",
+          "correta": false,
+          "justificativa": "O Neville diz que, pela meia-vida longa, a suspensão não traz benefício a curto prazo e cita 6 a 12 meses só em relatos de casos refratários isolados.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 283–284"
+        },
+        {
+          "texto": "Agendar a cirurgia 2 meses depois da infusão, porque a dose é anual.",
+          "correta": false,
+          "justificativa": "O livro traz esse agendamento para o ácido zoledrônico anual na osteoporose; este paciente tem câncer e usa o medicamento IV, e para a cirurgia inevitável nesse caso o livro cita o antibiótico profilático.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 283–284"
+        },
+        {
+          "texto": "Antibioticoterapia profilática iniciada 1 dia antes e mantida por 3 dias depois do procedimento.",
+          "correta": true,
+          "justificativa": "É a medida que o livro cita para cirurgia inevitável durante a terapia IV.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 282–284"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Osteonecrose dos maxilares relacionada a medicamentos, Tratamento e prognóstico, p. 282–284",
+      "secao": "neville-prevencao",
+      "figura": null
+    }
+  ]
+}

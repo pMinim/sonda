@@ -1,0 +1,595 @@
+{
+  "slug": "doenca-renal-cronica",
+  "titulo": "Doença renal crônica e hemodiálise: dia do atendimento, sangramento, ajuste de dose",
+  "area": "Pacientes Especiais",
+  "origem": "Little e Falace 9ª ed., cap. 12; Varellis (org.) 3ª ed., cap. 33",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lf9-cap12",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 12, Chronic Kidney Disease and Dialysis, p. 193–209.",
+      "curta": "Little e Falace 9ª ed., cap. 12"
+    },
+    {
+      "id": "varellis3-cap33",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 33, Alterações Renais, Insuficiência Renal Crônica, p. 273–278 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 33"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "estagios",
+      "titulo": "Quem é o paciente: definição, estágios e como se mede",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, definição, classificação e Tabela 12.1, p. 193–194; sintomas, p. 196; diagnóstico, p. 198; Tabela 12.2, p. 199",
+      "texto": "Esta seção e as seguintes, até os achados bucais, seguem o **Little e Falace** (9ª ed., autores dos EUA), a fonte base do tema. A classificação em estágios é a da **National Kidney Foundation (EUA)**.\n\n**Definição:** doença renal crônica (DRC) é anormalidade da estrutura ou da função do rim presente por **3 meses ou mais**, com consequência para a saúde. O dano raramente se repara. As causas principais são **diabetes e hipertensão**; idade acima de 60 anos é o maior fator de risco.\n\n**Estágios pela taxa de filtração glomerular (TFG), em mL/min/1,73 m²** (Tabela 12.1):\n\n| Estágio | Descrição | TFG |\n|---|---|---|\n| 1 | dano renal, TFG normal ou aumentada | 90 ou mais |\n| 2 | TFG levemente diminuída | 60 a 89 |\n| 3 | TFG moderadamente diminuída | 30 a 59 |\n| 4 | TFG gravemente diminuída | 15 a 29 |\n| 5 | falência renal (doença renal em estágio terminal, DRET) | menos de 15, ou em diálise |\n\nO estágio 3 se divide em 3a (45 a 59) e 3b (30 a 44). No estágio 5, 75% ou mais dos cerca de 2 milhões de néfrons perderam a função.\n\n**Quando dá sintoma:** pouco ou nada até o estágio 3. Daí em diante surgem mal-estar, fadiga, náusea, perda de apetite, anemia, cãibras e noctúria. A legenda da Fig. 12.7 (p. 198) diz que o paciente costuma seguir assintomático até a TFG cair abaixo de 20 mL/min. O livro não concilia as duas informações.\n\n**Uremia** é a síndrome clínica da falência renal: os resíduos nitrogenados se acumulam e os rins perdem as funções excretora, endócrina e metabólica. Sem tratamento, é fatal.\n\n**Diálise** é a filtração artificial do sangue. Na p. 198 o livro diz que se inicia no estágio 5, ou com manifestações urêmicas ou sobrecarga de líquidos intratável; no mesmo trecho, que o início passa a ter importância quando a TFG cai abaixo de 30 mL/min/1,73 m². O livro não concilia os dois números.\n\n**Como se mede:** a TFG é a melhor medida da função renal global. A albuminúria (albumina na urina) soma-se a ela para definir gravidade e prognóstico. A avaliação inclui pressão arterial, urinálise, nitrogênio ureico do sangue (BUN) e creatinina sérica. O BUN é menos específico que a creatinina ou a depuração de creatinina, porque também sofre influência do fígado e do fluxo sanguíneo. A Tabela 12.2 (p. 199, adaptada de diretrizes dos EUA) dá como referência BUN de 8 a 18 mg/dL e creatinina de 0,6 a 1,20 mg/dL, e como falência grave BUN acima de 50 e creatinina acima de 6 mg/dL."
+    },
+    {
+      "id": "repercussoes",
+      "titulo": "O que a doença faz no resto do corpo",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, fisiopatologia e complicações, p. 195–198; hemodiálise e complicações, p. 200–201",
+      "texto": "O que o livro destaca porque muda o atendimento:\n\n**Sangramento.** A diátese hemorrágica (tendência a sangrar e a ter equimose) é comum na DRET. O livro a atribui sobretudo à agregação e à adesividade anormais das plaquetas, à queda do fator 3 plaquetário e à perda de fatores de coagulação pela proteinúria. O sangramento gastrintestinal oculto é frequente. Na pele e na mucosa aparecem equimoses, petéquias, púrpura e sangramento gengival.\n\n**Anemia.** É uma das manifestações mais comuns, com menos eritropoetina e perdas por sangramento. É tratada com eritropoetina humana recombinante.\n\n**Pressão e coração.** A hipertensão é comum. Insuficiência cardíaca congestiva e hipertrofia do ventrículo esquerdo também. Eventos cardiovasculares causam cerca de metade das mortes anuais em quem tem DRET.\n\n**Defesa contra infecção.** A imunidade celular e a função dos leucócitos ficam deprimidas, e a suscetibilidade a infecção aumenta.\n\n**Osso.** A osteodistrofia renal (menos vitamina D ativa, hipocalcemia e hiperparatireoidismo secundário) está por trás das lesões ósseas dos maxilares, descritas na seção de achados bucais.\n\n**Outros sinais:** pele amarelada com prurido intenso (e, às vezes, cristais de ureia, o \"uremic frost\"), hálito com odor de urina, alteração de olfato e paladar, neuropatia periférica.\n\n**Diálise não devolve a função inteira:** fornece só cerca de 15% da função renal normal, e o próprio procedimento traz complicações."
+    },
+    {
+      "id": "avaliacao-risco",
+      "titulo": "Pode atender hoje? Avaliação de risco e quando falar com o médico",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, avaliação de risco e Quadro 12.1, p. 201–203; Tabela 12.1, p. 194",
+      "texto": "**Comece pelo estágio.** Saiba a TFG, o estágio da DRC e o grau de albuminúria. Faixas de TFG (Tabela 12.1, p. 194): estágio 2, 60 a 89; estágio 3, 30 a 59; estágio 4, 15 a 29; estágio 5, menos de 15 ou em diálise.\n\n- **Estágios 1 a 3**, doença bem controlada e com cuidado médico conservador: em geral não há problema no atendimento ambulatorial.\n- **Estágio 4 ou mais:** o livro sugere consulta ao médico antes do atendimento.\n- **Falência avançada, ou outra comorbidade** (diabetes, hipertensão, lúpus eritematoso sistêmico), **ou albuminúria grave, ou desequilíbrio eletrolítico:** o atendimento pode ser melhor em ambiente semelhante a hospital, depois de consultar o médico. Pode ser preciso adiar até conhecer o estado do paciente e a DRC estar bem controlada.\n- **Função piorando (TFG abaixo de 50 mL/min):** adiar o atendimento eletivo até haver consulta médica e estabilidade clínica.\n\n**Onde o livro varia o corte de estágio:** o texto da p. 201 manda consultar a partir do estágio 4. O Quadro 12.1 (p. 202), sobre emergências, manda evitar procedimentos invasivos e consultas longas quando a doença é instável ou avançada, e escreve \"estágio 3 ou mais\". O livro não explica a diferença.\n\n**Quem ainda não tem diagnóstico.** Paciente com diabetes ou hipertensão e outros fatores de risco (obesidade, tabagismo, doença cardiovascular, familiar com DRET) deve ser encaminhado para rastreamento. Hematúria, infecções urinárias repetidas ou edema sem avaliação prévia pedem encaminhamento ao médico.\n\n**Pressão arterial:** hipertensão é comum na DRC. Monitore de perto antes e durante o procedimento e encaminhe se estiver elevada.\n\n**Posição na cadeira:** se o paciente toma anti-hipertensivo, ajude-o a recuperar o equilíbrio em posição vertical antes de sair da cadeira.\n\n**Corticosteroide.** Quem toma dose alta (por exemplo, 10 mg/dia ou mais de prednisona ou equivalente), como costuma ser prescrito na DRET, pode ter insuficiência adrenal. Garanta que a dose habitual seja tomada antes do procedimento cirúrgico e acompanhe o pós-operatório.\n\n**Depois do procedimento:** contate o paciente para saber se o pós-operatório transcorre sem complicações."
+    },
+    {
+      "id": "sangramento",
+      "titulo": "Sangramento: o que pedir e como controlar",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–203, e Quadro 12.1, p. 202",
+      "texto": "**Antes de procedimento invasivo:** faça triagem de distúrbio hemorrágico e peça contagem de plaquetas, mais hematócrito e hemoglobina para avaliar a anemia. Qualquer valor anormal deve ser discutido com o médico (o capítulo remete ao cap. 24 para a triagem). Sangramento excessivo pode ocorrer na DRC não tratada ou mal controlada.\n\n**Hematócrito:** com valor acima de 25%, há poucos problemas em procedimentos não hemorrágicos. Se o sangramento é esperado, o hematócrito pode ser elevado com eritropoetina, sob orientação do médico. A transfusão de hemácias é a opção menos desejável, pelo risco de sensibilização e de infecção transmitida pelo sangue.\n\n**Na cirurgia:**\n- atenção meticulosa à técnica cirúrgica;\n- ter à mão e usar hemostáticos locais: trombina tópica, colágeno microfibrilar, esponja de gelatina absorvível e sutura.\n\n**Outras opções que o livro cita:**\n- o livro manda **evitar desmopressina** no paciente urêmico;\n- estrogênios conjugados servem quando se quer ação mais longa, mas em geral é preciso cerca de 1 semana de terapia para a eficácia;\n- crioprecipitado pode ser usado em casos refratários, em consulta com o hematologista;\n- transfusão de plaquetas é pouco usada, pelo risco de sensibilização imunogênica.\n\n**Antiplaquetários:** aspirina e outros AINEs potencializam o defeito plaquetário urêmico. Em procedimento invasivo, pode ser preciso evitá-los.\n\nQuando o paciente está em hemodiálise, o risco de sangramento muda com o dia e com a heparina. Isso está na próxima seção."
+    },
+    {
+      "id": "hemodialise",
+      "titulo": "Paciente em hemodiálise: dia do atendimento e cuidados com a fístula",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, hemodiálise e riscos de hepatite e HIV, p. 200–201; Quadro 12.1, coluna Recebendo hemodiálise, p. 202; Dental Management, pacientes em diálise, p. 206–207",
+      "texto": "**O que é.** Nos EUA, a maioria dos dialisados (88%) faz hemodiálise. As sessões ocorrem a cada 2 ou 3 dias e, em geral, duram 3 a 4 horas (o manual de Varellis traz outra duração: ver a seção dele). O acesso é, na maioria, uma fístula ou enxerto arteriovenoso no antebraço, puncionado com agulha de grosso calibre. Dá-se heparina durante a sessão, para o sangue não coagular. A diálise peritoneal, por outro lado, não traz problema adicional para o manejo odontológico.\n\n**Dia do atendimento.** Evite atender no dia da hemodiálise, sobretudo nas primeiras 6 horas depois. O melhor é tratar **no dia seguinte**: no dia da sessão o paciente costuma estar fatigado e com tendência a sangrar. A atividade da heparina dura 3 a 6 horas depois da infusão.\n\n**Cirurgia maior.** Programe para o dia seguinte ao fim da semana de hemodiálise, para o coágulo ter mais tempo antes da próxima sessão. Exemplo do livro: paciente de segunda, quarta e sexta operado no sábado ganha um dia a mais antes da sessão de segunda.\n\n**Controle local:** fechamento primário, pressão e hemostáticos locais (esponja de gelatina absorvível, trombina, celulose oxidada, colágeno absorvível, quitosana, cianoacrilato). O ácido tranexâmico pode ser usado, com dose ajustada junto ao médico.\n\n**Heparina.** Se indicado, contate o nefrologista para reduzir ou suspender a heparina na primeira sessão depois da cirurgia. Se for preciso atender no dia da hemodiálise, o sulfato de protamina, que bloqueia a heparina, é em geral administrado por médico.\n\n**Braço da fístula:** não meça pressão, não colha sangue nem administre medicamento intravenoso nesse braço. Manguito ou torniquete inflado pode colapsar o shunt e inutilizá-lo. Evite também puncionar o shunt, para não causar flebite nem trombo. A pressão continua a ser monitorada de perto (hipertensão é comum na DRC); evite apenas o braço do shunt.\n\n**Hepatites e HIV:** o risco é maior, porque os dialisadores são desinfetados, não esterilizados, entre os usos. Use as medidas padrão de controle de infecção em todos. Avalie a função hepática antes de procedimentos hemorrágicos.\n\n**Estabilidade:** atenda só com o paciente clinicamente estável. Cerca de 40% dos dialisados têm insuficiência cardíaca congestiva, e o risco de fratura óssea é maior."
+    },
+    {
+      "id": "infeccao-hd",
+      "titulo": "Infecção, endocardite e antibiótico no paciente em diálise",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, infecção da fístula, p. 201; Quadro 12.1, p. 202; Dental Management, antibióticos, p. 201 e 206; Quadro 12.3, p. 206",
+      "texto": "**Por que importa.** A fístula arteriovenosa pode infectar (endarterite) e ser fonte de bacteremia e de endocardite infecciosa. A causa mais comum de infecção do acesso é *Staphylococcus aureus*. O livro considera baixo o risco de infecção da fístula por procedimentos odontológicos. A endocardite ocorre em 2% a 9% dos pacientes em hemodiálise, mesmo sem defeito cardíaco prévio; cerca de 10% a 17% dos casos vêm de microrganismos que podem vir da orofaringe.\n\n**O que a diretriz citada diz.** O livro cita a diretriz de **2003 da American Heart Association (EUA)** para infecção de dispositivos cardiovasculares não valvares (Quadro 12.3):\n- a profilaxia antibiótica **não é recomendada rotineiramente** antes de procedimentos odontológicos em pacientes com acesso intravascular;\n- é **recomendada** quando há incisão e drenagem de infecção em outros sítios (o quadro dá o abscesso como exemplo); o texto da p. 206 faz a exceção do abscesso incisado e drenado.\n\nO Quadro 12.1 diz, para quem faz hemodiálise, \"considerar\" a profilaxia se houver abscesso. Os dois trechos estão no capítulo, com verbos diferentes. É a posição de uma diretriz dos EUA de 2003, como o livro a cita; o tema não a propõe como regra.\n\n**Fora da diálise.** No DRC dos estágios 1 a 3 sem diálise, em geral não há consideração antibiótica adicional. Acima do estágio 3, com procedimento invasivo planejado, consulte o médico sobre a necessidade de antibiótico; a dose pode precisar de ajuste pela função renal que restou.\n\n**Infecção odontogênica ou orofacial:** trate de forma agressiva, com cultura e antibiograma e antibióticos apropriados. Em infecção grave ou procedimento maior, considere hospitalização. Quando infecção e DRC coexistem, pode ser necessária uma dose de ataque.\n\n**Risco geral de infecção.** Dependentes de diálise de longo prazo, sobretudo diabéticos, são propensos a infecção. Tuberculose e infecções resistentes a vancomicina e meticilina são mais frequentes neles do que na população geral. Procure sinais de infecção orofacial e elimine focos orais. Escolha com prudência o antibiótico (Tabela 12.4, na seção de fármacos)."
+    },
+    {
+      "id": "farmacos-regras",
+      "titulo": "Fármacos: regra geral, o que evitar e o que ajustar",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203; Quadro 12.1, p. 202; hemodiálise e fármacos, p. 207",
+      "texto": "**Regra geral.** Um fármaco excretado pelo rim é eliminado com eficiência pela metade quando a TFG cai para 50 mL/min, e pode atingir nível tóxico com TFG menor. É preciso reduzir a dose e prolongar o intervalo. O Quadro 12.1 coloca o corte de ajuste provável em TFG abaixo de 50 mL/min.\n\n**Nefrotóxicos a evitar em geral:** aciclovir, aminoglicosídeos, aspirina, AINEs e tetraciclina. Os AINEs inibem as prostaglandinas, causam vasoconstrição e reduzem a perfusão renal. O Quadro 12.1 diz, mais restritamente, para evitar o uso **prolongado** de AINEs.\n\n**Analgésicos:**\n- o acetaminofeno também pode ser nefrotóxico (necrose tubular renal em doses altas), mas provavelmente é mais seguro que a aspirina em curto prazo, porque é metabolizado no fígado;\n- tramadol é o analgésico alternativo citado;\n- sobre opioides, o Quadro 12.1 manda evitar narcóticos (sedação prolongada e depressão respiratória), e o texto diz que, se for preciso, a dose deve ser ajustada. **Evite meperidina:** seu metabólito pode se acumular e causar convulsões.\n\n**Antibióticos:** as tetraciclinas, exceto a doxiciclina, pioram a insuficiência renal e foram associadas à deterioração renal em atendimento odontológico.\n\n**Anestésicos locais** em geral não exigem ajuste de dose. **Ansiolíticos:** para benzodiazepínico em dose única não é necessário ajuste; óxido nitroso e diazepam exigem pouca modificação. Antes de sedação intravenosa, meça hematócrito ou hemoglobina para garantir oxigenação adequada. Barbitúricos e narcóticos são melhor evitados na uremia. Com hemoglobina abaixo de 10 g/100 mL, o livro não recomenda anestesia geral.\n\n**Outros motivos de ajuste:** albumina baixa (mais efeito do fármaco), uremia alterando o metabolismo hepático e edema ou ascite importantes (dose inicial maior) ou desidratação (menor).\n\n**Em hemodiálise:** a sessão remove alguns fármacos, o que encurta o efeito. Em geral, programe as doses para depois da diálise, para garantir níveis ativos até a próxima dose; quantidades e intervalos seguem a Tabela 12.4 e o médico. Considere suplementação de corticosteroide, se indicada."
+    },
+    {
+      "id": "farmacos-tabela",
+      "titulo": "Tabela 12.4: ajuste de dose por faixa de TFG",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.4, p. 204–205, e notas de rodapé; texto, p. 203; Quadro 12.1, p. 202",
+      "texto": "A tabela (modificada de Aronoff et al. e Golightly et al.) dá a dose usual e o ajuste para duas faixas de TFG. É uma seleção de linhas: o livro traz também celecoxibe, gabapentina, claritromicina, eritromicina, corticosteroides e hidrato de cloral. Porcentagem é a parte da dose usual. \"Sem ajuste\" é como o livro escreve; \"q\" é \"a cada\"; células em branco no livro aparecem aqui como \"a tabela não traz\".\n\n| Fármaco e dose usual | TFG 10 a 50 mL/min | TFG abaixo de 10 mL/min |\n|---|---|---|\n| Acetaminofeno 650 mg q4h | sem ajuste | q8h |\n| Aspirina 650 mg q6h | 50% da dose | evitar |\n| Codeína 30 a 60 mg q4 a 6h | 75% | evitar |\n| Ibuprofeno 400 a 800 mg q8h | sem ajuste | evitar |\n| Meperidina‡ 50 mg q4h | 75% | 50% |\n| Tramadol 50 a 100 mg q6h | q6 a 12h | 50% q12h |\n| Anestésicos locais (articaína, lidocaína, mepivacaína, prilocaína) | sem ajuste | a tabela não traz |\n| Amoxicilina 500 mg q8h | q8 a 12h | q12 a 24h |\n| Cefalexina 250 a 500 mg q6h | q6 a 8h | q12 a 24h |\n| Azitromicina 250 a 500 mg q24h | sem ajuste | evitar |\n| Clindamicina 150 a 300 mg q6h | sem ajuste | a tabela não traz |\n| Doxiciclina 100 mg q12h | sem ajuste | a tabela não traz |\n| Metronidazol 250 a 500 mg q8 a 12h | sem ajuste | a tabela não traz |\n| Fluconazol 100 a 200 mg q24h | 50% | 25% |\n| Aciclovir 200 a 800 mg q4h | q8h | q12h |\n| Tetraciclina 250 a 500 mg q6 a 12h | evitar | evitar |\n| Diazepam‡ 2 a 5 mg q12h (a linha do livro traz também triazolam) | sem ajuste | a tabela não traz |\n\n**Onde a tabela e o texto do livro não coincidem** (o livro não os concilia):\n- **Aspirina:** texto e Quadro 12.1 mandam evitar; a tabela dá 50% da dose em TFG de 10 a 50.\n- **Ibuprofeno:** texto e quadro mandam evitar AINEs (o quadro, o uso prolongado); a tabela dá \"sem ajuste\" em TFG de 10 a 50.\n- **Meperidina:** o texto manda evitar; a tabela dá 75% da dose em TFG de 10 a 50.\n- **Codeína:** o Quadro 12.1 manda evitar narcóticos; a tabela dá 75% da dose em TFG de 10 a 50 e evitar em TFG abaixo de 10.\n- **Aciclovir:** texto, quadro e nota de rodapé mandam evitar (nefrotóxico); a linha da tabela traz um ajuste de intervalo.\n\nMeperidina e diazepam levam ‡ no livro: uso com muita cautela, porque metabólitos ativos podem se acumular; reduzir a dose se o uso passar de alguns dias."
+    },
+    {
+      "id": "achados-bucais",
+      "titulo": "O que se vê na boca e o que fazer com a saúde bucal",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais e Quadro 12.2, p. 203–205; planejamento, p. 205–206; hemodiálise, p. 207",
+      "texto": "**Mucosa e saliva.** Palidez, pigmentação, petéquias e equimoses da mucosa. Descoloração vermelho-alaranjada das bochechas pode acompanhar prurido. A saliva diminui (xerostomia, infecções de parótida), muda de composição, fica com pH mais alto e com odor amoniacal pelo teor de ureia. Queixas comuns: gosto alterado ou metálico e halitose. Candidíase é mais frequente com menos saliva.\n\n**Estomatite urêmica** é rara, em geral ligada à insuficiência renal aguda, com BUN acima de 55 mg/dL. Começa com mucosa vermelha e ardente, coberta por exsudato cinzento, e evolui para ulceração. Placas brancas aderentes (cristais de ureia) são mais comuns na pele, mas podem surgir na mucosa. O Quadro 12.2 (p. 203) a marca como achado da DRET grave; o livro não concilia as duas descrições.\n\n**Sangramento:** petéquias e equimoses em mucosa labial e jugal, palato mole e bordas da língua, e sangramento gengival.\n\n**Dentes.** Hipoplasia e hipocalcificação do esmalte quando a DRET começa cedo, atraso leve de erupção, erosão por vômito persistente e estreitamento ou obliteração pulpar. **Cárie não é característica:** a ureia salivar inibe os produtos finais do metabolismo da placa e aumenta a capacidade tampão da saliva.\n\n**Periodonto:** má higiene, gengivite, doença periodontal e perda dentária são mais comuns do estágio 3 em diante. Bloqueador de canal de cálcio, e ciclosporina no transplantado, podem causar aumento gengival.\n\n**Maxilares.** A alteração clássica é a tríade: perda da lâmina dura, osso desmineralizado com aspecto de \"vidro fosco\" e lesões radiolúcidas localizadas e expansivas (granulomas de células gigantes centrais, também chamados tumores marrons), por hiperparatireoidismo secundário. Também há trabeculado alargado, calcificações em partes moles e calcificações vasculares das carótidas.\n\n**Hemodiálise** reverte muitas alterações graves, mas persistem odor urêmico, boca seca, alteração de paladar e dor na língua. O hiperparatireoidismo secundário com alterações ósseas foi relatado em mais de 30% desses pacientes.\n\n**Plano de tratamento:** o paciente costuma ter má higiene, pouca saliva e necessidades não atendidas. Instrução de higiene meticulosa, profilaxia profissional frequente, antiplaca e retornos periódicos são importantes. Com higiene aceitável, não há contraindicação ao atendimento de rotina, desde que se cuide da saúde sistêmica."
+    },
+    {
+      "id": "varellis-visao",
+      "titulo": "O manual de Varellis: o que é a doença e como se trata",
+      "fonte": "varellis3-cap33",
+      "onde": "cap. 33, Alterações Renais, IRC, Introdução, Funções renais, Sequelas sistêmicas, p. 273–274; Valores de referência, p. 275–276; Tratamento médico e Métodos auxiliares de filtração, p. 276–277",
+      "texto": "Esta seção é do **manual prático organizado por Maria Lucia Zarvos Varellis** (Guanabara Koogan, 3ª ed., 2017), cap. 33, e traz os números dele. O Little e Falace, nas seções anteriores, é o livro-texto clássico ao lado. As siglas aqui são as do manual (IRC, insuficiência renal crônica).\n\n**Ideia central.** A doença renal é inicialmente assintomática: para se manifestar, 75% dos néfrons precisam estar sem função. O manual descreve a IRC como comprometimento importante, progressivo e irreversível. O rim excreta resíduos, controla líquidos, regula a pressão pelo volume sanguíneo, secreta renina e eritropoetina.\n\n**Sequelas que interessam à clínica:** hipertensão secundária, insuficiência cardíaca e arritmias (com excesso de potássio), prurido, náusea e vômito, **sangramento intestinal em 10 a 30% dos pacientes**, infecção por imunidade celular diminuída, neuropatia e miopatia. Na hematologia: anemia, trombocitopenia leve, sangramento prolongado e disfunção leucocitária. A diátese hemorrágica vem da toxina urêmica, que diminui o número ou a adesividade das plaquetas.\n\n**Valores de referência do manual, por 100 ml de sangue:**\n\n| Situação | BUN | Creatinina |\n|---|---|---|\n| Normal | menos de 20 mg | menos de 1,5 mg |\n| Primeiros sinais e sintomas | mais de 50 mg | mais de 5 mg |\n| Indicação de diálise e transplante | mais de 100 mg | mais de 10 mg |\n\nEsses valores diferem dos da Tabela 12.2 do Little e Falace, mostrados na seção sobre estágios.\n\n**Tratamento médico.** Dieta com pouca proteína, água e sais controlados nas fases adiantadas, vitamina D e cálcio para a hipocalcemia, androgênios para a anemia. O manual diz que medicações antiplaquetárias devem ser evitadas e que a dose dos fármacos se ajusta pela velocidade de filtração glomerular.\n\n**Métodos de filtração.** Na diálise peritoneal, o líquido fica cerca de 30 min no abdome e é drenado em 20 min; há risco de peritonite. Na hemodiálise, o paciente faz em média **três sessões por semana, de 3 a 5 h**, por um shunt (artéria e veia unidas). A duração da sessão no Little e Falace está na seção sobre hemodiálise. O transplante renal é o terceiro método; o imunodeprimido tem mais risco de infecção."
+    },
+    {
+      "id": "varellis-conduta",
+      "titulo": "O manual de Varellis: conduta odontológica e medicamentos",
+      "fonte": "varellis3-cap33",
+      "onde": "cap. 33, Alterações Renais, IRC, Transplante renal, Tratamento odontológico (anamnese), Exame clínico bucal, Plano de tratamento e Terapia medicamentosa, p. 277–278",
+      "texto": "Esta seção também é do **manual organizado por Varellis**, com os números dele.\n\n**Anamnese e cuidados.** Conheça as sequelas do paciente e corrija as alterações metabólicas antes do tratamento, em conversa com o médico. O tempo de sangramento fica prolongado e só a diálise o corrige; o manual cita o método de Ivy para medi-lo. **Paciente heparinizado só pode ser operado 24 h depois da hemodiálise.** O prazo do Little e Falace está na seção de hemodiálise. Para antiagregantes e anticoagulantes, ver o tema de anticoagulados. A profilaxia antibiótica em quem tem shunt é decisão médica.\n\n**Evitar:** tetraciclina, anti-inflamatórios (retêm sódio e líquido e elevam a pressão), corticosteroides (retêm água e sódio e elevam pressão e glicemia) e medicamentos nefrotóxicos. O Little e Falace trata o corticosteroide de quem já o usa (dose habitual antes da cirurgia): ver a seção sobre avaliação de risco.\n\n**Plano de tratamento.** Com hipertensão associada, evite dor, estresse e consultas demoradas. O manual diz para **não usar anestésico sem vasoconstritor**, de preferência prilocaína 3% com vasoconstritor, evitando o vasoconstritor adrenérgico.\n\n**Analgésicos e anti-inflamatórios (dose e intervalo como no manual):**\n- paracetamol, 500 mg a cada 6 h;\n- dipirona, 1 comprimido a cada 6 h;\n- benzidamina, 50 mg a cada 6 h, como anti-inflamatório;\n- frio local por 2 h e calor local depois de 24 h, como meios físicos;\n- ácido acetilsalicílico é contraindicado, por ação antiagregante; diclofenaco e piroxicam devem ser evitados, por serem discretamente antiagregantes.\n\n**Medicamentos em geral.** O manual alerta para o risco de acúmulo e lembra \"primum non nocere\": a dose de fármacos eliminados pelo rim precisa ser ajustada à filtração.\n\n**O que se vê na boca.** Gosto desagradável, halitose (ureia na saliva), gengivite, perda óssea e avulsão dentária, e sangramento gengival por distúrbio plaquetário. A estomatite urêmica surge com mais frequência no assoalho, na face ventral da língua e nas mucosas anteriores.\n\nO manual não detalha o intervalo entre a hemodiálise e o atendimento além do prazo de 24 h para o paciente heparinizado."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Pelo Little e Falace, o que define a doença renal crônica?",
+      "verso": "Anormalidade da estrutura ou da função do rim presente por **3 meses ou mais**, com consequência para a saúde.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, definição, p. 193"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Little e Falace (NKF, EUA), qual a TFG dos estágios 3, 4 e 5?",
+      "verso": "Estágio 3: **30 a 59**; estágio 4: **15 a 29**; estágio 5: **menos de 15 mL/min/1,73 m²** (ou diálise).",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual a melhor medida da função renal global, e o que se soma a ela para o prognóstico?",
+      "verso": "A **TFG**. A albuminúria soma-se a ela na gravidade e no prognóstico da DRC.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, diagnóstico, p. 198"
+    },
+    {
+      "id": "f04",
+      "frente": "Por que o paciente com DRET sangra mais?",
+      "verso": "Sobretudo por agregação e adesividade anormais das plaquetas, queda do fator 3 plaquetário e perda de fatores de coagulação pela proteinúria.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, fisiopatologia e complicações, p. 195"
+    },
+    {
+      "id": "f05",
+      "frente": "DRC e estágio: quando o Little e Falace sugere consultar o médico antes do atendimento?",
+      "verso": "A partir do **estágio 4**. Nos estágios 1 a 3, com a doença bem controlada, em geral não há problema no atendimento ambulatorial. (Texto da p. 201; o Quadro 12.1 usa \"estágio 3 ou mais\" para doença instável: ver a seção.)",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201"
+    },
+    {
+      "id": "f06",
+      "frente": "Com função renal piorando (TFG abaixo de 50 mL/min), o que fazer com o atendimento eletivo?",
+      "verso": "**Adiar** até haver consulta médica e estabilidade clínica.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual hematócrito o livro cita como limiar para poucos problemas em procedimento não hemorrágico?",
+      "verso": "**Acima de 25%.** Se o sangramento é esperado, o hematócrito pode ser elevado com eritropoetina, sob orientação do médico.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–202"
+    },
+    {
+      "id": "f08",
+      "frente": "Qual o melhor dia para tratar o paciente em hemodiálise, e o que evitar?",
+      "verso": "O **dia seguinte** à hemodiálise. Evite o dia da sessão, sobretudo as primeiras 6 horas depois.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e p. 207"
+    },
+    {
+      "id": "f09",
+      "frente": "Quanto dura a atividade da heparina depois da sessão de hemodiálise?",
+      "verso": "**3 a 6 horas** depois da infusão. É prudente adiar o tratamento até o fármaco ser eliminado.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 207"
+    },
+    {
+      "id": "f10",
+      "frente": "No Little e Falace, para cirurgia maior em paciente de segunda, quarta e sexta, qual o melhor dia?",
+      "verso": "**Sábado**, o dia seguinte ao fim da semana de hemodiálise: um dia a mais de estabilização do coágulo antes da sessão de segunda.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 207"
+    },
+    {
+      "id": "f11",
+      "frente": "O que não fazer no braço da fístula arteriovenosa?",
+      "verso": "Não medir pressão, não colher sangue e não dar medicamento intravenoso. Manguito ou torniquete inflado pode colapsar o shunt.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e p. 207"
+    },
+    {
+      "id": "f12",
+      "frente": "Diretriz da AHA de 2003 (EUA) citada no Little e Falace: profilaxia antibiótica no paciente com acesso intravascular?",
+      "verso": "**Não recomendada rotineiramente** para procedimentos odontológicos; **recomendada** na incisão e drenagem de infecção em outros sítios (exemplo: abscesso). Diretriz dos EUA, 2003, como citada pelo livro.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.3, p. 206"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual a regra geral para fármaco excretado pelo rim quando a TFG cai a 50 mL/min?",
+      "verso": "É eliminado com eficiência pela metade. Reduza a dose e prolongue o intervalo.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203"
+    },
+    {
+      "id": "f14",
+      "frente": "Qual opioide o Little e Falace manda evitar na DRC, e por quê?",
+      "verso": "**Meperidina**: o metabólito pode se acumular e causar convulsões.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203"
+    },
+    {
+      "id": "f15",
+      "frente": "Cárie é característica do paciente com DRC?",
+      "verso": "Não. A ureia salivar inibe os produtos finais do metabolismo da placa e aumenta a capacidade tampão da saliva.",
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o manual organizado por Varellis, quando operar o paciente heparinizado?",
+      "verso": "**24 horas depois** da hemodiálise.",
+      "fonte": "varellis3-cap33",
+      "onde": "cap. 33, Alterações Renais, IRC, Tratamento odontológico (anamnese), p. 277–278"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 58 anos faz hemodiálise às segundas, quartas e sextas e precisa de uma exodontia simples. Segundo o Little e Falace, qual é o melhor momento para atendê-lo?",
+      "alternativas": [
+        {
+          "texto": "Quarta-feira, logo depois da sessão, com o paciente recém-dialisado.",
+          "correta": false,
+          "justificativa": "O livro manda evitar o dia da hemodiálise, sobretudo as primeiras 6 horas depois, porque o paciente costuma estar fatigado e com tendência a sangrar.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "Terça-feira, o dia seguinte à sessão.",
+          "correta": true,
+          "justificativa": "O melhor momento é, em geral, o dia seguinte à hemodiálise; no dia da sessão o paciente costuma estar fatigado e com tendência a sangrar.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "Sexta-feira, no fim do dia, com a sessão do dia já concluída.",
+          "correta": false,
+          "justificativa": "O livro manda evitar o dia da hemodiálise, sobretudo nas primeiras 6 horas; o melhor é o dia seguinte.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "Em qualquer dia, com protamina aplicada pelo próprio dentista antes do procedimento.",
+          "correta": false,
+          "justificativa": "O livro diz que a protamina, que bloqueia a heparina, é em geral administrada por médico e é opção se o atendimento for necessário no dia da hemodiálise; não é substituta da escolha do dia.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207",
+      "secao": "hemodialise",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Mulher de 66 anos com DRC cuja função renal vem piorando (TFG de 45 mL/min na última medida) quer trocar uma restauração, procedimento eletivo. Segundo o Little e Falace, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Atender normalmente, porque o estágio 3 em geral não traz problemas ambulatoriais.",
+          "correta": false,
+          "justificativa": "Esse trecho vale para doença bem controlada. Aqui a função está piorando, e o livro manda adiar o eletivo se a TFG está abaixo de 50 mL/min.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201 e 203"
+        },
+        {
+          "texto": "Encaminhar a paciente ao médico para rastreamento de doença renal.",
+          "correta": false,
+          "justificativa": "O rastreamento é para quem ainda não tem diagnóstico (diabetes ou hipertensão com fatores de risco, hematúria, infecções urinárias repetidas, edema); esta paciente já tem DRC.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201 e 203"
+        },
+        {
+          "texto": "Adiar o atendimento eletivo até a consulta com o médico e a estabilidade clínica.",
+          "correta": true,
+          "justificativa": "Se a função renal está piorando (TFG abaixo de 50 mL/min), o livro manda adiar o eletivo até haver consulta e estabilidade clínica.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201 e 203"
+        },
+        {
+          "texto": "Atender, reduzindo o tempo da consulta, sem contato com o médico.",
+          "correta": false,
+          "justificativa": "O livro pede consulta médica quando a função piora e a TFG está abaixo de 50 mL/min; reduzir o tempo da consulta não a substitui.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201 e 203"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, p. 201 e 203",
+      "secao": "avaliacao-risco",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 49 anos, com DRC em estágio 4, não transplantado, tem radiografia com perda da lâmina dura, osso com aspecto de vidro fosco e lesões radiolúcidas localizadas e expansivas nos maxilares. Segundo o Little e Falace, a que se atribuem as lesões expansivas?",
+      "alternativas": [
+        {
+          "texto": "Ao hiperparatireoidismo secundário.",
+          "correta": true,
+          "justificativa": "O livro atribui ao hiperparatireoidismo secundário as lesões radiolúcidas expansivas (granulomas de células gigantes centrais, os tumores marrons).",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205"
+        },
+        {
+          "texto": "À ciclosporina, que causa lesões ósseas.",
+          "correta": false,
+          "justificativa": "O livro cita a ciclosporina em receptores de transplante renal e a associa a aumento gengival; o paciente do caso não é transplantado.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205"
+        },
+        {
+          "texto": "À estomatite urêmica.",
+          "correta": false,
+          "justificativa": "A estomatite urêmica é descrita como lesão de mucosa (mucosa vermelha com exsudato cinzento e ulceração), não como lesão óssea radiolúcida.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205"
+        },
+        {
+          "texto": "Aos cristais de ureia depositados no osso.",
+          "correta": false,
+          "justificativa": "Os cristais de ureia formam as placas brancas aderentes (\"uremic frost\"), mais comuns na pele e, às vezes, na mucosa; as lesões ósseas expansivas são atribuídas ao hiperparatireoidismo secundário.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, manifestações orais, p. 205",
+      "secao": "achados-bucais",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem em hemodiálise precisa receber um fármaco de uso por vários dias após um procedimento. Segundo o Little e Falace, como organizar as doses em relação à sessão?",
+      "alternativas": [
+        {
+          "texto": "Dar a dose logo antes da sessão, para o fármaco agir durante a filtração.",
+          "correta": false,
+          "justificativa": "O livro diz que a hemodiálise remove alguns fármacos do sangue, o que encurta o efeito; por isso, em geral, as doses se programam para depois da diálise.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, hemodiálise e fármacos, p. 207"
+        },
+        {
+          "texto": "Programar as doses, em geral, para depois da diálise, conforme a Tabela 12.4 e o médico.",
+          "correta": true,
+          "justificativa": "É a orientação do livro: doses depois da diálise, para garantir níveis ativos até a próxima dose, com quantidades e intervalos pela Tabela 12.4 e pelo médico.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, hemodiálise e fármacos, p. 207"
+        },
+        {
+          "texto": "Ignorar o horário da sessão, porque a hemodiálise não retira fármacos do sangue.",
+          "correta": false,
+          "justificativa": "O livro diz que a hemodiálise remove alguns fármacos do sangue e pode encurtar a duração do efeito.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, hemodiálise e fármacos, p. 207"
+        },
+        {
+          "texto": "Dobrar a dose nos dias de sessão, por decisão do dentista.",
+          "correta": false,
+          "justificativa": "O livro manda ajustar quantidades e intervalos pela Tabela 12.4 e pela orientação do médico.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, hemodiálise e fármacos, p. 207"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, hemodiálise e fármacos, p. 207",
+      "secao": "farmacos-regras",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Para o dentista que prescreve a paciente com DRC, qual das afirmações a seguir está de acordo com o texto do Little e Falace?",
+      "alternativas": [
+        {
+          "texto": "A aspirina é o analgésico de escolha, porque é metabolizada no fígado.",
+          "correta": false,
+          "justificativa": "O livro manda evitar a aspirina (nefrotóxica); o acetaminofeno é que é provavelmente mais seguro, por ser metabolizado no fígado.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203"
+        },
+        {
+          "texto": "A meperidina deve ser evitada, porque seu metabólito pode se acumular e causar convulsões.",
+          "correta": true,
+          "justificativa": "É a afirmação do texto: evitar meperidina na DRC pelo acúmulo do metabólito.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203"
+        },
+        {
+          "texto": "Todas as tetraciclinas são adequadas, como a doxiciclina, sem ajuste.",
+          "correta": false,
+          "justificativa": "O livro diz que as tetraciclinas, exceto a doxiciclina, pioram a insuficiência renal.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203"
+        },
+        {
+          "texto": "Os anestésicos locais exigem redução de dose rotineira em qualquer estágio.",
+          "correta": false,
+          "justificativa": "O Quadro 12.1 diz que os anestésicos locais em geral não exigem ajuste de dose.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202; Tabela 12.4, p. 204"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, fármacos, p. 203",
+      "secao": "farmacos-regras",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 52 anos, com DRC avançada, vai fazer uma extração cirúrgica com sangramento esperado. O hematócrito é de 22%. Segundo o Little e Falace, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Prosseguir, porque o livro considera suficiente qualquer hematócrito em paciente renal.",
+          "correta": false,
+          "justificativa": "O livro cita poucos problemas em procedimentos não hemorrágicos quando o hematócrito está acima de 25%; aqui o valor é 22% e o sangramento é esperado.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–202"
+        },
+        {
+          "texto": "Discutir com o médico a elevação do hematócrito com eritropoetina antes do procedimento.",
+          "correta": true,
+          "justificativa": "Se o sangramento é esperado, o hematócrito pode ser elevado com eritropoetina, sob orientação do médico.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–202"
+        },
+        {
+          "texto": "Indicar transfusão de hemácias como primeira escolha.",
+          "correta": false,
+          "justificativa": "O livro chama a transfusão de hemácias de opção menos desejável, pelo risco de sensibilização e de infecção transmitida pelo sangue.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–202"
+        },
+        {
+          "texto": "Dar desmopressina antes da cirurgia para controlar o sangramento.",
+          "correta": false,
+          "justificativa": "No paciente urêmico em cirurgia, o livro manda evitar a desmopressina.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 203"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, sangramento, p. 201–203",
+      "secao": "sangramento",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente em hemodiálise tem fístula arteriovenosa no antebraço esquerdo e vai receber anestesia para uma extração. Segundo o Little e Falace, como medir a pressão arterial?",
+      "alternativas": [
+        {
+          "texto": "No braço esquerdo, que já tem acesso estabelecido e poupa nova punção.",
+          "correta": false,
+          "justificativa": "O livro manda proteger o braço do shunt de manguito, coleta de sangue e medicação intravenosa: o manguito inflado pode colapsar o shunt e inutilizá-lo.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "Dispensar a medida, porque a pressão do paciente em hemodiálise é controlada na sessão.",
+          "correta": false,
+          "justificativa": "O livro manda monitorar a pressão de perto, antes e durante o procedimento, porque a hipertensão é comum na DRC.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "No braço direito, preservando o braço da fístula.",
+          "correta": true,
+          "justificativa": "O livro manda evitar o braço da fístula para medir a pressão; resta o outro braço.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        },
+        {
+          "texto": "No braço esquerdo, mas só quando a última sessão foi no mesmo dia.",
+          "correta": false,
+          "justificativa": "O livro manda evitar o braço do shunt para manguito, sem distinguir o dia da sessão.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Quadro 12.1, p. 202, e Dental Management, p. 207",
+      "secao": "hemodialise",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Mulher de 55 anos, com DRC avançada, usa prednisona 10 mg/dia há meses e fará uma cirurgia bucal. Segundo o Little e Falace, qual a orientação?",
+      "alternativas": [
+        {
+          "texto": "Suspender a prednisona na véspera, para reduzir o risco de sangramento.",
+          "correta": false,
+          "justificativa": "O livro manda garantir que a dose usual de corticosteroide seja tomada antes do procedimento cirúrgico, para evitar crise adrenal.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203"
+        },
+        {
+          "texto": "Garantir que ela tome a dose usual antes da cirurgia e acompanhar de perto o pós-operatório.",
+          "correta": true,
+          "justificativa": "Quem toma dose alta (por exemplo, 10 mg/dia ou mais de prednisona) pode ter insuficiência adrenal; o livro manda garantir a dose usual antes da cirurgia e monitorar de perto o pós-operatório.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203"
+        },
+        {
+          "texto": "Dispensar cuidado especial, porque o corticosteroide não afeta a adrenal.",
+          "correta": false,
+          "justificativa": "O livro diz que quem toma dose alta de corticosteroide, como a de 10 mg/dia ou mais de prednisona, pode desenvolver insuficiência adrenal.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203"
+        },
+        {
+          "texto": "Dobrar a dose de rotina na véspera, por conta do dentista.",
+          "correta": false,
+          "justificativa": "O livro manda garantir a dose usual, não uma dose maior, e o acompanhamento do pós-operatório.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Dental Management, capacidade de tolerar o tratamento, p. 203",
+      "secao": "avaliacao-risco",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Homem de 63 anos, diabético, tem TFG de 22 mL/min/1,73 m², sem diálise, e precisa de exodontia. Segundo o Little e Falace (classificação da NKF, EUA), em que estágio ele está e qual a orientação?",
+      "alternativas": [
+        {
+          "texto": "Estágio 3; atender sem consulta, se bem controlado.",
+          "correta": false,
+          "justificativa": "O estágio 3 é de 30 a 59; a TFG de 22 está na faixa do estágio 4 (15 a 29).",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194; Dental Management, p. 201"
+        },
+        {
+          "texto": "Estágio 4; sugere-se consulta ao médico antes do atendimento.",
+          "correta": true,
+          "justificativa": "A TFG de 15 a 29 é o estágio 4, e a partir dele o livro sugere consulta ao médico antes do atendimento.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194; Dental Management, p. 201"
+        },
+        {
+          "texto": "Estágio 5; só atender em diálise.",
+          "correta": false,
+          "justificativa": "O estágio 5 é TFG abaixo de 15, ou em diálise; o paciente está com 22 e não faz diálise.",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194; Dental Management, p. 201"
+        },
+        {
+          "texto": "Estágio 2; qualquer procedimento sem consulta.",
+          "correta": false,
+          "justificativa": "O estágio 2 é de 60 a 89, bem acima de 22 mL/min/1,73 m².",
+          "fonte": "lf9-cap12",
+          "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194; Dental Management, p. 201"
+        }
+      ],
+      "fonte": "lf9-cap12",
+      "onde": "cap. 12, Chronic Kidney Disease and Dialysis, Tabela 12.1, p. 194; Dental Management, p. 201",
+      "secao": "avaliacao-risco",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o manual organizado por Varellis, qual destes analgésicos pode ser usado em paciente com insuficiência renal crônica?",
+      "alternativas": [
+        {
+          "texto": "Ácido acetilsalicílico.",
+          "correta": false,
+          "justificativa": "O manual contraindica o ácido acetilsalicílico, por ação antiagregante.",
+          "fonte": "varellis3-cap33",
+          "onde": "cap. 33, Alterações Renais, IRC, Plano de tratamento e Terapia medicamentosa, p. 277–278"
+        },
+        {
+          "texto": "Diclofenaco.",
+          "correta": false,
+          "justificativa": "O manual manda evitar diclofenaco e piroxicam, por serem discretos antiagregantes.",
+          "fonte": "varellis3-cap33",
+          "onde": "cap. 33, Alterações Renais, IRC, Plano de tratamento e Terapia medicamentosa, p. 277–278"
+        },
+        {
+          "texto": "Paracetamol.",
+          "correta": true,
+          "justificativa": "É o analgésico que o manual lista para esse paciente (a dose está na seção).",
+          "fonte": "varellis3-cap33",
+          "onde": "cap. 33, Alterações Renais, IRC, Plano de tratamento e Terapia medicamentosa, p. 277–278"
+        },
+        {
+          "texto": "Piroxicam.",
+          "correta": false,
+          "justificativa": "O manual manda evitar o piroxicam, junto com o diclofenaco, por serem discretos antiagregantes.",
+          "fonte": "varellis3-cap33",
+          "onde": "cap. 33, Alterações Renais, IRC, Plano de tratamento e Terapia medicamentosa, p. 277–278"
+        }
+      ],
+      "fonte": "varellis3-cap33",
+      "onde": "cap. 33, Alterações Renais, IRC, Plano de tratamento e Terapia medicamentosa, p. 277–278",
+      "secao": "varellis-conduta",
+      "figura": null
+    }
+  ]
+}

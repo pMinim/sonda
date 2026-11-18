@@ -1,0 +1,643 @@
+{
+  "slug": "emergencias-sincope-convulsao-e-alergia",
+  "titulo": "Emergências: síncope, convulsão e alergia",
+  "area": "Pacientes Especiais",
+  "origem": "Malamed 7ª ed., caps. 6, 21 e 24; Andrade e Ranali 3ª ed., caps. 6, 11 e 13",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "malamed7-cap06",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 6, Síncope Vasodepressora, p. 143–152 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 6"
+    },
+    {
+      "id": "malamed7-cap21",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 21, Convulsões, p. 313–334 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 21"
+    },
+    {
+      "id": "malamed7-cap24",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 24, Alergia, p. 383–414 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 24"
+    },
+    {
+      "id": "ar3-cap06",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 6, Alteração ou perda da consciência, p. 62–78.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 6"
+    },
+    {
+      "id": "ar3-cap11",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 11, Reações alérgicas, p. 115–129.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 11"
+    },
+    {
+      "id": "ar3-cap13",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 13, Convulsões, p. 133–144.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 13"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "m-sincope-reconhecer",
+      "titulo": "Síncope vasodepressora: fatores, prevenção e fases (Malamed)",
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Fatores predisponentes; Prevenção; Manifestações clínicas, Quadros 6-2 e 6-3, p. 143–146",
+      "texto": "A síncope vasodepressora (também vasovagal, o \"desmaio comum\") foi a **emergência mais frequente** em dois levantamentos citados pelo livro, cerca de 53% das relatadas. Costuma ser benigna e autolimitada, mas o risco existe: lesão na queda e, se tratada errado, dano por falta de fluxo cerebral.\n\n**Quem desmaia.** O Quadro 6-2 separa fatores **psicogênicos** (medo, ansiedade, dor inesperada, ver sangue ou a seringa) e **não psicogênicos** (sentar ereto ou ficar em pé, fome, exaustão, ambiente quente e lotado, sexo masculino, **16 a 35 anos**). O quadro típico do livro é o homem jovem, sentado ereto, que esconde o medo diante da injeção de anestésico. É rara em criança, que expressa o medo. Em criança muito pequena, ou em adulto com mais de 40 anos **sem sinais de aviso**, o diagnóstico de síncope vasodepressora deve ser questionado.\n\n**Prevenção.**\n- A **posição** é o fator mais importante: ereto aumenta muito o risco; supino ou semissupino (30 a 45 graus) reduz. Se a anestesia for dada com o paciente deitado, a perda real de consciência \"raramente\" será vista; depois da injeção tranquila o paciente pode ser reposicionado.\n- Peça que coma antes da consulta (fome, ansiedade e hipoglicemia se somam).\n- Pergunte sobre experiências ruins e sobre o medo agora; avalie a ansiedade e considere sedação.\n\n**Como se apresenta (três fases).**\n- **Pré-síncope:** calor no pescoço e na face, palidez ou cor acinzentada, suor frio na fronte, \"não me sinto bem\", tontura e náusea. A pressão fica perto da basal e a frequência cardíaca **sobe** (de 80 para 120 ou mais). Depois vêm pupilas dilatadas, bocejo, respiração mais funda, mãos e pés frios e visão turva; pressão e pulso caem. Em pé, a perda de consciência pode vir em cerca de 30 segundos; deitado, a pré-síncope pode nunca chegar a ela.\n- **Síncope:** respiração irregular, superficial ou parada; pupilas dilatadas; pulso fraco e filiforme; frequência de 50 batimentos por minuto ou menos é comum; pressão como 30/15 mmHg é comum. Movimentos convulsivos breves podem ocorrer por hipóxia cerebral. O relaxamento muscular pode obstruir a via aérea.\n- **Pós-síncope:** palidez, náusea e fraqueza por minutos ou horas, às vezes um dia; confusão breve. A pressão sobe devagar, e levantar depressa pode provocar novo desmaio.\n\nSe o paciente fica inconsciente **mais de 5 minutos** depois do posicionamento e do tratamento, ou não se recupera por completo em **15 a 20 minutos**, o livro manda considerar outra causa, sobretudo com mais de 40 anos e sem sintomas de aviso.\n\nPreparo, kit de emergência e números de reanimação estão no tema \"Emergências: prevenção, kit e reanimação\"."
+    },
+    {
+      "id": "m-sincope-conduta",
+      "titulo": "Síncope vasodepressora: conduta e pós-síncope (Malamed)",
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152",
+      "texto": "**Pré-síncope (paciente consciente).** Interrompa o procedimento e coloque o paciente em **posição supina, com as pernas levemente elevadas**: a posição correta muda a evolução. O livro manda abandonar a prática de pôr a cabeça entre as pernas: o corpo dobrado pode atrapalhar o retorno do sangue e, se o paciente perder a consciência de bruços, a via aérea fica mais difícil. Enquanto ele fala, circulação, via aérea e respiração estão adequadas. Ofereça oxigênio por máscara ou amônia aromática sob o nariz. Como não houve perda de consciência, o tratamento pode continuar se dentista e paciente acharem adequado; em dúvida, adie.\n\n**Síncope (inconsciente), sequência P, C, A, B** (posição, circulação, vias aéreas e respiração; o D, tratamento definitivo, vem depois).**\n1. Confirme que não há resposta e **ative a equipe** do consultório.\n2. **P:** coloque em supina; é a etapa mais importante, e a elevação das pernas ajuda o retorno do sangue. Se a vítima for mantida ereta, o livro diz que o dano neurológico pode vir em 2 a 3 minutos. O capítulo aponta uma exceção à posição supina, a gestante em fase final de gravidez, e remete a outro capítulo que não faz parte desta leitura.\n3. **C, A, B:** palpe o pulso central e observe a respiração. Na maioria há pulso fraco e filiforme, e a inclinação da cabeça com elevação do queixo abre a via aérea (técnica \"ver, ouvir, sentir\"). Muitas vezes a recuperação começa assim que a vítima é deitada; a ventilação artificial só é necessária se a respiração espontânea cessar.\n4. **D:** oxigênio a qualquer momento; pressão, pulso e respiração monitorados e comparados com os basais; roupas apertadas afrouxadas (gravata, colarinho, cinto). A amônia aromática sob o nariz estimula a respiração. Ao acordar, mantenha a calma e tire da vista a seringa ou a gaze com sangue, que pode causar nova síncope. Suco de laranja ou refrigerante não dietético pode ajudar, porque o medo costuma vir com hipoglicemia (o tema de hipoglicemia é à parte).\n\n**Recuperação tardia.** Se a vítima não recupera a consciência, ou não está bem em 15 a 20 minutos, considere outra causa (convulsão, AVE, ataque isquêmico transitório, arritmia, hipoglicemia) e **ative o serviço de emergência**; o dentista pode chamar a qualquer momento e manter o suporte básico enquanto espera. Para os passos do suporte básico, o capítulo cita a diretriz da AHA de 2010; os números atuais estão no tema \"Emergências: prevenção, kit e reanimação\" (AHA 2025).\n\n**Depois.** Quem perdeu a consciência, por qualquer tempo, **não recebe tratamento adicional no resto do dia**: a chance de nova síncope é maior e o corpo leva cerca de 24 horas para voltar ao normal. Descubra o que contribuiu (fome, medo) e planeje para evitar a repetição. A escolta por um familiar é obrigatória sempre que se perde a consciência, mesmo em distância curta; o paciente não dirige."
+    },
+    {
+      "id": "m-convulsao-risco",
+      "titulo": "Convulsão: tipos, anamnese, risco ASA e cuidados (Malamed)",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327",
+      "texto": "Para o livro, presenciar uma convulsão é traumático, mas a maioria dos episódios é só uma alteração temporária da função cerebral; o que importa é **evitar lesões** durante o episódio e dar apoio depois. A emergência com risco de vida é a convulsão que se repete ou fica contínua.\n\n**Tipos que interessam ao dentista.**\n- **Parcial (focal):** a consciência pode estar preservada (parcial simples) ou alterada, com automatismos e amnésia (parcial complexa). Pode evoluir para generalizada.\n- **Ausência (pequeno mal):** sobretudo em crianças de 3 a 15 anos; parada súbita, olhar vago, às vezes piscar; dura segundos (ver as durações abaixo); sem aura nem estado pós-ictal.\n- **Tônico-clônica (grande mal):** a mais perigosa no consultório. Tem fase prodrômica (alterações emocionais por minutos ou horas), **aura** (parte da convulsão, alguns segundos), perda de consciência com queda, fase tônica (rigidez de cerca de 10 a 20 segundos, com apneia e cianose), fase clônica (de 2 a 5 minutos, respiração ruidosa, espuma, mordedura da língua) e fase pós-ictal.\n\n**Durações que o livro dá.** A fase convulsiva tem 2 a 3 minutos e raramente mais de 5 (p. 314), 2 a 5 minutos (p. 322 e 324) e é chamada de breve, \"menos de 2 minutos\", na p. 327. A ausência dura raramente mais de 10 segundos (p. 316) ou 5 a 30 segundos (p. 323 e 326). O tema mostra os lados, sem escolher.\n\n**Causas mais frequentes de convulsão no consultório:** convulsão em paciente epilético, hipoglicemia, hipóxia secundária à síncope e overdose de anestésico local. Desencadeantes: luzes intermitentes, fadiga, falta de refeição, álcool, estresse. A **retirada súbita** do anticonvulsivante é causa comum de estado de mal epilético.\n\n**Anamnese dirigida.** Tipo de convulsão, frequência e data da última, aura, duração, hospitalizações, medicamentos e se toma com regularidade. Se houver sinais da fase prodrômica antes da consulta, **adie** o tratamento e deixe a equipe preparada.\n\n**Risco (Tabela 21-4, ASA):**\n\n| Situação | ASA |\n|---|---|\n| Bem controlada, sem convulsão aguda nos últimos 3 meses | 2 |\n| Bem controlada, mas com convulsões mais de 1 vez por mês | 3, com preparo para tratar convulsão |\n| História de estado de mal epilético | 3 a 4, com consulta médica antes |\n| Mal controlada, mais de 1 vez por semana | 4, com consulta médica e melhor controle antes do tratamento de rotina, se possível |\n\n**Cuidados.** Estresse e fadiga aumentam a tendência a convulsão: reduza o estresse e considere sedação mínima ou moderada. O óxido nitroso com pelo menos 20% de oxigênio é rotina altamente recomendada para o epilético ansioso; benzodiazepínicos orais também são indicados. Como os anticonvulsivantes já deprimem o sistema nervoso, evite sedar demais. **Álcool** é contraindicado: paciente com ingestão alcoólica recente evidente não deve ser tratado."
+    },
+    {
+      "id": "m-convulsao-conduta",
+      "titulo": "Convulsão: conduta na crise e depois dela (Malamed)",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331",
+      "texto": "**Ausência e convulsão parcial.** O atendimento é protetor: o perigo costuma ser pequeno e a morte é rara. Interrompa o procedimento, ative a equipe, mantenha o paciente na posição em que está (em geral não é preciso mudar; o Quadro 21-3 do livro mostra posição supina com os pés elevados) e converse depois para avaliar o alerta e a relação com o tratamento. Peça socorro se o episódio durar mais que o esperado (ausência em média de 5 a 30 segundos; parcial, 1 a 2 minutos). Consulte o médico se as crises aumentaram de frequência ou gravidade. O paciente normalmente não deve dirigir e sai com um adulto.\n\n**Tônico-clônica, passo a passo.**\n1. **Aura:** interrompa o procedimento e **retire tudo da boca** (há relatos de aspiração de aparelhos removíveis durante convulsões).\n2. **Ativar a equipe e posicionar.** Se o paciente não estiver na cadeira, deite-o com cuidado no chão, em supina. Se a crise ocorrer na cadeira, deixe-o nela, **reclinada em supina**; mover é difícil. O Andrade e Ranali, na seção dele, vira o paciente de lado.\n3. **Emergência médica.** No passo 4 o livro diz \"considerar\" o chamado (o livro a chama de breve, menos de 2 minutos; com o socorro presente fica mais fácil decidir sobre a liberação) e admite adiar se há acompanhante que conhece as crises. No passo 11, porém, o autor **recomenda chamar no início de toda convulsão**, porque decidir a liberação é a etapa mais difícil. O livro mostra os dois lados; o Andrade e Ranali, na seção dele, manda chamar com mais de 3 minutos ou cianose desde o início, e também na primeira crise, em gestante ou diabética e após sobredose de anestésico local.\n4. **Via aérea.** Estenda a cabeça (inclinação), aspire com cuidado entre a face vestibular dos dentes e a bochecha com cateter plástico ou de borracha macia, nunca entre os dentes. Tire travesseiros extras da cadeira: empurram a cabeça para a frente e obstruem a via aérea. Afrouxe roupas apertadas.\n5. **Proteção.** Não segure os membros (risco de fratura); permita pequenos movimentos. Um membro da equipe afasta o equipamento; outro fica na altura do tórax, protegendo cabeça e braços, e outro ao lado dos pés. No chão, apoie a cabeça com algo macio, sem fletir o pescoço.\n6. **Nada na boca.** Colocar objeto não ajuda a via aérea, pode fraturar incisivos superiores (que podem ser aspirados) e machucar o socorrista: **sob nenhuma circunstância ponha os dedos entre os dentes**. Em estudo citado, 44% de 100 convulsivos tiveram laceração intrabucal (borda lateral da língua) e só 2 desses precisaram de reparo cirúrgico.\n\n**Pós-ictal.** Há depressão do sistema nervoso, da respiração e da circulação. Coloque em supina com os pés levemente elevados; cuide da via aérea (raramente precisa de ventilação); oxigênio por máscara ou cânula nasal, se indicado; pressão, pulso e respiração **no mínimo a cada 5 minutos**; confortar e orientar (\"Você teve uma convulsão e está tudo bem\"). A volta à função cerebral pode levar até 2 horas. A liberação é para hospital, médico ou casa conforme a equipe de emergência e a recuperação; para casa, sob custódia de um adulto."
+    },
+    {
+      "id": "m-convulsao-estado",
+      "titulo": "Convulsão: estado de mal e diagnóstico diferencial (Malamed)",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332",
+      "texto": "**Definições do livro, como o capítulo as traz.** Estado de mal epilético é convulsão contínua, ou crises repetidas sem recuperação entre elas. A definição clássica pede 30 minutos; quem tem atividade contínua por 10 minutos ou mais deve ser tratado como em estado de mal; e, fora do hospital, como no consultório, o livro considera mais prática a convulsão que dura **mais de 5 minutos**. Clinicamente, qualquer convulsão tônico-clônica contínua de 5 minutos ou mais é estado de grande mal. O estado convulsivo é a verdadeira emergência (mortalidade aguda de 10%, segundo o livro): hipóxia cerebral, hipertermia, arritmias e pressão muito alta podem levar à parada cardiorrespiratória. Ausência prolongada e crise psicomotora são estados **não convulsivos**, sem risco agudo de morte no consultório.\n\n**Se passar de 5 minutos.** O fluxo é o da tônico-clônica (interromper, ativar a equipe, posicionar, chamar o serviço médico, suporte básico), com duas opções:\n1. **Suporte básico continuado e proteção do paciente até a chegada do socorro.** É a opção mais viável na maioria dos consultórios, que não têm anticonvulsivante, equipamento e treino para acesso venoso.\n2. **Anticonvulsivante intravenoso**, só se o dentista e a equipe conhecem a farmacologia, sabem obter acesso venoso e ainda conseguem ventilar o paciente apneico depois da crise. A eficácia depende da via IV; a IM é lenta e imprevisível e a via oral é **contraindicada** em quem está convulsionando ou inconsciente (o Andrade e Ranali, na seção dele, cita midazolam por via oral em crise demorada; os dois trechos aparecem como estão). O livro cita um benzodiazepínico (midazolam ou diazepam), com eficácia acima de 90% no estado convulsivo primário, aplicado devagar por via IV: rápido demais, causa hipotensão, bradicardia, depressão respiratória e parada cardíaca. Quando a hipoglicemia é causa possível, o livro acrescenta glicose por via IV; isso é suporte avançado, fora deste tema.\n\nTodo paciente em estado convulsivo tônico-clônico precisa de hospitalização depois do episódio.\n\n**Diagnóstico diferencial.** A convulsão raramente se confunde com outras condições, mas pode fazer parte delas:\n- **Síncope vasodepressora:** tem fator desencadeante como o medo e sinais de aviso (desfalecimento, náusea, suor); músculos flácidos; recuperação rápida **sem confusão**. A convulsão vem da hipóxia e cede com a posição supina e o controle da via aérea.\n- **AVE:** cefaleia intensa antes da perda de consciência e sinais neurológicos, como fraqueza ou paralisia.\n- **Hipoglicemia:** pode evoluir para perda de consciência e convulsão; a história e os sinais clínicos ajudam. Tem tema próprio."
+    },
+    {
+      "id": "m-alergia-causas",
+      "titulo": "Alergia: tipos, medicamentos e anestésicos locais (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Classificação, Tabela 24-1; Fatores predisponentes; Analgésicos; Ansiolíticos; Anestésicos locais, Quadros 24-2 e 24-3, p. 383–388",
+      "texto": "**O que é.** Alergia é hipersensibilidade adquirida: a reexposição a um alérgeno produz reação exagerada. Na odontologia interessam duas formas: a **tipo I** (imediata, anafilática, segundos a minutos, pode ser fatal) e a **tipo IV** (tardia, até 48 horas, a dermatite de contato, importante pelo número de pessoas com alergia ao látex). O livro diz que, entre as reações adversas a medicamentos, cerca de **85% são efeito farmacológico** (por exemplo, overdose) e 15% imunológicas. A alergia não é a reação adversa mais comum, mas muitas vezes é a mais grave. Pacientes atópicos (febre do feno, asma, várias alergias) têm risco maior.\n\n**Contato prévio.** Em geral a reação só ocorre depois de uma exposição anterior (dose sensibilizante), que o paciente pode nem conhecer; na reação anafilactoide, não é preciso contato prévio.\n\n**Medicamentos de uso odontológico que podem causar alergia (Quadro 24-2):** penicilinas, cefalosporinas, tetraciclinas e sulfonamidas; aspirina e outros anti-inflamatórios não esteroides; opioides; barbitúricos; anestésicos locais do tipo éster, o conservante parabeno e o antioxidante (meta)bissulfito; e o monômero acrílico (metacrilato de metila).\n- **Penicilina** é a principal causa de anafilaxia fatal, por qualquer via. A aplicação tópica é a que mais sensibiliza e a oral a que menos; cefalosporinas podem dar reação cruzada em 5 a 16% dos pacientes.\n- **Aspirina:** o broncospasmo é a principal manifestação na maioria dos sensíveis. Ter tomado antes sem reação não garante segurança.\n- **Barbitúricos:** alergia a um barbitúrico é contraindicação absoluta a qualquer outro; benzodiazepínicos têm risco muito menor.\n- \"Alergia à codeína\" na anamnese costuma ser efeito colateral (náusea, sonolência), não alergia verdadeira.\n\n**Anestésicos locais.** A alergia verdadeira é rara e caiu com a chegada dos anestésicos tipo **amida** (1940); vem sobretudo dos **ésteres** (procaína, propoxicaína, benzocaína, tetracaína). \"Alergia à Novocaína\" (procaína, um éster) ou \"a todos os -caína\" é queixa comum e vaga. O autor examinou 229 pacientes encaminhados com essa queixa: nenhum era alérgico à amida, e quatro eram alérgicos ao parabeno. Muitas \"alergias\" são overdose, idiossincrasia ou resposta psicogênica.\n- **Parabeno:** conservante parente dos ésteres; a alergia é quase só dermatológica. Os tubetes odontológicos dos EUA não o têm desde 1984; frascos de múltiplas doses têm.\n- **(Meta)bissulfito de sódio:** antioxidante do vasoconstritor, presente em **todo tubete com vasoconstritor** e ausente nos sem vasoconstritor. Pode causar alergia respiratória, comumente broncospasmo; entre os asmáticos, o livro cita até 10% de alérgicos ao bissulfito."
+    },
+    {
+      "id": "m-alergia-historia",
+      "titulo": "Alergia alegada: anamnese, testes e substitutos (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394",
+      "texto": "**Anamnese.** Toda resposta positiva sobre alergia (Questão 38 do questionário do livro) deve ser esclarecida por conversa. Enquanto a natureza da reação não estiver determinada, **suponha que a alergia é real**: o medicamento e os parecidos não são usados até a alegação ser avaliada. Pergunte:\n- **Qual medicamento**, e se a solução tinha vasoconstritor ou conservante (a alergia pode ser ao bissulfito, não ao anestésico).\n- **Quando surgiu.** A maioria das reações a anestésico local ocorre durante a injeção ou logo depois; síncope, hiperventilação, overdose e anafilaxia aparecem em segundos a minutos. Se o tratamento **continuou** depois do episódio, a reação provavelmente não foi alérgica.\n- **A posição na hora:** sentado ereto favorece resposta psicogênica.\n- **Como se manifestou.** A reação alérgica envolve pele (coceira, edema, erupção), digestivo, glândulas (coriza, lacrimejamento), vias respiratórias e circulação. Palpitação, dor de cabeça, suor e tremor leve costumam ser reação psicogênica ou excesso de vasoconstritor, e não alergia.\n- **O que foi dado no socorro** (adrenalina, bloqueador da histamina ou corticoide sugerem alergia real) e se houve ambulância ou hospitalização.\n\n**Testes.** Se a dúvida persiste, encaminhe a um médico capaz de avaliar (alergista, anestesista). O livro opina que o **teste de alergia não deve ser feito no consultório odontológico**: o teste cutâneo não é infalível e até 0,1 mL pode desencadear anafilaxia em quem é realmente alérgico.\n\n**Alergia alegada ao anestésico local.**\n- **Tratamento eletivo:** adie o que exija anestesia tópica ou injetável até a avaliação completa por pessoa competente; o que não exige anestesia pode ser feito.\n- **Urgência** (dor, infecção): a opção mais prática é a consulta médica imediata. O livro lembra que quase nenhuma urgência odontológica, exceto hemorragia e infecção que obstrui a via aérea, exige intervenção física imediata; dor e infecção podem ser controladas por analgésico oral e antibiótico.\n- **Alergia confirmada:** a um **éster**, as amidas (articaína, bupivacaína, lidocaína, mepivacaína, prilocaína) podem ser usadas, porque a alergia cruzada é muito rara; ao **parabeno**, amida sem conservante; ao **sulfito**, anestésico sem vasoconstritor.\n\n**Substitutos (Tabela 24-3).** Penicilina: eritromicina é o substituto clássico. Aspirina: paracetamol ou outro AINE sem sensibilidade cruzada. Opioide: na alergia verdadeira, nenhum opioide, mas AINE pode valer. Barbitúrico: nenhum barbitúrico; benzodiazepínicos podem ser usados. Metacrilato: resina fotopolimerizável. Látex: luva de vinil. Bissulfito: mepivacaína a 3% ou prilocaína a 4% sem vasoconstritor. Mesmo o substituto pode causar alergia, então pergunte antes. Deixe um alerta médico visível na ficha."
+    },
+    {
+      "id": "m-alergia-reacoes",
+      "titulo": "Reações alérgicas cutâneas (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Manifestações clínicas; Tratamento: reações cutâneas, Quadros 24-6 e 24-7, p. 395–396 e 403–405 (Quadro 24-7 entre as p. 404 e 405; fronteira não confirmada)",
+      "texto": "**O tempo importa.** Reações imediatas surgem em segundos a horas; as tardias, em horas a dias. Quanto mais rápido os sinais aparecem depois da exposição, mais intensa a reação e mais agressivo deve ser o tratamento. A pele é o sistema mais envolvido; uma reação cutânea que surge logo depois do medicamento pode ser o primeiro sinal de reação generalizada.\n\n**Cutâneas.** *Urticária*: pápulas com coceira intensa. *Angioedema*: edema localizado, sem coceira, frequentemente assimétrico, na região perioral, periorbital e intraoral; o que preocupa é o envolvimento de lábios, língua, faringe e laringe. Depois de anestésico tópico (éster ou metilparabeno), o tecido pode ficar inchado e eritematoso em 30 a 60 minutos. A dermatite de contato é a mais vista na equipe odontológica.\n\n- **Início tardio (60 minutos ou mais, sem progressão).** Interrompa, ative a equipe e posicione pelo conforto. Se bem localizada (por exemplo, pequena área do lábio com coceira depois de anestésico tópico), observe e peça que o paciente, o pai ou o responsável telefone na hora se a área crescer. Bloqueador de histamina por via oral: difenidramina 50 mg (adulto, mais de 30 kg), 3 a 4 vezes ao dia por 2 a 3 dias; 25 mg para crianças de 15 a 30 kg. Não deixe sair sozinho nem dirigir (sedação). Consulta com médico ou alergista antes de outro tratamento. Por telefone não dá para avaliar.\n- **Início rápido (menos de 60 minutos).** Monitore pressão, frequência cardíaca e respiração **a cada 5 minutos**. Sem sinais cardiovasculares ou respiratórios (taquicardia, hipotensão, tontura, dispneia, chiado): bloqueador de histamina por via parenteral, depois oral por 2 a 3 dias, e avaliação médica antes de outro tratamento. **Com** comprometimento cardiovascular ou respiratório, é anafilaxia leve: vale o tratamento da seção de anafilaxia (oxigênio, adrenalina IM, serviço de emergência). Nessa reação leve o livro diz repetir a adrenalina a cada 5 a 20 minutos, até três doses (p. 404); na anafilaxia generalizada (p. 411), a cada 5 a 10 minutos."
+    },
+    {
+      "id": "m-alergia-respiratorias",
+      "titulo": "Reações alérgicas respiratórias: broncospasmo e edema de laringe (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Manifestações clínicas; Tratamento: broncospasmo e edema de laringe, Quadro 24-8, p. 395–396 e 405–408",
+      "texto": "**Respiratórias.** *Broncospasmo*: chiado e uso da musculatura acessória; as populações mais prováveis são asmáticos alérgicos ao bissulfito e alérgicos à aspirina. A conduta da crise de asma tem tema próprio. *Edema de laringe*: a segunda manifestação respiratória mais grave; pouco ou nenhum ar é ouvido ou sentido pela boca e pelo nariz, apesar do esforço. **Estridor** (som agudo) indica obstrução parcial, ao contrário do chiado do broncospasmo; **silêncio** com movimento do tórax, obstrução total, com cianose e perda rápida da consciência.\n\nConduta no edema de laringe: ativar a equipe e o serviço de emergência; posição ereta ou semiereta se consciente, supina com pés elevados se a consciência estiver alterada; via aérea (inclinação da cabeça, depois cânula se treinado); **adrenalina IM 0,3 mL de 1:1.000** (mais de 30 kg; 0,15 mL de 15 a 30 kg; 0,075 mL abaixo de 15 kg); oxigênio assim que disponível. Bloqueador de histamina e corticoide só depois da melhora. Se a via aérea totalmente obstruída não reabrir, a cricotireoidostomia é o procedimento de escolha."
+    },
+    {
+      "id": "m-anafilaxia",
+      "titulo": "Anafilaxia generalizada: reconhecer e tratar (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411",
+      "texto": "**O que é.** Reação generalizada de início rápido, que pode matar em minutos. A maioria das mortes ocorre nos **primeiros 30 minutos**, algumas até 120 minutos; os sinais atingem a intensidade máxima em 5 a 30 minutos. No consultório é mais provável durante ou logo depois de **penicilina ou aspirina** em paciente sensibilizado; mais rara, a sensibilidade ao látex. A causa usual de morte é a obstrução das vias aéreas superiores por edema de laringe; o colapso cardiovascular também pode matar.\n\n**Reconhecer.** Costuma começar pela pele (calor, formigamento, coceira generalizada, rubor, urticária), depois cólicas, náuseas e vômito, chiado, tosse, aperto na garganta, rouquidão, e por fim palidez, taquicardia, hipotensão e perda de consciência (choque anafilático). Na reação mais grave, **os sinais respiratórios e cardiovasculares podem ser os únicos**. Duas emergências imitam anafilaxia durante a injeção de anestésico local: **síncope vasodepressora** e **overdose do anestésico**; tente descobrir a causa real.\n\n**Com sinais de alergia (urticária, eritema, prurido ou chiado) e colapso:**\n1. Interrompa o procedimento e ative a equipe.\n2. **P:** inconsciente, ou consciente e hipotenso, em supina com as pernas ligeiramente elevadas.\n3. **C, A, B:** via aérea pérvia por inclinação da cabeça e elevação do queixo; suporte básico conforme a necessidade.\n4. **Chame o serviço de emergência** assim que a alergia sistêmica for possível.\n5. **Adrenalina por via IM, o mais rápido possível, no vasto lateral** (a 1:1.000 não é para via IV): 1:1.000, **0,3 mL** (mais de 30 kg), **0,15 mL** (15 a 30 kg), **0,075 mL** (menos de 15 kg). Se o quadro não melhorar ou piorar em 5 minutos, repita; as doses seguintes, a cada 5 a 10 minutos se preciso (na reação leve da seção de reações cutâneas o livro dá 5 a 20 minutos, até três doses), lembrando o risco de estimulação cardiovascular excessiva.\n6. **Oxigênio** de 5 a 6 L por minuto, por capuz nasal ou máscara, a qualquer momento.\n7. **Monitore** pressão e pulso carotídeo pelo menos a cada 5 minutos; inicie compressões torácicas se não houver pulso.\n8. **Bloqueador de histamina e corticosteroide** só depois da melhora clínica (pressão subindo, broncospasmo cedendo): têm início lento e previnem a recaída. Na fase crítica, o livro diz que **adrenalina e oxigênio são os únicos medicamentos**.\n\nA anafilaxia é a **exceção** à regra do livro de tratar com medicamento só depois de P, C, A, B: a adrenalina entra logo depois de iniciado o suporte básico, porque o atraso aumenta a mortalidade."
+    },
+    {
+      "id": "m-anafilaxia-cuidados",
+      "titulo": "Anafilaxia: sem sinais de alergia e cuidados com a adrenalina (Malamed)",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412",
+      "texto": "**Sem sinais de alergia.** Se o paciente recebe um alérgeno em potencial e perde a consciência **sem sinais óbvios de alergia**, o quadro é preocupante, porque sem sinais a adrenalina não está indicada. Conduta do livro: interromper, ativar a equipe e posicionar em **supina com pernas elevadas imediatamente**; suporte básico conforme necessário (quem tem síncope vasodepressora ou hipotensão postural recupera rápido depois de posicionado); oxigênio; solicitar o serviço de emergência se a consciência não voltar logo depois do suporte básico (o Quadro 24-11 e o resumo do capítulo põem o serviço de emergência como necessário, sem essa condição; o livro mostra os dois); monitorar pressão, pulso e respiração pelo menos a cada 5 minutos. A equipe de emergência procura a causa (overdose, hipoglicemia, AVE, insuficiência adrenal aguda, infarto, parada cardiorrespiratória). Sem edema, urticária ou broncospasmo definidos, a adrenalina e outros medicamentos normalmente não são indicados, e **continuar o suporte básico até a chegada do socorro é o mais prudente**.\n\n**Adrenalina: por que é o medicamento mais importante.** É o de escolha no início de todas as reações alérgicas imediatas, respiratórias e cardiovasculares, porque neutraliza a histamina e outros mediadores e age mais depressa que os bloqueadores da histamina, que pouco ajudam no broncospasmo e na hipotensão. Cuidados do livro:\n- **Duração curta:** observe o paciente por tempo suficiente para detectar recaída e avalie o estado cardiovascular antes de repetir a dose.\n- **Via:** a IM é preferível; a subcutânea pode ser lenta e variável na hipotensão e pode ser usada quando a reação é branda e o paciente está normotenso. A 1:1.000 **não é para via IV**. O capítulo também fala em via IV nas reações graves, para quem tem acesso venoso e treino, com quantidades diferentes em etapas diferentes; é suporte avançado e fica fora deste tema. O livro alerta que a injeção de adrenalina pode causar hemorragia cerebrovascular.\n- **Local:** o vasto lateral. O soalho da boca e o corpo da língua, sugeridos em edições anteriores, **não são mais recomendados**.\n- **Ao repetir:** o aumento da frequência cardíaca e da pressão pode ser dramático e há risco de arritmias; por isso o livro manda avaliar o estado cardiovascular antes de cada nova dose.\n\nNa anafilaxia com edema de laringe e via aérea difícil de manter apesar da inclinação da cabeça e da aspiração da faringe, pode ser necessária a cricotireoidostomia; assegurada a permeabilidade, a adrenalina IM (0,3 mL de 1:1.000 para mais de 30 kg) é seguida de bloqueador de histamina e corticosteroide, e o paciente vai ao hospital."
+    },
+    {
+      "id": "ar-sincope",
+      "titulo": "Síncope e hipotensão ortostática (Andrade e Ranali)",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)",
+      "texto": "**Comparação com o Andrade e Ranali (livro brasileiro, 3ª ed.).** A partir daqui, os números são do Andrade e Ranali, com as páginas impressas do livro. O capítulo 6 trata de *alteração ou perda da consciência* e parte da ideia de que as manobras iniciais são essencialmente as mesmas, qualquer que seja a causa: manter via aérea livre e condições respiratórias e circulatórias.\n\n**Lipotimia × síncope.** *Lipotimia* é o mal-estar passageiro com sensação de desfalecimento, palidez, suor, zumbido e visão turva, sem necessariamente perda total da consciência (o livro diz que talvez fosse melhor chamá-la de pré-síncope). *Síncope* é a perda súbita e momentânea da consciência por queda do fluxo e da oxigenação cerebral. As duas costumam ser benignas, curtas e regridem sozinhas ou com manobras simples.\n\n**Tipos de maior interesse.** *Vasovagal*, a mais comum: gatilhos emocionais (ansiedade, dor inesperada, ver sangue, seringa) ou não emocionais (fome, debilidade, ambiente quente e úmido), com palidez, suor frio, bradicardia, pulso fino e queda da pressão. *Do seio carotídeo*: rara, em idosos, por compressão do pescoço (mão ou cotovelo do operador). *Por insuficiência vértebro-basilar*: idosos, com hiperextensão da cabeça, sem suor frio nem palidez. *Por arritmia*: rara como emergência no consultório.\n\n**Prevenindo (cuidados do livro).** Avaliar a ansiedade; orientar o paciente a se alimentar antes da consulta; usar, sempre que possível, a posição supina ou semi-inclinada; evitar estímulos visuais estressores (sangue, seringa, instrumentos); anestesia local o menos traumática possível; evitar frases \"tranquilizadoras\" que aumentam a ansiedade; no idoso, não hiperestender a cabeça nem apoiar a mão no pescoço.\n\n**Protocolo de 12 passos (resumo).** Interromper e retirar o material da boca; avaliar a consciência (sacudir de leve os ombros e perguntar \"Você está bem?\"); deitar de costas com os pés levemente mais altos que a cabeça (bastam **10 a 15 graus**); afrouxar roupas; liberar a via aérea inclinando a cabeça; monitorar respiração e pulso; conversar com o paciente; **aguardar 2 a 3 minutos** pela recuperação; depois dela, aguardar **10 a 15 minutos** para dispensar com um adulto. Se a consciência **não voltar após 3 minutos**: solicitar socorro móvel de urgência, dar oxigênio, monitorar os sinais vitais e investigar a causa.\n\n**Hipotensão ortostática**, para o livro a segunda maior causa de perda transitória da consciência na clínica: queda brusca da pressão ao levantar depois de ficar deitado, mais comum em idosos, com diuréticos e vasodilatadores, em sessões longas reclinado e em gestantes. Ao terminar o procedimento, levante o encosto até semi-inclinado, espere 2 minutos, sente o paciente, espere mais 2 minutos e só então o coloque em pé."
+    },
+    {
+      "id": "ar-alergia-prevencao",
+      "titulo": "Reações alérgicas: causas e prevenção (Andrade e Ranali)",
+      "fonte": "ar3-cap11",
+      "onde": "cap. 11, Reações Alérgicas, Significado e risco clínico; Ocorrência; Anestésicos locais; Antimicrobianos; Aspirina e AINEs; Prevenindo, Tabela 11.1, p. 120–126 (número impresso)",
+      "texto": "**Andrade e Ranali, cap. 11 (livro brasileiro).** Esta seção e a seguinte trazem o que esse livro diz; as páginas são as impressas.\n\n**Visão geral.** O livro diz que as reações alérgicas talvez sejam as que mais confundem o dentista: o paciente pode relatar tremor e taquicardia por injeção intravascular acidental da epinefrina do anestésico e tomar isso por alergia. Na odontologia, as reações costumam ser do **tipo I** (mediada por IgE, segundos a minutos; inclui crise de asma, reação anafilactoide e choque anafilático) ou do **tipo IV** (48 horas, dermatite de contato). As localizadas (vermelhidão, urticária, coceira) em geral não ameaçam a vida; as generalizadas podem ter broncoespasmo, edema de laringe, hipotensão e colapso.\n\n**Alérgenos na clínica:** látex (luvas e lençol de borracha), metil metacrilato, conservantes dos anestésicos, aspirina, anti-inflamatórios, penicilinas e cefalosporinas.\n- **Anestésicos locais:** o livro afirma que **ainda não há dados convincentes** de alergia a anestésico local mediada por IgE. Depois da troca para as amidas, a alergia atribuída ao anestésico praticamente desapareceu; os casos de \"alergia\" são, em grande maioria, reação psicogênica, injeção intravascular acidental e, menos, sobredose. Mesmo assim, tome precauções diante de quem relata alergia, até confirmar.\n- **Metabissulfito:** só aparece nas soluções com vasoconstritor adrenérgico; em alérgicos a sulfito ou asmáticos em uso crônico de corticoide, o livro manda evitar essas soluções e usar **felipressina** ou solução sem vasoconstritor.\n- **Parabenos:** nos EUA saíram dos tubetes em 1984; no Brasil, o livro diz que alguns fabricantes ainda mantêm o metilparabeno, sem necessidade, pois o tubete é de uso único.\n- **Penicilinas:** o maior número de reações alérgicas entre os antimicrobianos; com história de urticária ou reação anafilactoide, evitar penicilinas e outros betalactâmicos, como as cefalosporinas.\n- **Aspirina e anti-inflamatórios** podem causar reação não mediada por IgE e desencadear crise em parte dos asmáticos.\n\n**Prevenindo (oito itens).** Identificar o risco pela anamnese; pedir avaliação médica a quem tem alergia a medicamento; **nunca fazer teste de sensibilidade (subcutâneo ou intradérmico) no consultório**, pois mesmo pouco medicamento pode causar reação grave em quem é de fato alérgico; usar alternativo no alérgico (exemplo do livro: na alergia à penicilina, clindamicina, claritromicina ou azitromicina, conforme a infecção); preferir a **via oral** para penicilinas e cefalosporinas, porque a alergia se associa mais às formas injetáveis; em asmáticos, evitar aspirina e anti-inflamatórios; em alérgico ao látex, trocar luvas e lençol de borracha; em alergia ao metil metacrilato, preferir resinas de polimerização lenta às autopolimerizáveis."
+    },
+    {
+      "id": "ar-alergia-conduta",
+      "titulo": "Reações alérgicas e choque anafilático: protocolos (Andrade e Ranali)",
+      "fonte": "ar3-cap11",
+      "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)",
+      "texto": "**Protocolos do Andrade e Ranali, cap. 11.** Os volumes de epinefrina são os do livro; para a epinefrina, ele cita a tabela do Conselho Britânico de Ressuscitação (Resuscitation Council UK, 2008).\n\n**Reação cutânea imediata (resumo dos 10 passos).** Interromper e tirar o material da boca; posição confortável; avaliar respiração e frequências; suporte básico se necessário; **anti-histamínico injetável**, conforme o livro; observar por 20 a 30 minutos, monitorando; se estabilizado e sem envolvimento respiratório ou cardiovascular, prescrever anti-histamínico (exemplo do livro: loratadina 10 mg por via oral, um comprimido ao dia, em geral por 2 a 3 dias); dispensar com acompanhante, sem álcool; pedir avaliação médica.\n\n**Com sinais respiratórios e cardiovasculares.** Posição de conforto se predomina a dificuldade respiratória sem hipotensão; deitado com os pés levemente elevados se a pressão cai. Socorro de urgência; **oxigênio de 3 a 5 L por minuto**; **epinefrina IM, 0,5 mL da solução 1:1.000** (ampola de 1 mL), repetida a cada 5 a 10 minutos se necessário, com monitoração; cessados os sintomas, anti-histamínico injetável.\n\n**Choque anafilático (9 passos).** Interromper o atendimento; supina com as pernas levemente elevadas; suporte básico; solicitar socorro de urgência; **epinefrina 0,5 mL de 1:1.000 IM, repetida a cada 5 a 10 minutos se necessário**; oxigênio; pulso carotídeo e pressão a cada 5 minutos e respiração de modo constante; com o paciente estável, corticosteroide e anti-histamínico por via parenteral, depois da epinefrina (doses de suporte avançado ficam fora do tema); aguardar o socorro para o hospital.\n\n**Doses de epinefrina IM por idade (Tabela 11.5, do Resuscitation Council UK, como impressa no livro):**\n\n| Grupo | Dose de 1:1.000 |\n|---|---|\n| Adultos | 0,5 mL |\n| Crianças acima de 12 anos | a mesma do adulto |\n| Acima de 12 anos, com baixo peso | 0,3 mL |\n| 6 a 12 anos | 0,3 mL |\n| 6 meses a 6 anos | 0,15 mL |\n\n**Como aplicar.** O melhor local é o **vasto lateral da coxa**, com agulha de pelo menos 25 a 30 mm e aspiração antes, porque a injeção intravascular acidental pode causar isquemia do miocárdio. A epinefrina reverte o edema de laringe, a hipotensão e o broncoespasmo; funciona melhor se dada cedo e pode falhar em quem usa betabloqueador não cardiosseletivo, como o propranolol. Anti-histamínicos pouco ajudam na fase aguda e os corticosteroides têm início demorado: ambos entram depois da estabilização.\n\n**Broncoespasmo e edema de laringe.** O livro tem protocolo próprio de 10 passos para o broncoespasmo, que inclui broncodilatador em aerossol e epinefrina IM; a crise de asma tem tema próprio. No edema de laringe grave: deitado com os pés elevados, se tolerar; socorro; suporte básico; epinefrina 0,5 mL IM, repetida em 5 a 10 minutos se necessário; oxigênio. Se a obstrução total não ceder, é preciso via aérea de emergência (cricotireotomia, por médicos experientes)."
+    },
+    {
+      "id": "ar-convulsao",
+      "titulo": "Convulsões: protocolo e cuidados (Andrade e Ranali)",
+      "fonte": "ar3-cap13",
+      "onde": "cap. 13, Convulsões, Significado e risco clínico; Identificando; Prevenindo, p. 140–142 (número impresso)",
+      "texto": "**Andrade e Ranali, cap. 13 (livro brasileiro).** O livro, citando o Malamed (4ª ed.), descreve a tônico-clônica em três fases (pré-convulsiva, convulsiva e pós-convulsiva). A fase tônica dura cerca de 10 a 20 segundos e a clônica, aproximadamente 2 a 3 minutos. Convulsões com **mais de 3 minutos** ou repetitivas podem ser de risco, por hipertermia e acidose; os casos fatais são raros, só em crises muito prolongadas (mais de 30 minutos) sem recuperação da consciência.\n\n**Identificar e prevenir.** Quem tem histórico usa um ou mais anticonvulsivantes; cerca de 50% têm os ataques totalmente controlados, 30% têm crises reduzidas e 20% são resistentes. Pergunte: tipo de crise, hospitalização, fator desencadeante, aura, frequência e data da última, duração, medicação e regularidade, crise anterior no consultório. O contato com o médico é fortemente recomendado. Em quem não toma a medicação com regularidade ou teve episódio recente, encaminhe à avaliação médica antes do tratamento. Orientações do livro: evitar jejum (preferir alimentos líquidos); conferir se tomou o anticonvulsivante no dia; se indicada sedação mínima, midazolam, diazepam ou lorazepam por via oral ou, se habilitado, óxido nitroso e oxigênio; cuidado com **metronidazol e eritromicina**, que podem interagir com anticonvulsivantes, e evitar **claritromicina** em quem usa carbamazepina continuamente (aumenta a toxicidade). A fenitoína tem como efeito comum a hiperplasia gengival."
+    },
+    {
+      "id": "ar-convulsao-protocolo",
+      "titulo": "Convulsões: protocolo de atendimento (Andrade e Ranali)",
+      "fonte": "ar3-cap13",
+      "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)",
+      "texto": "**Protocolo do Andrade e Ranali, cap. 13 (14 passos, resumo).**\n1. Na cadeira, baixe-a o mais perto possível do chão, com o paciente deitado.\n2. Remova objetos cortantes ao redor, colares e óculos; solte gravata e colarinho.\n3. Vire o paciente de lado, **para o lado em que o socorrista está**: libera a via aérea e evita aspiração de saliva ou conteúdo gástrico. Nas observações finais, o livro diz que a preferência é virar para o **lado esquerdo**; os dois trechos aparecem como no livro. O Malamed, na seção dele, mantém o paciente em supina (cadeira reclinada): as duas fontes divergem e o tema não escolhe.\n4. **Nada entre as arcadas** (lenço, mordedor) nem instrumento forçado para abrir os dentes: o risco de laceração da língua é baixo e o de aspirar fragmentos dentários é bem maior.\n5. Não restrinja os movimentos; proteja a cabeça com anteparo macio; anote a duração.\n6. **Chame o serviço móvel de urgência se a convulsão durar mais de 3 minutos ou se houver cianose desde o início.** O Malamed, na seção dele, trata o chamado de outro modo (considerar, ou recomendar no início de toda convulsão).\n7. Se muito demorada ou repetitiva: **midazolam 15 mg por via oral**, ou diazepam por via parenteral, se habilitado (a dose e a via parenteral do diazepam são de suporte avançado e ficam fora deste tema). O livro avisa que o midazolam oral depois de crise demorada exige cuidado redobrado, porque o paciente não deve receber nada pela boca logo após a crise (deglutição diminuída, risco de aspiração). O Malamed, na seção dele sobre estado de mal, contraindica a via oral em quem está convulsionando; os dois trechos aparecem como estão nos livros.\n8. Passada a convulsão: repouso de 10 a 15 minutos sob observação, oxigênio de 6 a 8 L por minuto, sinais vitais, breve exame intrabucal para lesões; converse com cuidado (o paciente pode estar constrangido). Com acompanhante adulto, dispense e encaminhe à avaliação médica imediata.\n\n**Observações finais.** Se há certeza de epilepsia e a crise durou até 3 minutos, é desnecessário chamar ajuda externa; peça ajuda se for a primeira crise, se a pessoa for gestante ou diabética, ou se houver sobredose de anestésico local. **Mitos:** não é preciso introduzir algo para \"desenrolar a língua\", e a epilepsia não se transmite pela espuma da boca. Durante a convulsão **não é preciso fazer ventilação boca a boca nem massagem cardíaca externa**, porque o paciente não está em parada cardiorrespiratória."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Malamed, que perfil e que posição se associam à síncope vasodepressora?",
+      "verso": "Homem jovem (16 a 35 anos), sentado ereto, diante da injeção. A posição supina ou semissupina (30 a 45 graus) reduz o risco; a ereta aumenta.",
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Fatores predisponentes; Prevenção; Manifestações clínicas, Quadros 6-2 e 6-3, p. 143–146"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Malamed, o que fazer com o paciente em pré-síncope?",
+      "verso": "Interromper e deitá-lo em supina com as pernas levemente elevadas. Não pôr a cabeça entre as pernas.",
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+    },
+    {
+      "id": "f03",
+      "frente": "Segundo o Malamed, quando pensar em outra causa depois de uma síncope e o que fazer?",
+      "verso": "Se não recupera a consciência ou não está bem em 15 a 20 minutos: considerar convulsão, AVE, AIT, arritmia ou hipoglicemia e ativar o serviço de emergência.",
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+    },
+    {
+      "id": "f04",
+      "frente": "Segundo o Malamed, pode-se pôr algo na boca durante a convulsão tônico-clônica?",
+      "verso": "Não. Não melhora a via aérea, pode fraturar incisivos (que podem ser aspirados) e ferir o socorrista; nunca pôr os dedos entre os dentes.",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331"
+    },
+    {
+      "id": "f05",
+      "frente": "Para o consultório, a partir de quanto tempo o Malamed trata a convulsão como estado de mal, e qual a opção mais viável?",
+      "verso": "Mais de 5 minutos. A opção mais viável é continuar o suporte básico e proteger o paciente até o socorro; anticonvulsivante IV só com treino e equipamento.",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332"
+    },
+    {
+      "id": "f06",
+      "frente": "Onde há bissulfito nos tubetes de anestésico local, e qual a conduta no alérgico?",
+      "verso": "Em todo tubete com vasoconstritor. No alérgico, usar anestésico sem vasoconstritor (por exemplo, mepivacaína a 3% ou prilocaína a 4%).",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Anestésicos locais, Quadro 24-3, p. 386–387; Modificações no tratamento, Tabela 24-3, p. 391–392"
+    },
+    {
+      "id": "f07",
+      "frente": "Na anafilaxia, quando entram o bloqueador de histamina e o corticosteroide, segundo o Malamed?",
+      "verso": "Só depois da melhora clínica. Na fase crítica, adrenalina e oxigênio são os únicos medicamentos.",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Andrade e Ranali, quais os tempos e a elevação dos pés no atendimento da síncope?",
+      "verso": "Pés 10 a 15 graus acima da cabeça; 2 a 3 minutos para recuperar; sem consciência após 3 minutos, socorro móvel; depois de recuperar, 10 a 15 minutos antes de dispensar com um adulto.",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Andrade e Ranali, quando chamar o serviço móvel de urgência na convulsão?",
+      "verso": "Mais de 3 minutos ou cianose desde o início. Em epiléptico conhecido com crise de até 3 minutos o livro diz que é desnecessário, mas pede ajuda se for a primeira crise, se a pessoa for gestante ou diabética, ou se houver sobredose de anestésico local.",
+      "fonte": "ar3-cap13",
+      "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+    },
+    {
+      "id": "f10",
+      "frente": "Segundo o Malamed, que duas emergências imitam a anafilaxia durante a injeção de anestésico local?",
+      "verso": "Síncope vasodepressora e overdose do anestésico; tente descobrir a causa real. Na reação mais grave, os sinais respiratórios e cardiovasculares podem ser os únicos.",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+    },
+    {
+      "id": "f11",
+      "frente": "Segundo o Malamed, como o som da respiração separa o broncospasmo do edema de laringe?",
+      "verso": "Chiado indica broncospasmo. Estridor (som agudo) indica obstrução parcial; silêncio com movimento do tórax, obstrução total, com cianose e perda rápida da consciência.",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Manifestações clínicas; Tratamento: broncospasmo e edema de laringe, p. 395–396 e 405–408"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo o Malamed, o paciente perde a consciência depois de um alérgeno em potencial, sem sinais de alergia: a adrenalina está indicada?",
+      "verso": "Não: sem sinais a adrenalina não está indicada. Supina com pernas elevadas, suporte básico, oxigênio e serviço de emergência se a consciência não voltar logo; continuar o suporte básico até o socorro é o mais prudente.",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o Andrade e Ranali, qual a dose de epinefrina IM 1:1.000 do adulto e como repeti-la?",
+      "verso": "0,5 mL (Tabela 11.5, do Resuscitation Council UK), repetida a cada 5 a 10 minutos se necessário; o melhor local é o vasto lateral da coxa, com aspiração antes da injeção.",
+      "fonte": "ar3-cap11",
+      "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Andrade e Ranali, o que não pôr entre os dentes na convulsão?",
+      "verso": "Nada entre as arcadas (lenço, mordedor) nem instrumento forçado para abrir os dentes: o risco de laceração da língua é baixo e o de aspirar fragmentos dentários é bem maior.",
+      "fonte": "ar3-cap13",
+      "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+    },
+    {
+      "id": "f15",
+      "frente": "Quanto dura a fase convulsiva da tônico-clônica no Malamed?",
+      "verso": "O livro não dá um só número: 2 a 3 minutos (p. 314), 2 a 5 minutos (p. 322 e 324) e \"menos de 2 minutos\" (p. 327). Na ausência: raramente mais de 10 segundos (p. 316) ou 5 a 30 segundos (p. 323 e 326).",
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 24 anos, sentado ereto na cadeira, fica pálido, com suor frio na fronte, e diz estar tonto logo depois da anestesia local. Ainda responde ao dentista. Segundo o Malamed, qual a primeira conduta?",
+      "alternativas": [
+        {
+          "texto": "Manter sentado e inclinar o tronco, com a cabeça entre os joelhos.",
+          "correta": false,
+          "justificativa": "O livro manda abandonar a prática de pôr a cabeça entre as pernas: dobrar o corpo pode dificultar o retorno do sangue e, se ele perder a consciência de bruços, a via aérea fica mais difícil.",
+          "fonte": "malamed7-cap06",
+          "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+        },
+        {
+          "texto": "Interromper o procedimento e deitá-lo em supina, com as pernas levemente elevadas.",
+          "correta": true,
+          "justificativa": "É a etapa P do livro para a pré-síncope: a posição correta muda a evolução dos sintomas.",
+          "fonte": "malamed7-cap06",
+          "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+        },
+        {
+          "texto": "Terminar o procedimento depressa, já que ele ainda está consciente.",
+          "correta": false,
+          "justificativa": "O livro manda interromper o procedimento ao surgirem os sinais; só depois, sem perda de consciência, o tratamento pode continuar se dentista e paciente acharem adequado.",
+          "fonte": "malamed7-cap06",
+          "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+        },
+        {
+          "texto": "Oferecer suco de laranja e manter a cadeira ereta até ele melhorar.",
+          "correta": false,
+          "justificativa": "O açúcar é medida de apoio na recuperação; a primeira medida é a posição, e a posição ereta é fator predisponente à síncope.",
+          "fonte": "malamed7-cap06",
+          "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152"
+        }
+      ],
+      "fonte": "malamed7-cap06",
+      "onde": "cap. 6, Síncope Vasodepressora, Tratamento: pré-síncope, síncope, recuperação tardia e pós-síncope, p. 147–152",
+      "secao": "m-sincope-conduta",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 30 anos, epilético, em uso regular de anticonvulsivante, sem convulsão aguda nos últimos 3 meses e sem história de estado de mal epilético. Segundo o Malamed (Tabela 21-4), qual a classificação e a consideração de tratamento?",
+      "alternativas": [
+        {
+          "texto": "ASA 2, com as considerações normais para ASA 2.",
+          "correta": true,
+          "justificativa": "A Tabela 21-4 coloca a história de convulsões bem controladas por medicamentos, sem convulsão aguda nos últimos 3 meses, em ASA 2.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327"
+        },
+        {
+          "texto": "ASA 3, com preparo para tratar convulsão.",
+          "correta": false,
+          "justificativa": "Essa linha é para convulsões bem controladas, mas que ocorrem com frequência maior que 1 vez ao mês; o paciente está há 3 meses sem convulsão aguda.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327"
+        },
+        {
+          "texto": "ASA 3 a 4, com consulta médica antes do tratamento.",
+          "correta": false,
+          "justificativa": "Essa linha é para quem tem história de estado de mal epilético; o enunciado diz que não há.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327"
+        },
+        {
+          "texto": "ASA 4, com melhor controle das crises, se possível, antes do tratamento de rotina.",
+          "correta": false,
+          "justificativa": "Essa linha é para convulsões mal controladas, com mais de 1 vez por semana; o paciente está controlado.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327"
+        }
+      ],
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tipos de desordens convulsivas; Manifestações clínicas: fases prodrômica e ictal; Fatores predisponentes; Prevenção; Considerações no tratamento odontológico; Sedação, Tabela 21-4, p. 313–327",
+      "secao": "m-convulsao-risco",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Mulher epilética, sentada na cadeira, entra em convulsão tônico-clônica há cerca de 1 minuto. Segundo o Malamed, qual conduta é adequada?",
+      "alternativas": [
+        {
+          "texto": "Pôr um abaixador de língua envolvido em gaze entre os dentes para evitar que engula a língua.",
+          "correta": false,
+          "justificativa": "O livro diz que objetos na boca não melhoram a via aérea, podem fraturar incisivos superiores (que podem ser aspirados) e ferir o socorrista.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331"
+        },
+        {
+          "texto": "Segurar com firmeza os braços e as pernas para impedir os movimentos.",
+          "correta": false,
+          "justificativa": "O livro manda não segurar as extremidades em posição fixa, pelo risco de fratura; só se evitam movimentos rudes e exagerados.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331"
+        },
+        {
+          "texto": "Deixá-la na cadeira reclinada em supina, afastar o equipamento e proteger cabeça, braços e pés, sem pôr nada na boca.",
+          "correta": true,
+          "justificativa": "É a conduta do livro para a fase ictal: posição supina, proteção contra lesões e nada na cavidade bucal.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331"
+        },
+        {
+          "texto": "Aplicar um anticonvulsivante por via intravenosa imediatamente.",
+          "correta": false,
+          "justificativa": "O anticonvulsivante só entra se a convulsão persistir por mais de 5 minutos, e só com equipe treinada; a maioria das convulsões é autolimitada.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331"
+        }
+      ],
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Tratamento: crises de ausência e parciais; tônico-clônicas, fases prodrômica, ictal e pós-ictal, Quadros 21-3 e 21-4, p. 326–331",
+      "secao": "m-convulsao-conduta",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Num consultório sem acesso venoso nem treino em anticonvulsivantes parenterais, um paciente epilético convulsiona há 6 minutos. Segundo o Malamed, qual a opção mais viável?",
+      "alternativas": [
+        {
+          "texto": "Dar um anticonvulsivante por via oral para a convulsão parar.",
+          "correta": false,
+          "justificativa": "O livro diz que a via oral é contraindicada em quem está inconsciente e em convulsão.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332"
+        },
+        {
+          "texto": "Continuar o suporte básico e proteger o paciente até a chegada do socorro médico.",
+          "correta": true,
+          "justificativa": "É a opção 1 do livro e a mais viável na maioria dos consultórios, que não têm medicamento, equipamento e treino para acesso venoso.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332"
+        },
+        {
+          "texto": "Esperar completar 30 minutos antes de chamar o serviço de emergência.",
+          "correta": false,
+          "justificativa": "Os 30 minutos são a definição clássica; para o consultório o livro considera estado de mal a convulsão com mais de 5 minutos, não 30.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332"
+        },
+        {
+          "texto": "Aplicar midazolam intravenoso em dose única e rápida.",
+          "correta": false,
+          "justificativa": "O anticonvulsivante IV só se justifica com treino e acesso venoso, e a injeção rápida demais causa hipotensão, depressão respiratória e parada cardíaca.",
+          "fonte": "malamed7-cap21",
+          "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332"
+        }
+      ],
+      "fonte": "malamed7-cap21",
+      "onde": "cap. 21, Convulsões, Estado epilético; Condição convulsiva tônico-clônica; Estado de grande mal, etapas 1 a 9; Diagnóstico diferencial, Tabela 21-5, p. 316, 325 e 331–332",
+      "secao": "m-convulsao-estado",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente de 40 anos, para extração eletiva, diz ser 'alérgico à Novocaína' e não sabe dar mais detalhes. Segundo o Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Usar lidocaína, porque é amida e a alergia cruzada com os ésteres é muito rara.",
+          "correta": false,
+          "justificativa": "Esse raciocínio vale para alergia confirmada a um éster; na alegação duvidosa o livro diz que anestésicos locais não devem ser administrados.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394"
+        },
+        {
+          "texto": "Fazer no próprio consultório um teste cutâneo com 0,1 mL antes de anestesiar.",
+          "correta": false,
+          "justificativa": "O autor opina que o teste não deve ser feito no consultório: o teste não é infalível e até 0,1 mL pode precipitar anafilaxia em quem é alérgico.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394"
+        },
+        {
+          "texto": "Aplicar benzocaína tópica primeiro e observar a reação.",
+          "correta": false,
+          "justificativa": "A benzocaína é um éster; o livro manda adiar o que exija anestesia tópica ou injetável até a avaliação.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394"
+        },
+        {
+          "texto": "Adiar o que exigir anestesia, tópica ou injetável, até a avaliação por pessoa competente.",
+          "correta": true,
+          "justificativa": "É a conduta do livro para o tratamento eletivo com alergia alegada; o que não exige anestesia pode ser feito nesse período.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394"
+        }
+      ],
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Prevenção; Diálogo da história médica; Consulta com o médico; Modificações no tratamento, Tabela 24-3; Tratamento da alergia alegada ao anestésico local, p. 388–394",
+      "secao": "m-alergia-historia",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Homem de 70 kg recebe penicilina e, em poucos minutos, tem urticária, chiado, queda da pressão e tontura. O procedimento foi interrompido, o paciente deitado e a equipe ativada. Segundo o Malamed, qual o medicamento inicial?",
+      "alternativas": [
+        {
+          "texto": "Adrenalina 1:1.000, 0,3 mL por via intramuscular, no vasto lateral.",
+          "correta": true,
+          "justificativa": "O livro manda aplicar o mais rápido possível: 0,3 mL de 1:1.000 IM para mais de 30 kg.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+        },
+        {
+          "texto": "Adrenalina 1:1.000, 0,15 mL por via intramuscular.",
+          "correta": false,
+          "justificativa": "Essa é a dose para pacientes de 15 a 30 kg; o paciente pesa 70 kg.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+        },
+        {
+          "texto": "Difenidramina intramuscular, e aguardar a resposta antes de outro medicamento.",
+          "correta": false,
+          "justificativa": "O bloqueador de histamina e o corticosteroide só entram depois da melhora clínica; na fase crítica o livro diz que adrenalina e oxigênio são os únicos medicamentos.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+        },
+        {
+          "texto": "Adrenalina 1:1.000, 0,3 mL por via intravenosa.",
+          "correta": false,
+          "justificativa": "O livro diz que a adrenalina 1:1.000 não se destina à via IV.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411"
+        }
+      ],
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Anafilaxia generalizada: manifestações clínicas e tratamento, Quadro 24-4, p. 396–397 e 409–411",
+      "secao": "m-anafilaxia",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto de 75 kg em choque anafilático no consultório. Segundo o Andrade e Ranali (cap. 11), qual a conduta com a epinefrina?",
+      "alternativas": [
+        {
+          "texto": "Hidrocortisona e anti-histamínico por via parenteral primeiro, e epinefrina só se não houver melhora.",
+          "correta": false,
+          "justificativa": "No livro, o anti-histamínico dá pouco resultado na fase aguda e o corticosteroide tem início demorado; ambos entram depois da estabilização pela epinefrina.",
+          "fonte": "ar3-cap11",
+          "onde": "cap. 11, Reações Alérgicas, Considerações sobre os medicamentos, p. 129 (número impresso)"
+        },
+        {
+          "texto": "0,15 mL de 1:1.000 por via intramuscular.",
+          "correta": false,
+          "justificativa": "No livro, 0,15 mL é a dose de 6 meses a 6 anos.",
+          "fonte": "ar3-cap11",
+          "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)"
+        },
+        {
+          "texto": "0,5 mL de 1:1.000 por via intramuscular, repetida a cada 5 a 10 minutos se necessário.",
+          "correta": true,
+          "justificativa": "É o passo 5 do protocolo do livro para o choque anafilático e a dose de adulto da Tabela 11.5.",
+          "fonte": "ar3-cap11",
+          "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)"
+        },
+        {
+          "texto": "0,5 mL de 1:1.000 por via intravenosa lenta.",
+          "correta": false,
+          "justificativa": "O livro prefere a via intramuscular, com aspiração antes da injeção, porque a injeção intravascular acidental pode causar isquemia do miocárdio.",
+          "fonte": "ar3-cap11",
+          "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)"
+        }
+      ],
+      "fonte": "ar3-cap11",
+      "onde": "cap. 11, Reações Alérgicas, Protocolos de atendimento; Considerações sobre os medicamentos, Tabela 11.5, p. 126–129 (número impresso)",
+      "secao": "ar-alergia-conduta",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o Andrade e Ranali (cap. 6), paciente desmaiou na cadeira, foi deitado com os pés levemente elevados e, passados 3 minutos, ainda não recuperou a consciência. Qual a conduta?",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)",
+      "secao": "ar-sincope",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Aguardar mais 10 a 15 minutos e então dispensá-lo com um adulto.",
+          "correta": false,
+          "justificativa": "Os 10 a 15 minutos são a espera depois da recuperação, para dispensar com um adulto; sem consciência após 3 minutos, o passo é pedir socorro.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)"
+        },
+        {
+          "texto": "Sentá-lo e depois colocá-lo em pé, esperando 2 minutos em cada etapa.",
+          "correta": false,
+          "justificativa": "Essa sequência é a da hipotensão ortostática, ao terminar o procedimento, com o paciente consciente.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)"
+        },
+        {
+          "texto": "Solicitar socorro móvel de urgência, dar oxigênio, monitorar os sinais vitais e investigar a causa.",
+          "correta": true,
+          "justificativa": "É o que o livro manda quando a consciência não volta após 3 minutos.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)"
+        },
+        {
+          "texto": "Continuar aguardando a recuperação espontânea, que costuma ocorrer em 2 a 3 minutos.",
+          "correta": false,
+          "justificativa": "Os 2 a 3 minutos são o tempo esperado de recuperação; passados 3 minutos sem consciência, o livro manda solicitar socorro.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Lipotimia e síncope; Hipotensão ortostática, p. 64–66 e 69–71 (número impresso)"
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "enunciado": "Epiléptico conhecido tem uma crise tônico-clônica no consultório, de uma só vez; ela termina em 2 minutos, sem cianose, e ele recupera a consciência. Ele não é diabético e não houve sobredose de anestésico local. Segundo o Andrade e Ranali (cap. 13), qual a conduta quanto ao serviço móvel de urgência?",
+      "fonte": "ar3-cap13",
+      "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)",
+      "secao": "ar-convulsao-protocolo",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Chamar o serviço móvel de urgência por rotina, assim que a crise terminar.",
+          "correta": false,
+          "justificativa": "O livro dispensa a chamada quando há certeza de epilepsia e a crise não passou de 3 minutos; chama-se se a crise for a primeira, prolongada, repetida, sem recuperação da consciência, ou com as condições citadas nas observações finais.",
+          "fonte": "ar3-cap13",
+          "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+        },
+        {
+          "texto": "Chamar só se a crise passar de 30 minutos.",
+          "correta": false,
+          "justificativa": "Os 30 minutos são o limite dos casos fatais raros; o livro manda chamar com mais de 3 minutos ou cianose desde o início.",
+          "fonte": "ar3-cap13",
+          "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+        },
+        {
+          "texto": "Dar midazolam por via oral e chamar em seguida.",
+          "correta": false,
+          "justificativa": "O benzodiazepínico é previsto só se a crise for muito demorada ou repetitiva; aqui a crise durou 2 minutos.",
+          "fonte": "ar3-cap13",
+          "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+        },
+        {
+          "texto": "É desnecessário chamar ajuda externa, porque há certeza de epilepsia e a crise durou até 3 minutos.",
+          "correta": true,
+          "justificativa": "É a observação final do livro; além de crise prolongada, repetida ou sem recuperação da consciência, pede-se ajuda se for a primeira crise, se a pessoa for gestante ou diabética, ou se houver sobredose de anestésico local.",
+          "fonte": "ar3-cap13",
+          "onde": "cap. 13, Convulsões, Prevenindo (fim); Protocolo de atendimento; Observações finais, p. 142–144 (número impresso)"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente recebe injeção de anestésico local e perde a consciência, sem edema, urticária ou broncospasmo definidos. Segundo o Malamed, qual a conduta inicial?",
+      "fonte": "malamed7-cap24",
+      "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412",
+      "secao": "m-anafilaxia-cuidados",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Adrenalina IM no vasto lateral imediatamente, por ser a exceção à regra do livro.",
+          "correta": false,
+          "justificativa": "A exceção é a anafilaxia generalizada com sinais de alergia; sem sinais a adrenalina não está indicada.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412"
+        },
+        {
+          "texto": "Difenidramina IM e corticosteroide, para prevenir a reação alérgica.",
+          "correta": false,
+          "justificativa": "O bloqueador de histamina e o corticosteroide têm início lento e só entram depois da melhora, na anafilaxia; sem sinais de alergia, o livro diz que a adrenalina e outras terapias medicamentosas normalmente não são indicadas.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412"
+        },
+        {
+          "texto": "Sentá-lo ereto na cadeira e observar se a consciência volta sozinha.",
+          "correta": false,
+          "justificativa": "O livro manda supina com pernas elevadas imediatamente; quem tem síncope vasodepressora ou hipotensão postural recupera rápido depois de posicionado.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412"
+        },
+        {
+          "texto": "Supina com pernas elevadas, suporte básico e oxigênio, com serviço de emergência se a consciência não voltar logo.",
+          "correta": true,
+          "justificativa": "É a conduta do livro sem sinais de alergia (o Quadro 24-11 mostra o serviço de emergência sem a condição); continuar o suporte básico até o socorro é o mais prudente.",
+          "fonte": "malamed7-cap24",
+          "onde": "cap. 24, Alergia, Adrenalina e alergia; Reação anafilática generalizada: sem sinais clínicos de alergia; Edema da laringe na anafilaxia generalizada, Quadro 24-11, p. 407–408 e 410–412"
+        }
+      ]
+    }
+  ]
+}

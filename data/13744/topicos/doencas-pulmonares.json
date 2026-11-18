@@ -1,0 +1,654 @@
+{
+  "slug": "doencas-pulmonares",
+  "titulo": "Asma e DPOC no atendimento odontológico",
+  "area": "Pacientes Especiais",
+  "origem": "Malamed 7ª ed., cap. 13; Andrade e Ranali 3ª ed., cap. 7; Varellis (org.) 3ª ed., cap. 30; Little e Falace 9ª ed., cap. 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "malamed7-cap13",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 13, Asma, p. 213–229 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 13"
+    },
+    {
+      "id": "ar3-cap07",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 7, Dificuldade respiratória, p. 78–95.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 7"
+    },
+    {
+      "id": "varellis3-cap30",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 30, Alterações Respiratórias, p. 255–259 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 30"
+    },
+    {
+      "id": "lf9-cap07",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 7, Pulmonary Disease, p. 101–127.",
+      "curta": "Little e Falace 9ª ed., cap. 7"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "malamed-quadro",
+      "titulo": "Asma: o que é e como reconhecer a crise",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, abertura, Epidemiologia, Fatores predisponentes, Manifestações clínicas e Quadros 13-3 e 13-4, p. 213–215 e 217–223",
+      "texto": "Esta seção e as quatro seguintes seguem o **Malamed** (7ª ed., tradução de livro de autor dos EUA), a fonte base do tema para a asma. A DPOC e a pneumonia aspirativa (esta, em uma frase do livro) estão nas seções do Little e Falace, perto do fim do tema.\n\n**O que é.** O livro define asma como \"desordem inflamatória crônica caracterizada por obstrução reversível das vias aéreas\". Entre as crises o paciente típico fica sem sintomas. O **status asmaticus** (estado asmático) é a crise que não cede ao tratamento inicial com broncodilatadores: emergência médica de verdade, que pode matar por hipoxemia e retenção de dióxido de carbono.\n\n**Dois grupos, pelo que dispara a crise:**\n- **Extrínseca (alérgica):** cerca de metade dos asmáticos (o Little e Falace e o Varellis, em seção própria, trazem outros números para a forma extrínseca); mais em crianças e adultos jovens; hipersensibilidade tipo I (IgE). Alérgenos: poeira, pelos de animais, fungos, pólen, alguns alimentos, penicilina, aspirina e sulfitos. O broncospasmo aparece em minutos após a exposição.\n- **Intrínseca (não alérgica):** a outra metade; costuma surgir acima de 35 anos, com testes cutâneos negativos. A infecção viral das vias respiratórias é o fator mais comum. Os episódios tendem a ser mais fulminantes e graves.\n- **Mista:** combina as duas; o maior desencadeante é a infecção.\n\n**Outros gatilhos:** exercício (sintomas entre 6 e 10 minutos depois do início, com fase tardia após parar), poluição do ar, estímulos ocupacionais e **estresse**. O consultório é lugar comum de crise: na criança asmática, entrar na sala pode bastar, e o episódio cessa quando ela sai do ambiente.\n\n**Como reconhecer a crise aguda.** Tríade clássica: **tosse, dispneia e sibilos**. O paciente sente aperto no peito, prefere ficar sentado ou em pé e usa a musculatura acessória (esternocleidomastóideo, escalenos). Sem tratamento, a crise pode durar de minutos a horas. Sinais de gravidade: frequência respiratória acima de 20 por minuto na maioria dos episódios e acima de 40 nos graves; frequência cardíaca acima de 120 batimentos por minuto nos graves; cianose, sudorese, agitação, sonolência ou confusão, retração dos tecidos moles e batimento da asa do nariz.\n\nO sibilo, sozinho, não mede a gravidade: com obstrução maior ele fica mais agudo e **desaparece quando quase não passa ar**.\n\n**Hipóxia e hipercapnia** (inquietação, confusão, cianose, sudorese, taquicardia; na hipercapnia, também sonolência) indicam oxigênio."
+    },
+    {
+      "id": "malamed-anamnese",
+      "titulo": "Prevenção no consultório: anamnese e medicamentos",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Prevenção, Questionário de história médica, Diálogo e Tabela 13-3, p. 215–219",
+      "texto": "Pelo **Malamed**, o objetivo do dentista é **prevenir o episódio agudo**, e isso se faz com a história médica e o diálogo com o paciente.\n\n**No questionário de saúde:**\n- A pergunta sobre asma, tuberculose, enfisema ou outra doença pulmonar, se positiva, pede conversa mais profunda: qual o problema e, na asma, a gravidade e o que ela muda no plano de tratamento.\n- A pergunta sobre alergias ajuda a achar a asma extrínseca. Gatilhos comuns: fumaça de tabaco, ácaros, pelos de animais, baratas, pólen, fungos e irritantes do ar (o livro inclui acrílico e outros materiais odontológicos em aerossol).\n- A pergunta sobre medicamentos deve incluir os vendidos sem receita.\n\n**Perguntas do diálogo:**\n- Tem asma? De que tipo (alérgica ou não)? Desde que idade? Com que frequência são os episódios?\n- O que provoca as crises? O estresse pesa nos dois tipos: use o protocolo de redução do estresse.\n- Como controla as crises? Anote os medicamentos no prontuário e peça que o paciente os traga em toda consulta; o broncodilatador inalatório (em geral agonista β2) fica **ao alcance durante toda a consulta**.\n- Já foi ao pronto-socorro ou foi internado por crise? Isso mede a gravidade: quem já foi tem mais chance de novo episódio, e a necessidade de internação indica estado asmático que não respondeu aos agonistas β.\n\n**Medicamentos do paciente.** O livro lista agonistas β2 inalatórios de ação curta (albuterol, também chamado salbutamol), corticosteroides inalatórios, cromolina e nedocromil, antagonistas dos leucotrienos, teofilina, ipratrópio, corticosteroides sistêmicos e adrenalina. Em geral pesam pouco no plano odontológico. Quem usa glicocorticoide por longo prazo deve ser avaliado quanto a possível insuficiência adrenocortical.\n\nO livro cita como medicamentos essenciais no mundo a beclometasona e a budesonida (corticosteroides inalatórios) e o salbutamol (agonista β2 de ação curta). A maioria dos asmáticos carrega um medicamento de \"resgate\" para cessar o broncospasmo; o mais usado nos EUA é o albuterol."
+    },
+    {
+      "id": "malamed-conduta-previa",
+      "titulo": "Risco ASA, sedação, analgésicos e sulfitos",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Classificação ASA, Sulfitos e Tabela 13-4, p. 217–219",
+      "texto": "Ainda pelo **Malamed**. As modificações do atendimento dependem da gravidade da asma.\n\n**Risco ASA (Tabela 13-4 e texto).** ASA é a classificação da American Society of Anesthesiologists, que o livro adapta à asma (Tabela 13-4).\n\n| ASA | Quem é o paciente | O que muda |\n|---|---|---|\n| 2 | asma bem controlada, episódios infrequentes, sem emergência nem internação prévias | redução do estresse, identificar e evitar os gatilhos, broncodilatador disponível na consulta |\n| 3 | asma induzida por exercício ou por medo, ou com emergência ou internação prévias | o mesmo do ASA 2 e sedação com óxido nitroso e oxigênio conforme a necessidade |\n| 4 | poucos pacientes, com sinais e sintomas em repouso | a Tabela 13-4 traz só o ASA 2 e o ASA 3; o ASA 4 aparece só no texto, sem modificações descritas |\n\n**Sedação.** O livro não contraindica a sedação moderada no ansioso, mas **barbitúricos** e **opioides** (principalmente meperidina) são relativamente contraindicados: os opioides liberam histamina e podem induzir broncospasmo. Óxido nitroso com oxigênio, benzodiazepínicos orais e sedação parenteral não são contraindicados. Para o livro, a advertência de alguns médicos contra o óxido nitroso é infundada: ele não irrita a mucosa nem provoca broncospasmo. No paciente claustrofóbico, o capuz nasal pode favorecer a crise; a cânula nasal é alternativa.\n\n**Analgésicos.** De 3% a 19% dos asmáticos são sensíveis à **aspirina** (30% a 40% dos que têm pólipos nasais e pansinusite). Há reação cruzada com outros anti-inflamatórios não esteroides; o livro lista, entre outros, ibuprofeno, naproxeno, diclofenaco, cetoprofeno e piroxicam. Cuidado ao prescrever analgésico.\n\n**Sulfitos.** Os tubetes de anestésico local com vasoconstritor (adrenalina, levonordefrina) contêm **bissulfitos**. O volume é pequeno, mas o paciente sensível a bissulfito pode ter ataque de asma. Nesse grupo, o livro diz que o uso é absolutamente contraindicado; em outras situações a contraindicação pode ser só relativa. Anestésico sem vasoconstritor, como mepivacaína pura ou prilocaína pura, pode substituir. O Little e Falace, o Andrade e Ranali e o Varellis, em seção própria, dão outra conduta para o anestésico do asmático; o tema não escolhe entre elas.\n\nOs sulfitos também preservam alimentos e estão em alguns medicamentos; o livro cita reações graves em asmáticos, com broncospasmo."
+    },
+    {
+      "id": "malamed-crise",
+      "titulo": "Crise de asma no consultório: da posição ao broncodilatador",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Tratamento: crise aguda de asma, etapas 1 a 8, Quadros 13-5 e 13-6, p. 220–221 e 224–228",
+      "texto": "Sequência do **Malamed** para o broncospasmo (Quadro 13-5):\n\n1. **Interrompa** o tratamento ao primeiro sinal e acione a equipe.\n2. **Posição:** confortável, em geral sentado na vertical, com os braços lançados para a frente. Outra posição serve se o paciente preferir.\n3. **Retire** todo material da boca.\n4. **Tranquilize** o paciente; a equipe mantém a calma.\n5. **Circulação, vias aéreas e respiração:** avalie e dê suporte básico de vida se preciso. Na crise o paciente segue consciente, em geral com pressão arterial e frequência cardíaca altas.\n6. **Tratamento definitivo:** (a) **oxigênio** em qualquer episódio asmático agudo, por máscara facial, capuz nasal ou cânula nasal (na cânula, 5 a 7 litros por minuto são adequados); (b) **broncodilatador inalatório**, de preferência o do próprio paciente, que deve estar por perto antes de o tratamento começar.\n\n**Broncodilatador.** Os mais potentes na musculatura brônquica são os agonistas β2-adrenérgicos; o livro cita adrenalina, albuterol, isoproterenol e metaproterenol. Para relaxar o brônquio, o melhor modo é o spray inalado: início de ação igual ao da injeção, com menos absorção sistêmica e menos efeito adverso. O aerossol costuma abortar o ataque em segundos. Só cerca de 1% da dose é de fato inalada, e o **espaçador** aumenta a parte que chega aos brônquios. Entre duas inalações do agonista β2 de resgate, espere cerca de 1 minuto (Quadro 13-6). O paciente usa a dose habitual; dentista e paciente devem ler antes a bula, para saber a dose máxima segura em determinado período.\n\n**Albuterol** é o escolhido pelo autor para o kit de emergência: seletivo, de ação rápida e com efeitos colaterais mínimos, o mais recomendado em quem tem outras doenças. A **adrenalina** causa palpitação, taquicardia e arritmia e é contraindicada em asmático com hipertensão, diabetes, hipertireoidismo ou doença cardíaca isquêmica.\n\n**Se o episódio cessa:** descubra a causa e considere o protocolo de redução do estresse. O plano pode continuar na mesma visita se paciente e dentista se sentirem à vontade. Estando estável, o paciente pode ir embora sem acompanhante; em geral não há problema quando a crise cede logo com o broncodilatador."
+    },
+    {
+      "id": "malamed-crise-grave",
+      "titulo": "Crise que não cede: pedir ajuda, adrenalina e estado asmático",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6c a 7, Status asmaticus e Resumo, p. 220–221 e 226–228",
+      "texto": "Ainda pelo **Malamed**. No broncospasmo grave, o início é o mesmo da crise leve (interromper, posição, retirar material, tranquilizar, oxigênio e broncodilatador), com tratamento mais intenso.\n\n**Quando pedir ajuda.** Se **três doses** do broncodilatador em aerossol não resolvem, o livro manda considerar passos adicionais. Quando os aerossóis falham em controlar o broncospasmo, um membro da equipe **solicita assistência médica de emergência**. Pelo fluxo do Quadro 13-5, o episódio que continua leva a ativar o serviço médico de emergência, dar medicamentos parenterais e hospitalizar ou liberar conforme a recomendação dele. Pelo resumo do capítulo, assistência médica não é necessária se a crise é leve ou cede fácil ao aerossol.\n\n**Adrenalina parenteral.** Na crise mais grave, ou refratária ao aerossol, pode estar indicada. O kit básico traz seringa autoinjetável com **0,3 mL de adrenalina 1:1.000**. A dose usual no adulto, por via **subcutânea ou intramuscular**, é de **0,3 mL de 1:1.000**; pode ser repetida a cada 30 a 60 minutos se preciso. A solução 1:1.000 **nunca** vai por via intravenosa. A injeção tem início rápido, mas causa efeitos sistêmicos (arritmias, reações hipertensivas), sobretudo em quem usa inibidor da monoaminoxidase ou antidepressivo tricíclico. Esse é o volume do Malamed; o Little e Falace e o Andrade e Ranali trazem os deles, cada um em seção própria.\n\n**Corticosteroide.** Para pacientes refratários, o livro cita corticosteroides sistêmicos como recurso opcional, só para o dentista treinado em emergência e em infusão intravenosa; este tema não traz dose. Os corticosteroides sistêmicos são o único tratamento comprovado para o componente inflamatório, com efeito anti-inflamatório em 6 a 12 horas.\n\n**Sedativos.** Quanto mais grave a crise, mais perigoso é qualquer medicamento que deprima os sistemas respiratório e nervoso; o livro os considera **absolutamente contraindicados** no estado asmático ou na asma grave com qualquer indício de retenção de dióxido de carbono. O oxigênio pode ser dado livremente a qualquer momento.\n\n**Estado asmático.** Obstrução moderada a grave sem resposta significativa aos agonistas β de ação rápida; fadiga extrema, desidratação, hipóxia grave, cianose. Exige hospitalização, é potencialmente fatal e pode surgir em qualquer asmático.\n\n**Depois.** Após broncospasmo grave que exigiu medicamento parenteral, o paciente frequentemente precisa de hospitalização. Como e quando ele sai do consultório (sozinho ou acompanhado) deve ser decidido antes de a equipe de emergência partir."
+    },
+    {
+      "id": "lf-asma-classificacao",
+      "titulo": "Asma pelo Little e Falace: classificação e estabilidade",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Asthma, Etiology, Classification, Box 7.4 e Risk Assessment, p. 109, 111–113",
+      "texto": "Esta seção e as duas seguintes seguem o **Little e Falace** (9ª ed., cap. 7, livro de autores dos EUA), em seção própria. Para a asma, o Malamed continua sendo a base do tema; aqui entra o que o Little e Falace acrescenta, com os números dele.\n\n**Tipos (p. 109).** O livro diz que a asma alérgica (extrínseca) é a forma mais comum, cerca de 35% dos casos de adultos, em geral em crianças e adultos jovens, e que a intrínseca, não alérgica, responde por cerca de 30%, em geral em adultos de meia-idade. Para o manejo, diz que hoje o tipo de gatilho importa mais que a categoria. O Malamed, o Andrade e Ranali e o Varellis trazem outros números, nas seções próprias.\n\n**Classificação (Box 7.4, adaptado do NHLBI, dos EUA; 12 anos ou mais).** O livro classifica a asma crônica em intermitente ou persistente (leve, moderada ou grave), por frequência de sintomas, função pulmonar e risco de crises.\n\n| Classificação (Box 7.4) | Sintomas | Noturnos | FEV1 (% do previsto) |\n|---|---|---|---|\n| Intermitente | até 2 por semana; sem sintomas entre as crises | menos de 2 por mês | acima de 80% |\n| Persistente leve | mais de 2 por semana, não diários | 3 a 4 por mês | acima de 80% no box; acima de 85% no texto |\n| Persistente moderada | diários, com uso diário de β2-agonista de ação curta | mais de 1 por semana, não toda noite | 60% a 80% |\n| Persistente grave | durante todo o dia; crises frequentes | frequentes | abaixo de 60% |\n\nO limite do FEV1 na asma persistente leve difere dentro do livro: o texto da p. 112 diz acima de 85% e o Box 7.4 diz acima de 80%.\n\nO Varellis (manual) e o Andrade e Ranali classificam a gravidade da asma de outro jeito, nas seções próprias (\"Varellis: asma, estágios e tratamento médico\"; \"Andrade e Ranali: definição, gravidade e gatilhos\"); o tema não escolhe.\n\n**Gravidade e estabilidade no consultório (p. 113).** Pergunte a adesão ao medicamento (sobretudo nas 4 semanas anteriores), o tipo (alérgica ou não), os precipitantes, a frequência e a gravidade das crises, como são manejadas e se já houve emergência. Indicam doença grave: crises frequentes, intolerância ao exercício, FEV1 abaixo de 80%, vários medicamentos, ida ao pronto-socorro ou internação por crise. Sugerem mau controle: sintomas em 2 ou mais dias por semana, β2-agonista de ação curta em mais de 2 dias por semana, má adesão e uma ou mais visitas ao pronto-socorro nos 3 meses anteriores. Mais de 1,5 frasco de β-agonista inalado por mês (mais de 200 inalações) ou dobrar o uso mensal indica alto risco de crise grave.\n\n**Asma grave e instável:** consultar o médico e adiar o tratamento de rotina até melhor controle."
+    },
+    {
+      "id": "lf-asma-prevencao",
+      "titulo": "Asma pelo Little e Falace: consulta, sedação e o que evitar",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Asthma, Dental Management (Appointment, Airway, and Breathing; Capacity to Tolerate Care; Drug Considerations; Oral Complications and Manifestations) e Box 7.5, p. 113–115",
+      "texto": "Ainda pelo **Little e Falace**. A meta principal é **prevenir a crise aguda**.\n\n**Consulta.** Paciente com asma noturna: marque no fim da manhã, quando a crise é menos provável. Reduza odorantes do consultório (o livro cita o metacrilato de metila). Peça que o paciente use os medicamentos regularmente, traga o inalador a toda consulta e avise ao primeiro sinal de crise. Inalar o broncodilatador dele no início da consulta é, para o livro, método valioso de prevenção; o Box 7.5 recomenda o uso profilático na doença moderada a grave. Na oximetria, a saturação do saudável fica entre 97% e 100%; 91% ou menos indica troca gasosa ruim e necessidade de intervenção. Oxigênio de baixo fluxo, 2 a 3 L/min, quando cair abaixo de 95%.\n\n**Ansiedade.** Estresse e ansiedade precipitam crise. Se a sedação for necessária, o melhor é **óxido nitroso com oxigênio**, que não deprime a respiração nem irrita a árvore traqueobrônquica; ou pequenas doses de benzodiazepínico oral de ação curta.\n\n**Evitar.**\n- **Barbitúricos e narcóticos**, em particular a meperidina: liberam histamina e podem provocar crise. A anestesia geral ambulatorial em geral é contraindicada.\n- **Aspirina e outros anti-inflamatórios não esteroides:** não aconselháveis. A aspirina causa broncoconstrição em cerca de 10% dos asmáticos, e quem tem pólipos nasais tem risco maior. O Malamed e o Andrade e Ranali trazem outra faixa para a sensibilidade à aspirina, nas seções próprias.\n- **Macrolídeos (eritromicina, azitromicina) e ciprofloxacino** em quem toma teofilina, pelo nível tóxico dela.\n\n**Sulfitos no anestésico.** Em 1987 a agência regulatória dos EUA (FDA) alertou que medicamentos com sulfitos causam reações do tipo alérgico em pessoas suscetíveis. Os tubetes com epinefrina ou levonordefrina contêm sulfitos, embora a quantidade seja menor que a de uma porção média de certos alimentos, e há relato de ao menos uma crise aguda precipitada assim. Por isso o livro diz que **pode ser aconselhável** usar anestésico sem epinefrina nem levonordefrina na doença moderada a grave; como os dados são limitados, converse sobre reações passadas a anestésico e alergia a sulfito e consulte o médico.\n\n**Boca.** β2-agonistas inalados reduzem o fluxo salivar em 20% a 35% e o pH da placa. A candidíase aparece em cerca de 5% dos que usam corticosteroide inalado por muito tempo, em dose ou frequência altas; é rara com espaçador e enxágue da boca depois de cada uso."
+    },
+    {
+      "id": "lf-asma-crise",
+      "titulo": "Asma pelo Little e Falace: crise grave e epinefrina",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Asthma, Pathophysiology and Complications (estado de mal asmático), Box 7.5 (Emergencies), Emergency (Asthma Attack) e Tabela 7.1, p. 106, 111, 114–115",
+      "texto": "Ainda pelo **Little e Falace**.\n\n**Como reconhecer a crise grave ou que piora (Box 7.5).** Paciente que não consegue terminar uma frase com uma respiração; broncodilatadores sem efeito; queda recente do FEV1; frequência respiratória de 25 por minuto ou mais; frequência cardíaca de 110 batimentos por minuto ou mais; diaforese; uso da musculatura acessória; pulso paradoxal. Monitore a pressão durante as crises, para observar o desenvolvimento de estado de mal asmático.\n\n**Conduta.**\n1. **Broncodilatador de ação rápida**, ao primeiro sinal: o inalador de β2-agonista de ação curta (o livro cita Ventolin e Proventil) é o mais efetivo e rápido. Corticosteroides e o β2-agonista de ação longa (salmeterol) não agem rápido, e a Tabela 7.1 não os indica para a crise aguda.\n2. **Oxigênio.**\n3. Se necessário, **epinefrina subcutânea 1:1.000, 0,3 a 0,5 mL**. Na crise grave, o livro a descreve, junto com a epinefrina inalada, como o método mais potente e rápido.\n4. **Acionar o serviço de emergência.**\n5. **Repetir o broncodilatador de ação rápida a cada 20 minutos** até a equipe chegar.\n\n**Saturação.** Monitore os sinais vitais, inclusive a saturação. O livro traz dois limites que não concilia: o texto da p. 115 diz que a saturação deve chegar a 90% ou mais, se possível; o texto da p. 114 diz que 91% ou menos indica troca gasosa ruim e necessidade de intervenção.\n\n**Estado de mal asmático.** Para o livro, é a crise particularmente grave e prolongada (mais de 24 horas), refratária à terapia usual. Sinais: dispneia progressiva, cianose e pulso paradoxal (queda da pressão sistólica na inspiração). Pode levar a exaustão, desidratação grave, colapso vascular e morte.\n\nO Malamed e o Andrade e Ranali trazem o volume de epinefrina deles, cada um na sua seção. O Malamed traz outros limites de frequência respiratória e cardíaca para a crise grave, outro fluxo de oxigênio para a crise e outro momento para acionar o serviço de emergência, e o Andrade e Ranali traz o fluxo de oxigênio dele; estão nas seções próprias e o tema não escolhe entre os livros."
+    },
+    {
+      "id": "ar-definicao",
+      "titulo": "Andrade e Ranali: definição, gravidade e gatilhos",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Significado e risco clínico, Ocorrência, p. 82–83",
+      "texto": "Esta seção e as duas seguintes seguem o **Andrade e Ranali** (3ª ed., livro brasileiro), em seção própria: os números dele são dele.\n\n**Definição.** Asma brônquica é uma \"doença pulmonar obstrutiva\", com aumento da reatividade da traqueia e dos brônquios a vários estímulos, que estreita as vias aéreas. O livro também a chama de doença inflamatória crônica, de obstrução reversível. A gravidade muda sozinha ou com o tratamento.\n\n**Duas categorias, pela causa:**\n- **Intrínseca:** mais comum em adultos; asma não alérgica ou idiopática. A infecção viral é o principal fator.\n- **Extrínseca:** mais em crianças e jovens; fundo alérgico, hipersensibilidade tipo I, componente genético. Corresponde à metade dos casos (o Little e Falace e o Varellis, em seção própria, trazem outros números para a forma extrínseca), a maioria surge antes dos 10 anos, e é tida como a principal doença crônica da infância.\n\n**Gravidade.** O livro cita as **IV Diretrizes Brasileiras para o manejo da asma** (referência com ano de 2006): intermitente (sintomas raros), leve (sintomas semanais), persistente moderada (sintomas diários) e grave (sintomas diários ou contínuos).\n\n**A crise aguda** vem de espasmo da musculatura lisa brônquica, edema e inflamação das paredes e mais muco aderente. Em geral é autolimitada; quando os episódios ficam constantes e refratários aos fármacos, exige pronto atendimento pelo risco de morte. Pode começar gradual ou de repente: tosse, dificuldade respiratória, uso da musculatura acessória, aumento das frequências respiratória (mais de 40 por minuto na asma severa) e cardíaca (mais de 120 batimentos por minuto na asma severa), sudorese, agitação, sonolência ou confusão e cianose. Sem tratamento, dura de minutos a horas.\n\n**Gatilhos (p. 83):** ar frio; estresse emocional; exercício (a crise surge de 5 a 10 minutos depois de começar); poluentes e irritantes (poeira, fungos, pólen, fumaça de cigarro); refluxo gastroesofágico; ácido acetilsalicílico (cerca de 3% a 19% dos asmáticos são sensíveis), anti-inflamatórios não esteroides e vacinas; sulfitos, presentes em soluções anestésicas com vasoconstritor adrenérgico e em produtos como o paracetamol em gotas; alimentos (leite, ovos, chocolate, peixe); infecções virais; agentes como colinérgicos e antagonistas beta-adrenérgicos.\n\nO livro lembra que a maioria das mortes ocorre fora do hospital, e que os primeiros sintomas aparecem, em média, dois a três dias antes do óbito, sem que paciente ou médico reconheçam a gravidade."
+    },
+    {
+      "id": "ar-prevencao",
+      "titulo": "Andrade e Ranali: anamnese e prevenção",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Identificando e Prevenindo, p. 83–84",
+      "texto": "Ainda pelo **Andrade e Ranali**. Ao dentista cabe, pela anamnese, **identificar o asmático**, saber como está o controle (em contato com o médico) e tomar medidas preventivas.\n\n**Perguntas para o prontuário:** qual o tipo de asma; que medicamentos usa e com que frequência (o livro lista broncodilatadores adrenérgicos em aerossol, como salbutamol, fenoterol e terbutalina; metilxantinas, como aminofilina e teofilina; e corticosteroides). Depois: a medicação alivia? Há falta de ar ou chiado repetidos? Tosse persistente, sobretudo à noite ou ao acordar? Tosse, chiado ou aperto no peito após atividade física? Após contato com alérgenos (mofo, poeira de casa, animais), irritantes (fumaça de cigarro, solventes, tintas, perfumes), resfriados ou emoções como riso e choro? Há asma ou alergia na família? Já teve crise, o que a precipitou, como foi tratada, houve hospitalização?\n\n**Prevenção, seis itens do livro:**\n1. Manter relação de confiança e condicionamento psicológico; considerar **sedação mínima** em pacientes muito ansiosos ou em intervenções mais invasivas.\n2. Fazer **anestesia local perfeita**, sem desconforto.\n3. Orientar o paciente a trazer a \"bombinha\" (broncodilatador em aerossol) em **toda** consulta.\n4. Evitar prescrever **ácido acetilsalicílico e anti-inflamatórios não esteroides**, por relatos de crise. O livro dá como alternativas corticosteroides, paracetamol ou dipirona; o paracetamol em gotas contém bissulfito de sódio, a evitar em quem tem alergia a sulfitos.\n5. No asmático em uso de **corticoide** e com **história de alergia a sulfitos**, não usar anestésico com vasoconstritor adrenérgico (epinefrina, norepinefrina, corbadrina, fenilefrina); preferir **felipressina**. O Malamed, o Little e Falace e o Varellis, em seção própria, dão outra conduta para o anestésico (anestésico sem vasoconstritor, anestésico sem epinefrina nem levonordefrina na doença moderada a grave, e vasoconstritor não hormonal); o tema não escolhe.\n6. Manter no equipamento de emergência um broncodilatador em aerossol (o mais usado hoje é o salbutamol) e o aparelho portátil de oxigênio.\n\n**Limite.** O livro separa a crise moderada da severa. Os episódios graves (dispneia intensa, cianose da mucosa labial e dos leitos ungueais, sudorese, face e pescoço vermelhos, uso da musculatura acessória, fadiga e confusão mental) pedem protocolo mais complexo, em ambiente hospitalar e sob responsabilidade médica."
+    },
+    {
+      "id": "ar-crise",
+      "titulo": "Andrade e Ranali: protocolo da crise e epinefrina",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, Figuras 7.2 e 7.3, p. 85–86",
+      "texto": "Ainda pelo **Andrade e Ranali**. Na crise aguda no consultório, o dentista está limitado a este roteiro de seis passos:\n\n1. **Interromper** o tratamento e retirar o material da boca.\n2. **Tranquilizar** (\"Tenha calma, eu vou ajudá-lo\").\n3. **Sentar** o paciente contra o encosto de uma cadeira comum, com os braços lançados para a frente. Outras posições servem se forem mais confortáveis.\n4. Pedir que o paciente **se autoadministre** o broncodilatador em aerossol, porque ele tem mais prática. Se não for possível, soprar **cinco aplicações** do medicamento dentro de um **saco de papel**, adaptá-lo à boca e ao nariz e pedir que inspire.\n5. **Oxigênio** por máscara facial ou cânula nasal, com fluxo de **5 a 7 litros por minuto**.\n6. Se não houver regressão, o broncoespasmo é tal que o broncodilatador em aerossol não chega aos alvéolos. Administrar **0,5 mL de solução de epinefrina 1:1.000** (ampola de 1 mL) por **via intramuscular**, que age como potente broncodilatador e controla o broncoespasmo alguns minutos depois.\n\n**Segundo o Andrade e Ranali, o volume intramuscular é 0,5 mL.** A legenda da Figura 7.3 diz epinefrina 1:1.000 por via intramuscular (0,5 mL) ou subcutânea (0,3 mL), e a observação da p. 86 diz que a via subcutânea usa um terço da ampola de 1 mL (0,3 mL). O Malamed e o Little e Falace, nas seções próprias deles, trazem os volumes deles.\n\n**Contraindicação da epinefrina (p. 86):** pressão arterial elevada, diabetes, hipertireoidismo e doença cardíaca isquêmica.\n\nO roteiro de seis passos não menciona acionar o serviço de emergência. O livro diz que os episódios graves exigem protocolo hospitalar, sob responsabilidade médica."
+    },
+    {
+      "id": "varellis-asma",
+      "titulo": "Varellis: asma, estágios e tratamento médico",
+      "fonte": "varellis3-cap30",
+      "onde": "cap. 30, Alterações Respiratórias, Introdução, Asma, Manifestações clínicas, Tratamento médico, Tabelas 30.1 e 30.2, p. 255–256",
+      "texto": "Esta seção e as duas seguintes seguem o **Varellis**, um **manual prático organizado por Maria Lucia Zarvos Varellis** (3ª ed., Guanabara Koogan, 2017), em seção própria. É um manual de organizadora, e não o livro clássico de emergências; por isso as seções do Malamed e do Andrade e Ranali vêm antes.\n\n**Escopo do capítulo.** O livro diz que a poluição e o fumo são os principais agentes da DPOC (doença pulmonar obstrutiva crônica) e das neoplasias, e que as duas moléstias respiratórias mais comuns são a asma e a DPOC. Sobre a DPOC, o capítulo não traz mais do que isso e trata especialmente da asma. A definição, os estágios e o manejo da DPOC estão nas seções do Little e Falace.\n\n**Definição.** Distúrbio com aumento da reatividade da traqueia e dos brônquios a vários estímulos, com constrição difusa das vias aéreas, reversível sozinha ou com tratamento. Três sintomas básicos para o diagnóstico: **sibilo, tosse e dispneia**. Duas formas: **extrínseca** (início na infância, varia com a estação e a história alérgica; o livro diz que são menos de 10% dos pacientes) e **intrínseca** (termo mais amplo, grupo heterogêneo, sem antígeno detectável). O Malamed e o Andrade e Ranali, nas seções acima, e o Little e Falace, em seção própria, trazem outro número para a forma extrínseca; o tema não escolhe.\n\n**Estágios.** O livro cita o consenso internacional da Global Initiative for Asthma, sem informar o ano, e divide a asma em quatro estágios (Tabela 30.1):\n\n| Estágio | Sintomas | Noturnos | Pico máximo (previsto) |\n|---|---|---|---|\n| 1, leve intermitente | menos de 1 por semana | 2 vezes por mês | acima de 80%, variabilidade abaixo de 20% |\n| 2, leve persistente | mais de 1 por semana | mais de 2 vezes por mês | acima de 80%, variabilidade de 20 a 30% |\n| 3, moderado | uso de betamiméticos e alteração das atividades diárias | mais de 1 vez por semana | 60 a 80%, variabilidade acima de 30% |\n| 4, grave | limitação física contínua | frequentes | abaixo de 60%, variabilidade acima de 30% |\n\nO Little e Falace, na seção \"Asma pelo Little e Falace: classificação e estabilidade\", usa outra classificação; o tema não escolhe.\n\n**A crise** começa com tosse seca, sibilos, depois aperto no peito e dispneia, em geral à noite e durante o sono.\n\n**Tratamento médico.** Tem o episódio agudo e a terapia de manutenção, fundamentalmente com medicamentos (Tabela 30.2). Os **corticosteroides inalados** são a terapia de primeira linha. Efeitos adversos citados: **candidíase na orofaringe**, disfonia, tosse irritativa, atraso do crescimento, osteoporose, hiperglicemia e adelgaçamento da pele; são menos frequentes em doses baixas. Sobre a epinefrina, a tabela diz que age direto nos receptores beta-adrenérgicos e que seu uso é limitado pelas ações sobre o músculo cardíaco."
+    },
+    {
+      "id": "varellis-atendimento",
+      "titulo": "Varellis: atendimento odontológico e crise",
+      "fonte": "varellis3-cap30",
+      "onde": "cap. 30, Alterações Respiratórias, Tratamento odontológico, Exame físico, Plano de tratamento e Considerações finais, p. 256–259",
+      "texto": "Ainda pelo **Varellis** (manual de organizadora).\n\n**Anamnese.** Idade dos primeiros sintomas, frequência e intensidade das crises, necessidade de hospitalização, médico que acompanha, estímulos que desencadeiam e medicamentos usados (broncodilatadores e corticosteroides, com dose e tempo de uso).\n\n**Exame físico.** Estado respiratório (falta de ar, sibilos, tosse), pulso e ausculta cardíaca e pulmonar.\n\n**Plano de tratamento.** O paciente assintomático pode receber qualquer tratamento sem maiores dificuldades. Os cuidados do livro:\n- **Reduzir o estresse:** o ato operatório pode desencadear crise; vale criar vínculo; ansiolíticos ou sedativos, só em último caso.\n- **Anestésico local** com vasoconstritor **não hormonal** (o livro cita o Citanest como exemplo). O Malamed, o Little e Falace e o Andrade e Ranali, em seção própria, trazem outra conduta para o paciente sensível a sulfitos.\n- **Analgésico:** evitar os à base de ácido acetilsalicílico, que têm grande potencial alergênico e podem exacerbar as crises.\n- **Antibiótico:** eritromicina e clindamicina, usadas ao mesmo tempo que **metilxantinas** (broncodilatador), podem aumentar a toxicidade da metilxantina. O livro as contraindica nessa associação. O Little e Falace, nas seções dele (DPOC e asma), cita outros antibióticos para quem usa teofilina; o tema não escolhe.\n\n**Crise asmática (Considerações finais).** Ocorre por estreitamento dos brônquios, por contração da musculatura, desencadeada por irritação dos pulmões. Manifesta-se com ansiedade, cianose, falta de ar (dificuldade para expirar) e respiração com sibilos. Como proceder: paciente **sentado, ligeiramente reclinado**; administrar **oxigênio**; administrar **broncodilatador**. O livro não dá doses nem vias para a crise.\n\n**Não confunda com alergia a medicamento** (mesmo capítulo): coceira, urticária, inchaço de lábios e pálpebras pedem suspender o medicamento, anti-histamínico e, conforme o quadro, epinefrina. O choque anafilático pede posição deitada de costas (decúbito dorsal), vias aéreas livres e oxigênio. São condutas de outras emergências, e não da crise de asma."
+    },
+    {
+      "id": "lf-dpoc-definicao",
+      "titulo": "DPOC: definição, bronquite crônica e enfisema",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, abertura, Etiology, Clinical Presentation e Box 7.1, p. 101–102",
+      "texto": "Esta seção e as quatro seguintes seguem o **Little e Falace** (9ª ed., cap. 7, livro de autores dos EUA), em seção própria: os números e as condutas são dele.\n\n**O que é.** DPOC é o termo geral para os distúrbios com limitação crônica do fluxo de ar que não é totalmente reversível. O livro reúne sob ele duas doenças:\n- **Bronquite crônica:** inflamação crônica dos brônquios, com excesso de muco e tosse com expectoração por pelo menos 3 meses em pelo menos 2 anos seguidos, depois de excluídas outras causas de tosse produtiva crônica.\n- **Enfisema:** aumento permanente dos espaços aéreos depois dos bronquíolos terminais, com destruição das paredes dos alvéolos sem fibrose evidente.\n\nAs duas se relacionam, muitas vezes uma é a progressão da outra e os sintomas se sobrepõem; por isso o livro diz que os especialistas recomendam o nome DPOC no lugar dos tradicionais.\n\n**Causa e quadro.** O tabagismo é a causa mais importante e responde por 85% a 90% das mortes por DPOC; só cerca de 1 em 5 fumantes crônicos desenvolve a doença. O início leva anos, em geral depois dos 40, e muitos pacientes não percebem: tosse crônica com ou sem expectoração e dispneia persistente, progressiva ou que piora ao esforço; depois, perda de peso e menor capacidade de exercício. Hipertensão, doença isquêmica do coração, risco de arritmia, insuficiência cardíaca e osteoporose coexistem com frequência.\n\n**Bronquite × enfisema (Box 7.1).**\n\n| Característica | Bronquite crônica | Enfisema |\n|---|---|---|\n| Início | cerca de 50 anos | cerca de 60 anos |\n| Biotipo | sobrepeso | magro, tórax em barril |\n| Tosse e expectoração | tosse produtiva crônica, expectoração mucopurulenta copiosa | tosse rara, expectoração escassa |\n| Dispneia | leve | grave |\n| Infecções respiratórias | frequentes | poucas |\n| Gases no sangue | PCO2 elevada, PO2 reduzida | PCO2 normal, PO2 reduzida |\n| Outros | cor pulmonale (insuficiência cardíaca direita) | sem item próprio |\n\nO livro diz que hoje se reconhece que a maioria dos pacientes tem características das duas doenças."
+    },
+    {
+      "id": "lf-dpoc-estadios",
+      "titulo": "DPOC: estágios e a divergência dentro do livro",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Laboratory and Diagnostic Findings, Box 7.2, Medical Management e Fig. 7.5, p. 103–105",
+      "texto": "Ainda pelo **Little e Falace**. O diagnóstico usa a espirometria: a capacidade vital forçada (FVC) e o volume expiratório forçado em 1 segundo (FEV1) medem quanto ar o paciente consegue expirar. O Box 7.2 (p. 104) divide a DPOC em quatro estágios:\n\n| Estágio | Nome no livro | FEV1/FVC | FEV1 (% do previsto) |\n|---|---|---|---|\n| I | leve | <70% | ≥80% |\n| II | moderada | <70% | 50% a <80% |\n| III | grave | <70% | 30% a <50% |\n| IV | muito grave | <70% | <30%, com insuficiência respiratória crônica |\n\n**O livro não é uniforme.** O critério aparece de três jeitos, e o tema mostra os três sem escolher:\n\n| Onde | Critério para DPOC | Estágio IV |\n|---|---|---|\n| Texto, p. 103 | sintomas pulmonares e FEV1 abaixo de 70% do previsto | remete ao Box 7.2 |\n| Box 7.2, p. 104 | razão FEV1/FVC abaixo de 70% | FEV1 abaixo de 30%; a insuficiência respiratória crônica é uma das características |\n| Fig. 7.5, p. 105 | razão FEV1/FVC abaixo de 0,7 | FEV1 de 30% ou menos, ou abaixo de 50% mais insuficiência respiratória crônica |\n\n**Sobre a GOLD.** O texto do Box 7.2 não cita a GOLD. A legenda da Fig. 7.5 diz que o algoritmo foi redesenhado do Pocket Guide da GOLD (Global Initiative for Chronic Obstructive Lung Disease, iniciativa internacional), edição de 2010. A lista de referências do capítulo cita também a GOLD de 2016. Aqui a GOLD entra só como o livro a cita.\n\n**Tratamento médico (Fig. 7.5).** Vacina de influenza e broncodilatadores inalados em degraus; do estágio III em diante, glicocorticoide inalado se houver exacerbações repetidas; no IV, oxigênio de longo prazo se houver insuficiência respiratória crônica. Parar de fumar é, para o livro, a intervenção mais efetiva."
+    },
+    {
+      "id": "lf-dpoc-avaliacao",
+      "titulo": "DPOC no consultório: pode atender hoje?",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Dental Management (Identification, Risk Assessment, Airway and Breathing, Capacity to Tolerate Care) e Box 7.3, p. 105–108",
+      "texto": "Ainda pelo **Little e Falace**. A maioria dos pacientes com DPOC tem história de tabagismo e pode chegar com tosse, dispneia ao esforço ou mudança da cor da pele. Reconhecer isso deve levar o dentista a **encaminhar ao médico**. Pelo Box 7.3, peça consulta médica se a DPOC é mal controlada (dispneia, tosse ou infecções frequentes das vias aéreas superiores), não diagnosticada ou de diagnóstico incerto, e reveja a história por doença cardíaca concomitante.\n\n**Estável ou instável.** Antes de tratar, avalie a gravidade e o grau de controle. O livro chama de **instável** o paciente com falta de ar em repouso, tosse produtiva, infecção das vias aéreas superiores (IVAS) ou **saturação de O2 abaixo de 91%** na oximetria de pulso. Com saturação abaixo de 91%, dispneia ou IVAS, o livro manda remarcar e encaminhar ao médico. O tratamento também é evitado quando há IVAS (seguimento do Box 7.3).\n\n**Estável.** Com saturação acima de 95% e sem dispneia, evite tudo o que possa deprimir ainda mais a respiração. A oximetria de pulso é recomendada. O oxigênio umidificado de baixo fluxo, em geral 2 a 3 L/min, pode ser dado e deve ser considerado quando a saturação cair abaixo de 95%; o Box 7.3 diz que pode ser necessário abaixo de 91%. O livro não nomeia a faixa de 91% a 95% como categoria própria.\n\n**Quem tolera o atendimento.** Podem ser tratados os estágios **I a III**; o estágio **IV (muito grave) deve ser evitado**.\n\n**Coração.** Quem tem DPOC costuma ter também hipertensão e doença coronariana, vida mais curta e risco maior de insuficiência cardíaca, arritmia e infarto. Meça a pressão; com doença cardiovascular associada, reduza o estresse e monitore os sinais vitais.\n\n**Parar de fumar.** O dentista influencia a progressão ao estimular o paciente a parar de fumar: o livro cita reposição de nicotina e bupropiona e manda ajudá-lo a adotar a abordagem com que se sentir mais confortável."
+    },
+    {
+      "id": "lf-dpoc-conduta",
+      "titulo": "DPOC: posição, anestesia, sedação e medicamentos",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Dental Management (Chair Position, Drug Considerations), Tabela 7.1 e Box 7.3, p. 106–108",
+      "texto": "Ainda pelo **Little e Falace**. Lembrete da seção anterior: os estágios I a III podem ser tratados e o IV deve ser evitado.\n\n**Posição.** Na doença moderada a grave, semissupino (parcialmente reclinado) ou sentado, não em supino: a posição mais ereta evita a ortopneia (falta de ar ao deitar) e a sensação de desconforto respiratório.\n\n**Anestesia.** O livro não identifica contraindicação ao anestésico local, e a técnica não muda. Os bloqueios mandibulares ou palatinos **bilaterais** podem dar a sensação desagradável de via aérea apertada, o que pesa mais na DPOC grave com **dique de borracha** ou com medicamentos que secam secreções; o Box 7.3 manda evitar o dique de borracha na doença grave. O oxigênio umidificado de baixo fluxo alivia a sensação. A anestesia geral ambulatorial é contraindicada para a maioria dos pacientes com DPOC.\n\n**Sedação.** Se necessária, diazepam oral em dose baixa ou outro benzodiazepínico (que pode secar a boca). O **óxido nitroso com oxigênio** pede cautela na bronquite crônica leve a moderada e **não deve ser usado nos estágios III ou IV**, porque se acumula nos espaços aéreos do pulmão doente. Se usado em bronquite crônica, no máximo 3 L/min, com indução e recuperação cerca de duas vezes mais longas que no paciente saudável. Monitore a saturação com o oxímetro durante a sedação e os procedimentos invasivos.\n\n**Evitar:** narcóticos e barbitúricos (deprimem a respiração); anticolinérgicos e anti-histamínicos (secam e deixam o muco mais viscoso; o texto pede cautela e o Box 7.3 manda evitar).\n\n**Antibiótico e analgésico.** Analgésicos não dão problema. Em quem toma **teofilina**, evite macrolídeos (eritromicina, azitromicina) e ciprofloxacino: eles reduzem o metabolismo da teofilina e levam à toxicidade (anorexia, náusea, nervosismo, insônia, agitação, sede, vômito, cefaleia, arritmias, convulsões). Quem já fez vários cursos de antibiótico para infecção de vias aéreas pode ter flora bucal e pulmonar com bactérias resistentes. O Varellis (manual), na seção \"Varellis: atendimento odontológico e crise\", cita outros antibióticos para quem usa metilxantina; os livros não coincidem e o tema não escolhe.\n\n**Corticosteroide sistêmico.** Pode exigir suplementação em cirurgia maior, por supressão adrenal; em atendimento de rotina é improvável, e a dose matinal habitual deve ser tomada no dia do procedimento cirúrgico."
+    },
+    {
+      "id": "lf-dpoc-boca",
+      "titulo": "DPOC: boca, higiene e seguimento",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Oral Complications and Manifestations e Box 7.3 (Follow-up), p. 108",
+      "texto": "Ainda pelo **Little e Falace**.\n\n**Na boca.** Nos fumantes crônicos, o livro aponta maior chance de halitose, manchas extrínsecas nos dentes, estomatite nicotínica, doença periodontal, lesões premalignas da mucosa e câncer bucal. Os anticolinérgicos usados na DPOC associam-se a boca seca.\n\n**Higiene bucal e pneumonia aspirativa.** O livro diz que má higiene bucal, bactérias bucais e periodontite podem contribuir para exacerbações respiratórias agudas e para pneumonia aspirativa em idosos frágeis com DPOC. É uma frase do capítulo: ele não detalha o mecanismo nem traz conduta específica para isso.\n\n**A cada retorno (Box 7.3, seguimento).** Estimule o paciente a parar de fumar, examine a boca atrás de lesões ligadas ao fumo e evite tratar se houver infecção das vias aéreas superiores."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como o Malamed define asma?",
+      "verso": "\"Desordem inflamatória crônica caracterizada por obstrução reversível das vias aéreas.\" Entre as crises o paciente típico fica sem sintomas.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, abertura, p. 213"
+    },
+    {
+      "id": "f02",
+      "frente": "Pelo Malamed, qual é a tríade clássica da crise aguda e o que significa o sibilo que some?",
+      "verso": "Tosse, dispneia e sibilos. Com obstrução muito grande o sibilo desaparece, porque quase não passa ar: não é sinal de melhora.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Manifestações clínicas, p. 217–221"
+    },
+    {
+      "id": "f04",
+      "frente": "Segundo o Malamed, quais pacientes asmáticos são ASA 3?",
+      "verso": "Os com asma induzida por exercício ou por medo, ou que já precisaram de emergência ou internação. Além da redução do estresse, entra sedação com óxido nitroso e oxigênio, se necessário.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Tabela 13-4, p. 217–219"
+    },
+    {
+      "id": "f05",
+      "frente": "Quais sedativos o Malamed considera relativamente contraindicados no asmático?",
+      "verso": "Barbitúricos e opioides (principalmente meperidina). Os opioides liberam histamina e podem induzir broncospasmo.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, p. 217–219"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo o Malamed, que fração dos asmáticos é sensível à aspirina?",
+      "verso": "De 3% a 19%, com reação cruzada com outros anti-inflamatórios não esteroides.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, p. 217–219"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Malamed, qual fluxo de oxigênio por cânula nasal é adequado na crise de asma?",
+      "verso": "De 5 a 7 litros por minuto.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Tratamento, etapa 6a, p. 225"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Malamed, quando o dentista aciona o serviço médico de emergência na asma?",
+      "verso": "Quando os aerossóis falham em controlar o broncospasmo (o livro fala em três doses sem resolver a crise). O resumo do capítulo diz que, se a crise é leve ou cede fácil ao aerossol, não é preciso.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6b e 6c, e Resumo, p. 226–228"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Malamed, qual a dose usual de adrenalina 1:1.000 no adulto com broncospasmo grave, e por quais vias?",
+      "verso": "0,3 mL, por via subcutânea ou intramuscular. Pode repetir a cada 30 a 60 minutos. A 1:1.000 nunca vai por via intravenosa.",
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227"
+    },
+    {
+      "id": "f10",
+      "frente": "Segundo o Andrade e Ranali, qual é o volume de epinefrina 1:1.000 por via intramuscular na crise de asma?",
+      "verso": "0,5 mL (ampola de 1 mL), quando não há regressão com o broncodilatador em aerossol.",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+    },
+    {
+      "id": "f11",
+      "frente": "Segundo o Andrade e Ranali, o que fazer se o paciente em crise não consegue usar a bombinha sozinho?",
+      "verso": "Soprar cinco aplicações do medicamento dentro de um saco de papel, adaptar à boca e ao nariz e pedir que inspire.",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo o Andrade e Ranali, qual anestésico é preferido no asmático em uso de corticoide e com alergia a sulfitos?",
+      "verso": "O que tem felipressina, sem vasoconstritor adrenérgico (epinefrina, norepinefrina, corbadrina, fenilefrina).",
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Varellis, que antibióticos não se associam a metilxantinas no asmático?",
+      "verso": "Eritromicina e clindamicina: podem aumentar a toxicidade da metilxantina (broncodilatador).",
+      "fonte": "varellis3-cap30",
+      "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o Little e Falace, como se define bronquite crônica?",
+      "verso": "Inflamação crônica dos brônquios com tosse e expectoração por pelo menos 3 meses em pelo menos 2 anos consecutivos, depois de excluídas outras causas de tosse produtiva crônica.",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, definição, p. 101"
+    },
+    {
+      "id": "f17",
+      "frente": "Segundo o Little e Falace (Box 7.2), quais são os estágios da DPOC e os cortes de FEV1?",
+      "verso": "I leve: FEV1 de 80% ou mais do previsto. II moderada: 50% a menos de 80%. III grave: 30% a menos de 50%. IV muito grave: menos de 30%, com insuficiência respiratória crônica. A razão FEV1/FVC é menor que 70% em todos.",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Box 7.2, p. 104"
+    },
+    {
+      "id": "f18",
+      "frente": "Segundo o Little e Falace, que sinais tornam o paciente com DPOC instável e quais estágios podem ser tratados?",
+      "verso": "Instável: falta de ar em repouso, tosse produtiva, IVAS ou saturação de O2 abaixo de 91%; com saturação abaixo de 91%, dispneia ou IVAS, remarcar e encaminhar ao médico. Podem ser tratados os estágios I a III; o IV (muito grave) é evitado.",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, manejo odontológico, avaliação de risco e capacidade de tolerar o atendimento, p. 105"
+    },
+    {
+      "id": "f19",
+      "frente": "Segundo o Little e Falace, qual a epinefrina indicada, se necessária, na crise grave de asma?",
+      "verso": "Epinefrina subcutânea 1:1.000, 0,3 a 0,5 mL, junto de broncodilatador de ação rápida, oxigênio e acionamento do serviço de emergência; o broncodilatador se repete a cada 20 minutos até a equipe chegar.",
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Asthma, Box 7.5 (emergências), p. 114"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 26 anos, asmática, que trouxe a bombinha, começa a tossir e a ter sibilos e aperto no peito durante uma restauração. Segundo o Malamed, quais são os primeiros passos do dentista?",
+      "alternativas": [
+        {
+          "texto": "Terminar a restauração com rapidez e dar o broncodilatador ao final.",
+          "correta": false,
+          "justificativa": "O livro manda interromper o tratamento odontológico imediatamente ao sinal de crise.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Tratamento: crise aguda de asma, etapas 1 a 6, Quadro 13-5, p. 224–225"
+        },
+        {
+          "texto": "Deitar a paciente em posição supina e aplicar adrenalina 1:1.000.",
+          "correta": false,
+          "justificativa": "O livro indica posição confortável, em geral sentada na vertical, com os braços lançados para a frente; a adrenalina parenteral fica para o broncospasmo grave que o aerossol não controla, e esta paciente tem o broncodilatador por perto.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Tratamento: crise aguda de asma, etapas 1 a 6, Quadro 13-5, p. 224–225"
+        },
+        {
+          "texto": "Interromper o tratamento, sentar a paciente de forma confortável, retirar o material da boca e tranquilizá-la.",
+          "correta": true,
+          "justificativa": "É a sequência das etapas 1 a 4 do livro, seguida de oxigênio e do broncodilatador inalatório.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Tratamento: crise aguda de asma, etapas 1 a 6, Quadro 13-5, p. 224–225"
+        },
+        {
+          "texto": "Retirar o material da boca e aguardar 15 minutos sem intervir, porque a crise é autolimitada.",
+          "correta": false,
+          "justificativa": "Mesmo que muitos episódios se resolvam sozinhos, o livro manda, a cada crise, interromper o tratamento, dar oxigênio e o broncodilatador inalatório (etapas 1 a 6); sem tratamento a crise pode durar de minutos a horas.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Tratamento, etapas 1 a 6, p. 224–225, e Manifestações clínicas, p. 221"
+        }
+      ],
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Tratamento: crise aguda de asma, etapas 1 a 6, Quadro 13-5, p. 224–225",
+      "secao": "malamed-crise",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 40 anos, asmático, em crise no consultório: recebeu oxigênio e três doses do broncodilatador em aerossol e continua com sibilos, cianose e sonolência. Segundo o Malamed, qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Repetir o aerossol sem outra medida, até a crise ceder.",
+          "correta": false,
+          "justificativa": "Com três doses de aerossol sem resolver, o livro manda considerar passos adicionais e solicitar assistência médica de emergência.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6b a 6f, p. 226–227"
+        },
+        {
+          "texto": "Solicitar assistência médica de emergência, manter o oxigênio e considerar adrenalina parenteral.",
+          "correta": true,
+          "justificativa": "O livro manda a equipe solicitar o serviço médico de emergência quando os aerossóis falham, e prevê a adrenalina parenteral na crise refratária; o oxigênio pode ser dado a qualquer momento.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6b a 6f, p. 226–227"
+        },
+        {
+          "texto": "Administrar midazolam intravenoso para reduzir a ansiedade e facilitar a respiração.",
+          "correta": false,
+          "justificativa": "O livro considera os depressores respiratórios e do sistema nervoso absolutamente contraindicados no estado asmático ou na asma grave com indício de retenção de dióxido de carbono; a sonolência é um dos sinais de hipercapnia.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6b a 6f, p. 226–227"
+        },
+        {
+          "texto": "Liberar o paciente acompanhado para casa, sem acionar o serviço de emergência.",
+          "correta": false,
+          "justificativa": "Com os aerossóis falhando, o livro manda ativar o serviço médico de emergência; hospitalizar ou liberar depende da recomendação dele, e após broncospasmo grave que exigiu medicamento parenteral a hospitalização é frequente.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Quadro 13-5, p. 225, e Broncospasmo grave, etapas 6c e 7, p. 226–227"
+        }
+      ],
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Broncospasmo grave, etapas 6b a 6f, p. 226–227",
+      "secao": "malamed-crise-grave",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo o Malamed, qual é a dose usual de adrenalina na concentração 1:1.000, por via subcutânea ou intramuscular, para o adulto com broncospasmo grave que não cede ao aerossol?",
+      "alternativas": [
+        {
+          "texto": "0,3 mL.",
+          "correta": true,
+          "justificativa": "É a dose usual do adulto no livro, repetível a cada 30 a 60 minutos se preciso; a seringa autoinjetável do kit básico já traz esse volume.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227"
+        },
+        {
+          "texto": "0,03 mL.",
+          "correta": false,
+          "justificativa": "O livro traz 0,3 mL, dez vezes mais.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227"
+        },
+        {
+          "texto": "1 mL.",
+          "correta": false,
+          "justificativa": "O livro traz 0,3 mL para o adulto, volume bem menor.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227"
+        },
+        {
+          "texto": "2 mL.",
+          "correta": false,
+          "justificativa": "O livro traz 0,3 mL por dose, repetível a cada 30 a 60 minutos se preciso.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227"
+        }
+      ],
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Broncospasmo grave, etapa 6d, p. 226–227",
+      "secao": "malamed-crise-grave",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 30 anos, asma induzida por exercício, já precisou de atendimento de emergência por crise. Está ansioso para uma exodontia. Segundo o Malamed, qual a classificação ASA e a conduta quanto à sedação?",
+      "alternativas": [
+        {
+          "texto": "ASA 2, só redução do estresse, sem sedação.",
+          "correta": false,
+          "justificativa": "O livro coloca a asma induzida por exercício e a que já exigiu emergência no ASA 3, com sedação por óxido nitroso e oxigênio conforme a necessidade.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Tabela 13-4, p. 217–219"
+        },
+        {
+          "texto": "ASA 3, com óxido nitroso e oxigênio conforme a necessidade, além da redução do estresse.",
+          "correta": true,
+          "justificativa": "É a modificação do livro para o ASA 3 (Tabela 13-4), e o óxido nitroso não provoca broncospasmo.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Tabela 13-4, p. 217–219"
+        },
+        {
+          "texto": "ASA 3, com meperidina por via intravenosa.",
+          "correta": false,
+          "justificativa": "O livro considera os opioides, principalmente a meperidina, relativamente contraindicados, porque liberam histamina e podem induzir broncospasmo.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, p. 217–219"
+        },
+        {
+          "texto": "ASA 4, porque a asma foi induzida por exercício.",
+          "correta": false,
+          "justificativa": "O livro reserva o ASA 4 aos poucos pacientes com sinais e sintomas em repouso.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, p. 217–219"
+        }
+      ],
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Tabela 13-4, p. 217–219",
+      "secao": "malamed-conduta-previa",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Asmática sensível a bissulfito precisa de anestesia local para uma restauração. Segundo o Malamed, qual a escolha adequada?",
+      "alternativas": [
+        {
+          "texto": "Lidocaína com epinefrina, porque o volume do tubete é pequeno.",
+          "correta": false,
+          "justificativa": "O livro diz que o volume é pequeno, mas o paciente sensível a bissulfito pode ter ataque de asma; os tubetes com adrenalina contêm bissulfitos.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Sulfitos, p. 217–219"
+        },
+        {
+          "texto": "Anestésico com levonordefrina, porque ela não contém bissulfito.",
+          "correta": false,
+          "justificativa": "O livro cita adrenalina e levonordefrina entre os vasoconstritores cujos tubetes contêm bissulfitos.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Sulfitos, p. 217–219"
+        },
+        {
+          "texto": "Qualquer anestésico com vasoconstritor, com o broncodilatador por perto.",
+          "correta": false,
+          "justificativa": "Para o livro, nesse grupo o uso de anestésico com bissulfitos é absolutamente contraindicado; ter o broncodilatador à mão não muda isso.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Sulfitos, p. 217–219"
+        },
+        {
+          "texto": "Mepivacaína sem vasoconstritor.",
+          "correta": true,
+          "justificativa": "O livro aponta o anestésico sem vasoconstritor, como mepivacaína pura ou prilocaína pura, como substituto.",
+          "fonte": "malamed7-cap13",
+          "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Sulfitos, p. 217–219"
+        }
+      ],
+      "fonte": "malamed7-cap13",
+      "onde": "cap. 13, Asma, Considerações para o atendimento odontológico, Sulfitos, p. 217–219",
+      "secao": "malamed-conduta-previa",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Segundo o Andrade e Ranali, qual anestésico é indicado ao asmático em uso de corticoide que tem história de alergia a sulfitos?",
+      "alternativas": [
+        {
+          "texto": "O que contém felipressina, sem vasoconstritor adrenérgico.",
+          "correta": true,
+          "justificativa": "É a preferência do livro para esse paciente.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84"
+        },
+        {
+          "texto": "O que contém epinefrina em baixa concentração.",
+          "correta": false,
+          "justificativa": "O livro manda não usar anestésico com vasoconstritor adrenérgico (epinefrina, norepinefrina, corbadrina, fenilefrina) nesse paciente.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84"
+        },
+        {
+          "texto": "O que contém norepinefrina.",
+          "correta": false,
+          "justificativa": "A norepinefrina está na lista de vasoconstritores adrenérgicos a evitar no livro.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84"
+        },
+        {
+          "texto": "O que contém epinefrina, depois de usar a bombinha como pré-medicação.",
+          "correta": false,
+          "justificativa": "O livro manda não usar anestésico com vasoconstritor adrenérgico nesse paciente, e a epinefrina está na lista.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84"
+        }
+      ],
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Prevenindo, p. 84",
+      "secao": "ar-prevencao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Homem de 28 anos, em crise de asma no consultório, recebeu oxigênio a 5 L/min e usou a bombinha de forma correta, sem regressão do quadro. Segundo o Andrade e Ranali, qual a conduta seguinte?",
+      "alternativas": [
+        {
+          "texto": "Repetir cinco aplicações dentro de um saco de papel, quantas vezes for preciso.",
+          "correta": false,
+          "justificativa": "O livro diz que, sem regressão, o broncoespasmo é tal que o aerossol não chega aos alvéolos.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+        },
+        {
+          "texto": "Epinefrina 1:1.000, 0,5 mL, por via intramuscular.",
+          "correta": true,
+          "justificativa": "É o sexto passo do roteiro do livro, para a crise sem regressão com o aerossol.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+        },
+        {
+          "texto": "Epinefrina 1:1.000, 1 mL (a ampola inteira), por via intramuscular.",
+          "correta": false,
+          "justificativa": "O livro indica 0,5 mL da ampola de 1 mL.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+        },
+        {
+          "texto": "Epinefrina 1:1.000, 0,1 mL, por via intramuscular.",
+          "correta": false,
+          "justificativa": "O livro indica 0,5 mL por via intramuscular.",
+          "fonte": "ar3-cap07",
+          "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85"
+        }
+      ],
+      "fonte": "ar3-cap07",
+      "onde": "cap. 7, Dificuldade Respiratória, Crise aguda de asma, Protocolo de atendimento, p. 85",
+      "secao": "ar-crise",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente asmático assintomático, em uso de metilxantina, precisa de antibiótico e de analgésico. Segundo o Varellis (manual), qual prescrição segue o livro?",
+      "alternativas": [
+        {
+          "texto": "Eritromicina como antibiótico, porque o paciente está assintomático.",
+          "correta": false,
+          "justificativa": "O livro diz que o assintomático pode receber qualquer tratamento, mas contraindica eritromicina e clindamicina quando usadas ao mesmo tempo que metilxantinas, pelo risco de aumentar a toxicidade da metilxantina.",
+          "fonte": "varellis3-cap30",
+          "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257"
+        },
+        {
+          "texto": "Clindamicina como antibiótico e analgésico à base de ácido acetilsalicílico.",
+          "correta": false,
+          "justificativa": "A clindamicina é uma das duas contraindicadas com metilxantina, e o livro manda evitar os analgésicos à base de ácido acetilsalicílico, que podem exacerbar as crises.",
+          "fonte": "varellis3-cap30",
+          "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257"
+        },
+        {
+          "texto": "Analgésico à base de ácido acetilsalicílico, porque o paciente está assintomático.",
+          "correta": false,
+          "justificativa": "O livro manda evitar esses analgésicos no asmático: têm grande potencial alergênico e podem exacerbar as crises.",
+          "fonte": "varellis3-cap30",
+          "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257"
+        },
+        {
+          "texto": "Evitar eritromicina e clindamicina por causa da metilxantina, e evitar analgésico à base de ácido acetilsalicílico.",
+          "correta": true,
+          "justificativa": "É o cuidado do livro: a eritromicina e a clindamicina podem aumentar a toxicidade da metilxantina, e o ácido acetilsalicílico pode exacerbar as crises.",
+          "fonte": "varellis3-cap30",
+          "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257"
+        }
+      ],
+      "fonte": "varellis3-cap30",
+      "onde": "cap. 30, Alterações Respiratórias, Plano de tratamento, p. 257",
+      "secao": "varellis-atendimento",
+      "figura": null
+    },
+    {
+      "id": "q11",
+      "enunciado": "Mulher de 65 anos, ex-fumante, com DPOC no estágio III (FEV1 de 40% do previsto) e em uso de teofilina. Está estável, com saturação de 96% e sem dispneia em repouso, e vai fazer uma exodontia. Está ansiosa e precisará de antibiótico. Segundo o Little e Falace, qual conduta é adequada?",
+      "alternativas": [
+        {
+          "texto": "Adiar a exodontia e encaminhar ao médico, porque o estágio III não permite atendimento odontológico.",
+          "correta": false,
+          "justificativa": "O livro diz que os estágios I a III podem ser tratados e que o estágio IV é o evitado; a paciente está estável (saturação acima de 95% e sem dispneia).",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, manejo odontológico, avaliação de risco e capacidade de tolerar o atendimento, p. 105"
+        },
+        {
+          "texto": "Semissupina, óxido nitroso com oxigênio a 3 L/min, porque a paciente está estável.",
+          "correta": false,
+          "justificativa": "O livro manda não usar óxido nitroso nos estágios III ou IV, porque ele se acumula nos espaços aéreos do pulmão doente; os 3 L/min que o livro cita são o limite de fluxo quando o óxido nitroso é usado na bronquite crônica.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, manejo odontológico, posição da cadeira e fármacos, p. 107"
+        },
+        {
+          "texto": "Semissupina, diazepam oral em dose baixa se for preciso sedar, e antibiótico que não seja macrolídeo nem ciprofloxacino.",
+          "correta": true,
+          "justificativa": "É a conduta do livro: posição semissupina ou sentada na doença moderada a grave, benzodiazepínico oral em dose baixa no lugar do óxido nitroso e, pela teofilina, sem macrolídeos nem ciprofloxacino.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Box 7.3 (fármacos), p. 108"
+        },
+        {
+          "texto": "Semissupina, meperidina para a ansiedade e azitromicina como antibiótico.",
+          "correta": false,
+          "justificativa": "O livro manda não usar narcóticos, porque deprimem a respiração, e evitar a azitromicina em quem toma teofilina, porque reduz o metabolismo dela e leva à toxicidade.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, Box 7.3 (fármacos), p. 108"
+        }
+      ],
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Chronic Obstructive Pulmonary Disease, manejo odontológico, posição da cadeira, fármacos e Box 7.3, p. 105–108",
+      "secao": "lf-dpoc-conduta",
+      "figura": null
+    },
+    {
+      "id": "q12",
+      "enunciado": "Mulher de 24 anos, asmática, em crise no consultório: não consegue terminar uma frase com uma respiração, está com frequência respiratória de 28 por minuto e frequência cardíaca de 115 batimentos por minuto. A primeira dose do broncodilatador de ação rápida aliviou só em parte. Segundo o Little e Falace, qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Continuar o procedimento e repetir o broncodilatador só ao final, porque a crise costuma se resolver sozinha.",
+          "correta": false,
+          "justificativa": "Os sinais da paciente (não termina frases, frequência respiratória de 25 ou mais, frequência cardíaca de 110 ou mais) são os que o Box 7.5 lista para crise grave ou que piora, que pede tratamento imediato.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Asthma, Box 7.5 (emergências), p. 114"
+        },
+        {
+          "texto": "Salmeterol e corticosteroide inalado, porque são os broncodilatadores de início mais rápido.",
+          "correta": false,
+          "justificativa": "O livro diz que o corticosteroide e o β2-agonista de ação longa, como o salmeterol, não agem rápido; para a crise o mais efetivo e rápido é o β2-agonista de ação curta.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Asthma, emergência (crise de asma), p. 115"
+        },
+        {
+          "texto": "Broncodilatador de ação rápida repetido a cada 20 minutos, oxigênio, epinefrina subcutânea se necessário e acionamento do serviço de emergência.",
+          "correta": true,
+          "justificativa": "É a conduta do Box 7.5 para a crise grave: broncodilatador de ação rápida, oxigênio, epinefrina subcutânea 1:1.000 (0,3 a 0,5 mL) se necessário, acionar a emergência e repetir o broncodilatador a cada 20 minutos até a equipe chegar.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Asthma, Box 7.5 (emergências), p. 114"
+        },
+        {
+          "texto": "Suspender o broncodilatador depois da primeira dose e manter só o oxigênio até a equipe chegar.",
+          "correta": false,
+          "justificativa": "O livro manda repetir o broncodilatador de ação rápida a cada 20 minutos até a equipe chegar.",
+          "fonte": "lf9-cap07",
+          "onde": "cap. 7, Pulmonary Disease, Asthma, Box 7.5 (emergências), p. 114"
+        }
+      ],
+      "fonte": "lf9-cap07",
+      "onde": "cap. 7, Pulmonary Disease, Asthma, Box 7.5 (emergências), p. 114",
+      "secao": "lf-asma-crise",
+      "figura": null
+    }
+  ]
+}

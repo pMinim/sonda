@@ -1,0 +1,612 @@
+{
+  "slug": "hipertensao-arterial",
+  "titulo": "Hipertensão: aferição, níveis que contraindicam o atendimento, vasoconstritor",
+  "area": "Pacientes Especiais",
+  "origem": "Little e Falace 9ª ed., cap. 3; Malamed 7ª ed., cap. 2; Andrade e Ranali 3ª ed., cap. 10; Varellis (manual) 3ª ed., cap. 29",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lf9-cap03",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 3, Hypertension, p. 38–52.",
+      "curta": "Little e Falace 9ª ed., cap. 3"
+    },
+    {
+      "id": "malamed7-cap02",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 2, Prevenção, p. 37–60 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 2"
+    },
+    {
+      "id": "ar3-cap10",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 10, Crise hipertensiva arterial, p. 110–117.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 10"
+    },
+    {
+      "id": "varellis3-cap29",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 29, Alterações Cardiovasculares, p. 245–254 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 29"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "lf-classificacao",
+      "titulo": "Definição e classificação (Little e Falace)",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, abertura, Tabela 3.1, Tabela 3.2 e apresentação clínica, p. 38–42",
+      "texto": "As seções com o Little e Falace (autores dos EUA) são a base do tema. Os números e as diretrizes que ele cita (JNC, ACC/AHA) são **norte-americanos**.\n\n**Definição em adultos:** pressão sistólica mantida de **140 mm Hg ou mais**, ou diastólica mantida de **90 mm Hg ou mais**. Pode ficar anos sem sintoma e lesar rins, coração, cérebro e olhos. Só o médico diagnostica e trata, mas o dentista pode ser o primeiro a achar a pressão alta.\n\n**Classificação do JNC 7 (comitê dos EUA, 2003), Tabela 3.1:**\n\n| Classe | Sistólica | Diastólica | Seguimento médico, segundo o livro |\n|---|---|---|---|\n| Normal | <120 | e <80 | reavaliar em 2 anos |\n| Pré-hipertensão | 120–139 | ou 80–89 | reavaliar em 1 ano |\n| Estágio 1 | 140–159 | ou 90–99 | confirmar em até 2 meses |\n| Estágio 2 | ≥160 | ou ≥100 | avaliar ou encaminhar em até 1 mês; acima de 180/110, tratar imediatamente ou em até 1 semana, conforme a clínica |\n\nO diagnóstico usa a **média de duas ou mais medidas corretas**, com o paciente sentado, em duas ou mais consultas. Pré-hipertensão é uma designação de risco, não doença.\n\n**Hipertensão do jaleco branco:** cerca de 20% dos pacientes com estágio 1 não tratado têm pressão elevada só diante de profissional de saúde. O risco de complicação é menor que na hipertensão sustentada, e a medida exata pode pedir automedida em casa ou monitorização de 24 horas.\n\n**Crianças e adolescentes:** hipertensão é pressão no percentil 95 ou acima, em medidas repetidas, para idade, altura e sexo. Exemplo do livro: menina de 6 anos no percentil 50 de altura é hipertensa se a pressão persistir em 111/74 mm Hg ou mais.\n\n**O que o paciente sente:** muitas vezes nada. Cefaleia, zumbido e tontura são inespecíficos e ocorrem também em normotensos. Visão turva com hemorragia e papiledema na retina indica hipertensão maligna acelerada, **emergência médica**."
+    },
+    {
+      "id": "lf-identificar",
+      "titulo": "Identificar, medir e avaliar o risco",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Identificação e Avaliação de risco, Quadro 3.4 e Quadro 3.5, p. 44–47",
+      "texto": "**Pergunte:** diagnóstico, como é tratada, quais anti-hipertensivos, adesão, sintomas e estabilidade. Às vezes o paciente não fala em hipertensão, mas relata remédio ou fitoterápico para a pressão: pode ser a única pista. Complicações em tratamento (insuficiência cardíaca, doença cerebrovascular, infarto, doença renal, doença vascular periférica, diabetes) podem exigir mudar o plano.\n\n**Meça:** a pressão em todo paciente novo e em todo paciente de retorno. Com mais frequência se há má adesão, hipertensão mal controlada, insuficiência cardíaca ou infarto ou AVC prévios. Se o paciente é tratado e a pressão está alta, a causa mais comum é **não adesão ou tratamento inadequado**: ele volta ao médico. Sem diagnóstico e com pressão alta, deve ser encorajado a procurar o médico.\n\n**O dentista não faz o diagnóstico**: informa que a leitura está elevada e que um médico deve avaliar. No estágio 2 de nível alto, considere deixar o manguito no braço e checar a pressão durante a consulta.\n\n**A principal preocupação** é a elevação aguda e súbita durante o tratamento, com AVC ou infarto. Ela pode vir de catecolaminas endógenas (estresse, ansiedade), de catecolaminas exógenas (vasoconstritor do anestésico) ou da absorção do vasoconstritor do fio retrator gengival.\n\n**Risco perioperatório (diretriz ACC/AHA, EUA):** soma o risco da doença cardiovascular, o do procedimento e a capacidade funcional.\n- Pressão não controlada (180/110 mm Hg ou mais) é fator de risco **menor** no Quadro 3.4, mas a diretriz diz que a pressão deve ser controlada antes de qualquer cirurgia.\n- Procedimentos superficiais, como cirurgia bucal menor e periodontal menor, têm risco cardíaco geralmente abaixo de 1%; cabeça e pescoço é risco intermediário (geralmente abaixo de 5%). O livro conclui que o risco da maioria dos procedimentos ambulatoriais gerais é muito baixo.\n- Capacidade funcional: o risco aumenta em quem não atinge 4 equivalentes metabólicos (METs), isto é, subir um lance de escadas. Quem não sobe sem dor torácica, falta de ar ou fadiga está em risco aumentado.\n\n**Antibiótico:** o hipertenso tem pouco ou nenhum risco de infecção além do paciente saudável; antibióticos não estão indicados por causa da hipertensão.\n\n**Sangramento:** raramente preocupa. Aspirina ou clopidogrel diários não impedem procedimento cirúrgico; anticoagulante exige precauções adicionais, tratadas em outros capítulos do livro."
+    },
+    {
+      "id": "lf-limites-pa",
+      "titulo": "Pressão medida: atender, adiar ou encerrar (Tabela 3.6)",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48; Tabelas 3.1 e 3.5, p. 39 e 45",
+      "texto": "Segundo o Little e Falace, a **Tabela 3.6** orienta o atendimento conforme a pressão medida no consultório:\n\n| Pressão (mm Hg) | Tratamento odontológico | Seguimento |\n|---|---|---|\n| ≤120/80 | qualquer necessário | sem encaminhar |\n| ≥120/80 e <140/90 | qualquer necessário | encorajar a procurar o médico |\n| ≥140/90 e <160/100 | qualquer necessário | encorajar a procurar o médico |\n| ≥160/100 e <180/110 | qualquer necessário; considerar monitorizar a pressão durante o procedimento no estágio 2 de nível alto | encaminhar prontamente ao médico (em até 1 mês) |\n| ≥180/110 | **adiar o tratamento eletivo** | encaminhar o mais rápido possível; se houver sintomas, imediatamente |\n\n**Texto de apoio (p. 47):**\n- Abaixo de 180/110, o paciente pode receber qualquer tratamento necessário, cirúrgico ou não, com risco muito pequeno.\n- Assintomático com 180/110 ou mais: adiar o eletivo e encaminhar. O texto resume o encaminhamento como avaliação e tratamento médico em até 1 semana; a própria Tabela 3.6 diz \"o mais rápido possível\". O livro não harmoniza os dois; o \"até 1 semana\" aparece também nas Tabelas 3.1 e 3.5.\n- Pressão alta com sintomas (cefaleia, falta de ar, dor torácica): avaliação médica imediata.\n- **Durante o atendimento** do estágio 2 de nível alto, com o manguito no braço: se a pressão subir **acima de 179/109 mm Hg**, encerrar o procedimento, encaminhar ao médico e remarcar.\n- Dor, infecção ou sangramento em hipertenso não controlado podem pedir tratamento urgente. Ele é manejado em consulta com o médico, podendo usar monitorização da pressão e do ECG, acesso intravenoso e sedação, sempre pesando benefício e risco. O Quadro 3.6 pede que seja o mais limitado e conservador possível.\n\n**Como o livro escreve os limites:** a Tabela 3.6 e o texto usam \"≥180/110\" e \"≥160/100\". O Quadro 3.6 (p. 48) usa \">180/110\" e, para o estágio 2, \">160/100\"; a Tabela 3.5 também usa \">180/110\". O texto de encerramento diz \"acima de 179/109\". O livro não harmoniza essas grafias; confira sempre como cada tabela escreve."
+    },
+    {
+      "id": "lf-crise",
+      "titulo": "Pressão muito alta: urgência, emergência e tratamento médico",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Medical Management, p. 42–45, Tabela 3.5; Tabela 3.1, p. 39; texto, p. 47; Quadro 3.6, p. 48",
+      "texto": "**Hipertensão grave não controlada:** no JNC 7 (EUA), pressão acima de 180/110 mm Hg. Acima de 180/120 chama-se **hipertensão aguda ou crise hipertensiva**, com duas categorias.\n\n- **Urgência:** pressão acima de 180/120 sem disfunção progressiva de órgão-alvo. Pode haver cefaleia, dispneia, epistaxe ou ansiedade grave. Costumam ser pacientes que não aderem, estressados ou com esquema inadequado.\n- **Emergência:** pressão de 180/120 ou mais **com evidência de disfunção iminente ou progressiva de órgão-alvo**: encefalopatia hipertensiva, hemorragia intracerebral, eclâmpsia, infarto agudo do miocárdio, insuficiência ventricular esquerda com edema pulmonar ou angina instável. Pode vir com dor torácica, dispneia, alteração do estado mental, distúrbio visual ou déficit neurológico.\n- No Quadro 3.6 (p. 48), pressão acima de 180/120 é crise hipertensiva e impõe **atendimento médico imediato**. O livro escreve esse valor ora com \">\", ora com \"≥\".\n\n**Tabela 3.5 (opinião de especialistas, EUA): estadiamento médico.** Traz \"tratar em até 1 semana\" para pressão acima de 180/110 sem sintomas; o mesmo prazo aparece na Tabela 3.1 e no texto odontológico da p. 47 (ver a seção sobre os limites, onde ele aparece ao lado do \"o mais rápido possível\" da Tabela 3.6):\n\n| Pressão (mm Hg) | Sintomas ou lesão de órgão | Recomendação médica |\n|---|---|---|\n| >180/110 (diastólica <120) | não | tratar em até 1 semana; não é emergência; reduzir gradualmente ao longo de dias |\n| >180/120 | sim | tratamento precoce com anti-hipertensivo oral de ação curta; horas de observação |\n| ≥210/120 | sim ou não | tratamento imediato, redução em até 1 hora, com fármaco parenteral em hospital |\n\nO tratamento da pressão alta é médico."
+    },
+    {
+      "id": "lf-atendimento",
+      "titulo": "O que muda na cadeira: estresse, posição e prescrição",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50",
+      "texto": "**Estresse:** reduzir ansiedade evita liberação de catecolaminas endógenas. O vínculo entre dentista, equipe e paciente conta; estimule o paciente a falar dos medos.\n- Evite consultas longas ou estressantes. Consultas **curtas e de manhã** parecem as mais bem toleradas. Se o paciente ficar ansioso ou apreensivo, pode-se terminar e remarcar.\n- Pré-medicação oral com benzodiazepínico de ação curta, como o triazolam, tomado **1 hora antes** da consulta; a dose depende de idade e porte e segue as diretrizes do fármaco (o livro não dá número). Óxido nitroso com oxigênio é um excelente ansiolítico durante o procedimento; garanta oxigenação o tempo todo e evite hipóxia por difusão ao final.\n- O Quadro 3.6 diz que hipertensos ansiosos ou temerosos são bons candidatos a sedação oral antes, inalatória durante, ou as duas.\n- Anestesia local profunda é crítica para controlar dor e ansiedade.\n\n**Posição da cadeira:** alfabloqueadores, bloqueadores alfa e beta combinados e diuréticos tendem a causar **hipotensão ortostática**, e ansiolíticos e sedativos podem somar o efeito. Evite mudanças rápidas; ao final, volte a cadeira devagar à vertical, dê tempo ao ajuste, apoie o paciente ao sair e confira o equilíbrio. Se houver tontura, mande sentar de novo.\n\n**Prescrição:**\n- **Analgésicos:** evitar uso prolongado de AINEs, que podem reduzir a eficácia de alguns anti-hipertensivos. O Quadro 3.6 põe o limite em mais de 2 semanas; a Tabela 3.4 e o texto da p. 50 não dão prazo, e o texto diz que poucos dias têm pouca importância clínica.\n- **Antibióticos:** com bloqueador de canal de cálcio, evitar eritromicina e claritromicina (não a azitromicina): a combinação pode intensificar a hipotensão e causar lesão renal aguda. A Tabela 3.4 (p. 44) diz \"macrolídeos\" sem exceção; o Quadro 3.6 (p. 48) nomeia eritromicina e claritromicina e exclui a azitromicina; o texto da p. 50 nomeia só eritromicina e claritromicina e não menciona a azitromicina. O livro não harmoniza.\n- Ansiolíticos e sedativos podem ser usados, mas a dose usual pode precisar de redução, sobretudo em idosos.\n\n**Emergências:** hipertensos têm risco aumentado de doença cardiovascular; angina, AVC, arritmia e infarto devem ser antecipados como possíveis, embora improváveis. Se encaminhado ao médico, agende o retorno conforme a necessidade."
+    },
+    {
+      "id": "lf-vasoconstritor",
+      "titulo": "Vasoconstritor e interações com betabloqueadores",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50",
+      "texto": "**Por que usar:** o vasoconstritor retarda a absorção do anestésico, prolonga a anestesia e dá hemostasia local. A preocupação é um pico perigoso de pressão no hipertenso.\n\n**O que o livro conclui:**\n- A resposta cardiovascular a doses convencionais de epinefrina costuma ter pouca importância clínica. Doses pequenas, **um ou dois tubetes** de lidocaína 2% com epinefrina 1:100.000, causam alterações fisiológicas mínimas.\n- Doses modestas têm pouco risco, e os benefícios superam os riscos desde que se use pouco (1 ou 2 tubetes de cada vez) e se evite **injeção intravascular inadvertida**. Quantidades maiores podem ser toleradas, com risco crescente.\n- O texto cita 1:100.000; o Quadro 3.6 cita \"1:100.000 ou 1:200.000\".\n- **Hipertensão não controlada (acima de 180/110):** o uso de epinefrina em geral não é aconselhado, e o eletivo é adiado. Se o tratamento urgente se tornar necessário, decide-se conforme a situação, e é aconselhável consultar o médico. O Quadro 3.6 (p. 48) escreve que o uso deve ser limitado, sem proibir; o texto da p. 49 diz que em geral não é aconselhado. O livro não harmoniza.\n- **Levonordefrina deve ser evitada** no hipertenso (texto da p. 49 e Quadro 3.6), pela estimulação alfa-1 comparativamente excessiva. A Tabela 3.4 manda evitá-la apenas com betabloqueadores não seletivos.\n\n**Betabloqueadores não seletivos (propranolol, nadolol, timolol e outros):** a vasodilatação compensatória mediada por receptor beta-2 fica inibida. A epinefrina pode então causar vasoconstrição periférica não compensada, com pressão elevada e bradicardia compensatória. Houve casos com mais de 190/110 mm Hg e pelo menos uma morte; a maioria dos desfechos adversos ocorreu com **mais de 3 tubetes**. A Tabela 3.4 diz para usar no máximo **0,036 mg de epinefrina** nesses pacientes, sem converter em tubetes. O texto conclui que um a dois tubetes de 1:100.000 podem ser usados com segurança mesmo com não seletivos; com cardiosseletivos e com 2 tubetes ou menos, a interação é ainda menos provável.\n\n**Vasoconstritor tópico e fio retrator:** vasoconstritores tópicos em geral não devem ser usados para hemostasia no hipertenso. Evite fio retrator gengival com epinefrina: ela é concentrada e absorvida rápido pelo sulco abrasado, com taquicardia e pressão elevada. Um estudo relatou que tetraidrozolina, oximetazolina e fenilefrina no fio têm efeito hemostático semelhante, com efeitos cardiovasculares mínimos."
+    },
+    {
+      "id": "lf-farmacos",
+      "titulo": "Anti-hipertensivos e o que aparece na boca",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Tabela 3.4, p. 43–44; Manifestações orais, p. 50",
+      "texto": "A hipertensão em si não foi associada a complicações bucais. Paralisia facial já foi descrita em casos ocasionais de hipertensão maligna, e sangramento excessivo após cirurgia ou trauma em hipertensão grave é incomum. Já os **anti-hipertensivos** deixam sinais que o aluno vai ver (Tabela 3.4 do Little e Falace):\n\n| Classe | Efeito na boca | Cuidado odontológico segundo o livro |\n|---|---|---|\n| Diuréticos tiazídicos | boca seca, reações liquenoides | hipotensão ortostática; sem interação com vasoconstritor |\n| Betabloqueadores não seletivos | alteração do paladar, reações liquenoides | vasoconstritor: ver a seção anterior |\n| Betabloqueadores cardiosseletivos | não listado | sem interação com vasoconstritor |\n| Alfa e beta combinados (carvedilol, labetalol) | alteração do paladar | hipotensão ortostática; interação com vasoconstritor improvável pelo bloqueio alfa |\n| Inibidores da ECA | angioedema de lábios, face e língua; paladar; ardência | hipotensão ortostática; sem interação com vasoconstritor |\n| Bloqueadores do receptor de angiotensina | angioedema de lábios, face e língua | hipotensão ortostática; sem interação com vasoconstritor |\n| Bloqueadores de canal de cálcio | **crescimento gengival** | evitar macrolídeos, sem distinguir quais (ver a seção sobre a cadeira); sem interação com vasoconstritor |\n| Alfa-1 bloqueadores | boca seca, paladar | hipotensão ortostática |\n| Agonistas alfa-2 centrais | boca seca, paladar | hipotensão ortostática |\n| Vasodilatadores diretos | lesões orais e cutâneas semelhantes ao lúpus, linfadenopatia | hipotensão ortostática |\n\nPara os demais diuréticos (de alça, poupadores de potássio, bloqueadores do receptor de aldosterona), o livro lista só os nomes dos fármacos, sem células próprias de efeito bucal.\n\n**No texto da p. 50:** diuréticos podem causar boca seca; reações liquenoides foram relatadas com tiazídicos, metildopa, propranolol e labetalol; inibidores da ECA podem causar neutropenia, com cicatrização retardada ou sangramento gengival, além de tosse persistente. O crescimento gengival dos bloqueadores de canal de cálcio é ilustrado na Fig. 3.4.\n\n**AINEs:** em várias linhas da tabela, evitar uso prolongado, que pode reduzir o efeito anti-hipertensivo."
+    },
+    {
+      "id": "malamed-asa",
+      "titulo": "Faixas de pressão e classificação ASA (Malamed)",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58",
+      "texto": "**Fonte desta seção: Malamed** (autor dos EUA). O livro não tem capítulo de hipertensão. A **Tabela 2-2** adapta, para a pressão do adulto, a classificação ASA (risco da sociedade de anestesiologistas dos EUA) usada pela Ostrow School of Dentistry (USC). Os números abaixo são do Malamed, não do Little e Falace.\n\n| Pressão (mm Hg) | ASA | Conduta da tabela |\n|---|---|---|\n| <140 e <90 | 1 | rotina; verificar a cada 6 meses |\n| 140–159 e/ou 90–94 | 2 | medir de novo antes do tratamento por 3 consultas seguidas; se todas excederem, consulta médica recomendada; rotina; protocolo de redução do estresse |\n| 160–199 e/ou 95–114 | 3 | verificar em 5 minutos; se persistir elevada, **consulta médica antes de começar**; rotina; protocolo de redução do estresse |\n| >200 e/ou >115 | 4 | verificar em 5 minutos; se persistir, consulta médica imediata; **sem tratamento odontológico, de rotina ou de emergência, até corrigir**; emergência tratada com medicamentos (analgésico, antibiótico); hospital se intervenção imediata estiver indicada |\n\n**Notas do livro:** com pressão levemente acima do limiar da categoria 4 e paciente ansioso, a sedação por óxido nitroso e oxigênio pode baixar a pressão abaixo de 200/115; se der certo, o planejado pode ser feito, e, se a pressão continuar alta, adia-se. A tabela escreve \"160 a 199\" e \">200\": o valor 200 exato não aparece. Ela usa \"e/ou\" e não diz o que fazer quando sistólica e diastólica caem em categorias diferentes.\n\n**Medida:** quem tem pressão alta diagnosticada tem a pressão medida a cada consulta; pacientes ASA 2, 3 e 4 são monitorados com mais frequência.\n\n**O que as classes dizem do paciente:** ASA 2 é doença sistêmica leve e tolera menos o estresse; ASA 3 é doença grave que limita sem incapacitar, com risco maior e plano a modificar; ASA 4 é doença incapacitante e ameaça constante à vida, e o eletivo é adiado, sempre que possível, até o médico melhorar a condição para ASA 3. No ASA 4, a emergência odontológica é tratada da forma mais conservadora; se for preciso intervir, de preferência em hospital. No texto das classes, a intervenção imediata no ASA 4 é feita no hospital sempre que possível, ou em clínica equipada para emergências; a Tabela 2-2 diz \"encaminhe ao hospital\". O livro não harmoniza.\n\n**Protocolo de redução do estresse (ASA 2 a 4):** consulta pela manhã, sinais vitais registrados antes e depois, consulta com o médico quando necessário, consulta que não exceda a tolerância do paciente e, nos mais ansiosos e de risco moderado a alto, marcação nos primeiros dias da semana."
+    },
+    {
+      "id": "ar-protocolo",
+      "titulo": "Protocolo por categorias de pressão (Andrade e Ranali)",
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116",
+      "texto": "**Fonte desta seção: Andrade e Ranali** (livro brasileiro de emergências). O livro apresenta o protocolo da área de Farmacologia, Anestesiologia e Terapêutica da FOP-Unicamp, baseado na classificação de adultos do cap. 3 do livro e em recomendações de Little, Herman e Bavitz. A medida mais importante é aferir **pressão e pulso antes de cada sessão** em quem tem história de hipertensão. Os números são deste livro.\n\n**1. Controlada ou estágio 1 (até 160/100 mm Hg no dia):** eletivo ou urgência.\n- Sessões curtas, de preferência entre 10 e 12 h; em procedimento mais longo, monitorar a pressão.\n- Benzodiazepínico como pré-anestésico (exemplo do livro: midazolam 7,5 mg) ou óxido nitroso com oxigênio por profissional habilitado.\n- Preferir prilocaína 3% com felipressina. A epinefrina \"não é contraindicada\" em 1:200.000 ou 1:100.000, com cuidado para evitar injeção intravascular e no máximo **2 tubetes de 1:100.000 ou 4 de 1:200.000 por sessão**.\n\n**2. Estágio 2 (acima de 160/100, sem passar de 180/110):** **eletivo contraindicado**; encaminhar para avaliação médica e controle. Na urgência que não pode esperar (pulpite, pericementite, abscesso), o essencial é aliviar a dor com anestesia local e remoção da causa, com prilocaína 3% com felipressina (máximo de 2 a 3 tubetes), procedimento de **no máximo 30 minutos** e sedação oral ou inalatória.\n\n**3. Severa assintomática (acima de 180/110, sem sintomas):** todo procedimento odontológico contraindicado. Nas urgências, atender em ambiente hospitalar, depois de avaliação médica e redução da pressão.\n\n**4. Severa sintomática (sistólica acima de 180 ou diastólica acima de 110, com cefaleia, alteração visual, sangramento nasal ou gengival espontâneo, dificuldade respiratória):** providenciar serviço móvel de urgência e avaliação médica imediata.\n\n**Outras alterações** que elevam o risco no consultório: infarto ou AVC prévios, arritmias, insuficiência cardíaca congestiva e diabetes (pode haver infarto agudo sem dor).\n\n**Atenção do livro:** dar anti-hipertensivo, oral ou parenteral, para controlar hipertensão severa é competência médica. O dentista não deve usá-lo no consultório para baixar a pressão e seguir o tratamento, nem em urgência."
+    },
+    {
+      "id": "ar-crise",
+      "titulo": "Crise hipertensiva no consultório (Andrade e Ranali)",
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117",
+      "texto": "**Fonte desta seção: Andrade e Ranali** (livro brasileiro). Os números são deste livro.\n\n**Três grupos acima de 180/110 mm Hg (classificação de Hebert e Vidt citada pelo livro):**\n- **Hipertensão severa:** sem sintomas ou só cefaleia leve a moderada, sem dano agudo a órgão-alvo. O médico reduz a pressão em alguns dias, com fármaco oral, em ambulatório.\n- **Urgência hipertensiva:** sintomas significativos (cefaleia severa, dispneia), sem dano ou com dano mínimo a órgão-alvo. Controle em 24 a 72 horas, em ambulatório, pelo médico.\n- **Emergência hipertensiva:** pressão acima de **220/140** com disfunção orgânica que ameaça a vida: AVC, encefalopatia hipertensiva, infarto agudo do miocárdio, dissecção da aorta, eclâmpsia, excesso de catecolaminas circulantes (retirada de betabloqueador ou de clonidina, cocaína), crise de feocromocitoma ou hemorragia severa. Exige redução imediata em hospital, com fármaco intravenoso.\n\nO livro usa 220/140 nessa classificação e 180/110 com sintomas no protocolo do consultório (seção anterior), sem harmonizar os dois. Do mesmo modo, a classificação de Hebert e Vidt prevê para a urgência hipertensiva (180/110 com sintomas significativos) controle médico em ambulatório em 24 a 72 horas, enquanto o protocolo do consultório (p. 116–117) manda acionar o serviço móvel de urgência diante de sintomas; o livro não os harmoniza.\n\n**Por que a crise é caso médico:** redução abrupta e intensa pode causar isquemia renal, cerebral e coronariana, porque a pressão de perfusão cerebral do hipertenso é maior que a do normotenso. Nas emergências a pressão não deve cair mais que 20% a 25% em 2 horas, nem para menos de 160/100 em 6 horas. A **nifedipina sublingual**, muito usada em consultórios, **não é mais recomendada** pelo risco de hipotensão intensa, AVC ou infarto.\n\n**O que pode desencadear:** ansiedade e dor; injeção intravascular acidental de anestésico com epinefrina; o paciente hipertenso que não tomou a medicação no dia e chega com a pressão já alta, sem o dentista perceber. A crise é bastante rara no consultório; o maior fator predisponente talvez seja o estresse do tratamento, às vezes por dor súbita e inesperada. A hipertensão do jaleco branco, comum em pacientes ansiosos, leva muitas vezes a encaminhar ao médico sem necessidade real.\n\n**Protocolo de atendimento da crise (5 passos):**\n1. Se o hipertenso tiver cefaleia moderada a intensa, dificuldade respiratória ou alteração visual, **interrompa o atendimento**.\n2. Acione o serviço médico móvel de urgência.\n3. Posição confortável, em geral com a cadeira **semi-inclinada**; deitado pode agravar a cefaleia.\n4. Monitore pressão, pulso e respiração.\n5. Aguarde o socorro e encaminhe para avaliação médica imediata em hospital."
+    },
+    {
+      "id": "varellis-medida",
+      "titulo": "Medida e classificação no manual do Varellis",
+      "fonte": "varellis3-cap29",
+      "onde": "cap. 29, Alterações Cardiovasculares, Registro da pressão arterial, Hipertensão e Tabelas 29.2 a 29.6, p. 246–250",
+      "texto": "**Fonte desta seção:** o **manual prático organizado por Maria Lucia Zarvos Varellis** (Guanabara Koogan, 3ª ed., 2017). É um manual de organizadora; o clássico ao lado é o Little e Falace, a base deste tema. Os números abaixo são do manual.\n\n**Medida:** paciente confortável e aquecido, 5 minutos na mesma posição, na dúvida repetir; sentado, braço na altura do coração, manguito cobrindo cerca de dois terços do membro. Insufle até sumirem os pulsos radiais e mais 20 mm Hg; esvazie a cerca de 2 mm Hg por segundo. A sistólica coincide com os primeiros sons; anote a pressão no abafamento e no desaparecimento dos sons. A lacuna auscultatória é frequente em hipertensos.\n\n**Classificação pela diastólica:** o livro traz duas escalas. Na Tabela 29.2: abaixo de 85 normal; 85 a 89 normal elevada; 90 a 104 discreta; 105 a 114 moderada; acima de 115 grave. Na Tabela 29.4: abaixo de 90 normal; 90 a 105 leve; 106 a 120 moderada; acima de 120 grave. Na Tabela 29.6 (rótulo do livro, com pares sistólica/diastólica): abaixo de 140/90 normal; de 140/90 a 160/95 limítrofe; acima de 160/95 definitiva. O livro não harmoniza as escalas."
+    },
+    {
+      "id": "varellis",
+      "titulo": "Risco e conduta no manual do Varellis",
+      "fonte": "varellis3-cap29",
+      "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253",
+      "texto": "**Fonte desta seção:** o **manual prático organizado por Maria Lucia Zarvos Varellis** (Guanabara Koogan, 3ª ed., 2017), de organizadora; o clássico ao lado é o Little e Falace. Os números são do manual.\n\n**Risco:** a hipertensão é o mais importante risco isolado de coronariopatia e AVC; eventos cardiovasculares ocorrem de 2 a 6 vezes mais que nos normotensos. No consultório, o livro aponta como riscos o sangramento excessivo em cirurgias, os anestésicos locais, o estresse da dor e as bacteriemias de procedimentos cruentos.\n\n**Conduta no atendimento:**\n- Interação entre dentista e cardiologista; evitar sessões longas e dolorosas e o estresse; monitorar a pressão; cuidado com anestesia com epinefrina e com retratores gengivais.\n- Anestésico: **prilocaína com vasoconstritor** é a primeira escolha. O uso de vasoconstritor é controverso, mas recomendado: melhora e prolonga o efeito, e a dose pequena de vasopressor é benéfica para controlar a dor e a epinefrina endógena.\n- Anti-inflamatório: quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão; evitar **diclofenaco, piroxicam e corticosteroide**. Primeira escolha: benzidamina 50 mg de 6/6 h ou ácido mefenâmico 500 mg de 8/8 h. Se o paciente usa anticoagulante, evitar analgésicos à base de ácido acetilsalicílico.\n- Anti-hipertensivos reduzem o fluxo salivar (mais cárie e doença periodontal); atenção à hipotensão ortostática ao mudar a posição na cadeira.\n- Se o paciente chega sem condições gerais favoráveis, adiar e, se preciso, encaminhar ao médico ou ao pronto-socorro. Dor odontológica pode elevar a pressão: analise a causa, intervenha o mínimo e alivie o sintoma.\n- A nifedipina, anti-hipertensivo, pode causar hiperplasia gengival (caso clínico do livro, junto com a fenitoína); o livro sugere informar o médico para avaliar fármaco alternativo, e trata a lesão com excisão e terapia periodontal básica.\n\nO capítulo não traz um valor de pressão para adiar ou encerrar o atendimento."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Little e Falace, como se define hipertensão em adultos?",
+      "verso": "Pressão sistólica mantida de 140 mm Hg ou mais, ou diastólica mantida de 90 mm Hg ou mais.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, abertura, Tabela 3.1, Tabela 3.2 e apresentação clínica, p. 38–42"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Little e Falace (JNC 7, EUA), quais limites definem o estágio 2?",
+      "verso": "Sistólica de 160 mm Hg ou mais, ou diastólica de 100 mm Hg ou mais (Tabela 3.1).",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, abertura, Tabela 3.1, Tabela 3.2 e apresentação clínica, p. 38–42"
+    },
+    {
+      "id": "f03",
+      "frente": "O que é hipertensão do jaleco branco?",
+      "verso": "Pressão consistentemente elevada só diante de profissional de saúde. O risco de complicação é menor que na sustentada; a medida exata pode pedir automedida ou monitorização de 24 horas.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, abertura, Tabela 3.1, Tabela 3.2 e apresentação clínica, p. 38–42"
+    },
+    {
+      "id": "f04",
+      "frente": "Quem diagnostica a hipertensão, e o que o dentista faz com a pressão alta?",
+      "verso": "Só o médico diagnostica. O dentista informa que a leitura está elevada e que um médico deve avaliar (Little e Falace).",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Identificação e Avaliação de risco, Quadro 3.4 e Quadro 3.5, p. 44–47"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o Little e Falace (Tabela 3.6), o que fazer com pressão de 180/110 mm Hg ou mais?",
+      "verso": "Adiar o tratamento eletivo e encaminhar ao médico o mais rápido possível; se houver sintomas, encaminhar imediatamente.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo o Little e Falace, no hipertenso estágio 2 de nível alto com o manguito no braço, qual valor durante o procedimento manda encerrar?",
+      "verso": "Pressão acima de 179/109 mm Hg: encerrar, encaminhar ao médico e remarcar.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+    },
+    {
+      "id": "f07",
+      "frente": "No Little e Falace, que prazo de encaminhamento aparece para pressão de 180/110 ou mais sem sintomas?",
+      "verso": "Dois, e o livro não os harmoniza: a Tabela 3.6 diz \"o mais rápido possível\"; o texto da p. 47 que a resume diz avaliação e tratamento médico \"em até 1 semana\". A Tabela 3.1 e a Tabela 3.5 (estadiamento médico) também trazem \"em até 1 semana\".",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Tabela 3.1, p. 39; Tabela 3.5, p. 45"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Little e Falace, quanto de epinefrina 1:100.000 é dose modesta no hipertenso?",
+      "verso": "Um ou dois tubetes de cada vez, evitando injeção intravascular, em hipertenso com pressão abaixo de 180/110. Acima disso o livro em geral não aconselha epinefrina e adia o eletivo.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Little e Falace, o que fazer com a levonordefrina no hipertenso?",
+      "verso": "Evitá-la, pela estimulação alfa-1 comparativamente excessiva (texto da p. 49 e Quadro 3.6; a Tabela 3.4 só a manda evitar com betabloqueadores não seletivos).",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual cuidado de cadeira vale para quem toma diurético, alfabloqueador ou alfa e beta combinados?",
+      "verso": "Evitar mudanças rápidas de posição, por hipotensão ortostática; ao final, voltar a cadeira devagar à vertical e apoiar o paciente ao sair.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual anti-hipertensivo causa crescimento gengival e qual antibiótico evitar com ele?",
+      "verso": "O bloqueador de canal de cálcio causa crescimento gengival; evitar eritromicina e claritromicina (o Quadro 3.6, p. 48, exclui a azitromicina; a p. 50 só nomeia as duas primeiras). A Tabela 3.4 diz \"macrolídeos\" sem distinguir. Fonte: Little e Falace.",
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Tabela 3.4, p. 43–44; Quadro 3.6, p. 48; Manifestações orais e interações, p. 50"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo o Malamed (Tabela 2-2), qual a faixa de pressão do ASA 2 no adulto?",
+      "verso": "140 a 159 e/ou 90 a 94 mm Hg: medir de novo por 3 consultas seguidas; se todas excederem, consulta médica.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o Malamed (Tabela 2-2), o que fazer com pressão acima de 200 e/ou 115 mm Hg?",
+      "verso": "ASA 4: repetir em 5 minutos; se persistir, consulta médica imediata. A tabela não libera tratamento odontológico, de rotina ou de emergência, até corrigir a pressão; a emergência é tratada com medicamentos (analgésico, antibiótico) e, se for preciso intervir de imediato, o paciente vai ao hospital.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo Andrade e Ranali, o que fazer no estágio 2 (acima de 160/100, sem passar de 180/110)?",
+      "verso": "Eletivo contraindicado e encaminhamento ao médico; na urgência, aliviar a dor e remover a causa, em até 30 minutos, sob sedação.",
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo Andrade e Ranali, a nifedipina sublingual ainda é recomendada na crise hipertensiva?",
+      "verso": "Não. O uso deixou de ser recomendado pelo risco de hipotensão intensa, AVC ou infarto.",
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o manual do Varellis, quais anti-inflamatórios evitar no hipertenso?",
+      "verso": "Diclofenaco, piroxicam e corticosteroide: quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão.",
+      "fonte": "varellis3-cap29",
+      "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 52 anos, hipertenso, assintomático, chega para um procedimento eletivo. A pressão no consultório é 184/112 mm Hg. Segundo o Little e Falace (Tabela 3.6), qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Fazer o tratamento e considerar monitorizar a pressão durante o procedimento.",
+          "correta": false,
+          "justificativa": "Essa conduta é da faixa de 160/100 a menos de 180/110 na Tabela 3.6; aqui a pressão está acima de 180/110.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Adiar o tratamento eletivo e encaminhar ao médico o mais rápido possível.",
+          "correta": true,
+          "justificativa": "A Tabela 3.6 manda adiar o eletivo e encaminhar o mais rápido possível quando a pressão é de 180/110 ou mais.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Fazer qualquer tratamento necessário e encorajar o paciente a procurar o médico.",
+          "correta": false,
+          "justificativa": "É a conduta das faixas abaixo de 160/100 na Tabela 3.6; com 184/112 a tabela manda adiar o eletivo.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Encaminhar para avaliação médica imediata.",
+          "correta": false,
+          "justificativa": "O encaminhamento imediato é para quem tem sintomas (cefaleia, falta de ar, dor torácica); este paciente é assintomático e a tabela diz encaminhar o mais rápido possível.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        }
+      ],
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48",
+      "secao": "lf-limites-pa",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Mulher de 61 anos, hipertensa, assintomática, com pressão de 168/104 mm Hg, precisa de uma restauração. Segundo o Little e Falace (Tabela 3.6), qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Adiar o tratamento eletivo e encaminhar o mais rápido possível.",
+          "correta": false,
+          "justificativa": "Essa conduta é para 180/110 ou mais na Tabela 3.6; a pressão de 168/104 está abaixo disso.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Tratar sem encaminhar, porque a pressão está em faixa que dispensa o médico.",
+          "correta": false,
+          "justificativa": "A Tabela 3.6 só dispensa encaminhar com pressão de 120/80 ou menos; em 168/104 pede encaminhamento em até 1 mês.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Tratar, considerando monitorizar a pressão durante o procedimento, e encaminhar prontamente ao médico, em até 1 mês.",
+          "correta": true,
+          "justificativa": "Na faixa de 160/100 a menos de 180/110, a Tabela 3.6 permite qualquer tratamento necessário, considera a monitorização e pede encaminhamento em até 1 mês.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Encerrar o atendimento, pois a pressão passa de 160/100.",
+          "correta": false,
+          "justificativa": "O livro manda encerrar durante o procedimento quando a pressão sobe acima de 179/109; 168/104 está abaixo desse valor.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        }
+      ],
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48",
+      "secao": "lf-limites-pa",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Hipertensa em estágio 2 de nível alto faz uma extração com o manguito no braço. No meio do procedimento a pressão medida é 186/112 mm Hg, sem sintomas. Segundo o Little e Falace, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Encerrar o procedimento, encaminhar ao médico e remarcar.",
+          "correta": true,
+          "justificativa": "O texto da p. 47 manda encerrar, encaminhar e remarcar se a pressão subir acima de 179/109 mm Hg.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Concluir a extração, porque o limite só vale antes de iniciar o atendimento.",
+          "correta": false,
+          "justificativa": "O livro dá o limite de 179/109 para a pressão checada durante o procedimento, em quem está com o manguito no braço.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Concluir com dose menor de epinefrina, pois não há sintomas.",
+          "correta": false,
+          "justificativa": "O critério dado é o valor da pressão acima de 179/109 mm Hg: encerrar, encaminhar e remarcar.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        },
+        {
+          "texto": "Trocar a extração por um procedimento mais curto na mesma consulta.",
+          "correta": false,
+          "justificativa": "O texto da p. 47 manda encerrar o procedimento, encaminhar ao médico e remarcar quando a pressão sobe acima de 179/109 mm Hg.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48"
+        }
+      ],
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Pressão arterial, Tabela 3.6 e texto, p. 47; Quadro 3.6, p. 48",
+      "secao": "lf-limites-pa",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Mulher de 58 anos toma propranolol (betabloqueador não seletivo) para hipertensão e está com 150/92 mm Hg. Precisa de uma extração com lidocaína 2% com epinefrina. Segundo o Little e Falace, qual a conduta quanto ao vasoconstritor?",
+      "alternativas": [
+        {
+          "texto": "Trocar a epinefrina por levonordefrina, que é mais segura nesse caso.",
+          "correta": false,
+          "justificativa": "O livro manda evitar a levonordefrina com betabloqueadores não seletivos e no hipertenso em geral.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+        },
+        {
+          "texto": "Usar mais de 3 tubetes, para garantir anestesia profunda.",
+          "correta": false,
+          "justificativa": "A maioria dos desfechos adversos relatados com betabloqueadores não seletivos ocorreu com mais de 3 tubetes.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+        },
+        {
+          "texto": "Evitar qualquer vasoconstritor, porque a interação com o propranolol o contraindica.",
+          "correta": false,
+          "justificativa": "O livro conclui que doses pequenas de epinefrina podem ser usadas com segurança mesmo com não seletivos.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+        },
+        {
+          "texto": "Usar epinefrina 1:100.000 em um a dois tubetes, evitando injeção intravascular.",
+          "correta": true,
+          "justificativa": "O texto conclui que um a dois tubetes de 1:100.000 podem ser usados com segurança mesmo com betabloqueadores não seletivos.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50"
+        }
+      ],
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Uso de vasoconstritores e Interações medicamentosas, Tabela 3.4 e Quadro 3.6, p. 43, 48–50",
+      "secao": "lf-vasoconstritor",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente hipertenso toma anlodipino (bloqueador de canal de cálcio) e precisa de prescrição após uma cirurgia. Segundo o Little e Falace, qual prescrição deve ser evitada?",
+      "alternativas": [
+        {
+          "texto": "Evitar o anestésico com epinefrina, porque o bloqueador de canal de cálcio interage com o vasoconstritor.",
+          "correta": false,
+          "justificativa": "A Tabela 3.4 registra \"nenhuma interação\" com vasoconstritor para os bloqueadores de canal de cálcio (p. 44); o cuidado do livro com esses fármacos é com macrolídeos.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Tabela 3.4, p. 44"
+        },
+        {
+          "texto": "Um AINE por poucos dias como analgésico.",
+          "correta": false,
+          "justificativa": "O texto da p. 50 diz que o uso de AINE por poucos dias tem pouca importância clínica; o cuidado é com o uso prolongado.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50"
+        },
+        {
+          "texto": "Claritromicina como antibiótico.",
+          "correta": true,
+          "justificativa": "O livro manda evitar eritromicina e claritromicina com bloqueador de canal de cálcio: pode intensificar a hipotensão e causar lesão renal aguda.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50"
+        },
+        {
+          "texto": "Ansiolítico oral, com a dose usual reduzida.",
+          "correta": false,
+          "justificativa": "O livro diz que ansiolíticos e sedativos podem ser usados, com redução da dose usual, sobretudo em idosos.",
+          "fonte": "lf9-cap03",
+          "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50"
+        }
+      ],
+      "fonte": "lf9-cap03",
+      "onde": "cap. 3, Hypertension, Dental Management, Capacidade de tolerar o tratamento, Fármacos e Quadro 3.6, p. 47–48 e 50",
+      "secao": "lf-atendimento",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Adulto com pressão confirmada de 170/100 mm Hg e sem sintomas. Segundo o Malamed (Tabela 2-2), qual a classificação e a conduta?",
+      "alternativas": [
+        {
+          "texto": "ASA 2: medir a pressão por 3 consultas seguidas e tratar de rotina.",
+          "correta": false,
+          "justificativa": "Essa conduta é da faixa 140 a 159 e/ou 90 a 94; 170/100 está acima dela.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "ASA 3: verificar em 5 minutos; se persistir, consulta médica antes de começar; depois, rotina com redução do estresse.",
+          "correta": true,
+          "justificativa": "A faixa 160 a 199 e/ou 95 a 114 é ASA 3, e a tabela pede nova medida em 5 minutos e consulta médica antes de começar se continuar elevada.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "ASA 4: sem tratamento de rotina nem de emergência até corrigir a pressão.",
+          "correta": false,
+          "justificativa": "O ASA 4 é de pressão acima de 200 e/ou 115; 170/100 está abaixo.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "ASA 1: rotina com verificação a cada 6 meses.",
+          "correta": false,
+          "justificativa": "O ASA 1 é de pressão abaixo de 140 e abaixo de 90; 170/100 está acima.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        }
+      ],
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58",
+      "secao": "malamed-asa",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto com abscesso e dor, cuja pressão se mantém em 232/122 mm Hg após nova medida em 5 minutos. Segundo o Malamed (Tabela 2-2), qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Drenar no consultório, aplicando o protocolo de redução do estresse.",
+          "correta": false,
+          "justificativa": "Essa é a conduta da faixa 160 a 199 e/ou 95 a 114 (ASA 3); acima de 200 e/ou 115 a tabela não libera tratamento de emergência.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "Medir a pressão nas 3 consultas seguintes antes de qualquer conduta.",
+          "correta": false,
+          "justificativa": "Essa conduta é do ASA 2 (140 a 159 e/ou 90 a 94); aqui a pressão persiste acima de 200 e/ou 115.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "Tratar de rotina, pois o paciente ainda pode ser tratado como ASA 3.",
+          "correta": false,
+          "justificativa": "O ASA 3 vai até 199 e/ou 114; com 232/122 a classificação é ASA 4, sem tratamento de rotina nem de emergência até corrigir.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        },
+        {
+          "texto": "Consulta médica imediata, analgésico e antibiótico, e encaminhamento ao hospital se a terapia imediata estiver indicada.",
+          "correta": true,
+          "justificativa": "Na categoria acima de 200 e/ou 115 (ASA 4), a tabela pede consulta médica imediata, emergência tratada com medicamentos e hospital se a intervenção imediata estiver indicada.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58"
+        }
+      ],
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Sinais vitais, Tabela 2-2, p. 41–42; Determinação do risco médico, classes ASA, p. 52–55; Protocolo de diminuição do estresse, p. 56–58",
+      "secao": "malamed-asa",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente com pulpite aguda e pressão de 170/105 mm Hg, sem sintomas gerais. Segundo Andrade e Ranali, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Eletivo contraindicado; tratar a urgência com alívio da dor e remoção da causa, em até 30 minutos, sob sedação, com prilocaína 3% com felipressina.",
+          "correta": true,
+          "justificativa": "No estágio 2 (acima de 160/100 sem passar de 180/110) o livro contraindica o eletivo e orienta a urgência assim.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116"
+        },
+        {
+          "texto": "Contraindicar todo procedimento e atender a urgência só em hospital.",
+          "correta": false,
+          "justificativa": "Essa conduta é da categoria acima de 180/110 sem sintomas; 170/105 está abaixo.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116"
+        },
+        {
+          "texto": "Liberar eletivo e urgência, com até 4 tubetes de epinefrina 1:200.000.",
+          "correta": false,
+          "justificativa": "Essa conduta é da categoria até 160/100; em 170/105 o eletivo é contraindicado.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116"
+        },
+        {
+          "texto": "Acionar o serviço móvel de urgência e solicitar avaliação médica imediata.",
+          "correta": false,
+          "justificativa": "Essa conduta é da hipertensão severa sintomática (acima de 180 ou 110, com sintomas); este paciente está abaixo de 180/110.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116"
+        }
+      ],
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Prevenindo, protocolo por categorias, p. 115–116",
+      "secao": "ar-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Durante uma consulta, paciente hipertenso refere cefaleia intensa e alterações visuais, com dificuldade para respirar. Segundo Andrade e Ranali, qual a conduta imediata?",
+      "alternativas": [
+        {
+          "texto": "Deitá-lo totalmente na cadeira e dar nifedipina sublingual.",
+          "correta": false,
+          "justificativa": "O livro diz que a posição deitada pode agravar a cefaleia e que a nifedipina sublingual não é mais recomendada.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117"
+        },
+        {
+          "texto": "Dar anti-hipertensivo oral para baixar a pressão e concluir o tratamento.",
+          "correta": false,
+          "justificativa": "O livro diz que dar anti-hipertensivo é competência médica e que o dentista não deve usá-lo no consultório para baixar a pressão e prosseguir.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117"
+        },
+        {
+          "texto": "Interromper, acionar o serviço móvel de urgência, manter a cadeira semi-inclinada, monitorar e aguardar o socorro.",
+          "correta": true,
+          "justificativa": "Esses são os passos do protocolo de atendimento da crise descrito no capítulo.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117"
+        },
+        {
+          "texto": "Orientar repouso na sala de espera e retomar o atendimento quando a cefaleia melhorar.",
+          "correta": false,
+          "justificativa": "Com esses sintomas, o protocolo do consultório manda interromper o atendimento, acionar o serviço móvel de urgência e encaminhar para avaliação médica imediata em hospital.",
+          "fonte": "ar3-cap10",
+          "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117"
+        }
+      ],
+      "fonte": "ar3-cap10",
+      "onde": "cap. 10, Crise Hipertensiva Arterial, Considerações gerais (abertura do capítulo, sem número impresso visto), Significado e risco clínico, Ocorrência e Protocolo de atendimento, p. 114–117",
+      "secao": "ar-crise",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente hipertenso com dor após uma cirurgia precisa de anti-inflamatório. Segundo o manual do Varellis, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Usar diclofenaco, que por ter forte efeito anti-inflamatório controla melhor a dor.",
+          "correta": false,
+          "justificativa": "O manual manda evitar o diclofenaco: quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão.",
+          "fonte": "varellis3-cap29",
+          "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253"
+        },
+        {
+          "texto": "Preferir benzidamina ou ácido mefenâmico, e evitar diclofenaco, piroxicam e corticosteroide.",
+          "correta": true,
+          "justificativa": "O manual traz a benzidamina e o ácido mefenâmico como primeira escolha, e manda evitar diclofenaco, piroxicam e corticosteroide: quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão.",
+          "fonte": "varellis3-cap29",
+          "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253"
+        },
+        {
+          "texto": "Usar um corticosteroide, que reduz a inflamação sem efeito sobre a pressão.",
+          "correta": false,
+          "justificativa": "O manual manda evitar corticosteroide no hipertenso, pela retenção de água e pela elevação da pressão.",
+          "fonte": "varellis3-cap29",
+          "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253"
+        },
+        {
+          "texto": "Usar o anti-inflamatório de maior efeito disponível, porque a dor também eleva a pressão.",
+          "correta": false,
+          "justificativa": "A dor pode elevar a pressão, e o manual manda aliviar o sintoma; mas, para o anti-inflamatório, a escolha é pelos de menor efeito sobre a pressão (benzidamina ou ácido mefenâmico), porque quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão.",
+          "fonte": "varellis3-cap29",
+          "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253"
+        }
+      ],
+      "fonte": "varellis3-cap29",
+      "onde": "cap. 29, Alterações Cardiovasculares, Hipertensão e risco, p. 249–250; Tratamento odontológico, p. 252–253",
+      "secao": "varellis",
+      "figura": null
+    }
+  ]
+}
