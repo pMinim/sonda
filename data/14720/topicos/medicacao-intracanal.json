@@ -1,0 +1,529 @@
+{
+  "slug": "medicacao-intracanal",
+  "titulo": "Medicação intracanal: hidróxido de cálcio, clorexidina e uso entre sessões",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 8 e 9",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    },
+    {
+      "id": "cohen12-cap09",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 9, Obturação dos Canais Radiculares, p. 299–336 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 9"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "objetivo",
+      "titulo": "Para que serve a medicação intracanal e por que o veículo é a água",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Medicação intracanal e Hidróxido de cálcio, pp. 276–277",
+      "texto": "Base desta seção: o Cohen, Caminhos da Polpa, 12ª ed., tradução da obra de Berman, Hargreaves e Rotstein.\n\n**O que é.** Medicação intracanal é a substância que fica dentro do canal entre uma sessão e a seguinte. O capítulo a usa quando o tratamento não pode ser concluído em uma sessão.\n\n**Por que se usa.** Depois da limpeza e modelagem ainda sobram bactérias, e elas podem se multiplicar de uma sessão para a outra. Os objetivos principais, segundo o capítulo:\n- restringir o recrescimento bacteriano;\n- dar continuidade à desinfecção;\n- criar uma barreira física.\n\n**A mais popular: hidróxido de cálcio, Ca(OH)2.** O capítulo diz que o uso é bem documentado, mas que as evidências de eficácia clínica são controversas (veja a seção sobre os estudos). Usa-se sobretudo como pasta de base aquosa.\n\n**Por que a água é o veículo.** O Ca(OH)2 age ao se dissolver em íons cálcio e hidroxila, e à temperatura do corpo menos de 0,2% dele se dissolve. Como precisa se dissolver, o veículo deve ser a água.\n\n**O que o capítulo diz do material:** solubilidade limitada, pH alto, ação antimicrobiana de largo espectro e ação sustentada por longos períodos. É um antisséptico de ação lenta e precisa ficar em contato com o tecido para agir.\n\n**Sinal na bancada:** em contato com o ar, o Ca(OH)2 forma carbonato de cálcio. O capítulo diz que o processo é lento e de pouca importância clínica, mas a pasta com muito carbonato fica com textura granulada.\n\n**O que o capítulo não diz:** por quantos dias a pasta deve ficar no canal entre as sessões, nem uma lista de indicações em quadro. Os tempos que aparecem são de estudos."
+    },
+    {
+      "id": "alergia",
+      "titulo": "Hidróxido de cálcio quando há alergia ao hipoclorito",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, p. 269",
+      "texto": "Uma indicação concreta que o cap. 8 cita para o Ca(OH)2 aparece na parte sobre o hipoclorito de sódio.\n\n**A situação:** suspeita ou confirmação de alergia ao NaOCl. Nesse caso, a clorexidina não deveria ser usada, por conta do cloro na composição.\n\n**O que o capítulo diz do Ca(OH)2:** ele poderia ser usado como medicação temporária, porque dissolve tecidos necróticos e vitais."
+    },
+    {
+      "id": "colocar",
+      "titulo": "Como colocar a pasta de hidróxido de cálcio",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278",
+      "texto": "Segundo o capítulo, a pasta precisa ficar em contato com o tecido para agir. Os passos:\n\n1. Misture o pó com **água estéril ou solução salina**.\n2. Deixe a pasta **espessa**, com o máximo possível de partículas de Ca(OH)2. Assim ela mantém umidade suficiente e continua se dissociando com pH alto.\n3. Leve a pasta ao canal com um instrumento tipo **lentulo**. A alternativa é usar seringa monodose já preenchida com Ca(OH)2.\n4. Preencha o canal de forma **homogênea até o comprimento de trabalho**.\n5. Faça uma **radiografia para confirmar** o preenchimento.\n\nCuidado para não extruir a pasta pelo ápice (veja a seção seguinte).\n\n**Por que assim:** para a efetividade máxima o canal deve ficar preenchido de modo homogêneo até o comprimento de trabalho, e a pasta não deve ficar excessivamente ressecada, para manter a umidade.\n\n**Como saber que está certo:** a radiografia mostra o canal preenchido de forma homogênea até o comprimento de trabalho, e a pasta não está excessivamente ressecada."
+    },
+    {
+      "id": "erros",
+      "titulo": "Acidentes e limitações do hidróxido de cálcio: extrusão e remoção incompleta",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278",
+      "texto": "O capítulo relata acidentes com a aplicação do Ca(OH)2 e diz que o manejo e a colocação adequada são um desafio. Dois pontos:\n\n**1. Extrusão pelo ápice.** O Ca(OH)2 é uma base forte e pode causar lesão irreversível aos tecidos vivos, sobretudo lesão nervosa. Por isso o capítulo manda ter cuidado para não extruí-lo pelo ápice: há risco de ele alcançar o seio maxilar ou o canal mandibular. Em contato com os olhos, pode causar cegueira. O capítulo pede precauções adequadas.\n\n**2. Remoção incompleta.** Antes de obturar, a pasta tem de sair do canal. O capítulo diz que a remoção é frequentemente incompleta: o resíduo recobre de **20 a 45%** das superfícies da parede do canal, mesmo depois de irrigação copiosa com solução salina, NaOCl e EDTA.\n\n**Por que importa:** o resíduo pode encurtar o tempo de presa dos cimentos à base de óxido de zinco-eugenol e comprometer a qualidade do tratamento.\n\n**Atenção:** a remoção é frequentemente incompleta: pode sobrar resíduo nas paredes mesmo depois de irrigação copiosa."
+    },
+    {
+      "id": "eficacia",
+      "titulo": "Eficácia do hidróxido de cálcio: o que o cap. 8 diz nas pp. 276 e 277",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277",
+      "texto": "O capítulo mostra os dois lados e não escolhe. Os números abaixo são de estudos citados, **não são recomendação de tempo**.\n\n**Característica (p. 276):** é antisséptico de ação lenta; in vitro, foram necessárias **24 horas** de contato direto para matar completamente os enterococos.\n\n**No bloco da p. 276 (a favor):**\n- Estudo com 42 pacientes: a irrigação com NaOCl reduziu o nível bacteriano em até apenas 61,9%, mas o Ca(OH)2 nos canais por **1 semana** resultou em redução de **92,5%**. A conclusão citada foi usar Ca(OH)2 nos canais infectados, para desbridamento e descontaminação mais previsíveis.\n\n**No mesmo bloco e na p. 277 (restrições):**\n- Estudos clínicos mais recentes e revisões sistemáticas não mostraram benefício claro em eliminar mais bactérias do canal.\n- Não é efetivo contra vários patógenos endodônticos, incluindo Enterococcus faecalis e Candida albicans. In vitro, a dentina pode inativar sua atividade antibacteriana.\n- Um estudo clínico mostrou aumento do número de canais positivos para bactérias depois da medicação; outros indicam que ele não elimina as bactérias de forma previsível.\n- Revisão sistemática e metanálise: pela melhor evidência, a efetividade em eliminar bactérias dos canais humanos, por técnicas de cultura, é limitada.\n\n**Em resumo:** 24 horas (in vitro) e 1 semana (estudo de 42 pacientes) são dados de pesquisa. O capítulo não informa por quanto tempo a pasta deve ficar no canal entre as sessões."
+    },
+    {
+      "id": "clorexidina",
+      "titulo": "Clorexidina como medicação",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina como medicação, pp. 277–278; Clorexidina (irrigante), p. 272",
+      "texto": "O capítulo apresenta a clorexidina (CLX) como possível alternativa ao Ca(OH)2, com ressalvas.\n\n**O que ela tem de diferente:** atividade antimicrobiana **substantiva**: aplicada à dentina, pode prevenir a colonização bacteriana por períodos prolongados. O efeito depende da concentração da CLX, não do modo de aplicação (líquida, gel ou dispositivo de liberação controlada). No mesmo capítulo, na parte da clorexidina como irrigante (p. 272), o livro diz que a eficácia antimicrobiana residual in vivo ainda precisa ser demonstrada (veja o tema de irrigação).\n\n**O que o capítulo cita:**\n- In vitro, eficácia pelo menos tão boa quanto a do Ca(OH)2, ou melhor.\n- Em canais infectados, reduz as bactérias tão eficientemente quanto o Ca(OH)2 quando aplicada por 1 semana.\n- In vivo, os resultados são variáveis.\n- Misturar CLX com Ca(OH)2, para somar efeitos, tem resultados inconclusivos e utilidade controversa.\n\n**Ressalva do livro:** estudos em animais e in vitro sugerem que a CLX poderia substituir o Ca(OH)2, com limitações. Faltam estudos clínicos em humanos."
+    },
+    {
+      "id": "outras",
+      "titulo": "Fenólicos, formaldeído e esteroides",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279",
+      "texto": "O capítulo descreve outras medicações. Em duas delas o recado é de toxicidade.\n\n**Preparações fenólicas** (paramonoclorofenol, timol, cresol). Foram muito usadas. Depois se mostrou que têm vida curta e que a volatilidade as difunde pelas restaurações provisórias e pelo tecido periapical, causando toxicidade. A canforação deixa o composto menos tóxico, mas os estudos in vitro mostram toxicidade alta para células de mamíferos, que a efetividade antimicrobiana não compensa; o capítulo os chama de antissépticos ineficazes em condições clínicas. Muitas preparações usam concentrações extremamente altas (por exemplo, perto de 30%), e o efeito antibacteriano ótimo do fenol é em 1 a 2%; nas concentrações muito altas, o efeito in vivo é menor que o ideal e de curta duração. O capítulo diz que hoje se deve preferir o Ca(OH)2 ou deixar sem medicação.\n\n**Formaldeído (formocresol).** Altamente tóxico, mutagênico e carcinogênico. O capítulo diz que não existe motivação clínica para usar o formocresol como antimicrobiano no tratamento endodôntico: há antissépticos melhores e bem menos tóxicos.\n\n**Esteroides.** Usados no canal para reduzir dor e inflamação. O exemplo do capítulo é uma pasta hidrossolúvel que não toma presa, com corticoide (triancinolona acetonida) e antibiótico de largo espectro (demeclociclina). É indicada como curativo inicial, principalmente quando há sintomas, e dá alívio rápido da dor em condições inflamatórias agudas da polpa e do periodonto. A triancinolona é liberada da pasta para os canais e pode alcançar a circulação sistêmica."
+    },
+    {
+      "id": "entre-sessoes",
+      "titulo": "Hidróxido de cálcio entre sessões, segundo o cap. 9",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302",
+      "texto": "O cap. 9 defende o Ca(OH)2 quando o caso **não pode ser concluído em uma sessão** e o chama de o melhor medicamento disponível para reduzir a microbiota residual.\n\n**Por que usar curativo.** Em polpa necrosada, as bactérias do canal instrumentado e não obturado podem se multiplicar e voltar às contagens de antes do tratamento em **2 a 4 dias**. Esse é o tempo de recrescimento bacteriano, não de curativo: o capítulo não dá o tempo que o curativo fica no canal.\n\n**Limites, no mesmo texto:**\n- A capacidade de erradicar as espécies microbianas tem sido questionada. In vitro, a dentina pode inativar o Ca(OH)2.\n- Estudos clínicos: o número de canais positivos para bactérias não diminuiu depois do curativo.\n- Revisão sistemática e metanálise de oito estudos clínicos: útil, mas com efetividade limitada para eliminar as bactérias, por técnicas de cultura.\n- É menos eficaz contra E. faecalis e C. albicans.\n- Entre as alternativas, a clorexidina em gel e o Ca(OH)2 em gel de clorexidina tiveram resultados conflitantes. Os ensaios clínicos não mostram redução da contagem além da já obtida com o preparo com NaOCl.\n\n**Conclusão do capítulo:** os clínicos aceitam o curativo antimicrobiano entre as sessões nos casos que não podem ser tratados em uma sessão só.\n\n**Remissão:** quando obturar e sessão única × duas sessões são tratados no tema de obturação."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são os três objetivos principais da medicação intracanal, segundo o cap. 8?",
+      "verso": "Restringir o recrescimento bacteriano, dar continuidade à desinfecção e criar uma barreira física.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Medicação intracanal e Hidróxido de cálcio, pp. 276–277"
+    },
+    {
+      "id": "f02",
+      "frente": "Por que o veículo do hidróxido de cálcio é a água?",
+      "verso": "O Ca(OH)2 precisa se dissolver em íons para agir, e se dissolve pouco à temperatura do corpo; por isso o veículo deve ser a água (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Medicação intracanal e Hidróxido de cálcio, pp. 276–277"
+    },
+    {
+      "id": "f03",
+      "frente": "Que sinal na pasta indica muito carbonato de cálcio?",
+      "verso": "Textura granulada. O carbonato se forma em contato com o ar, processo lento e de pouca importância clínica (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Medicação intracanal e Hidróxido de cálcio, pp. 276–277"
+    },
+    {
+      "id": "f04",
+      "frente": "Como deve ficar a pasta de Ca(OH)2 e como se leva ao canal?",
+      "verso": "Espessa, com o máximo de partículas, sem ressecar. Leva-se com instrumento tipo lentulo ou com seringa monodose já preenchida (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+    },
+    {
+      "id": "f05",
+      "frente": "Até onde se preenche o canal com Ca(OH)2 e como se confirma?",
+      "verso": "De forma homogênea até o comprimento de trabalho; uma radiografia confirma (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que ter cuidado para não extruir o Ca(OH)2 pelo ápice?",
+      "verso": "É uma base forte, pode causar lesão irreversível a tecidos vivos, sobretudo nervos, e pode alcançar o seio maxilar ou o canal mandibular (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+    },
+    {
+      "id": "f07",
+      "frente": "Quanto da parede do canal o resíduo de Ca(OH)2 pode recobrir, segundo o cap. 8?",
+      "verso": "De 20 a 45%, mesmo depois de irrigação copiosa com salina, NaOCl e EDTA.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+    },
+    {
+      "id": "f08",
+      "frente": "O resíduo de Ca(OH)2 afeta que tipo de cimento, e como?",
+      "verso": "Pode encurtar o tempo de presa dos cimentos à base de óxido de zinco-eugenol e comprometer a qualidade do tratamento (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+    },
+    {
+      "id": "f09",
+      "frente": "O Cohen diz por quanto tempo deixar o Ca(OH)2 no canal?",
+      "verso": "Não. O capítulo cita só tempos usados em estudos, que não são recomendação (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+    },
+    {
+      "id": "f10",
+      "frente": "Contra que microrganismos o cap. 8 diz que o Ca(OH)2 não é efetivo?",
+      "verso": "Contra vários patógenos endodônticos, incluindo Enterococcus faecalis e Candida albicans (p. 277).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+    },
+    {
+      "id": "f11",
+      "frente": "O que a clorexidina como medicação tem que o Ca(OH)2 não tem?",
+      "verso": "Atividade antimicrobiana substantiva: aplicada à dentina, pode prevenir a colonização bacteriana por períodos prolongados (cap. 8).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina como medicação, pp. 277–278"
+    },
+    {
+      "id": "f12",
+      "frente": "O que o cap. 8 recomenda hoje sobre fenólicos como medicação?",
+      "verso": "Preferir o Ca(OH)2 ou deixar sem medicação: os derivados do fenol são tóxicos e a efetividade antimicrobiana não compensa a toxicidade.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+    },
+    {
+      "id": "f13",
+      "frente": "Para que o cap. 8 cita os esteroides como medicação intracanal?",
+      "verso": "Reduzir a dor e a inflamação. O exemplo é uma pasta de corticoide (triancinolona acetonida) com antibiótico de largo espectro (demeclociclina), curativo inicial, principalmente com sintomas.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+    },
+    {
+      "id": "f16",
+      "frente": "Por que o cap. 9 aceita curativo entre sessões em polpa necrosada?",
+      "verso": "Bactérias no canal instrumentado e não obturado podem se multiplicar e voltar às contagens de antes do tratamento em 2 a 4 dias (tempo de recrescimento bacteriano, não de curativo).",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302"
+    },
+    {
+      "id": "f17",
+      "frente": "Que uso concreto do Ca(OH)2 o cap. 8 cita na alergia ao hipoclorito?",
+      "verso": "Como medicação temporária, porque dissolve tecidos necróticos e vitais (cap. 8, p. 269).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, p. 269"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Você vai preparar a medicação para um canal modelado. Segundo o cap. 8, o que se faz com o pó de hidróxido de cálcio?",
+      "alternativas": [
+        {
+          "texto": "Mistura-se com água estéril ou solução salina, deixando a pasta fluida para escorrer até o ápice.",
+          "correta": false,
+          "justificativa": "O capítulo pede pasta espessa, com o máximo de partículas, para manter a umidade e a dissociação contínua com pH alto.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Leva-se o pó seco ao canal e espera-se que ele hidrate sozinho.",
+          "correta": false,
+          "justificativa": "O capítulo descreve o pó misturado com água estéril ou salina e levado ao canal com lentulo ou seringa monodose.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Mistura-se com água estéril ou solução salina até formar uma pasta espessa, com o máximo de partículas.",
+          "correta": true,
+          "justificativa": "É o protocolo do capítulo: pasta espessa, com o máximo possível de partículas, para manter umidade suficiente e a dissociação contínua com pH alto.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Mistura-se até a pasta secar, porque o ressecamento aumenta o efeito.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a pasta não deve ficar excessivamente ressecada, para manter a umidade.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278",
+      "secao": "colocar",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Depois de preencher o canal com a pasta de Ca(OH)2 usando um lentulo, o que o cap. 8 diz que confirma o resultado?",
+      "alternativas": [
+        {
+          "texto": "Ver pasta na entrada do canal.",
+          "correta": false,
+          "justificativa": "O critério do capítulo é radiográfico: preenchimento homogêneo até o comprimento de trabalho, não a pasta visível na entrada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Ver a pasta passar do forame, sinal de preenchimento completo.",
+          "correta": false,
+          "justificativa": "O capítulo manda ter cuidado para não extruir o Ca(OH)2 pelo ápice; pasta além do forame não é o critério.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Preencher só o terço cervical, que já protege o restante do canal.",
+          "correta": false,
+          "justificativa": "O capítulo diz que os canais devem ser preenchidos de forma homogênea até o comprimento de trabalho.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        },
+        {
+          "texto": "Uma radiografia que mostra o canal preenchido de forma homogênea até o comprimento de trabalho.",
+          "correta": true,
+          "justificativa": "O capítulo diz que, para a efetividade máxima, o canal é preenchido de forma homogênea até o comprimento de trabalho e que uma radiografia deve ser feita para confirmar.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Protocolo clínico, pp. 277–278",
+      "secao": "colocar",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Em paciente, parte da pasta de Ca(OH)2 passou do forame. Qual risco o cap. 8 destaca?",
+      "alternativas": [
+        {
+          "texto": "Nenhum risco, porque a pasta é inerte fora do canal.",
+          "correta": false,
+          "justificativa": "O capítulo descreve o Ca(OH)2 como base forte, que pode causar lesão irreversível aos tecidos vivos.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "Lesão irreversível de tecidos vivos, sobretudo nervos, com risco de a pasta alcançar o seio maxilar ou o canal mandibular.",
+          "correta": true,
+          "justificativa": "É o risco descrito no capítulo: base forte, lesão irreversível, especialmente nervosa, e risco de alcançar o seio maxilar ou o canal mandibular.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "Cegueira, como consequência da extrusão pelo ápice.",
+          "correta": false,
+          "justificativa": "O capítulo cita a cegueira para o contato do Ca(OH)2 com os olhos; para a extrusão pelo ápice ele cita a lesão irreversível de tecidos vivos, sobretudo nervosa, e o risco de a pasta alcançar o seio maxilar ou o canal mandibular.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "Encurtamento do tempo de presa do cimento.",
+          "correta": false,
+          "justificativa": "O capítulo associa o encurtamento do tempo de presa ao resíduo que permanece nas paredes depois da remoção.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278",
+      "secao": "erros",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Antes de obturar, você remove a pasta de Ca(OH)2 com irrigação copiosa de solução salina, NaOCl e EDTA. Segundo o cap. 8, o que ainda pode acontecer?",
+      "alternativas": [
+        {
+          "texto": "A irrigação remove todo o resíduo, porque o EDTA dissolve o Ca(OH)2.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a remoção é frequentemente incompleta, mesmo depois dessa irrigação.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "O resíduo recobre só uma pequena parte das paredes e não interfere em nada.",
+          "correta": false,
+          "justificativa": "O capítulo dá de 20 a 45% das superfícies da parede e diz que o resíduo pode comprometer a qualidade do tratamento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "O resíduo pode encurtar o tempo de presa de cimentos à base de óxido de zinco-eugenol.",
+          "correta": true,
+          "justificativa": "O capítulo diz que o resíduo, que recobre de 20 a 45% das paredes, pode encurtar o tempo de presa desses cimentos e comprometer a qualidade do tratamento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        },
+        {
+          "texto": "O resíduo aumenta o tempo de presa do cimento, apenas atrasando a obturação.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o resíduo encurta o tempo de presa, e não que o aumenta.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, Acidentes e Limitações, pp. 277–278",
+      "secao": "erros",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um colega afirma que o Ca(OH)2 entre sessões elimina de forma previsível as bactérias do canal. Qual afirmação está de acordo com o cap. 8?",
+      "alternativas": [
+        {
+          "texto": "O capítulo fixa um tempo mínimo de permanência da pasta, depois do qual o canal fica livre de bactérias.",
+          "correta": false,
+          "justificativa": "O capítulo não informa tempo recomendado de permanência; cita só tempos usados em estudos, que não são recomendação.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+        },
+        {
+          "texto": "Estudos clínicos e revisões concordam que o Ca(OH)2 elimina as bactérias de forma previsível.",
+          "correta": false,
+          "justificativa": "O capítulo diz o contrário: estudos clínicos mais recentes e revisões sistemáticas não mostraram benefício claro, e outros indicam que não elimina de forma previsível.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+        },
+        {
+          "texto": "O Ca(OH)2 é efetivo contra Enterococcus faecalis e Candida albicans, por isso dispensa outras medicações.",
+          "correta": false,
+          "justificativa": "O capítulo diz que ele não é efetivo contra vários patógenos, incluindo E. faecalis e C. albicans.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+        },
+        {
+          "texto": "Revisão sistemática e metanálise indicam efetividade limitada do Ca(OH)2 em eliminar bactérias dos canais humanos, avaliada por técnicas de cultura.",
+          "correta": true,
+          "justificativa": "É o que o capítulo traz na p. 277, ao lado de estudos clínicos e revisões que não mostraram benefício claro. O capítulo não dá tempo recomendado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidróxido de cálcio, pp. 276–277",
+      "secao": "eficacia",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Segundo o cap. 8, o que se pode dizer da clorexidina (CLX) como medicação intracanal em comparação com o Ca(OH)2?",
+      "alternativas": [
+        {
+          "texto": "Estudos clínicos em humanos já provaram que a CLX o substitui.",
+          "correta": false,
+          "justificativa": "O capítulo diz que estudos em animais e in vitro sugerem o potencial da CLX, com limitações, e que faltam estudos clínicos em humanos.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina como medicação, pp. 277–278"
+        },
+        {
+          "texto": "Como o Ca(OH)2, ela não tem atividade substantiva.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, diferentemente do Ca(OH)2, a CLX tem atividade antimicrobiana substantiva.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina como medicação, pp. 277–278"
+        },
+        {
+          "texto": "Em todos os estudos in vivo, ela foi superior ao Ca(OH)2.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, in vivo, os resultados são variáveis.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina como medicação, pp. 277–278"
+        },
+        {
+          "texto": "Em canais infectados, reduz as bactérias tão eficientemente quanto o Ca(OH)2 quando aplicada por 1 semana, e sua atividade substantiva pode prevenir a colonização da dentina.",
+          "correta": true,
+          "justificativa": "São duas afirmações do capítulo: a redução comparável em canais infectados aplicada por 1 semana e a atividade substantiva.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina como medicação, pp. 277–278"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina como medicação, pp. 277–278",
+      "secao": "clorexidina",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Uma colega quer usar paramonoclorofenol canforado como curativo. O que o cap. 8 diz sobre as preparações fenólicas?",
+      "alternativas": [
+        {
+          "texto": "A canforação elimina a toxicidade, então o uso é seguro.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a canforação deixa o composto menos tóxico, mas os estudos in vitro os mostram altamente tóxicos para células de mamíferos.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+        },
+        {
+          "texto": "Concentrações muito altas dão o melhor efeito antibacteriano.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, nas concentrações muito altas, o efeito in vivo é menor que o ideal e de curta duração.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+        },
+        {
+          "texto": "Hoje se deve preferir o Ca(OH)2 ou deixar sem medicação, porque a efetividade não compensa a toxicidade.",
+          "correta": true,
+          "justificativa": "O capítulo diz que hoje se deve preferir o Ca(OH)2 ou deixar sem medicação, e chama os fenóis de antissépticos ineficazes em condições clínicas.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+        },
+        {
+          "texto": "A volatilidade é vantagem, porque o fenol fica retido nos túbulos.",
+          "correta": false,
+          "justificativa": "A volatilidade os difunde pelas restaurações provisórias e pelo tecido periapical, causando toxicidade.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Preparações fenólicas, Formaldeído e Esteroides, pp. 278–279",
+      "secao": "outras",
+      "figura": null
+    },
+    {
+      "id": "q11",
+      "enunciado": "Paciente com alergia confirmada ao hipoclorito de sódio. Segundo o cap. 8, o que se pode usar como medicação temporária, e por quê?",
+      "alternativas": [
+        {
+          "texto": "Clorexidina, porque não tem cloro na composição.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, com suspeita ou confirmação de alergia ao hipoclorito, a clorexidina não deveria ser usada, por conta do cloro na composição.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, p. 269"
+        },
+        {
+          "texto": "Hidróxido de cálcio, porque dissolve tecidos necróticos e vitais.",
+          "correta": true,
+          "justificativa": "É a indicação citada no capítulo: o Ca(OH)2 poderia ser usado como medicação temporária, pois dissolve tecidos necróticos e vitais.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, p. 269"
+        },
+        {
+          "texto": "Hidróxido de cálcio em veículo oleoso, porque a água o inativa.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, como o Ca(OH)2 precisa se dissolver, o veículo deve ser a água.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, p. 269"
+        },
+        {
+          "texto": "Hidróxido de cálcio, porque é um antisséptico de ação rápida.",
+          "correta": false,
+          "justificativa": "O capítulo descreve o Ca(OH)2 como antisséptico de ação lenta; a razão citada para o uso é dissolver tecidos necróticos e vitais.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, p. 269"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, p. 269",
+      "secao": "alergia",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Dente com necrose, preparado, que não será obturado hoje. Segundo o cap. 9, por que se coloca um curativo antimicrobiano entre as sessões?",
+      "alternativas": [
+        {
+          "texto": "Porque o Ca(OH)2 erradica por completo as espécies microbianas do canal.",
+          "correta": false,
+          "justificativa": "O capítulo diz que essa capacidade tem sido questionada e que a efetividade é limitada por técnicas de cultura.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302"
+        },
+        {
+          "texto": "Porque as bactérias do canal instrumentado e não obturado podem se multiplicar e voltar às contagens anteriores ao tratamento.",
+          "correta": true,
+          "justificativa": "É a razão dada no capítulo para o curativo temporário em polpa necrosada que não pode ser tratada em uma sessão.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302"
+        },
+        {
+          "texto": "Porque estudos clínicos mostram que o curativo reduz de modo consistente o número de canais positivos.",
+          "correta": false,
+          "justificativa": "O capítulo cita estudos clínicos em que o número de canais positivos para bactérias não diminuiu depois do curativo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302"
+        },
+        {
+          "texto": "Porque a clorexidina em gel provou ser o curativo mais eficaz.",
+          "correta": false,
+          "justificativa": "O capítulo diz que os curativos alternativos, entre eles a clorexidina em gel, tiveram resultados conflitantes.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Momento da obturação, Hidróxido de cálcio e curativos entre sessões, pp. 301–302",
+      "secao": "entre-sessoes",
+      "figura": null
+    }
+  ]
+}

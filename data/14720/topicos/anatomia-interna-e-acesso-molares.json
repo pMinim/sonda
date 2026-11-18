@@ -1,0 +1,545 @@
+{
+  "slug": "anatomia-interna-e-acesso-molares",
+  "titulo": "Anatomia interna e acesso de molares superiores e inferiores (MV-2, istmos)",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap07",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 7, Morfologia Dental e Acesso Cavitário, p. 189–231 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 7"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "ponto-de-partida",
+      "titulo": "Ponto de partida: por que o molar pede anatomia antes da broca",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Introdução, p. 189; Acesso cavitário, Dentes posteriores, p. 203",
+      "texto": "Este tema é dos molares: o que existe por dentro e como chegar lá. Os objetivos e os passos gerais do acesso estão no tema de acesso de incisivos e caninos; aqui entra só o que muda nos dentes posteriores. Os pré-molares têm tema próprio.\n\n**Por que a anatomia vem antes da broca.** O Cohen (*Caminhos da Polpa*, tradução da obra de Berman, Hargreaves e Rotstein) diz que a polpa tem grande variedade de configurações e que conhecer a complexidade do sistema de canais é essencial para entender os princípios e os problemas do acesso.\n\n**O que olhar antes de abrir.** A avaliação inicial da anatomia pulpar usa duas ou mais radiografias periapicais com angulações horizontais diferentes. Muitos dentes têm morfologia incomum, e a radiografia convencional nem sempre dá a leitura correta, sobretudo com uma única tomada. Em algumas situações clínicas entra a tomografia computadorizada de feixe cônico (TCFC; o cap. 2 do Cohen trata dela).\n\n**Como chega o dente posterior.** Quando precisa de endodontia, ele costuma estar bastante restaurado (processo mais desafiador) ou com cárie extensa (acesso muito mais fácil).\n\n**Ver para achar.** O Cohen diz que é essencial usar magnificação e iluminação, sobretudo nos posteriores. O microscópio clínico odontológico (MO) é recomendado para localizar os orifícios de entrada dos canais depois de um acesso adequado. A comparação entre lupas e microscópio fica no tema de inovações tecnológicas.\n\n**O que o capítulo não traz.** No primeiro molar superior, o capítulo não dá a frequência do canal mesiopalatino; só descreve onde procurá-lo."
+    },
+    {
+      "id": "istmos",
+      "titulo": "Istmos e divisões do canal no terço médio",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, terço médio, p. 195",
+      "texto": "**O que é istmo.** É uma comunicação estreita, em forma de fita, com tecido pulpar, entre dois canais. Fica no terço médio, onde o canal pode ter muitas variações: confluências, reticulados, fundos de saco e istmos (o Cohen também chama essas comunicações de anastomoses).\n\n**Onde aparecem nos molares, segundo o texto:**\n- raiz mesiovestibular do primeiro molar superior: de 30 a 50%, perto da junção dos terços médio e apical;\n- raízes mesiais dos primeiros molares inferiores: 80% têm essas comunicações na junção dos terços apical e médio;\n- raiz distal do primeiro molar inferior: tem mais comunicações no terço apical.\n\n**Divisões e junções no terço médio.** Um canal único pode se dividir em dois ou mais, e canais que começam separados no terço cervical podem se unir aí (Fig. 7.12). Quando uma raiz tem dois canais que se unem em um, o canal lingual ou palatino costuma ser o que dá acesso direto ao ápice. Quando um canal se divide em dois, a divisão é vestibulopalatina ou vestibulolingual, e o canal lingual em geral sai do principal em ângulo agudo, às vezes quase reto.\n\n**O caso difícil.** O mais preocupante é um canal muito estreito que se divide em ângulo de quase 90° e não é achado nem por tato nem com o MO."
+    },
+    {
+      "id": "contorno-e-teto",
+      "titulo": "Acesso de molares: forma de contorno e penetração do teto",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204",
+      "texto": "**Contorno inicial.** Remover cárie e restaurações costuma dar uma forma aceitável, com a câmara no centro do dente, no nível da junção amelocementária. A radiografia interproximal é método preciso para analisar as dimensões da câmara (Fig. 7.34).\n\n**Limites mesiodistais (Fig. 7.33).**\n- Limite mesial, em molares superiores e inferiores: a linha que liga as pontas das cúspides mesiais. As câmaras raramente ficam mesialmente a essa linha.\n- Limite distal inicial nos inferiores: a linha que liga os sulcos vestibular e lingual.\n- Ponto de eleição nos molares: o sulco central, na metade da distância entre os limites mesiodistais.\n\n**Esmalte até a dentina (cerca de 1 mm).** Ponta diamantada esférica 4 ou 6 nos molares; uma broca cônica de fissura pode substituir as esféricas. Mantenha a broca perpendicular à oclusal. O contorno inicial tem de metade a três quartos do tamanho final planejado.\n\n**Forma.** No início, o contorno do molar é oval: maior no sentido vestibulolingual nos superiores e no mesiodistal nos inferiores. Até achar os orifícios, mantenha-o aproximadamente oval. A forma final é aproximadamente **triangular** quando há três canais e **romboide** quando há quatro; os orifícios ditam onde ficam os cantos.\n\n**Penetração do teto.** A profundidade é limitada pela distância medida na radiografia inicial. Se você não sentir a queda da broca na câmara, reavalie a direção da trepanação. Em multirradiculares, perfurações laterais e de furca podem ocorrer rápido se faltar atenção ao detalhe tridimensional. O Cohen incentiva a sondagem ativa com a sonda DG-16 a qualquer momento. Ao atingir a câmara, o resto do teto sai com ponta diamantada ou broca esférica contra o remanescente, com movimentos de tração em direção oclusal."
+    },
+    {
+      "id": "orificios-e-assoalho",
+      "titulo": "Orifícios, saliências cervicais e acesso direto nos posteriores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205",
+      "texto": "**Achar todos os orifícios.** Eles definem as dimensões finais do contorno. O ideal é que fiquem nos cantos do desenho final do acesso, o que facilita os passos seguintes (Fig. 7.35, sonda exploradora endodôntica pesquisando os orifícios).\n\n**Saliências de dentina cervical.** São camadas de dentina que muitas vezes cobrem os orifícios nos posteriores, restringem o acesso aos canais e acentuam as curvaturas que já existem (Fig. 7.36). Junto com a constrição natural dos canais no terço cervical, são os obstáculos internos a um acesso ideal. A solução do livro é remover as saliências e ampliar a entrada do orifício: na Fig. 7.36, uma broca carbide de ponta inativa modela a parede axial para que os orifícios fiquem no mesmo plano da margem cavo-superficial.\n\n**Acesso direto.** Nos posteriores, o Cohen o considera fundamental para um preparo bem-sucedido, dada a complexidade dos canais. O critério é: as limas têm de chegar livres e sem obstáculo ao forame apical ou ao primeiro ponto de curvatura. O texto da p. 205 afirma que isso não é possível quando se fazem acessos minimamente invasivos.\n\n**Inspeção do assoalho.** Com ampliação e iluminação adequadas, examine o assoalho e as paredes da câmara. Confira duas coisas: se os orifícios de todos os canais estão visíveis e se não restou nenhum remanescente de teto (Fig. 7.37).\n\n**Como saber que está certo.** Os orifícios de todos os canais estão visíveis, não restou remanescente de teto e as limas têm acesso livre e desimpedido ao forame apical ou ao primeiro ponto de curvatura."
+    },
+    {
+      "id": "primeiro-molar-superior",
+      "titulo": "Primeiro molar superior: quatro cornos, triângulo molar e canal mesiopalatino (MV-2)",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215",
+      "texto": "**O dente.** É o mais volumoso e um dos mais complexos em raízes e canais. Tem três raízes (mesiovestibular, distovestibular e palatina) e comprimento médio de 20,8 mm (legenda da Fig. 7.58).\n\n**A câmara.** É mais ampla no sentido vestibulolingual e tem **quatro cornos pulpares**: mesiovestibular, mesiopalatino, distovestibular e distopalatino. O formato cervical é romboide, às vezes com os cantos arredondados. O ângulo mesiovestibular é agudo, o distovestibular é obtuso e os palatinos são basicamente retos.\n\n**Os orifícios.**\n- Palatino: centralizado em direção à palatina.\n- Distovestibular: perto de um ângulo obtuso com o assoalho da câmara.\n- Mesiovestibular principal: fica mesialmente e para vestibular em relação ao distovestibular, em ângulo agudo com a câmara. Se a raiz tem um só canal, o orifício pode ser redondo, oval ou achatado.\n- **Mesiopalatino, \"também conhecido como MV-2\"** (como o Cohen escreve): fica mesial e palatinamente ao orifício mesiovestibular, perto ou longe dele.\n\n**Triângulo molar.** É o nome que o Cohen dá à linha que liga os três orifícios principais: mesiovestibular, distovestibular e palatino. O mesiopalatino é descrito à parte, em relação ao mesiovestibular.\n\n**O que a microtomografia mostra (Fig. 7.59).** Há primeiros molares com quatro canais, em que o mesiovestibular e o mesiopalatino dividem uma anastomose no terço médio da raiz, e há molar com quatro cornos pulpares, cinco canais e anastomoses importantes entre eles.\n\n**Raiz palatina.** Ela costuma se curvar para vestibular no terço apical, e essa curvatura pode não aparecer na periapical padrão. A curvatura mais comum da raiz mesiovestibular é para distal, seguida da reta.\n\nO capítulo não dá a frequência do canal mesiopalatino; só descreve onde procurá-lo."
+    },
+    {
+      "id": "segundo-e-terceiro-superiores",
+      "titulo": "Segundo e terceiro molares superiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Segundo e terceiro molares superiores, pp. 214–216",
+      "texto": "**Segundo molar superior.** Pela coroa, pode se parecer bastante com o primeiro. As anatomias radicular e dos canais também são semelhantes às do primeiro, com diferenças. A característica distintiva que o Cohen destaca é que as três raízes geralmente ficam agrupadas, próximas umas das outras. Comprimento médio: 20 mm (legenda da Fig. 7.60).\n\n**Variação que a microtomografia mostra (Fig. 7.61).** Segundos molares superiores com um canal (apresentação incomum), dois, três ou quatro canais distintos.\n\n**Terceiro molar superior.**\n- Comprimento médio: 17 mm (legenda da Fig. 7.62).\n- Pode ter de 1 a 4 raízes e de 1 a 6 canais; em geral tem três raízes e três canais. Pode haver canais em formato de C.\n- A anatomia radicular é completamente imprevisível. Por isso o livro diz que pode ser aconselhável explorar a morfologia do canal para avaliar a probabilidade e o grau de sucesso do tratamento.\n- Pode estar muito inclinado para distal, para vestibular ou para os dois, o que cria um problema de acesso maior que o do segundo molar.\n\n**Na bancada.** Para o contorno e a trepanação, use a seção de acesso dos posteriores (contorno e penetração do teto)."
+    },
+    {
+      "id": "primeiro-molar-inferior",
+      "titulo": "Primeiro molar inferior: canais mesiais, canal mesiomedial e canal distal",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224",
+      "texto": "**O dente.** O Cohen diz que parece ser o dente que mais frequentemente precisa de procedimentos endodônticos, por isso sua morfologia foi muito estudada. Tem cinco cúspides. Em geral há duas raízes, ocasionalmente três: de dois a três canais na mesial e de um a três na distal. Comprimento médio: 21 mm (legenda da Fig. 7.73).\n\n**Raiz mesial.** Os canais são o mesiovestibular e o mesiolingual. Os orifícios geralmente ficam separados na câmara e ligados por um sulco de desenvolvimento.\n\n**Canal mesiomedial (CMM).** Às vezes existe no sulco de desenvolvimento entre os dois canais mesiais. Ele pode ser:\n- só uma anastomose ampla entre os dois canais mesiais;\n- em alguns casos, um canal realmente separado, do orifício ao ápice.\nExplorar a região central do sulco entre os orifícios mesiovestibular e mesiolingual pode estar indicado para achá-lo, se existir. Mas pode resultar em busca cega dentro da anastomose, com risco de perfuração ou de enfraquecer a raiz; o livro aponta a invaginação externa, frequente nos dois lados da raiz, o mesial e o distal.\n\n**Raiz distal.** Com um só canal, o orifício é oval no sentido vestibulolingual e a abertura geralmente fica distalmente ao sulco vestibular. Em geral dá para explorá-lo a partir da face mesial, com sonda DG-16 ou lima K de pequeno diâmetro. Se a ponta da lima faz curva aguda em direção distovestibular ou distolingual, pesquise se há outro orifício. Duas raízes distais separadas são raras, mas podem ocorrer.\n\n**Furca.** Podem existir várias foraminas acessórias na furca dos molares inferiores. Em geral é impossível limpá-las e modelá-las diretamente, e por isso o Cohen manda aplicar protocolos de irrigação abundante."
+    },
+    {
+      "id": "acesso-molares-inferiores",
+      "titulo": "Acesso do primeiro molar inferior, raízes extras, segundo e terceiro molares inferiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226; Acesso cavitário, Dentes posteriores, pp. 203–204",
+      "texto": "**Acesso do primeiro molar inferior.** O acesso tradicional é, em geral, trapezoide ou romboide, qualquer que seja o número de canais (p. 225). Com quatro ou mais canais, os cantos do trapézio ou do losango devem corresponder às posições dos orifícios principais.\n\n**Molares em geral e primeiro molar inferior.** Na p. 204, para os molares em geral, a forma final do acesso é aproximadamente triangular com três canais e romboide com quatro. Na p. 225, o acesso tradicional do primeiro molar inferior é trapezoide ou romboide, independentemente do número de canais. O capítulo traz as duas descrições; aqui ficam lado a lado.\n\n**Raízes extras.** A **radix entomolaris** é uma raiz supranumerária na região distolingual dos molares inferiores. A **radix paramolaris** é uma raiz adicional na região mesiovestibular. Na Fig. 7.76A, a legenda pede para observar a posição lingual do orifício em relação aos dois canais da raiz distal.\n\n**Segundo molar inferior.**\n- Coroa um pouco menor que a do primeiro e mais simétrica; reconhece-se pela proximidade das raízes e por quatro cúspides com sulco oclusal em forma de cruz.\n- As duas raízes muitas vezes se inclinam para distal, em curvatura gradual, com os ápices próximos. Em alguns dentes só há uma raiz.\n- Pode ter um, dois, três ou quatro canais. Comprimento médio: 19,8 mm (legenda da Fig. 7.77).\n- Acesso com dois canais: retangular, amplo no sentido mesiodistal e estreito no vestibulolingual. Com um canal só: oval, alinhado no centro da face oclusal.\n- Variações pela microtomografia (Fig. 7.78): dois canais com raízes fusionadas; três canais iniciais que terminam em um só no ápice; quatro canais distintos.\n\n**Terceiro molar inferior.** É anatomicamente imprevisível e deve ser avaliado pela formação das raízes. Muitas vezes tem padrão oclusal parecido com o do primeiro molar, só que bem menor. Raízes curtas, fundidas, muito curvas ou malformadas frequentemente sustentam coroas bem formadas. Pode ter de uma a quatro raízes e de um a seis canais (comprimento médio, 18,5 mm). Muitos podem ser tratados com êxito apesar das irregularidades. O prognóstico a longo prazo, porém, depende de quanto da superfície da raiz fica em contato com o osso, e o clínico deve pesar isso contra o benefício do tratamento."
+    },
+    {
+      "id": "canal-em-c",
+      "titulo": "Canal em C",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228",
+      "texto": "**Por que existe.** A principal causa é a incapacidade da bainha epitelial de Hertwig de se fundir nas superfícies radiculares vestibular e lingual (Fig. 7.82).\n\n**Onde aparece.** A maioria ocorre no segundo molar inferior. Também foi relatado no primeiro molar inferior, nos primeiro e segundo pré-molares superiores e no primeiro pré-molar inferior (segundo o texto). Nas seções dos dentes, o Cohen diz que o terceiro molar superior e o terceiro molar inferior também podem ter canais em C.\n\n**Como é.** O sistema em C assume muitas variações de morfologia, que o capítulo ilustra nas Figs. 7.82 a 7.84.\n\n**O cuidado que o livro destaca.** A configuração do canal em C pode variar ao longo da profundidade da raiz. Por isso a aparência dos orifícios pode não ser um bom elemento para prever a anatomia real do canal.\n\n**Acesso.** O acesso cavitário varia muito e depende da morfologia da polpa do dente específico. Dentes com anatomia em C são um desafio técnico considerável, e o texto recomenda usar o MO em todas as fases do tratamento."
+    },
+    {
+      "id": "erros-bancada",
+      "titulo": "Cuidados que o Cohen destaca na bancada (cap. 7)",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário e Morfologia dos molares, pp. 204, 205, 213, 217, 224 e 227",
+      "texto": "Cada item junta um risco ou cuidado que o Cohen descreve e o que ele indica fazer.\n\n- **Perder a direção da trepanação.** Sinal: a queda não é sentida na distância medida na radiografia inicial. Em multirradiculares, perfurações laterais e de furca podem ocorrer rápido se faltar atenção ao detalhe tridimensional. Reavalie a direção e use a sonda DG-16 (p. 204).\n- **O contorno enquanto os orifícios não aparecem.** Até localizá-los, a forma fica aproximadamente oval; a forma final (triangular ou romboide) é ditada pelos orifícios (p. 204).\n- **Deixar a saliência de dentina cervical.** Ela cobre o orifício, restringe o acesso e acentua a curvatura. Remova-a e amplie a entrada do orifício (p. 205).\n- **Deixar resto de teto ou orifício sem ver.** Inspecione o assoalho com ampliação e iluminação (p. 205).\n- **Onde procurar o orifício mesiopalatino no molar superior.** O orifício mesiopalatino (MV-2) fica mesial e palatinamente ao mesiovestibular, perto ou longe dele (p. 213).\n- **Buscar às cegas o canal mesiomedial.** Dentro da anastomose, há risco de perfuração ou de enfraquecer a raiz (p. 217).\n- **Aceitar um canal distal único sem testar.** Se a lima faz curva aguda para distovestibular ou distolingual, pesquise outro orifício (p. 224).\n- **Julgar o canal em C só pelo orifício.** A configuração varia ao longo da raiz (p. 227)."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "O que é um istmo, segundo o Cohen?",
+      "verso": "Uma comunicação estreita, em forma de fita, com tecido pulpar, entre dois canais. Fica no terço médio, junto com confluências, reticulados e fundos de saco.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, terço médio, p. 195"
+    },
+    {
+      "id": "f02",
+      "frente": "Que prevalência de istmo o Cohen dá para a raiz mesiovestibular do primeiro molar superior e para as raízes mesiais do primeiro molar inferior?",
+      "verso": "Na mesiovestibular do primeiro molar superior (de 30 a 50%, perto da junção dos terços médio e apical) e nas mesiais dos primeiros molares inferiores (80%, na junção dos terços apical e médio).",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, terço médio, p. 195"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual é o limite mesial do contorno de acesso em molares?",
+      "verso": "A linha que liga as pontas das cúspides mesiais, em superiores e inferiores. As câmaras raramente ficam mesialmente a ela.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+    },
+    {
+      "id": "f04",
+      "frente": "Onde fica o ponto de eleição nos molares?",
+      "verso": "No sulco central, na metade da distância entre os limites mesiodistais.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+    },
+    {
+      "id": "f05",
+      "frente": "Que ponta se usa para atravessar o esmalte até a dentina (cerca de 1 mm) em molares?",
+      "verso": "Ponta diamantada esférica 4 ou 6. Uma broca cônica de fissura pode substituir as esféricas. A broca fica perpendicular à oclusal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual é a forma final do acesso de molar e o que a define?",
+      "verso": "Aproximadamente triangular (três canais) ou romboide (quatro canais). Os orifícios ditam a posição dos cantos; até achá-los, o contorno fica oval.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+    },
+    {
+      "id": "f07",
+      "frente": "Você não sentiu a queda da broca na câmara. O que o Cohen manda fazer?",
+      "verso": "Reavaliar a direção da trepanação. A profundidade é limitada pela distância medida na radiografia inicial, e a sonda DG-16 pode ser usada a qualquer momento.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+    },
+    {
+      "id": "f08",
+      "frente": "O que são as saliências de dentina cervical e o que fazer com elas?",
+      "verso": "Camadas de dentina que cobrem os orifícios nos posteriores, restringem o acesso e acentuam as curvaturas. Remova-as e amplie a entrada do orifício.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205"
+    },
+    {
+      "id": "f09",
+      "frente": "Quantos cornos pulpares tem o primeiro molar superior e quais são?",
+      "verso": "Quatro: mesiovestibular, mesiopalatino, distovestibular e distopalatino.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+    },
+    {
+      "id": "f10",
+      "frente": "Onde fica o orifício do canal mesiopalatino (MV-2) no primeiro molar superior?",
+      "verso": "Mesial e palatinamente ao orifício mesiovestibular, perto ou longe dele. O Cohen não dá a frequência desse canal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+    },
+    {
+      "id": "f11",
+      "frente": "O que é o \"triângulo molar\" no primeiro molar superior?",
+      "verso": "A linha que liga os três orifícios principais: mesiovestibular, distovestibular e palatino.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+    },
+    {
+      "id": "f12",
+      "frente": "Quantas raízes e canais tem, em geral, o terceiro molar superior, e o que o livro diz da anatomia?",
+      "verso": "Em geral três raízes e três canais, mas pode ter de 1 a 4 raízes e de 1 a 6 canais, e a anatomia é completamente imprevisível. Pode haver canal em C.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Segundo e terceiro molares superiores, pp. 214–216"
+    },
+    {
+      "id": "f13",
+      "frente": "Quantas raízes e canais costuma ter o primeiro molar inferior?",
+      "verso": "Em geral duas raízes (às vezes três): de dois a três canais na mesial e de um a três na distal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+    },
+    {
+      "id": "f14",
+      "frente": "O que o Cohen alerta sobre o canal mesiomedial do primeiro molar inferior?",
+      "verso": "Ele pode ser só uma anastomose ampla entre os canais mesiais ou um canal separado. Explorar o sulco pode ser busca cega dentro da anastomose, com risco de perfuração ou de enfraquecer a raiz.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual é a diferença entre radix entomolaris e radix paramolaris?",
+      "verso": "Entomolaris: raiz extra na região distolingual dos molares inferiores. Paramolaris: raiz extra na região mesiovestibular.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226"
+    },
+    {
+      "id": "f16",
+      "frente": "Por que não basta olhar o orifício para saber a anatomia de um canal em C?",
+      "verso": "Porque a configuração do canal em C pode variar ao longo da profundidade da raiz; o orifício pode não prever a anatomia real.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Em um primeiro molar superior, você já achou os orifícios palatino, distovestibular e mesiovestibular. Segundo o Cohen, onde procurar o orifício do canal mesiopalatino (MV-2)?",
+      "alternativas": [
+        {
+          "texto": "Distal e vestibularmente ao orifício distovestibular.",
+          "correta": false,
+          "justificativa": "O Cohen descreve o orifício distovestibular como um dos três principais, perto de ângulo obtuso com o assoalho; o mesiopalatino fica do lado mesial.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "Mesial e palatinamente ao orifício mesiovestibular, perto ou longe dele.",
+          "correta": true,
+          "justificativa": "É a localização que o Cohen dá: mesial e palatinamente ao orifício mesiovestibular, perto ou longe dele.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "Centralizado em direção palatina, junto ao orifício palatino.",
+          "correta": false,
+          "justificativa": "Orifício centralizado em direção palatina é o do canal palatino, um dos três principais, e não o mesiopalatino.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "Distalmente ao orifício palatino, no ângulo distopalatino da câmara.",
+          "correta": false,
+          "justificativa": "O Cohen põe o mesiopalatino mesial e palatinamente ao mesiovestibular, não no lado distal da câmara.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215",
+      "secao": "primeiro-molar-superior",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "No primeiro molar superior, o que o Cohen chama de \"triângulo molar\"?",
+      "alternativas": [
+        {
+          "texto": "A linha que liga os orifícios mesiovestibular, mesiopalatino e palatino.",
+          "correta": false,
+          "justificativa": "O mesiopalatino não está entre os três orifícios principais; o Cohen o descreve à parte, mesial e palatinamente ao mesiovestibular.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "A linha que liga os orifícios distovestibular, palatino e mesiopalatino.",
+          "correta": false,
+          "justificativa": "Essa combinação inclui o mesiopalatino, que o Cohen descreve à parte; os três principais são mesiovestibular, distovestibular e palatino.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "A linha que liga os orifícios mesiovestibular, mesiopalatino e distovestibular.",
+          "correta": false,
+          "justificativa": "Essa combinação inclui o mesiopalatino e deixa de fora o palatino, que é um dos três orifícios principais.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        },
+        {
+          "texto": "A linha que liga os orifícios mesiovestibular, distovestibular e palatino.",
+          "correta": true,
+          "justificativa": "Correta: são os três orifícios principais, mesiovestibular, distovestibular e palatino.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar superior, pp. 213–215"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar superior, pp. 213–215",
+      "secao": "primeiro-molar-superior",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Você vai abrir o acesso de um primeiro molar inferior e ainda não localizou nenhum orifício. Que forma de contorno o Cohen manda manter até achá-los?",
+      "alternativas": [
+        {
+          "texto": "Triangular, com os cantos já nas posições esperadas dos orifícios.",
+          "correta": false,
+          "justificativa": "A forma final triangular (três canais) vem depois, quando os orifícios ditam o posicionamento dos cantos; até localizá-los, a forma inicial fica aproximadamente oval.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Oval, maior no sentido vestibulolingual, como no molar superior.",
+          "correta": false,
+          "justificativa": "No molar superior o contorno oval é maior no sentido vestibulolingual; nos inferiores é maior no mesiodistal.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Aproximadamente oval, maior no sentido mesiodistal nos molares inferiores.",
+          "correta": true,
+          "justificativa": "Correta: o contorno inicial do molar é oval, maior no mesiodistal nos inferiores, e assim fica até localizar os orifícios.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Romboide, com os quatro cantos já marcados.",
+          "correta": false,
+          "justificativa": "A forma romboide (quatro canais) é a forma final, definida pelos orifícios; até localizá-los o contorno fica aproximadamente oval.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204",
+      "secao": "contorno-e-teto",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Ao trepanar um molar com o contorno inicial dentro do limite mesial (a linha que liga as pontas das cúspides mesiais), você chegou à profundidade medida na radiografia inicial e não sentiu a queda da broca na câmara. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Reavaliar a direção da trepanação, usando a sonda DG-16 se necessário.",
+          "correta": true,
+          "justificativa": "Correta: se a queda não for sentida, reavalia-se a direção da trepanação; o Cohen incentiva a sondagem ativa com DG-16 a qualquer momento.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Continuar aprofundando até sentir a queda, porque a medida da radiografia é só referência.",
+          "correta": false,
+          "justificativa": "A penetração do teto é limitada pela distância medida na radiografia inicial; em multirradiculares, perfurações laterais e de furca podem ocorrer rápido.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Remover o resto do teto com ponta diamantada, em movimentos de tração para oclusal.",
+          "correta": false,
+          "justificativa": "Esse passo vem depois de atingir a câmara; aqui a câmara ainda não foi atingida.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        },
+        {
+          "texto": "Alargar o contorno para além da linha das pontas das cúspides mesiais.",
+          "correta": false,
+          "justificativa": "O enunciado já traz o contorno dentro do limite mesial, e as câmaras raramente ficam mesialmente a essa linha (p. 204); a conduta do Cohen para a queda não sentida é reavaliar a direção da trepanação.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204",
+      "secao": "contorno-e-teto",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Num molar superior, a lima de pequeno diâmetro entra no canal, mas é empurrada contra a parede porque há uma camada de dentina sobre o orifício. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Manter a dentina, porque as saliências cervicais protegem o canal de curvaturas.",
+          "correta": false,
+          "justificativa": "O Cohen diz o contrário: as saliências cervicais restringem o acesso aos canais e acentuam as curvaturas existentes.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205"
+        },
+        {
+          "texto": "Passar a um acesso minimamente invasivo, que garante o acesso direto.",
+          "correta": false,
+          "justificativa": "O texto afirma que o acesso direto, fundamental nos posteriores, não é possível com acessos minimamente invasivos.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205"
+        },
+        {
+          "texto": "Inspecionar o assoalho com iluminação e aceitar a curvatura como própria do canal.",
+          "correta": false,
+          "justificativa": "A inspeção do assoalho serve para ver os orifícios e os restos de teto; as saliências é que acentuam as curvaturas existentes e restringem o acesso, e por isso são removidas.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205"
+        },
+        {
+          "texto": "Remover as saliências de dentina cervical e ampliar a entrada do orifício.",
+          "correta": true,
+          "justificativa": "Correta: as saliências restringem o acesso e acentuam as curvaturas; a lima precisa chegar livre ao forame apical ou ao primeiro ponto de curvatura.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes posteriores, p. 205",
+      "secao": "orificios-e-assoalho",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Num primeiro molar inferior, você explora o sulco entre os orifícios mesiovestibular e mesiolingual. O que o Cohen alerta sobre o canal mesiomedial?",
+      "alternativas": [
+        {
+          "texto": "Ele sempre é um canal separado, do orifício ao ápice, e basta explorar o sulco.",
+          "correta": false,
+          "justificativa": "O Cohen diz que o canal mesiomedial pode ser só uma anastomose ampla e, em alguns casos, um canal separado; não é sempre separado.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Ele pode ser só uma anastomose ampla; a busca cega nela traz risco de perfuração ou de enfraquecer a raiz.",
+          "correta": true,
+          "justificativa": "Correta: pode ser anastomose ampla entre os dois canais mesiais ou canal separado; a busca cega pode causar perfuração ou enfraquecer a raiz.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Ele fica na raiz distal, perto da furca.",
+          "correta": false,
+          "justificativa": "O canal mesiomedial está no sulco de desenvolvimento entre os canais mesiais, na raiz mesial.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Ele está sempre presente, como terceiro canal da raiz mesial.",
+          "correta": false,
+          "justificativa": "O Cohen diz que o canal mesiomedial às vezes está presente no sulco entre os canais mesiais; não é sempre presente.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224",
+      "secao": "primeiro-molar-inferior",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Primeiro molar inferior com um só canal distal, oval no sentido vestibulolingual, sem achado na região de furca. Você explora a partir da mesial com lima K de pequeno diâmetro, e a ponta faz curva aguda em direção distovestibular. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Seguir em frente: o canal distal é único e já foi encontrado.",
+          "correta": false,
+          "justificativa": "O Cohen diz que, se a ponta da lima faz curva aguda para distovestibular ou distolingual, deve-se pesquisar se há outro orifício.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Tratar as foraminas da furca por instrumentação direta.",
+          "correta": false,
+          "justificativa": "O enunciado não traz achado na furca; o Cohen diz que as foraminas acessórias da furca geralmente são impossíveis de limpar e modelar diretamente e pede irrigação abundante (p. 224).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Pesquisar se há outro orifício.",
+          "correta": true,
+          "justificativa": "Correta: a curva aguda da ponta da lima é o sinal que manda pesquisar outro orifício.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        },
+        {
+          "texto": "Trocar a lima por outra mais fina e voltar ao mesmo orifício.",
+          "correta": false,
+          "justificativa": "Diante da curva aguda, o Cohen manda pesquisar se há outro orifício (p. 224).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro molar inferior, p. 217 e p. 224",
+      "secao": "primeiro-molar-inferior",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Um primeiro molar inferior tem quatro canais. Segundo o Cohen (cap. 7, p. 225), como deve ser o acesso cavitário tradicional?",
+      "alternativas": [
+        {
+          "texto": "Trapezoide ou romboide, com os cantos nas posições dos orifícios principais.",
+          "correta": true,
+          "justificativa": "Correta: na p. 225, o acesso tradicional do primeiro molar inferior é trapezoide ou romboide, e com quatro ou mais canais os cantos correspondem aos orifícios principais.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226"
+        },
+        {
+          "texto": "Oval, alinhado no centro da face oclusal.",
+          "correta": false,
+          "justificativa": "Essa é a forma do acesso de um segundo molar inferior com um canal só, não do primeiro molar com quatro canais.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226"
+        },
+        {
+          "texto": "Retangular, amplo no sentido mesiodistal e estreito no vestibulolingual.",
+          "correta": false,
+          "justificativa": "Essa é a forma do acesso de um segundo molar inferior com dois canais.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226"
+        },
+        {
+          "texto": "Triangular, como em molar com três canais.",
+          "correta": false,
+          "justificativa": "Na p. 204, a forma triangular é a de molar com três canais; o enunciado traz quatro canais, para os quais a p. 204 dá romboide.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes posteriores, pp. 203–204"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro, segundo e terceiro molares inferiores, pp. 225–226",
+      "secao": "acesso-molares-inferiores",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Num segundo molar inferior, os orifícios aparecem unidos em arco, sugerindo canal em C. Segundo o Cohen, por que a aparência dos orifícios pode não servir de guia para a anatomia do canal?",
+      "alternativas": [
+        {
+          "texto": "Porque o canal em C só ocorre em pré-molares, nunca em molares.",
+          "correta": false,
+          "justificativa": "O Cohen diz que a maioria dos canais em C ocorre no segundo molar inferior; também há relatos nos primeiros molares inferiores e em pré-molares.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228"
+        },
+        {
+          "texto": "Porque o acesso do canal em C é sempre igual, qualquer que seja o dente.",
+          "correta": false,
+          "justificativa": "O texto diz que o acesso varia muito e depende da morfologia da polpa do dente específico.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228"
+        },
+        {
+          "texto": "Porque a configuração do canal em C pode variar ao longo da profundidade da raiz.",
+          "correta": true,
+          "justificativa": "Correta: como a configuração varia ao longo da raiz, a aparência dos orifícios pode não ser bom elemento preditivo da anatomia real.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228"
+        },
+        {
+          "texto": "Porque o canal em C dispensa o microscópio, que só serve para canais acessórios.",
+          "correta": false,
+          "justificativa": "O texto recomenda o uso do MO em todas as fases do tratamento de dentes com canal em C.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Dentes com sistema de canais radiculares em forma de letra C, pp. 227–228",
+      "secao": "canal-em-c",
+      "figura": null
+    }
+  ]
+}

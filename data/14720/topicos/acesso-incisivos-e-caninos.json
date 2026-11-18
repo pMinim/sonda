@@ -1,0 +1,590 @@
+{
+  "slug": "acesso-incisivos-e-caninos",
+  "titulo": "Acesso cavitário (cirurgia de acesso) em incisivos e caninos: ponto de eleição, remoção do teto, desgaste compensatório",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap07",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 7, Morfologia Dental e Acesso Cavitário, p. 189–231 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 7"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "componentes",
+      "titulo": "Câmara, canal e orifícios: o que o acesso precisa revelar",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Componentes do sistema de canais radiculares, pp. 190–191; Determinação clínica da configuração do canal radicular, pp. 194–195; Abertura do capítulo, p. 189",
+      "texto": "Os fatos deste tema são do Cohen, *Caminhos da Polpa*, cap. 7. As páginas citadas são as do contador da edição digital.\n\n**Duas partes.** A cavidade pulpar tem a **câmara pulpar**, na coroa anatômica ou logo abaixo dela, e o **canal radicular**. Nos dentes unirradiculares, a câmara chega até a parte mais apical da margem cervical da coroa.\n\n**Dentro do dente:** orifícios de entrada dos canais, canais acessórios e laterais, istmos, deltas apicais e forames apicais. O contorno da cavidade pulpar costuma acompanhar o do dente. Envelhecimento, doenças, trauma e oclusão mudam as dimensões, porque o dente produz dentina fisiológica ou terciária; os cornos sofrem mineralização rápida.\n\n**O canal.** Começa em funil, em geral sobre a linha cervical ou apicalmente a ela, e termina no **forame apical**, que se abre na raiz a até 3 mm do centro do ápice radicular. Quase todos os canais são curvos, principalmente no sentido vestibulolingual, e a radiografia periapical não mostra essa curva. É ela que cria problemas no preparo. Na maioria dos casos o número de canais é igual ao de raízes, mas uma raiz oval pode ter mais de um canal.\n\n**Canais acessórios** são canalículos que saem da cavidade pulpar para o periodonto. Segundo o texto, 74% ficam no terço apical, 11% no médio e 15% no cervical. **Deltas apicais** são vários canais acessórios que se ramificam do principal perto do ápice.\n\n**Orifícios.** Antes de abrir, a avaliação inicial usa **duas ou mais radiografias periapicais em angulações horizontais diferentes**; com uma só tomada ortorradial, a leitura da morfologia nem sempre é correta (p. 189). O assoalho da câmara mostra onde estão os orifícios. Se há **um só canal**, ele geralmente fica no centro da cavidade de acesso. Se você acha **uma só entrada** e ela não está no centro da raiz, provavelmente há outro orifício do lado oposto. Uma entrada oval deve ser explorada com instrumento de pequeno diâmetro **curvado na ponta**, a curva apontando para o lado do canal procurado (Fig. 7.13). Quando uma raiz tem dois canais que se unem em um, o lingual ou palatino costuma ser o de acesso direto ao ápice; quando um canal se divide, o lingual sai em ângulo agudo, às vezes quase reto.\n\n**Ápice.** O livro descreve constrição apical, junção cementodentinária e forame apical, e diz que o forame **normalmente não emerge no ápice anatômico**. Onde termina o trabalho no ápice é assunto do tema de comprimento de trabalho; aqui só importa que o acesso leve o instrumento até lá sem deflexão.\n\n**Para a bancada:** o canal que você vai instrumentar quase sempre curva no sentido que a periapical esconde; por isso o desenho do acesso (seções seguintes) importa tanto."
+    },
+    {
+      "id": "objetivos",
+      "titulo": "Objetivos do acesso cavitário",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197; Dentes anteriores (determinação do acesso direto), p. 203",
+      "texto": "O acesso ao sistema de canais é a **primeira fase importante** de qualquer procedimento endodôntico não cirúrgico. O Cohen lista seis objetivos:\n\n1. remover todo o tecido cariado, quando houver;\n2. conservar a estrutura dentária saudável;\n3. eliminar completamente o teto da câmara pulpar;\n4. remover todo o tecido pulpar coronário, vital ou necrótico;\n5. localizar todos os orifícios de entrada dos canais;\n6. chegar em linha reta ao forame apical ou, pelo menos, à primeira curvatura do canal.\n\n**Por que linha reta.** Um acesso bem feito cria uma trajetória reta e suave até o ápice ou até o começo da primeira curvatura (Fig. 7.19A). O livro dá quatro vantagens: melhora a visão do espaço do canal, favorece o desbridamento, reduz o risco de fratura do instrumento e dá ao orifício uma entrada retilínea, com ângulos que formam um funil para dentro do canal. O instrumento **não deve ser defletido** antes da primeira curvatura. O texto admite que, em alguns casos, é preciso sacrificar mais estrutura coronária para chegar à câmara.\n\n**Como conferir na bancada.** Use os seis objetivos como lista de verificação. O objetivo 6 é o acesso direto: a lima de pequeno diâmetro chega ao forame ou à primeira curvatura sem deflexão (p. 203).\n\nO mesmo capítulo descreve um acesso **tradicional** e um **minimamente invasivo**. Os seis objetivos acima são os do tradicional; o minimamente invasivo tem seção própria adiante."
+    },
+    {
+      "id": "passos",
+      "titulo": "Passos-chave do acesso tradicional",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198",
+      "texto": "O Cohen separa quatro passos.\n\n**a) Avaliar a junção amelocementária e a anatomia oclusal.** Tradicionalmente algumas cavidades usavam como referência a anatomia oclusal ou lingual. Confiar **só** nisso é decisão perigosa: a coroa muda com cárie e restaurações, e a raiz pode não ser perpendicular à oclusal. Depender só da anatomia oclusal ou lingual pode explicar perfurações coronárias ao longo da linha cervical ou em direção à furca. O texto cita Krasner e Rankow: a **junção amelocementária (JAC)** é o ponto de referência anatômico mais importante para localizar câmaras e orifícios.\n\n**b) Preparar pela face certa.** Nos anteriores, o acesso é feito pela **face lingual ou palatina**; nos posteriores, pela oclusal. É a melhor opção para acesso direto e para reduzir problemas estéticos e restauradores.\n\n**c) Remover restaurações deficientes e cárie antes de abrir a câmara.** É essencial por várias razões: fraturas e cáries ocultas costumam aparecer, e melhora a avaliação de se o dente pode ser restaurado (a Fig. 7.21 mostra uma fratura vertical que só apareceu depois de remover o amálgama). Não é raro adiar o acesso para fazer antes um aumento de coroa clínica ou reconstruir parede com resina composta.\n\n**d) Fazer os desgastes compensatórios.** Remova estrutura dentária suficiente para posicionar os instrumentos com facilidade em cada orifício, sem interferência das paredes. Isso vale principalmente quando o canal se curva muito ou sai do assoalho em ângulo obtuso. O desenho do acesso, portanto, depende do orifício e também da posição e da curvatura do canal como um todo."
+    },
+    {
+      "id": "minimamente",
+      "titulo": "Acesso minimamente invasivo e acesso direto",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203",
+      "texto": "No acesso minimamente invasivo, o objetivo é **preservar o máximo de estrutura dentária** enquanto se localiza, desbrida, alarga, modela e obtura o canal. O Cohen avisa que se escreveu muito sobre o assunto e que ainda faltam resultados baseados em evidência definitiva: é uma abordagem de base empírica.\n\n**Nomes que o livro usa:** técnica endodôntica guiada, técnica microguiada, cavidades constritas, aberturas de acesso direcionado e acesso com preservação de dentina dirigido pelo orifício de entrada.\n\n**O que o texto pede:**\n- planejar o acesso para preservar estrutura e prevenir fratura;\n- evitar principalmente o desgaste cervical, o lateral e o em direção ao assoalho da câmara (Figs. 7.22 e 7.23);\n- mesmo com o orifício bem localizado e a entrada no canal cuidadosa, minimizar a remoção excessiva de dentina cervical.\n\n**O que o livro não decide.** Acessos muito restritos *podem ou não* ter grande impacto sobre as demais etapas (Fig. 7.24). A literatura indica que perder estrutura em certos dentes pode enfraquecer o dente na região cervical e deixá-lo suscetível à fratura, mas o texto diz que esse conceito foi questionado.\n\n**Acesso direto no acesso restrito.** Nos dentes anteriores, a meta ideal é chegar em linha reta ao orifício: uma lima de pequeno diâmetro deve alcançar o forame apical ou o primeiro ponto de curvatura **sem deflexão**. O Cohen ressalva que o conceito de acesso direto pode não ser totalmente exequível quando se usam acessos minimamente invasivos.\n\nO livro não dá um tamanho de cavidade que valha para todos os dentes."
+    },
+    {
+      "id": "instrumentos",
+      "titulo": "Instrumentos do acesso: brocas, sonda, cureta e ultrassom",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Fases mecânicas do acesso cavitário, pp. 200–201",
+      "texto": "**Brocas e pontas diamantadas.** Existem vários modelos feitos só para o acesso (Fig. 7.25: brocas carbide esféricas e de fissura, pontas diamantadas cônicas e esféricas, broca transmetal e outras). A maioria dos clínicos tem o conjunto de sua preferência, e o livro não fixa um conjunto único.\n\n**Restauração metálica.** Muitos dentes têm amálgama, peça fundida ou coroa metalocerâmica que precisa ser perfurada. A **broca transmetal** é citada como excelente para cortar metal.\n\n**Zircônia.** Brocas carbide não cortam a zircônia com segurança e eficiência. A zircônia é friável e, ao ser cortada, pode rachar; a rachadura se propaga para a estrutura do dente e leva ao fracasso da coroa. Para esse material os fabricantes lançaram **pontas diamantadas de granulação média e fina**, que devem ser usadas com **jatos de água abundantes** para minimizar o aquecimento durante o acesso.\n\n**Sonda exploradora endodôntica.** A sonda DG-16 identifica orifícios de entrada e a angulação dos canais. Como alternativa, a JW-17 tem ponta mais delgada e rígida e pode identificar a localização de um canal calcificado.\n\n**Cureta endodôntica.** A cureta afiada, em vários tamanhos, remove polpa da câmara e dentina cariada.\n\n**Ultrassom.** Unidade ultrassônica com pontas projetadas para a abertura coronária é \"extremamente valiosa\" segundo o livro: regulariza e aprofunda sulcos de desenvolvimento, remove tecido e explora canais. Dá visibilidade excelente em comparação com peças de mão, cujas extremidades costumam obstruir a visão.\n\n**Magnificação e iluminação.** Na falta do microscópio clínico odontológico, o Cohen recomenda muito lupas cirúrgicas com luz auxiliar. O assunto tem tema próprio na disciplina (inovações tecnológicas)."
+    },
+    {
+      "id": "contorno",
+      "titulo": "Anteriores: forma de contorno e penetração",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202",
+      "texto": "Esta seção vale para incisivos e caninos, superiores e inferiores. As particularidades de cada dente estão nas seções por dente.\n\n**1. Ponto de eleição.** Em dente hígido, o desgaste começa no **centro da face lingual ou palatina da coroa anatômica** (Fig. 7.26A).\n\n**2. Forma de contorno inicial.** Desenhe uma forma parecida com a forma final ideal do acesso para aquele dente. Segundo a legenda da Fig. 7.26B, ela tem de metade a três quartos do tamanho do contorno final (um desenho triangular). Durante esse passo, a broca fica **perpendicular** à face lingual ou palatina (Fig. 7.26C).\n\n**3. Penetração do teto.** Clínicos experientes penetram em alta rotação. Os menos experientes podem preferir o contra-ângulo em **baixa rotação**, de melhor sensação tátil, que o livro chama de opção mais segura. Com a mesma broca esférica ou de fissura, **mude o ângulo**: de perpendicular à face lingual para quase **paralelo ao longo eixo do dente** (Figs. 7.26C e D). Avance pelo longo eixo até o teto; é comum sentir uma **queda** para dentro da câmara.\n\n**4. Limite de profundidade.** Meça na radiografia inicial, que é dimensionalmente precisa, a distância da **borda incisal ao teto da câmara**: isso pode guiar o limite da penetração e prevenir perfuração. Se a queda não vier nessa profundidade, use a sonda DG-16 para examinar a profundidade. Frequentemente há uma pequena abertura, ou a dentina está muito fina, e a sonda entra na câmara.\n\n**5. Direção.** Avalie profundidade e angulação quanto a desvios do longo eixo nos sentidos mesiodistal e vestibulolingual, e **realinhe a direção** da trepanação se preciso. Em caso de dúvida ou perda de referência, radiografias anguladas avaliam o progresso a qualquer momento.\n\n**Ordem.** O ombro lingual e o acesso direto vêm só depois de penetrar a câmara, remover o teto e confirmar os orifícios (seções seguintes)."
+    },
+    {
+      "id": "teto-ombro",
+      "titulo": "Anteriores: remover o teto e o ombro lingual",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (remoção do teto, ombro lingual), Figs. 7.26 a 7.29, pp. 201–203",
+      "texto": "**Remoção do teto.** Com a câmara penetrada, o resto do teto sai colocando a **broca esférica sob o remanescente dentinário** e tracionando, com movimentos de retirada (Fig. 7.26E). Assim a anatomia interna da polpa orienta a forma de contorno. O teto inteiro, incluindo os cornos pulpares, é removido, e todas as paredes internas são alargadas até a superfície lingual ou palatina. Confirme a remoção completa com a **sonda exploradora**. A irrigação copiosa com hipoclorito de sódio ajuda a controlar a hemorragia (o livro não dá volume).\n\n**Ombro lingual.** Depois de identificados e confirmados os orifícios, remova o ombro lingual: a projeção de dentina do cíngulo que desce até cerca de **2 mm apicalmente à entrada do canal** (Fig. 7.27). Tirá-lo melhora o acesso direto e aproxima as limas das paredes do canal, para modelagem e limpeza efetivas. Nos incisivos inferiores, pode expor um segundo canal ou orifício.\n\n**Como ampliar a entrada.** A abordagem contemporânea usa instrumentos rotatórios de níquel-titânio, que removem o ombro lingual de forma rápida e segura, seguindo as instruções de uso do fabricante. Alguns preferem as **brocas de Gates-Glidden**, que refinam o formato dos orifícios com mínima remoção de dentina. Com elas: comece pela broca **mais larga que se adapte passivamente a 2 mm de profundidade** a partir da entrada do canal, com **pressão suave**, e amplie o orifício de modo contíguo a todas as paredes axiais do preparo. Se isso não for alcançado, usam-se outros instrumentos de ampliação da entrada.\n\n**Cuidado com o bisel.** Posicione a broca de modo a **não criar bisel** no ângulo cavo-superficial incisal do acesso. A legenda da Fig. 7.28 diz que um bisel incisal na face palatina de anterior superior pode levar à fratura da restauração permanente na função oclusal."
+    },
+    {
+      "id": "acesso-direto",
+      "titulo": "Anteriores: acesso direto, margens e o que pode dar errado",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, passos-chave e acessos desafiadores (ocorrências descritas), pp. 197–198, 201, 203, 208 e 214; Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Figs. 7.28 e 7.29, p. 203",
+      "texto": "**Conferir o acesso direto.** A meta ideal é um acesso em linha reta ao orifício: uma lima de **pequeno diâmetro** deve alcançar o forame apical, ou o primeiro ponto de curvatura, **sem deflexão**. Se o ombro lingual já foi removido e a lima ainda é forçada contra a borda incisal, **estenda o acesso em direção incisal** até a lima não ser mais defletida (Fig. 7.29B). A posição final da parede incisal é determinada por dois fatores: a remoção completa dos cornos pulpares e o acesso direto.\n\n**Refinar as margens.** O último passo é refinar e alisar as margens cavo-superficiais. Margens ásperas ou irregulares podem contribuir para infiltração marginal em restaurações provisórias ou permanentes. O livro não descreve o passo a passo do selamento provisório.\n\n**Reunião dos passos do capítulo (o livro não apresenta como lista de término).** O teto saiu inteiro e a sonda exploradora confirma; os cornos pulpares foram removidos; o ombro lingual foi removido e os orifícios estão visíveis; a lima fina chega ao forame ou à primeira curvatura sem ser defletida; as margens estão lisas, sem bisel incisal.\n\n**O que o capítulo descreve como consequência de errar o acesso:**\n- Guiar-se só pela coroa (a coroa muda com cárie e restaurações, e a raiz pode não ser perpendicular): o livro liga isso a perfurações coronárias ao longo da linha cervical (p. 197). A referência é a JAC.\n- Abrir a câmara antes de remover restauração deficiente e cárie: o livro diz que remover antes costuma revelar fraturas ou cáries ocultas e melhora a avaliação de se o dente é restaurável (p. 198).\n- Penetrar sem medir na radiografia inicial a distância da borda incisal ao teto: a medida pode guiar o limite da penetração e prevenir perfuração (p. 201).\n- Deixar o ombro lingual: a lima é defletida para a vestibular e parte da parede lingual do canal fica sem modelagem e sem limpeza (Fig. 7.29A, p. 203). Nos inferiores, o ombro esconde o possível segundo canal (p. 214).\n- Fazer bisel incisal na face palatina de anterior superior: pode levar à fratura da restauração permanente (Fig. 7.28, p. 203).\n- Ignorar a rotação do dente apinhado: pode levar a procurar canais na direção errada, a desgastar demais e a fraturar instrumento (p. 208).\n\nOs dentes posteriores têm discussão separada no capítulo e não entram neste tema."
+    },
+    {
+      "id": "calcificados",
+      "titulo": "Canais presumidamente calcificados",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acessos cavitários desafiadores, canais presumidamente calcificados, pp. 206–208",
+      "texto": "Câmaras e raízes com calcificação importante dificultam localizar e explorar o canal. Para o Cohen, a magnificação é essencial quando a cavidade de acesso é mínima, e o orifício só deve ser procurado depois de preparar a câmara por completo, com o assoalho **limpo e seco**. Depois da primeira entrada no canal com instrumento de pequeno diâmetro, **confirme por radiografia** (Fig. 7.44). O capítulo traz outros recursos para esses casos, ilustrados sobretudo com molares, e eles não entram neste tema de dentes anteriores."
+    },
+    {
+      "id": "apinhados",
+      "titulo": "Dentes apinhados ou girovertidos",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, Fig. 7.20, p. 197; Fig. 7.46, p. 208",
+      "texto": "Nos dentes apinhados ou girovertidos, o acesso tradicional ou o minimamente invasivo **pode não ser possível**. A escolha de outra abordagem deve se basear nos princípios de **acesso direto** e de **preservação da estrutura dentária**. Em certas circunstâncias pode ser indicado acesso pela **face incisal ou pela vestibular**, ou desenvolver um formato padrão baseado no **grau de rotação** do dente (Fig. 7.46). Na Fig. 7.46, em incisivos e canino inferiores apinhados, o acesso do canino e o do incisivo lateral foram feitos pela face vestibular, e a cavidade foi restaurada com resina composta.\n\n**Dente girovertido ou inclinado para lingual.** O acesso pela incisal costuma ser a opção preferida. Ele é feito **antes do dique de borracha** ou depois de determinar com cuidado a direção da raiz, antes de usar a broca (p. 197). Alguns autores recomendam, nos **incisivos inferiores**, passar o acesso da lingual para a incisal em certos casos, o que pode dar melhor acesso ao canal lingual e melhor desbridamento (Fig. 7.20).\n\n**O que acontece se você ignora a angulação do dente.** A lista do livro:\n- identificar de forma equivocada um canal já localizado e procurar canais adicionais na direção errada;\n- não conseguir localizar um canal ou canais extras;\n- desgastar demais a coroa e a raiz;\n- fraturar o instrumento ao tentar localizar o orifício;\n- não conseguir desbridar todo o tecido pulpar da câmara.\n\n**Como se defender.** Sempre que localizar um canal difícil, **posicione uma lima e faça radiografia angulada**.\n\n**Resumo:** o princípio não muda (acesso direto e preservação da estrutura); muda a face de entrada e o desenho, conforme a posição do dente."
+    },
+    {
+      "id": "inc-superiores",
+      "titulo": "Incisivos central e lateral superiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210",
+      "texto": "**Incisivo central superior.** O desenho do sistema de canais reflete o **formato da superfície externa** do dente (Fig. 7.47). A forma de contorno do acesso é um **triângulo de cantos arredondados, com a base voltada para a face incisal** (Fig. 7.49, visto ao microscópio clínico odontológico). Nas microtomografias, aparecem a apresentação comum, o canal lateral (comum) e, raramente, múltiplos canais (Fig. 7.48).\n\n**Incisivo lateral superior.** O formato da câmara é parecido com o do central, porém **menor**. Podem existir **dois cornos pulpares ou nenhum** (Fig. 7.50). Nas microtomografias aparecem como comuns um canal lateral volumoso e, em alguns dentes, um delta apical (Fig. 7.51).\n\n**Como usar isto na bancada.**\n- O contorno triangular do central tem a base na incisal: é a forma para a qual você caminha com o contorno inicial e os desgastes compensatórios.\n- No lateral, confira se removeu o teto e os cornos que existam (dois ou nenhum), e se a lima fina chega ao forame ou à primeira curvatura sem deflexão.\n- Em ambos, o ombro lingual é a projeção que fica entre você e o canal: remova-o, como descrito na seção sobre teto e ombro.\n\n**Números por dente** (comprimento médio, curvatura da raiz) estão na seção de medidas.\n\nO capítulo não detalha, para esses dois dentes, quanto de dentina remover nem uma sequência de brocas."
+    },
+    {
+      "id": "caninos",
+      "titulo": "Caninos superior e inferior",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217",
+      "texto": "**Canino superior.** O sistema de canais é parecido, em muitos aspectos, com o dos incisivos superiores (Fig. 7.52). O Cohen aponta duas diferenças:\n- é **mais amplo no sentido vestibulolingual** que no mesiodistal;\n- **não tem cornos pulpares**.\n\nEm geral há **um canal radicular**, embora dois canais já tenham sido relatados. Nas microtomografias, um canino aparece com duas raízes, e outro com desvios significativos do sistema de canais no terço apical (Fig. 7.53).\n\n**Canino inferior.** O sistema é muito parecido com o do canino superior, com estas diferenças: as dimensões são menores e os contornos da raiz e do canal são **mais estreitos no sentido mesiodistal**. Ocasionalmente há **duas raízes e dois canais**, localizados por vestibular e por lingual (Fig. 7.67). O canal é estreito no sentido mesiodistal e geralmente muito largo no sentido vestibulolingual. O acesso do canino inferior é **oval ou em formato de fenda**. As microtomografias mostram, além do aspecto comum, um canino com um canal apical extra e outro cujo canal se divide em dois e volta a um só no ápice (Fig. 7.68).\n\n**Como usar isto na bancada.**\n- No canino superior, que não tem cornos pulpares, confirme a remoção do teto com a sonda exploradora.\n- Confira se a lima fina entra sem deflexão.\n- Canino inferior com dois canais: se achou só um orifício e ele não está centrado na raiz, procure o outro do lado oposto, como na seção sobre câmara, canal e orifícios.\n\n**Comparação rápida.** Superior: canal em geral único, sem cornos. Inferior: muito parecido, em escala menor, com contornos mais estreitos no sentido mesiodistal e, ocasionalmente, duas raízes e dois canais (p. 216)."
+    },
+    {
+      "id": "inc-inferiores",
+      "titulo": "Incisivos central e lateral inferiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214",
+      "texto": "O Cohen discute os dois juntos, porque os sistemas de canais e os acessos são tão parecidos (Fig. 7.64).\n\n**Ombro lingual.** Como nos superiores, remova o ombro lingual para ter acesso direto. Ele **esconde o orifício de um possível segundo canal**, que, se existir, fica logo abaixo dele.\n\n**Canal largo, radiografia estreita.** A maioria dos incisivos inferiores tem **raiz única**, que na radiografia parece um canal longo e estreito, mas é um canal **amplo no sentido vestibulolingual**.\n\n**Ponte dentinária.** Muitas vezes há uma ponte de dentina na câmara dividindo a raiz em dois canais. Em geral eles se unem e saem por **um único forame apical**, mas podem permanecer como dois canais separados (Figs. 7.65 e 7.66). Ocasionalmente um canal se divide em dois que voltam a se unir antes do ápice.\n\n**Como usar isto na bancada.**\n- Depois de remover o teto e o ombro lingual, procure o segundo orifício logo abaixo do ombro.\n- O acesso pela incisal nesses dentes está na seção sobre dentes apinhados ou girovertidos.\n\nO capítulo não dá percentual de incidência de dois canais nos incisivos inferiores."
+    },
+    {
+      "id": "medidas",
+      "titulo": "Medidas por dente (legendas das figuras)",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Figs. 7.47, 7.50, 7.52, 7.64 e 7.67 (legendas), pp. 209–211, 218, 221; Componentes do sistema de canais radiculares, p. 190",
+      "texto": "Os valores abaixo vêm das **legendas** das figuras do capítulo. São comprimentos **médios** do dente, e a curvatura da raiz vem da **mais comum para a menos comum**.\n\n| Dente | Comprimento médio | Curvatura da raiz (da mais para a menos comum) | Figura |\n|---|---|---|---|\n| Incisivo central superior | 22,5 mm | reta, vestibular, distal | 7.47, p. 209 |\n| Incisivo lateral superior | 22 mm | distal, reta | 7.50, p. 210 |\n| Canino superior | 26,5 mm | distal, reta, vestibular | 7.52, p. 211 |\n| Incisivos central e lateral inferiores | 20,7 mm | reta, distal, vestibular | 7.64, p. 218 |\n| Canino inferior | 25,6 mm | reta, distal, vestibular | 7.67, p. 221 |\n\n**Como ler.** O canino é o mais longo dos dentes anteriores, tanto no superior (26,5 mm) quanto no inferior (25,6 mm). Os incisivos inferiores são os mais curtos (20,7 mm). Para o limite da penetração, o Cohen manda medir na radiografia inicial a distância da borda incisal ao teto da câmara (seção sobre penetração).\n\n**Raiz e canal: dois dados do capítulo.**\n- Legendas (curvatura da **raiz**): \"reta\" é a mais comum do incisivo central superior (Fig. 7.47, p. 209), dos incisivos inferiores (Fig. 7.64, p. 218) e do canino inferior (Fig. 7.67, p. 221).\n- Texto (curvatura do **canal**): quase todos os canais são curvos, principalmente no sentido vestibulolingual, e a periapical não mostra essa curva (p. 190).\n\n**Outros dados** (irrupção e calcificação) constam das mesmas legendas, mas não são usados aqui."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Cohen, quais são os seis objetivos do acesso cavitário tradicional?",
+      "verso": "Remover a cárie; conservar estrutura sadia; eliminar todo o teto; remover todo o tecido pulpar coronário; localizar todos os orifícios; chegar em linha reta ao forame ou à primeira curvatura.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual é o ponto de referência anatômico mais importante para localizar a câmara e os orifícios?",
+      "verso": "A junção amelocementária (JAC). Confiar só na anatomia oclusal ou lingual é perigoso: a coroa muda com cárie e restaurações.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198"
+    },
+    {
+      "id": "f03",
+      "frente": "Em dente anterior hígido, onde começa o desgaste (ponto de eleição)?",
+      "verso": "No centro da face lingual ou palatina da coroa anatômica (Fig. 7.26A).",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual o tamanho da forma de contorno inicial nos anteriores e como fica a broca?",
+      "verso": "De metade a três quartos do contorno final (desenho triangular), com a broca perpendicular à face lingual ou palatina.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+    },
+    {
+      "id": "f05",
+      "frente": "Como muda a direção da broca para penetrar na câmara de um anterior?",
+      "verso": "Passa de perpendicular à face lingual para quase paralela ao longo eixo do dente. Comum sentir uma queda ao entrar na câmara.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+    },
+    {
+      "id": "f06",
+      "frente": "Como o Cohen sugere limitar a profundidade da penetração no anterior?",
+      "verso": "Medindo na radiografia inicial a distância da borda incisal ao teto da câmara. Sem queda nessa profundidade, usar a sonda DG-16.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+    },
+    {
+      "id": "f07",
+      "frente": "Como se remove o resto do teto depois de penetrar a câmara?",
+      "verso": "Broca esférica sob o remanescente dentinário, tracionando com movimentos de retirada. A sonda exploradora confirma a remoção completa.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (remoção do teto, ombro lingual), Figs. 7.26 a 7.28, pp. 201–202"
+    },
+    {
+      "id": "f08",
+      "frente": "O que é o ombro lingual e por que removê-lo?",
+      "verso": "Projeção de dentina do cíngulo até cerca de 2 mm apicalmente à entrada do canal. Removê-lo melhora o acesso direto e aproxima as limas das paredes do canal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (remoção do teto, ombro lingual), Figs. 7.27 e 7.28, pp. 202–203"
+    },
+    {
+      "id": "f09",
+      "frente": "Como o Cohen indica usar a broca de Gates-Glidden para ampliar a entrada?",
+      "verso": "Começar pela mais larga que se adapte passivamente a 2 mm de profundidade a partir da entrada do canal, com pressão suave.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (remoção do teto, ombro lingual), Figs. 7.26 a 7.28, pp. 201–202"
+    },
+    {
+      "id": "f10",
+      "frente": "O que a legenda da Fig. 7.28 diz sobre bisel incisal em anterior superior?",
+      "verso": "Bisel incisal na face palatina pode levar à fratura da restauração permanente durante a função oclusal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (remoção do teto, ombro lingual), Fig. 7.28, pp. 202–203"
+    },
+    {
+      "id": "f11",
+      "frente": "No canino superior, o que difere dos incisivos superiores?",
+      "verso": "É mais amplo no sentido vestibulolingual que no mesiodistal e não tem cornos pulpares. Em geral um canal; dois já foram relatados.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+    },
+    {
+      "id": "f12",
+      "frente": "Que forma tem o acesso do canino inferior?",
+      "verso": "Oval ou em fenda. O canal é estreito no sentido mesiodistal e geralmente muito largo no vestibulolingual.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+    },
+    {
+      "id": "f13",
+      "frente": "Por que o ombro lingual dos incisivos inferiores merece atenção?",
+      "verso": "Esconde o orifício de um possível segundo canal, que fica logo abaixo dele. A raiz única parece estreita na radiografia, mas é ampla no sentido vestibulolingual.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Incisivo lateral superior com coroa muito alterada por cárie e restaurações, e raiz que parece inclinada em relação à face lingual. Segundo o Cohen, qual referência é a mais importante para localizar a câmara?",
+      "alternativas": [
+        {
+          "texto": "A anatomia lingual da coroa restaurada.",
+          "correta": false,
+          "justificativa": "O Cohen diz que confiar só na anatomia oclusal ou lingual é perigoso, porque a coroa muda com cárie e restaurações (pp. 197–198).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198"
+        },
+        {
+          "texto": "A junção amelocementária.",
+          "correta": true,
+          "justificativa": "O texto cita a JAC como o ponto de referência anatômico mais importante para localizar câmaras e orifícios.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198"
+        },
+        {
+          "texto": "A suposição de que a raiz é perpendicular à face lingual.",
+          "correta": false,
+          "justificativa": "O livro diz que a raiz pode não ser perpendicular, e que depender da anatomia oclusal ou lingual pode explicar perfurações coronárias.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198"
+        },
+        {
+          "texto": "A posição da restauração existente, mantida como guia do acesso.",
+          "correta": false,
+          "justificativa": "O livro manda remover restaurações deficientes e cáries antes de acessar a câmara; a referência anatômica que ele indica é a JAC.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Passos-chave do acesso tradicional, pp. 197–198",
+      "secao": "passos",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Em um incisivo central superior, o aluno removeu o teto por completo (a sonda exploradora confirma), localizou o orifício do canal e a lima fina desce sem deflexão. Não há cárie. Ao irrigar, vê tecido pulpar remanescente em um canto da câmara. Qual objetivo do acesso ainda não foi cumprido?",
+      "alternativas": [
+        {
+          "texto": "Eliminar completamente o teto da câmara pulpar.",
+          "correta": false,
+          "justificativa": "O enunciado diz que a sonda confirmou a remoção completa do teto; esse objetivo foi cumprido.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197"
+        },
+        {
+          "texto": "Localizar todos os orifícios de entrada dos canais.",
+          "correta": false,
+          "justificativa": "O orifício já foi localizado; o problema descrito é de tecido remanescente.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197"
+        },
+        {
+          "texto": "Remover todo o tecido pulpar coronário, vital ou necrótico.",
+          "correta": true,
+          "justificativa": "É o objetivo 4 do livro: a polpa que restou na câmara mostra que ele ainda não foi cumprido.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197"
+        },
+        {
+          "texto": "Chegar em linha reta ao forame apical ou à primeira curvatura.",
+          "correta": false,
+          "justificativa": "A lima fina desce sem deflexão, o que indica acesso direto cumprido.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário tradicional, p. 197",
+      "secao": "objetivos",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um aluno terminou a forma de contorno inicial na face palatina de um incisivo lateral superior, com a broca perpendicular à face. Agora precisa penetrar o teto. O que o Cohen manda fazer com a direção da broca?",
+      "alternativas": [
+        {
+          "texto": "Mudar para quase paralela ao longo eixo do dente.",
+          "correta": true,
+          "justificativa": "No livro, a direção do contorno é perpendicular à face lingual ou palatina, e a de entrada na câmara é quase paralela ao longo eixo do dente (Fig. 7.26C e D).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Manter perpendicular à face palatina até sentir a queda.",
+          "correta": false,
+          "justificativa": "A perpendicular é a direção do contorno; para entrar na câmara o ângulo muda para o longo eixo.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Inclinar a broca para a incisal, afastando-a do longo eixo.",
+          "correta": false,
+          "justificativa": "O texto manda seguir pelo longo eixo e realinhar a direção se houver desvio nos sentidos mesiodistal e vestibulolingual.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Inclinar a broca para a vestibular, afastando-a do longo eixo.",
+          "correta": false,
+          "justificativa": "O livro manda ir pelo longo eixo até o teto (p. 201).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202",
+      "secao": "contorno",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Em um incisivo central superior, o aluno já chegou à profundidade que a radiografia inicial indicava entre a borda incisal e o teto da câmara, e não sentiu a queda. Segundo o Cohen, qual o passo seguinte?",
+      "alternativas": [
+        {
+          "texto": "Continuar aprofundando na mesma direção até sentir a queda, ignorando a medida.",
+          "correta": false,
+          "justificativa": "A medida na radiografia pode guiar o limite da penetração e prevenir perfuração.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Trocar a direção da broca para perpendicular à face palatina.",
+          "correta": false,
+          "justificativa": "A perpendicular é a direção do contorno; a penetração segue o longo eixo.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Passar à remoção do ombro lingual.",
+          "correta": false,
+          "justificativa": "O ombro lingual é removido depois de identificados e confirmados os orifícios, e o teto ainda não foi aberto.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        },
+        {
+          "texto": "Usar a sonda DG-16 para examinar a profundidade.",
+          "correta": true,
+          "justificativa": "O livro diz que, se a queda não for sentida nessa profundidade, usa-se a sonda DG-16 para examiná-la, e que muitas vezes a dentina está fina e a sonda entra na câmara.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (forma de contorno e penetração do teto), Fig. 7.26, pp. 201–202",
+      "secao": "contorno",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Incisivo lateral superior sem cárie. O aluno removeu o teto e o ombro lingual. A lima de pequeno diâmetro ainda é forçada contra a borda incisal. O que ele deve fazer segundo o Cohen?",
+      "alternativas": [
+        {
+          "texto": "Fazer um bisel incisal na face palatina para dar mais folga.",
+          "correta": false,
+          "justificativa": "A legenda da Fig. 7.28 diz que esse bisel pode levar à fratura da restauração permanente; o livro manda evitar o bisel.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Fig. 7.29, p. 203"
+        },
+        {
+          "texto": "Estender o acesso em direção incisal até a lima não ser mais defletida.",
+          "correta": true,
+          "justificativa": "É a orientação do capítulo para a lima ainda forçada contra a borda incisal depois da remoção do ombro lingual (p. 203).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Fig. 7.29, p. 203"
+        },
+        {
+          "texto": "Aceitar a deflexão, porque uma lima fina se adapta ao canal.",
+          "correta": false,
+          "justificativa": "A meta é a lima sem deflexão; se ela ainda é forçada contra a borda incisal, o acesso se estende em direção incisal (p. 203).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Fig. 7.29, p. 203"
+        },
+        {
+          "texto": "Refinar as margens e considerar o acesso concluído.",
+          "correta": false,
+          "justificativa": "O refinamento das margens é o passo final; o livro manda antes estender o acesso até a lima não ser mais defletida.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Fig. 7.29, p. 203"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, Dentes anteriores (determinação do acesso direto e refinamento), Fig. 7.29, p. 203",
+      "secao": "acesso-direto",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Na periapical, um incisivo central inferior mostra raiz única com canal longo e estreito. Segundo o Cohen, o que o aluno deve esperar ao remover o ombro lingual?",
+      "alternativas": [
+        {
+          "texto": "Um só canal estreito, igual ao que a radiografia mostra.",
+          "correta": false,
+          "justificativa": "O livro diz que a raiz única parece um canal estreito na radiografia, mas o canal é amplo no sentido vestibulolingual.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214"
+        },
+        {
+          "texto": "Dois canais que sempre saem por dois forames apicais separados.",
+          "correta": false,
+          "justificativa": "Para o Cohen, os dois canais em geral se unem e saem por um único forame apical.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214"
+        },
+        {
+          "texto": "Nenhum orifício além do que já se vê, porque o ombro não encobre estruturas.",
+          "correta": false,
+          "justificativa": "O texto diz que o ombro lingual esconde o orifício de um possível segundo canal.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214"
+        },
+        {
+          "texto": "Um possível segundo orifício logo abaixo do ombro lingual.",
+          "correta": true,
+          "justificativa": "O texto diz que o ombro esconde o orifício de um possível segundo canal, que, se existir, fica logo abaixo dele.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivos central e lateral inferiores, p. 214",
+      "secao": "inc-inferiores",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Em um incisivo lateral superior, o aluno removeu o teto e passou a sonda exploradora por toda a câmara: não resta teto, e ele não encontra corno pulpar. A lima fina desce sem deflexão. Segundo o Cohen, como interpretar a ausência de corno?",
+      "alternativas": [
+        {
+          "texto": "É uma possibilidade descrita: esse dente pode ter dois cornos pulpares ou nenhum.",
+          "correta": true,
+          "justificativa": "O texto diz que o incisivo lateral superior pode ter dois cornos pulpares ou nenhum (Fig. 7.50).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210"
+        },
+        {
+          "texto": "Indica que ainda há teto remanescente sobre o corno.",
+          "correta": false,
+          "justificativa": "No enunciado, a sonda percorre a câmara e não encontra teto; o livro usa a sonda exatamente para confirmar a remoção completa.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210"
+        },
+        {
+          "texto": "Indica que o acesso deve ser estendido em direção incisal até aparecer o corno.",
+          "correta": false,
+          "justificativa": "O livro manda estender o acesso para a incisal quando a lima é defletida; no enunciado a lima desce sem deflexão.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210"
+        },
+        {
+          "texto": "Indica que o dente tem sempre dois cornos, e um deles ficou oculto.",
+          "correta": false,
+          "justificativa": "O livro diz que podem existir dois cornos ou nenhum, e a sonda não encontrou corno.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, incisivo central e lateral superiores, pp. 208–210",
+      "secao": "inc-superiores",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Em um canino inferior, o aluno vai desenhar o acesso. Pelo que o Cohen descreve, o canal desse dente é estreito no sentido mesiodistal e geralmente muito largo no vestibulolingual. Qual formato o livro dá para o acesso?",
+      "alternativas": [
+        {
+          "texto": "Oval ou em formato de fenda.",
+          "correta": true,
+          "justificativa": "É o formato que o Cohen descreve para o acesso do canino inferior, com um canal estreito no sentido mesiodistal e largo no vestibulolingual.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+        },
+        {
+          "texto": "Circular e centrado na face lingual.",
+          "correta": false,
+          "justificativa": "O enunciado traz um canal estreito em um sentido e largo no outro; o livro descreve o acesso como oval ou em fenda.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+        },
+        {
+          "texto": "Triângulo de cantos arredondados, com a base voltada para a incisal.",
+          "correta": false,
+          "justificativa": "Esse é o contorno que o livro descreve para o incisivo central superior; para o canino inferior ele fala de acesso oval ou em fenda.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+        },
+        {
+          "texto": "Alargado no sentido mesiodistal, porque o canal é largo nesse sentido.",
+          "correta": false,
+          "justificativa": "O enunciado e o livro dizem que o canal é estreito no sentido mesiodistal e largo no vestibulolingual.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Morfologia e acesso cavitário para dentes individuais, canino superior e canino inferior, pp. 210–211, 216–217",
+      "secao": "caninos",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Incisivos inferiores muito apinhados e girovertidos: o acesso lingual tradicional parece impossível. Segundo o Cohen, o que pode ser indicado?",
+      "alternativas": [
+        {
+          "texto": "Insistir no acesso lingual, pois só ele conserva a estrutura.",
+          "correta": false,
+          "justificativa": "O livro diz que o acesso tradicional ou o minimamente invasivo pode não ser possível nesses dentes.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, p. 197; Fig. 7.46, p. 208"
+        },
+        {
+          "texto": "Ignorar a rotação do dente e usar sempre o mesmo desenho de acesso.",
+          "correta": false,
+          "justificativa": "O texto lista os problemas de não considerar a angulação, como desgaste excessivo e fratura de instrumento.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, p. 197; Fig. 7.46, p. 208"
+        },
+        {
+          "texto": "Evitar radiografia angulada, para não perder tempo.",
+          "correta": false,
+          "justificativa": "O livro manda posicionar uma lima e fazer radiografia angulada sempre que se localizar um canal difícil.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, p. 197; Fig. 7.46, p. 208"
+        },
+        {
+          "texto": "Acesso pela incisal ou pela vestibular, guiado por acesso direto e preservação da estrutura.",
+          "correta": true,
+          "justificativa": "O texto diz que em certas circunstâncias pode ser indicado acesso incisal ou vestibular, com base nesses dois princípios.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, p. 197; Fig. 7.46, p. 208"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acessos cavitários desafiadores, dentes apinhados ou girovertidos, p. 208; Preparo pelas faces lingual e oclusal, p. 197; Fig. 7.46, p. 208",
+      "secao": "apinhados",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Um aluno quer fazer o menor acesso possível em um incisivo para economizar dentina. Segundo o Cohen, qual afirmação sobre o acesso minimamente invasivo é correta?",
+      "alternativas": [
+        {
+          "texto": "O livro apresenta evidência definitiva de que ele supera o acesso tradicional.",
+          "correta": false,
+          "justificativa": "O livro diz que ainda faltam resultados baseados em evidência definitiva e que é uma abordagem de base empírica.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203"
+        },
+        {
+          "texto": "O acesso direto pode não ser totalmente exequível com esse tipo de acesso.",
+          "correta": true,
+          "justificativa": "É a ressalva do texto (p. 203), e os acessos muito restritos podem ou não ter grande impacto sobre as demais etapas.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203"
+        },
+        {
+          "texto": "O livro manda abandonar o acesso direto sempre que o acesso é restrito.",
+          "correta": false,
+          "justificativa": "O texto apenas ressalva que o conceito pode não ser totalmente exequível; não manda abandoná-lo.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203"
+        },
+        {
+          "texto": "Todo acesso restrito prejudica as etapas seguintes do tratamento.",
+          "correta": false,
+          "justificativa": "O Cohen diz que acessos muito restritos podem ou não ter grande impacto sobre as demais etapas.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Objetivos e diretrizes para o acesso cavitário minimamente invasivo, p. 198; Dentes anteriores, determinação do acesso direto, p. 203",
+      "secao": "minimamente",
+      "figura": null
+    }
+  ]
+}

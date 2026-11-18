@@ -1,0 +1,569 @@
+{
+  "slug": "preparo-quimico-mecanico-tecnicas-manuais",
+  "titulo": "Limpeza e modelagem (preparo químico-mecânico): técnicas manuais coroa-ápice e step back (escalonada)",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 8",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "objetivo",
+      "titulo": "Para que serve o preparo: os objetivos",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236",
+      "texto": "O Cohen (tradução da obra de Berman, Hargreaves e Rotstein) chama o preparo de **limpeza e modelagem** do sistema de canais radiculares. O livro lembra que \"modelagem e limpeza\" descreve melhor a ordem: o canal ampliado é que permite a ação do irrigante.\n\n**Objetivos primários (Boxe 8.1):**\n- tirar o tecido infectado, mole e duro;\n- deixar o irrigante chegar ao terço apical do canal;\n- abrir espaço para o medicamento e para a obturação;\n- preservar a raiz.\n\n**Objetivo mecânico:** incorporar o canal original inteiro ao canal preparado, de forma centrada. O livro diz que é difícil alcançar isso com as técnicas atuais. Desvio, zip (desvio apical) e perfuração não deveriam existir: mesmo sem mudar diretamente a chance de evolução favorável, deixam partes do sistema fora do alcance da desinfecção.\n\n**Objetivo biológico:** a forma do preparo serve à desinfecção, porque remove a polpa e a dentina infectada e abre espaço para o irrigante. A irrigação com seringa e agulha é passiva: a solução avança só cerca de 1 mm além da ponta da agulha. Canal mais ampliado aceita agulha mais fina e flexível mais fundo, o que melhora o desbridamento.\n\n**Objetivo técnico:** conicidade contínua, que acompanhe a forma original e a curvatura do canal. O tamanho final do preparo apical segue controverso (ver a seção sobre o tamanho apical).\n\n**Preservar dentina:** retificar um canal curvo pode afinar demais a parede. Em alguns pontos a dentina já tem 1 mm ou menos antes do preparo. O livro não fixa uma espessura mínima; 0,3 mm é considerado crítico por alguns autores. Para evitar sobreinstrumentação e perfuração, a cavidade de acesso e a ampliação do terço cervical precisam estar adequadas.\n\nA irrigação e a medicação intracanal têm tema próprio; aqui o foco é o instrumento na mão."
+    },
+    {
+      "id": "iso-e-gates",
+      "titulo": "Brocas de Gates-Glidden",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246",
+      "texto": "Limas K e H e a numeração ISO têm tema próprio (exploração e patência); aqui entram as brocas de baixa rotação que ampliam a entrada do canal.\n\n**Brocas de Gates-Glidden.** Ampliam a porção coronária do canal. Têm corte lateral e **cortam quando são retiradas**; use só nas porções retas do canal. Diâmetros de ponta de 0,5 a 1,1 mm, em seis tamanhos. Duas sequências foram propostas: step down (da maior para as menores) e step back (da menor para as maiores). Mal usadas, podem reduzir muito a espessura das paredes da raiz: pressão excessiva em alta velocidade, ângulo de inserção errado e desgaste exagerado já causaram perfuração em fita. Para o que o NiTi a motor faz no preparo, veja o tema de inovações tecnológicas em endodontia."
+    },
+    {
+      "id": "visao-tecnicas",
+      "titulo": "Estratégias básicas e por que existem",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260",
+      "texto": "O Cohen reúne as estratégias de limpeza e modelagem em quatro grupos: **coroa-ápice** (crown down), **step back**, **ampliação apical** e **técnicas híbridas**, que combinam as anteriores. O livro também descreve a técnica convencional e a de força balanceada; cada uma tem seção própria adiante.\n\n**De onde vêm as técnicas.** As estratégias tradicionais, como o step back, começavam pelo terço apical: o clínico escolhia uma lima pequena, dava a ela a curvatura adequada e tentava levá-la ao comprimento total. Não era raro não chegar lá, por bloqueio ou por travamento cervical.\n\n**Travamento cervical.** Saliências na entrada e canal menos cônico que a lima são as causas: a lima fica presa no terço cervical. Uma raiz reta muitas vezes contém canal curvo (curvaturas vestibular e lingual que a radiografia não mostra). Uma lima pré-curvada empurrada por um terço cervical estreito acaba **retificada**.\n\n**Pré-requisito:** a cavidade de acesso otimizada, antes de qualquer preparo (tema de acesso, cap. 7 do livro). O glide path e a patência têm tema próprio (exploração e patência), e o comprimento de trabalho também (tema de comprimento de trabalho).\n\n**Meta de qualquer técnica:** preparo confinado ao espaço do canal, amplo o bastante e incorporando as secções transversais originais.\n\n**Zonas de perigo.** Remover dentina demais nessas zonas pode causar fratura radicular vertical e perfuração. A forma ideal, sem erros, vem da técnica adequada.\n\nO livro diz que não existem evidências concretas que favoreçam uma sequência de instrumentos em detrimento da outra (por exemplo, conicidades decrescentes ou diâmetros decrescentes na coroa-ápice)."
+    },
+    {
+      "id": "convencional-step-back",
+      "titulo": "Técnica convencional e step back de Weine",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261",
+      "texto": "**Técnica convencional.** Usa o **mesmo comprimento de trabalho** (CT) para todos os instrumentos e conta com o formato inerente deles para chegar ao formato final. Em canal estreito, comece com limas finas e lubrificadas, no movimento de \"dar corda ao relógio\" (giro de um quarto de volta e tração): avance até o CT e repita o movimento até poder usar o instrumento seguinte. O formato final deveria ser previsto pelo último instrumento usado, e a obturação seria feita com um cone único de tamanho compatível.\n\n**O problema:** o livro diz que esse conceito é violado com frequência. Em canal curvo, o resultado fica mais amplo que o último instrumento, e a tração manual piora isso. Além disso, compactar guta-percha numa conicidade tão pequena (0,02) é difícil, até impossível.\n\n**Step back (recuo progressivo), de Weine e colaboradores.** Aqui o CT **diminui a cada instrumento maior**: o livro cita passos de 1 mm ou de 0,5 mm, que resultam em formatos com conicidade de 0,05 e de 0,10, respectivamente.\n\n**Por que se faz assim:** instrumentos maiores e menos flexíveis, trabalhando mais curtos, deixam de criar degraus nas curvaturas apicais, e o recuo ainda dá a conicidade que facilita a obturação. A técnica nasceu para canais curvos, mas serve também para canais aparentemente retos. Existem várias modificações, que exploram e ampliam o canal antes de atingir o CT."
+    },
+    {
+      "id": "step-down-coroa-apice",
+      "titulo": "Step down, coroa-ápice e dupla ampliação",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261",
+      "texto": "**Step down (avanço progressivo).** Modela primeiro a face coronária do canal, antes da instrumentação apical. O objetivo é minimizar ou eliminar os resíduos necróticos que poderiam ser empurrados para fora pelo forame. Com os terços coronário e médio já ampliados, os instrumentos apicais ficam desimpedidos em quase todo o comprimento: há mais controle e menos chance de zip perto da constrição apical.\n\n**Coroa-ápice (crown down).** Reúne várias modificações do step down original. No step down mais típico, uma lima K de aço inoxidável explora a constrição apical e fixa o CT logo no começo; na coroa-ápice, o CT é determinado mais tarde, depois da ampliação cervical.\n\n**Sequência na bancada:**\n1. Introduza passivamente um instrumento grande, até a profundidade em que ele progride com facilidade.\n2. O instrumento seguinte, menor, entra mais fundo.\n3. O terceiro, ainda menor, vai mais além, e assim até alcançar o CT.\n\nPara garantir a inserção, pode ser preciso ampliar o terço cervical com Gates-Glidden cada vez menores ou outros rotatórios. **Irrigue a cada instrumento** e faça **recapitulação** (voltar com lima K pequena) depois de instrumentos alternados. Para arredondar canais ovais e orifícios de entrada de canais laterais, uma ordem reversa pode servir: começa-se na #20 e sobe-se até #40 ou #50.\n\n**Dupla ampliação.** A versão mais típica da técnica começava com exploração por lima pequena; a fase coroa-ápice usava K decrescentes, alargando o ápice até #40 ou parecido; depois vinham recuos de 1 mm com K crescentes, recapitulações frequentes com K pequena e irrigação abundante. Na fase coroa-ápice, evite contato significativo com a parede, para reduzir a pressão hidrostática e a chance de bloqueio. Para o livro, o debate sobre a melhor sequência continua e não há evidência concreta a favor de uma."
+    },
+    {
+      "id": "forca-balanceada",
+      "titulo": "Técnica da força balanceada",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262",
+      "texto": "O livro diz que há consenso: com limas K, a força balanceada produz as **menores aberrações** possíveis no canal e tem excelente capacidade de centralizar, melhor que outras técnicas com instrumentos manuais. Foi descrita como série de movimentos rotacionais e é usada também com outras limas manuais.\n\nO texto e a legenda da Fig. 8.40 descrevem a sequência de modos diferentes. As duas versões ficam lado a lado, sem fundir.\n\n**No texto (p. 262), três passos:**\n1. Com o instrumento inserido passivamente, gire cerca de **90° no sentido horário** para fincá-lo na dentina.\n2. Mantenha o instrumento no canal, com força axial suficiente para ele não sair do lugar, e gire **de 180° a 270° no sentido anti-horário**. Isso solta as raspas de dentina presas à parede. O livro registra um **estalido característico**.\n3. Retire a lima com rotação no sentido horário, para limpá-la.\n\n**Na legenda da Fig. 8.40, quatro movimentos:**\n1. Giro de cerca de 90° no sentido horário, só com pressão apical leve.\n2. Volta de 180° a 270° no sentido anti-horário, com pressão apical que mantém a lima na mesma profundidade (as raspas saem, com o estalido).\n3. Movimento semelhante ao primeiro (cerca de 90° no sentido horário), avançando mais apicalmente.\n4. Depois de dois ou três ciclos, a lima está carregada de raspas e é retirada com rotação horária prolongada, de 360° a 720°.\n\nO terceiro passo do texto corresponde ao quarto movimento da legenda. A legenda traz dois dados que o texto não traz: o segundo avanço de 90° e a rotação de 360° a 720° na retirada.\n\n**Atenção:** as limas da força balanceada não são pré-curvadas, então cada movimento linear para fora é, na prática, uma limagem e pode retificar o canal. Em muitos casos, o livro diz que é melhor avançar mais apicalmente do que tracionar o instrumento, conforme a dificuldade."
+    },
+    {
+      "id": "comprimento-unico-hibridas",
+      "titulo": "Comprimento único e técnicas híbridas",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnicas híbridas, Boxe 8.4, pp. 260–264",
+      "texto": "**Comprimento único.** É uma abordagem das técnicas a motor (o NiTi a motor está no tema de inovações tecnológicas). Aqui interessa o conceito, que o Cohen contrasta com os NiTi mais antigos: não se faz o procedimento coroa-ápice tradicional. As técnicas contemporâneas a motor que seguem esse conceito dão ênfase ao preparo cervical antes da inserção profunda, e por isso mantêm benefícios da coroa-ápice clássica: menor alteração do CT, acesso precoce e profundo do irrigante e menos tensão sobre as limas frágeis.\n\n**Técnicas híbridas.** Todas as técnicas básicas podem ser combinadas. As combinações populares envolvem preparo cervical seguido de várias sequências de preparo apical, e cada canal deve ser abordado de acordo com a sua anatomia. Pelo Boxe 8.4, a combinação de instrumentos amplia as qualidades de cada um e evita seus pontos fracos: os manuais garantem o glide path, os de maior conicidade ampliam o terço cervical e os de menor conicidade permitem ampliação apical adicional.\n\n**Canais ovais:** o forame pode ser oval, e uma lima rotatória faz, na melhor das hipóteses, um canal circular. É preciso traçar uma estratégia para modelar o canal oval sem enfraquecer a raiz."
+    },
+    {
+      "id": "tamanho-apical",
+      "titulo": "Preparo apical estreito ou amplo (Tabela 8.2)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260",
+      "texto": "O diâmetro apical é difícil de determinar clinicamente. Passar limas finas até uma encaixar precisamente provavelmente **subestima** o diâmetro. O tamanho inicial do canal é um determinante importante do diâmetro apical final desejado, e a segunda dimensão relevante é o tamanho que deixa a agulha de irrigação penetrar fundo.\n\n**O debate.** Existe discussão constante entre preferir ampliações apicais menores combinadas com formatos cônicos e defender ampliações apicais maiores, para remover melhor a dentina infectada e levar os fluidos às áreas apicais. O terço apical é a área mais provável de abrigar bactérias residuais.\n\n**O que os dois lados têm em comum:** a trajetória original do canal tem que ser mantida. Do contrário, as bactérias do terço apical podem não receber antimicrobiano em quantidade suficiente. Erros de preparo (zip apical, transporte) podem ocorrer nas ampliações maiores, sobretudo em canais curvos, com aço inoxidável ou com NiTi.\n\n**Tabela 8.2 do Cohen, em resumo:**\n\n| Preparo | Benefícios | Desvantagens |\n|---|---|---|\n| Apical estreito | Risco mínimo de transporte e de extrusão (irrigante ou material de obturação); combina com preparo cônico; compacta menos resíduos duros | Remove pouca dentina infectada; o enxágue no ápice é questionável; a desinfecção entre sessões pode ficar comprometida; não é ideal para compactação lateral |\n| Apical amplo | Tira a dentina infectada; irrigante e medicamento chegam ao terço apical | Maior risco de erros de preparo e de extrusão; não é ideal para obturação termoplástica |\n\nO livro conclui que o preparo deve ficar confinado ao espaço do canal, ser suficientemente amplo e incorporar as secções transversais originais."
+    },
+    {
+      "id": "apical-final",
+      "titulo": "Ampliação apical final: como conferir o tamanho",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265",
+      "texto": "No conceito tradicional, os tamanhos de lima durante o preparo eram chamados de **lima apical inicial**, **lima apical master** e **lima final**; a primeira lima que trava, a inicial, supostamente orienta o tamanho final do preparo.\n\n**Medição apical, passo a passo:**\n1. Depois de obter o formato cônico do canal, **meça o tamanho apical** naquele ponto, com K ou K-Flexofile do mesmo tamanho.\n2. Movimente as limas suavemente até o CT e observe o ponto de travamento.\n3. Se o canal estreita no ápice, a K de tamanho correspondente chega ao CT sem esforço de modelagem, e a K seguinte, maior, para um pouco antes.\n4. Por fim, confira se a patência foi mantida.\n\n**Como reconhecer o erro:** se a medição apical ficar **mais curta que o CT**, o livro diz que isso sugere um canal mal modelado. A conduta é fazer **ampliação adicional**, com a técnica que o clínico julgar adequada à anatomia do canal, e isso muitas vezes pede uma técnica híbrida."
+    },
+    {
+      "id": "polpa-viva-necrosada",
+      "titulo": "Preparo em polpa viva e em polpa necrosada",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–259; Introdução, p. 232",
+      "texto": "O que o Cohen diz sobre o preparo em polpa viva e em polpa necrosada está em dois pontos.\n\n**1. Objetivo biológico.** A causa das doenças pulpares é a invasão de microrganismos pelas barreiras duras do dente, e a cárie é a via mais comum. O preparo é dirigido contra esse ataque microbiano. Nas revisões recentes citadas, a evolução favorável chega a **até 95%** em dentes com pulpite irreversível e a **até 85%** em dentes com polpa necrosada infectada. O livro avisa que desinfetar bem não basta: a evolução depende também de uma restauração coronária adequada.\n\n**2. Até onde preparar.** Tradicionalmente, o preparo terminava na **constrição apical**, que se acredita coincidir com a junção cementodentinária. Só que a posição e a forma dessa junção variam muito entre dentes e raízes, e a radiografia **não a localiza com precisão**. Por isso, alguns autores propõem terminar o preparo:\n- em **polpa necrosada**: de **0,5 a 1 mm aquém do ápice radiográfico**;\n- em **pulpite irreversível**: de **1 a 2 mm aquém do ápice radiográfico**.\n\nO livro diz que não há validação definitiva dessa proposta, mas que estudos de seguimento bem controlados parecem dar respaldo. O localizador apical eletrônico, segundo o Cohen, permite modelar com segurança até cerca de 0,5 mm da porção terminal; ele tem tema próprio (comprimento de trabalho).\n\n**Erro do preparo curto:** instrumentar em comprimentos mais curtos pode acumular e reter resíduos, o que pode levar a bloqueio apical (Fig. 8.38). Com o trajeto bloqueado, o preparo curto pode contribuir para perfuração apical e fratura de instrumento. Microrganismos residuais nas áreas apicais são causa importante de periodontite apical persistente.\n\n**Outras referências de limite apical:** os caps. 7 (pp. 195–196) e 9 (pp. 302–305) trazem propostas próprias; elas estão no tema de comprimento de trabalho, cada uma na sua seção.\n\n**Momento da obturação:** sessão única ou duas sessões, depois do preparo, é assunto do cap. 9 e fica no tema de obturação.\n\n**Dente já obturado:** o retratamento está no cap. 10 do Cohen e não faz parte deste tema."
+    },
+    {
+      "id": "erros-bancada",
+      "titulo": "Erros de bancada e onde o Cohen os descreve (cap. 8)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Brocas de Gates-Glidden, Zonas de perigo, Figura 8.39 e Técnicas, pp. 246–262",
+      "texto": "Todos os itens abaixo são do cap. 8 do Cohen. O cap. 8 chama de **zip apical** e **desvio** os erros de preparo mais comuns (Fig. 8.39: zip apical, desvio, e cada um deles com perfuração). Outros capítulos do livro usam termos próprios para desvio, degrau e transporte, e isso está no tema de acidentes de procedimento. Os erros com limas K e H (lima deformada, pressão anti-horária, H em rotação) estão no tema de exploração e patência.\n\n**1. Gates-Glidden em trecho curvo ou com pressão.** Elas cortam ao sair e devem ficar nas porções retas. Pressão excessiva, ângulo errado e desgaste exagerado causaram perfuração em fita.\n\n**2. Travamento cervical.** Saliências na entrada e canal menos cônico que o instrumento travam a lima no terço cervical; uma lima pré-curvada forçada por um terço cervical estreito acaba retificada (p. 260).\n\n**3. Preparo curto com bloqueio.** Resíduos acumulados fecham o trajeto até o ápice.\n\n**4. Técnica convencional em canal curvo.** O canal fica mais largo que o último instrumento, e a tração manual piora.\n\n**5. Remover dentina demais.** Nas zonas de perigo, o excesso pode causar fratura radicular vertical e perfuração.\n\n**6. Lima de força balanceada tracionada a cada ciclo.** Cada movimento linear para fora é limagem e pode retificar o canal."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são os quatro objetivos primários da limpeza e modelagem (Boxe 8.1)?",
+      "verso": "Tirar o tecido infectado, mole e duro; deixar o irrigante chegar ao canal apical; abrir espaço para medicamento e obturação; preservar a raiz.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+    },
+    {
+      "id": "f02",
+      "frente": "Quanto a solução irrigante avança além da ponta da agulha na irrigação passiva com seringa?",
+      "verso": "Só cerca de 1 mm. Por isso a ampliação do canal permite agulhas finas e flexíveis mais fundo.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+    },
+    {
+      "id": "f03",
+      "frente": "Como a coroa-ápice difere do step back no começo e no CT?",
+      "verso": "Coroa-ápice: amplia o terço cervical primeiro, o instrumento grande entra antes e o CT é determinado mais tarde. Step back: começa pelo apical e o CT diminui a cada instrumento maior.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de recuo progressivo (step back), Técnica coroa-ápice (crown down), pp. 260–261"
+    },
+    {
+      "id": "f06",
+      "frente": "Como as brocas de Gates-Glidden cortam e onde se usam?",
+      "verso": "Têm corte lateral e cortam quando são retiradas. Só nas porções retas do canal; pressão excessiva e ângulo errado causaram perfuração em fita.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual é a regra do comprimento de trabalho na técnica convencional?",
+      "verso": "O mesmo CT para todos os instrumentos; o formato final deveria ser previsto pelo último instrumento usado (o livro diz que isso é frequentemente violado em canal curvo).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261"
+    },
+    {
+      "id": "f08",
+      "frente": "No step back de Weine, o que acontece com o CT e que conicidade resulta?",
+      "verso": "O CT diminui a cada instrumento maior. Passos de 1 mm ou de 0,5 mm dão conicidade de 0,05 e de 0,10, respectivamente.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261"
+    },
+    {
+      "id": "f09",
+      "frente": "Por que o step down amplia primeiro os terços coronário e médio?",
+      "verso": "Para minimizar os resíduos necróticos empurrados pelo forame e deixar os instrumentos apicais desimpedidos: mais controle e menos zip perto da constrição.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual é a sequência na técnica coroa-ápice?",
+      "verso": "Instrumento grande entra passivamente até onde progride; o seguinte, menor, avança mais; e assim até o CT. Irrigação a cada instrumento e recapitulação (voltar com K pequena) depois de instrumentos alternados.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+    },
+    {
+      "id": "f11",
+      "frente": "Quais são os passos da força balanceada, no texto e na legenda da Fig. 8.40?",
+      "verso": "Texto (p. 262), 3 passos: 1) giro horário de cerca de 90° para fincar; 2) giro anti-horário de 180° a 270° com força axial, que solta as raspas e dá estalido; 3) retirada com giro horário. A legenda traz 4 movimentos: o último, depois de dois ou três ciclos, é a retirada com rotação horária de 360° a 720°.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+    },
+    {
+      "id": "f12",
+      "frente": "O que causa o travamento cervical?",
+      "verso": "Saliências na entrada e canal menos cônico que a lima: a lima fica presa no terço cervical. Lima pré-curvada forçada por terço cervical estreito acaba retificada.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260"
+    },
+    {
+      "id": "f13",
+      "frente": "Preparo apical amplo ou estreito: vantagem e risco de cada um (Tabela 8.2)?",
+      "verso": "Estreito: risco mínimo de transporte e de extrusão, mas pouca remoção de dentina infectada. Amplo: remove dentina infectada e leva irrigante ao ápice, mas aumenta o risco de erros de preparo e de extrusão.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260"
+    },
+    {
+      "id": "f14",
+      "frente": "O que sugere uma medição apical mais curta que o CT?",
+      "verso": "Que o canal foi mal modelado. Faz-se ampliação adicional, com técnica adequada à anatomia, muitas vezes híbrida.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo alguns autores citados no cap. 8, onde terminar o preparo em necrose e em pulpite irreversível?",
+      "verso": "Necrose: 0,5 a 1 mm aquém do ápice radiográfico. Pulpite irreversível: 1 a 2 mm aquém. O livro diz que não há validação definitiva.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na bancada, você retifica um canal curvo de molar extraído com limas de aço calibrosas. Ao radiografar, vê a parede de dentina muito fina depois da retificação. Segundo o cap. 8 do Cohen, qual objetivo primário (Boxe 8.1) ficou comprometido?",
+      "alternativas": [
+        {
+          "texto": "Preservar a estrutura da raiz.",
+          "correta": true,
+          "justificativa": "O livro avisa que retificar a trajetória de canais curvos pode afinar perigosamente as paredes, e esse é o risco do objetivo de preservar a estrutura radicular.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+        },
+        {
+          "texto": "Deixar o irrigante chegar ao canal apical.",
+          "correta": false,
+          "justificativa": "Esse objetivo trata de o irrigante alcançar o terço apical; o enunciado fala de parede afinada pela retificação, que o livro liga à integridade radicular.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+        },
+        {
+          "texto": "Tirar o tecido infectado, mole e duro.",
+          "correta": false,
+          "justificativa": "É outro objetivo do Boxe 8.1, ligado à remoção do tecido infectado; o dado do enunciado é o afinamento da parede.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+        },
+        {
+          "texto": "Abrir espaço para o medicamento e para a obturação.",
+          "correta": false,
+          "justificativa": "Também é outro item do Boxe 8.1; o livro relaciona o afinamento da parede ao risco para a estrutura da raiz, não ao espaço para medicamento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Introdução e Princípios da limpeza e modelagem, Boxe 8.1, objetivos mecânico, biológico e técnico, pp. 232–236",
+      "secao": "objetivo",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Num molar extraído, a curvatura do canal é acentuada logo depois da entrada, e você quer ampliar só a porção coronária, que é reta, com uma broca de Gates-Glidden. Segundo o cap. 8 do Cohen, qual é o uso adequado?",
+      "alternativas": [
+        {
+          "texto": "Usar a broca só na porção reta e deixar que ela corte no movimento de retirada.",
+          "correta": true,
+          "justificativa": "O livro diz que as Gates-Glidden têm corte lateral, cortam quando são retiradas e devem ficar nas porções retas do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246"
+        },
+        {
+          "texto": "Levar a broca pela curvatura até o terço apical, para ampliar o canal inteiro.",
+          "correta": false,
+          "justificativa": "O enunciado traz curvatura acentuada, e o livro limita o uso às porções retas.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246"
+        },
+        {
+          "texto": "Empurrar a broca com pressão firme e alta velocidade, para cortar na entrada.",
+          "correta": false,
+          "justificativa": "O livro diz que o corte é lateral e ocorre na retirada; pressão excessiva em alta velocidade já causou perfuração em fita.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246"
+        },
+        {
+          "texto": "Usar a broca como a lima K, em vaivém com a ponta cortando a dentina.",
+          "correta": false,
+          "justificativa": "O livro diz que as Gates-Glidden têm corte lateral e cortam quando são retiradas; devem ficar nas porções retas do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos de baixa rotação movidos a motor, Brocas de Gates-Glidden, p. 246",
+      "secao": "iso-e-gates",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Num canal fino e curvo de molar extraído, você quer o menor risco de transporte e de extrusão de irrigante ou de material de obturação, e vai combinar o preparo com um formato cônico para compensar a remoção menor de dentina infectada no ápice. Segundo a Tabela 8.2 do cap. 8 do Cohen, qual tamanho apical se encaixa?",
+      "alternativas": [
+        {
+          "texto": "Apical estreito, que pode ser combinado com preparo cônico.",
+          "correta": true,
+          "justificativa": "A tabela lista para o apical estreito o risco mínimo de transporte e de extrusão e a possibilidade de combinar com preparo cônico, ao custo de pouca remoção de dentina infectada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260"
+        },
+        {
+          "texto": "Apical amplo, porque ele tem o menor risco de transporte.",
+          "correta": false,
+          "justificativa": "A tabela põe o risco de erros de preparo e de extrusão como desvantagem do apical amplo; o enunciado pede o menor risco.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260"
+        },
+        {
+          "texto": "Apical amplo, porque ele remove a dentina infectada e dispensa o preparo cônico.",
+          "correta": false,
+          "justificativa": "A remoção da dentina infectada é benefício do amplo, mas o enunciado prioriza o menor risco de transporte e de extrusão, que a tabela dá ao estreito.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260"
+        },
+        {
+          "texto": "Nenhum dos dois: a tabela não diferencia o risco de extrusão pelo tamanho apical.",
+          "correta": false,
+          "justificativa": "A tabela diferencia: risco mínimo de extrusão no estreito e risco aumentado no amplo.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa e Tabela 8.2, pp. 259–260",
+      "secao": "tamanho-apical",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Num incisivo extraído, você trabalha assim: a lima #25 vai até o CT, a #30 fica 1 mm mais curta, a #35 fica 2 mm mais curta. Segundo o cap. 8 do Cohen, qual técnica é essa e por que o CT recua a cada lima maior?",
+      "alternativas": [
+        {
+          "texto": "Convencional: o mesmo CT para todos os instrumentos.",
+          "correta": false,
+          "justificativa": "Na convencional o CT é o mesmo para todos os instrumentos; aqui ele recua, o que caracteriza outra técnica.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261"
+        },
+        {
+          "texto": "Coroa-ápice: o instrumento grande entra primeiro, só até onde progride com facilidade.",
+          "correta": false,
+          "justificativa": "Na coroa-ápice o primeiro instrumento é grande e entra passivamente; o enunciado mostra limas crescentes e recuo do CT, que é o step back.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        },
+        {
+          "texto": "Step down: modelar o terço coronário antes do apical, para evitar resíduos extruídos.",
+          "correta": false,
+          "justificativa": "O step down começa pela face coronária; o enunciado descreve o recuo do CT com limas maiores.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        },
+        {
+          "texto": "Step back de Weine: o recuo evita que instrumentos maiores e menos flexíveis criem degraus nas curvaturas apicais.",
+          "correta": true,
+          "justificativa": "No step back o CT diminui a cada instrumento maior (passos de 1 ou 0,5 mm); o livro diz que isso reduz erros de preparo nos canais curvos e dá conicidade para a obturação.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica convencional e Técnica de recuo progressivo (step back), pp. 260–261",
+      "secao": "convencional-step-back",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Em molar extraído, você quer aplicar a técnica coroa-ápice com limas manuais. Como é a sequência de instrumentos, segundo o Cohen?",
+      "alternativas": [
+        {
+          "texto": "Começa pela lima mais fina no CT e sobe de tamanho, cada uma mais curta que a anterior.",
+          "correta": false,
+          "justificativa": "Começar pela lima fina no CT é o contrário da coroa-ápice, em que o instrumento maior entra primeiro.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        },
+        {
+          "texto": "Todos os instrumentos entram até o mesmo CT, desde a primeira lima.",
+          "correta": false,
+          "justificativa": "O livro diz que a técnica convencional é a que usa o mesmo CT para todos os instrumentos; na coroa-ápice o CT é determinado mais tarde.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        },
+        {
+          "texto": "O instrumento grande entra passivamente até onde progride com facilidade, e cada instrumento seguinte, menor, avança mais, até o CT.",
+          "correta": true,
+          "justificativa": "É a descrição do livro: o terceiro vai ainda mais fundo e assim até alcançar o CT; o CT é determinado depois da ampliação cervical.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        },
+        {
+          "texto": "O CT é fixado logo no início, antes de qualquer ampliação do terço cervical.",
+          "correta": false,
+          "justificativa": "O livro atribui isso ao step down mais típico, em que a K explora a constrição apical e fixa o CT; na coroa-ápice o CT é determinado mais tarde, depois da ampliação cervical.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica de avanço progressivo (step down), Técnica coroa-ápice (crown down), pp. 260–261",
+      "secao": "step-down-coroa-apice",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Você vai usar a força balanceada com uma lima K. A lima acabou de ser inserida passivamente no canal. Qual é o primeiro movimento?",
+      "alternativas": [
+        {
+          "texto": "Giro de 180° a 270° no sentido anti-horário, com força axial.",
+          "correta": false,
+          "justificativa": "Esse é o segundo passo, que solta as raspas de dentina; a lima ainda não foi fincada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Giro de cerca de 90° no sentido horário, com pressão apical leve, para fincar na dentina.",
+          "correta": true,
+          "justificativa": "É o passo 1 do livro: depois da inserção passiva, rotação horária de cerca de 90° para fincar o instrumento na dentina.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Tração da lima para fora do canal, para limpá-la.",
+          "correta": false,
+          "justificativa": "No texto da p. 262, a retirada com giro horário é o terceiro passo; na legenda da Fig. 8.40, ela só vem depois de dois ou três ciclos. O livro diz que muitas vezes é melhor avançar mais apicalmente do que tracionar.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Vaivém curto, sem giro, até a lima soltar.",
+          "correta": false,
+          "justificativa": "A técnica é descrita como série de movimentos rotacionais, e não como vaivém.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262",
+      "secao": "forca-balanceada",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Numa raiz que parece reta na radiografia, a lima pré-curvada não passa do terço cervical, que está estreito. Segundo o Cohen, o que causa o travamento cervical?",
+      "alternativas": [
+        {
+          "texto": "Saliências na entrada e canal menos cônico que a lima.",
+          "correta": true,
+          "justificativa": "O livro atribui o travamento cervical a saliências no nível da entrada e ao canal menos cônico que o instrumento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260"
+        },
+        {
+          "texto": "Canal mais cônico que o instrumento, que fica solto na entrada.",
+          "correta": false,
+          "justificativa": "É o inverso do que o livro diz: o travamento ocorre quando o canal é menos cônico que o instrumento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260"
+        },
+        {
+          "texto": "Resíduos acumulados no ápice por preparo curto.",
+          "correta": false,
+          "justificativa": "Isso descreve o bloqueio apical, e o enunciado fala do terço cervical.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260"
+        },
+        {
+          "texto": "Ponta cortante da lima que perfura a parede do canal.",
+          "correta": false,
+          "justificativa": "O livro atribui o travamento cervical a saliências na entrada e à falta de conicidade do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Justificativa, Zonas de perigo, pp. 259–260",
+      "secao": "visao-tecnicas",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Dente com polpa necrosada, em que o clínico decide terminar o preparo aquém do ápice radiográfico, conforme a proposta de alguns autores citada no cap. 8 do Cohen. Qual o limite proposto?",
+      "alternativas": [
+        {
+          "texto": "De 0,5 a 1 mm aquém do ápice radiográfico.",
+          "correta": true,
+          "justificativa": "É a proposta do livro para polpa necrosada; o livro diz que não há validação definitiva, mas que estudos de seguimento bem controlados parecem dar respaldo.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258"
+        },
+        {
+          "texto": "De 1 a 2 mm aquém do ápice radiográfico.",
+          "correta": false,
+          "justificativa": "Esse é o valor proposto para pulpite irreversível, e o enunciado fala de necrose.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258"
+        },
+        {
+          "texto": "Exatamente no ápice radiográfico.",
+          "correta": false,
+          "justificativa": "A proposta é terminar aquém do ápice radiográfico, e o livro diz que a junção cementodentinária não pode ser localizada com precisão pelas radiografias.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258"
+        },
+        {
+          "texto": "Na junção cementodentinária, localizada na radiografia.",
+          "correta": false,
+          "justificativa": "O livro diz que a junção cementodentinária varia de dente para dente e não pode ser localizada com precisão pelas radiografias.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho, Estratégias, pp. 257–258",
+      "secao": "polpa-viva-necrosada",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Você mede o tamanho apical depois de dar o formato cônico ao canal, e a lima K do tamanho final trava mais curta que o CT. Segundo o Cohen, qual a leitura e a conduta?",
+      "alternativas": [
+        {
+          "texto": "Sugere canal mal modelado; fazer ampliação adicional, muitas vezes com técnica híbrida.",
+          "correta": true,
+          "justificativa": "O livro diz que a medição apical mais curta que o CT sugere canal mal modelado e pede ampliação adicional, com a técnica que o clínico julgar adequada à anatomia, frequentemente híbrida.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265"
+        },
+        {
+          "texto": "É o esperado: o estreitamento apical aparece sempre aquém do CT.",
+          "correta": false,
+          "justificativa": "O livro diz que a presença de estreitamento apical significa CT alcançado sem esforço de modelagem com a lima K do tamanho correspondente.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265"
+        },
+        {
+          "texto": "Indica que a patência foi mantida e o preparo está concluído.",
+          "correta": false,
+          "justificativa": "A conferência da patência é um passo à parte, e a medição curta indica ampliação adicional, não conclusão.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265"
+        },
+        {
+          "texto": "Indica que a próxima lima K de tamanho maior deve ser levada ao CT com força.",
+          "correta": false,
+          "justificativa": "O livro descreve que a próxima K de tamanho maior fica um pouco aquém quando há estreitamento apical; a conduta para medição curta é ampliar mais, com técnica adequada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Ampliação apical final, pp. 264–265",
+      "secao": "apical-final",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Você pratica a força balanceada com uma lima K. Depois de dois ciclos completos (giro horário, giro anti-horário, novo giro horário avançando mais), a lima volta carregada de raspas de dentina. Segundo a legenda da Fig. 8.40 do cap. 8 do Cohen, como se retira a lima?",
+      "alternativas": [
+        {
+          "texto": "Com rotação horária prolongada, de 360° a 720°.",
+          "correta": true,
+          "justificativa": "A legenda diz que, depois de dois ou três ciclos, a lima carregada de raspas é retirada com rotação prolongada no sentido horário (360° a 720°).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Com giro anti-horário de 180° a 270°, que solta as raspas.",
+          "correta": false,
+          "justificativa": "Esse giro é o segundo movimento do ciclo; o enunciado já passou por ele e a lima está carregada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Tracionando a lima direto para fora, sem girar.",
+          "correta": false,
+          "justificativa": "O livro diz que cada movimento linear para fora é limagem e pode retificar o canal; a retirada é feita com rotação.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        },
+        {
+          "texto": "Com vaivém curto, sem giro, até a lima soltar.",
+          "correta": false,
+          "justificativa": "A técnica é uma série de movimentos rotacionais, e a retirada da legenda é por rotação horária.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentação/preparo do canal, Técnicas, Técnica da força balanceada, Figura 8.40, pp. 261–262",
+      "secao": "forca-balanceada",
+      "figura": null
+    }
+  ]
+}

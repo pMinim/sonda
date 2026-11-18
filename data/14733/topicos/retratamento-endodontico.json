@@ -7,12 +7,12 @@
   "fontes": [
     {
       "id": "cohen12-cap10",
-      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 10, Retratamento Não Cirúrgico (Roda RS, Gettleman BH, Johnson SC), p. 337–402.",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 10, Retratamento Não Cirúrgico (Roda RS, Gettleman BH, Johnson SC), p. 337–402 (numeração do contador da edição digital).",
       "curta": "Cohen 12ª ed., cap. 10"
     },
     {
       "id": "cohen12-cap11",
-      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 11, Cirurgia Perirradicular (Johnson BR, Fayad MI, Berman LH), p. 403–464.",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 11, Cirurgia Perirradicular (Johnson BR, Fayad MI, Berman LH), p. 403–464 (numeração do contador da edição digital).",
       "curta": "Cohen 12ª ed., cap. 11"
     }
   ],
@@ -22,7 +22,7 @@
       "titulo": "Doença pós-tratamento e as quatro causas",
       "fonte": "cohen12-cap10",
       "onde": "p. 337–339",
-      "texto": "**Doença pós-tratamento** é o nome que o Cohen adota para a doença endodôntica que persiste ou volta depois do tratamento de canal. O termo substitui \"insucesso\", que carrega peso negativo.\n\n**As quatro causas biológicas:**\n\n1. **Microrganismos intrarradiculares** persistentes ou que reinfectaram o canal: a **principal causa**. A infecção fica quando limpeza, modelagem, obturação e restauração final são inadequadas.\n2. **Infecção extrarradicular:** bactérias no periápice, levadas por extrusão de detritos, sobreinstrumentação ou pelas bolsas periodontais; algumas espécies resistem às defesas e impedem a cicatrização.\n3. **Reação a corpo estranho:** resposta a material extravasado para o periápice. Guta-percha e cimentos costumam ser bem tolerados, mas o extravasamento de cimento pode impedir a cicatrização.\n4. **Cisto verdadeiro:** lesão com revestimento epitelial próprio, que geralmente exige enucleação cirúrgica e não cicatriza só com retratamento não cirúrgico. Os cistos aparecem em **15 a 42% das lesões periapicais**, segundo a incidência relatada.\n\n**As falhas técnicas por trás dessas causas:** canais não tratados (principal e acessórios), acesso mal feito, degraus, perfurações, instrumentos fraturados, sobreinstrumentação, sobreobturação e **infiltração coronária**."
+      "texto": "**Doença pós-tratamento** é o nome que o Cohen adota para a doença endodôntica que persiste ou volta depois do tratamento de canal. O termo substitui \"insucesso\", que carrega peso negativo.\n\n**As quatro causas biológicas:**\n\n1. **Microrganismos intrarradiculares** persistentes ou que reinfectaram o canal: a **principal causa**. A infecção fica quando limpeza, modelagem, obturação e restauração final são inadequadas.\n2. **Infecção extrarradicular:** bactérias no periápice, levadas por extrusão de detritos, sobreinstrumentação ou pelas bolsas periodontais; algumas espécies resistem às defesas e impedem a cicatrização.\n3. **Reação a corpo estranho:** resposta a material extravasado para o periápice. Guta-percha e cimentos costumam ser bem tolerados, mas o extravasamento de cimento pode impedir a cicatrização.\n4. **Cisto verdadeiro:** lesão com revestimento epitelial próprio, que geralmente exige enucleação cirúrgica e não cicatriza só com retratamento não cirúrgico. Os cistos aparecem em **15 a 42% das lesões periapicais**, segundo a incidência relatada.\n\n**As falhas técnicas por trás dessas causas:** acesso mal feito, canais não tratados (principal e acessórios), canais não limpos e obturados adequadamente, degraus, perfurações, instrumentos fraturados, sobreobturação e **infiltração coronária**."
     },
     {
       "id": "diagnostico",
@@ -43,7 +43,7 @@
       "titulo": "Retratar ou operar",
       "fonte": "cohen12-cap10",
       "onde": "p. 346–347",
-      "texto": "**O retratamento não cirúrgico é a regra.** Ele ataca a causa mais comum (infecção intrarradicular), é menos invasivo e expõe menos as estruturas vitais.\n\n| Favorece o **retratamento** | Favorece a **cirurgia** |\n|---|---|\n| obturação deficiente | obturação aparentemente adequada |\n| sinais de infiltração coronária | sem infiltração coronária e sem outra causa tratável |\n| degrau que ainda pode ser transposto | degrau ou instrumento fraturado impenetrável, que não pode ser ultrapassado |\n\n**Instrumento fraturado não removível não manda direto para a cirurgia:** o capítulo orienta tentar o retratamento antes.\n\n**Cirurgia que falhou:** retrate de forma não cirúrgica antes de operar de novo, porque muitos insucessos cirúrgicos vêm de canais mal limpos ou mal obturados.\n\n**Cirurgia exploratória** pode terminar em ressecção radicular ou extração; não é indicada quando o retratamento conservador tem boa chance."
+      "texto": "**O retratamento não cirúrgico é a regra.** Ele ataca a causa mais comum (infecção intrarradicular), é menos invasivo e expõe menos as estruturas vitais.\n\n| Favorece o **retratamento** | Favorece a **cirurgia** |\n|---|---|\n| obturação deficiente | obturação aparentemente adequada |\n| sinais de infiltração coronária | sem evidência de infiltração coronária |\n| degrau que ainda pode ser transposto | degrau ou instrumento fraturado impenetrável, que não pode ser ultrapassado |\n\n**Instrumento fraturado não removível não manda direto para a cirurgia:** o capítulo orienta tentar o retratamento antes.\n\n**Cirurgia que falhou:** retrate de forma não cirúrgica antes de operar de novo, porque muitos insucessos cirúrgicos vêm de canais mal limpos ou mal obturados.\n\n**Com evidência de fratura radicular,** o retratamento cirúrgico não está indicado; a cirurgia apical exploratória pode ser necessária e pode terminar em ressecção radicular ou extração do dente."
     },
     {
       "id": "indicacoes-cirurgia",
@@ -147,7 +147,7 @@
     {
       "id": "f08",
       "frente": "Quais sinais favorecem a cirurgia em vez do retratamento?",
-      "verso": "Obturação **aparentemente adequada**, **sem infiltração coronária** e sem outra causa tratável; ou degrau/instrumento fraturado **impenetrável**.",
+      "verso": "Obturação **aparentemente adequada** e **sem evidência de infiltração coronária**; ou degrau/instrumento fraturado **impenetrável**.",
       "fonte": "cohen12-cap10",
       "onde": "p. 347"
     },
@@ -249,19 +249,19 @@
     },
     {
       "id": "q02",
-      "enunciado": "Molar inferior tratado há 6 anos, com coroa nova e bem adaptada, sem sinais de infiltração coronária. A radiografia mostra obturação aparentemente adequada e lesão periapical persistente; não há outra causa tratável identificada. Qual conduta esse quadro favorece?",
+      "enunciado": "Molar inferior tratado há 6 anos, com coroa nova e bem adaptada, sem sinais de infiltração coronária. A radiografia mostra obturação aparentemente adequada e lesão periapical persistente. Qual conduta esse quadro favorece?",
       "alternativas": [
         {
           "texto": "Retratamento não cirúrgico, porque é sempre a primeira escolha.",
           "correta": false,
-          "justificativa": "O retratamento é a regra geral, mas obturação adequada sem infiltração coronária e sem outra causa tratável é justamente o quadro que o capítulo lista a favor da cirurgia.",
+          "justificativa": "O retratamento é a escolha habitual, mas obturação aparentemente adequada sem evidência de infiltração coronária é justamente o quadro em que o capítulo diz que a cirurgia pode ser indicada.",
           "fonte": "cohen12-cap10",
           "onde": "p. 346–347"
         },
         {
           "texto": "Cirurgia perirradicular.",
           "correta": true,
-          "justificativa": "Obturação aparentemente adequada, sem infiltração coronária e sem outra causa tratável é o sinal que o Cohen associa à indicação de cirurgia.",
+          "justificativa": "Obturação aparentemente adequada e sem evidência de infiltração coronária é o quadro em que o Cohen diz que a cirurgia pode ser indicada.",
           "fonte": "cohen12-cap10",
           "onde": "p. 347"
         },
@@ -306,14 +306,14 @@
         {
           "texto": "Não fazer nada e acompanhar.",
           "correta": false,
-          "justificativa": "É uma das quatro opções, mas aqui há causa tratável evidente (obturação deficiente e infiltração), que o retratamento resolve.",
+          "justificativa": "É uma das quatro opções, mas aqui há obturação deficiente e infiltração coronária, os sinais que favorecem o retratamento.",
           "fonte": "cohen12-cap10",
           "onde": "p. 344"
         },
         {
           "texto": "Cirurgia exploratória para descartar fratura.",
           "correta": false,
-          "justificativa": "A cirurgia exploratória não é indicada quando o retratamento conservador tem boa chance, como neste caso.",
+          "justificativa": "A cirurgia apical exploratória é citada pelo capítulo para o caso de evidência de fratura radicular, que este quadro não traz; aqui os sinais (obturação deficiente e infiltração coronária) favorecem o retratamento.",
           "fonte": "cohen12-cap10",
           "onde": "p. 347"
         }
@@ -337,7 +337,7 @@
         {
           "texto": "Extração e implante.",
           "correta": false,
-          "justificativa": "A extração é último recurso; aqui há uma causa tratável (canal não tratado).",
+          "justificativa": "A extração é último recurso; aqui há um canal não tratado, e o capítulo manda retratar de forma não cirúrgica antes de reoperar.",
           "fonte": "cohen12-cap10",
           "onde": "p. 395"
         },

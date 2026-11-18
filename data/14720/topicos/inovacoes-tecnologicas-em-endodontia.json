@@ -1,0 +1,567 @@
+{
+  "slug": "inovacoes-tecnologicas-em-endodontia",
+  "titulo": "Inovações tecnológicas em endodontia",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 2, 7, 8 e 9",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap02",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 2, Interpretação Radiográfica, p. 32–76 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 2"
+    },
+    {
+      "id": "cohen12-cap07",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 7, Morfologia Dental e Acesso Cavitário, p. 189–231 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 7"
+    },
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    },
+    {
+      "id": "cohen12-cap09",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 9, Obturação dos Canais Radiculares, p. 299–336 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 9"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "niti",
+      "titulo": "O NiTi e por que ele mudou o preparo",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais e Instrumentos movidos a motor, pp. 242–246",
+      "texto": "Os instrumentos que giram em motor são, em geral, de níquel-titânio (NiTi). O Cohen mostra por que essa liga mudou o preparo dos canais.\n\n**A liga.** O NiTi tem duas fases estáveis, austenita e martensita, e passa de uma à outra conforme a temperatura e a tensão aplicada. Daí vêm o efeito de memória de forma e a pseudoelasticidade: o instrumento é deformado e volta ao formato original. O livro destaca também a flexibilidade e a resistência à corrosão, e cita estudo em que limas de NiTi se mostraram bem mais flexíveis que as de aço inoxidável e quase não sofreram deformação permanente ao serem curvadas.\n\n**Como é fabricado.** Por causa da pseudoelasticidade, o NiTi é fabricado por usinagem, não por torção. A torção do fio, usada nas limas K de aço, deixaria deformação plástica no instrumento. O livro cita adiante um NiTi torcido, possível por um processo térmico (veja a seção seguinte).\n\n**O que mudou no preparo.** Instrumentos de aço movidos a motor já existiam havia mais de meio século, em peças de mão com movimentos reciprocantes (giros alternados, horário e anti-horário). Os problemas principais eram o transporte do canal e a fratura. No início dos anos 1990, os rotatórios de NiTi mudaram isso: a liga muito mais flexível permitiu a rotação contínua e reduziu os erros de preparo e as fraturas.\n\n**Atenção: a liga também se desgasta.** Irregularidades da superfície (marcas de usinagem, rebarbas, ranhuras) são reservatório de substâncias corrosivas, em especial o hipoclorito de sódio. A corrosão por cloreto pode formar micropites e levar à fratura. Imersão prolongada em desinfetante, como a noite toda, corroeu os instrumentos e diminuiu a resistência à torção. Na maioria dos estudos, a esterilização não prejudicou a resistência à torção nem à fadiga."
+    },
+    {
+      "id": "tratamento-termico",
+      "titulo": "Tratamento térmico das ligas",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Resumo dos instrumentos de NiTi e Movimentação, pp. 243–244, 251–252 e 254",
+      "texto": "O tratamento térmico é a segunda forma, além do desenho, de mudar o comportamento da lima de NiTi.\n\n**Por que a temperatura importa.** Variações de temperatura também fazem o NiTi passar de austenita a martensita e vice-versa. Por isso o tratamento térmico, aplicado no fio bruto durante a produção ou na lima já fabricada, pode alterar as propriedades do instrumento. A mais importante é a flexibilidade. Em linhas gerais, o instrumento mais austenítico responde de forma elástica e recuperável, e o mais martensítico tem faixa elástica menor.\n\n**As ligas modificadas.** A primeira liga modificada que chegou ao mercado foi anunciada como mais resistente à fadiga. Hoje, a maioria dos instrumentos parte de fio de NiTi padrão, é trabalhada por microfresagem e passa por etapas de recozimento e resfriamento. Tendem a ser relativamente mais martensíticos à temperatura ambiente e, possivelmente, na corporal. Em geral são mais flexíveis e mais resistentes à fadiga. O livro cita ainda um NiTi fabricado por torção, o primeiro, possível porque um processo térmico permite torcer o fio durante uma mudança de fase, chamada fase R.\n\n**Como trabalhar com elas.** Limas de liga mais martensítica tendem a render melhor com pinceladas ou varreduras mais longas; as muito martensíticas podem se beneficiar de pinceladas suaves, de baixo impacto e com baixo torque.\n\n**O que o livro deixa em aberto.** O efeito de outros aspectos clínicos sobre as propriedades mecânicas é debatido."
+    },
+    {
+      "id": "grupos",
+      "titulo": "Os três grupos pelo modo de corte (Tabela 8.1) e o movimento reciprocante",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos movidos a motor para o preparo do canal, Tabela 8.1 e Grupo III, pp. 246–252",
+      "texto": "A Tabela 8.1 do cap. 8 agrupa os rotatórios de NiTi pelo modo de corte. Saber o grupo diz o que esperar do instrumento na bancada.\n\n**Grupo I: preparo passivo.** A seção transversal tem guias radiais, superfícies que, junto com a ponta, conduzem a lima conforme ela avança apicalmente. Por isso esses instrumentos são considerados muito seguros contra erros, mesmo quando levados além dos limites do canal. O preço é que eles ampliam mais do que cortam a dentina e são menos eficientes, e a participação deles no mercado diminuiu por essa eficácia limitada. Segundo a tabela, clínicos com pouca experiência têm melhor desempenho com guias radiais.\n\n**Grupo II: corte ativo.** Seção triangular, sem guias radiais. O resultado é maior eficiência de corte e maior potencial de erros de preparo, em especial quando o instrumento atravessa o forame apical, porque falta a condução da ponta não cortante. Seguem como preocupação a fratura, a tendência de rosquear e a perfuração, sobretudo perto do comprimento de trabalho. Mesmo assim, o livro diz que a incidência de erros clinicamente relevantes parece baixa, e que a parcela de mercado desse grupo cresce pela percepção de maior eficácia.\n\n**Grupo III: instrumentos atípicos.** Têm geometria, movimento ou sequência de uso incomuns. Entram aqui a lima autoajustável, um cilindro oco de NiTi que se adapta à seção do canal, e os reciprocantes.\n\n**Movimento reciprocante.** Reciprocar é girar alternando os sentidos, horário e anti-horário. Os instrumentos de aço movidos a motor, em uso havia mais de meio século, trabalhavam assim, e seus problemas principais eram o transporte do canal e a fratura. A rotação contínua do NiTi trouxe travamento, fratura e aparafusamento. O livro diz que a ação reciprocante é uma forma de mitigá-los (p. 252) e, em outro trecho, que trocar a rotação contínua pelo movimento reciprocante previne aparafusamentos e fraturas (p. 246). Os sistemas descritos precisam de motores especiais, com rotação anti-horária de cerca de 150° a 170° e horária de cerca de 30° a 50°, respectivamente. Os resíduos de dentina podem ser levados para a região apical, em vez da coronária (as evidências in vitro são contraditórias), e o livro pede limpar as lâminas com frequência, com gaze umedecida. In vitro, a capacidade de modelagem foi semelhante à da rotação contínua.\n\n**Sequência e glide path.** O livro diz que as sequências específicas de uso reduziram bastante os erros de modelagem. Para a maioria dos instrumentos de NiTi, recomenda-se preparar antes um glide path (veja o tema de exploração e patência).\n\n**Ponto em aberto.** O livro diz que as diferenças clínicas entre variações de desenho ainda precisam ser confirmadas."
+    },
+    {
+      "id": "motores",
+      "titulo": "Motores, torque e como evitar a fratura",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254 e p. 250",
+      "texto": "O motor também mudou. Os primeiros eram elétricos simples; hoje, segundo o Cohen, os motores elétricos com redução são os mais adequados aos NiTi: mantêm rotação e torque constantes e podem ser programados, inclusive para o movimento reciprocante, com ângulos de giro escolhidos livremente.\n\n**Controle de torque.** Alguns autores acreditam que motores controlados por torque aumentam a segurança. Outros sugerem que beneficiam sobretudo clínicos inexperientes. O livro diz que provavelmente eles não reduzem o risco de fratura por fadiga cíclica.\n\n**Recursos do microprocessador.** Alguns motores trazem pré-configurações, histórico de uso e localizador apical acoplado, que pode parar o instrumento ou inverter o giro ao chegar ao comprimento de trabalho. O localizador é assunto do tema de comprimento de trabalho.\n\n**O que depende de você para evitar a fratura.** O livro cita:\n\n- usar o rotatório só com o canal totalmente preenchido com irrigante;\n- não forçar o instrumento em direção apical, para evitar o travamento;\n- ter um glide path adequado e usar sequências de instrumentos apropriadas ao canal;\n- lembrar que curvaturas apicais agudas limitam os instrumentos de maior conicidade, pelo risco de fadiga cíclica.\n\n**Pincelamento.** O livro explica que não é pincel de pintura: é movimentar o instrumento contra a parede, afastando-se da zona de perigo (a curvatura interna de raiz curva). Nos molares, o movimento se afasta da furca, para não adelgaçar a estrutura da raiz.\n\n**Se fraturar.** Remover o fragmento costuma exigir equipamento adicional, como microscópio operatório e ultrassom. O livro diz que a melhor maneira de lidar com a fratura é preveni-la."
+    },
+    {
+      "id": "magnificacao",
+      "titulo": "Magnificação: microscópio e lupa",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189, p. 200 e p. 206",
+      "texto": "O livro diz que é essencial usar magnificação e iluminação, sobretudo em dentes posteriores. Muitos dentes têm morfologia incomum, e a radiografia convencional nem sempre dá a leitura correta, sobretudo com uma só tomada ortorradial.\n\n**Microscópio clínico odontológico.** Dá mais magnificação, iluminação e visibilidade. O livro o recomenda para localizar os orifícios de entrada dos canais depois de um acesso cavitário adequado, e diz que foi demonstrado superior ao olho nu e às lupas nessa tarefa.\n\n**Lupas.** Na falta do microscópio, o livro recomenda muito as lupas cirúrgicas com luz auxiliar.\n\n**Os estudos divergem.** O livro registra que um grupo achou lupas e microscópio igualmente eficazes para os canais mesiopalatinos dos molares superiores, e que outros acharam que o microscópio não melhorou de modo significativo a localização dos canais. O capítulo mostra os dois lados.\n\n**Na bancada.** Com cavidade de acesso mínima, o livro diz que a magnificação é essencial. A inspeção do assoalho e a busca de canais calcificados estão nos temas de acesso (molares; incisivos e caninos)."
+    },
+    {
+      "id": "ativacao-sonica-ultrassonica",
+      "titulo": "Ativação do irrigante: manual, sônica e ultrassônica",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Técnicas e dispositivos de desinfecção, pp. 279–281",
+      "texto": "**Por que ativar.** Na irrigação passiva com seringa e agulha, a troca real do líquido fica restrita a 1 a 1,5 mm além da ponta da agulha (pp. 279–280; o tema de irrigação traz também a medida da p. 236). Além disso, a maioria dos canais não instrumentados é estreita demais para o irrigante chegar com eficiência. Por isso o Cohen propõe agitar o líquido dentro do canal.\n\n**Manual.** O irrigante chega melhor aos sulcos e às áreas que a instrumentação não tocou quando é agitado: movimentando a agulha no sentido cervicoapical, misturando com instrumentos pequenos ou fazendo tração e pressão com um cone de guta-percha principal adaptado.\n\n**Sônica.** A peça de mão sônica agita o irrigante com vigor, com pontas de polímero não cortantes. Os dispositivos sônicos oscilam entre 1.500 e 6.000 Hz, e os ultrassônicos exigem mais de 20.000 Hz.\n\n**Ultrassônica.** Há dois tipos:\n\n- com instrumentação simultânea: a lima toca a parede de propósito, mas num canal complexo nunca toca tudo, e pode haver corte descontrolado sem desinfecção efetiva;\n- sem instrumentação simultânea, a irrigação ultrassônica passiva (PUI): \"passiva\" refere-se à lima, que não corta.\n\n**PUI na bancada.** Faça depois que o canal já tem a conicidade e o tamanho apical finais. Com o canal inundado de irrigante, introduza uma lima pequena ou um fio liso (por exemplo, tamanho #15) e ative com ultrassom. Como o canal já está modelado, a lima se move com mais liberdade e o irrigante chega à porção apical. Por não cortar, o potencial de criar formas aberrantes é mínimo. Lima maior que #15 ou #20 pede canal mais amplo, senão o contato com a parede reduz a oscilação.\n\n**Contínua.** Na irrigação ultrassônica contínua, uma agulha energizada ligada ao reservatório de hipoclorito irriga e ativa ao mesmo tempo. Pesquisa citada no livro mostra melhor eliminação de resíduos.\n\n**Evidência.** O livro diz que a ativação ultrassônica parece melhorar o desbridamento in vitro, mas que os resultados in vivo são controversos e as diretrizes sobre riscos e benefícios ainda não foram confirmadas.\n\nIrrigantes (hipoclorito, EDTA, clorexidina) e acidente com hipoclorito: tema de irrigação endodôntica."
+    },
+    {
+      "id": "pressao-negativa-multissonica",
+      "titulo": "Irrigação com pressão apical negativa",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Irrigação com pressão apical negativa, pp. 281–282",
+      "texto": "O irrigante fica na câmara de acesso e uma agulha muito fina, ligada à sucção da cadeira, entra no canal. O líquido da câmara é levado apicalmente e removido por sucção. Primeiro uma macrocânula remove os resíduos coronários; depois uma microcânula remove as partículas alojadas perto do comprimento de trabalho. O livro a chama de coadjuvante valioso na desinfecção.\n\n- Vantagem: a segurança. Vários estudos indicam que provavelmente não há extrusão pelo ápice.\n- Limite: como o irrigante fica depositado na área coronária, o fluxo nos últimos milímetros apicais é muito passivo."
+    },
+    {
+      "id": "laser-pdt",
+      "titulo": "Laser e terapia fotodinâmica",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Irrigação ativada a laser e Desinfecção fotoativada, pp. 282–283",
+      "texto": "O Cohen coloca laser e terapia fotodinâmica entre as técnicas, além das convencionais, propostas e testadas para a desinfecção do canal.\n\n**Laser.** Os lasers amplamente usados em odontologia incluem diodo, Nd:YAG, érbio e CO2. Foram estudados pela capacidade de limpar e desinfetar o canal e de melhorar a ação dos irrigantes. A energia do laser pode ativar a solução de duas maneiras: no nível molecular, na desinfecção fotoativada, ou no fluxo macroscópico, na irrigação ativada a laser (LAI).\n\n- A LAI se baseia em um efeito de cavitação secundário, com expansão e implosão sucessivas dos fluidos. O livro cita estudos que a apontam como promissora para remover a smear layer e os debris dentinários.\n- Quanto ao Nd:YAG, o livro cita estudo em que ele não é alternativa, mas possível suplemento aos protocolos existentes. Erradicar bactérias em biofilme continua um grande desafio, mesmo com exposição direta ao laser.\n\n**Terapia fotodinâmica (PDT).** Também chamada terapia fotoativada. Na forma antimicrobiana, tem duas etapas:\n\n1. introduzir um fotossensibilizador, que sensibiliza o tecido infectado;\n2. iluminar o tecido sensibilizado; a reação fotoquímica é tóxica para as células-alvo e as destrói.\n\nCada elemento sozinho não tem ação; juntos têm efeito sinérgico antibacteriano. In vitro, os resultados são promissores como coadjuvante da desinfecção, e o livro pede mais pesquisa."
+    },
+    {
+      "id": "bioceramicos",
+      "titulo": "Cimentos de silicato de cálcio (biocerâmicos)",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico, pp. 312–313",
+      "texto": "Os cimentos à base de silicato de cálcio, chamados também de biocerâmicos, são para o Cohen o grupo mais recente de cimentos endodônticos bioativos para obturação. Nascem da popularidade do agregado de trióxido mineral (MTA), um pó de silicato tricálcico e silicato dicálcico que endurece em contato com água. O livro usa \"MTA\" como termo para todos os produtos de silicato tri e bicálcico.\n\n**O princípio.** O pó é hidraulicamente ativo: faz presa pela reação com água e forma uma mistura altamente alcalina, com matriz rígida de hidratos de silicato de cálcio e hidróxido de cálcio. A bioatividade relatada para esses materiais é o que os torna atraentes. Um pó radiopaco é acrescentado, porque sem ele o material não apareceria na radiografia.\n\n**Apresentações.** Há produtos pré-misturados, pastas duplas em seringa com ponta misturadora e sistemas pó/gel misturados pelo usuário. Nos que têm veículo não aquoso, as partículas precisam se hidratar no dente, trocando o veículo pela água do canal.\n\n**Expansão e presa, segundo o livro.** A expansão ao endurecer é mínima, o que ajuda a criar uma barreira. A presa é longa, o que é desvantagem para algumas indicações, mas não para cimento de obturação.\n\n**Na bancada.** Um estudo citado no livro indicou melhor adesão com o canal levemente úmido, em cimentos de silicato e resinosos; o livro ressalva que isso não significa canal inundado.\n\nAs propriedades comparadas com os demais cimentos (norma ISO 6876, solubilidade, radiopacidade e evidência clínica) estão no tema de obturação."
+    },
+    {
+      "id": "termoplastificadas-principio",
+      "titulo": "Guta-percha termoplastificada: o que muda em relação à lateral",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–328",
+      "texto": "Termoplastificar é amolecer a guta-percha com calor para que ela se mova e se adapte dentro do canal. Ideia, preparo, vantagens e desvantagens e limiar de calor estão no tema de obturação. Em todas é preciso cimento obturador.\n\n**Em relação à lateral.** Na lateral, os cones ficam laminados e separados, e se espera que o cimento preencha os espaços entre eles. Ao movimentar a guta-percha amolecida, a massa fica mais homogênea e acompanha melhor as irregularidades e os canais acessórios. Em contrapartida, o livro cita mais extravasamento de material e menos controle do comprimento do que na lateral. O risco de fratura radicular vertical parece igual, com forças semelhantes às da lateral.\n\n**Calor e raiz.** O calcador aquecido na chama não tem controle de temperatura, e o calor passa à superfície da raiz. O livro pede cautela com ele e também com a unidade que só envia calor à ponta, sem retorno de informação. A unidade com retorno ajusta a temperatura da ponta e a mantém.\n\n**Condensação vertical aquecida.** Adapta-se um cone principal não padronizado, que reproduz a conicidade do canal, um pouco aquém do comprimento de trabalho. Um calcador aquecido amolece a guta-percha e um frio a compacta em direção ao ápice, e o processo se repete. O terço cervical é obturado com pedaços de guta-percha pré-aquecidos. No método seccional, usam-se segmentos de guta-percha, aquecidos e compactados.\n\n**Ondas contínuas.** É uma variação da vertical aquecida: a unidade de calor ativa calcadores cuja conicidade combina com a do cone principal. A porção apical permanece essencialmente como numa técnica de cone único. Em canal oval, o livro sugere um cone acessório ao lado do principal antes da condensação.\n\n**Injeção termoplástica.** A guta-percha é aquecida fora do dente e injetada no canal com uma \"pistola\" de agulhas finas, com o canal seco e as paredes cobertas de cimento. Injeta-se de forma gradual e passiva, e calcadores pré-adaptados compactam até a guta-percha esfriar, para compensar a contração. Uma técnica híbrida, que começa por condensação lateral e injeta só o restante do canal, diminui o risco de extravasamento.\n\n**Carregadores com guta-percha.** Uma haste (núcleo) revestida de guta-percha é aquecida e inserida no canal sem movimento de rotação ou torção, e deve se adaptar passivamente ao comprimento de trabalho. O livro nota que a guta-percha muitas vezes se soltava da haste, que ficava sozinha na região apical.\n\n**Compactação termomecânica.** Um instrumento de hélices reversas, em peça de mão de baixa rotação, amolece a guta-percha por fricção e a empurra apicalmente."
+    },
+    {
+      "id": "tcfc-acrescenta",
+      "titulo": "O que a TCFC acrescenta à radiografia",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Imagem tridimensional, Princípios da TCFC e Tarefas melhoradas pela TCFC, pp. 35–38, 42–43 e 45–48",
+      "texto": "A TCFC mostra cortes finos nos três planos (axial, sagital e coronal), sem a sobreposição do osso e de estruturas anatômicas da imagem plana. O que ela é, o limite da radiografia 2D, o voxel e o campo de visão estão no tema de radiografia em endodontia; aqui ficam os usos que o cap. 2 aponta.\n\n**O que ela mostra melhor.**\n\n- Lesões periapicais: osso vestibular e processo zigomático, que se sobrepõem aos ápices de molares e pré-molares superiores na imagem plana, desaparecem quando se percorrem os cortes.\n- Morfologia: curvatura radicular, raízes e canais adicionais, obstruções, estreitamentos e bifurcações dentro dos canais, e anomalias dentárias.\n- Dentes já tratados: canais perdidos, que o livro cita entre as causas de falha, desvios de canal e erros de procedimento.\n- Fratura radicular vertical, difícil de ver na imagem plana. Mas a obturação do canal gera artefatos em listras que podem imitar fratura ou perfuração.\n\n**Atenção.** Quando a TCFC entra (declaração conjunta de associações dos Estados Unidos): tema de radiografia em endodontia."
+    },
+    {
+      "id": "endodontia-guiada",
+      "titulo": "Endodontia guiada",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65",
+      "texto": "O Cohen chama o tratamento endodôntico guiado em 3D, cirúrgico e não cirúrgico, de \"uma aplicação emergente\".\n\n**Como funciona.** A TCFC é combinada com a digitalização intraoral da área de interesse. As duas imagens são sobrepostas num modelo, com mangas posicionadas nas imagens. A partir disso se imprime em 3D um guia com manga, que direciona o instrumento. Na maioria das vezes se usa o software de planejamento de implantes.\n\n**Para que se usa hoje.** Em dentes com canais calcificados e em dentes com variações anatômicas do sistema de canais. O livro cita estudo recente do acesso em dentes com canal calcificado: com a abordagem guiada, mais canais foram detectados e houve perda significativamente menor de estrutura dentária.\n\n**Nível de evidência.** O livro diz que faltam estudos de alto nível de evidência: há vários estudos in vitro e relatos de caso.\n\nO capítulo trata também de guias na cirurgia perirradicular, que não faz parte desta disciplina."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as duas fases do NiTi e o que a liga ganha com elas?",
+      "verso": "Austenita e martensita. A liga ganha memória de forma e pseudoelasticidade: o instrumento deformado volta ao formato original.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, pp. 242–243"
+    },
+    {
+      "id": "f02",
+      "frente": "Por que o NiTi é fabricado por usinagem e não por torção, como as limas K de aço?",
+      "verso": "Porque a torção deixaria deformação plástica no instrumento. O livro só cita depois um NiTi torcido, possível por um processo térmico.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, pp. 243–244"
+    },
+    {
+      "id": "f03",
+      "frente": "Antes do NiTi, o que existia de instrumento de aço a motor e qual era o problema?",
+      "verso": "Peças de mão com movimento reciprocante, em uso havia mais de meio século. Os problemas principais eram o transporte do canal e a fratura.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos movidos a motor, pp. 246–247"
+    },
+    {
+      "id": "f04",
+      "frente": "O que o tratamento térmico costuma dar à lima de NiTi, segundo o Cohen?",
+      "verso": "Em geral, mais flexibilidade e mais resistência à fadiga. A flexibilidade é a propriedade mais importante que ele muda.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, pp. 243–244"
+    },
+    {
+      "id": "f05",
+      "frente": "No Cohen, qual a diferença entre os rotatórios do grupo I e do grupo II (Tabela 8.1)?",
+      "verso": "Grupo I: guias radiais, preparo passivo, muito seguro, mas corta menos. Grupo II: seção triangular, corte ativo, mais eficiente e com mais potencial de erros de preparo.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Tabela 8.1 e Grupos I e II, pp. 247–250"
+    },
+    {
+      "id": "f06",
+      "frente": "Que problemas da rotação contínua o movimento reciprocante ajuda a mitigar?",
+      "verso": "Travamento, fratura e aparafusamento do instrumento de NiTi.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252"
+    },
+    {
+      "id": "f07",
+      "frente": "O motor controlado por torque elimina o risco de fratura do NiTi?",
+      "verso": "Não. Alguns autores acham que aumenta a segurança, outros que beneficia sobretudo o inexperiente, e o livro diz que provavelmente não reduz o risco de fratura por fadiga cíclica.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Motores, pp. 253–254"
+    },
+    {
+      "id": "f08",
+      "frente": "O que o Cohen quer dizer com \"pincelamento\"?",
+      "verso": "Movimentar o instrumento contra a parede, afastando-se da zona de perigo (curvatura interna de raiz curva), e não como um pincel de pintura. Nos molares, afastando-se da furca.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Movimentação, velocidade e fratura, p. 250 e p. 254"
+    },
+    {
+      "id": "f09",
+      "frente": "Para localizar orifícios de canais, o Cohen recomenda lupa ou microscópio clínico?",
+      "verso": "O microscópio clínico odontológico, depois de um acesso adequado. Na falta dele, lupas cirúrgicas com luz auxiliar. Os estudos divergem sobre a vantagem do microscópio.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200"
+    },
+    {
+      "id": "f10",
+      "frente": "Como se faz a irrigação ultrassônica passiva (PUI)?",
+      "verso": "Com o canal já modelado e inundado de irrigante, ativa-se com ultrassom uma lima pequena ou um fio liso, que não corta.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281"
+    },
+    {
+      "id": "f11",
+      "frente": "Quais são as duas etapas da terapia fotodinâmica antimicrobiana?",
+      "verso": "1) Introduzir um fotossensibilizador no tecido infectado. 2) Iluminar o tecido sensibilizado; a reação fotoquímica é tóxica para as células-alvo.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Desinfecção fotoativada, pp. 282–283"
+    },
+    {
+      "id": "f12",
+      "frente": "O que são os cimentos biocerâmicos e como fazem presa?",
+      "verso": "Cimentos de silicato tricálcico e dicálcico, derivados do MTA. Fazem presa pela reação com água, formando hidratos de silicato de cálcio e hidróxido de cálcio.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico, pp. 312–313"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual a vantagem principal da guta-percha termoplastificada sobre a condensação lateral?",
+      "verso": "Massa mais homogênea, que acompanha melhor irregularidades e canais acessórios. A desvantagem: mais extravasamento de material.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação vertical aquecida, pp. 322–323"
+    },
+    {
+      "id": "f14",
+      "frente": "Por que o Cohen pede cautela com calcador aquecido na chama?",
+      "verso": "Ele não tem controle de temperatura, e o calor passa à superfície da raiz. A unidade com retorno de informação ajusta e mantém a temperatura da ponta.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação vertical aquecida, pp. 321–322"
+    },
+    {
+      "id": "f15",
+      "frente": "O que a TCFC acrescenta à radiografia periapical?",
+      "verso": "Cortes finos nos três planos (axial, sagital, coronal), sem a sobreposição do osso e de estruturas anatômicas. Mostra lesões periapicais e morfologia radicular que a imagem plana não mostra bem.",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Imagem tridimensional e Lesões periapicais, pp. 35–38 e 43–45"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Antes dos rotatórios de NiTi, instrumentos de aço já eram movidos a motor. Segundo o cap. 8 do Cohen, o que mudou com a chegada do NiTi, no início dos anos 1990?",
+      "alternativas": [
+        {
+          "texto": "O NiTi introduziu o movimento reciprocante, que o aço movido a motor nunca tinha feito.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que os instrumentos de aço movidos a motor já trabalhavam em peças de mão com movimentos reciprocantes, havia mais de meio século (pp. 246–247).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, pp. 246–247"
+        },
+        {
+          "texto": "A liga muito mais flexível permitiu a rotação contínua e reduziu erros de preparo e fraturas.",
+          "correta": true,
+          "justificativa": "Correta. Os problemas do aço movido a motor eram o transporte do canal e a fratura; os rotatórios de NiTi permitiram a rotação contínua e reduziram erros e fraturas (pp. 246–247).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, pp. 246–247"
+        },
+        {
+          "texto": "Passou a ser fabricado por torção do fio, como as limas K, o que eliminou os erros de preparo.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que, por causa da pseudoelasticidade, o NiTi é fabricado por usinagem, e não por torção (pp. 243–244); cita depois um NiTi torcido, possível por processo térmico. E diz que a liga flexível reduziu os erros de preparo, não que os eliminou (pp. 246–247).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, pp. 243–244"
+        },
+        {
+          "texto": "O transporte do canal e a fratura deixaram de existir com o NiTi.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a liga flexível reduziu os erros de preparo e as fraturas; não diz que eles deixaram de existir. Ele trata de prevenir a fratura em várias páginas (pp. 246 e 254).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, pp. 246–247"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais e Instrumentos movidos a motor, pp. 242–246",
+      "secao": "niti",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um fabricante diz que sua lima de NiTi passou por tratamento térmico. Segundo o cap. 8 do Cohen, o que se espera, em geral, de um instrumento assim em comparação com o NiTi comum?",
+      "alternativas": [
+        {
+          "texto": "Mais rígido, com a mesma resistência à fadiga.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que os instrumentos modificados por tratamento térmico são, em geral, mais flexíveis e mais resistentes à fadiga (pp. 243–244).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, pp. 243–244"
+        },
+        {
+          "texto": "Mais flexível e mais resistente à fadiga.",
+          "correta": true,
+          "justificativa": "Correta. Segundo o livro, os instrumentos modificados por tratamento térmico são, em geral, mais flexíveis e mais resistentes à fadiga, e a flexibilidade é a propriedade mais importante que o tratamento altera (pp. 243–244).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, pp. 243–244"
+        },
+        {
+          "texto": "Nenhuma mudança de propriedade, porque a temperatura não altera a liga.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que alterações de temperatura mudam a fase do NiTi e que o tratamento térmico pode alterar as propriedades do instrumento, sobretudo a flexibilidade (pp. 243–244).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, pp. 243–244"
+        },
+        {
+          "texto": "Flexibilidade menor que a do aço inoxidável, porque o tratamento fixa a liga.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o NiTi é mais flexível que o aço inoxidável e que o tratamento térmico torna a lima, em geral, ainda mais flexível (pp. 243–244).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, pp. 243–244"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, pp. 243–244",
+      "secao": "tratamento-termico",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um colega diz que o movimento reciprocante é \"só girar mais rápido\". Segundo o cap. 8 do Cohen, o que caracteriza esse movimento e por que ele é usado em NiTi?",
+      "alternativas": [
+        {
+          "texto": "Giro contínuo num só sentido, mais lento, para o instrumento não travar.",
+          "correta": false,
+          "justificativa": "Errada. O livro define o movimento reciprocante como giros alternados, horário e anti-horário, e o apresenta como alternativa à rotação contínua (pp. 246 e 252).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252"
+        },
+        {
+          "texto": "Vaivém axial de alta frequência, dado por unidade ultrassônica, para cortar mais rápido.",
+          "correta": false,
+          "justificativa": "Errada. Nos sistemas descritos, a ação reciprocante vem de motores especiais que alternam o giro; o ultrassom é outra tecnologia, usada para outros fins (p. 252).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252"
+        },
+        {
+          "texto": "Giro alternado nos dois sentidos, com ângulos diferentes, que mitiga travamento, fratura e aparafusamento da rotação contínua.",
+          "correta": true,
+          "justificativa": "Correta. O livro descreve giros alternados com ângulos diferentes nos dois sentidos e diz que a ação reciprocante é uma forma de mitigar os problemas da rotação contínua (p. 252).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252"
+        },
+        {
+          "texto": "Giro alternado nos dois sentidos com ângulos iguais, de modo que o instrumento volta sempre ao ponto de partida.",
+          "correta": false,
+          "justificativa": "Errada. Os ângulos descritos no livro são diferentes nos dois sentidos (p. 252).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos movidos a motor, Grupo III, pp. 246–252",
+      "secao": "grupos",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Você prepara um canal com motor de controle de torque e conclui que o risco de fratura do instrumento acabou. Segundo o cap. 8 do Cohen, qual é a leitura correta?",
+      "alternativas": [
+        {
+          "texto": "Certa: o controle de torque elimina a fratura, e glide path e cuidado com a pressão deixam de ser necessários.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o motor provavelmente não reduz o risco de fratura por fadiga cíclica e que a prevenção depende também de não forçar o instrumento, do glide path e da sequência (pp. 253–254).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254"
+        },
+        {
+          "texto": "Errada: o controle de torque só funciona com instrumentos de aço inoxidável.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que motores elétricos com redução são os mais adequados aos sistemas de NiTi e que há motores controlados por torque para esses instrumentos (pp. 253–254).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254"
+        },
+        {
+          "texto": "Em parte: provavelmente não reduz o risco de fratura por fadiga cíclica; continuam necessários não forçar o instrumento apicalmente, glide path e sequência apropriada.",
+          "correta": true,
+          "justificativa": "Correta. É o que o livro diz sobre o motor controlado por torque e sobre a prevenção da fratura (pp. 253–254).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254"
+        },
+        {
+          "texto": "Certa: o livro diz que o controle de torque é indispensável a qualquer clínico, experiente ou não.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que alguns autores o consideram mais seguro e outros que beneficia principalmente clínicos inexperientes; não o declara indispensável (pp. 253–254).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Motores e Movimentação, velocidade e fratura, pp. 253–254",
+      "secao": "motores",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Depois de terminar o acesso de um molar superior, você não encontra um dos orifícios. Segundo o cap. 7 do Cohen, o que fazer para localizar os orifícios dos canais?",
+      "alternativas": [
+        {
+          "texto": "Fazer uma periapical em ângulo único, que dá a leitura morfológica correta do dente.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a radiografia convencional nem sempre dá a leitura morfológica correta, sobretudo com uma só tomada ortorradial (p. 189).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200"
+        },
+        {
+          "texto": "Usar o microscópio clínico depois do acesso adequado; sem ele, lupas cirúrgicas com luz auxiliar.",
+          "correta": true,
+          "justificativa": "Correta. O microscópio é recomendado para localizar os orifícios e foi demonstrado superior ao olho nu e às lupas; na falta dele, lupas com luz auxiliar são altamente recomendadas (p. 189 e p. 200).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200"
+        },
+        {
+          "texto": "Confiar no olho nu, que o livro considera equivalente ao microscópio nessa tarefa.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o microscópio foi demonstrado superior ao olho nu e às lupas na localização dos orifícios (p. 189).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200"
+        },
+        {
+          "texto": "Usar lupa no lugar do microscópio, porque o livro diz que a lupa é sempre equivalente a ele.",
+          "correta": false,
+          "justificativa": "Errada. O livro registra que os estudos divergem: um grupo achou lupas e microscópio igualmente eficazes e outros acharam que o microscópio não melhorou de modo significativo a localização; não diz que a lupa é sempre equivalente (p. 189).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Introdução e Magnificação e iluminação, p. 189 e p. 200",
+      "secao": "magnificacao",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Você vai ativar o irrigante com ultrassom sem cortar a dentina, em um canal já com a conicidade e o tamanho apical finais. Segundo o cap. 8 do Cohen, como fazer a irrigação ultrassônica passiva?",
+      "alternativas": [
+        {
+          "texto": "Com o canal seco, para a lima vibrar sem o amortecimento do líquido.",
+          "correta": false,
+          "justificativa": "Errada. O livro pede o canal inundado de irrigante; a energia acústica passa da lima ou do fio para a substância de irrigação (pp. 280–281).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281"
+        },
+        {
+          "texto": "Com lima calibrosa encostada na parede, para limpar enquanto corta.",
+          "correta": false,
+          "justificativa": "Errada. Essa é a irrigação ultrassônica com instrumentação simultânea, em que a lima toca a parede de propósito e pode cortar de forma descontrolada. A passiva usa uma lima que não corta (pp. 280–281).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281"
+        },
+        {
+          "texto": "Com lima pequena ou fio liso, que se move livremente no canal inundado de irrigante.",
+          "correta": true,
+          "justificativa": "Correta. É o que o livro descreve para a PUI, feita depois que o canal tem conicidade e tamanho apical finais (pp. 280–281).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281"
+        },
+        {
+          "texto": "Com uma lima grande, justa nas paredes, para transmitir mais energia.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que lima maior que a pequena usada na PUI requer canal mais amplo, porque o contato com a parede reduz a oscilação (pp. 280–281).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Irrigação ativada por ultrassom (PUI), pp. 280–281",
+      "secao": "ativacao-sonica-ultrassonica",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Você vai obturar com um cimento biocerâmico de veículo não aquoso. Segundo o cap. 9 do Cohen, o que um estudo citado pelo livro indicou sobre a umidade do canal e por que a água importa nesse cimento?",
+      "alternativas": [
+        {
+          "texto": "Completamente seco, porque o cimento faz presa sozinho, sem depender da água.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que nesses cimentos as partículas precisam se hidratar no dente, trocando o veículo não aquoso pela água do canal (pp. 312–313).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico e Umidade do canal, pp. 312–313"
+        },
+        {
+          "texto": "Inundado, porque quanto mais água, melhor a presa e a adesão.",
+          "correta": false,
+          "justificativa": "Errada. O livro ressalva que o canal não deve estar inundado, pois essa umidade poderia prejudicar a adesão à dentina intrarradicular (p. 313).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico e Umidade do canal, pp. 312–313"
+        },
+        {
+          "texto": "Canal levemente úmido, não inundado: o veículo não aquoso se troca pela água do canal para as partículas fazerem presa, e a adesão foi melhor assim.",
+          "correta": true,
+          "justificativa": "Correta. O livro diz que nesses cimentos as partículas se hidratam com a água do canal e cita estudo com melhor adesão com o canal levemente úmido, ressalvando que isso não significa canal inundado (pp. 312–313).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico e Umidade do canal, pp. 312–313"
+        },
+        {
+          "texto": "Tanto faz: o livro diz que a umidade do canal não interfere nesses cimentos.",
+          "correta": false,
+          "justificativa": "Errada. O livro trata da umidade como fator de presa e de adesão desses cimentos (pp. 312–313).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico e Umidade do canal, pp. 312–313"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Cimentos à base de silicato tri/dicálcico e Umidade do canal, pp. 312–313",
+      "secao": "bioceramicos",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Em um canal com irregularidades, você compara a condensação lateral com uma técnica termoplastificada. Segundo o cap. 9 do Cohen, qual é a vantagem e qual é a desvantagem da termoplastificada?",
+      "alternativas": [
+        {
+          "texto": "Vantagem: cones laminados separados por cimento; desvantagem: menos extravasamento de material.",
+          "correta": false,
+          "justificativa": "Errada. Cones laminados e separados é a característica da condensação lateral, e o livro diz que as técnicas termoplásticas deram mais extravasamento, não menos (pp. 320 e 322).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–323"
+        },
+        {
+          "texto": "Vantagem: massa mais homogênea, que preenche melhor irregularidades e canais acessórios; desvantagem: mais extravasamento de material.",
+          "correta": true,
+          "justificativa": "Correta. Mover a guta-percha plastificada cria massa mais homogênea; em compensação, as técnicas termoplásticas deram mais extravasamento (pp. 322–323).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–323"
+        },
+        {
+          "texto": "Vantagem: elimina qualquer risco de fratura radicular vertical; desvantagem: exige cimento obturador.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o potencial de fratura radicular vertical existe também na vertical aquecida, com forças que parecem iguais às da lateral (pp. 322–323).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–323"
+        },
+        {
+          "texto": "Vantagem: dispensa o cimento obturador; desvantagem: não preenche canais acessórios.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a vantagem das técnicas termoplásticas é justamente preencher melhor irregularidades e canais acessórios (pp. 322–323), e que o cimento obturador é essencial em todas as técnicas (p. 307; também nas injetadas, p. 324, e nos carregadores, p. 327).",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–323; Materiais ideais para a obturação, p. 307"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral, Condensação vertical aquecida e Técnicas termoplásticas, pp. 320–323",
+      "secao": "termoplastificadas-principio",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o cap. 2 do Cohen, o que é preciso para fazer o guia da endodontia guiada em 3D e para que ele é usado hoje?",
+      "alternativas": [
+        {
+          "texto": "TCFC e digitalização intraoral, com guia impresso com manga; usado em canais calcificados e variações anatômicas.",
+          "correta": true,
+          "justificativa": "Correta. O livro descreve a sobreposição da TCFC com a digitalização intraoral e o guia impresso em 3D com manga, usado hoje em canais calcificados e em variações anatômicas do sistema de canais (pp. 64–65).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65"
+        },
+        {
+          "texto": "Só uma periapical e um modelo de gesso; usado de rotina em qualquer dente.",
+          "correta": false,
+          "justificativa": "Errada. O guia é feito com TCFC e digitalização intraoral, e o livro o chama de aplicação emergente, com poucos estudos de alto nível de evidência (pp. 64–65).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65"
+        },
+        {
+          "texto": "TCFC sem digitalização intraoral; indicada em canais amplos e retos.",
+          "correta": false,
+          "justificativa": "Errada. O livro cita as duas imagens sobrepostas e indica o uso em canais calcificados e variações anatômicas, não em canais amplos e retos (pp. 64–65).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65"
+        },
+        {
+          "texto": "Ressonância magnética; já comprovada por estudos clínicos de alto nível de evidência.",
+          "correta": false,
+          "justificativa": "Errada. O guia usa TCFC, e o livro diz que faltam estudos de alto nível de evidência, com estudos in vitro e relatos de caso (pp. 64–65).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Endodontia guiada 3D, pp. 64–65",
+      "secao": "endodontia-guiada",
+      "figura": null
+    }
+  ]
+}

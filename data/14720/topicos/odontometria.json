@@ -1,0 +1,537 @@
+{
+  "slug": "odontometria",
+  "titulo": "Comprimento de trabalho (odontometria): radiografia e localizador apical",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 7, 8 e 9",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap07",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 7, Morfologia Dental e Acesso Cavitário, p. 189–231 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 7"
+    },
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    },
+    {
+      "id": "cohen12-cap09",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 9, Obturação dos Canais Radiculares, p. 299–336 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 9"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "como-determinar",
+      "titulo": "Como se determina o comprimento de trabalho (cap. 8)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos e Estratégias), pp. 257–259",
+      "texto": "No Cohen, o **comprimento de trabalho (CT)** é o comprimento até o qual se instrumenta o canal. Você precisa determiná-lo antes de modelar.\n\n**Recursos que o livro cita:** radiografia, sensação tátil, umidade nos cones de papel e conhecimento da morfologia radicular. O capítulo não detalha a técnica da radiografia nem a do cone de papel; a radiografia em endodontia tem tema próprio.\n\n**Localizador apical eletrônico.** Hoje o livro o considera um equipamento preciso para determinar o CT. Um estudo em clínica universitária relatou melhor controle do comprimento da obturação e menos radiografias no total. Ele ajuda a identificar a posição do forame apical com mais precisão.\n- **Primeiras gerações:** sensíveis ao conteúdo do canal e às soluções irrigadoras.\n- **Terceira geração:** usa o “método da proporção”, e os eletrólitos não afetaram a precisão de modo significativo.\n\n**Onde ele falha:** raízes imaturas podem dar problema. Em raízes maduras, de forame estreito e com os instrumentos tocando as paredes, a precisão melhora muito. Alguns pesquisadores não viram diferença entre raiz com tecido vivo e com necrose; o texto conclui que a reabsorção apical, frequente em necrose com lesão de longa duração, não afeta de modo significativo a precisão.\n\n**Marca-passo:** os fabricantes desaconselham o localizador em paciente com marca-passo sem consulta prévia ao cardiologista; estudos in vitro e um estudo clínico sob ECG não mostraram interferência (cap. 8, p. 257).\n\n**Radiografia e localizador juntos.** O uso combinado dá maior precisão, e a radiografia acrescenta informação anatômica que se perderia só com o localizador. Alguns clínicos defendem usar o localizador no lugar da estimativa do CT com lima na radiografia.\n\n**Medidas gerais (cap. 8):** dentes têm tipicamente 19 a 25 mm de comprimento; a maioria das coroas clínicas mede cerca de 10 mm; as raízes medem de 9 a 15 mm e se dividem em terços de 3 a 5 mm.\n\n**Patência** (lima pequena estendida pelo forame) tem tema próprio: exploração e patência."
+    },
+    {
+      "id": "limite-cap8",
+      "titulo": "Até onde preparar: a referência do cap. 8",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259",
+      "texto": "Esta seção traz a referência de limite do **cap. 8**. O cap. 7 e o cap. 9 trazem outras, cada uma na sua seção, e o livro não diz qual vale mais.\n\n**Estratégia tradicional:** terminar o preparo e a obturação na **constrição apical**, o diâmetro mais estreito do canal. Acredita-se que ela coincida com a **junção cementodentinária (JCD)**, com base em cortes histológicos e amostras macroscópicas.\n\n**O problema da JCD:** a JCD muda de posição e de forma conforme o dente e a raiz, e a **radiografia não permite achá-la com exatidão**. Os caps. 7 e 9 dizem o contrário: a JCD geralmente não coincide com a constrição apical (cap. 7, p. 195; cap. 9, p. 302).\n\n**Proposta de alguns autores:** terminar o preparo aquém do ápice radiográfico, conforme o diagnóstico.\n\n| Diagnóstico | Onde terminar |\n|---|---|\n| Necrose pulpar | 0,5 a 1 mm aquém do ápice radiográfico |\n| Pulpite irreversível | 1 a 2 mm aquém do ápice radiográfico |\n\nO livro avisa que **não há validação definitiva**; estudos de seguimento bem controlados parecem dar respaldo. Como o preparo muda entre polpa viva e polpa necrosada fica no tema de preparo.\n\n**Com localizador apical:** o aparelho ajuda a identificar o forame com mais precisão e permite modelar com segurança chegando a 0,5 mm da porção terminal.\n\n**Por que não parar curto demais:** instrumentar em comprimentos mais curtos pode acumular e reter resíduos e levar a **bloqueio apical**. Com o trajeto bloqueado, continuar curto pode contribuir para erros como perfuração apical e fratura do instrumento. Fibras colágenas, smear layer e, sobretudo, microrganismos residuais na região apical são causa importante de periodontite apical persistente ou recorrente.\n\n**Cuidado:** cada número vale com a sua condição e o seu capítulo."
+    },
+    {
+      "id": "apice-cap7",
+      "titulo": "Anatomia do terço apical: constrição, junção e forame (cap. 7)",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196",
+      "texto": "O cap. 7 descreve o terço apical por três referências: a **constrição apical (CA)**, a **junção cementodentinária (JCD)** e o **forame apical (FA)**.\n\n- **CA:** em geral a parte de menor diâmetro. Do orifício de entrada o canal afunila até ela e depois se alarga até o forame. Fica geralmente **0,5 a 1,5 mm coronal ao FA**, segundo o cap. 7 (descrição de Kuttler).\n- **JCD:** ponto em que o cemento encontra a dentina e o tecido pulpar termina, onde começam os tecidos periodontais. A posição varia muito e em geral **não coincide com a CA**; estimativas a colocam a cerca de 1 mm do FA. O texto conclui que a JCD deve ser vista só como a junção variável de dois tecidos.\n- **FA:** normalmente **não está no ápice anatômico**; fica deslocado de 0,5 a 3 mm, e mais em dentes mais velhos (deposição de cemento). Ele coincide com o vértice apical em 17 a 46% dos casos.\n\n**Atenção:** o cap. 7 diz que CA e JCD geralmente não estão na mesma área; o cap. 8 trata a coincidência dos dois como uma crença. O livro não harmoniza os dois; veja a seção do cap. 8.\n\n**Por que importa na bancada:** a CA é a referência mais usada como limite apical para ampliação, modelagem, limpeza, desinfecção e obturação. Violá-la com instrumentos ou materiais não é recomendado para o resultado a longo prazo.\n\n**Dificuldade:** o texto diz que determinar a morfologia apical clinicamente é difícil, mesmo nas melhores condições."
+    },
+    {
+      "id": "limite-cap7",
+      "titulo": "Até onde preparar: a referência do cap. 7",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196",
+      "texto": "Esta seção traz a referência de limite do **cap. 7**. O livro diz que há controvérsia sobre o ponto exato do término no terço apical.\n\n- **Alguns autores:** terminar próximo ou a 3 mm do ápice radiográfico, conforme o diagnóstico pulpar.\n- **Polpa com vitalidade:** evidências clínicas e biológicas indicam como limite favorável **2 a 3 mm aquém do ápice radiográfico**. Isso deixa um coto pulpar apical que barra a saída de material obturador irritante. O livro diz que esse “coto pulpar” é na verdade tecido periodontal, e que nele o reparo se faz com cemento na ponta da raiz.\n- **Taxa de sucesso (estudos citados no cap. 7):** a melhor taxa ocorre quando o procedimento termina próximo ou a **2 mm do ápice radiográfico**. Aquém de 2 mm ou além do ápice radiográfico, a taxa de sucesso cai 20%, segundo o texto.\n- **Constrição apical:** muitos pesquisadores concluíram que o prognóstico mais favorável vem de procedimentos que terminam na CA e o pior, de tratamento que vai além dela.\n- **Outro lado:** alguns estudos apoiam terminar no ápice radiográfico ou além, para obturar ramificações apicais e canais laterais. O texto diz que essa orientação vem de dados empíricos e que a avaliação por tomografia computadorizada de feixe cônico (TCFC) de tratamentos antes tidos como bem-sucedidos achou mais casos de doença pós-tratamento.\n\n**Como ler:** os números do cap. 7 têm condição. “2 a 3 mm aquém” vale para polpa com vitalidade; “próximo ou a 2 mm” é o resultado dos estudos de sucesso citados. O cap. 8 e o cap. 9 dão outros números, nas suas seções.\n\n**Atenção:** levar o instrumento ou o material além da constrição apical não é recomendado; o livro diz que o pior prognóstico vem de tratamento que a ultrapassa."
+    },
+    {
+      "id": "limite-cap9",
+      "titulo": "Limite apical e anatomia do forame (cap. 9)",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303",
+      "texto": "Esta seção traz o que o **cap. 9** diz sobre o limite apical e a anatomia do forame.\n\n**Controvérsia:** o livro diz que o limite apical do preparo e da obturação é uma controvérsia sem solução.\n- Estudos anteriores usaram a **JCD** como limite. Ela não pode ser determinada clinicamente, é irregular dentro do canal (pode estar vários milímetros mais alta na parede mesial que na distal) e não coincide com a constrição apical. O cap. 8 diz que se acredita que coincidam (pp. 257–259).\n- **Tradicionalmente**, o limite apical do preparo é definido a cerca de **1 mm dos ápices radiográficos**.\n\n**Anatomia, segundo o cap. 9:**\n- Kuttler: o forame é o maior diâmetro e a constrição, o menor. Distância média forame–constrição: **0,5 mm**, que aumenta com a idade (deposição de cemento). Distância forame–ápice: até 2,5 mm.\n- Em um estudo, o forame não estava no ápice, com desvio em **92% das raízes** e média de 0,6 mm.\n- Em outro estudo, a distância média ápice–constrição foi de 0,9 mm, e a anatomia clássica de Kuttler apareceu em só **46%** dos dentes.\n- Num terceiro, com 230 raízes, o forame estava fora do ápice em 76% (microscopia) e 57% (radiografias).\n- A reabsorção radicular é mais comum com necrose pulpar e reabsorção óssea apical e pode levar à perda da constrição.\n\n**Consequência:** como o forame não costuma estar no ápice, um canal obturado até o ápice radiográfico reflete **sobre-extensão** do material obturador.\n\n**Cuidado com os números:** para a distância entre constrição e forame, o cap. 7 dá 0,5 a 1,5 mm e o cap. 9 dá média de 0,5 mm (Kuttler). Para o forame fora do ápice, o cap. 7 (pp. 195–196) diz que ele coincide com o vértice em 17 a 46% dos casos; o cap. 9 (pp. 302–303) cita desvio em 92% das raízes num estudo e em 76% e 57% em outro. Cada número é de um capítulo e de um estudo."
+    },
+    {
+      "id": "sobreextensao-cap9",
+      "titulo": "Limite da obturação e sobre-extensão (cap. 9)",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305",
+      "texto": "Esta seção traz o que o **cap. 9** diz sobre controlar o limite da obturação e a sobre-extensão.\n\n**Por que controlar:** o limite importa por causa da possível **extrusão** dos materiais obturadores.\n\n**Metanálise sobre o trabalho de Sjögren e colegas** (ref. 275 do capítulo, p. 305; dentes com polpa necrosada e lesão periapical, controle de 8 a 10 anos):\n\n| Obturação | Condição periapical normal na radiografia |\n|---|---|\n| 2 mm aquém do ápice | 94% |\n| Sobre-estendida | 76% |\n| Mais de 2 mm aquém do ápice | 68% |\n\n**Sobre-extensão e prognóstico (estudo prospectivo):** a ausência de sobre-extensão foi fator prognóstico altamente significativo para o sucesso. A sobre-extensão de guta-percha não alterou a sobrevida do dente nos primeiros 22 meses, mas aumentou o risco de perda dele depois disso. Os autores atribuem o efeito tardio a possíveis trincas causadas por força excessiva na condensação, que se propagam com o dente em função.\n\n**Princípio biológico:** instrumentação e obturação não devem passar do forame apical.\n\n**Diretriz de 1 mm aquém do ápice radiográfico:** continua indicada quando se usam radiografias, mas o limite apical “ainda é um valor empírico”. Localizador apical com radiografias e raciocínio clínico tornam a decisão mais lógica. Compactar guta-percha e cimento contra um **batente apical** previne a sobre-extensão.\n\n**Como achar a constrição:** conhecimento da anatomia apical, sensação tátil, radiografia, localizador, sangramento apical e resposta do paciente, se não anestesiado."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais recursos o cap. 8 do Cohen cita para determinar o comprimento de trabalho?",
+      "verso": "Radiografia, sensação tátil, umidade nos cones de papel e conhecimento da morfologia radicular. Hoje o localizador apical eletrônico é considerado equipamento preciso.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+    },
+    {
+      "id": "f02",
+      "frente": "O que a terceira geração de localizadores apicais faz de diferente das primeiras?",
+      "verso": "Usa o “método da proporção”. Os eletrólitos não afetaram a precisão de modo significativo; as duas primeiras gerações eram sensíveis ao conteúdo e aos irrigantes.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que usar a radiografia junto com o localizador (cap. 8)?",
+      "verso": "O uso combinado dá maior precisão, e a radiografia acrescenta informação anatômica que o localizador sozinho deixaria passar.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+    },
+    {
+      "id": "f04",
+      "frente": "No cap. 8, onde a estratégia tradicional termina o preparo, e o que se acredita dessa referência?",
+      "verso": "Na constrição apical, o diâmetro mais estreito do canal. Acredita-se que ela coincida com a junção cementodentinária (JCD).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+    },
+    {
+      "id": "f05",
+      "frente": "Por que o cap. 8 não usa a JCD como ponto a medir na radiografia?",
+      "verso": "A JCD muda de posição e de forma conforme o dente e a raiz, e a radiografia não permite achá-la com exatidão.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+    },
+    {
+      "id": "f06",
+      "frente": "Proposta de alguns autores no cap. 8 para o fim do preparo: necrose e pulpite irreversível?",
+      "verso": "Necrose: 0,5 a 1 mm aquém do ápice radiográfico. Pulpite irreversível: 1 a 2 mm aquém. O livro diz que não há validação definitiva.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+    },
+    {
+      "id": "f07",
+      "frente": "Que risco o cap. 8 aponta ao instrumentar em comprimento mais curto?",
+      "verso": "Acúmulo e retenção de resíduos, com bloqueio apical. Com o trajeto bloqueado, pode haver perfuração apical e fratura do instrumento.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o cap. 7, onde fica a constrição apical em relação ao forame apical?",
+      "verso": "Geralmente 0,5 a 1,5 mm coronal ao forame apical. É em geral a parte de menor diâmetro do canal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o cap. 7, o forame apical fica no ápice anatômico?",
+      "verso": "Normalmente não: fica deslocado de 0,5 a 3 mm, mais em dentes mais velhos.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+    },
+    {
+      "id": "f10",
+      "frente": "Cap. 7: qual é o limite favorável para polpa com vitalidade, e o que ele deixa?",
+      "verso": "2 a 3 mm aquém do ápice radiográfico. Deixa um coto pulpar apical que barra a saída de material obturador irritante.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+    },
+    {
+      "id": "f12",
+      "frente": "Cap. 9: qual é o limite tradicional do preparo, e o que o livro diz dele?",
+      "verso": "Cerca de 1 mm dos ápices radiográficos. A diretriz continua indicada com radiografias, mas o limite apical ainda é um valor empírico.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305"
+    },
+    {
+      "id": "f13",
+      "frente": "Cap. 9: por que obturar até o ápice radiográfico reflete sobre-extensão?",
+      "verso": "O forame não costuma estar no ápice (cap. 9, pp. 302–303); por isso o canal obturado até o ápice radiográfico reflete sobre-extensão do material.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o cap. 8 do Cohen, você vai medir o comprimento de trabalho com um localizador apical de terceira geração, com o canal irrigado. O que sustenta usar o aparelho nessa condição?",
+      "alternativas": [
+        {
+          "texto": "As duas primeiras gerações já eram insensíveis às soluções irrigadoras, e a terceira só melhorou o visor.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que as duas primeiras gerações eram sensíveis ao conteúdo e às soluções de irrigação do canal. O que marca a terceira é o método da proporção.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "Ele usa o método da proporção, e os eletrólitos não afetaram a precisão de modo significativo.",
+          "correta": true,
+          "justificativa": "É o que o cap. 8 diz da terceira geração: método da proporção, sem efeito significativo dos eletrólitos sobre a precisão.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "Ele lê a umidade de um cone de papel colocado no canal e converte o valor em comprimento.",
+          "correta": false,
+          "justificativa": "A umidade nos cones de papel é outro recurso que o cap. 8 lista para determinar o comprimento. O localizador de terceira geração usa o método da proporção.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "Ele dispensa a radiografia, porque nunca erra em raiz imatura.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que os localizadores não são infalíveis e que raízes imaturas podem apresentar problemas. O uso combinado com a radiografia dá maior precisão.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos e Estratégias), pp. 257–259",
+      "secao": "como-determinar",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "O localizador marcou o comprimento num molar com necrose pulpar e raízes maduras de forame estreito, com as limas tocando as paredes. O colega diz que agora a radiografia é desnecessária. Segundo o cap. 8 do Cohen, o que responder?",
+      "alternativas": [
+        {
+          "texto": "O uso combinado das duas técnicas é mais preciso, e a radiografia acrescenta informações anatômicas que só o localizador deixaria passar.",
+          "correta": true,
+          "justificativa": "O cap. 8 diz que o uso combinado resulta em maior precisão e que as radiografias acrescentam informações anatômicas ignoradas só com o localizador.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "O localizador só vale em dente com tecido vivo; em necrose, a radiografia passa a ser obrigatória.",
+          "correta": false,
+          "justificativa": "O cap. 8 cita pesquisadores que não encontraram diferença estatística entre raízes com tecido vivo e necrosado, e conclui que a reabsorção apical não afeta de modo significativo a precisão.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "Concordar: com o localizador, a radiografia não acrescenta informação nenhuma.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que o uso combinado resulta em maior precisão e que a radiografia acrescenta informações anatômicas que se perderiam só com o localizador.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        },
+        {
+          "texto": "Em raiz madura de forame estreito o localizador perde precisão, então a radiografia deve substituí-lo.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que, em raízes maduras de forame estreito, em que os instrumentos contatam as paredes, a precisão é extremamente melhorada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Dispositivos), pp. 257–259",
+      "secao": "como-determinar",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo o cap. 8 do Cohen, um dente com necrose pulpar chega ao preparo. Qual é a proposta de alguns autores, citada pelo capítulo, para terminar o preparo?",
+      "alternativas": [
+        {
+          "texto": "1 a 2 mm aquém do ápice radiográfico.",
+          "correta": false,
+          "justificativa": "No cap. 8, 1 a 2 mm aquém do ápice radiográfico é a proposta para os casos de pulpite irreversível, não para necrose.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "2 a 3 mm aquém do ápice radiográfico.",
+          "correta": false,
+          "justificativa": "Esse número é do cap. 7, com a condição de polpa com vitalidade. Não é a proposta do cap. 8 para necrose.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "No ápice radiográfico ou além, para obturar ramificações apicais.",
+          "correta": false,
+          "justificativa": "Essa orientação aparece no cap. 7, em alguns estudos baseados em dados empíricos. O cap. 8 propõe terminar aquém do ápice radiográfico.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "0,5 a 1 mm aquém do ápice radiográfico.",
+          "correta": true,
+          "justificativa": "É a proposta que o cap. 8 atribui a alguns autores para os casos de polpa necrosada. O livro diz que não há validação definitiva.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259",
+      "secao": "limite-cap8",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "O cap. 8 do Cohen apresenta como estratégia tradicional terminar o preparo na constrição apical. Um colega propõe marcar esse ponto medindo a JCD na radiografia. Segundo o cap. 8, por que isso não funciona?",
+      "alternativas": [
+        {
+          "texto": "Porque a constrição apical é o diâmetro mais largo do canal.",
+          "correta": false,
+          "justificativa": "O cap. 8 define a constrição apical como o diâmetro mais estreito do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "Porque a JCD fica sempre no ápice radiográfico.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que a posição da JCD varia consideravelmente de dente para dente e de raiz para raiz.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "Porque a JCD muda de posição e de forma de um dente e de uma raiz para outra, e a radiografia não a mostra com exatidão.",
+          "correta": true,
+          "justificativa": "É a razão dada pelo cap. 8 para não usar a JCD como ponto medido na radiografia, embora se acredite que ela coincida com a constrição.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "Porque o capítulo manda terminar o preparo no ápice radiográfico em todos os casos.",
+          "correta": false,
+          "justificativa": "O cap. 8 traz a proposta de alguns autores de terminar aquém do ápice radiográfico: 0,5 a 1 mm na necrose e 1 a 2 mm na pulpite irreversível.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259",
+      "secao": "limite-cap8",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Segundo o cap. 7 do Cohen, um dente com polpa com vitalidade será instrumentado e obturado. Qual limite as evidências clínicas e biológicas citadas pelo capítulo indicam como favorável?",
+      "alternativas": [
+        {
+          "texto": "2 a 3 mm aquém do ápice radiográfico.",
+          "correta": true,
+          "justificativa": "É o limite que o cap. 7 indica, com evidências clínicas e biológicas, para polpas com vitalidade.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "Além do ápice radiográfico, para garantir o selamento.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que o pior prognóstico vem de tratamento que vai além da constrição apical.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "0,5 a 1 mm aquém do ápice radiográfico.",
+          "correta": false,
+          "justificativa": "Esse número é a proposta do cap. 8 para necrose pulpar. O cap. 7 indica 2 a 3 mm para polpa com vitalidade.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "Na JCD, que sempre coincide com a constrição apical.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que a JCD e a constrição apical geralmente não estão na mesma área.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196",
+      "secao": "limite-cap7",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Você descreve o terço apical de uma raiz a um colega, seguindo o cap. 7 do Cohen. Qual afirmação o capítulo sustenta?",
+      "alternativas": [
+        {
+          "texto": "A constrição apical fica 0,5 a 1,5 mm apical ao forame, já fora da raiz.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que a constrição apical geralmente fica 0,5 a 1,5 mm coronal ao forame apical.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+        },
+        {
+          "texto": "O forame apical coincide com o vértice apical na maioria dos casos.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que o forame coincide com o vértice apical em 17 a 46% dos casos.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+        },
+        {
+          "texto": "A JCD e a constrição apical são o mesmo ponto na maior parte dos dentes.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que a posição da JCD varia muito e em geral não coincide com a constrição apical.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+        },
+        {
+          "texto": "O forame normalmente não emerge no ápice anatômico: fica deslocado de 0,5 a 3 mm, mais em dentes mais velhos.",
+          "correta": true,
+          "justificativa": "É o que o cap. 7 diz do forame apical, atribuindo o desvio maior em dentes mais velhos à deposição de cemento.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, constrição apical, junção cementodentinária e forame apical, pp. 195–196",
+      "secao": "apice-cap7",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Num dente com polpa com vitalidade, o preparo e a obturação terminaram 2 a 3 mm aquém do ápice radiográfico, como indica o cap. 7 do Cohen. Segundo o capítulo, qual é o papel do que fica além desse ponto?",
+      "alternativas": [
+        {
+          "texto": "É tecido pulpar vivo, que continua formando dentina no ápice.",
+          "correta": false,
+          "justificativa": "O cap. 7 diz que esse “coto pulpar” é, na verdade, tecido periodontal.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "Barra a saída de material obturador irritante, e o tecido ali é periodontal, capaz de reparo com cemento.",
+          "correta": true,
+          "justificativa": "É o que o cap. 7 diz do coto pulpar apical deixado por esse limite: barra a saída do material e é tecido periodontal, capaz de reparo com cemento.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "Permite obturar as ramificações apicais e os canais laterais.",
+          "correta": false,
+          "justificativa": "O cap. 7 liga a obturação de ramificações e canais laterais aos estudos que apoiam terminar no ápice radiográfico ou além, e diz que essa orientação vem de dados empíricos.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        },
+        {
+          "texto": "Serve de guia para a lima não passar da constrição apical.",
+          "correta": false,
+          "justificativa": "O cap. 7 atribui ao coto pulpar apical o papel de impedir a extrusão de material obturador irritante.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Terço apical, limite da terapia, pp. 195–196",
+      "secao": "limite-cap7",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Na radiografia pós-obturação, a guta-percha chega ao ápice radiográfico. Segundo o cap. 9 do Cohen, por que isso já reflete sobre-extensão?",
+      "alternativas": [
+        {
+          "texto": "Porque a JCD fica sempre 1 mm aquém do ápice radiográfico.",
+          "correta": false,
+          "justificativa": "O cap. 9 diz que a JCD não pode ser determinada clinicamente e é irregular dentro do canal.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–303"
+        },
+        {
+          "texto": "Porque o ápice radiográfico é o lugar onde ocorre a reabsorção radicular.",
+          "correta": false,
+          "justificativa": "O cap. 9 liga a reabsorção à necrose pulpar e à reabsorção óssea apical, que podem levar à perda da constrição; não é isso que explica a sobre-extensão no ápice radiográfico.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303"
+        },
+        {
+          "texto": "Porque o forame coincide com a constrição, e a constrição fica no ápice radiográfico.",
+          "correta": false,
+          "justificativa": "O cap. 9, pela descrição de Kuttler, trata o forame como o maior diâmetro e a constrição como o menor, com distância média de 0,5 mm entre eles.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303"
+        },
+        {
+          "texto": "Porque o forame não costuma estar no ápice radiográfico.",
+          "correta": true,
+          "justificativa": "O cap. 9 conclui, com base nos achados de posição do forame, que um canal obturado até o ápice radiográfico reflete sobre-extensão do material.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, Anatomia do forame e da constrição, pp. 302–303",
+      "secao": "limite-cap9",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o cap. 9 do Cohen, você vai compactar guta-percha e cimento num canal já modelado e quer prevenir a sobre-extensão. O que o capítulo indica?",
+      "alternativas": [
+        {
+          "texto": "Compactar com a maior força possível, para o material não voltar.",
+          "correta": false,
+          "justificativa": "O cap. 9 cita, em estudo prospectivo, possíveis trincas causadas por força excessiva na condensação.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        },
+        {
+          "texto": "Levar a obturação além do forame apical, para selar melhor o ápice.",
+          "correta": false,
+          "justificativa": "O cap. 9 diz que instrumentação e obturação não devem passar do forame apical.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        },
+        {
+          "texto": "Compactar a guta-percha e o cimento contra um batente apical.",
+          "correta": true,
+          "justificativa": "É o que o cap. 9 diz para prevenir a sobre-extensão.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        },
+        {
+          "texto": "Não controlar o limite, porque a extrusão do material obturador não tem importância.",
+          "correta": false,
+          "justificativa": "O cap. 9 diz que o limite importa por causa da possível extrusão dos materiais obturadores.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305",
+      "secao": "sobreextensao-cap9",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Você limitou o preparo e a obturação a 1 mm aquém do ápice radiográfico, guiado por radiografia. O que o cap. 9 do Cohen diz sobre essa referência?",
+      "alternativas": [
+        {
+          "texto": "Foi validada em estudos controlados e dispensa o localizador apical.",
+          "correta": false,
+          "justificativa": "O cap. 9 diz que o limite apical ainda é um valor empírico e que o localizador, com radiografias e raciocínio clínico, torna a decisão mais lógica.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        },
+        {
+          "texto": "Vale só para necrose; para pulpite irreversível o capítulo manda terminar 1 a 2 mm aquém.",
+          "correta": false,
+          "justificativa": "Essa separação por diagnóstico (0,5 a 1 mm na necrose, 1 a 2 mm na pulpite irreversível) é a proposta que o cap. 8 atribui a alguns autores. O cap. 9 diz que, tradicionalmente, o limite do preparo é de cerca de 1 mm dos ápices radiográficos.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Determinação do comprimento de trabalho (Estratégias), pp. 257–259"
+        },
+        {
+          "texto": "Manda terminar sempre na JCD, porque ela é fácil de achar na radiografia.",
+          "correta": false,
+          "justificativa": "O cap. 9 diz que a JCD não pode ser determinada clinicamente e é irregular dentro do canal.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–303"
+        },
+        {
+          "texto": "Continua indicada quando se usam radiografias, mas o limite ainda é empírico; localizador, radiografia e raciocínio clínico tornam a decisão mais lógica.",
+          "correta": true,
+          "justificativa": "É o que o cap. 9 afirma sobre a diretriz de 1 mm aquém do ápice radiográfico.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação e sobre-extensão, pp. 304–305",
+      "secao": "sobreextensao-cap9",
+      "figura": null
+    }
+  ]
+}

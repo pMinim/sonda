@@ -68,8 +68,8 @@
       "codigo": "14720",
       "nome": "Endodontia Pré-Clínica",
       "sigla": "Endo Pré",
-      "status": "em-breve",
-      "areas": [],
+      "status": "ativa",
+      "areas": ["Endodontia", "Radiologia"],
       "turmas": [
         {
           "nome": "Liberdade · sexta noite",
