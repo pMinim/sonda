@@ -79,7 +79,17 @@
       "texto": "| Achado | Onde | Como é | O que identifica | Conduta |\n|---|---|---|---|---|\n| **Grânulos de Fordyce** | mucosa jugal, lábio superior | pápulas amarelas, poucas a centenas | aspecto característico | nenhuma; sem biópsia |\n| **Leucoedema** | mucosa jugal, bilateral | branco-acinzentado, leitoso, estrias | some ao distender | nenhuma |\n| **Linha alba** | mucosa jugal, na linha de oclusão | linha branca festonada | posição no plano oclusal | nenhuma; pode regredir |\n| **Língua fissurada** | dorso da língua | sulcos de 2 a 6 mm | sulcos no dorso da língua | nenhuma; escovar a língua |\n| **Língua geográfica** | dorso e bordas da língua | zonas vermelhas com borda branco-amarelada | lesões que mudam de lugar | nenhuma; corticoide tópico se ardência intensa |\n| **Língua pilosa** | dorso, linha média | papilas alongadas, acastanhadas, amareladas ou enegrecidas | papilas se elevam com gaze | tirar fatores; higiene |\n| **Varicosidade sublingual** | borda e ventre da língua | lesões azul-purpúreas elevadas | lesões azul-purpúreas; adultos, mais em maiores de 60 anos | nenhuma |\n| **Tórus palatino** | linha média do palato duro | massa óssea dura | aspecto | remover para prótese, se ulcera de repetição ou atrapalha a função |\n| **Tórus mandibular** | lado lingual, pré-molares | nódulos ósseos, em geral bilaterais | aspecto | remover para prótese |\n\n**Com o que o livro manda não confundir:**\n- leucoedema: leucoplasia, candidíase, líquen plano (some ao esticar);\n- língua pilosa: leucoplasia pilosa, língua saburrosa, pigmentação por bismuto;\n- língua geográfica: candidíase e eritroplasia (a borda branca sinuosa ajuda);\n- exostose muito grande: osteoma."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/leu-01.jpg",
+      "alt": "Dois quadros da mucosa jugal: em repouso, com aspecto difuso branco-acinzentado e pregueado; distendida, com o branco quase desaparecido.",
+      "legenda": "Ilustração. Leucoedema: véu difuso branco-acinzentado e opalescente na mucosa jugal, que diminui muito ou some quando a mucosa é distendida.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "fordyce-leucoedema",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

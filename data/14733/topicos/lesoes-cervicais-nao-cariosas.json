@@ -114,7 +114,17 @@
       "texto": "**Escolha do compósito (p. 245):** pela relação das Classe V com o periodonto, é essencial que a resina tenha boas características de polimento. Massas com características ópticas de dentina só são necessárias nas lesões cervicais mais profundas; nas superficiais, em geral basta compósito do tipo esmalte.\n\n**Incrementos (p. 245):** para reduzir o estresse da contração de polimerização, usar **pequenos incrementos**, inseridos e adaptados em sequência, **primeiro na margem cervical e depois na oclusal**. A técnica também facilita a estratificação estética.\n\n**Passo a passo (p. 246):**\n1. primeiro incremento, levemente mais saturado, adaptado contra a margem cervical com espátulas e pincéis;\n2. antes de fotoativar, checar o contorno: sem excessos grosseiros e com volume compatível com a cavidade;\n3. fotoativar conforme a técnica escolhida, discutida no cap. 7;\n4. segundo incremento, preenchendo o espaço até a margem oclusal e deixando espaço para a última camada;\n5. incremento final, que restitui o volume total; pincéis ajudam a evitar excessos e dão superfície lisa.\n\nObservar o perfil da restauração e se ela acompanha os dentes vizinhos.\n\n**Acabamento (pp. 248 e 249):** limita-se à remoção dos excessos de adesivo e de resina nas margens. Lâminas de bisturi nº 12 e discos flexíveis abrasivos são muito apropriados. Fazer sempre que possível **antes de remover o dique e o grampo**, pelo afastamento dos tecidos moles e pelo acesso à margem gengival. Sem o grampo, acabar a margem costuma ser mais difícil, pela gengiva e pelo sangramento.\n\n**Polimento final (p. 249):** pastas de polimento, com escova Robinson ou discos de feltro."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/lcn-02.jpg",
+      "alt": "Dois cortes de pré-molar, em repouso e sob carga oclusal excêntrica, com flexão na região cervical, zonas de tração e compressão e microfraturas no esmalte.",
+      "legenda": "Ilustração da teoria da abfração: a flexão do dente na região cervical, causada por forças oclusais de compressão e de tração, produziria microfraturas nos cristais de hidroxiapatita do esmalte e da dentina, com fadiga e deformação. É uma teoria; a etiologia da lesão cervical não cariosa é multifatorial (Nascimento et al., 2016).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "termos",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

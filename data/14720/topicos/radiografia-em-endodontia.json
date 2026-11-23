@@ -105,7 +105,17 @@
       "texto": "**Fonte desta seção: White e Pharoah** (Mallya e Lam, 8ª ed., autores dos EUA).\n\n**A limitação.** A radiografia simples é bidimensional, e o dentista muitas vezes precisa de informação em três dimensões, por exemplo para localizar um dente impactado ou um corpo estranho.\n\n**Três abordagens (Quadro 6.2):**\n1. examinar duas imagens projetadas em ângulo reto entre si;\n2. usar a técnica de troca de tubo com periapicais convencionais;\n3. obter uma imagem tridimensional, por tomografia de feixe cônico ou por tomografia com múltiplos detectores.\n\nO livro diz que o dentista deve conhecer bem as duas primeiras, porque a tomografia pode não estar acessível nem ser necessária se já há várias periapicais da região (p. 83).\n\n**Duas imagens em ângulo reto.** Exemplo do livro: canino superior impactado. A periapical localiza o dente nas dimensões mesiodistal e superoinferior; a oclusal maxilar dá as dimensões mesiodistal e vestibulolingual. Juntas, dão as três dimensões (p. 84).\n\n**Aplicações da troca de tubo (p. 85):**\n- **Forame mentual sobre o ápice** de um pré-molar, que pode imitar uma radiotransparência periapical: em uma radiografia com outro ângulo, a imagem se afasta do ápice e dá para diferenciar de uma lesão periapical verdadeira. O mesmo vale para o forame incisivo sobre o ápice de um incisivo central superior.\n- **Posição de dentes impactados** e presença de objetos estranhos.\n- **Identificação de polpa com múltiplos canais.** O livro lista a aplicação sem detalhar o passo a passo.\n- **Figura 6.13:** um segundo pré-molar impactado se sobrepõe à furca do primeiro molar inferior. Com o tubo deslocado para mesial, a imagem se move para distal, e pela regra o pré-molar impactado fica do lado bucal das raízes do molar."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/rx-03.jpg",
+      "alt": "Ilustração. A radiografia plana sobrepõe estruturas e a cortical espessa pode esconder uma lesão no osso esponjoso; a TCFC separa em cortes.",
+      "legenda": "Ilustração. A radiografia plana sobrepõe estruturas e a cortical espessa pode esconder uma lesão no osso esponjoso; a TCFC separa em cortes.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "limite-da-2d",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 488" width="800" height="488" role="img">
+  <title>Dois cortes da mucosa: vesícula, coleção de líquido menor que 3 mm; bolha, coleção maior que 3 mm.</title>
+  <desc>Dois cortes da mucosa: vesícula, coleção líquida com menos de 3 mm; bolha, igual à vesícula, mas com mais de 3 mm. Na boca, rompem logo depois de formadas.</desc>
+  <rect x="0" y="0" width="800" height="488" fill="#FAF7F0"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <text x="200.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Vesícula</text>
+  <text x="200.0" y="64" font-size="19" fill="#2F4445" text-anchor="middle">menos de 3 mm</text>
+  <g transform="translate(20,78)"><path d="M0,160 L360,160 L360,270 L0,270 Z" fill="#F6D5D0"/><rect x="0" y="180" width="360" height="90" fill="#E9B3AA"/><path d="M0,160 L360,160 L360,270 L0,270 Z" fill="none" stroke="#1F4D4F" stroke-width="3"/><path d="M156,160 C160,118 200,118 204,160 Z" fill="#FFF3D2" stroke="#B86A3C" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#1F4D4F" stroke-width="3"><line x1="14" y1="40" x2="74" y2="40"/><line x1="14" y1="30" x2="14" y2="50"/><line x1="74" y1="30" x2="74" y2="50"/></g>
+  <text x="44" y="26" font-size="19" font-weight="700" fill="#1F4D4F" text-anchor="middle">3 mm</text>
+  <line x1="196" y1="140" x2="262" y2="112" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="268" y="118" font-size="19" font-weight="700" fill="#1F4D4F">Líquido</text>
+  </g>
+  <text x="600.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Bolha</text>
+  <text x="600.0" y="64" font-size="19" fill="#2F4445" text-anchor="middle">mais de 3 mm</text>
+  <g transform="translate(420,78)"><path d="M0,160 L360,160 L360,270 L0,270 Z" fill="#F6D5D0"/><rect x="0" y="180" width="360" height="90" fill="#E9B3AA"/><path d="M0,160 L360,160 L360,270 L0,270 Z" fill="none" stroke="#1F4D4F" stroke-width="3"/><path d="M110,160 C115,50 245,50 250,160 Z" fill="#FFF3D2" stroke="#B86A3C" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#1F4D4F" stroke-width="3"><line x1="14" y1="40" x2="74" y2="40"/><line x1="14" y1="30" x2="14" y2="50"/><line x1="74" y1="30" x2="74" y2="50"/></g>
+  <text x="44" y="26" font-size="19" font-weight="700" fill="#1F4D4F" text-anchor="middle">3 mm</text>
+  <line x1="232" y1="110" x2="272" y2="84" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="278" y="90" font-size="19" font-weight="700" fill="#1F4D4F">Líquido</text>
+  </g>
+  <rect x="20" y="388" width="26" height="22" rx="4" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="56" y="406" font-size="19" fill="#2F4445">Epitélio</text>
+  <rect x="170" y="388" width="26" height="22" rx="4" fill="#E9B3AA" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="206" y="406" font-size="19" fill="#2F4445">Conjuntivo</text>
+  <text x="400" y="458" font-size="20" font-weight="700" fill="#1F4D4F" text-anchor="middle">Na boca, vesículas e bolhas rompem logo depois de formadas</text>
+  </g>
+</svg>

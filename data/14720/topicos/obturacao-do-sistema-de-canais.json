@@ -111,7 +111,35 @@
       "texto": "**Por que selar a entrada.** Independentemente da técnica de obturação, pode haver microinfiltração coronária em pouco tempo, mesmo em canais aparentemente bem obturados, e ela pode causar infecção periapical. As pesquisas antigas olhavam o vedamento apical; hoje o livro dá importância ao vedamento coronário para prevenir a infiltração bacteriana.\n\n**Depois de obturar.** A guta-percha é removida até o nível da entrada dos canais e o selamento é feito com restauração provisória adequada. Um material de cor diferente da dentina pode ser usado para identificação, se for preciso colocar depois um retentor intrarradicular.\n\n**Outro método** para retardar a infiltração, caso a restauração coronária falhe: recobrir o assoalho da câmara com material adesivo, depois de remover o excesso de guta-percha e de cimento na entrada dos canais.\n\n**Restauração provisória e definitiva.** O livro sugere trocar a restauração provisória por uma definitiva logo, e diz que um estudo clínico citado mostrou que restaurações cimentadas melhoraram a sobrevida do dente em relação às provisórias. O cap. 9 também discute o dente que ficou muito tempo só com a restauração provisória (pp. 299–300); este tema não entra nesse ponto.\n\n**Atenção:** o capítulo não detalha o passo a passo do selamento provisório. E a radiografia não avalia a qualidade do selamento."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/ob-01.jpg",
+      "alt": "Ilustração. Critérios radiográficos: comprimento, densidade, conicidade e selamento coronário.",
+      "legenda": "Ilustração em estilo de radiografia. Critérios radiográficos: comprimento, densidade, conicidade e selamento coronário.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "criterios",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/ob-02.jpg",
+      "alt": "Ilustração. O cone principal é medido, marcado e provado no comprimento de trabalho, com resistência à remoção, e confirmado por radiografia.",
+      "legenda": "Ilustração. O cone principal é medido, marcado e provado no comprimento de trabalho, com resistência à remoção, e confirmado por radiografia.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "prova-do-cone",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/ob-04.jpg",
+      "alt": "Ilustração. Força de condensação excessiva pode fraturar a raiz no sentido vertical.",
+      "legenda": "Ilustração. Força de condensação excessiva pode fraturar a raiz no sentido vertical.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "lateral",
+      "largura": 1400,
+      "altura": 1400
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

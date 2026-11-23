@@ -217,7 +217,26 @@
       "texto": "Esta seção é do Varellis (manual organizado por Maria Lucia Zarvos Varellis, cap. 34). O manual chama a hipoglicemia de choque insulínico.\n\n**Hipoglicemia: causas.** Omitir ou atrasar refeição ou comer pouco; vômito e diarreia; exercício excessivo; dose excessiva de insulina ou de hipoglicemiante oral; excesso de álcool, que impede o fígado de liberar glicose. É distúrbio evitável.\n\n**Sinais.** Náuseas, fome, desânimo, irritabilidade, ansiedade, sudorese fria, taquicardia, tremores, hipotensão, hipotermia, midríase, perda do controle dos esfíncteres, convulsões e coma. A crise pode evoluir depressa, com lesão irreversível no cérebro ou na retina.\n\n**Conduta.**\n- **Consciente:** um copo de água ou xícara de chá bem adoçado, uma bala ou um bombom; vale açúcar comum, doces, suco de fruta e leite. Bebida para diabéticos, sem açúcar, não adianta.\n- **Inconsciente:** chame o médico imediatamente. Não dê líquido; remova para o pronto-socorro, onde se aplica glicose ou glucagon injetáveis. Esta é a conduta do Varellis (manual).\n- Diabéticos devem carregar balas ou bombons e um cartão de identificação; parentes e amigos devem ser orientados.\n\n**Coma diabético.** Sinais: desidratação, poliúria seguida de oligúria, hálito cetônico, náuseas, vômitos, respiração rápida e profunda (Kussmaul), fraqueza, febre, taquicardia, hipotensão e coma. Conduta: manter as funções vitais, comunicar o médico e remover ao hospital, com soro fisiológico rápido se houver desidratação. **Todo diabético em uso de insulina ou hipoglicemiante que esteja em coma, sem diagnóstico, é tratado inicialmente como choque insulínico** até o diagnóstico ser estabelecido, porque o coma insulínico pode causar lesão cerebral irreversível.\n\n**Outras complicações agudas descritas:** cetoacidose (mais frequente em quem usa insulina; hálito cetônico, respiração rápida e profunda) e coma hiperosmolar (não cetótico, em geral no tipo 2, instalação insidiosa, de torpor a coma profundo)."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/dm-01.svg",
+      "alt": "Fluxograma em duas colunas. Paciente consciente: carboidrato oral, cerca de 100 mL a cada 5 a 10 minutos e observação por cerca de 1 hora. Paciente inconsciente: posição supina com pernas elevadas, via aérea pérvia e dextrose ou glucagon. Aviso em vermelho: nada por via oral ao inconsciente.",
+      "legenda": "Esquema da conduta na hipoglicemia pelo Malamed. O diabético inconsciente é tratado como hipoglicêmico, a menos que outra causa óbvia seja estabelecida.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "hipoglicemia-inconsciente",
+      "largura": 800,
+      "altura": 807
+    },
+    {
+      "src": "data/13744/img/dm-02.svg",
+      "alt": "Dois círculos, Diabetes e Doença periodontal, ligados por duas setas curvas. A de cima lista inflamação aumentada, cicatrização deprimida e alterações dos vasos pequenos; a de baixo diz que saúde periodontal ruim se associa a controle glicêmico ruim.",
+      "legenda": "Esquema da relação bidirecional segundo o Little e Falace (EUA): o diabetes aumenta o risco e a gravidade da doença periodontal, e a saúde periodontal ruim se associa a controle glicêmico ruim.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "lf-periodonto-volta",
+      "largura": 800,
+      "altura": 686
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

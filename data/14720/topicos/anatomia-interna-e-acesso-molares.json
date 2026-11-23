@@ -83,7 +83,35 @@
       "texto": "Cada item junta um risco ou cuidado que o Cohen descreve e o que ele indica fazer.\n\n- **Perder a direção da trepanação.** Sinal: a queda não é sentida na distância medida na radiografia inicial. Em multirradiculares, perfurações laterais e de furca podem ocorrer rápido se faltar atenção ao detalhe tridimensional. Reavalie a direção e use a sonda DG-16 (p. 204).\n- **O contorno enquanto os orifícios não aparecem.** Até localizá-los, a forma fica aproximadamente oval; a forma final (triangular ou romboide) é ditada pelos orifícios (p. 204).\n- **Deixar a saliência de dentina cervical.** Ela cobre o orifício, restringe o acesso e acentua a curvatura. Remova-a e amplie a entrada do orifício (p. 205).\n- **Deixar resto de teto ou orifício sem ver.** Inspecione o assoalho com ampliação e iluminação (p. 205).\n- **Onde procurar o orifício mesiopalatino no molar superior.** O orifício mesiopalatino (MV-2) fica mesial e palatinamente ao mesiovestibular, perto ou longe dele (p. 213).\n- **Buscar às cegas o canal mesiomedial.** Dentro da anastomose, há risco de perfuração ou de enfraquecer a raiz (p. 217).\n- **Aceitar um canal distal único sem testar.** Se a lima faz curva aguda para distovestibular ou distolingual, pesquise outro orifício (p. 224).\n- **Julgar o canal em C só pelo orifício.** A configuração varia ao longo da raiz (p. 227)."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/mo-03.svg",
+      "alt": "Cinco cortes transversais de raiz, tipos I a V de istmo: do istmo incompleto, passando por faixas completas entre dois ou três canais, até canais sem conexão visível.",
+      "legenda": "Ilustração. Istmo é a faixa que liga dois canais; os tipos I a V (Kim) vão do istmo incompleto à ausência de conexão visível.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "istmos",
+      "largura": 800,
+      "altura": 570
+    },
+    {
+      "src": "data/14720/img/mo-02.jpg",
+      "alt": "Ilustração. Assoalho do primeiro molar superior: três orifícios em triângulo (MV, DV, P) e o MV-2, a palatino do MV, ligado a ele por um sulco.",
+      "legenda": "Ilustração. Assoalho do primeiro molar superior: três orifícios em triângulo (MV, DV, P) e o MV-2, a palatino do MV, ligado a ele por um sulco.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "primeiro-molar-superior",
+      "largura": 1400,
+      "altura": 1400
+    },
+    {
+      "src": "data/14720/img/mo-04.jpg",
+      "alt": "Ilustração. Canal em C: orifício em arco no assoalho e, ao longo da raiz, um canal em C que pode se dividir no terço apical.",
+      "legenda": "Ilustração. Canal em C: orifício em arco no assoalho e, ao longo da raiz, um canal em C que pode se dividir no terço apical.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "canal-em-c",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

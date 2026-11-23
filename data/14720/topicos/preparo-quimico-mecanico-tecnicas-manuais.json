@@ -90,7 +90,26 @@
       "texto": "Todos os itens abaixo são do cap. 8 do Cohen. O cap. 8 chama de **zip apical** e **desvio** os erros de preparo mais comuns (Fig. 8.39: zip apical, desvio, e cada um deles com perfuração). Outros capítulos do livro usam termos próprios para desvio, degrau e transporte, e isso está no tema de acidentes de procedimento. Os erros com limas K e H (lima deformada, pressão anti-horária, H em rotação) estão no tema de exploração e patência.\n\n**1. Gates-Glidden em trecho curvo ou com pressão.** Elas cortam ao sair e devem ficar nas porções retas. Pressão excessiva, ângulo errado e desgaste exagerado causaram perfuração em fita.\n\n**2. Travamento cervical.** Saliências na entrada e canal menos cônico que o instrumento travam a lima no terço cervical; uma lima pré-curvada forçada por um terço cervical estreito acaba retificada (p. 260).\n\n**3. Preparo curto com bloqueio.** Resíduos acumulados fecham o trajeto até o ápice.\n\n**4. Técnica convencional em canal curvo.** O canal fica mais largo que o último instrumento, e a tração manual piora.\n\n**5. Remover dentina demais.** Nas zonas de perigo, o excesso pode causar fratura radicular vertical e perfuração.\n\n**6. Lima de força balanceada tracionada a cada ciclo.** Cada movimento linear para fora é limagem e pode retificar o canal."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/pq-03.jpg",
+      "alt": "Força balanceada em quatro passos: um quarto de volta horário, meia a três quartos de volta anti-horário com pressão apical, um quarto de volta horário e uma a duas voltas horárias retirando a lima.",
+      "legenda": "Ilustração. Força balanceada em quatro passos.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "forca-balanceada",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/pq-04.jpg",
+      "alt": "Ilustração. No preparo apical amplo as soluções alcançam o terço apical; no estreito, não.",
+      "legenda": "Ilustração. No preparo apical amplo as soluções alcançam o terço apical; no estreito, não.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "tamanho-apical",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

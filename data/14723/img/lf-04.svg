@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" role="img">
+  <title>Dois quadros: lâmina de vidro sobre uma mancha vascular, que some à pressão, e sobre uma púrpura, que continua igual.</title>
+  <desc>Dois quadros vistos por cima: lâmina de vidro pressionada sobre uma mancha vascular, que some sob o vidro (vitropressão); e sobre uma púrpura, em que o sangue saiu do vaso e a cor não some.</desc>
+  <rect x="0" y="0" width="800" height="480" fill="#FAF7F0"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <text x="200.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Mancha vascular</text>
+  <text x="200.0" y="66" font-size="21" font-weight="700" fill="#B86A3C" text-anchor="middle">Some à pressão</text>
+  <g transform="translate(20,100)">
+  <rect x="0" y="10" width="360" height="280" rx="40" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="3"/>
+  <path d="M150,88 A62,62 0 0 0 150,212 Z" fill="#C2413A"/>
+  <path d="M150,88 A62,62 0 0 1 150,212 Z" fill="#FBEFEB"/>
+  <circle cx="150" cy="150" r="62" fill="none" stroke="#1F4D4F" stroke-width="2.5"/>
+  <rect x="150" y="60" width="150" height="180" rx="8" fill="#BFE0E8" fill-opacity=".28" stroke="#1F4D4F" stroke-width="4"/>
+  </g>
+  <line x1="260" y1="340" x2="290" y2="418" stroke="#1F4D4F" stroke-width="2.5"/>
+  <text x="290" y="442" font-size="19" font-weight="700" fill="#1F4D4F" text-anchor="middle">Lâmina de vidro</text>
+  <text x="600.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Púrpura</text>
+  <text x="600.0" y="66" font-size="21" font-weight="700" fill="#B86A3C" text-anchor="middle">Não some à pressão</text>
+  <g transform="translate(420,100)">
+  <rect x="0" y="10" width="360" height="280" rx="40" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="3"/>
+  <path d="M150,88 A62,62 0 0 0 150,212 Z" fill="#8E2B2B"/>
+  <path d="M150,88 A62,62 0 0 1 150,212 Z" fill="#8E2B2B"/>
+  <circle cx="150" cy="150" r="62" fill="none" stroke="#1F4D4F" stroke-width="2.5"/>
+  <rect x="150" y="60" width="150" height="180" rx="8" fill="#BFE0E8" fill-opacity=".28" stroke="#1F4D4F" stroke-width="4"/>
+  </g>
+  <line x1="660" y1="340" x2="690" y2="418" stroke="#1F4D4F" stroke-width="2.5"/>
+  <text x="690" y="442" font-size="19" font-weight="700" fill="#1F4D4F" text-anchor="middle">Lâmina de vidro</text>
+  <text x="424" y="442" font-size="18" fill="#2F4445">extravasamento</text>
+  <text x="424" y="464" font-size="18" fill="#2F4445">de sangue</text>
+  <text x="24" y="442" font-size="18" fill="#2F4445">vasodilatação ou</text>
+  <text x="24" y="464" font-size="18" fill="#2F4445">vasocongestão</text>
+  </g>
+</svg>

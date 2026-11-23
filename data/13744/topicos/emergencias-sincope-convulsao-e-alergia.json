@@ -150,7 +150,17 @@
       "texto": "**Protocolo do Andrade e Ranali, cap. 13 (14 passos, resumo).**\n1. Na cadeira, baixe-a o mais perto possível do chão, com o paciente deitado.\n2. Remova objetos cortantes ao redor, colares e óculos; solte gravata e colarinho.\n3. Vire o paciente de lado, **para o lado em que o socorrista está**: libera a via aérea e evita aspiração de saliva ou conteúdo gástrico. Nas observações finais, o livro diz que a preferência é virar para o **lado esquerdo**; os dois trechos aparecem como no livro. O Malamed, na seção dele, mantém o paciente em supina (cadeira reclinada): as duas fontes divergem e o tema não escolhe.\n4. **Nada entre as arcadas** (lenço, mordedor) nem instrumento forçado para abrir os dentes: o risco de laceração da língua é baixo e o de aspirar fragmentos dentários é bem maior.\n5. Não restrinja os movimentos; proteja a cabeça com anteparo macio; anote a duração.\n6. **Chame o serviço móvel de urgência se a convulsão durar mais de 3 minutos ou se houver cianose desde o início.** O Malamed, na seção dele, trata o chamado de outro modo (considerar, ou recomendar no início de toda convulsão).\n7. Se muito demorada ou repetitiva: **midazolam 15 mg por via oral**, ou diazepam por via parenteral, se habilitado (a dose e a via parenteral do diazepam são de suporte avançado e ficam fora deste tema). O livro avisa que o midazolam oral depois de crise demorada exige cuidado redobrado, porque o paciente não deve receber nada pela boca logo após a crise (deglutição diminuída, risco de aspiração). O Malamed, na seção dele sobre estado de mal, contraindica a via oral em quem está convulsionando; os dois trechos aparecem como estão nos livros.\n8. Passada a convulsão: repouso de 10 a 15 minutos sob observação, oxigênio de 6 a 8 L por minuto, sinais vitais, breve exame intrabucal para lesões; converse com cuidado (o paciente pode estar constrangido). Com acompanhante adulto, dispense e encaminhe à avaliação médica imediata.\n\n**Observações finais.** Se há certeza de epilepsia e a crise durou até 3 minutos, é desnecessário chamar ajuda externa; peça ajuda se for a primeira crise, se a pessoa for gestante ou diabética, ou se houver sobredose de anestésico local. **Mitos:** não é preciso introduzir algo para \"desenrolar a língua\", e a epilepsia não se transmite pela espuma da boca. Durante a convulsão **não é preciso fazer ventilação boca a boca nem massagem cardíaca externa**, porque o paciente não está em parada cardiorrespiratória."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/sca-01.jpg",
+      "alt": "Paciente deitado de costas na cadeira odontológica reclinada, com as pernas um pouco mais altas que o tronco, e um membro da equipe checando o pulso.",
+      "legenda": "Ilustração. Na pré-síncope e na síncope o paciente vai para a posição supina, com as pernas levemente elevadas; é a etapa mais importante. O livro manda abandonar a prática de pôr a cabeça entre as pernas. Exceção citada: gestante em fase final de gravidez.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "m-sincope-conduta",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

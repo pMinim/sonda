@@ -74,7 +74,26 @@
       "texto": "O cap. 9 defende o Ca(OH)2 quando o caso **não pode ser concluído em uma sessão** e o chama de o melhor medicamento disponível para reduzir a microbiota residual.\n\n**Por que usar curativo.** Em polpa necrosada, as bactérias do canal instrumentado e não obturado podem se multiplicar e voltar às contagens de antes do tratamento em **2 a 4 dias**. Esse é o tempo de recrescimento bacteriano, não de curativo: o capítulo não dá o tempo que o curativo fica no canal.\n\n**Limites, no mesmo texto:**\n- A capacidade de erradicar as espécies microbianas tem sido questionada. In vitro, a dentina pode inativar o Ca(OH)2.\n- Estudos clínicos: o número de canais positivos para bactérias não diminuiu depois do curativo.\n- Revisão sistemática e metanálise de oito estudos clínicos: útil, mas com efetividade limitada para eliminar as bactérias, por técnicas de cultura.\n- É menos eficaz contra E. faecalis e C. albicans.\n- Entre as alternativas, a clorexidina em gel e o Ca(OH)2 em gel de clorexidina tiveram resultados conflitantes. Os ensaios clínicos não mostram redução da contagem além da já obtida com o preparo com NaOCl.\n\n**Conclusão do capítulo:** os clínicos aceitam o curativo antimicrobiano entre as sessões nos casos que não podem ser tratados em uma sessão só.\n\n**Remissão:** quando obturar e sessão única × duas sessões são tratados no tema de obturação."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/me-01.jpg",
+      "alt": "Ilustração. A pasta espessa de hidróxido de cálcio preenche o canal de forma homogênea até o comprimento de trabalho, e a cavidade é selada.",
+      "legenda": "Ilustração. A pasta espessa de hidróxido de cálcio preenche o canal de forma homogênea até o comprimento de trabalho, e a cavidade é selada.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "colocar",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14720/img/me-02.jpg",
+      "alt": "Ilustração. Preenchimento homogêneo (correto), com vazios e extruído (erros).",
+      "legenda": "Ilustração. Preenchimento homogêneo (correto), com vazios e extruído (erros).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "erros",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

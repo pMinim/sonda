@@ -154,7 +154,17 @@
       "texto": "Ainda pelo **Little e Falace**.\n\n**Na boca.** Nos fumantes crônicos, o livro aponta maior chance de halitose, manchas extrínsecas nos dentes, estomatite nicotínica, doença periodontal, lesões premalignas da mucosa e câncer bucal. Os anticolinérgicos usados na DPOC associam-se a boca seca.\n\n**Higiene bucal e pneumonia aspirativa.** O livro diz que má higiene bucal, bactérias bucais e periodontite podem contribuir para exacerbações respiratórias agudas e para pneumonia aspirativa em idosos frágeis com DPOC. É uma frase do capítulo: ele não detalha o mecanismo nem traz conduta específica para isso.\n\n**A cada retorno (Box 7.3, seguimento).** Estimule o paciente a parar de fumar, examine a boca atrás de lesões ligadas ao fumo e evite tratar se houver infecção das vias aéreas superiores."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/pul-02.jpg",
+      "alt": "Três cortes esquemáticos: via aérea normal, bronquite crônica com parede espessada e muco, e enfisema com alvéolos destruídos que formam grandes espaços.",
+      "legenda": "Ilustração. Na bronquite crônica a parede do brônquio engrossa e a luz se estreita com muco; no enfisema os alvéolos se destroem. As duas formas compõem a DPOC.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "lf-dpoc-definicao",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

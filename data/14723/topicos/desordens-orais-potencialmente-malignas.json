@@ -69,7 +69,17 @@
       "texto": "| | Leucoplasia | Eritroplasia | Queilite actínica |\n|---|---|---|---|\n| Como é | placa branca que não sai à raspagem | mancha vermelha bem delimitada, aveludada | lábio atrófico, seco, descamativo, limite com a pele apagado |\n| Onde preocupa | língua, assoalho, vermelhão | assoalho, ventrolateral da língua | vermelhão do lábio inferior |\n| Em quem | mais comum em homens (60 a 80%), acima de 40 anos; a maioria fuma (o tabaco é o fator mais ligado a ter a lesão) | meia-idade a idosos, ambos os sexos | homens de pele clara, sol crônico, rara antes dos 45 |\n| Risco | 4 a 22% de transformação estimada, sem período no livro (1 a 3% ao ano é outra medida); depende do aspecto e da displasia; malignizar é mais provável em mulher e em não fumante | pelo menos metade já é carcinoma | mais que duplica o risco de câncer de lábio |\n| Conduta | biópsia; conduta pelo grau de displasia | biópsia; excisão preferível | proteção solar; biópsia de úlcera ou endurecimento |\n\n**As outras da lista, em uma linha:**\n- **Leucoplasia verrucosa proliferativa:** placas verrucosas múltiplas, gengiva, mulheres; transformação estimada de 44 a 100%, sem período no livro (mais de 9% ao ano é outra medida).\n- **Fibrose submucosa oral:** cicatrização progressiva da mucosa ligada ao betel quid (noz-de-areca); trismo e ardência; não regride ao parar o hábito; 4 a 6% de transformação maligna estimada, sem período no livro.\n- **Queratose do tabaco sem fumaça:** placa branca ou cinza, fina, onde o tabaco fica; risco muito baixo; sem tabaco, a mucosa volta ao normal, em geral em 2 semanas, em 98% das lesões não atípicas nem intensamente brancas; se persistir após 2 semanas, biópsia.\n- **Tabagismo invertido** (ponta acesa dentro da boca): queratose palatina com potencial significativo de displasia ou carcinoma.\n- **Patologias liquenoides:** inclusão na lista é debatida; risco baixo, abaixo de 1 a 3% no líquen plano, um pouco maior nas lesões liquenoides; a forma erosiva talvez tenha mais risco.\n- **Condições hereditárias** com predisposição ao câncer (anemia de Fanconi, disqueratose congênita e outras).\n\n**Fora da lista:** a estomatite nicotínica (reversível em 1 a 2 semanas sem fumar; placa palatina que persiste após 1 mês é tratada como leucoplasia) e a queratose friccional."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/dp-01.jpg",
+      "alt": "Cinco quadros esquemáticos de mucosa, da leucoplasia homogênea delgada à eritroplasia, com uma seta indicando risco crescente.",
+      "legenda": "Esquema. Da leucoplasia homogênea delgada, de menor risco, à eritroplasia, de maior: uma mesma lesão pode misturar várias fases e mudar com o tempo.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aspecto",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" role="img">
+  <title>Dois cortes da mucosa: na erosão o epitélio está rebaixado, mas o conjuntivo não aparece; na úlcera falta o epitélio e o conjuntivo fica exposto.</title>
+  <desc>Dois cortes da mucosa: na erosão o epitélio está parcialmente perdido, mas continua cobrindo o conjuntivo; na úlcera falta o epitélio e o conjuntivo fica exposto.</desc>
+  <rect x="0" y="0" width="800" height="380" fill="#FAF7F0"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <text x="200.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Erosão</text>
+  <text x="200.0" y="64" font-size="19" fill="#2F4445" text-anchor="middle">perda parcial do epitélio, sem</text>
+  <text x="200.0" y="87" font-size="19" fill="#2F4445" text-anchor="middle">atingir o conjuntivo</text>
+  <g transform="translate(20,100)">
+  <path d="M0,84 L360,84 L360,190 L0,190 Z" fill="#E9B3AA" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M0,40 L112,40 C128,40 134,70 154,72 L206,72 C226,70 232,40 248,40 L360,40 L360,84 L0,84 Z" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M112,40 C128,40 134,70 154,72 L206,72 C226,70 232,40 248,40 Z" fill="none" stroke="#B86A3C" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M112,40 C128,40 134,70 154,72 L206,72 C226,70 232,40 248,40" fill="none" stroke="#B86A3C" stroke-width="5"/>
+  </g>
+  <text x="600.0" y="38" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">Úlcera</text>
+  <text x="600.0" y="64" font-size="19" fill="#2F4445" text-anchor="middle">perda do epitélio com exposição</text>
+  <text x="600.0" y="87" font-size="19" fill="#2F4445" text-anchor="middle">do conjuntivo</text>
+  <g transform="translate(420,100)">
+  <path d="M0,84 L108,84 C124,84 132,102 154,102 L206,102 C228,102 236,84 252,84 L360,84 L360,190 L0,190 Z" fill="#E9B3AA" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M0,40 L100,40 L108,84 L0,84 Z" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M360,40 L260,40 L252,84 L360,84 Z" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M100,40 L108,84 C124,84 132,102 154,102 L206,102 C228,102 236,84 252,84 L260,40 Z" fill="none" stroke="#B86A3C" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M108,84 C124,84 132,102 154,102 L206,102 C228,102 236,84 252,84" fill="none" stroke="#B86A3C" stroke-width="5"/>
+  </g>
+  <rect x="20" y="330" width="26" height="22" rx="4" fill="#F6D5D0" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="56" y="348" font-size="19" fill="#2F4445">Epitélio</text>
+  <rect x="170" y="330" width="26" height="22" rx="4" fill="#E9B3AA" stroke="#1F4D4F" stroke-width="2"/>
+  <text x="206" y="348" font-size="19" fill="#2F4445">Conjuntivo</text>
+  </g>
+</svg>

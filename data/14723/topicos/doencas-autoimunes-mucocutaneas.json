@@ -69,7 +69,17 @@
       "texto": "| Doença | Onde se forma a lesão | Na boca | O que confirma | Conduta |\n|---|---|---|---|---|\n| **Líquen plano reticular** | interface epitélio-conjuntivo (faixa de linfócitos), sem fenda | estrias brancas entrelaçadas, mucosa jugal posterior, bilateral | em geral a clínica; biópsia se atípico | sem tratamento; antifúngico se ardência |\n| **Líquen plano erosivo** | idem | úlcera central com estrias radiadas; gengivite descamativa | biópsia perilesional com imunofluorescência, para excluir as outras; a imunofluorescência direta só mostra fibrinogênio, inespecífico | corticosteroide tópico potente; revisão a cada 3 a 6 meses |\n| **Pênfigo vulgar** | **dentro** do epitélio (fenda logo acima da camada basal) | erosões dolorosas, bolha íntegra rara; antecede a pele | imunofluorescência direta: anticorpos **entre as células** (tela de galinheiro) | sistêmico, por médico experiente: corticosteroide e imunossupressores (rituximabe) |\n| **Penfigoide das membranas mucosas** | **abaixo** do epitélio (fenda subepitelial, na membrana basal) | bolhas íntegras, úlceras, gengivite descamativa | imunofluorescência direta: **banda linear contínua** na membrana basal | gel de corticosteroide tópico se só na boca; sistêmico se falhar; oftalmologista |\n| **Lúpus (LECC)** | interface epitélio-conjuntivo | igual ao líquen plano erosivo, com lesão de pele | biópsia; imunofluorescência direta: banda granular na membrana basal, que sozinha não fecha o diagnóstico | corticosteroide tópico; evitar sol |\n\n**Gengivite descamativa** é um padrão, não uma doença: gengiva vermelha, atrófica e com erosões. O livro a descreve no **penfigoide** (às vezes só a gengiva é afetada), no **líquen plano erosivo** e, com menos frequência, no **pênfigo vulgar**. Como as três parecem iguais, a biópsia perilesional com imunofluorescência é o que separa.\n\n**O que separa na prática:** bolha íntegra sugere penfigoide; só erosões e lesão oral antes da pele sugerem pênfigo; estrias brancas radiadas sugerem líquen plano, mas o **lúpus cutâneo crônico** pode ser idêntico na boca e costuma ter lesão de pele. Pênfigo e penfigoide pedem encaminhamento, com oftalmologista no penfigoide."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/au-01.jpg",
+      "alt": "Corte da mucosa com epitélio, camada basal, membrana basal e conjuntivo, e três setas: pênfigo vulgar dentro do epitélio, penfigoide abaixo do epitélio, líquen plano e lúpus na interface epitélio-conjuntivo.",
+      "legenda": "Ilustração. Onde cada doença ataca. Pênfigo vulgar: fenda dentro do epitélio (desmogleína). Penfigoide das membranas mucosas: fenda abaixo do epitélio, na membrana basal. Líquen plano e lúpus: infiltrado de linfócitos na interface, sem fenda.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "comparacao",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

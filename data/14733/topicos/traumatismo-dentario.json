@@ -109,7 +109,17 @@
       "texto": "**Retornos, rizogênese completa:** 2 semanas (quando sai a contenção), 4 semanas, 3 meses, 6 meses, 1 ano e, depois, **anual por pelo menos 5 anos**.\n\n**Retornos, rizogênese incompleta:** 2 semanas (contenção), 1 mês, 2 meses, 3 meses, 6 meses, 1 ano e, depois, anual por pelo menos 5 anos. Se a revascularização espontânea for possível, as revisões devem ser mais frequentes.\n\n**Reabsorção:** qualquer reabsorção radicular ou óssea ao redor da raiz é tratada como **inflamatória**. A ausência do espaço do ligamento periodontal, com substituição por osso, e o **som metálico à percussão** indicam reabsorção por **anquilose** (substitutiva). Os dois tipos podem ocorrer juntos.\n\n**Prognóstico favorável:** dente assintomático, funcional, com mobilidade normal, sem sensibilidade à percussão, com som normal, sem reabsorção nem radioluscência e com lâmina dura de aspecto normal. Na rizogênese incompleta, soma-se a continuação da formação radicular e da erupção. A obliteração do canal radicular é esperada no primeiro ano, como cicatrização pulpar.\n\n**Prognóstico desfavorável:** inchaço e secreção purulenta, mobilidade excessiva ou anquilose, reabsorção inflamatória ou substitutiva, com ou sem sintomas. Na incompleta, também a ausência de continuação da formação radicular. Em paciente em crescimento, a infra-oclusão pode prejudicar o crescimento alveolar e facial.\n\nO acompanhamento a longo prazo é de equipe interdisciplinar (ortodontista, odontopediatra e/ou endodontista); sem equipe, o dentista acompanha dentro da sua experiência."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/tra-02.svg",
+      "alt": "Linha do tempo da avulsão com três grupos: reimplante imediato ou em cerca de 15 minutos, meio de armazenamento por menos de 60 minutos, e mais de 60 minutos, com marca de cerca de 30 minutos ao seco.",
+      "legenda": "Ilustração. Segundo a IADT, o tempo extra-alveolar orienta o prognóstico: provavelmente viáveis (reimplante imediato ou em cerca de 15 min, no local), possivelmente viáveis mas comprometidas (meio de armazenamento, menos de 60 min) e provavelmente inviáveis (mais de 60 min). Depois de cerca de 30 min ao seco, a maioria das células do ligamento fica inviável. A classificação orienta a decisão e não altera o tratamento.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "av-tempo",
+      "largura": 800,
+      "altura": 728
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

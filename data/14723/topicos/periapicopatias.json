@@ -69,7 +69,17 @@
       "texto": "| Lesão | Sintoma | Vitalidade do dente | Imagem | Conduta |\n|---|---|---|---|---|\n| **Granuloma periapical** | em geral nenhum; dor se agudizar | não responde (exceto necrose em um só canal de dente multirradicular) | radiolucência apical de quase imperceptível a mais de 2 cm, com perda da lâmina dura | endodontia ou extração com curetagem; controle de 1 e 2 anos |\n| **Cisto periapical** | em geral nenhum; edema se grande | não responde | igual ao granuloma; radiolucência arredondada, reabsorção comum | igual ao granuloma; biópsia na cirurgia |\n| **Cisto radicular lateral** | não descrito no livro | avaliar: pode vir de necrose pulpar ou de doença periodontal | radiolucência discreta na face lateral da raiz | eliminar todos os focos inflamatórios; avaliar o periodonto antes |\n| **Cisto residual** | não descrito no livro | dente já extraído | radiolucência redonda ou oval na crista alveolar, onde houve extração | excisão cirúrgica |\n| **Abscesso sintomático** | dor, dente extruído, inchaço, às vezes febre | não responde | espessamento do ligamento ou radiolucência mal definida; pode não haver nada | drenagem e eliminação do foco; antibiótico só em situações específicas |\n| **Abscesso assintomático (com fístula)** | nenhum; parúlide ou drenagem | não responde | pode haver radiolucência periapical (como na Fig. 3.39) | eliminar o foco; fístula persistente pede curetagem |\n| **Osteíte condensante** | o do dente (pulpite ou necrose) | polpa com pulpite ou necrose | radiopacidade uniforme junto ao ápice | tratar o dente; cerca de 85% regridem |\n\n**O que separa as principais:** granuloma e cisto têm a mesma imagem; a diferença é histológica, e o livro diz que separar granuloma epitelizado, cisto em bolsa e cisto verdadeiro tem poucas implicações cirúrgicas. O abscesso tem sintomas agudos ou fístula. Entre as lesões desta tabela, a osteíte condensante é a que aumenta a densidade, em vez de ser radiolucência."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/pa-01.jpg",
+      "alt": "Três cortes de ápice dentário: granuloma periapical, cisto periapical e abscesso periapical com fístula.",
+      "legenda": "Ilustração. As três lesões periapicais: granuloma periapical, cisto periapical e abscesso periapical, este com trajeto de drenagem (fístula).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "polpa-ao-apice",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

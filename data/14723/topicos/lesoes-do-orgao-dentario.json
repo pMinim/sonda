@@ -81,7 +81,17 @@
       "texto": "**Hipercementose:** deposição excessiva de cemento na raiz. A maioria dos casos localizados não tem doença sistêmica associada; entre as causas locais estão trauma oclusal, inflamação vizinha e **ausência do antagonista**. Os fatores sistêmicos têm associação fraca, exceto a doença de Paget, com relatos de hipercementose significativa; pense nela diante de hipercementose generalizada em paciente da idade apropriada.\n- **Radiografia:** raiz engrossada, cercada por ligamento radiolúcido e lâmina dura. Se muito espessa, lembra **cementoblastoma**, que se distingue por idade, dor, expansão da cortical e aumento contínuo.\n- **Conduta:** não precisa de tratamento; pode dificultar a exodontia (às vezes odontossecção) e a endodontia."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/od-01.jpg",
+      "alt": "Dois cortes de dente: na reabsorção interna a polpa se alarga em balão dentro da raiz; na externa o defeito entra pela superfície da raiz e o canal passa intacto.",
+      "legenda": "Ilustração. Interna: origem na polpa, canal alargado em balão. Externa: origem no ligamento periodontal, canal não alargado, que se vê passando pelo defeito.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "reab-distincao",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

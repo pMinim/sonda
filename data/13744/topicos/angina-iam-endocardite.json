@@ -150,7 +150,17 @@
       "texto": "O Varellis, manual prático organizado por Maria Lucia Zarvos Varellis (3ª ed., 2017), traz no cap. 29 (p. 250–252) uma regra de profilaxia da endocardite dividida em risco alto e moderado, sem data no livro e diferente da lista da AHA 2021; por isso ela não entra neste tema como conduta. O regime vigente está na seção da AHA 2021 (EUA)."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/aie-02.jpg",
+      "alt": "Fluxograma em três colunas. Angina conhecida com ataque típico: posição confortável, nitroglicerina sublingual ou spray, nova dose após 5 minutos até 3 doses em 15 minutos e chamar emergência se não aliviar. Angina com episódio diferente e dor sem história de angina: chamar a emergência na hora, com oxigênio, aspirina e monitoração.",
+      "legenda": "Esquema do fluxo de dor torácica pelo Malamed. O diagnóstico de angina só vale com história de angina e dor igual à de sempre; nos outros cenários trata-se como infarto e chama-se o serviço de emergência de imediato.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "iam-crise",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

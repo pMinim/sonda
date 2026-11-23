@@ -95,7 +95,17 @@
       "texto": "Esta seção também é do **manual organizado por Varellis**, com os números dele.\n\n**Anamnese e cuidados.** Conheça as sequelas do paciente e corrija as alterações metabólicas antes do tratamento, em conversa com o médico. O tempo de sangramento fica prolongado e só a diálise o corrige; o manual cita o método de Ivy para medi-lo. **Paciente heparinizado só pode ser operado 24 h depois da hemodiálise.** O prazo do Little e Falace está na seção de hemodiálise. Para antiagregantes e anticoagulantes, ver o tema de anticoagulados. A profilaxia antibiótica em quem tem shunt é decisão médica.\n\n**Evitar:** tetraciclina, anti-inflamatórios (retêm sódio e líquido e elevam a pressão), corticosteroides (retêm água e sódio e elevam pressão e glicemia) e medicamentos nefrotóxicos. O Little e Falace trata o corticosteroide de quem já o usa (dose habitual antes da cirurgia): ver a seção sobre avaliação de risco.\n\n**Plano de tratamento.** Com hipertensão associada, evite dor, estresse e consultas demoradas. O manual diz para **não usar anestésico sem vasoconstritor**, de preferência prilocaína 3% com vasoconstritor, evitando o vasoconstritor adrenérgico.\n\n**Analgésicos e anti-inflamatórios (dose e intervalo como no manual):**\n- paracetamol, 500 mg a cada 6 h;\n- dipirona, 1 comprimido a cada 6 h;\n- benzidamina, 50 mg a cada 6 h, como anti-inflamatório;\n- frio local por 2 h e calor local depois de 24 h, como meios físicos;\n- ácido acetilsalicílico é contraindicado, por ação antiagregante; diclofenaco e piroxicam devem ser evitados, por serem discretamente antiagregantes.\n\n**Medicamentos em geral.** O manual alerta para o risco de acúmulo e lembra \"primum non nocere\": a dose de fármacos eliminados pelo rim precisa ser ajustada à filtração.\n\n**O que se vê na boca.** Gosto desagradável, halitose (ureia na saliva), gengivite, perda óssea e avulsão dentária, e sangramento gengival por distúrbio plaquetário. A estomatite urêmica surge com mais frequência no assoalho, na face ventral da língua e nas mucosas anteriores.\n\nO manual não detalha o intervalo entre a hemodiálise e o atendimento além do prazo de 24 h para o paciente heparinizado."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/drc-02.jpg",
+      "alt": "Antebraço com veias dilatadas de uma fístula arteriovenosa, cercado por três ícones de proibição: manguito de pressão, coleta de sangue e injeção intravenosa.",
+      "legenda": "Ilustração. No braço da fístula não se mede a pressão, não se colhe sangue nem se aplica medicamento intravenoso: manguito ou torniquete inflado pode colapsar o shunt e inutilizá-lo.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "hemodialise",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

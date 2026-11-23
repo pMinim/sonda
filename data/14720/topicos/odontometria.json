@@ -65,7 +65,17 @@
       "texto": "Esta seção traz o que o **cap. 9** diz sobre controlar o limite da obturação e a sobre-extensão.\n\n**Por que controlar:** o limite importa por causa da possível **extrusão** dos materiais obturadores.\n\n**Metanálise sobre o trabalho de Sjögren e colegas** (ref. 275 do capítulo, p. 305; dentes com polpa necrosada e lesão periapical, controle de 8 a 10 anos):\n\n| Obturação | Condição periapical normal na radiografia |\n|---|---|\n| 2 mm aquém do ápice | 94% |\n| Sobre-estendida | 76% |\n| Mais de 2 mm aquém do ápice | 68% |\n\n**Sobre-extensão e prognóstico (estudo prospectivo):** a ausência de sobre-extensão foi fator prognóstico altamente significativo para o sucesso. A sobre-extensão de guta-percha não alterou a sobrevida do dente nos primeiros 22 meses, mas aumentou o risco de perda dele depois disso. Os autores atribuem o efeito tardio a possíveis trincas causadas por força excessiva na condensação, que se propagam com o dente em função.\n\n**Princípio biológico:** instrumentação e obturação não devem passar do forame apical.\n\n**Diretriz de 1 mm aquém do ápice radiográfico:** continua indicada quando se usam radiografias, mas o limite apical “ainda é um valor empírico”. Localizador apical com radiografias e raciocínio clínico tornam a decisão mais lógica. Compactar guta-percha e cimento contra um **batente apical** previne a sobre-extensão.\n\n**Como achar a constrição:** conhecimento da anatomia apical, sensação tátil, radiografia, localizador, sangramento apical e resposta do paciente, se não anestesiado."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/od-02.jpg",
+      "alt": "Ilustração. Esquema do localizador apical: o clipe no lábio e a lima no canal fecham o circuito; a escala do aparelho mostra a aproximação do forame apical.",
+      "legenda": "Ilustração. Esquema do localizador apical: o clipe no lábio e a lima no canal fecham o circuito; a escala do aparelho mostra a aproximação do forame apical.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "como-determinar",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

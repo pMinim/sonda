@@ -62,7 +62,44 @@
       "texto": "| Lesão | Grupo | Definição | Limite de tamanho | Exemplo dado pelo livro |\n|---|---|---|---|---|\n| **Mácula** | Alteração de cor | muda a cor, sem elevação nem depressão | não se aplica | eritema, cianose, petéquia, pigmentação gengival racial |\n| **Pápula** | Formação sólida | elevação circunscrita, séssil ou pedunculada | menos de 5 mm | grânulos de Fordyce; papilomas |\n| **Placa** | Formação sólida | elevação com altura menor que a base | pode ter vários cm | leucoplasia; sífilis secundária |\n| **Nódulo** | Formação sólida | elevação circunscrita, superficial ou profunda | mais de 5 mm | processos proliferativos não neoplásicos e neoplásicos |\n| **Tumor ou nodosidade** | Formação sólida | aumento de volume sólido maior | mais de 3 cm (o livro desaconselha \"tumor\") | termos alternativos: nodosidade, massa nodal, nódulo |\n| **Vesícula** | Coleção líquida | elevação circunscrita com líquido | menos de 3 mm | herpes simples recorrente, varicela, herpangina |\n| **Bolha** | Coleção líquida | igual à vesícula, maior | mais de 3 mm | pênfigos e penfigoides |\n| **Erosão** | Perda tecidual | perda parcial do epitélio, sem atingir o conjuntivo | não se aplica | líquen plano atrófico-erosivo; língua geográfica |\n| **Úlcera** | Perda tecidual | perda do epitélio com exposição do conjuntivo, crônica | não se aplica | carcinoma espinocelular |\n| **Ulceração** | Perda tecidual | o mesmo, mas aguda | não se aplica | aftas recorrentes; lesões traumáticas |\n\n**Três pontos para fixar:**\n- a **vitropressão** separa as manchas: eritema, cianose e telangiectasia (vasodilatação ou vasocongestão) desaparecem; as púrpuras (extravasamento de sangue), não;\n- o corte de **5 mm** separa pápula de nódulo; o de **3 mm** separa vesícula de bolha;\n- úlcera é a perda **crônica**; ulceração, a **aguda**."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/lf-04.svg",
+      "alt": "Dois quadros: lâmina de vidro sobre uma mancha vermelha, que some à pressão, e sobre uma púrpura, que continua igual.",
+      "legenda": "Ilustração. Vitropressão: sob a lâmina de vidro, a mancha vascular some; na púrpura o sangue saiu do vaso e a cor não some.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "macula-vasculares",
+      "largura": 800,
+      "altura": 480
+    },
+    {
+      "src": "data/14723/img/lf-01.jpg",
+      "alt": "Três cortes da mucosa: pápula, elevação menor que 5 mm; placa, elevação mais larga do que alta; nódulo, elevação maior que 5 mm.",
+      "legenda": "Ilustração. Pápula: elevação circunscrita com menos de 5 mm. Placa: a altura é menor que a base. Nódulo: elevação circunscrita com mais de 5 mm.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "solidas",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14723/img/lf-02.svg",
+      "alt": "Dois cortes da mucosa: vesícula, coleção de líquido menor que 3 mm; bolha, coleção maior que 3 mm.",
+      "legenda": "Ilustração. Vesícula: coleção líquida com menos de 3 mm (limite do Marcucci). Bolha: mais de 3 mm. Na boca, vesículas e bolhas rompem logo depois de formadas.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "liquidas",
+      "largura": 800,
+      "altura": 488
+    },
+    {
+      "src": "data/14723/img/lf-03.svg",
+      "alt": "Dois cortes da mucosa: na erosão o epitélio está rebaixado, mas o conjuntivo não aparece; na úlcera falta o epitélio e o conjuntivo fica exposto.",
+      "legenda": "Ilustração. Erosão: perda parcial do epitélio, sem atingir o conjuntivo. Úlcera: perda do epitélio com exposição do conjuntivo.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "perdas",
+      "largura": 800,
+      "altura": 380
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

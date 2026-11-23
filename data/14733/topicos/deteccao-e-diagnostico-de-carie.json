@@ -114,7 +114,26 @@
       "texto": "**Radiografia interproximal (p. 67):** o exame com sonda e espelho segue o mais usado, mas não revela pequenas lesões em superfícies proximais e oclusais. O livro diz que a interproximal **deve ser associada** ao exame clínico para suprir essa deficiência e ajudar a avaliar a profundidade da lesão e processos periapicais. Uma imagem radiolúcida em dentina indica **progressão da lesão em dentina mesmo antes da cavidade clínica**, em lesão proximal e oclusal. A fragilidade é a **variabilidade entre observadores**.\n\n**Auxiliares (pp. 67–69):** o livro descreve eletrocondutividade, transiluminação por fibra óptica (FOTI e DIFOTI) e fluorescência (QLF, DIAGNOdent, Vista Proof e outros). Em lesão proximal em dentina, FOTI e radiografia interproximal têm especificidade semelhante, e a radiografia tem sensibilidade superior. No estudo citado, o DIFOTI não mediu a profundidade da lesão proximal em nenhuma amostra.\n\n**Atividade (p. 69):** o livro destaca que a inspeção visual é o único método de detecção que permite avaliar a atividade pelas características clínicas. Os auxiliares só dizem se há perda mineral e devem ser **adjuntos** à inspeção visual e tátil. O livro afirma que não existe método ideal quanto a fidedignidade, aceitação pelo paciente e disponibilidade para o profissional.\n\n**Auxiliares e decisão (pp. 69–70):** no estudo de Pereira e colaboradores, os auxiliares somados ao exame visual em superfície oclusal **aumentaram a sensibilidade**, com **queda significativa da especificidade**: mais falsos positivos e mais superfícies indicadas para tratamento operatório. O livro conclui que o limiar antigo, a extensão radiográfica em dentina, **não é mais aceito** para decidir restaurar, pela impossibilidade de controlar o biofilme em lesão com cavidade. Os auxiliares devem ser usados com cautela na decisão de tratamento."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/det-01.jpg",
+      "alt": "Três cortes de molar: lesão inicial só no esmalte, lesão moderada com quebra localizada e sombra na dentina, e lesão extensa com cavidade e dentina exposta.",
+      "legenda": "Ilustração. As três categorias que o consenso destaca para o clínico: inicial (ICDAS 1 e 2), moderada (3 e 4: quebra da superfície do esmalte ou sombra de dentina por baixo) e extensa, cavitada (5 e 6: dentina exposta). O ICDAS mostra o quanto a lesão avançou; a atividade se avalia à parte (Kühnisch et al., 2024; Neuhaus et al., 2024).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "icdas-estadiamento",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14733/img/det-02.jpg",
+      "alt": "Duas superfícies de esmalte perto da gengiva: à esquerda lesão fosca, rugosa e com biofilme (ativa); à direita lesão brilhante e lisa, sem biofilme (inativa).",
+      "legenda": "Ilustração. Sem cavidade, a lesão ativa é esbranquiçada, fosca ou opaca, rugosa ao explorador e fica sob biofilme (junto à gengiva); a inativa é lisa e brilhante. Textura e brilho são os critérios; a cor é só indicador (Maltz; Neuhaus et al., 2024). Sondar com pressão mínima e ponta arredondada.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "maltz-coronaria",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

@@ -100,7 +100,17 @@
       "texto": "**Conclusão dos autores.** Com a melhor evidência disponível, as chances de cicatrização da periodontite apical aumentam tanto com tratamento de canal adequado quanto com restauração adequada. A Discussão diz que não se pode colocar uma boa restauração sobre um canal mal obturado, nem o contrário, esperando o mesmo sucesso de quem faz bem os dois procedimentos.\n\n**Limitações, como o artigo as descreve:**\n- A maior parte dos dados vem de exame radiográfico, que é subjetivo. Não há dados clínicos que sustentem avaliar a qualidade da restauração só pela periapical.\n- O artigo diz que o tempo entre o fim do tratamento de canal e a colocação da restauração não era conhecido.\n- Os estudos são de coorte observacional, com alta heterogeneidade de população, método de avaliação e critério de qualidade. Cinco dos nove tiveram resultado não significativo em pelo menos uma das comparações.\n\n**O que o artigo não define.** Ele não diz operacionalmente o que é obturação adequada nem restauração adequada: e diz que comparar os estudos é difícil pela variedade de critérios avaliados em cada um. Por isso não se tira do artigo uma lista de critérios.\n\n**O que ficou de fora.** O artigo agrupa obturações, coroas e pinos sob \"restauração\", não compara materiais nem técnicas de obturação e tem como critério de exclusão não poder separar o efeito da restauração do efeito do pino intracanal."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/qua-02.svg",
+      "alt": "Corte transversal de canal oval com cone único deixando vazios laterais, e duas vistas estilizadas: ortorradial com obturação aparentemente adequada e angulada com espaços vazios.",
+      "legenda": "Ilustração (esquema, não radiografia real). Uma imagem bidimensional adequada pode não identificar selamento adequado: no Cohen, incisivo lateral inferior com obturação aparentemente adequada na radiografia pós-tratamento mostrou espaços vazios numa visão angulada. A radiografia não avalia a qualidade do selamento.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "radiografia-limites",
+      "largura": 800,
+      "altura": 500
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

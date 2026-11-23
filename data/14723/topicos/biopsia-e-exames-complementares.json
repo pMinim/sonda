@@ -83,7 +83,17 @@
       "texto": "Cada linha repete o que as seções anteriores já trazem.\n\n| Pergunta clínica | Exame que o livro indica | Seção |\n|---|---|---|\n| Cárie entre dentes, excesso de restauração | radiografia interproximal | radiografias |\n| Lesão em dente tratado, área periapical | radiografia periapical | radiografias |\n| Raiz residual ou dente incluso em desdentado; sialolitíase no ducto submandibular | radiografia oclusal | radiografias |\n| Lesão extensa de maxila ou mandíbula; paciente não abre a boca | radiografia panorâmica | radiografias |\n| Lesão traumática ou neoplásica e suas relações; área do osso antes do implante | tomografia computadorizada | imagem |\n| Glândulas salivares maiores | ultrassonografia (também sialografia e cintilografia) | imagem |\n| Disco da articulação temporomandibular | ressonância magnética | imagem |\n| Metástase óssea | cintilografia óssea | imagem |\n| Biópsia impossível por impedimento ou recusa; vesículas, bolhas, pênfigo | citologia esfoliativa | citologia |\n| Lesão ulcerada com suspeita de malignidade, placa ceratótica, mácula eritroplásica, citologia classe III a V, lesão óssea | biópsia (primeira escolha) | biopsia |\n| Suspeita de neoplasia maligna, manifestação bucal de doença sistêmica, lesão muito extensa | biópsia incisional | incisional-excisional |\n| Lesão pequena, sem suspeita de malignidade | biópsia excisional | incisional-excisional |\n| Suspeita de melanoma | encaminhar direto ao oncologista | incisional-excisional |\n| Lesão intraóssea antes de biopsiar | punção | biopsia |\n| Linfonodo, glândula salivar: inflamatório, benigno ou maligno? | PAAF | paaf |\n| Via intrínseca, hemofilia | TTPA | hemograma-coagulograma |\n| Plaquetas e vasos | tempo de sangramento | hemograma-coagulograma |\n| Controle do diabetes nos últimos 3 meses | hemoglobina glicosilada | glicemia-sorologias |\n| Confirmar sífilis | teste treponêmico (FTA-ABS) | glicemia-sorologias |"
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/be-01.jpg",
+      "alt": "Dois esquemas de biópsia. À esquerda, a incisional retira um fragmento em cunha da lesão. À direita, a excisional retira a lesão inteira com uma margem de tecido sadio em volta.",
+      "legenda": "Ilustração. Incisional: só um fragmento, para lesão suspeita ou muito extensa. Excisional: a lesão toda, para lesão pequena sem suspeita de malignidade, com bordas da peça em tecido sadio.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "incisional-excisional",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

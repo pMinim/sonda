@@ -179,7 +179,17 @@
       "texto": "**Duas condutas (7.5).** Por muitos anos o tratamento se baseou na cavidade, com medidas preventivas padronizadas para todos, o que levava a sobretratamento ou subtratamento. Hoje se avalia a presença da doença e os fatores causais de cada paciente:\n- **Profilaxia básica:** para quem **não tem lesões ativas**; informações sobre doenças bucais, instrução de higiene, informações sobre dieta e flúor (água e dentifrício fluoretado).\n- **Conduta terapêutica:** para quem **tem lesões ativas**. Identificar e tratar os fatores em desequilíbrio: controle mecânico e químico do biofilme, fluorterapia caseira e/ou profissional, eliminação de nichos retentivos por restauração ou selamento de cavidades, estímulo à secreção salivar, entre outros.\n\n**Outra fonte:** o Fejerskov trata do controle básico de todos e da divisão por atividade; ver a seção «O semáforo odontológico» (Fejerskov e Nyvad)."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/ris-01.jpg",
+      "alt": "Esquema com três colunas, verde, amarela e vermelha, com critério de cada cor, prazos de retorno e uma faixa inferior com o controle básico para todos.",
+      "legenda": "Ilustração. O semáforo classifica primeiro pela atividade: verde, sem lesão ativa; amarela, com lesão ativa e fatores que podem ser mudados; vermelha, com lesão ativa e algum fator que não pode ser mudado ou não identificado. Todos fazem o controle básico diário. O objetivo é motivar o paciente a converter amarelo (ou vermelho) em verde (Fejerskov).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "semaforo",
+      "largura": 1045,
+      "altura": 1400
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

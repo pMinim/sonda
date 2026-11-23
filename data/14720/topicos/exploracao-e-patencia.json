@@ -55,7 +55,26 @@
       "texto": "**O que é.** Quando uma lima alcança o forame apical, ela já criou o **glide path**, termo usado há mais de uma década. É a garantia de um trajeto livre até a porção terminal do canal, que os instrumentos movidos a motor vão seguir.\n\n**Por que importa antes dos rotatórios.** Um glide path presente é essencial para o uso previsível dos rotatórios:\n\n- minimiza o efeito de aparafusamento e o risco de fratura por torção;\n- alerta do livro: pode haver travamento se a secção do canal for menor que a ponta do instrumento;\n- reduz a área de contato entre o instrumento e a parede, com cargas torcionais menores.\n\n**Como saber que está bom.** O sinal do livro é uma lima K reta #15 que se move **passivamente e com suavidade** até o comprimento de trabalho, em movimentos longos de vai e vem.\n\n**Como criar:**\n\n- Classicamente, com limas K #10 e #15, em movimento de força balanceada ou de \"dar corda em um relógio\".\n- Mais recentemente, com rotatórios de NiTi de ponta fina, projetados para simplificar o processo depois que uma lima K #10 atinge o comprimento de trabalho.\n- Alguns autores defendem explorar e preparar o canal pelo menos até uma #15 antes de usar o NiTi rotatório até o comprimento de trabalho total.\n\n**Se o canal resiste.** Irrigação copiosa e recapitulações frequentes com a lima menor até o comprimento de trabalho podem ser necessárias. Em canais muito mineralizados, o livro cita sequências de limas pequenas em coroa-ápice e/ou step back."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/ex-03.jpg",
+      "alt": "Ilustração. Lima padronizada (ISO): tamanho = diâmetro da ponta (D0), conicidade de 0,02 mm por mm e parte ativa de 16 mm.",
+      "legenda": "Ilustração. Lima padronizada (ISO): tamanho = diâmetro da ponta (D0), conicidade de 0,02 mm por mm e parte ativa de 16 mm.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "iso",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/ex-01.jpg",
+      "alt": "Ilustração. Modificação coronária: ampliar a porção cervical antes de levar a lima fina mais fundo.",
+      "legenda": "Ilustração. Modificação coronária: ampliar a porção cervical antes de levar a lima fina mais fundo.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "modificacao",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

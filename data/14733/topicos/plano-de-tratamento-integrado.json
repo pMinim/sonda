@@ -154,7 +154,26 @@
       "texto": "**Preliminar e definitivo** (p. 42). Depois dos exames clínico e radiográfico e da montagem dos modelos em articulador, começa o planejamento. Ele pode ser apenas preliminar e ser definido depois da colocação das coroas provisórias e das cirurgias periodontais, conforme a extensão e as características do caso.\n\n**Dente ou implante** (p. 42). O dentista deve considerar implante em vez de desgastar dentes íntegros, ou combinar prótese sobre implante com prótese sobre dentes. Segundo o livro, a porcentagem de sucesso de próteses fixas sobre dentes ou sobre implantes, após 5 ou 10 anos, é praticamente igual. Dentes com perda parcial de suporte ósseo também podem ser pilares com sucesso; por isso, extrair para colocar implante deve ser feito com cautela.\n\n**Critérios para prótese fixa sobre implante** (pp. 42–46):\n- número, comprimento e disposição dos implantes, em planos frontal, lateral e sagital; implantes curtos precisam mais disso;\n- espaço mínimo de 7 mm entre dentes adjacentes para implante de plataforma regular, deixando cerca de 1,5 mm até o dente para a papila; até 3 mm entre implantes (p. 42);\n- reabsorção óssea horizontal e vertical, sobretudo anterior, com suporte labial e possível necessidade de enxerto (p. 43);\n- número e suporte dos dentes remanescentes, com a opção de extrair e fazer prótese sobre implante (p. 43).\n\n**Resto radicular** (p. 46). Avalia-se a qualidade do remanescente radicular e a dificuldade da endodontia e do núcleo: se manter o dente se justifica, ou se é melhor extrair e colocar implante.\n\n**Vizinhos** (p. 46). O livro diz que a preservação de dentes naturais deve sempre ser o objetivo do tratamento. Vizinhos íntegros ou com pequenas restaurações favorecem implante unitário; a segunda opção é a prótese adesiva. Vizinhos com restaurações extensas, ou com próteses a trocar, favorecem a prótese fixa convencional.\n\n**Outros fatores** (p. 46): custo, saúde geral, tempo de cicatrização, previsibilidade estética, condição psicológica e expectativa do paciente, experiência do dentista. O livro pede planejamento simples, conservador e realista, e ouvir o paciente antes de definir."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/pti-01.jpg",
+      "alt": "Faixa com cinco blocos em sequência: fase sistêmica, fase aguda, fase de controle da doença, avaliação pós-tratamento, fase de tratamento definitivo e fase de cuidado de manutenção.",
+      "legenda": "Ilustração. As cinco fases do Stefanac, na ordem: sistêmica, aguda, controle da doença, tratamento definitivo e cuidado de manutenção. O controle da doença termina numa avaliação pós-tratamento, antes de qualquer tratamento definitivo; a manutenção é contínua.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "stefanac-fases",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14733/img/pti-02.jpg",
+      "alt": "Duas linhas do tempo: na incorreta a manutenção vem por último; na correta a manutenção começa após a reavaliação e corre em paralelo às fases II e III.",
+      "legenda": "Ilustração. No Carranza (cap. 72), a Fase II é a cirurgia, a Fase III é a restauração e a Fase IV é a manutenção. Sequência incorreta: Fase I, reavaliação, Fase II, Fase III e só então a manutenção. Sequência correta: a manutenção começa logo depois da reavaliação da Fase I, em paralelo com as Fases II e III.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "carranza-72",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

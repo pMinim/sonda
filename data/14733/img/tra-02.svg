@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 728" width="800" height="728" role="img">
+  <title>Linha do tempo da avulsão com três grupos: reimplante imediato ou em cerca de 15 minutos, meio de armazenamento por menos de 60 minutos, e mais de 60 minutos, com marca de cerca de 30 minutos ao seco.</title>
+  <desc>Linha do tempo da avulsão com três grupos: provavelmente viáveis (reimplantado imediatamente ou após cerca de 15 min, no local), possivelmente viáveis mas comprometidas (meio de armazenamento, menos de 60 min) e provavelmente inviáveis (mais de 60 min, com ou sem meio de armazenamento); marca de cerca de 30 min ao seco.</desc>
+  <rect x="0" y="0" width="800" height="728" fill="#FAF7F0"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <text x="400" y="42" font-size="28" font-weight="700" fill="#1F4D4F" text-anchor="middle">Avulsão: tempo extra-alveolar</text>
+  <text x="318.0" y="104" font-size="18" font-weight="700" fill="#B86A3C">Tempo seco: depois de cerca de 30 min</text>
+  <text x="318.0" y="127" font-size="18" font-weight="700" fill="#B86A3C">a maioria das células fica inviável</text>
+  <text x="40" y="250" font-size="21" font-weight="700" fill="#1F4D4F">Provavelmente viáveis</text>
+  <rect x="60.0" y="262" width="120.0" height="34" rx="6" fill="#1F4D4F" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="40" y="324" font-size="19" fill="#2F4445">Reimplantado imediatamente ou após cerca de 15 min, no local do</text>
+  <text x="40" y="349" font-size="19" fill="#2F4445">acidente</text>
+  <text x="40" y="408" font-size="21" font-weight="700" fill="#1F4D4F">Possivelmente viáveis, mas comprometidas</text>
+  <rect x="60.0" y="420" width="480.0" height="34" rx="6" fill="#E2CDB2" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="40" y="482" font-size="19" fill="#2F4445">Mantido em meio de armazenamento, menos de 60 min</text>
+  <text x="40" y="541" font-size="21" font-weight="700" fill="#1F4D4F">Provavelmente inviáveis</text>
+  <rect x="540.0" y="553" width="200.0" height="34" rx="6" fill="#B86A3C" stroke="#1F4D4F" stroke-width="3"/>
+  <path d="M740,549 L774,570 L740,591 Z" fill="#B86A3C" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+  <text x="40" y="615" font-size="19" fill="#2F4445">Mais de 60 min, com ou sem meio de armazenamento</text>
+  <line x1="60" y1="190" x2="762" y2="190" stroke="#1F4D4F" stroke-width="4"/>
+  <path d="M760,181 L780,190 L760,199 Z" fill="#1F4D4F"/>
+  <line x1="60.0" y1="180" x2="60.0" y2="200" stroke="#1F4D4F" stroke-width="4"/>
+  <text x="54.0" y="172" font-size="18" font-weight="700" fill="#1F4D4F">0</text>
+  <line x1="180.0" y1="180" x2="180.0" y2="200" stroke="#1F4D4F" stroke-width="4"/>
+  <text x="180.0" y="172" font-size="18" font-weight="700" fill="#1F4D4F" text-anchor="middle">cerca de 15 min</text>
+  <line x1="540.0" y1="180" x2="540.0" y2="200" stroke="#1F4D4F" stroke-width="4"/>
+  <text x="540.0" y="172" font-size="18" font-weight="700" fill="#1F4D4F" text-anchor="middle">60 min</text>
+  <text x="780" y="172" font-size="18" font-weight="700" fill="#1F4D4F" text-anchor="end">mais de 60 min</text>
+  <line x1="300.0" y1="188" x2="300.0" y2="86" stroke="#B86A3C" stroke-width="3.5" stroke-dasharray="9 6"/>
+  <circle cx="300.0" cy="190" r="9" fill="#B86A3C" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="40" y="658" font-size="19" fill="#1F4D4F">A classificação orienta o prognóstico e a decisão; não altera o</text>
+  <text x="40" y="683" font-size="19" fill="#1F4D4F">tratamento.</text>
+  </g>
+</svg>

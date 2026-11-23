@@ -145,7 +145,26 @@
       "texto": "A Lei nº 13.709, de 14 de agosto de 2018, a Lei Geral de Proteção de Dados Pessoais, define os termos abaixo. A lei não menciona fotografia. A palavra imagem aparece só entre os fundamentos da proteção de dados (art. 2º, IV: a inviolabilidade da intimidade, da honra e da imagem).\n\n**Art. 5º, definições:**\n- **Dado pessoal (inciso I):** informação relacionada a pessoa natural identificada ou identificável.\n- **Dado pessoal sensível (inciso II):** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, e também dado de vida sexual, genético ou biométrico, quando ligado a uma pessoa natural. A lista inclui o \"dado referente à saúde\".\n- **Consentimento (inciso XII):** concordância do titular, dada livremente, com informação e de forma inequívoca, para o tratamento de seus dados com uma finalidade determinada.\n\n**Art. 11, tratamento de dado sensível:**\n- **Caput:** só pode ocorrer nas hipóteses que o artigo lista.\n- **Inciso I:** quando o titular ou o responsável legal consentir, de forma **específica e destacada**, para finalidades específicas.\n- **Inciso II:** sem consentimento, quando for indispensável para uma das hipóteses das alíneas a a g. A alínea f trata da tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária.\n- **§ 1º:** o artigo se aplica a qualquer tratamento que revele dado sensível e possa causar dano ao titular, ressalvada legislação específica.\n\n**Art. 4º, II, b:** a lei não se aplica ao tratamento feito exclusivamente para fins acadêmicos, mas, nesse caso, aplicam-se os arts. 7º e 11.\n\nA lei não trata de publicação em rede social. A autorização para divulgar imagens exigida na odontologia está na resolução do CFO, vista na seção anterior."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/fot-03.jpg",
+      "alt": "Dois sorrisos iguais: um com dominante azulada nos dentes e na gengiva e outro com cores fiéis, ao lado de uma folha branca de referência.",
+      "legenda": "Ilustração. Balanço de branco é o processo de tirar da foto as dominantes de cor irreais. O mínimo recomendado é usar o símbolo de flash ou de sol conforme a luz; o método ideal (\"custom\") é fotografar antes uma folha branca no ambiente e ajustar a câmera a esse padrão. Cor incorreta esconde lesões de tecido duro e dificulta avaliar as de tecido mole (Casaglia et al.; Rocha e Trigueiro).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "balanco-de-branco",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14733/img/fot-02.svg",
+      "alt": "Gráfico de barras da largura do dente 15: escaneamento 0,25 cm, DSLR 0,24, celular a 16 cm 0,17, a 20 cm 0,20, a 24 cm 0,22, a 28 cm 0,23 e a 32 cm 0,23.",
+      "legenda": "Gráfico com a linha do dente 15 da Tabela 1 de Moussa et al. (2021), em modelos de gesso: média e desvio-padrão da largura (cm). Nos quatro pré-molares, o celular a 16 e a 20 cm difere do escaneamento; nos dentes anteriores nenhuma distância diferiu. O texto do artigo é incoerente sobre quais distâncias diferem (ver a seção). Dados: Moussa et al., 2021 (CC BY).",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "moussa-distancia",
+      "largura": 800,
+      "altura": 690
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

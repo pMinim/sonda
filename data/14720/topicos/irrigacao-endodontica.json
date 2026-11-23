@@ -95,7 +95,35 @@
       "texto": "**Conduta posterior, segundo o cap. 20:**\n\n- depois de 1 dia, compressas mornas no lugar das frias e bochechos orais mornos, para estimular a microcirculação local;\n- **antibióticos geralmente prescritos**, com a administração proporcional à gravidade da destruição e da necrose de tecidos moles e duros: casos mais suaves podem ser tratados com medicamentos orais; os graves são mais bem controlados em ambiente hospitalar, por via intravenosa;\n- **corticosteroides: uso ambíguo**, porque o controle do edema disseminado precisa ser equilibrado com o aumento do risco de infecção;\n- monitorar de perto: aumento acentuado do edema ou sinais de obstrução iminente das vias respiratórias exigem encaminhamento imediato ao hospital ou a cirurgião bucomaxilofacial;\n- tranquilizar o paciente (a recuperação é geralmente completa e sem intercorrências, apesar da aparência atual), explicar por que ocorreu e o que esperar; recuperação monitorada e documentada diariamente até a resolução.\n\nO livro não traz, nessa seção, doses, vias ou fármacos específicos além dos grupos citados.\n\n**Prevenção (lista do cap. 20):**\n\n1. estabelecer comprimento de trabalho preciso e evitar instrumentação excessiva ou ampliação do forame;\n2. se irrigar com pressão positiva, usar agulha pequena com abertura lateral, posicionada **2 mm aquém do comprimento de trabalho**, injetar o fluido lentamente e observar se ele está passando pela cavidade de acesso;\n3. avaliar com cuidado a integridade do canal, em busca de perfuração ou outras grandes saídas de fluido;\n4. evitar travar a ponta da agulha no canal ou inseri-la além do comprimento de trabalho;\n5. confirmar qual é a solução antes de injetar ou irrigar.\n\n**Dois capítulos, duas redações.**\n\n- Antibiótico e corticosteroide: o cap. 8 (pp. 270–271) diz que os antibióticos não são obrigatórios (só em alto risco ou infecção secundária) e que os corticosteroides são controversos; o cap. 20 (pp. 738–739) diz que os antibióticos são \"geralmente prescritos\" e o corticosteroide, ambíguo.\n- Agulha: o cap. 8 (pp. 279–280) pede a agulha de extremidade aberta, perto do comprimento de trabalho; o cap. 20 (p. 739) pede agulha pequena com abertura lateral, 2 mm aquém do comprimento de trabalho.\n\nCada capítulo está na sua seção, sem harmonizar."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/ir-02.jpg",
+      "alt": "Ilustração. O irrigante só alcança o terço apical depois que o canal foi modelado o suficiente.",
+      "legenda": "Ilustração. O irrigante só alcança o terço apical depois que o canal foi modelado o suficiente.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "objetivo",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/ir-01.jpg",
+      "alt": "Ilustração. A agulha de calibre 27 (0,42 mm) mal alcança o terço médio num canal estreito; a de calibre 30 (0,32 mm) chega perto do apical se o canal for ampliado. Nunca encostar a agulha na parede.",
+      "legenda": "Ilustração. A agulha de calibre 27 (0,42 mm) mal alcança o terço médio num canal estreito; a de calibre 30 (0,32 mm) chega perto do apical se o canal for ampliado. Nunca encostar a agulha na parede.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "agulha",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14720/img/ir-03.jpg",
+      "alt": "Ilustração. O EDTA remove a camada de debris (smear layer) e abre os túbulos.",
+      "legenda": "Ilustração. O EDTA remove a camada de debris (smear layer) e abre os túbulos.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "edta",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

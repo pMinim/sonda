@@ -133,7 +133,26 @@
       "texto": "O livro adapta o protocolo de van Diermen e D'Amico e de recomendações do Hospital das Clínicas da FMUSP e do Hemocentro de São Paulo.\n\n**Continuidade da terapia.** RNI abaixo de 3,5: sem alterar ou suspender o anticoagulante em cirurgias mais simples. RNI de 3,5 ou mais com cirurgia mais complexa: é imprescindível trocar informações com o médico, para avaliar o risco e o benefício de alterar a terapia. Nas cirurgias eletivas de paciente com baixo risco de tromboembolismo venoso, o médico pode suspender ou substituir a varfarina por heparina sódica 4 a 5 dias antes.\n\n**Antibióticos.** Em prótese valvar ou outra condição de risco para endocardite, uma única dose profilática de amoxicilina ou clindamicina não pede alterar a terapia anticoagulante. Quem precisa de mais de uma dose deve ter o RNI reavaliado após 2 a 3 dias. Se possível, evite metronidazol e eritromicina.\n\n**Antes.** Faça história completa e avalie comorbidades (doença hepática ou renal, distúrbios da medula). Com RNIs estáveis, o RNI pode ser avaliado 72 horas antes da cirurgia bucal; caso contrário, no mesmo dia. Agende de manhã se possível. Urgência com expectativa de sangramento excessivo: atendimento hospitalar, depois de avaliação médica inicial.\n\n**Durante.** Anestésico local com vasoconstritor, de preferência epinefrina; evitar bloqueios regionais; na mandíbula, preferir a técnica infiltrativa ou intraóssea com articaína. Evitar traumatismo desnecessário, limitar a instrumentação periodontal, dividir exodontias múltiplas em mais sessões, suturas oclusivas e pressão com gaze por 15 a 30 minutos.\n\n**Depois.** Esponja hemostática de gelatina reabsorvível; bochecho de ácido tranexâmico a 4,8% por 48 horas; suturas não reabsorvíveis removidas em 4 a 7 dias. Para dor, **não prescrever AAS nem AINEs (inclusive os coxibes)**; optar pela dipirona. Considerar corticosteroide em dose única, após conversar com o médico. (O Quadro 19.1 lista os corticosteroides entre os fármacos que potencializam a varfarina; o livro não comenta a diferença.) Não aplicar medicamento por via intramuscular, pelo risco de hemorragia, equimose e hematoma.\n\n**Interações (Quadro 19.1).** Podem potencializar a varfarina e elevar o RNI: AAS, paracetamol, anti-inflamatórios, corticosteroides, cefalosporinas, eritromicina, azitromicina, metronidazol, tetraciclinas e ciprofloxacino. O perigo está em iniciar ou retirar o fármaco: dose o RNI com mais frequência.\n\n**Novos anticoagulantes.** O livro cita dabigatrana e rivaroxabana como possíveis substitutas da varfarina, sem monitoramento e com poucas interações. O capítulo não traz conduta odontológica específica para elas."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/aco-01.jpg",
+      "alt": "Esquema em Y da coagulação: via intrínseca com os fatores XII, XI, IX e VIII à esquerda, via extrínseca com fator tecidual e VII à direita, via comum com X, V, protrombina, fibrinogênio e fibrina embaixo. Chaves marcam o que o aPTT, o PT e o TT medem.",
+      "legenda": "Esquema. As vias intrínseca e extrínseca convergem na via comum; o aPTT mede a intrínseca e a comum, o PT mede a extrínseca e a comum, e o TT mede a conversão do fibrinogênio em fibrina. Plaquetas são contadas à parte.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "triagem-plaquetas",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/13744/img/aco-02.jpg",
+      "alt": "Régua do INR de 2,0 a 4,0 com duas faixas de meta (2,0 a 3,0 e 2,5 a 3,5), a faixa de 2,0 a 3,5 sem ajuste de dose para cirurgia pequena e a zona acima de 3,5 em vermelho, em que se pede ao médico reduzir a dose.",
+      "legenda": "Esquema. Com INR de 3,5 ou menos a varfarina é mantida em cirurgia oral pequena; acima disso, a dose é ajustada pelo médico. A literatura é menos clara para cirurgia bucal maior.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "varfarina-inr",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

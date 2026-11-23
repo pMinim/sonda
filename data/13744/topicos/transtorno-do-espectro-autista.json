@@ -138,7 +138,26 @@
       "texto": "Do documento da **AAPD (EUA)** sobre estabilização protetora, revisão de 2024.\n\n**Treinamento.** Tentar estabilizar sem treino adequado expõe a risco o paciente, o cuidador, o clínico e a equipe. O documento diz que o profissional **deve** ter formação teórica e prática além da graduação e que a equipe **deve** ser treinada em técnicas seguras e humanas.\n\n**Precauções.** Antes, revisar o histórico médico em busca de condições ou medicamentos que comprometam a função fisiológica ou contraindiquem a técnica: instabilidade cardíaca, pulmonar e respiratória; problemas de alinhamento musculoesquelético ou fraqueza; hipermobilidade articular; fragilidade óssea; vulnerabilidade da pele ao estresse mecânico; instabilidade psicológica; distúrbios de termorregulação; medicamentos psicotrópicos.\n\n**Durante:**\n- usar a **alternativa menos restritiva**; as estabilizações ativa e passiva podem ser combinadas;\n- aperto e duração **devem** ser monitorados e reavaliados em intervalos regulares;\n- a estabilização em torno de membros ou do tórax **não pode** restringir ativamente a circulação nem a respiração, e **não deve causar dor**;\n- observar a linguagem corporal e avaliar a dor de forma contínua, e modificar o procedimento ao primeiro sinal de desconforto;\n- manter comunicação contínua, com empatia e instruções claras;\n- iniciar com a criança deitada de costas, o mais confortável possível; em estabilização de corpo inteiro, a restrição é feita em sequência e o apoio de cabeça, se houver, é ativado por último;\n- não fazer quantidade excessiva de tratamento enquanto o paciente está imobilizado: a saúde física e psicológica prevalece sobre conveniência ou remuneração;\n- em estresse grave ou histeria, **terminar a estabilização o mais rápido possível**.\n\n**Equipamento passivo adjunto.** Deve ser fácil de usar, do tamanho adequado, macio e contornado, **feito para estabilização (não improvisado)** e desinfetável.\n\n**Remoção.** Pode ser em sequência, com pausas curtas para avaliar a cooperação; lutar durante a remoção pode aumentar o risco de lesão para todos. Fazer debriefing com pais e paciente quando a imobilização foi imprevista.\n\n**Riscos.** A maioria das lesões é de hematomas e arranhões leves, mas há relatos de lesões mais graves; há menos lesões com estabilização passiva do que com a ativa. Com **prancha rígida**, o paciente pode superaquecer, **nunca** deve ficar sem supervisão e pode ter a via aérea comprometida se o pescoço não puder estender por inteiro, sobretudo em crianças pequenas ou sedadas. A liberação de catecolaminas na agitação pode sensibilizar o coração e causar arritmias."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/tea-01.jpg",
+      "alt": "Escada de degraus: livro ou vídeo, treino em casa com espelho, visita ao consultório sem tratamento e, no topo, a consulta.",
+      "legenda": "Ilustração. Dessensibilização: exposição gradual, em etapas, aos componentes que provocam ansiedade (livro, vídeo ou site; treino em casa com espelho; visita ao consultório sem tratamento) e, só depois, a consulta. A AAPD a indica a quem tem medo, ansiedade e transtornos do neurodesenvolvimento, incluindo o autismo; sem contraindicação.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aapd-tea-tecnicas",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/13744/img/tea-02.jpg",
+      "alt": "Consultório odontológico com luz baixa, projeção colorida no teto, música suave e uma criança na cadeira coberta por uma manta de pressão profunda.",
+      "legenda": "Ilustração. Ambiente sensorial adaptado: luz baixa, projeções móveis no teto, música suave, manta ou envoltório de pressão profunda. A AAPD o indica a pacientes com transtorno do espectro autista, dificuldades de processamento sensorial, outras deficiências ou ansiedade odontológica; sem contraindicação.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aapd-tea-tecnicas",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

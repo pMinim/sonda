@@ -149,7 +149,17 @@
       "texto": "**Fonte: manual prático organizado por Varellis, cap. 14.** A Tabela 14.8 é adaptada de Chisholm e Ferguson (2010), segundo o próprio livro. Numeração da edição digital; fronteira entre páginas não confirmada.\n\n**Princípios:** a barreira placentária não filtra por completo; use a menor dose efetiva pelo menor tempo, evite sessões demoradas e estressantes e oriente a paciente sem aumentar o medo.\n\n**Anestésico local:** o de eleição é a **lidocaína com vasoconstritor** (a 2%, com epinefrina ou norepinefrina), em seringa com aspiração; o vasoconstritor pode causar taquicardia e aumento da pressão, e a lidocaína, arritmias. O manual manda **evitar prilocaína e felipressina**, que descreve como tóxicas ao feto e ao recém-nascido, com risco de meta-hemoglobinemia (a prilocaína contém tolueno, e seu metabólito oxida o ferro da hemoglobina). Na Tabela 14.10, lidocaína e prilocaína aparecem como nível B, e bupivacaína e mepivacaína como nível C. O manual não concilia o texto com a Tabela 14.10.\n\n**Analgésicos e anti-inflamatórios:**\n- **Paracetamol:** 500 mg a cada 6 h; o de escolha (Tabela 14.8).\n- **Dipirona, com restrições:** 1 comprimido ou 35 gotas a cada 6 h.\n- **Ácido acetilsalicílico:** o texto (p. 127) diz que é contraindicado, pelo efeito sobre a coagulação; no último trimestre pode causar sangramento fetal e da mãe, prolongar a gestação e o parto. A Tabela 14.8 (p. 125) lista o ácido acetilsalicílico com \"evitar no 1º e no 3º trimestre e na amamentação\" e \"curtos períodos\". O manual não concilia o texto com a tabela.\n- **Diclofenaco:** o manual diz para não usar no último trimestre e, no mesmo trecho, para usar só com indicação formal e a menor posologia eficaz, sobretudo nos três últimos meses (inércia uterina, fechamento prematuro do canal arterial). Como alternativa, meios físicos: frio nas primeiras 2 h após o trauma ou calor local depois de 24 h.\n\n**Antibióticos:**\n- **Penicilinas:** 500 mg a cada 6 ou 8 h, conforme a gravidade (o texto agrupa nessa linha penicilinas e cefalosporinas; a via não vem). A penicilina V ou a amoxicilina podem ser usadas.\n- **Alergia:** o texto (p. 127) e a Tabela 14.4 indicam eritromicina (a tabela cita também clindamicina); mas a Tabela 14.8 diz para evitar a eritromicina por potencial hepatotoxicidade materna. A Tabela 14.4 diz que não há iatrogenias descritas. O manual não concilia.\n- **Cefalosporinas:** a Tabela 14.4 diz 1ª geração liberada e as demais a evitar por falta de estudos; a Tabela 14.8 lista a cefalosporina sem restrições. O manual não concilia.\n- **Tetraciclinas:** proibidas na gestação, pelo risco de pigmentação dentária, hipoplasia de esmalte e inibição do desenvolvimento ósseo. Cloranfenicol e estreptomicina são contraindicados."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/ges-01.jpg",
+      "alt": "Gestante na cadeira odontológica semirreclinada, inclinada para o lado esquerdo com uma cunha de apoio, e um pequeno diagrama do útero deixando de comprimir a veia na posição inclinada.",
+      "legenda": "Ilustração. Na gestante, evite tempo prolongado na cadeira por causa da hipotensão supina: consultas curtas, posição semirreclinada e trocas frequentes de posição. Se ocorrer hipotensão, role a paciente para o lado esquerdo (Little e Falace, EUA).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "lf-epoca",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

@@ -109,7 +109,17 @@
       "texto": "**Fosfato de zinco.**\n- Pó e líquido em placa de vidro resfriada e enxugada; frasco tampado, com o líquido dispensado só na hora, porque perder ou ganhar água altera o cimento.\n- Pó em incrementos de cerca de 3 mm, cada um misturado por 10 a 20 s em área ampla, devagar: a mistura resfria, neutraliza a acidez e retarda a presa.\n- **Consistência:** ao levantar a espátula, o cimento forma um fio de cerca de 10 mm. Se escorre rápido, está fino demais. Se precisa ser empurrado, está grosso demais, e isso não se corrige com líquido: refaça a mistura. Mais pó dá cimento mais resistente e menos ácido. Pó adicionado devagar prolonga a presa; adicionado depressa, encurta a presa e enfraquece o cimento.\n\n**Policarboxilato.** Proporção de 1,5 de pó para 1,0 de líquido, com mistura em até 30 s (p. 407).\n\n**Aplicar.** Pincele o cimento na peça limpa e seca. Pincelar deu discrepância de assentamento cerca de um terço menor que encher a peça até a metade, e mais de dois terços menor que encher por completo.\n\n**Assentar.** Em posteriores com oclusão uniforme, o paciente oclui sobre um wafer plástico ou palito de madeira. Coroas anteriores, ou as que ocluem em um só ponto, podem inclinar; use o dedo com rolinho de algodão. A vibração com o cabo de espelho assenta melhor que força estática.\n\n**Confirmar.** Apalpe a margem supragengival com a sonda, através do cimento extrudado, ou retire o palito, peça oclusão com um shim entre os vizinhos. Se não assentou, remova antes da presa e repita. Mantenha o campo seco até a presa: o fosfato é muito solúvel se molhado cedo.\n\n**Excesso.** Não remova o excesso mole, porque ele protege as margens. Depois da presa, use scaler, sonda e fio dental com nó, e confira o sulco com a sonda várias vezes."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/cim-02.jpg",
+      "alt": "Dois quadros: coroa sendo assentada com pressão do dedo e cimento escoando na margem cervical; e remoção do excesso de cimento com sonda e fio dental na proximal.",
+      "legenda": "Ilustração. A: pressão digital firme e uniforme, de cerca de 4 kg, por 1 minuto, olhando se o cimento escoa em todo o contorno cervical. B: depois da presa, remoção do excesso com a sonda e fio dental nas proximais (Pegoraro). Com cimento resinoso, o livro mostra pré-fotoativação de 10 s antes de remover o excesso nas proximais.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "assentamento-pegoraro",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

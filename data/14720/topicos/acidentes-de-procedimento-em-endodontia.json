@@ -100,7 +100,17 @@
       "texto": "Enfisema subcutâneo é a entrada de ar na pele e na submucosa; na endodontia pode vir de ar comprimido (seringa de ar ou peça de mão de alta velocidade) ou de peróxido de hidrogênio além do canal, e dá inchaço sem vermelhidão, com crepitação à palpação (cap. 20, p. 778). Para evitar: isole com dique de borracha, seque os canais com pontas de papel ou aspiração de alto volume em vez de seringa de ar e evite o peróxido de hidrogênio."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/ad-04.jpg",
+      "alt": "Ilustração. Duas causas de fratura de instrumento: torção, com a ponta presa, e fadiga por flexão na curva.",
+      "legenda": "Ilustração. Duas causas de fratura de instrumento: torção, com a ponta presa, e fadiga por flexão na curva.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "fratura-causas-cap20",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

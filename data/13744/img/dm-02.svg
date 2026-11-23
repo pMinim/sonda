@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 686" width="800" height="686" role="img">
+  <title>A relação nos dois sentidos: diabetes e doença periodontal</title>
+  <desc>Dois círculos, Diabetes e Doença periodontal, ligados por duas setas curvas. A de cima lista inflamação aumentada, cicatrização deprimida e alterações dos vasos pequenos; a de baixo diz que saúde periodontal ruim se associa a controle glicêmico ruim.</desc>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F4D4F"/></marker></defs>
+  <rect x="0" y="0" width="800" height="686" fill="#FAF7F0"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <rect x="30" y="20" width="740" height="129.4" rx="14" fill="#FFFFFF" stroke="#B86A3C" stroke-width="2.5"/>
+  <text x="44" y="54.58" font-size="21" fill="#B86A3C" font-weight="700">1. Diabetes para periodonto</text>
+  <text x="44" y="79.92" font-size="19" fill="#4A5B5C">Mais inflamação gengival, mais abscesso periodontal, mais doença</text>
+  <text x="44" y="104.62" font-size="19" fill="#4A5B5C">periodontal crônica. Três razões do livro: respostas inflamatórias</text>
+  <text x="44" y="129.32" font-size="19" fill="#4A5B5C">aumentadas, cicatrização deprimida, alterações dos vasos pequenos.</text>
+  <circle cx="140" cy="295.4" r="100" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="3"/>
+  <circle cx="660" cy="295.4" r="100" fill="#E2CDB2" stroke="#1F4D4F" stroke-width="3"/>
+  <text x="140" y="302.4" font-size="24" fill="#1F4D4F" font-weight="700" text-anchor="middle">Diabetes</text>
+  <text x="660" y="287.4" font-size="24" fill="#1F4D4F" font-weight="700" text-anchor="middle">Doença</text>
+  <text x="660" y="317.4" font-size="24" fill="#1F4D4F" font-weight="700" text-anchor="middle">periodontal</text>
+  <path d="M248,259.4 Q400,155.4 552,259.4" fill="none" stroke="#B86A3C" stroke-width="5" marker-end="url(#ah)"/>
+  <path d="M552,331.4 Q400,435.4 248,331.4" fill="none" stroke="#1F4D4F" stroke-width="5" marker-end="url(#ah)"/>
+  <text x="400" y="197.4" font-size="26" fill="#B86A3C" font-weight="700" text-anchor="middle">1</text>
+  <text x="400" y="419.4" font-size="26" fill="#1F4D4F" font-weight="700" text-anchor="middle">2</text>
+  <rect x="30" y="415.4" width="740" height="129.4" rx="14" fill="#FFFFFF" stroke="#1F4D4F" stroke-width="2.5"/>
+  <text x="44" y="449.98" font-size="21" fill="#1F4D4F" font-weight="700">2. Periodonto para diabetes</text>
+  <text x="44" y="475.32" font-size="19" fill="#4A5B5C">Saúde periodontal ruim se associa a controle glicêmico ruim: é associação,</text>
+  <text x="44" y="500.02" font-size="19" fill="#4A5B5C">sem número e sem dizer qual vem primeiro. Infecção bucal aguda costuma</text>
+  <text x="44" y="524.72" font-size="19" fill="#4A5B5C">levar à perda do controle do diabetes.</text>
+  <rect x="30" y="560.8" width="740" height="77.4" rx="14" fill="#E2CDB2" stroke="#E2CDB2" stroke-width="2.5"/>
+  <text x="44" y="593.42" font-size="19" fill="#1F4D4F" font-weight="700">O capítulo não traz o efeito do tratamento periodontal sobre a</text>
+  <text x="44" y="618.12" font-size="19" fill="#1F4D4F" font-weight="700">glicemia ou a HbA1c.</text>
+  <text x="30" y="664.2" font-size="18" fill="#4A5B5C">Little e Falace, 9ª ed., cap. 14 (EUA).</text>
+  </g>
+</svg>
