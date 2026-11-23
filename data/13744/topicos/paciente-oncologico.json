@@ -1,0 +1,595 @@
+{
+  "slug": "paciente-oncologico",
+  "titulo": "Paciente oncológico: mucosite, xerostomia e osteorradionecrose",
+  "area": "Pacientes Especiais",
+  "origem": "Neville 5ª ed., cap. 8, pp. 273–278 (complicações da terapia antineoplásica); Varellis 3ª ed., cap. 13",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap08",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 8, Lesões Físicas e Químicas, p. 265–312 (numeração da edição digital).",
+      "curta": "Neville 5ª ed., cap. 8"
+    },
+    {
+      "id": "varellis3-cap13",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 13, Pacientes Oncológicos, p. 107–113 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 13"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "visao-geral",
+      "titulo": "O que a terapia anticâncer faz na boca",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, abertura, Características clínicas, Hemorragia, Anormalidades do desenvolvimento, p. 273–276",
+      "texto": "As seções seguintes, até o tratamento da osteorradionecrose, são do **Neville 5ª ed., cap. 8**. O Varellis vem depois, em seções próprias.\n\n**Por que a boca sofre.** Segundo o Neville, nenhum tratamento sistêmico contra o câncer destrói as células do tumor sem matar algumas células normais, e os tecidos de renovação rápida são os mais atingidos. A boca é um local comum de complicação. Quanto mais potente o tratamento, maior o risco. Mucosite grave pode exigir **reduzir a dose da quimioterapia** ou **pausar a radioterapia**, com possível impacto negativo no prognóstico a longo prazo.\n\n**Na quimioterapia**, duas alterações agudas predominam, sobretudo nos tumores que pedem doses altas (como a leucemia): **mucosite** e **hemorragia**.\n\n**Na radioterapia**, os efeitos agudos mais frequentes são a mucosite dolorosa e a dermatite. Várias alterações crônicas persistem muito depois do fim do tratamento. Conforme o campo irradiado, a dose e a idade, o livro lista: xerostomia, perda do paladar (hipogeusia), osteorradionecrose, trismo, dermatite crônica e anormalidades do desenvolvimento.\n\n**Hemorragia intraoral.** Em regra é secundária à **trombocitopenia por supressão da medula óssea**. O dano intestinal ou hepático pode reduzir os fatores de coagulação dependentes de vitamina K e alongar o tempo de coagulação. O dano tecidual pode liberar tromboplastina e causar coagulação intravascular disseminada (CID), potencialmente devastadora. O sinal mais comum é **petéquia ou equimose por trauma mínimo**, sobretudo em mucosa labial, língua e gengiva.\n\n**Criança.** A terapia antineoplásica na infância pode afetar o crescimento dos ossos faciais e os dentes em desenvolvimento (raízes deformadas ou curtas, calcificação incompleta, microdontia, hipodontia)."
+    },
+    {
+      "id": "mucosite",
+      "titulo": "Mucosite: frequência, quadro e curso",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, Características clínicas, p. 273–275",
+      "texto": "A mucosite oral isolada é, segundo o Neville, a complicação mais debilitante das altas doses de quimioterapia e da radioterapia de cabeça e pescoço.\n\n**Frequência (números do Neville):**\n- 20 a 40% dos pacientes em quimioterapia sistêmica;\n- 80% dos pacientes em quimioterapia em doses altas;\n- quase todos os pacientes em radioterapia de cabeça e pescoço para tumores profundos.\n\n**Fatores de risco adicionais:** idade precoce, sexo feminino, higiene oral deficiente, focos de infecção oral, deficiência nutricional, função salivar diminuída, tabaco e álcool.\n\n**Quadro.** A mucosite da quimioterapia e a da radioterapia são clinicamente semelhantes. Começam após alguns dias de tratamento; a da radiação pode aparecer durante a segunda semana. As duas desaparecem devagar, **2 a 3 semanas depois do fim do tratamento**.\n\n**Onde.** Na quimioterapia, as superfícies não queratinizadas: mucosa jugal, face ventrolateral da língua, palato mole e assoalho. Na radioterapia, as superfícies voltadas para o foco de radiação.\n\n**Evolução.**\n1. Mucosa esbranquiçada, por falta de descamação da queratina.\n2. Perda dessa camada: mucosa atrófica, edemaciada, eritematosa e friável.\n3. Ulceração coberta por membrana fibrinopurulenta amarelada, removível.\n\nDor, ardência e desconforto pioram com a alimentação e com a higiene.\n\n**Consequências.** Maior necessidade de nutrição parenteral total, internações mais longas, bacteriemia e sepse."
+    },
+    {
+      "id": "mucosite-tratamento",
+      "titulo": "Mucosite: o que o Neville traz de tratamento",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 276–277",
+      "texto": "Segundo o Neville, o padrão de cuidado da mucosite continua sendo **paliativo e combinado**. A melhor fonte são as diretrizes do grupo de estudo de mucosite da MASCC/ISOO (associações internacionais de cuidados de suporte e oncologia oral), adotadas pela sociedade europeia de oncologia clínica e pela NCCN (EUA). O livro diz que são poucas as intervenções com respaldo científico sólido.\n\n**O que o livro descreve:**\n- **Palifermina** (fator de crescimento de queratinócitos): único agente aprovado pela FDA (EUA) para prevenir a mucosite. Uso limitado a quimioterapia em altas doses e irradiação corporal total antes de transplante autólogo, em câncer hematológico. Há preocupação de que o fator de crescimento estimule células tumorais em carcinomas.\n- **Crioterapia** (gelo, água gelada ou picolé na boca, 5 minutos antes da quimioterapia e por 30 minutos): reduz prevalência e gravidade da mucosite por **5-fluorouracila intravenosa em bolus** (tumores sólidos) ou por **melfalano em altas doses** antes de transplante. Age por vasoconstrição local, em fármacos de meia-vida curta. **Não afeta a mucosite por radiação.**\n- **Benzidamina** (anti-inflamatório com ação analgésica e anestésica tópica): recomendada pela MASCC/ISOO para prevenção em câncer de cabeça e pescoço com radioterapia de até 50 Gy, sem quimioterapia concomitante.\n- **Zinco:** na revisão da MASCC/ISOO, a suplementação reduziu a mucosite em radioterapia ou quimiorradioterapia por câncer oral.\n- **Laser de baixa intensidade (fotobiomodulação):** menor prevalência de mucosite em pacientes selecionados; efeito mais forte em quimioterapia em altas doses antes de transplante e na radioterapia de cabeça e pescoço sem quimioterapia. O Neville não traz parâmetros de aplicação.\n\n**Sem evidência suficiente para a MASCC/ISOO:** o sucralfato e o \"enxaguante bucal mágico\". **Recomendados:** enxaguatório de doxepina a 0,5% ou de morfina a 2%. Se a terapia tópica não bastar, analgesia controlada pelo paciente com morfina ou fentanila transdérmica é preferida.\n\n**Na radioterapia,** bloqueadores na linha média ou radioterapia tridimensional reduzem o volume de mucosa irradiada; rolos de algodão ou protetores sobre restaurações metálicas evitam potencialização local da radiação."
+    },
+    {
+      "id": "hipossalivacao",
+      "titulo": "Xerostomia (hipossalivação), cárie e paladar",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Distúrbios do paladar, Tratamento e prognóstico, p. 275–278",
+      "texto": "**Por que acontece.** As glândulas salivares são muito sensíveis à radiação. As mudanças começam **1 semana após o início** da radioterapia, com queda intensa do fluxo nas **6 primeiras semanas**; pode haver perda adicional por até 3 anos. As glândulas serosas são mais sensíveis que as mucosas: as parótidas, muito expostas, são afetadas de forma irreversível; as mucosas podem recuperar cerca de 50% do fluxo pré-radiação após vários meses.\n\n**O que o paciente sente e o que acontece.** A secura atrapalha comer, usar prótese, falar e dormir. A cárie aumenta com frequência, mesmo sem história prévia de cárie, e é predominantemente **cervical** (cárie relacionada à radiação). A radiação também reduz a microdureza e a resistência dos dentes.\n\n**Conduta descrita pelo Neville:**\n- evitar tabaco e álcool;\n- **flúor tópico diário** (fluoreto de sódio neutro a 1,1%);\n- substitutos da saliva e umectantes: gel, balas e chicletes **sem açúcar**, xilitol;\n- evitar líquidos de pH baixo ou muito açucarados;\n- preferir água fluoretada não filtrada à filtrada;\n- cárie por radiação: cuidado profissional regular, verniz de flúor, pastas remineralizantes, restaurações com material adesivo (resina).\n\n**Sialagogos sistêmicos** (pilocarpina, cevimelina, betanecol) só quando restam glândulas funcionais. **Contraindicações citadas:** asma, úlcera gastrintestinal, hipertensão descontrolada, glaucoma, doença pulmonar obstrutiva crônica e doença cardiovascular significativa (o betanecol, em especial, não em asma e glaucoma de ângulo estreito). Efeitos adversos: sudorese excessiva, rinite, cefaleia, náusea, poliúria, flatulência e distúrbios circulatórios.\n\n**Para reduzir o dano às glândulas:** a radioterapia de intensidade modulada (IMRT) parece preservar mais as glândulas que a convencional. A amifostina reduziu a gravidade e a duração da hipossalivação na radioterapia, não na quimioterapia, com efeitos colaterais.\n\n**Paladar.** Em irradiados, a perda dos quatro paladares se instala em várias semanas e reverte em até 4 meses na maioria; alguns ficam com hipogeusia permanente ou disgeusia persistente."
+    },
+    {
+      "id": "orn",
+      "titulo": "Osteorradionecrose: o que é e quem tem risco",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276",
+      "texto": "O Neville define a osteorradionecrose (ORN) como \"exposição de um osso não vital que persiste por mais de 3 meses\", na ausência de doença neoplásica. É uma das complicações mais graves da radioterapia de cabeça e pescoço. O livro trata a ORN **aqui, dentro das complicações da terapia antineoplásica**, e não na seção de osteonecrose por medicamentos (que tem tema próprio no app).\n\n**Quanto e quando (números do Neville):**\n- prevalência perto de 15% em estudos antigos; **5%** com IMRT e radioterapia tridimensional conformacional, que reduzem a dose máxima nos maxilares;\n- a maioria dos casos ocorre com **mais de 60 Gy** e entre **4 meses e 3 anos** depois da radioterapia;\n- 70% dos casos aparecem nos primeiros 3 anos, mas o **risco de ORN induzida por trauma dura a vida toda**.\n\n**Gatilho.** Em algumas circunstâncias vem de trauma local, como exodontia; a minoria parece espontânea.\n\n**Onde.** A mandíbula é afetada **24 vezes mais** que a maxila, e o processo é **3 vezes mais comum em pacientes dentados**.\n\n**Como se apresenta.** Radiograficamente, áreas radiolúcidas mal definidas com zonas relativamente radiopacas, onde o osso não vital se separa do vital. Podem aparecer dor intratável, perfuração cortical, fístula, ulceração e fratura patológica.\n\n**Fatores de risco.** O principal é a dose de radiação. Também contam a proximidade do tumor com o osso, a dentição remanescente e o tipo de tratamento. Adicionais: idade avançada, sexo masculino, má higiene ou estado nutricional ruim, uso contínuo de tabaco ou álcool.\n\n**Outro livro.** O Varellis (manual) dá outros valores para incidência, prazo de confirmação e dose de risco; ver a seção \"Varellis: radioterapia, xerostomia e osteorradionecrose\". Os dois livros diferem e o tema não escolhe."
+    },
+    {
+      "id": "prevencao-trismo",
+      "titulo": "Preparo antes da radioterapia, cuidados durante e trismo",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose (prevenção), Trismo, Tratamento e prognóstico, p. 276",
+      "texto": "O Neville diz que o ideal é o cirurgião-dentista entrar **antes** do início da terapia antineoplásica.\n\n**Antes de começar:**\n- extrair os dentes **sem possibilidade de tratamento restaurador** e os com **doença periodontal avançada**;\n- eliminar focos de infecção oral e manter excelente higiene;\n- orientar o paciente a abandonar tabaco e álcool;\n- deixar um intervalo de cicatrização de **pelo menos 3 semanas** entre procedimentos dentários extensos e o início da radioterapia, o que diminui bastante a chance de necrose óssea.\n\n**Durante a radioterapia:** exodontia ou qualquer trauma ósseo é **contraindicado**.\n\n**Depois de iniciado o tratamento,** o esforço é aliviar a dor, prevenir desidratação, manter a nutrição, eliminar focos de infecção e manter a higiene oral.\n\n**Trismo.** Pode se desenvolver e dificultar a higiene e o tratamento odontológico. O livro descreve espasmos musculares tônicos, com ou sem fibrose dos músculos da mastigação e da cápsula da ATM, como causa da dificuldade de abertura. Quando essas estruturas recebem doses altas, **exercícios de abertura da boca** podem diminuir ou prevenir o problema.\n\n**O que o capítulo não traz:** o Neville não detalha a sequência do atendimento odontológico pré-radioterapia além do que está acima, nem número de sessões de exercício."
+    },
+    {
+      "id": "orn-tratamento",
+      "titulo": "Osteorradionecrose: tratamento, em resumo",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, Tratamento e prognóstico, p. 278",
+      "texto": "O livro enfatiza a prevenção (seção anterior), mas os casos acontecem. A conduta depende da gravidade: na doença localizada, em paciente assintomático ou levemente sintomático, o tratamento é **conservador**, com higiene oral otimizada e antibióticos sistêmicos; nos casos avançados (extensão até a borda inferior da mandíbula, fístula ou fratura patológica), a terapia primária é a ressecção cirúrgica com reconstrução imediata. Entre os dois extremos, o Neville cita pentoxifilina e tocoferol (antioxidante e antifibrótico), muitas vezes combinados com sequestrectomia ou saucerização, e diz que uma metanálise os achou mais eficazes que antibióticos ou oxigênio hiperbárico. O oxigênio hiperbárico, para o livro, é caro, com contraindicações e reações adversas, e muitos o reservam para ORN persistente resistente a outras formas. O tema não traz doses."
+    },
+    {
+      "id": "varellis-quimio",
+      "titulo": "Varellis: quimioterapia, medula óssea e plaquetas",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Introdução, Quimioterapia, Reações adversas, Avaliação pré-quimioterapia, p. 107–109",
+      "texto": "**Fonte desta seção e das duas seguintes:** o Varellis, manual prático organizado por Maria Lucia Zarvos Varellis (Guanabara Koogan, 3ª ed., 2017), com numeração da edição digital. Os números abaixo são dele. O livro-texto clássico de patologia ao lado é o Neville, nas seções anteriores.\n\n**Por que há efeito na boca.** Nenhuma terapia diferencia as células doentes das normais, incluindo a mucosa bucal e a medula óssea. Por isso os efeitos colaterais na boca podem ser transitórios ou crônicos.\n\n**Medula óssea.** A maioria dos fármacos afeta a medula (glóbulos brancos, vermelhos e plaquetas). Os fármacos que afetam a medula atacam sobretudo os glóbulos brancos, e as medidas contra infecção valem para esse paciente. A boca abriga muitas bactérias e é porta de entrada de patógenos que podem ser fatais no imunossuprimido.\n\n**Plaquetas baixas.** Sinais: sangramento persistente e petéquias na boca ou nas pernas. Orientações do livro:\n- evitar ferimentos; se ferir, comprimir o local por **10 minutos**;\n- escova de cerdas **macias**;\n- não usar medicamento com **ácido acetilsalicílico** sem o conhecimento e o consentimento do médico, porque ele altera a coagulação;\n- orientar a higiene, sobretudo na plaquetopenia, pelo risco de sangramento.\n\n**O que aumenta o risco de complicação bucal, segundo o livro:**\n- do fármaco: grau de estomatotoxicidade, dose única maior que fracionada, radioterapia associada;\n- do paciente: idade mais jovem, doenças malignas do sangue e neoplasias do trato gastrintestinal, e estado bucal (higiene deficiente, focos infecciosos e doença periodontal elevam o risco de infecção).\n\nA estomatotoxicidade pode ser **direta** (ação do fármaco) ou **indireta** (infecções bacterianas, odontogênicas, fúngicas ou virais). O livro pede integração entre dentista e oncologista."
+    },
+    {
+      "id": "varellis-mucosite",
+      "titulo": "Varellis: mucosite, cuidados e laserterapia",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Complicações bucais, Mucosite, Laserterapia, p. 108–109",
+      "texto": "**Fonte: Varellis (manual).** Os números são do Varellis; o Neville tem os seus, na seção da mucosite.\n\n**Definição.** Para o livro, mucosite e estomatite **não são sinônimos**: a mucosite oral é a reação inflamatória tóxica aos quimioterápicos (eritema ou ulceração); estomatite é qualquer transtorno inflamatório dos tecidos orais.\n\n**Curso (números do Varellis):**\n- a forma eritematosa é mais frequente 5 a 7 dias após a exposição (pode ser em até 3 dias);\n- a ulcerosa aparece em 7 dias do início;\n- o epitélio normal é todo substituído entre 9 e 16 dias;\n- a ulcerativa pode surgir 2 semanas depois do início, em cerca de 40% dos pacientes em quimioterapia, e em cerca de 50% destes é grave;\n- sem complicação por infecção, autolimita-se em 2 a 4 semanas.\n\n**Cuidados listados:** limpeza atraumática, lábios úmidos, enxágues suaves com solução salina ou bicarbonato, lubrificantes hidrossolúveis, película de hidroxipropilcelulose, analgésicos, triamcinolona em pomada, dexametasona (enxaguar 3 a 4 vezes ao dia), água bicarbonatada (bochechar 3 a 4 vezes ao dia). Enxaguantes com **álcool não devem ser usados**; creme dental é permitido se tolerado.\n\n**Anestésico tópico: o livro mostra dois lados.** Na p. 108 lista a xilocaína viscosa a 2% sobre as áreas doloridas, não antes das refeições, para evitar aspiração de alimento. Na p. 109 diz que os anestésicos tópicos trazem aditivos que podem intensificar a mucosite. O tema não escolhe entre os dois.\n\n**Laserterapia (parâmetros do manual, p. 109).** Descrita como eficaz, com remissão imediata. Protocolo do livro: higiene, bochechos bicarbonatados e laser terapêutico nas lesões, **4 J/cm²**, em **três aplicações em dias alternados**. Recomendação: comprimento de onda de **650 nm**, **70 a 100 mW**. O livro também a indica como prevenção, antes do início da quimioterapia. O paciente deve procurar o dentista ao primeiro sinal de mucosite."
+    },
+    {
+      "id": "varellis-radio",
+      "titulo": "Varellis: radioterapia, xerostomia e osteorradionecrose",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Radioterapia, Xerostomia, Osteorradionecrose, Disfagia, Candidíase, Trismo, Cárie de radiação, p. 110–111",
+      "texto": "**Fonte: Varellis (manual).** Os números são dele, dados em cGy. Eles diferem dos do Neville em incidência da ORN, prazo de confirmação e dose de risco; ver a seção sobre osteorradionecrose do Neville. O tema não escolhe.\n\nO livro estima que **40%** dos pacientes em tratamento oncológico intensivo têm complicações orais, cicatrização difícil e menor resistência a infecções.\n\n**Xerostomia.** Transitória ou permanente, conforme a glândula esteja ou não no campo; começa com dose a partir de **2.000 cGy**. Sem saliva: mais bactérias cariogênicas, cárie (principalmente de colo), problema periodontal, perda do paladar e dificuldade de retenção de prótese; saliva mais ácida favorece a candidíase. Alívio: saliva artificial com sais minerais e fluoreto de sódio, gel umectante ou estímulo salivar se houver fluxo.\n\n**Osteorradionecrose (ORN).**\n- exposição de osso necrótico, com perda da mucosa ou da pele que o recobre; período mínimo de exposição óssea de **3 a 6 meses** para confirmar;\n- sinais: fístula, trismo, drenagem purulenta, dor, desconforto e dificuldade de mastigar;\n- incidência de **2 a 10%**, conforme dose total e localização; maior em idosos e em homens acima de 40 anos; mandíbula mais afetada (osso compacto, menos fluxo sanguíneo que a maxila);\n- o livro acredita que o risco é permanente e maior com dose total acima de **5.000 cGy**;\n- tratamento: antibióticos para irrigação local, câmara hiperbárica e cirurgia para remover sequestros; o livro diz que não há protocolo rígido. O Neville (seção sobre o tratamento da ORN) trata a câmara hiperbárica de outro modo e cita outros fármacos; os dois livros diferem.\n\n**Outros efeitos.** O ligamento periodontal irradiado perde resistência, o que facilita ORN se houver trauma ou infecção no osso alveolar. **Trismo:** fibrose da ATM e dos músculos da mastigação, de instalação gradual, dificulta a abertura e a higiene. **Disfagia:** 10 a 17 dias após a irradiação. **Candidíase:** antifúngicos tópicos (nistatina, anfotericina, miconazol em gel); se ineficazes, cetoconazol ou fluconazol. **Cárie de radiação:** evolui rápido e pode destruir uma dentição hígida em 1 ano."
+    },
+    {
+      "id": "varellis-pre-tratamento",
+      "titulo": "Varellis: preparo da boca e conduta antes da terapia",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Avaliação pré-quimioterapia, Conduta, Tratamento odontológico, Objetivos e conduta, p. 109–112",
+      "texto": "**Fonte: Varellis (manual).**\n\n**Objetivos:** preparar a boca, reduzir complicações sistêmicas pós-tratamento, minimizar a dor e melhorar a qualidade de vida.\n\n**Passos descritos:**\n1. Planejar em conjunto com o médico, antes da quimioterapia ou radioterapia; perguntar a ele **quanto tempo há** para o tratamento odontológico.\n2. Remover todos os **focos infecciosos**. Dentes com grande perda de substância são extraídos antes; dentes sadios ficam, com medidas preventivas. Cárie profunda sem tratamento leva a necrose e infecção.\n3. Deixar o paciente sem cárie nem foco ou possibilidade de foco (o livro usa a expressão \"cárie zero\"); reforçar a higiene do paciente e do responsável; radiografias panorâmica e periapicais.\n4. Remover dentes não vitais com endodontia duvidosa, aparelhos ortodônticos e próteses removíveis; desgastar cúspides que possam traumatizar a mucosa; selante e flúor.\n5. Antes de transplante de medula: endodontia, exodontia dos dentes de tratamento duvidoso e remoção dos parcialmente erupcionados, todas com o prazo de 15 dias que o livro cita (endodontia \"até 15 dias antes\" do transplante; parcialmente erupcionados 15 dias antes; para a exodontia duvidosa o livro diz \"em 15 dias\"). O livro não esclarece se 15 dias é o mínimo ou o máximo de antecedência: combinar com o médico.\n\n**Mudança de postura.** A osteorradionecrose levou a se preconizar a extração de todos os dentes antes da terapia. Hoje o livro restringe a exodontia aos dentes comprometidos ou com focos.\n\n**Limites de atendimento:**\n- na **leucopenia acentuada**, todos os procedimentos odontológicos são contraindicados;\n- na **plaquetopenia**, o livro contraindica qualquer manipulação, pelo risco de hemorragia;\n- na **aplasia**, evitar todo procedimento odontológico;\n- a neutropenia (nível muito baixo de neutrófilos) ocorre em cerca de metade dos pacientes em quimioterapia e é comum na leucemia.\n\nO capítulo não traz valores de contagem de leucócitos, neutrófilos ou plaquetas para decidir o atendimento; a conduta é combinar com o médico.\n\n**Anestésico:** o livro não vê restrição quanto ao tipo de anestésico local por causa da neoplasia.\n\n**Depois da quimioterapia,** o paciente é tratado normalmente, com cuidado até as contagens sanguíneas se restabelecerem. Medidas contra a mucosite: higiene correta, bochechos fluorados e bicarbonatados e laserterapia."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Por que a terapia anticâncer sistêmica afeta a boca?",
+      "verso": "Nenhum tratamento destrói só as células do tumor; os tecidos de renovação rápida, como a mucosa oral, sofrem mais. Quanto mais potente, maior o risco (Neville).",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, abertura, p. 273"
+    },
+    {
+      "id": "f02",
+      "frente": "Quais são as duas alterações agudas da quimioterapia em doses altas, segundo o Neville?",
+      "verso": "Mucosite e hemorragia.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Características clínicas, p. 273"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual a causa, em regra, da hemorragia intraoral na terapia anticâncer (Neville)?",
+      "verso": "Trombocitopenia por supressão da medula óssea. Petéquias e equimoses por trauma mínimo são o sinal mais comum.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hemorragia, p. 273–274"
+    },
+    {
+      "id": "f04",
+      "frente": "Frequência de mucosite oral segundo o Neville?",
+      "verso": "20 a 40% na quimioterapia sistêmica; 80% na quimioterapia em doses altas; quase todos na radioterapia de cabeça e pescoço para tumores profundos.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274"
+    },
+    {
+      "id": "f05",
+      "frente": "Como evolui a mucosite (Neville)?",
+      "verso": "Mucosa esbranquiçada, depois atrófica, edemaciada, eritematosa e friável, depois úlcera com membrana fibrinopurulenta amarelada removível. Desaparece 2 a 3 semanas após o fim do tratamento.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274–275"
+    },
+    {
+      "id": "f06",
+      "frente": "Quando a crioterapia reduz a mucosite, segundo o Neville?",
+      "verso": "Com 5-fluorouracila IV em bolus (tumor sólido) ou melfalano em altas doses antes de transplante. Gelo na boca 5 min antes e por 30 min. Não afeta a mucosite por radiação.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Crioterapia, p. 277"
+    },
+    {
+      "id": "f07",
+      "frente": "Para quem o Neville limita o uso da palifermina?",
+      "verso": "Pacientes em quimioterapia em altas doses e irradiação corporal total antes de transplante autólogo, por câncer hematológico. É o único agente aprovado pela FDA (EUA) para prevenir a mucosite.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Palifermina, p. 277"
+    },
+    {
+      "id": "f08",
+      "frente": "Quando a hipossalivação começa e quanto dura a queda do fluxo (Neville)?",
+      "verso": "Começa 1 semana após o início da radioterapia; queda intensa nas 6 primeiras semanas; pode haver perda adicional por até 3 anos.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, p. 275"
+    },
+    {
+      "id": "f09",
+      "frente": "Quais condições contraindicam sialagogos sistêmicos (Neville)?",
+      "verso": "Asma, úlcera gastrintestinal, hipertensão descontrolada, glaucoma, DPOC e doença cardiovascular significativa. Só se usam quando restam glândulas funcionais.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, conduta, p. 277"
+    },
+    {
+      "id": "f10",
+      "frente": "Como o Neville define osteorradionecrose?",
+      "verso": "\"Exposição de um osso não vital que persiste por mais de 3 meses\", na ausência de doença neoplásica. (Neville; o Varellis dá outro prazo, no f14.)",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275"
+    },
+    {
+      "id": "f11",
+      "frente": "Onde a ORN é mais comum e em quem (Neville)?",
+      "verso": "Mandíbula, 24 vezes mais que a maxila; 3 vezes mais comum em pacientes dentados.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 276"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual o intervalo mínimo entre procedimentos dentários extensos e o início da radioterapia (Neville)?",
+      "verso": "Pelo menos 3 semanas de cicatrização. Exodontia ou trauma ósseo durante a radioterapia é contraindicado.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, p. 276"
+    },
+    {
+      "id": "f13",
+      "frente": "Quais dentes o Neville manda extrair antes da radioterapia?",
+      "verso": "Os sem possibilidade de tratamento restaurador e os com doença periodontal avançada; também eliminar focos de infecção e manter excelente higiene oral.",
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Varellis, quanto tempo de osso exposto confirma ORN e qual a incidência?",
+      "verso": "Exposição de 3 a 6 meses; incidência de 2 a 10%, conforme dose total e localização (números do Varellis). O Neville define por outro prazo (f10).",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Radioterapia, Osteorradionecrose, p. 110"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Varellis (manual), para que serve a laserterapia na mucosite?",
+      "verso": "Descrita como eficaz, com remissão imediata, e também como prevenção, aplicada antes do início da quimioterapia. Os parâmetros do manual estão na seção do Varellis; o Neville não traz parâmetros.",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Complicações bucais, Mucosite, Laserterapia, p. 109"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o Varellis, o que contraindica procedimentos odontológicos durante a quimioterapia?",
+      "verso": "Leucopenia acentuada contraindica todos os procedimentos; plaquetopenia contraindica qualquer manipulação; em aplasia, evitar todo procedimento.",
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 35 anos faz quimioterapia para leucemia e apresenta petéquias e equimoses na mucosa labial e na língua após trauma mínimo. Segundo o Neville, a hemorragia intraoral nesse contexto é, em regra, secundária a quê?",
+      "alternativas": [
+        {
+          "texto": "Trombocitopenia por supressão da medula óssea.",
+          "correta": true,
+          "justificativa": "O livro diz que a hemorragia intraoral é em regra secundária à trombocitopenia por supressão da medula, com petéquias e equimoses por trauma mínimo.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hemorragia, p. 273–274"
+        },
+        {
+          "texto": "Redução dos fatores dependentes de vitamina K por dano hepático.",
+          "correta": false,
+          "justificativa": "O Neville diz que o dano intestinal ou hepático pode reduzir esses fatores e alongar o tempo de coagulação, mas a hemorragia intraoral é, em regra, secundária à trombocitopenia por supressão da medula.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hemorragia, p. 273–274"
+        },
+        {
+          "texto": "Coagulação intravascular disseminada causada por liberação de tromboplastina tecidual.",
+          "correta": false,
+          "justificativa": "O livro cita a CID como possível consequência do dano tecidual, potencialmente devastadora, e não como a causa habitual da hemorragia intraoral.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hemorragia, p. 273–274"
+        },
+        {
+          "texto": "Hipossalivação, que ressecaria e fragilizaria a mucosa.",
+          "correta": false,
+          "justificativa": "A hipossalivação é complicação da radioterapia nas glândulas salivares; a hemorragia intraoral da terapia anticâncer é, em regra, secundária à trombocitopenia por supressão da medula.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, p. 275"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hemorragia, p. 273–274",
+      "secao": "visao-geral",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Mulher de 52 anos inicia quimioterapia sistêmica convencional, sem doses altas e sem radioterapia. Segundo o Neville, em que faixa de frequência ocorre mucosite oral nesse grupo?",
+      "alternativas": [
+        {
+          "texto": "80% dos pacientes.",
+          "correta": false,
+          "justificativa": "O Neville dá 80% para quimioterapia em doses altas, o que não é o caso descrito.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274"
+        },
+        {
+          "texto": "20 a 40% dos pacientes.",
+          "correta": true,
+          "justificativa": "É a faixa que o livro traz para a quimioterapia sistêmica.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274"
+        },
+        {
+          "texto": "Quase todos os pacientes.",
+          "correta": false,
+          "justificativa": "O livro usa essa expressão para a radioterapia de cabeça e pescoço em tumores profundamente localizados, não para a quimioterapia sistêmica sem radioterapia.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274"
+        },
+        {
+          "texto": "Menos de 5% dos pacientes.",
+          "correta": false,
+          "justificativa": "O Neville dá, para a quimioterapia sistêmica, a faixa de 20 a 40%.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Mucosite, p. 274",
+      "secao": "mucosite",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 60 anos com câncer de cólon (tumor sólido) vai receber 5-fluorouracila intravenosa em bolus, sem transplante de células-tronco. Segundo o Neville, qual medida reduz a prevalência e a gravidade da mucosite nesse esquema?",
+      "alternativas": [
+        {
+          "texto": "Sucralfato como agente de revestimento da mucosa.",
+          "correta": false,
+          "justificativa": "O livro diz que a MASCC/ISOO não recomendou o sucralfato por evidência insuficiente.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 277"
+        },
+        {
+          "texto": "Palifermina antes do esquema.",
+          "correta": false,
+          "justificativa": "O uso da palifermina fica limitado a quimioterapia em altas doses e irradiação corporal total antes de transplante autólogo, por câncer hematológico; o caso é de tumor sólido, sem transplante.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 277"
+        },
+        {
+          "texto": "\"Enxaguante bucal mágico\" com lidocaína e difenidramina.",
+          "correta": false,
+          "justificativa": "O livro diz que a MASCC/ISOO não o recomendou por evidência insuficiente.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 277"
+        },
+        {
+          "texto": "Crioterapia, com gelo na boca 5 minutos antes da infusão e mantido por 30 minutos.",
+          "correta": true,
+          "justificativa": "O livro descreve a crioterapia como eficaz para a mucosite por 5-fluorouracila IV em bolus em tumores sólidos, por vasoconstrição local.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 277"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, Mucosite, p. 277",
+      "secao": "mucosite-tratamento",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Mulher de 59 anos termina a radioterapia de cabeça e pescoço com hipossalivação importante e cárie cervical nova. Segundo o Neville, qual orientação faz parte da conduta?",
+      "alternativas": [
+        {
+          "texto": "Preferir água filtrada à água fluoretada não filtrada.",
+          "correta": false,
+          "justificativa": "O livro orienta o contrário: água fluoretada não filtrada em vez de água filtrada.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Tratamento e prognóstico, p. 275–277"
+        },
+        {
+          "texto": "Usar balas e chicletes com açúcar para estimular a saliva.",
+          "correta": false,
+          "justificativa": "O livro indica balas e chicletes sem açúcar e pede evitar líquidos muito açucarados.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Tratamento e prognóstico, p. 275–277"
+        },
+        {
+          "texto": "Enxaguar a boca com líquidos de pH baixo para estimular o fluxo.",
+          "correta": false,
+          "justificativa": "O livro manda evitar líquidos de pH baixo.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Tratamento e prognóstico, p. 275–277"
+        },
+        {
+          "texto": "Regime diário de flúor tópico, com fluoreto de sódio neutro a 1,1%.",
+          "correta": true,
+          "justificativa": "É a medida diária descrita pelo livro para a hipossalivação, junto com substitutos da saliva e cuidado profissional da cárie.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Tratamento e prognóstico, p. 275–277"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Hipossalivação, Tratamento e prognóstico, p. 275–277",
+      "secao": "hipossalivacao",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Homem de 58 anos, dentado, tratou câncer de orofaringe com mais de 60 Gy há 5 anos e será avaliado para uma exodontia. Segundo o Neville, qual afirmação sobre osteorradionecrose se aplica a ele?",
+      "alternativas": [
+        {
+          "texto": "O risco acabou, porque passaram mais de 3 anos da radioterapia.",
+          "correta": false,
+          "justificativa": "O livro diz que 70% dos casos aparecem nos primeiros 3 anos, mas o paciente permanece em risco de ORN induzida por trauma pelo resto da vida.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276"
+        },
+        {
+          "texto": "O risco de ORN induzida por trauma, como a exodontia, persiste pelo resto da vida.",
+          "correta": true,
+          "justificativa": "É o que o Neville afirma, citando a exodontia como um dos traumas possíveis.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276"
+        },
+        {
+          "texto": "Por ser dentado, o risco é menor que o de um paciente desdentado.",
+          "correta": false,
+          "justificativa": "O livro diz que o processo é 3 vezes mais comum em pacientes dentados.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276"
+        },
+        {
+          "texto": "A ORN só surge de modo espontâneo, sem relação com procedimentos.",
+          "correta": false,
+          "justificativa": "Para o livro, em algumas circunstâncias a ORN vem de trauma local, como exodontia; a minoria parece espontânea.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, p. 275–276",
+      "secao": "orn",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 55 anos tem câncer de boca e começará radioterapia em 6 semanas. O dente 36 não tem possibilidade de tratamento restaurador; os demais dentes estão hígidos e com periodonto saudável. Segundo o Neville, qual a conduta antes da radioterapia?",
+      "alternativas": [
+        {
+          "texto": "Manter o dente 36 e extraí-lo só se der problema durante a radioterapia.",
+          "correta": false,
+          "justificativa": "O livro manda extrair antes os dentes sem possibilidade restauradora e contraindica exodontia ou trauma ósseo durante a radioterapia.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276"
+        },
+        {
+          "texto": "Extrair todos os dentes, inclusive os hígidos, por precaução.",
+          "correta": false,
+          "justificativa": "O livro indica extrair os dentes sem possibilidade restauradora e os com doença periodontal avançada; e manter excelente higiene oral; no caso, só o 36 está nessa condição.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276"
+        },
+        {
+          "texto": "Extrair o 36 agora, respeitando pelo menos 3 semanas de cicatrização antes de iniciar a radioterapia.",
+          "correta": true,
+          "justificativa": "Combina a extração do dente não restaurável com o intervalo de cicatrização de pelo menos 3 semanas descrito pelo livro.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276"
+        },
+        {
+          "texto": "Adiar a extração do 36 para a semana em que a radioterapia começar.",
+          "correta": false,
+          "justificativa": "Com o intervalo mínimo de 3 semanas que o livro descreve, extrair no início da radioterapia não deixa tempo de cicatrização.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, Tratamento e prognóstico, p. 276",
+      "secao": "prevencao-trismo",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Homem de 62 anos já iniciou radioterapia com os músculos da mastigação e a ATM no campo, em dose alta, e ainda não tem limitação de abertura. Segundo o Neville, qual medida pode diminuir ou prevenir o trismo?",
+      "alternativas": [
+        {
+          "texto": "Exercícios de abertura da boca.",
+          "correta": true,
+          "justificativa": "O livro diz que, quando essas estruturas recebem doses altas, exercícios de abertura da boca podem diminuir ou prevenir o problema.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Trismo, p. 276"
+        },
+        {
+          "texto": "Extrair os molares para facilitar o acesso.",
+          "correta": false,
+          "justificativa": "O livro diz que, durante a radioterapia, exodontia ou qualquer trauma ósseo é contraindicado.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Osteorradionecrose, prevenção, p. 276"
+        },
+        {
+          "texto": "Suspender a higiene oral enquanto durar a radioterapia.",
+          "correta": false,
+          "justificativa": "O livro diz que, depois de iniciado o tratamento, um dos esforços é manter a higiene oral.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Tratamento e prognóstico, p. 276"
+        },
+        {
+          "texto": "Aguardar o trismo se instalar para só então indicar exercícios.",
+          "correta": false,
+          "justificativa": "O livro indica os exercícios de abertura quando as estruturas recebem doses altas, para diminuir ou prevenir o trismo.",
+          "fonte": "neville5-cap08",
+          "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Trismo, p. 276"
+        }
+      ],
+      "fonte": "neville5-cap08",
+      "onde": "cap. 8, Lesões Físicas e Químicas, Complicações orais não infecciosas da terapia antineoplásica, Trismo, p. 276",
+      "secao": "prevencao-trismo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Mulher de 45 anos em quimioterapia com plaquetas baixas e gengivorragia queixa-se de dor de cabeça. Segundo o Varellis, qual orientação a ela é a correta?",
+      "alternativas": [
+        {
+          "texto": "Tomar ácido acetilsalicílico por conta própria, se for em dose baixa.",
+          "correta": false,
+          "justificativa": "O livro manda não usar medicamento à base de ácido acetilsalicílico sem o conhecimento e o consentimento do médico, porque altera a coagulação.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Quimioterapia, Avaliação pré-quimioterapia, p. 107–109"
+        },
+        {
+          "texto": "Suspender a escovação até as plaquetas voltarem ao normal.",
+          "correta": false,
+          "justificativa": "O livro orienta a higienização, sobretudo na plaquetopenia, pelo risco de sangramento.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Quimioterapia, Avaliação pré-quimioterapia, p. 107–109"
+        },
+        {
+          "texto": "Se houver ferimento, evitar comprimir o local para não aumentar o sangramento.",
+          "correta": false,
+          "justificativa": "O livro orienta comprimir o local por 10 minutos.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Quimioterapia, Avaliação pré-quimioterapia, p. 107–109"
+        },
+        {
+          "texto": "Usar escova de cerdas macias e não tomar ácido acetilsalicílico sem o consentimento do médico.",
+          "correta": true,
+          "justificativa": "Reúne duas orientações do livro para a trombocitopenia.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Quimioterapia, Avaliação pré-quimioterapia, p. 107–109"
+        }
+      ],
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Quimioterapia, Avaliação pré-quimioterapia, p. 107–109",
+      "secao": "varellis-quimio",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Homem de 50 anos com câncer de cabeça e pescoço será irradiado. Tem dentes sadios e dois dentes com grande perda de substância e foco infeccioso. Segundo o Varellis, qual a conduta atual?",
+      "alternativas": [
+        {
+          "texto": "Extrair todos os dentes antes da radioterapia, inclusive os sadios.",
+          "correta": false,
+          "justificativa": "O livro diz que a osteorradionecrose levou a preconizar a avulsão de todos os elementos, mas hoje a exodontia se restringe aos dentes comprometidos ou com focos.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111"
+        },
+        {
+          "texto": "Manter os dentes com foco e extraí-los se houver problema durante o tratamento.",
+          "correta": false,
+          "justificativa": "O livro manda remover todos os focos infecciosos antes do tratamento do câncer.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111"
+        },
+        {
+          "texto": "Restaurar todos os dentes, mesmo os com grande perda de substância, e adiar extrações.",
+          "correta": false,
+          "justificativa": "Para o livro, dentes com grande perda de substância são extraídos antes do tratamento.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111"
+        },
+        {
+          "texto": "Extrair os dois dentes comprometidos e manter os sadios com medidas preventivas.",
+          "correta": true,
+          "justificativa": "É a conduta que o livro descreve hoje: remover focos e dentes com grande perda, e manter os sadios com prevenção.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111"
+        }
+      ],
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Conduta, Tratamento odontológico, p. 109–111",
+      "secao": "varellis-pre-tratamento",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente irradiado há meses tem osso necrótico exposto na mandíbula, com fístula e drenagem purulenta. Segundo o Varellis, que período de exposição óssea é necessário, no mínimo, para confirmar a osteorradionecrose?",
+      "alternativas": [
+        {
+          "texto": "De 10 a 17 dias.",
+          "correta": false,
+          "justificativa": "O livro dá esse intervalo para o surgimento da disfagia após a irradiação, não para confirmar a ORN.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Disfagia, p. 111"
+        },
+        {
+          "texto": "De 15 dias.",
+          "correta": false,
+          "justificativa": "No livro, 15 dias é o prazo citado para endodontia e exodontias antes do transplante de medula, não para confirmar a ORN.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Objetivos e conduta, p. 112"
+        },
+        {
+          "texto": "De 3 a 6 meses.",
+          "correta": true,
+          "justificativa": "É o período mínimo de exposição óssea que o livro cita para confirmar a ORN.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Radioterapia, Osteorradionecrose, p. 110"
+        },
+        {
+          "texto": "De 2 a 4 semanas.",
+          "correta": false,
+          "justificativa": "No livro, esse é o tempo em que a mucosite se autolimita sem infecção, não o da ORN.",
+          "fonte": "varellis3-cap13",
+          "onde": "cap. 13, Pacientes Oncológicos, Mucosite, p. 108"
+        }
+      ],
+      "fonte": "varellis3-cap13",
+      "onde": "cap. 13, Pacientes Oncológicos, Radioterapia, Osteorradionecrose, p. 110",
+      "secao": "varellis-radio",
+      "figura": null
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "slug": "paciente-idoso-e-demencia",
+  "titulo": "Idoso e demência: fragilidade, medicamentos, xerostomia, consentimento e cuidador",
+  "area": "Pacientes Especiais",
+  "origem": "Little e Falace 9ª ed., caps. 1 (p. 16) e 27; Varellis (manual) 3ª ed., caps. 12 e 26",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lf9-cap01",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 1, Patient Evaluation and Risk Assessment, seção Age, p. 16.",
+      "curta": "Little e Falace 9ª ed., cap. 1"
+    },
+    {
+      "id": "lf9-cap27",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 27, Neurologic Disorders, seção Dementia and Alzheimer Disease, p. 527–532.",
+      "curta": "Little e Falace 9ª ed., cap. 27"
+    },
+    {
+      "id": "varellis3-cap12",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 12, Odontogeriatria, p. 97–105 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 12"
+    },
+    {
+      "id": "varellis3-cap26",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 26, Alzheimer, p. 223–225 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 26"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "idoso-little",
+      "titulo": "O idoso como paciente: o que o livro diz",
+      "fonte": "lf9-cap01",
+      "onde": "cap. 1, Patient Evaluation and Risk Assessment, seção Age, p. 16",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 1, seção Age, p. 16. É a única parte do livro que trata o idoso como grupo; o livro não tem capítulo sobre envelhecimento.\n\n**A idade entra na avaliação de risco.** No quadro de risco do capítulo, a idade é um dos fatores do paciente, junto com a gravidade e o controle da condição médica, a capacidade de responder a uma demanda física ou emocional, o estado emocional, comportamental e cognitivo e a gravidade da doença orofacial.\n\n**O que torna o idoso singular, segundo o livro:**\n- várias comorbidades, de grau variável;\n- mais sinais e sintomas inespecíficos;\n- fragilidade, comprometimento cognitivo e incapacidade física;\n- problemas no manejo de fármacos: metabolismo, interações ou efeitos colaterais.\n\nO livro cita a fragilidade, mas nesta seção não a define nem dá critério para reconhecê-la.\n\n**Medicamentos, em números do livro:** metade dos idosos relata duas ou mais doenças crônicas, e um terço de todos os medicamentos prescritos é tomado por idosos.\n\n**Dado dos EUA:** o livro estima que, em 2030, um em cada cinco norte-americanos terá 65 anos ou mais.\n\n**Conduta:** atender o idoso com consideração e cautela extras, com atenção à escolha do fármaco e ao ajuste de dose quando necessário. A seção não traz dose nem faixa de ajuste."
+    },
+    {
+      "id": "demencia-quadro",
+      "titulo": "Demência e Alzheimer: o que são e em quem aparecem",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Neurologic Disorders, Dementia and Alzheimer Disease, General Description, Epidemiology, Pathophysiology and Complications, p. 527",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 27, p. 527. Os números de população são do livro e, quando for o caso, dos EUA.\n\n**O que é:** demência é uma síndrome, em geral crônica e progressiva, com deterioração da função cognitiva. Prejudica memória, pensamento abstrato e julgamento, atrapalha as atividades diárias e leva à perda de independência.\n\n**Causas:** as mais comuns são a doença de Alzheimer, a demência vascular e a demência da doença de Parkinson. O livro lista ainda outras, como hipoglicemia, doença da tireoide, uremia, AIDS, AVC e fármacos.\n\n**Idade:** a prevalência aumenta com a idade. Acima de 65 anos é de cerca de 7%; a partir dos 70 anos, dobra a cada 5 anos. O livro escreve duas frases sobre os 85 anos que não dizem a mesma coisa, e as duas ficam aqui:\n- na descrição geral: mais de 40% dos casos de demência ocorrem até os 85 anos (fração dos casos);\n- na epidemiologia: aos 85 anos, mais de 40% das pessoas terão desenvolvido doença de Alzheimer (fração das pessoas).\n\n**Alzheimer:** é o protótipo da discussão no capítulo. Nos EUA, cerca de 8 milhões de pessoas têm demência, aproximadamente 70% do tipo Alzheimer; no mundo, quase 50 milhões. O risco é maior nas mulheres (3 para 2). Os fatores de risco citados são a idade e a história familiar de demência. A causa é desconhecida.\n\n**Síndrome de Down:** adultos com trissomia do 21 que passam dos 40 anos desenvolvem de modo consistente as marcas neuropatológicas do Alzheimer. Nesse trecho o livro não fala de manejo odontológico.\n\n**Na sua agenda:** o livro estima cerca de 20 pacientes com Alzheimer num consultório médio com 2.000 pacientes adultos."
+    },
+    {
+      "id": "demencia-estagios",
+      "titulo": "Estágios e diagnóstico da demência",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation, Laboratory and Diagnostic Findings e Tabela 27.2, p. 527–528",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 27, p. 527 e 528.\n\n**Começo:** sutil e insidioso. O primeiro sinal é perda de memória recente, de orientação ou de linguagem, ou mudança de personalidade (apatia) ou de comportamento. Alguns pacientes não percebem o problema; outros percebem e ficam frustrados e ansiosos.\n\n**Três estágios (Tabela 27.2 e texto):**\n- **Inicial:** passa despercebido porque o começo é gradual. Esquecimento, perda da noção do tempo, perder-se em lugares familiares.\n- **Intermediário:** não consegue trabalhar, perde-se e se confunde com facilidade e precisa de supervisão diária. Boas maneiras e conversa superficial de rotina podem durar. A linguagem piora, sobretudo compreensão e nomeação de objetos. Comer e vestir-se acabam se perdendo. Pode haver perda de inibições, belicosidade e vagueação à noite.\n- **Tardio:** dependência quase total; dificuldade para reconhecer parentes e amigos; dificuldade para andar; a agressividade pode se agravar. Nos casos mais avançados, o paciente pode ficar rígido, mudo, incontinente e acamado, muitas vezes em casa de repouso. A morte costuma vir de desnutrição, infecção secundária ou doença cardíaca.\n\nA duração típica da doença, pelo livro, é de 5 a 15 anos (variação de 1 a 20).\n\n**Diagnóstico:** o definitivo só vem de biópsia cerebral ou de autópsia. O clínico se faz por história e achados. Critérios do livro: declínio funcional progressivo e demência confirmados por exame clínico e testes de estado mental; pelo menos dois déficits cognitivos; consciência normal na apresentação; nenhuma outra condição que explique os déficits. Exames pedidos para descartar causas corrigíveis incluem hemograma, eletrólitos, função tireoidiana, vitamina B12 e folato, testes de sífilis e de HIV e imagem do encéfalo."
+    },
+    {
+      "id": "demencia-medicamentos",
+      "titulo": "Medicamentos da demência segundo o livro",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Medical Management, Tabela 27.3, p. 528–531",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 27, p. 528 a 531. Aprovações citadas são da FDA (EUA).\n\n**Ponto de partida:** não há cura, e nenhum desses medicamentos interrompe a doença. Tratar os sintomas pode manter conforto, dignidade e independência por mais tempo e apoiar os cuidadores.\n\n**Inibidores da colinesterase** (o livro cita donepezila, rivastigmina e galantamina para Alzheimer leve a moderado; a donepezila também para moderado a grave): aumentam a acetilcolina no cérebro. O benefício é limitado: menos de 50% dos pacientes parecem se beneficiar. Efeitos comuns: distúrbio gastrointestinal e cefaleia. A tacrina, a primeira do grupo, hoje é pouco prescrita por problemas de segurança.\n\n**Memantina: o livro a descreve de dois jeitos.** Na p. 528, o texto a lista entre os inibidores da colinesterase. Da p. 529 em diante, o texto e a Tabela 27.3 a descrevem como antagonista de NMDA, indicada para Alzheimer moderado a grave, com efeitos adversos leves como cefaleia e confusão; é nessa descrição que a p. 531 diz que os dois tipos de medicamento podem ser prescritos juntos. O livro não concilia as duas descrições, e este resumo não escolhe uma.\n\n**Doses:** o livro traz as doses do fabricante na Tabela 27.3; elas não entram neste resumo.\n\n**Sintomas de comportamento:** tenta-se primeiro abordagem sem medicamento para ansiedade, depressão, irritabilidade e distúrbios do sono, mas em geral acabam sendo necessários antidepressivos, sedativos-hipnóticos e antipsicóticos. Uma pequena parte tem convulsões e usa anticonvulsivante.\n\n**O que isso muda na cadeira:** o paciente deve seguir as instruções do médico para qualquer medicamento, inclusive vitaminas e suplementos de ervas; acréscimo ou mudança é liberado antes pelo médico. Sintomas incomuns após o início de um fármaco são relatados logo ao prescritor."
+    },
+    {
+      "id": "demencia-conduta",
+      "titulo": "Conduta odontológica na demência",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529 e 531",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 27, Box 27.6 (p. 529) e texto da p. 531.\n\n**Antes de começar:** conheça o estágio da doença, os medicamentos em uso e a capacidade cognitiva. Em doença leve a moderada, em geral o paciente mantém a função normal dos órgãos e sistemas e pode receber tratamento de rotina. Com a doença bem controlada, o livro diz que o plano odontológico não muda, mas recomenda consultar o médico para estabelecer o nível de controle.\n\n**O que o Box 27.6 diz:**\n- **Dor:** dar bom controle da dor.\n- **Antibiótico:** não há necessidade de profilaxia antibiótica.\n- **Anestesia:** anestesia local com epinefrina 1:100.000 em geral não se associa a problema.\n- **Sangramento:** em geral não se esperam problemas.\n- **Pressão:** monitorar, porque alguns medicamentos podem causar hipotensão.\n- **Cadeira:** em geral não é problema se o paciente está bem controlado clinicamente; com sintomas de síncope iminente, o decúbito dorsal pode não ser tolerado, e a cadeira pode precisar de ajuste aos medos do paciente.\n- **Ansiedade:** quem está sem tratamento ou mal controlado pode ter dificuldade de entender comandos e parecer muito ansioso; podem estar indicadas técnicas especiais de redução de ansiedade.\n- **Fármacos:** o quadro diz que esses pacientes tomam anticolinérgicos, com sedação, sonolência, lentidão mental, fadiga, confusão e tontura. O texto do capítulo fala de outros grupos (inibidores da colinesterase, memantina, antipsicóticos, antidepressivos); o livro não explica a relação.\n- **Emergência:** raramente o quadro pode progredir de forma aguda a ponto de justificar interromper o tratamento.\n- **Seguimento:** após cirurgia ou procedimento complexo, uma ligação no dia seguinte ou em dois dias para checar o estado clínico.\n\n**Consentimento e comunicação:** determine se o paciente tem capacidade legal de decidir, conversando com ele e com a família; o plano muitas vezes requer informação e permissão de um familiar. Antes de cada procedimento, chame a atenção do paciente e explique o que vai acontecer, com palavras e frases curtas, repetindo as instruções. A comunicação não verbal ajuda: contato visual direto, sorriso, tocar o braço do paciente."
+    },
+    {
+      "id": "demencia-boca",
+      "titulo": "Prevenção, estágios e complicações bucais na demência",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management e Oral Complications and Manifestations, p. 530–532",
+      "texto": "Fonte desta seção: Little e Falace (autores dos EUA), 9ª ed., cap. 27, p. 530 a 532.\n\n**Programa preventivo:** o livro pede um programa agressivo de prevenção, com retorno a cada 3 meses, exame bucal, profilaxia, gel fluoretado, educação de higiene e ajuste de próteses.\n\n**Por estágio:**\n- **Leve:** restaure rápido a boa saúde bucal, porque a doença é progressiva; depois o foco passa a ser prevenir doença dentária.\n- **Moderada:** o paciente pode ser menos colaborativo; o objetivo é manter o estado dentário e minimizar a deterioração. Procedimentos complexos, se forem feitos, devem ser feitos antes de a doença chegar ao estágio moderado a avançado.\n- **Avançada:** pacientes muitas vezes ansiosos, hostis e pouco cooperativos. Consultas curtas e procedimentos sem complexidade. Para procedimentos complexos e demorados pode ser necessária sedação, com o sedativo escolhido em consulta com o médico; para procedimentos de rotina, o livro cita hidrato de cloral e benzodiazepínicos como opção para dar o nível de sedação necessário; o livro não traz dose. Em casos avançados, as próteses removíveis podem ter de ser retiradas do paciente pelo risco de autolesão.\n\n**Por que a boca piora:** o paciente tem perda de memória, falta de iniciativa e raciocínio lento, e a higiene diária pode ficar gravemente comprometida. Os medicamentos psiquiátricos contribuem, porque a xerostomia é um dos principais efeitos adversos.\n\n**Achados que o livro lista:** boca seca, lesões de mucosa, candidíase, placa e cálculo, doença periodontal, cárie radicular e coronária e maior risco de pneumonia por aspiração. Há também lesões por quedas, úlceras de língua, bochecha e mucosa alveolar por acidente com talher ou na mastigação, atrito e abrasão dos dentes, perda e migração dentária. Desdentados podem perder as próteses ou tentar usar a superior na arcada inferior, e o inverso.\n\n**Antipsicóticos:** podem causar agranulocitose, leucopenia ou trombocitopenia, e também distonia, discinesia e discinesia tardia na região oral e facial."
+    },
+    {
+      "id": "geriatria-conceito",
+      "titulo": "Odontogeriatria: conceito e o corpo que envelhece",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Introdução, Aspectos psicológicos e fisiológicos, Distúrbios mais comuns (demência), p. 97–99",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed., 2017), cap. 12, p. 97 a 99 (numeração da edição digital). É um manual de organizadora; o livro clássico (Little e Falace) está nas seções anteriores, e os números abaixo são deste manual.\n\n**Conceito:** o livro diz que a odontogeriatria foi reconhecida como especialidade em 2002 e inclui pacientes com mais de 60 anos. O objetivo é prevenir e tratar doenças bucais que possam aumentar os riscos de disfunções sistêmicas. Pela OMS, como o livro cita, idoso é quem tem mais de 65 anos em países desenvolvidos e mais de 60 em países em desenvolvimento.\n\n**Envelhecer não é adoecer.** O livro separa senescência (envelhecimento saudável, ativo e produtivo) de senilidade (envelhecimento com doenças, limitação e dependência de terceiros). O envelhecimento é universal, irreversível, individual (cada pessoa e cada órgão no seu ritmo) e perde funções aos poucos. A avaliação é multiprofissional, e a relação risco-benefício deve ser analisada antes do tratamento.\n\n**Vínculo:** o idoso muitas vezes tem prazer na ida ao consultório pela socialização e pode ver o dentista como amigo e confidente; o livro pede valorizar esse vínculo para a adesão. Medo da solidão e da morte e tendência à depressão fazem parte do quadro psicológico.\n\n**Mudanças do envelhecimento que o livro lista:**\n- **cardiovascular:** maior resistência vascular e pressão sistólica; degeneração e calcificação das válvulas;\n- **respiratório:** maior risco de infecção pela limpeza brônquica ineficaz;\n- **urinário:** menos néfrons e menor filtração glomerular;\n- **endócrino:** resistência à insulina e menor tolerância à glicose;\n- **digestório:** mastigação comprometida e menor absorção de nutrientes;\n- **imunológico:** menor imunidade celular;\n- **ossos:** reabsorção dos ossos da maxila e da mandíbula.\n\n**Demência, em números deste manual:** cerca de 5% da população com mais de 65 anos e 20% com mais de 80 anos."
+    },
+    {
+      "id": "geriatria-saliva-boca",
+      "titulo": "Boca do idoso: saliva, xerostomia, cárie e periodonto",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Aspectos bucais, Glândulas salivares, Doenças periodontais, Cárie, Xerostomia, p. 100–102",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 12, p. 100 a 102 (numeração da edição digital; fronteiras entre páginas não confirmadas).\n\n**Medicamentos e saliva:** os idosos são o maior grupo consumidor de medicamentos per capita. Os mais consumidos são cardiovasculares, analgésicos, sedativos e tranquilizantes, e a maioria inibe o fluxo salivar, o que aumenta a suscetibilidade a cárie e a doença periodontal.\n\n**As glândulas salivares:** o livro descreve redução do volume e dos constituintes da saliva, com prejuízo da lubrificação, da mobilidade da língua e da deglutição. Cita evidência de redução de até 75% da atividade enzimática da saliva em maiores de 60 anos.\n\n**Xerostomia:** o livro a chama de queixa muito comum, ligada a alterações das glândulas salivares e a medicamentos para doenças crônicas. Também são citados estresse, ansiedade, pouca ingestão de água, antidepressivos, diuréticos, diabetes e menopausa; quimioterapia e radioterapia podem reduzir o fluxo salivar em até 90%. Sintomas: mau hálito, dificuldade de mastigar e deglutir, língua rachada ou volumosa, feridas na boca, paladar reduzido, pigarro e tosse seca. O manual fala em xerostomia e em fluxo salivar diminuído.\n\n**Cárie:** as mais comuns são as radiculares, além da deterioração de trabalhos antigos e das infiltrações sob restaurações e próteses. Medidas preventivas citadas: controle da placa, prevenção periodontal, avaliação e estímulo da função mastigatória, fluorterapia, chicletes com xilitol, estimuladores de saliva e aconselhamento dietético.\n\n**Periodonto:** o prognóstico é mais favorável que no jovem. O trauma do tratamento não deve exceder o benefício; o livro pede orientação de higiene e dieta e visitas periódicas.\n\n**Causas dos problemas bucais no idoso, entre as da lista do livro:** deficiência ou dependência física, baixa autoestima, pouca ida ao dentista, muito açúcar, placa e cálculo em excesso, fluxo salivar diminuído, restaurações radiculares prévias, retração gengival e perda de inserção, perda da função mastigatória e próteses parciais com grampos.\n\n**Mastigação e paladar:** o idoso perde papilas da língua e paladar, o que contribui para perda de apetite e problemas nutricionais. O olfato é o sentido mais vulnerável."
+    },
+    {
+      "id": "geriatria-atendimento",
+      "titulo": "Como organizar o atendimento do idoso",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Tratamento odontológico, Acessibilidade, Considerações finais, p. 103–104",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 12, p. 103 a 104 (numeração da edição digital; fronteiras não confirmadas).\n\n**Acessibilidade:** para o livro, o primeiro desafio é entrar no consultório, e o atendimento começa no estacionamento. As barreiras citadas: falta de vagas especiais, rampas, elevadores e portas alargadas (para bengalas, andadores e cadeiras de rodas), pouca iluminação, pisos lisos e tapetes, móveis muito baixos ou macios.\n\n**Aspectos do tratamento que o livro lista:**\n- pessoal auxiliar treinado;\n- vínculo e anamnese, ouvindo as queixas (o consultório pode ser o único momento de socialização do paciente);\n- levantamento do estado de saúde e dos medicamentos em uso;\n- exame clínico completo, intra e extrabucal, com radiografia, cáries, cálculo, doença periodontal e trabalhos existentes;\n- consultas curtas;\n- conscientização do paciente, da família e dos cuidadores;\n- orientação de higiene, de próteses e de dieta;\n- chamadas frequentes.\n\n**Consentimento e cuidador:** o capítulo não detalha capacidade de decidir nem consentimento. Fala em conscientizar paciente, família e cuidadores, e em treinar pessoal auxiliar.\n\n**Prescrição:** o livro diz que o metabolismo é mais lento e a eliminação de fármacos é menor, e pede atenção às interações. Antiagregantes e anticoagulantes têm tema próprio (anticoagulados e coagulopatias).\n\n**Considerações finais do livro:** todos devem ter garantidos o direito de ir e vir e de satisfazer necessidades básicas com dignidade, e o profissional deve abandonar a ideia de que ser idoso é ser incapaz."
+    },
+    {
+      "id": "geriatria-medicamentos-doencas",
+      "titulo": "Psicotrópicos, artrite e depressão no idoso",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Distúrbios mais comuns (artrite, depressão, sono, psicose, ansiedade, medicação psicotrópica), p. 99–100",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 12, p. 99 e 100 (numeração da edição digital; fronteiras não confirmadas).\n\n**Medicação psicotrópica, efeitos que o livro destaca:**\n- **antidepressivos:** confusão mental, retenção urinária e hipotensão ortostática, com risco de quedas;\n- **antipsicóticos:** rigidez muscular e tremor semelhantes aos da doença de Parkinson, hipotensão ortostática, reações anticolinérgicas e discinesia tardia (movimentos incontrolados de língua, lábios, dedos e outras partes).\n\nO livro pede que o dentista reconheça e contorne as alterações de comportamento que isso causa.\n\n**Artrite:** é uma inflamação progressiva que reduz a mobilidade. Os analgésicos e anti-inflamatórios usados têm repercussões bucais: xerostomia, ulcerações, estomatite, hemorragia gastrintestinal, dispepsia, dor abdominal e náuseas. A perda de habilidade manual atrapalha a higiene, e o livro pede envolver familiares e cuidadores. A articulação temporomandibular pode limitar a abertura da boca. Orientações do livro: consultas curtas e várias; técnicas de transferência para a cadeira, atendimento em cadeira de rodas ou em casa; terapeutas ocupacionais para a higienização e para órteses.\n\n**Depressão:** tristeza ou perda de interesse pelas atividades, com dificuldade para dormir, falta de apetite, perda da esperança, pensamentos suicidas, ansiedade e preocupação. Às vezes a depressão se apresenta como ansiedade e some com o tratamento dela.\n\n**Sono:** o idoso perde os níveis mais profundos de sono, acorda mais à noite e dorme mais de dia.\n\n**Dor orofacial:** o idoso é mais suscetível a distúrbios da articulação temporomandibular pela perda do equilíbrio estomatognático; o livro cita edentulismo, perda precoce de dentes, hábitos parafuncionais, bruxismo e doenças sistêmicas como artrite."
+    },
+    {
+      "id": "alzheimer-quadro",
+      "titulo": "Alzheimer no manual de Varellis: conceito e evolução",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Conceito, Patogenia, Prevalência, Evolução, Quadro clínico, p. 223–225",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 26, p. 223 a 225 (numeração da edição digital; fronteiras entre as páginas não confirmadas). Os números são deste manual; os do Little e Falace estão nas seções dele.\n\n**Conceito:** perda de cognição é demência. A doença de Alzheimer é uma doença degenerativa primária do cérebro, com declínio progressivo de memória, pensamento, compreensão, cálculo, linguagem, capacidade de aprender e discernimento. O início é insidioso e a deterioração, lenta. O livro manda diferenciar do declínio normal do envelhecimento. Foi descrita em 1907 pelo patologista alemão Alzheimer. A patogenia é desconhecida.\n\n**Prevalência, segundo o manual:** aumenta com a idade, cerca de 10% dos maiores de 65 anos. Entre os maiores de 60 anos, a incidência é de cerca de 5% nos homens e 6% nas mulheres, e há mais mulheres pela maior longevidade. O diagnóstico precoce permite à família se adaptar.\n\n**Evolução:** de 5 a 10 anos, pelo manual. Nos últimos estágios a atividade motora diminui, com permanência no leito. A menor expansão torácica leva à estase pulmonar, e o óbito vem por infecção respiratória em quase todos os casos.\n\n**Quadro clínico:**\n- começa com dificuldade para lembrar nomes (de pessoas e ruas, depois de objetos); a família atribui a estresse e cansaço;\n- o doente fica angustiado, insone e retraído, deixa as reuniões sociais; no início dissimula, e procura o médico só em fase adiantada;\n- depois vêm desorientação espacial e perda da noção temporal, isolamento em casa, mudança do ritmo do sono, delírios e alucinações, inquietação, atitudes repetitivas, quietude profunda ou hiperatividade."
+    },
+    {
+      "id": "alzheimer-higiene",
+      "titulo": "Alzheimer: higiene, cárie e local de atendimento",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 26, p. 223 a 225 (numeração da edição digital; fronteiras entre as páginas não confirmadas).\n\n**O que acontece na boca:** a perda de coordenação motora ou a rigidez muscular compromete a higiene, e o estado de saúde bucal fica bastante comprometido. A dispneia por perda da expansão torácica pode levar à respiração bucal e à xerostomia. Sem saliva, aumentam a doença periodontal e as cáries rampantes e radiculares. O livro cita como fatores o consumo maior de carboidratos, a má higienização e a xerostomia.\n\n**Onde atender:** o livro pede profissionais preparados e atendimento em ambulatório, hospital ou consultório conforme a gravidade. As famílias muitas vezes internam o doente; pode ser necessário atendimento domiciliar, em centro cirúrgico ou em unidade de terapia intensiva.\n\n**Sedação e anestesia geral:** a sedação intravenosa e/ou a anestesia geral são decisão discutida entre o anestesista e o neurologista, com a família ciente da relação risco-benefício.\n\n**Higiene com ajuda:** como em toda doença que causa impedimento motor, familiares e pessoal auxiliar (enfermagem, fisioterapeutas) devem ser treinados para a higiene bucal. Recursos citados: suportes para fio dental, escovas elétricas, jatos intermitentes de água, escovas interdentais e gazes umedecidas com clorexidina.\n\n**Dieta e flúor:** instruções de dieta não cariogênica e flúor extra (pastas, bochechos, géis) para controlar cárie e problemas gengivais.\n\n**Próteses e implantes:** as próteses totais e removíveis são higienizadas e retiradas à noite. Os implantes osseointegrados exigem pessoal auxiliar para dar certo.\n\n**Ansiolítico:** se o paciente toma medicação ansiolítica, a consulta deve ser no horário em que o fármaco atinge o potencial máximo, com interação entre dentista e médico e dosagem discutida com todos."
+    },
+    {
+      "id": "alzheimer-sessao",
+      "titulo": "Alzheimer: como conduzir a sessão",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais e Caso clínico, p. 223–225",
+      "texto": "Fonte desta seção: Varellis (manual prático organizado por Maria Lucia Zarvos Varellis, 3ª ed.), cap. 26, p. 223 a 225 (numeração da edição digital; fronteiras entre as páginas não confirmadas).\n\n**Dificuldade de chegar ao consultório:** o paciente não discerne a importância do tratamento, e os vínculos familiares se rompem pelo isolamento. Nos estágios iniciais os tratamentos dentários ainda são possíveis.\n\n**Como organizar a sessão, pelo manual:**\n- sessões o mais curtas possível;\n- ambiente familiar e presença de um parente;\n- mais trabalho no menor tempo, evitando retornos contínuos;\n- trabalhos definitivos, sem provisórios;\n- orientação dietética (a ingestão calórica aumenta);\n- próteses limpas por outras pessoas e bochechos com enxaguatório, estimulados.\n\n**Observe os sinais:** a dor aparece pela recusa de se alimentar, por levar as mãos ao rosto ou por recusar a escovação.\n\n**Paciente muito agitado:** interrompa o atendimento; o tranquilizante é prescrito pelo médico.\n\n**Custo-benefício:** o livro pede avaliar custo e benefício e preferir procedimento mínimo invasivo.\n\n**Caso do livro:** paciente de 82 anos com Alzheimer, acompanhada pela esposa, com dor bucal, cálculo e prótese parcial removível inferior muito desgastada. Trocar as próteses era questionável, por exaustão e pelo resultado talvez diferente do esperado. Optou-se por não intervir de forma agressiva e por orientar a família; foram feitas raspagem e profilaxia. A paciente faleceu meses depois, de parada cardíaca. A lição do livro é a relação custo-benefício e a humanização."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo Little e Falace, o que torna o idoso um paciente singular?",
+      "verso": "Várias comorbidades, mais sinais inespecíficos, fragilidade, comprometimento cognitivo, incapacidade física e problemas no manejo de fármacos (metabolismo, interações, efeitos colaterais).",
+      "fonte": "lf9-cap01",
+      "onde": "cap. 1, seção Age, p. 16"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo Little e Falace, que fração dos medicamentos prescritos é tomada por idosos?",
+      "verso": "Um terço de todos os medicamentos prescritos. Metade dos idosos relata duas ou mais doenças crônicas.",
+      "fonte": "lf9-cap01",
+      "onde": "cap. 1, seção Age, p. 16"
+    },
+    {
+      "id": "f03",
+      "frente": "Como Little e Falace definem demência?",
+      "verso": "Síndrome em geral crônica e progressiva, com deterioração da função cognitiva, que interfere nas atividades diárias e leva à perda de independência.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, General Description, p. 527"
+    },
+    {
+      "id": "f04",
+      "frente": "Segundo Little e Falace, o que determinar antes de fechar o plano no paciente com Alzheimer?",
+      "verso": "A capacidade legal de decidir, conversando com o paciente e com a família; o plano muitas vezes requer informação e permissão de um familiar. Antes de cada procedimento, explicar com palavras e frases curtas, repetindo as instruções.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+    },
+    {
+      "id": "f05",
+      "frente": "O que dá o diagnóstico definitivo de Alzheimer, segundo Little e Falace?",
+      "verso": "Só a biópsia cerebral ou a autópsia. O diagnóstico clínico se faz por história e achados.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são os três estágios da Tabela 27.2 de Little e Falace?",
+      "verso": "Inicial, intermediário e tardio.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Tabela 27.2 e Laboratory and Diagnostic Findings, p. 528"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Box 27.6, o paciente com Alzheimer precisa de profilaxia antibiótica? E a epinefrina na anestesia local?",
+      "verso": "Não há necessidade de profilaxia antibiótica. Anestesia local com epinefrina 1:100.000 em geral não se associa a problema.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+    },
+    {
+      "id": "f08",
+      "frente": "Por que monitorar a pressão do paciente com demência, segundo Little e Falace?",
+      "verso": "Alguns medicamentos usados podem causar hipotensão. O livro também recomenda consultar o médico para estabelecer o nível de controle.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+    },
+    {
+      "id": "f09",
+      "frente": "Que seguimento Little e Falace sugerem após cirurgia ou procedimento complexo no paciente com demência?",
+      "verso": "Uma ligação de acompanhamento no dia seguinte ou em dois dias, para checar o estado clínico.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+    },
+    {
+      "id": "f10",
+      "frente": "Que programa preventivo Little e Falace pedem para o paciente com Alzheimer?",
+      "verso": "Retorno a cada 3 meses, com exame bucal, profilaxia, gel fluoretado, educação de higiene e ajuste de próteses.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+    },
+    {
+      "id": "f11",
+      "frente": "O que Little e Falace dizem sobre as próteses removíveis na demência avançada?",
+      "verso": "Podem ter de ser retiradas do paciente, pelo risco de autolesão.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531"
+    },
+    {
+      "id": "f12",
+      "frente": "Que efeitos dos antipsicóticos Little e Falace destacam para o dentista?",
+      "verso": "Agranulocitose, leucopenia, trombocitopenia, e distonia, discinesia e discinesia tardia na região oral e facial.",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Oral Complications and Manifestations, p. 532"
+    },
+    {
+      "id": "f13",
+      "frente": "Como Varellis (manual) liga os medicamentos do idoso à saúde bucal?",
+      "verso": "O idoso é o maior grupo consumidor per capita; cardiovasculares, analgésicos, sedativos e tranquilizantes são os mais usados, e a maioria inibe o fluxo salivar, o que favorece cárie e doença periodontal.",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+    },
+    {
+      "id": "f14",
+      "frente": "Quanto a quimioterapia e a radioterapia podem reduzir o fluxo salivar, segundo Varellis (manual)?",
+      "verso": "Em até 90%.",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo Varellis (manual), qual cárie é a mais comum no idoso?",
+      "verso": "As cáries radiculares são as mais comuns, além da deterioração de trabalhos antigos e das infiltrações sob restaurações e próteses.",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Cárie e Doenças periodontais, p. 102"
+    },
+    {
+      "id": "f16",
+      "frente": "Que fatores Varellis (manual) cita para a cárie rampante e radicular no Alzheimer?",
+      "verso": "Mais carboidratos, má higienização e xerostomia (a dispneia pode levar à respiração bucal).",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 79 anos, hipertensa e diabética, com artrite e dificuldade de seguir instruções, usa vários medicamentos e vai fazer um procedimento odontológico. Segundo Little e Falace, qual é a atitude geral com o idoso?",
+      "secao": "idoso-little",
+      "fonte": "lf9-cap01",
+      "onde": "cap. 1, seção Age, p. 16",
+      "alternativas": [
+        {
+          "texto": "Considerar a idade apenas um dado de identificação, fora da avaliação de risco.",
+          "correta": false,
+          "justificativa": "A seção Age diz que a idade é componente importante da avaliação de risco; ela consta do quadro de fatores do paciente.",
+          "fonte": "lf9-cap01",
+          "onde": "cap. 1, seção Age, p. 16"
+        },
+        {
+          "texto": "Atender com consideração e cautela extras, atenta à escolha do fármaco e ao ajuste de dose quando necessário.",
+          "correta": true,
+          "justificativa": "É a conclusão do livro: o idoso tem várias comorbidades, fragilidade, comprometimento cognitivo e problemas no manejo de fármacos, o que pede cautela extra e ajuste de dose quando necessário.",
+          "fonte": "lf9-cap01",
+          "onde": "cap. 1, seção Age, p. 16"
+        },
+        {
+          "texto": "Restringir a atenção ao metabolismo dos fármacos, já que interações e efeitos colaterais não são problema próprio do idoso.",
+          "correta": false,
+          "justificativa": "O livro cita problemas no manejo de fármacos em três frentes: metabolismo, interações ou efeitos colaterais.",
+          "fonte": "lf9-cap01",
+          "onde": "cap. 1, seção Age, p. 16"
+        },
+        {
+          "texto": "Esperar o quadro típico de cada doença, pois o idoso não costuma ter sinais inespecíficos.",
+          "correta": false,
+          "justificativa": "O livro diz que o idoso muitas vezes tem mais sinais ou sintomas inespecíficos.",
+          "fonte": "lf9-cap01",
+          "onde": "cap. 1, seção Age, p. 16"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 81 anos tem demência há três anos. A filha pergunta o que confirma de modo definitivo o diagnóstico de Alzheimer. Segundo Little e Falace, qual é a resposta?",
+      "secao": "demencia-estagios",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528",
+      "alternativas": [
+        {
+          "texto": "Os testes de estado mental, aplicados em consulta.",
+          "correta": false,
+          "justificativa": "Os testes de estado mental entram nos critérios do diagnóstico clínico, junto com a história e os achados clínicos; o definitivo é outro.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "A tomografia sem contraste ou a ressonância do encéfalo.",
+          "correta": false,
+          "justificativa": "O livro lista a imagem do encéfalo entre os exames para descartar causas corrigíveis de demência, não para o diagnóstico definitivo.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "O hemograma com eletrólitos, função tireoidiana, vitamina B12 e folato.",
+          "correta": false,
+          "justificativa": "Esses exames servem para descartar causas corrigíveis, segundo o livro.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "A biópsia cerebral ou a autópsia.",
+          "correta": true,
+          "justificativa": "O livro diz que o diagnóstico definitivo só se faz por biópsia cerebral ou na autópsia; o clínico se faz por história e achados.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Idosa com Alzheimer não consegue mais trabalhar, perde-se com facilidade e precisa de supervisão diária. Mantém boas maneiras e conversa superficial, mas tem dificuldade para nomear objetos. Pela Tabela 27.2 e pelo texto de Little e Falace, em que estágio ela está?",
+      "secao": "demencia-estagios",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528",
+      "alternativas": [
+        {
+          "texto": "Estágio inicial.",
+          "correta": false,
+          "justificativa": "No estágio inicial o quadro muitas vezes passa despercebido, com esquecimento, perda da noção do tempo e dificuldade em lugares familiares. Aqui há necessidade de supervisão diária, que o livro põe no estágio intermediário.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "Estágio tardio.",
+          "correta": false,
+          "justificativa": "No estágio tardio há dependência quase total, e nos casos avançados o paciente pode ficar rígido, mudo, incontinente e acamado. Aqui as maneiras sociais e a conversa de rotina estão mantidas.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "Estágio intermediário.",
+          "correta": true,
+          "justificativa": "O livro descreve neste estágio a incapacidade de trabalhar, a facilidade de se perder, a necessidade de supervisão diária, a conversa superficial preservada e a dificuldade de nomear objetos.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        },
+        {
+          "texto": "Estágio inicial ou intermediário, porque o livro não os distingue.",
+          "correta": false,
+          "justificativa": "A Tabela 27.2 distingue os estágios: o inicial passa despercebido, e a necessidade de supervisão diária, com a incapacidade de trabalhar, está no intermediário.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Clinical Presentation e Laboratory and Diagnostic Findings, p. 527–528"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 74 anos, com Alzheimer leve e bem controlado pelo médico, fará uma exodontia sob anestesia local. Segundo o Box 27.6 de Little e Falace, qual afirmação sobre o planejamento está correta?",
+      "secao": "demencia-conduta",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529",
+      "alternativas": [
+        {
+          "texto": "Indicar profilaxia antibiótica antes do procedimento.",
+          "correta": false,
+          "justificativa": "O Box 27.6 diz que não há necessidade de profilaxia antibiótica.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+        },
+        {
+          "texto": "Evitar a epinefrina do anestésico local, que é contraindicada na doença.",
+          "correta": false,
+          "justificativa": "O Box diz que a anestesia local com epinefrina 1:100.000 em geral não se associa a nenhum problema.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+        },
+        {
+          "texto": "Solicitar exames de coagulação, porque se esperam problemas de sangramento.",
+          "correta": false,
+          "justificativa": "O Box diz que, em geral, não se esperam problemas de sangramento.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+        },
+        {
+          "texto": "Usar anestésico local com epinefrina 1:100.000 e monitorar a pressão, pois alguns medicamentos podem causar hipotensão.",
+          "correta": true,
+          "justificativa": "É o que o Box 27.6 diz sobre anestesia (sem problema em geral) e sobre pressão (monitorar por causa da hipotensão que alguns fármacos provocam).",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, Box 27.6, p. 529"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente de 77 anos com Alzheimer chega acompanhada da filha para tratar vários dentes. Segundo Little e Falace, o que fazer antes de fechar o plano de tratamento e de iniciar cada procedimento?",
+      "secao": "demencia-conduta",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531",
+      "alternativas": [
+        {
+          "texto": "Presumir que a filha decide por ela e explicar o procedimento só à filha.",
+          "correta": false,
+          "justificativa": "O livro pede determinar a capacidade legal de decidir conversando com o paciente e com a família, e explicar ao paciente o que vai acontecer antes de cada procedimento.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+        },
+        {
+          "texto": "Determinar a capacidade legal de decidir, conversando com ela e com a família, e explicar o procedimento com palavras e frases curtas.",
+          "correta": true,
+          "justificativa": "É o que o livro pede: avaliar a capacidade legal com paciente e família (o plano muitas vezes requer permissão de um familiar) e explicar antes de cada procedimento, em frases curtas e com repetição.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+        },
+        {
+          "texto": "Explicar de uma vez todo o plano, com detalhes, para não repetir durante o atendimento.",
+          "correta": false,
+          "justificativa": "O livro pede palavras e frases curtas e a repetição das instruções e explicações.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+        },
+        {
+          "texto": "Evitar o contato visual e o toque no braço, para não assustá-la.",
+          "correta": false,
+          "justificativa": "O livro cita contato visual direto, sorriso e tocar o braço do paciente como comunicação não verbal positiva.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management, p. 531"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Homem de 80 anos tem demência avançada, é ansioso, hostil e pouco cooperativo, e precisa de tratamento dentário. Segundo Little e Falace, qual conduta o livro indica?",
+      "secao": "demencia-boca",
+      "fonte": "lf9-cap27",
+      "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531",
+      "alternativas": [
+        {
+          "texto": "Consultas longas, para concluir os procedimentos complexos de uma só vez.",
+          "correta": false,
+          "justificativa": "Para a demência avançada o livro indica consultas curtas e procedimentos sem complexidade.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531"
+        },
+        {
+          "texto": "Retorno anual para exame e profilaxia, já que a doença é estável.",
+          "correta": false,
+          "justificativa": "O programa preventivo do livro pede retorno a cada 3 meses, e a doença é descrita como progressiva.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531"
+        },
+        {
+          "texto": "Consultas curtas e procedimentos sem complexidade; se houver procedimento complexo e demorado, sedação escolhida com o médico do paciente.",
+          "correta": true,
+          "justificativa": "É a indicação do livro para a fase avançada, com o sedativo escolhido em consulta com o médico.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531"
+        },
+        {
+          "texto": "Deixar os procedimentos complexos para depois do estágio moderado a avançado.",
+          "correta": false,
+          "justificativa": "O livro diz que procedimentos complexos devem ser feitos, se forem, antes de a doença chegar ao estágio moderado a avançado.",
+          "fonte": "lf9-cap27",
+          "onde": "cap. 27, Dementia and Alzheimer Disease, Dental Management (por estágio), p. 531"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Idosa de 76 anos queixa-se de boca seca, mau hálito e dificuldade de mastigar e deglutir. Usa anti-hipertensivo, analgésico e um tranquilizante. Segundo o manual de Varellis, qual afirmação sobre o quadro está correta?",
+      "secao": "geriatria-saliva-boca",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102",
+      "alternativas": [
+        {
+          "texto": "A xerostomia é queixa rara no idoso e não se relaciona com os medicamentos usados.",
+          "correta": false,
+          "justificativa": "O manual chama a xerostomia de queixa muito comum e a liga a medicamentos para doenças crônicas.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+        },
+        {
+          "texto": "A xerostomia favorece cáries e doença periodontal, e a maioria dos medicamentos mais consumidos por idosos inibe o fluxo salivar.",
+          "correta": true,
+          "justificativa": "O manual diz que a xerostomia favorece doenças bucais, cáries e doenças periodontais, e que cardiovasculares, analgésicos, sedativos e tranquilizantes, em sua maioria, inibem o fluxo salivar.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+        },
+        {
+          "texto": "A xerostomia protege contra a cárie radicular, a mais comum no idoso.",
+          "correta": false,
+          "justificativa": "O manual diz que as cáries mais comuns são as radiculares e que a xerostomia favorece a cárie.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+        },
+        {
+          "texto": "A xerostomia vem só do envelhecimento da glândula, sem relação com o uso de água ou com o estresse.",
+          "correta": false,
+          "justificativa": "O manual cita também estresse, ansiedade e baixa ingestão de água entre os fatores, além de medicamentos.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Glândulas salivares e Xerostomia, p. 100–102"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Idoso de 73 anos com artrite perdeu a habilidade manual e tem dificuldade de higienizar a boca. Segundo o manual de Varellis, qual orientação para o atendimento e a higiene está correta?",
+      "secao": "geriatria-medicamentos-doencas",
+      "fonte": "varellis3-cap12",
+      "onde": "cap. 12, Odontogeriatria, Artrite, p. 99–100",
+      "alternativas": [
+        {
+          "texto": "Uma única sessão longa, para poupar deslocamentos, sem envolver o cuidador.",
+          "correta": false,
+          "justificativa": "O manual orienta consultas curtas e várias e pede envolver familiares e cuidadores na higiene.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Artrite, p. 99–100"
+        },
+        {
+          "texto": "Manter a higiene como responsabilidade exclusiva do paciente, apesar da perda manual.",
+          "correta": false,
+          "justificativa": "O manual diz que a perda de habilidade manual atrapalha a higiene e pede envolver familiares e cuidadores.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Artrite, p. 99–100"
+        },
+        {
+          "texto": "Recusar o atendimento a quem não consegue se transferir para a cadeira.",
+          "correta": false,
+          "justificativa": "O manual cita técnicas de transferência para a cadeira ou o atendimento em cadeira de rodas ou em casa.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Artrite, p. 99–100"
+        },
+        {
+          "texto": "Consultas curtas e várias, com familiares e cuidadores envolvidos na higiene e, se preciso, terapeuta ocupacional.",
+          "correta": true,
+          "justificativa": "É o que o manual orienta para o paciente com artrite: consultas curtas e várias, envolvimento de familiares e cuidadores e terapeutas ocupacionais para higienização e órteses.",
+          "fonte": "varellis3-cap12",
+          "onde": "cap. 12, Odontogeriatria, Artrite, p. 99–100"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Durante o atendimento, uma paciente de 80 anos com Alzheimer fica muito agitada. Segundo o manual de Varellis, qual é a conduta?",
+      "secao": "alzheimer-sessao",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais, p. 223–225",
+      "alternativas": [
+        {
+          "texto": "Interromper o atendimento; o tranquilizante, se necessário, é prescrito pelo médico.",
+          "correta": true,
+          "justificativa": "O manual diz que, com o paciente muito agitado, o atendimento é interrompido e o tranquilizante é prescrito pelo médico.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais, p. 223–225"
+        },
+        {
+          "texto": "Continuar até concluir o trabalho, porque o manual pede o máximo de trabalho no menor tempo.",
+          "correta": false,
+          "justificativa": "O manual pede mais trabalho no menor tempo, mas diz que o paciente muito agitado deve ter o atendimento interrompido.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais, p. 223–225"
+        },
+        {
+          "texto": "Prescrever o tranquilizante na hora, como decisão do dentista.",
+          "correta": false,
+          "justificativa": "O manual diz que o tranquilizante é prescrito pelo médico.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais, p. 223–225"
+        },
+        {
+          "texto": "Remarcar várias sessões longas, com trabalhos provisórios e retornos contínuos.",
+          "correta": false,
+          "justificativa": "O manual pede sessões o mais curtas possível e trabalhos definitivos, evitando provisórios e retornos contínuos.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Cuidados gerais, p. 223–225"
+        }
+      ],
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente com Alzheimer precisará de um procedimento que exige sedação intravenosa ou anestesia geral. Segundo o manual de Varellis, como se decide?",
+      "secao": "alzheimer-higiene",
+      "fonte": "varellis3-cap26",
+      "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225",
+      "alternativas": [
+        {
+          "texto": "O dentista decide sozinho, porque a indicação é odontológica.",
+          "correta": false,
+          "justificativa": "O manual diz que a decisão é discutida entre o anestesista e o neurologista.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225"
+        },
+        {
+          "texto": "A sedação intravenosa e a anestesia geral não se discutem na doença, porque são sempre proibidas.",
+          "correta": false,
+          "justificativa": "O manual trata a sedação intravenosa e a anestesia geral como decisão discutida entre o anestesista e o neurologista, com a família ciente da relação risco-benefício.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225"
+        },
+        {
+          "texto": "A decisão é só do paciente, sem informar a família.",
+          "correta": false,
+          "justificativa": "O manual diz que a família deve estar ciente da relação risco-benefício.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225"
+        },
+        {
+          "texto": "A decisão é discutida entre o anestesista e o neurologista, com a família ciente da relação risco-benefício.",
+          "correta": true,
+          "justificativa": "É o que o manual diz sobre sedação intravenosa e/ou anestesia geral no paciente com Alzheimer.",
+          "fonte": "varellis3-cap26",
+          "onde": "cap. 26, Doença de Alzheimer, Tratamento odontológico, p. 223–225"
+        }
+      ],
+      "figura": null
+    }
+  ]
+}

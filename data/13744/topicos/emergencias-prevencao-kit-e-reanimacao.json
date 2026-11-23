@@ -1,0 +1,603 @@
+{
+  "slug": "emergencias-prevencao-kit-e-reanimacao",
+  "titulo": "Emergências: prevenção, kit e reanimação",
+  "area": "Pacientes Especiais",
+  "origem": "Malamed 7ª ed., caps. 2 e 3; AHA 2025, Partes 7, 6 e 4 (reanimação)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "malamed7-cap02",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 2, Prevenção, p. 37–60 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 2"
+    },
+    {
+      "id": "malamed7-cap03",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 3, Preparação, p. 61–111 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 3"
+    },
+    {
+      "id": "aha2025-p7",
+      "ref": "Kleinman ME, Buick JE, Huber N, et al. Part 7: Adult Basic Life Support: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2025;152(16_suppl_2):S448–S478. doi:10.1161/CIR.0000000000001369.",
+      "curta": "AHA 2025, SBV do adulto (EUA)"
+    },
+    {
+      "id": "aha2025-p6",
+      "ref": "Joyner BL Jr, Raymond TT, et al. Part 6: Pediatric Basic Life Support: 2025 AHA and AAP Guidelines for CPR and ECC. Circulation. 2025;152(16_suppl_2). doi:10.1161/CIR.0000000000001370.",
+      "curta": "AHA e AAP 2025, SBV pediátrico (EUA)"
+    },
+    {
+      "id": "aha2025-p4",
+      "ref": "Dezfulian C, Cabañas JG, Buckley JR, et al. Part 4: Systems of Care: 2025 AHA Guidelines for CPR and ECC. Circulation. 2025;152(suppl 2):S353–S384. doi:10.1161/CIR.0000000000001378.",
+      "curta": "AHA 2025, sistemas de cuidado (EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "m-avaliacao",
+      "titulo": "Avaliar antes de tratar: sinais vitais (Malamed)",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47",
+      "texto": "Este tema usa o **Malamed** (*Emergências Médicas em Odontologia*, 7ª ed., livro de autor dos EUA, traduzido) como base. As manobras de reanimação vêm só da diretriz da AHA 2025, nas seções finais. Síncope, convulsão e alergia estão no tema \"Emergências: síncope, convulsão e alergia\", que compara o Malamed com o Andrade e Ranali (livro brasileiro); hipoglicemia, crise asmática, angina e infarto têm tema próprio. O capítulo 2 do Malamed é de prevenção: a emergência mais barata é a que a avaliação evita.\n\n**Por que medir antes de tratar.** O questionário de história médica só vale se o paciente conhece a própria condição e conta. O exame físico mínimo do livro é **sinais vitais mais inspeção visual**, de preferência na consulta inicial. O valor basal serve a dois fins: julgar se o paciente tolera o estresse do plano e ter com o que comparar numa emergência. Exemplo do livro: 80/50 mmHg numa emergência é menos grave se a pressão basal era 110/70 do que se era 190/110.\n\n**Sinais vitais do livro:** pressão arterial, frequência e ritmo cardíacos, frequência respiratória, temperatura, altura, peso e IMC. Pressão, pulso e respiração entram na rotina de todo paciente. Temperatura, altura e peso são \"recomendável, porém opcional\", mas o peso pesa muito quando haverá sedação enteral ou parenteral.\n\n**Pressão arterial.** O ponto de segurança é o hiato auscultatório: no exemplo do livro, quem infla só até cerca de 165 mmHg lê 160/90 numa pressão real de 230/90; o livro evita o erro estimando antes a sistólica pela palpação do pulso radial; no método auscultatório infla-se até 30 mmHg acima dessa estimativa. A ansiedade eleva a pressão de forma transitória, por isso o basal é tomado numa consulta antes do tratamento. As faixas de pressão e a conduta por categoria ficam no tema de hipertensão arterial.\n\n**Pulso.** Em adulto em repouso, a frequência normal é de **60 a 110 batimentos por minuto**; abaixo de 60 é bradicardia, acima de 110, taquicardia. Valor fora disso, sem causa óbvia (esporte, ansiedade), vale considerar consulta médica. Pulso forte e cheio pode acompanhar pressão muito alta; pulso fraco e vazio, hipotensão e choque.\n\n**Respiração e temperatura.** No adulto o livro dá 16 a 18 respirações por minuto. A alteração mais comum no consultório é a hiperventilação, quase sempre por ansiedade. Febre é temperatura acima de 37,5 °C; com 40 °C ou mais o tratamento eletivo é contraindicado e fica limitado a medicamentos (antibióticos e antipiréticos)."
+    },
+    {
+      "id": "m-asa",
+      "titulo": "Risco do paciente: classificação ASA (Malamed)",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55",
+      "texto": "O Malamed usa a classificação de estado físico da **ASA** (sociedade de anestesiologistas dos EUA), na adaptação da Ostrow School of Dentistry (USC). Depois do exame, o dentista se pergunta: o paciente tolera o estresse do plano? Que modificações reduzem esse risco? O risco é alto demais para o meu consultório?\n\nO livro usa um teste funcional (subir um lance de escadas ou andar dois quarteirões planos) e \"sinais\" de trânsito:\n\n| Classe | Quem é | Capacidade funcional | Sinal e conduta |\n|---|---|---|---|\n| ASA 1 | Saudável, sem doença sistêmica | Sem desconforto | Verde |\n| ASA 2 | Doença sistêmica leve, ou ASA 1 com ansiedade e medo extremos | Sobe antes de o desconforto obrigar a parar | Amarelo; eletivo de rotina, considerando modificar o plano |\n| ASA 3 | Doença sistêmica grave que limita sem incapacitar | Precisa parar e descansar pelo menos uma vez | Amarelo; eletivo não está contraindicado, mas o risco é maior e modificar o plano deve ser considerado a sério |\n| ASA 4 | Doença incapacitante, ameaça constante à vida | Não sobe um lance nem anda dois quarteirões; desconforto em repouso | Vermelho; adiar o eletivo, sempre que possível, até o médico levar a condição a ASA 3 |\n| ASA 5 | Moribundo (o livro diz que a ASA 5 foi eliminada no uso odontológico ambulatorial) | | Vermelho; eletivo contraindicado, emergência só paliativa |\n\n**Exemplos do livro.**\n- **ASA 2:** diabetes tipo 2, epilepsia ou asma bem controlados.\n- **ASA 3:** angina estável (normal na recepção, dor ao sentar na cadeira); infarto há mais de 6 meses, ou há menos de 6 meses com dano mínimo ao miocárdio e sem sinais residuais significativos (nesse caso o livro pede consulta médica); AVE há mais de 6 meses, sem sinais residuais; diabetes tipo 1 bem controlado; DPOC; insuficiência cardíaca com ortopneia e edema de tornozelo.\n- **ASA 4:** angina instável; infarto ou AVE nos últimos 6 meses (o infarto recente com dano mínimo o livro põe em ASA 3); insuficiência cardíaca grave ou DPOC com oxigênio suplementar; epilepsia não controlada com história de hospitalização; diabetes tipo 1 descontrolado com história de hospitalização.\n- IMC de 40 ou mais: ASA 3 ou 4, conforme as comorbidades.\n\n**ASA 4 e urgência.** Dor e infecção são tratadas do modo mais conservador possível, de preferência não invasivo (analgésico e antibiótico). Se a intervenção imediata for necessária (incisão e drenagem, extração, extirpação pulpar), o livro manda fazê-la em hospital, quando possível, ou em clínica equipada para reconhecer e tratar emergências.\n\n**A dúvida mais comum é ASA 2 × ASA 3.** O livro pede que se reconheça que há risco aumentado, que o paciente continua tratável (se não for ASA 4) e que o plano deve ser modificado. As faixas de pressão arterial por classe ficam no tema de hipertensão arterial."
+    },
+    {
+      "id": "m-estresse",
+      "titulo": "Ansiedade, consulta médica e redução do estresse (Malamed)",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60",
+      "texto": "**Reconhecer a ansiedade.** Medo e ansiedade podem piorar angina, convulsão, asma, hiperventilação e síncope vasodepressora. O livro usa três métodos: o questionário de história médica, um questionário de ansiedade e a observação. Quem não admite o medo em voz alta costuma admiti-lo por escrito. O **questionário de Corah** (quatro perguntas graduadas de 1 a 5, máximo 20, e uma de sim ou não) associa pontuação **igual ou acima de 8** a ansiedade elevada, que deve ser manejada antes de começar.\n\nPistas na recepção e na cadeira: perguntas sobre injeção e sedação, histórico só de emergência ou de consultas canceladas, palmas frias e suadas, postura rígida, falanges brancas no apoio da cadeira, suor na fronte. O ansioso grave tende a aparecer só com dor ou infecção importante. O livro registra que **no Brasil o dentista não pode usar sedação intramuscular ou intravenosa nem anestesia geral**: fica restrito à sedação oral e inalatória, se comprovadamente capacitado.\n\n**Consulta médica.** Não é necessária para todo paciente com doença: vale quando há dúvida sobre a natureza da doença, interação com o tratamento ou o grau de risco. É \"meramente um pedido de informação adicional\". O risco e a responsabilidade pelo plano continuam do dentista.\n\n**Protocolo de redução do estresse**, segundo o livro:\n- marcar de manhã cedo e reduzir o tempo de espera;\n- no paciente com risco médico (ASA 2, 3 e 4), consultar o médico quando necessário e **registrar os sinais vitais antes e depois**; o livro pede isso em todos os ASA 3 e em certos ASA 2;\n- controlar bem a dor; o cardiopata quase sempre justifica o vasoconstritor no anestésico, usado com critério;\n- no ansioso de risco médico moderado a elevado, marcar nos primeiros dias da semana e telefonar no fim do dia;\n- consultas curtas para quem tem comprometimento médico: ficar sentado mais de 1 hora já estressa muitos; fadiga, irritação, sudorese e desconforto mostram que o limite passou, e o prudente é terminar bem e remarcar;\n- ficar disponível por telefone no pós-operatório e prescrever analgésico quando necessário.\n\n**Modificações específicas.** Oxigênio umidificado por cânula nasal, 3 a 4 L por minuto, a considerar na insuficiência cardíaca ou DPOC (ASA 3); posição mais vertical para quem não tolera deitar (ortopneia); dique de borracha pode não ser usado em alergia ao látex ou em certas doenças cardiovasculares e respiratórias, e então o paciente é avisado do risco de engolir ou aspirar um instrumento, com registro na ficha."
+    },
+    {
+      "id": "m-equipe",
+      "titulo": "Equipe, papéis e quem chamar (Malamed)",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68",
+      "texto": "**Duas exigências mínimas do livro:** equipe treinada e consultório preparado. A etapa mais importante é treinar **toda** a equipe, inclusive recepção e laboratório. O livro pede certificação de suporte básico de vida para profissionais de saúde (AHA ou Cruz Vermelha) pelo menos uma vez por ano, mais um curso anual de reciclagem em emergências (convulsão, dor torácica, dificuldade respiratória), e não só a recertificação. Muitas emergências se resolvem só com esses passos; o medicamento fica em segundo plano. Os números das manobras de reanimação estão na seção da AHA 2025.\n\n**Sequência do livro:** posição (P), circulação (C), vias aéreas (A), respiração (B) e tratamento definitivo (D). Os temas de síncope, convulsão e alergia, que usam essa sequência, estão em \"Emergências: síncope, convulsão e alergia\".\n\n**Papéis na equipe (mínimo de dois ou três):**\n- **Membro 1:** o primeiro a chegar à vítima; inicia o suporte básico, pede ajuda em voz alta e fica com a vítima até o fim.\n- **Membro 2:** leva o kit de emergência, o oxigênio e o DEA; confere o oxigênio **todo dia** e o kit e o DEA **toda semana**.\n- **Membro 3:** auxilia, monitora sinais vitais, prepara os medicamentos, aciona o serviço de emergência, anota em ordem cronológica e recebe o socorro na entrada do prédio.\n\nTodos devem saber atuar em qualquer papel; o dentista não é obrigado a ficar com o do membro 1, mas a responsabilidade final é dele. Treinos periódicos no consultório, com manequim, mantêm a equipe afiada, porque a emergência com risco de vida é rara.\n\n**Quem chamar.** O livro diz que o Brasil não tem número universal: **192 (SAMU)**, **193 (Bombeiros)** e 190 (polícia). Deixe os números junto ao telefone, com o endereço do consultório. Ao delegar a ligação, diga o número exato (\"ligue para o 193\"), sobretudo se quem liga é criança. Chame **assim que o responsável pelo paciente decidir que é preciso**; em dúvida, chame.\n\n**O que dizer ao operador:** onde é, o telefone de onde se liga, o que aconteceu, quantas vítimas, a condição delas, a ajuda que já está sendo dada (por exemplo, \"estamos usando o DEA\") e o que mais for pedido; só desligue quando o operador instruir. Em prédio grande, um membro espera na entrada com o elevador disponível."
+    },
+    {
+      "id": "m-kit",
+      "titulo": "Kit básico de emergência: medicamentos (Malamed)",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81",
+      "texto": "**Princípio do livro: mantenha simples.** O kit básico é o **Módulo 1** (itens críticos); os módulos 2 a 4 (secundários, ACLS e antídotos) são para quem tem treino no uso e ficam fora deste tema. Três lembretes do autor: o medicamento não é necessário para o tratamento imediato (o suporte básico vem primeiro); o tratamento primário de toda emergência é o suporte básico; **na dúvida, não use medicamento**, com uma exceção, o choque anafilático. Inclua só o que você sabe usar.\n\n**Injetáveis críticos: adrenalina e bloqueador da histamina.**\n- **Adrenalina 1:1.000 (1 mg/mL)** por via intramuscular no **vasto lateral** (face anterolateral da coxa), não na região glútea (o livro desaconselha). O livro a chama de medicamento mais importante do kit. É o único injetável que ele quer em **seringa pré-dosada** (0,3 mg ou 0,15 mg), para evitar erro sob estresse.\n- Doses iniciais por peso (Tabela 3-2, 1:1.000): **0,3 mL** para 30 kg ou mais, **0,15 mL** abaixo de 30 kg, **0,075 mL** abaixo de 15 kg ou 1 ano. O texto do capítulo fala em 0,3 a 0,5 mg (ou mL de 1:1.000) como faixa para a anafilaxia; o próprio capítulo traz 0,3 mL como dose inicial (p. 71 e Tabela 3-2).\n- Quantidade: a Tabela 3-3 traz 1 seringa pré-dosada mais 3 ampolas de 1 mL; o texto sugere duas autoinjetoras de 0,3 mg e três ou quatro ampolas (e, para 15 a 30 kg, duas seringas pediátricas de 0,15 mg). O livro mostra as duas contas.\n- **Difenidramina 50 mg/mL:** 3 ampolas na Tabela 3-3, mínimo de 2 no texto. Serve às reações tardias e ao tratamento definitivo depois da adrenalina; sedativa, o paciente não deve dirigir.\n\n**Não injetáveis críticos:**\n- **Oxigênio:** o mais útil do kit; um cilindro tipo E portátil é o mínimo.\n- **Nitroglicerina** (aerossol de 0,4 mg ou comprimido sublingual): o comprimido exposto ao ar perde efeito e deve ser trocado 12 semanas depois de aberto; se faltar o gosto amargo, suspeite de comprimido ineficaz. Sildenafila, tadalafila e vardenafila com nitrato aumentam o risco de hipotensão grave e colapso.\n- **Albuterol** em inalador dosado; considere um espaçador se atender vários pacientes, adultos e crianças.\n- **Açúcar** para hipoglicemia no paciente consciente (suco de laranja, refrigerante não dietético ou gel de glicose); líquido é contraindicado no inconsciente.\n- **Aspirina** 325 mg (2 pacotes em pó): contraindicada em hemorragia grave em curso, risco significativo de sangramento ou alergia.\n\nO uso de nitroglicerina, albuterol, açúcar e aspirina é tratado nos temas de angina e infarto, asma e diabetes; a conduta na anafilaxia, com a adrenalina do kit, está no tema \"Emergências: síncope, convulsão e alergia\"."
+    },
+    {
+      "id": "m-equipamento",
+      "titulo": "Kit básico de emergência: equipamento e organização (Malamed)",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109",
+      "texto": "**Equipamento crítico (Módulo 1, seis itens):** sistema de oxigênio, DEA, seringas, sucção com pontas, garrotes e pinça de Magill. O livro avisa: ter o item no kit não prepara o consultório se a equipe não sabe usá-lo; use só o que ela conhece.\n\n- **Oxigênio.** Cilindro tipo E portátil: em emergência rende cerca de 30 minutos se o paciente estiver apneico. Mantenha mesmo que haja central de óxido nitroso e oxigênio, porque a emergência acontece fora da cadeira. Sem contraindicação no uso emergencial; não é indicado na hiperventilação, embora a administração não cause efeito adverso significativo.\n- **Ventilação.** Bolsa-válvula-máscara autoinflável (o \"ambu\"), preferida aos dispositivos de pressão positiva, que aumentam o risco de ventilar demais (distensão do abdome, vômito, aspiração). Máscara facial transparente em três tamanhos (criança, adulto pequeno e grande), porque deixa ver vômito, sangue e saliva. **Máscara de bolso** para cada membro da equipe: ventila com ar exalado (cerca de 16% de oxigênio, contra 21% da bolsa-válvula-máscara sem oxigênio extra), desvia o ar exalado da vítima e, na criança pequena, pode ser usada invertida.\n- **DEA.** Aparelho simples, a bateria, que reconhece fibrilação ventricular e taquicardia ventricular sem pulso e só orienta o choque quando o ritmo permite; o socorrista aperta o botão quando o aparelho indica. A ADA (EUA) recomenda considerar a compra onde o serviço de emergência com desfibrilação não chega em tempo razoável; o livro diz que o Brasil está atrasado nesse conceito.\n- **Sucção.** Sistema forte, com pelo menos duas pontas largas e de extremidade arredondada; o sugador comum de saliva não serve para retirar nada maior que um objeto fino. Considere um aspirador não elétrico para queda de energia.\n- **Seringas e garrotes.** Duas a quatro seringas de 2 mL com agulhas calibre 18 ou 21; três garrotes e um esfigmomanômetro, que também serve de garrote.\n- **Pinça de Magill** pediátrica, para recuperar da orofaringe corpos estranhos como coroas e limas endodônticas.\n\n**Organização.** Maleta ou caixa com compartimentos rotulados (nome genérico e comercial, dose de emergência e validade), em lugar de acesso imediato, não no fundo de um armário fechado. Registre a validade de cada item e reponha antes de vencer. Uma pessoa confere o kit **uma vez por semana** e os equipamentos, em especial os cilindros de oxigênio, **todo dia**, em caderno e não em folha solta. O Quadro 3-1 (seção da equipe) dá ao DEA verificação semanal, e o texto da organização fala em todos os equipamentos todo dia; o livro traz os dois. Medicamento vencido e cilindro vazio não servem."
+    },
+    {
+      "id": "aha-p7-inicio",
+      "titulo": "SBV do adulto: reconhecer, acionar e começar (AHA 2025)",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Recognition of Cardiac Arrest; Initiation of Resuscitation; Opening the Airway; Positioning and Location, tabelas de recomendação 1 a 5 e 7",
+      "texto": "**Estas cinco seções finais vêm das diretrizes da American Heart Association (AHA, EUA) de 2025**, publicadas em 22/10/2025 e lidas em 17/11/2026; cada seção diz de que parte vem. São diretrizes norte-americanas, não regra brasileira. Cada recomendação tem uma **classe**: classe 1 (\"deve\", \"é recomendado\"), 2a (\"é razoável\"), 2b (\"pode ser razoável\") e 3 (\"não é recomendado\"). A **Parte 7** trata do suporte básico de vida do adulto (e de quem tem sinais de puberdade) e substitui a versão de 2020. Os números de reanimação deste tema vêm só das diretrizes da AHA 2025 (Partes 7, 6 e 4).\n\n**Reconhecer a parada.** O leigo deve presumir parada cardíaca no adulto sem resposta que não respira ou só tem \"gasping\" (classe 1). O profissional de saúde deve checar o pulso por **no máximo 10 segundos** e, se não sentir com certeza, presumir parada (classe 1). O texto explica que detectar pulso é difícil e atrasa as compressões, e que a respiração agônica (lenta, irregular, ofegante) engana o leigo; comprimir quem não está em parada causa pouco dano.\n\n**Acionar e começar.** Todos os leigos devem fazer compressões em adulto com parada presumida (classe 1). Sozinho, o socorrista **aciona o serviço de emergência e logo inicia a RCP**, começando por compressões; com celular, aciona em viva-voz e comprime na hora (classe 1). O leigo treinado pode dar também as ventilações (2a); sem treino, só compressões. O profissional, sozinho, **começa por compressões** (classe 1), e é razoável fazer compressões e ventilação em toda parada de adulto (2a).\n\n**Posição e local.** Tronco do paciente na altura dos joelhos do socorrista, sempre que possível (classe 1). Base de uma mão no centro do tórax (metade inferior a terço inferior do esterno), a outra por cima (classe 1). Reanimar **onde a pessoa foi encontrada**, se for possível fazer RCP de boa qualidade com segurança (classe 1). Superfície firme e decúbito dorsal, quando viável e sem atrasar, são razoáveis (2a). Se a parada ocorre em decúbito ventral, pode ser razoável virar para dorsal antes de comprimir (2b).\n\n**Via aérea.** Sem suspeita de lesão cervical: inclinação da cabeça com elevação do queixo (classe 1). Com trauma de cabeça ou pescoço, socorristas treinados abrem a via aérea por **anteriorização da mandíbula sem extensão da cabeça** (classe 1); se não conseguirem, usam a inclinação com elevação do queixo."
+    },
+    {
+      "id": "aha-p7-rcp",
+      "titulo": "SBV do adulto: compressões, ventilação e DEA (AHA 2025)",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15",
+      "texto": "**Parte 7 da AHA 2025 (EUA), adulto.** Mesma diretriz da seção anterior; os números são dela.\n\n**Compressões (adulto de tamanho médio).**\n- **Profundidade:** pelo menos **5 cm**, evitando passar de **6 cm** (classe 1).\n- **Frequência:** **100 a 120 por minuto** (2a).\n- Deixar o tórax **voltar por completo**, sem se apoiar nele entre as compressões (2a). Dispositivos de feedback audiovisual em tempo real são razoáveis (2a).\n- **Pausas** antes e depois do choque as mais curtas possíveis (classe 1); recomeçar as compressões logo depois do choque, sem checar o ritmo antes (2a).\n- Com dois ou mais socorristas, **trocar quem comprime a cada cerca de 2 minutos** (2a). O texto diz que a profundidade cai depois de 90 a 120 segundos de RCP.\n- Profissional que checa o ritmo: pulso em até 10 segundos; sem pulso definido, voltar a comprimir na hora (classe 1).\n\n**Ventilação.** Sem via aérea avançada: boca a boca, boca-máscara ou bolsa-válvula-máscara (2a). Cada ventilação dura cerca de **1 segundo** (2b) e deve fazer o tórax subir de forma visível, sem ventilar de menos nem demais (2a). Com bolsa-máscara, é razoável usar as duas mãos para abrir a via aérea e vedar a máscara, enquanto o segundo socorrista aperta a bolsa (2a). A relação é **30 compressões para 2 ventilações**, antes de via aérea avançada, para leigos e profissionais (2a). Pessoa **com pulso e sem respirar** (parada respiratória, como na overdose de opioide): o profissional deve ventilar (classe 1), e é razoável **1 ventilação a cada 6 segundos** (10 por minuto), cada uma com elevação visível do tórax (2a). Os algoritmos incluem o antagonista opioide (naloxona) se houver suspeita de overdose.\n\n**DEA.** Fazer RCP **até o desfibrilador ou DEA chegar e ser aplicado** (classe 1). Na parada **não monitorada**, um breve período de RCP enquanto o aparelho é preparado é razoável (2a); na fibrilação ventricular ou taquicardia ventricular sem pulso **testemunhada ou monitorada**, com o aparelho já aplicado ou ao alcance, o choque imediato é razoável (2a). Eletrodos no tórax exposto, anterolateral ou anteroposterior, com diâmetro **maior que 8 cm** no adulto (2a). O texto cita que o primeiro choque teve sucesso em 93% quando dado em até 6 minutos e em 75% depois de 16 minutos, e que cada minuto de atraso reduziu em 6% a chance de sobreviver até a alta. O fluxo do DEA nos algoritmos: aplicar os eletrodos, seguir as instruções do aparelho e retomar a RCP por 2 minutos."
+    },
+    {
+      "id": "aha-p7-fbao",
+      "titulo": "Obstrução por corpo estranho no adulto (AHA 2025)",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3",
+      "texto": "**Parte 7 da AHA 2025 (EUA), obstrução das vias aéreas por corpo estranho (FBAO) no adulto.**\n\n- **Leve** (tosse, dificuldade para respirar): deixar a pessoa tossir e observar sinais de obstrução grave (classe 1).\n- **Grave:** tosse fraca ou ausente, não consegue falar, cianose, alteração da consciência ou apneia. **Acionar o serviço de emergência** (classe 1).\n- **Grave e consciente:** ciclos de **5 golpes nas costas seguidos de 5 compressões abdominais**, até a pessoa expelir o objeto ou ficar sem resposta (classe 1). O texto diz que um estudo de coorte de 709 pessoas associou os golpes nas costas a mais alívio e menos lesões que as compressões abdominais, e que há relatos de lesões graves por compressão abdominal.\n- Se **não for possível abraçar o abdome** ou na **gestação avançada:** ciclos de **5 golpes nas costas e 5 compressões torácicas** (classe 1).\n- **Perdeu a resposta:** iniciar RCP começando por compressões e acionar a emergência se ainda não foi feito (classe 1). Ao abrir a via aérea para ventilar, **remover o corpo estranho visível** (classe 1). A **varredura digital às cegas não deve ser feita** (classe 3, dano).\n\nO trecho lido da diretriz não detalha a adaptação dos golpes e das compressões ao paciente reclinado na cadeira odontológica."
+    },
+    {
+      "id": "aha-p6",
+      "titulo": "SBV pediátrico: bebê e criança (AHA e AAP 2025)",
+      "fonte": "aha2025-p6",
+      "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)",
+      "texto": "**Parte 6 da AHA e da Academia Americana de Pediatria (AAP), 2025 (EUA): suporte básico de vida pediátrico.** Diretriz norte-americana, publicada em 22/10/2025 e lida em 17/11/2026, com classe de recomendação em cada ponto. **Bebê** é a criança com menos de cerca de 1 ano (sem o recém-nascido); **criança** vai de cerca de 1 ano até a puberdade; com sinais de puberdade vale a diretriz de adulto. O texto diz que a parada em bebê e criança vem mais de falência respiratória ou choque que de causa cardíaca, por isso as ventilações importam.\n\n**Reconhecer.** O leigo inicia a RCP **imediatamente** em bebê ou criança sem resposta, sem respirar normalmente e sem sinais de vida, e **não checa pulso** (classe 1). O profissional de saúde pode checar o pulso por **até 10 segundos** (2a).\n\n**RCP em bebê e criança.**\n- RCP **convencional, com compressões e respirações** (classe 1); pausas nas compressões **menores que 10 segundos** (classe 1).\n- Frequência de **100 a 120 por minuto** (2a).\n- Profundidade: pelo menos **um terço do diâmetro anteroposterior do tórax**, cerca de **4 cm no bebê** e **5 cm na criança** (2a).\n- Sem via aérea avançada: **30:2 com um socorrista e 15:2 com dois** (2a).\n- Bebê: compressão com **uma mão** (base da mão) ou **duas mãos com os polegares envolvendo o tórax** (classe 1); a técnica de **dois dedos foi eliminada**. Na criança, uma ou duas mãos podem ser razoáveis (2b).\n- Com pulso e respiração ausente ou insuficiente: dar respirações (classe 1); **1 a cada 2 a 3 segundos** (20 a 30 por minuto) é razoável (2a).\n- Leigo sem treino ou sem disposição de ventilar: só compressões (2a).\n\n**DEA.** Em menores de **8 anos**, usar atenuador pediátrico (classe 1); se não houver nem DEA com atenuador nem desfibrilador manual, um DEA sem atenuador pode ser considerado (2b). Eletrodos: os maiores que caibam no tórax, com boa separação entre eles (classe 1).\n\n**Obstrução grave por corpo estranho.**\n- **Bebê:** ciclos de **5 golpes nas costas alternando com 5 compressões torácicas** (classe 1). **Compressões abdominais não são recomendadas no bebê**, pelo risco de lesão de órgão abdominal.\n- **Criança:** **5 golpes nas costas seguidos de 5 compressões abdominais**; a conduta agora começa pelos golpes (classe 1).\n- Sem resposta: RCP começando por compressões, **sem checar pulso**, e remover o objeto visível ao abrir a via aérea; sem varredura digital às cegas (classe 3).\n\n**Cadeia de sobrevivência (Fig. 1).** A figura da Parte 6 mostra a cadeia única da AHA, válida para adulto e criança, dentro e fora do hospital, com seis elos: reconhecimento e acionamento de emergência; RCP de alta qualidade; desfibrilação; reanimação avançada; cuidados pós-parada; recuperação e sobrevivência. O conceito está na seção seguinte, da Parte 4."
+    },
+    {
+      "id": "aha-p4",
+      "titulo": "Cadeia de sobrevivência (AHA 2025)",
+      "fonte": "aha2025-p4",
+      "onde": "AHA 2025, Parte 4, Major Concepts, The 2025 AHA Chain of Survival",
+      "texto": "**Parte 4 da AHA 2025 (EUA), Sistemas de Cuidado.** Só a **cadeia de sobrevivência** foi lida desta parte; diretriz norte-americana de 2025, lida em 17/11/2026. A lista dos seis elos da figura está na seção do SBV pediátrico (Parte 6, Fig. 1).\n\nA AHA volta a uma **cadeia única** para toda parada cardíaca (adulto ou criança, dentro ou fora do hospital), pela simplicidade; os detalhes de aplicação variam. O símbolo da RCP de alta qualidade passou a mostrar compressões e também respirações, pela importância da respiração na parada pediátrica e em parte das paradas de adulto (afogamento, intoxicação por opioide).\n\nO texto lido da Parte 4 nomeia o elo de **reconhecimento e acionamento** de emergência, o de **RCP de alta qualidade** e o de **prevenção e preparação**, deixado de fora de propósito: a AHA o considera crucial e adiou incluí-lo até haver uma declaração científica dedicada a ele.\n\nAs recomendações específicas de acionamento por telefone e de resposta do leigo estão em tabelas da Parte 4 que não foram lidas para este tema."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Malamed, qual é a frequência cardíaca normal do adulto em repouso?",
+      "verso": "De 60 a 110 batimentos por minuto; abaixo de 60 é bradicardia e acima de 110, taquicardia. Fora disso, sem causa óbvia (esporte, ansiedade), considerar consulta médica.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Malamed, como tratar dor ou infecção num paciente ASA 4?",
+      "verso": "Do modo mais conservador possível, de preferência não invasivo: analgésico e antibiótico. Se for preciso intervir, em hospital ou em clínica equipada para emergências.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55"
+    },
+    {
+      "id": "f03",
+      "frente": "Em que pontuação o questionário de Corah, citado pelo Malamed, indica ansiedade elevada?",
+      "verso": "Pontuação igual ou acima de 8 (máximo 20). A ansiedade deve ser manejada antes de começar o tratamento.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60"
+    },
+    {
+      "id": "f04",
+      "frente": "Na equipe de emergência do Malamed, quem leva o kit, o oxigênio e o DEA, e o que confere?",
+      "verso": "O membro 2. Confere o oxigênio todo dia e o kit e o DEA toda semana.",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o Malamed (Tabela 3-2), qual a dose inicial de adrenalina 1:1.000 por via intramuscular, por peso?",
+      "verso": "0,3 mL para 30 kg ou mais; 0,15 mL abaixo de 30 kg; 0,075 mL abaixo de 15 kg ou 1 ano. Local: vasto lateral.",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo a AHA 2025 (EUA), qual a relação compressão:ventilação no adulto sem via aérea avançada?",
+      "verso": "30 compressões para 2 ventilações (classe 2a), em leigos e profissionais. Cada ventilação dura cerca de 1 segundo (classe 2b), com elevação visível do tórax (2a).",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo a AHA e a AAP 2025 (EUA), qual a profundidade das compressões em bebê e criança e a relação sem via aérea avançada?",
+      "verso": "Um terço do diâmetro anteroposterior do tórax: cerca de 4 cm no bebê e 5 cm na criança (classe 2a). Relação 30:2 com um socorrista e 15:2 com dois (classe 2a).",
+      "fonte": "aha2025-p6",
+      "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+    },
+    {
+      "id": "f08",
+      "frente": "Segundo o Malamed, para que se estima a sistólica pelo pulso radial antes de auscultar a pressão?",
+      "verso": "Para evitar o erro do hiato auscultatório: no exemplo do livro, quem infla só até cerca de 165 mmHg lê 160/90 numa pressão real de 230/90. No pulso radial infla-se até 30 mmHg acima do ponto em que ele some, e o método auscultatório começa 30 mmHg acima dessa sistólica estimada.",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+    },
+    {
+      "id": "f09",
+      "frente": "Segundo o Malamed, que valores de temperatura mudam a conduta no consultório?",
+      "verso": "Febre é temperatura acima de 37,5 °C; com 40 °C ou mais o tratamento eletivo é contraindicado e fica limitado a medicamentos (antibióticos e antipiréticos).",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+    },
+    {
+      "id": "f10",
+      "frente": "Segundo o Malamed, por que a bolsa-válvula-máscara é preferida aos dispositivos de pressão positiva?",
+      "verso": "Os de pressão positiva aumentam o risco de ventilar demais (distensão do abdome, vômito, aspiração). A máscara facial transparente, em três tamanhos, deixa ver vômito, sangue e saliva.",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109"
+    },
+    {
+      "id": "f11",
+      "frente": "Segundo a AHA 2025 (EUA), como se atende a obstrução grave por corpo estranho no adulto consciente?",
+      "verso": "Ciclos de 5 golpes nas costas seguidos de 5 compressões abdominais (classe 1), até a pessoa expelir o objeto ou ficar sem resposta. Se não for possível abraçar o abdome, ou na gestação avançada, 5 golpes nas costas e 5 compressões torácicas (classe 1).",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo a AHA 2025 (EUA), quais são os elos da cadeia de sobrevivência da figura?",
+      "verso": "Reconhecimento e acionamento de emergência; RCP de alta qualidade; desfibrilação; reanimação avançada; cuidados pós-parada; recuperação e sobrevivência. É uma cadeia única, para adulto e criança, dentro e fora do hospital.",
+      "fonte": "aha2025-p6",
+      "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo a AHA 2025 (EUA), como são os eletrodos do DEA no adulto e até quando se faz RCP?",
+      "verso": "No tórax exposto, anterolateral ou anteroposterior, com diâmetro maior que 8 cm (classe 2a). Faz-se RCP até o desfibrilador ou DEA chegar e ser aplicado (classe 1).",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Malamed, que números de emergência o consultório brasileiro deixa junto ao telefone?",
+      "verso": "192 (SAMU), 193 (Bombeiros) e 190 (polícia), com o endereço do consultório. Ao delegar a ligação, diga o número exato.",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo a AHA e a AAP 2025 (EUA), como é a compressão no bebê?",
+      "verso": "Uma mão (base da mão) ou duas mãos com os polegares envolvendo o tórax (classe 1); a técnica de dois dedos foi eliminada. Compressões abdominais não são recomendadas no bebê com obstrução grave.",
+      "fonte": "aha2025-p6",
+      "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 58 anos com angina pectoris estável: sem queixa na recepção, mas com dor torácica ao sentar na cadeira. Pelo exemplo do Malamed, em que categoria ASA ela está?",
+      "alternativas": [
+        {
+          "texto": "ASA 1, paciente normal e saudável, sem doença sistêmica.",
+          "correta": false,
+          "justificativa": "A ASA 1 é o paciente sem doença sistêmica; a paciente tem angina, que o livro lista em categoria mais alta.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55"
+        },
+        {
+          "texto": "ASA 2, doença sistêmica leve, como diabetes tipo 2 ou asma bem controlados.",
+          "correta": false,
+          "justificativa": "Os exemplos de ASA 2 do livro são doenças bem controladas e leves; a angina estável, com dor sob estresse, é citada no exemplo de ASA 3.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55"
+        },
+        {
+          "texto": "ASA 3, doença sistêmica grave que limita sem incapacitar.",
+          "correta": true,
+          "justificativa": "O livro dá exatamente esse caso (angina normal na recepção, com dor ao sentar na cadeira) como exemplo de ASA 3: eletivo não está contraindicado, mas o risco é maior.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55"
+        },
+        {
+          "texto": "ASA 4, doença incapacitante que é ameaça constante à vida.",
+          "correta": false,
+          "justificativa": "A ASA 4 inclui a angina instável (pré-infarto); a paciente tem angina estável e nenhum desconforto em repouso.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55"
+        }
+      ],
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Determinação do risco médico; Sistema de classificação da condição física ASA, p. 52–55",
+      "secao": "m-asa",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Ao montar o kit básico (Módulo 1) do consultório, segundo o Malamed, quais são os dois medicamentos injetáveis críticos?",
+      "alternativas": [
+        {
+          "texto": "Corticosteroide e anticonvulsivante.",
+          "correta": false,
+          "justificativa": "O Módulo 1 só tem dois injetáveis críticos, adrenalina e bloqueador da histamina (Tabela 3-3); corticosteroide e anticonvulsivante não estão entre eles.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81"
+        },
+        {
+          "texto": "Atropina e diazepam.",
+          "correta": false,
+          "justificativa": "O Módulo 1 só tem dois injetáveis críticos, adrenalina e bloqueador da histamina (Tabela 3-3); atropina e diazepam não estão entre eles.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81"
+        },
+        {
+          "texto": "Glucagon e hidrocortisona.",
+          "correta": false,
+          "justificativa": "O Módulo 1 só tem dois injetáveis críticos, adrenalina e bloqueador da histamina (Tabela 3-3); glucagon e hidrocortisona não estão entre eles, e o anti-hipoglicêmico do Módulo 1 é o açúcar oral.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81"
+        },
+        {
+          "texto": "Adrenalina e um bloqueador da histamina, como a difenidramina.",
+          "correta": true,
+          "justificativa": "O Módulo 1 traz duas categorias de injetáveis críticos, adrenalina e anti-histamínico, ambos para a reação anafilática.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81"
+        }
+      ],
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Kits de emergência; Módulo 1: medicamentos críticos, Tabelas 3-2 e 3-3, p. 69–81",
+      "secao": "m-kit",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo a diretriz da AHA 2025 (EUA) para o adulto de tamanho médio em parada cardíaca, quais são a profundidade e a frequência recomendadas das compressões torácicas?",
+      "alternativas": [
+        {
+          "texto": "Pelo menos 5 cm, sem limite superior, a 60 a 80 por minuto.",
+          "correta": false,
+          "justificativa": "A diretriz recomenda evitar profundidade excessiva (mais de 6 cm) e frequência de 100 a 120 por minuto.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        },
+        {
+          "texto": "Pelo menos 5 cm, evitando passar de 6 cm, a 100 a 120 por minuto.",
+          "correta": true,
+          "justificativa": "São os dois números da Parte 7: profundidade pelo menos 5 cm sem passar de 6 cm (classe 1) e 100 a 120 por minuto (classe 2a).",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        },
+        {
+          "texto": "Cerca de 4 cm, a 100 a 120 por minuto.",
+          "correta": false,
+          "justificativa": "Cerca de 4 cm é a profundidade do bebê na Parte 6; no adulto, pelo menos 5 cm.",
+          "fonte": "aha2025-p6",
+          "onde": "AHA e AAP 2025, Parte 6, Components of High-Quality CPR"
+        },
+        {
+          "texto": "De 5 a 6 cm, a 130 a 150 por minuto.",
+          "correta": false,
+          "justificativa": "A frequência recomendada é de 100 a 120 por minuto.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        }
+      ],
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15",
+      "secao": "aha-p7-rcp",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente de 28 anos preenche o questionário de ansiedade antes do tratamento eletivo e soma 9 pontos (máximo 20). Segundo o Malamed, o que isso indica?",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60",
+      "secao": "m-estresse",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Ansiedade baixa, porque só pontuações acima de 15 são relevantes.",
+          "correta": false,
+          "justificativa": "O livro associa pontuação igual ou acima de 8 (máximo 20) a ansiedade elevada; 9 já passa do limite.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60"
+        },
+        {
+          "texto": "Ansiedade elevada, que deve ser manejada antes de começar o tratamento.",
+          "correta": true,
+          "justificativa": "É a leitura do livro para o questionário de Corah: pontuação igual ou acima de 8 indica ansiedade elevada, a ser manejada antes de começar.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60"
+        },
+        {
+          "texto": "Contraindicação do tratamento eletivo, até haver consulta médica.",
+          "correta": false,
+          "justificativa": "O livro manda manejar a ansiedade antes de começar; a consulta médica não é necessária para todo paciente e vale quando há dúvida sobre a doença, interação ou grau de risco.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60"
+        },
+        {
+          "texto": "Risco médico equivalente a ASA 4, com adiamento do eletivo.",
+          "correta": false,
+          "justificativa": "O questionário mede ansiedade, e a classificação ASA parte da doença sistêmica; a ASA 2 inclui o paciente saudável com ansiedade e medo extremos.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Reconhecimento do medo e da ansiedade; Consulta médica; Protocolo de redução do estresse, Quadro 2-8, p. 56–58; Modificações específicas, p. 51–52 e 55–60"
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "enunciado": "Numa emergência, segundo o Malamed, qual é a tarefa do membro 3 da equipe?",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68",
+      "secao": "m-equipe",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Levar o kit de emergência, o oxigênio e o DEA até a vítima.",
+          "correta": false,
+          "justificativa": "Essa é a tarefa do membro 2.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+        },
+        {
+          "texto": "Monitorar sinais vitais, preparar medicamentos, acionar o serviço de emergência e anotar tudo em ordem cronológica.",
+          "correta": true,
+          "justificativa": "É a função do membro 3 no livro, que também recebe o socorro na entrada do prédio.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+        },
+        {
+          "texto": "Ser o primeiro a chegar à vítima e ficar com ela até o fim, iniciando o suporte básico.",
+          "correta": false,
+          "justificativa": "Essa é a tarefa do membro 1.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+        },
+        {
+          "texto": "Aguardar o socorro sem atuar, porque o membro 3 só observa.",
+          "correta": false,
+          "justificativa": "O membro 3 auxilia, monitora sinais vitais e aciona o serviço de emergência; todos devem saber atuar em qualquer papel.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Equipe do consultório; Manejo da equipe; A quem chamar; Quando chamar, Quadros 3-1 e 3-2, p. 63–68"
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "enunciado": "Ao escolher o equipamento de ventilação do kit, o Malamed prefere a bolsa-válvula-máscara autoinflável aos dispositivos de pressão positiva. Qual a razão dada?",
+      "fonte": "malamed7-cap03",
+      "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109",
+      "secao": "m-equipamento",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "A bolsa-válvula-máscara ventila com o ar exalado do socorrista e desvia o ar exalado da vítima.",
+          "correta": false,
+          "justificativa": "Isso descreve a máscara de bolso (cerca de 16% de oxigênio), não a bolsa-válvula-máscara.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109"
+        },
+        {
+          "texto": "A bolsa-válvula-máscara dispensa treino da equipe.",
+          "correta": false,
+          "justificativa": "O livro avisa que ter o item no kit não prepara o consultório se a equipe não sabe usá-lo.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109"
+        },
+        {
+          "texto": "Os dispositivos de pressão positiva aumentam o risco de ventilar demais, com distensão do abdome, vômito e aspiração.",
+          "correta": true,
+          "justificativa": "É a razão do livro para preferir a bolsa-válvula-máscara.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109"
+        },
+        {
+          "texto": "A bolsa-válvula-máscara deixa ver vômito, sangue e saliva, e os de pressão positiva não.",
+          "correta": false,
+          "justificativa": "Os dispositivos de pressão positiva também usam máscara facial transparente, que deixa ver vômito, sangue e saliva; a razão da preferência pela bolsa-válvula-máscara é o risco de superinsuflação.",
+          "fonte": "malamed7-cap03",
+          "onde": "cap. 3, Preparação, Módulo 1: equipamento crítico, Tabela 3-4; Organização do Kit de Emergência, Quadro 3-4, p. 81–87 e 105–109"
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto de porte médio engasga durante um almoço: não consegue falar, está cianótico, com tosse ausente, e ainda responde com gestos. O socorrista consegue abraçar seu abdome. Segundo a AHA 2025 (EUA), qual a conduta?",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3",
+      "secao": "aha-p7-fbao",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Deixá-lo tossir e apenas observar se surgem sinais de obstrução grave.",
+          "correta": false,
+          "justificativa": "Essa é a conduta da obstrução leve (tosse, dificuldade para respirar); aqui há sinais de obstrução grave.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3"
+        },
+        {
+          "texto": "Fazer varredura digital às cegas da boca para retirar o objeto.",
+          "correta": false,
+          "justificativa": "A varredura digital às cegas não deve ser feita (classe 3, dano); só se retira o corpo estranho visível ao abrir a via aérea para ventilar, depois que a pessoa fica sem resposta.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3"
+        },
+        {
+          "texto": "Acionar o serviço de emergência e fazer ciclos de 5 golpes nas costas seguidos de 5 compressões abdominais.",
+          "correta": true,
+          "justificativa": "É a conduta da diretriz para obstrução grave em adulto consciente (classe 1), até expelir o objeto ou ficar sem resposta.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3"
+        },
+        {
+          "texto": "Fazer ciclos de 5 golpes nas costas e 5 compressões torácicas.",
+          "correta": false,
+          "justificativa": "As compressões torácicas no lugar das abdominais são para quem não consegue abraçar o abdome ou está em gestação avançada; no enunciado o socorrista consegue abraçar.",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Adult FBAO, tabelas de recomendação 16 a 18 e Fig. 3"
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "enunciado": "Bebê de 6 meses, consciente, com obstrução grave das vias aéreas por corpo estranho. Segundo a AHA e a AAP 2025 (EUA), qual a manobra?",
+      "fonte": "aha2025-p6",
+      "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)",
+      "secao": "aha-p6",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Ciclos de 5 golpes nas costas seguidos de 5 compressões abdominais.",
+          "correta": false,
+          "justificativa": "Essa é a sequência da criança; no bebê, as compressões abdominais não são recomendadas, pelo risco de lesão de órgão abdominal.",
+          "fonte": "aha2025-p6",
+          "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+        },
+        {
+          "texto": "Varredura digital às cegas da boca, seguida de compressões abdominais.",
+          "correta": false,
+          "justificativa": "A varredura digital às cegas não é feita (classe 3), e compressões abdominais não são recomendadas no bebê.",
+          "fonte": "aha2025-p6",
+          "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+        },
+        {
+          "texto": "Compressões abdominais isoladas, com o bebê no colo.",
+          "correta": false,
+          "justificativa": "Compressões abdominais não são recomendadas no bebê, pelo risco de lesão de órgão abdominal.",
+          "fonte": "aha2025-p6",
+          "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+        },
+        {
+          "texto": "Ciclos de 5 golpes nas costas alternando com 5 compressões torácicas.",
+          "correta": true,
+          "justificativa": "É a conduta da Parte 6 para o bebê com obstrução grave (classe 1).",
+          "fonte": "aha2025-p6",
+          "onde": "AHA e AAP 2025, Parte 6, Scope of Guidelines; Initiation of CPR; Components of High-Quality CPR; CPR Technique; Management of Shockable Rhythms; Foreign-Body Airway Obstruction; Fig. 1, cadeia de sobrevivência (AHA e AAP 2025, Parte 6; única, para adulto, criança, dentro e fora do hospital)"
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "enunciado": "Adulto em parada cardíaca não monitorada no consultório; o DEA ainda está a caminho e o socorrista é profissional de saúde. Segundo a AHA 2025 (EUA), qual a conduta?",
+      "fonte": "aha2025-p7",
+      "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15",
+      "secao": "aha-p7-rcp",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Aguardar o DEA sem comprimir, para não atrapalhar a análise do ritmo.",
+          "correta": false,
+          "justificativa": "A diretriz manda fazer RCP até o desfibrilador ou DEA chegar e ser aplicado (classe 1).",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        },
+        {
+          "texto": "Checar o pulso por cerca de 30 segundos entre os ciclos de compressão.",
+          "correta": false,
+          "justificativa": "O profissional checa o pulso por no máximo 10 segundos; sem pulso definido, volta a comprimir na hora (classe 1).",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        },
+        {
+          "texto": "Fazer RCP até o DEA chegar e ser aplicado e, depois do choque, recomeçar as compressões sem checar antes o ritmo.",
+          "correta": true,
+          "justificativa": "É o que a diretriz traz: RCP até o DEA ser aplicado (classe 1) e retomada logo depois do choque, sem checar o ritmo (2a).",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        },
+        {
+          "texto": "Depois do choque, checar o ritmo por 1 minuto antes de recomeçar as compressões.",
+          "correta": false,
+          "justificativa": "A diretriz diz para recomeçar as compressões logo depois do choque, sem checar o ritmo antes (2a).",
+          "fonte": "aha2025-p7",
+          "onde": "AHA 2025, Parte 7, Chest Compression Depth and Rate; Pauses; Ventilation and Compression-to-Ventilation Ratio; Defibrillation During Adult Cardiac Arrest, tabelas de recomendação 8 a 15"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "enunciado": "No exemplo do Malamed, um paciente tem pressão real de 230/90 mmHg, mas a leitura foi 160/90 porque o manguito foi inflado só até cerca de 165 mmHg. O que explica o erro e como se evita?",
+      "fonte": "malamed7-cap02",
+      "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47",
+      "secao": "m-avaliacao",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Ansiedade, que baixou a pressão de forma transitória; repetir a medida depois de acalmar.",
+          "correta": false,
+          "justificativa": "O livro diz que a ansiedade eleva a pressão de forma transitória; a leitura baixa do exemplo é de hiato auscultatório.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+        },
+        {
+          "texto": "Bradicardia; medir a frequência cardíaca de novo antes da pressão.",
+          "correta": false,
+          "justificativa": "O exemplo do livro de leitura baixa é de hiato auscultatório (som que some entre a sistólica e a diastólica), não de frequência cardíaca.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+        },
+        {
+          "texto": "Hiato auscultatório; estimar a sistólica pelo pulso radial e inflar 30 mmHg acima desse ponto.",
+          "correta": true,
+          "justificativa": "É o erro do exemplo do livro; a estimativa pela palpação do pulso radial o evita, e o método auscultatório infla 30 mmHg acima da sistólica palpatória.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+        },
+        {
+          "texto": "Febre; acima de 37,5 °C a leitura da pressão sai falsamente baixa.",
+          "correta": false,
+          "justificativa": "No livro a febre é limiar de conduta (acima de 37,5 °C; com 40 °C ou mais, o eletivo é contraindicado), não causa do erro do exemplo, que é o hiato auscultatório.",
+          "fonte": "malamed7-cap02",
+          "onde": "cap. 2, Prevenção, Exame físico; Sinais vitais; Frequência e ritmo cardíacos; Frequência respiratória; Temperatura, p. 37–47"
+        }
+      ]
+    }
+  ]
+}

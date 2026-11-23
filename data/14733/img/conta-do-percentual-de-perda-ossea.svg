@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1060" width="720" height="1060">
+<rect width="720" height="1060" fill="#FFFFFF"/>
+<title>A razão entre a perda óssea percentual e a idade: exemplo numérico</title>
+<desc>Esquema didático de um dente inferior em corte, coroa para cima e raiz para baixo, com osso em volta da raiz até a crista óssea. Duas distâncias cotadas no exemplo: 4 mm de perda óssea e 9 mm de comprimento da raiz. Embaixo: perda óssea em porcentagem = perda ÷ comprimento da raiz × 100 = 4 ÷ 9 × 100 = 44,4%; razão = perda óssea em porcentagem ÷ idade = 44,4 ÷ 40 anos = 1,11.</desc>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<rect x="20" y="460" width="270" height="330" rx="10" fill="#E2CDB2"/>
+<line x1="20" y1="460" x2="290" y2="460" stroke="#C9AE8A" stroke-width="8"/>
+<path d="M100,260 C80,230 70,150 95,110 Q150,70 205,110 C230,150 220,230 200,260 C200,420 175,620 150,710 C125,620 100,420 100,260 Z" fill="#FBF6EA" stroke="#1F4D4F" stroke-width="4" stroke-linejoin="round"/>
+<g stroke="#B86A3C" stroke-width="3" stroke-dasharray="10 7">
+<line x1="205" y1="260" x2="530" y2="260"/>
+<line x1="290" y1="460" x2="530" y2="460"/>
+<line x1="160" y1="710" x2="530" y2="710"/>
+</g>
+<g stroke="#1F4D4F" stroke-width="4" fill="#1F4D4F">
+<line x1="400" y1="276" x2="400" y2="444" fill="none"/>
+<polygon points="400,260 391,280 409,280" stroke="none"/>
+<polygon points="400,460 391,440 409,440" stroke="none"/>
+<line x1="510" y1="276" x2="510" y2="694" fill="none"/>
+<polygon points="510,260 501,280 519,280" stroke="none"/>
+<polygon points="510,710 501,690 519,690" stroke="none"/>
+</g>
+<text x="388" y="350" font-size="30" font-weight="700" fill="#B86A3C" text-anchor="end">4 mm</text>
+<text x="388" y="384" font-size="26" fill="#4A5B5C" text-anchor="end">perda óssea</text>
+<text x="498" y="560" font-size="30" font-weight="700" fill="#B86A3C" text-anchor="end">9 mm</text>
+<text x="498" y="594" font-size="26" fill="#4A5B5C" text-anchor="end">comprimento</text>
+<text x="498" y="624" font-size="26" fill="#4A5B5C" text-anchor="end">da raiz</text>
+<text x="548" y="256" font-size="30" font-weight="700" fill="#1F4D4F">JCE</text>
+<text x="548" y="288" font-size="22" fill="#4A5B5C">junção</text>
+<text x="548" y="312" font-size="22" fill="#4A5B5C">cemento-esmalte</text>
+<text x="548" y="452" font-size="30" font-weight="700" fill="#1F4D4F">Crista</text>
+<text x="548" y="486" font-size="30" font-weight="700" fill="#1F4D4F">óssea</text>
+<text x="548" y="720" font-size="30" font-weight="700" fill="#1F4D4F">Ápice</text>
+<rect x="20" y="810" width="680" height="230" rx="18" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="4"/>
+<text x="360" y="858" font-size="29" font-weight="700" fill="#1F4D4F" text-anchor="middle">Perda óssea (%) = perda ÷ raiz × 100</text>
+<text x="360" y="906" font-size="31" font-weight="700" fill="#B86A3C" text-anchor="middle">4 ÷ 9 × 100 = 44,4%</text>
+<text x="360" y="960" font-size="29" font-weight="700" fill="#1F4D4F" text-anchor="middle">Razão = perda óssea (%) ÷ idade</text>
+<text x="360" y="1008" font-size="31" font-weight="700" fill="#B86A3C" text-anchor="middle">44,4 ÷ 40 anos = 1,11</text>
+</g>
+</svg>

@@ -1,0 +1,580 @@
+{
+  "slug": "clareamento-dental",
+  "titulo": "Clareamento caseiro e de consultório; dente desvitalizado",
+  "area": "Dentística",
+  "origem": "Mondelli, Dentística Operatória e Restauradora, 1ª ed., cap. 38",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "mondelli2026",
+      "ref": "José Mondelli, Adriano Lia Mondelli, Rafael Francisco Lia Mondelli. Dentística Operatória e Restauradora. 1ª ed. Rio de Janeiro: Guanabara Koogan, 2026. Cap. 38, Clareamento, pp. 429–449 Páginas conforme a edição digital.",
+      "curta": "Mondelli 1ª ed., cap. 38"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "causas",
+      "titulo": "Por que o dente escurece: causas extrínsecas e intrínsecas",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Causas do escurecimento, p. 429",
+      "texto": "A cor do dente é um resultado óptico: depende da luz que as estruturas dentárias absorvem e refletem. Por isso, qualquer alteração dessas estruturas pode mudar a cor. O livro pede um bom diagnóstico da descoloração antes de escolher o tratamento.\n\n**Manchas extrínsecas** ficam na superfície mais externa. Os cromógenos (pigmentos) aderem às irregularidades do dente ou à película adquirida. Estão ligadas a falta de higiene, composição e fluxo salivar e hábitos: café, vinho, chá, alimentos com corante e tabaco. Os cromógenos têm carga aniônica, ligam-se a cátions da película salivar e aderem ao esmalte. Normalmente saem só com profilaxia; em alguns casos é preciso clarear.\n\n**Manchas intrínsecas** estão no interior do dente e são mais difíceis de remover. O livro as divide em dois grupos:\n- **Pré-eruptivas** (formação do dente): dentinogênese e amelogênese imperfeitas, fluorose, hipoplasias, porfiria congênita.\n- **Pós-eruptivas** (depois da formação): traumas pulpares, medicamentos (como a tetraciclina), remanescentes do tratamento endodôntico, envelhecimento natural.\n\nO capítulo apresenta o clareamento como um dos procedimentos estéticos mais procurados no consultório: técnica conservadora, sem desgaste da estrutura dental quando bem feita, de bom custo-benefício. Dente com tratamento endodôntico escurecido por trauma, necrose ou material do tratamento tem seção própria, mais adiante."
+    },
+    {
+      "id": "agentes",
+      "titulo": "Os três géis e como o clareamento funciona",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Tipos de géis e Mecanismo de ação, p. 430",
+      "texto": "O livro descreve três agentes: peróxido de hidrogênio, peróxido de carbamida e perborato de sódio.\n\n| Agente | O que o livro diz |\n|---|---|\n| **Peróxido de hidrogênio** | clareia por oxidação; usado puro ou como produto da quebra dos outros dois. Caseiro: 1 a 10%. Consultório: 30 a 40% nesta seção (p. 430); a seção de consultório traz outra faixa (ver a seção do consultório) |\n| **Peróxido de carbamida** | dissocia-se em 70% de ureia e 30% de peróxido de hidrogênio (1% de peróxido de hidrogênio para 3% de carbamida). A ureia vira gás carbônico e amônia, o pH sobe e favorece a quebra do peróxido em radicais. Mais comum no caseiro; o pico de liberação ocorre em até 2 h |\n| **Perborato de sódio** | pó que libera peróxido de hidrogênio com água destilada. Foi muito usado em dentes despolpados; hoje, nesta seção, o livro cita preferência pela carbamida a 10 a 30%; a Tabela 38.1 traz um produto de perborato de sódio com peróxido de hidrogênio a 20% para dentes não vitais (ver a seção da tabela) |\n\n**Apresentação do gel de consultório:** o peróxido vem separado do espessante, em meio ácido que prolonga a validade. Ao misturar, o pH sobe e começa a dissociação; por isso os componentes só se juntam na hora da aplicação. Géis menos viscosos penetram mais na polpa, podem dar mais sensibilidade e escorrem mais, com risco de ardência em gengiva, mucosa e lábios. Não há tipo superior: todos funcionam se seguidas as instruções do fabricante.\n\n**Mecanismo:** a cor amarelada vem de cadeias carbônicas longas (cromóforos) na dentina; quanto maiores, mais luz absorvem e mais escuro o dente. A região cervical é a mais escura, por ter menos esmalte; o canino é o dente mais escuro da arcada, por ter mais dentina. O peróxido, de baixo peso molecular, atravessa o esmalte pelas microporosidades até a dentina. Lá a oxidação quebra as cadeias em moléculas menores, a luz passa e é refletida, e o dente clareia de modo uniforme na coroa toda."
+    },
+    {
+      "id": "preparo",
+      "titulo": "Antes de começar: condições bucais, exames e registro de cor",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Técnicas e Registro de cor, pp. 430–431",
+      "texto": "O livro descreve três técnicas: **consultório, caseira e combinada**. O tratamento é individualizado, conforme o tempo disponível e a adesão do paciente.\n\n**Só se começa com ótima saúde bucal.** Quem precisa passa antes por profilaxia, instrumentação periodontal, selamento de cavidades e das áreas de dentina exposta (inclusive lesões cervicais não cariosas) e correção de restaurações mal adaptadas.\n\n**Procedimentos prévios comuns:**\n- anamnese detalhada;\n- diagnóstico da cor;\n- diagnóstico de sensibilidade prévia;\n- verificação de trincas;\n- registro da cor inicial.\n\n**Registro de cor:**\n- Faça a profilaxia profissional antes de registrar.\n- Use ambiente claro e escala de cor. O livro cita a escala clássica de cerâmica, com 16 cores ordenadas por matiz e croma, que para acompanhar o clareamento se reordena por valor (luminosidade), e uma segunda escala já desenvolvida pela luminosidade.\n- Documente em prontuário e em fotografias, para comparar ao final.\n\n**Exame que protege contra sensibilidade** (detalhado na seção de sensibilidade): trincas, lesões cervicais não cariosas, restaurações mal adaptadas, recessões e dentina exposta aumentam o risco. As trincas são seladas com adesivo; nas restaurações se confere o selamento marginal."
+    },
+    {
+      "id": "consultorio",
+      "titulo": "Clareamento de consultório: concentrações, proteção e tempos",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de consultório, pp. 431–434 (concentrações também em Tipos de géis, p. 430)",
+      "texto": "O consultório tem a vantagem do **tratamento mais rápido**. O livro traz duas faixas de concentração, em lugares diferentes:\n\n| Onde | O que diz |\n|---|---|\n| Seção Tipos de géis (p. 430) | peróxido de hidrogênio a 30 a 40% no consultório |\n| Seção Técnica de consultório (pp. 431–432) | peróxido de hidrogênio a 35 a 40% ou peróxido de carbamida a 20 a 37% |\n\nOs dois trechos estão no mesmo capítulo e o livro não os concilia; o tema mostra ambos.\n\n**Proteção dos tecidos:**\n- Com peróxido de hidrogênio de alta concentração, a gengiva é protegida com **barreira fotopolimerizável**; bochechas e língua ficam afastadas por afastador próprio, com um dispositivo central para o paciente morder durante toda a aplicação.\n- Com carbamida de alta concentração, o livro diz que não é preciso proteger gengiva e tecidos moles, porque a concentração equivale a um terço da do peróxido de hidrogênio.\n\n**Tempos nos casos do livro (por sessão):**\n\n| Caso | Agente | Aplicação | Sessões |\n|---|---|---|---|\n| 1 | peróxido de hidrogênio a 35% (pó e líquido) | 3 aplicações de 8 min | 2 |\n| 2 | peróxido de hidrogênio a 40% (duas seringas) | 2 aplicações de 20 min | 2 |\n| 5 (combinada) | peróxido de hidrogênio a 38% (duas seringas) | até 30 min | 1, seguida de caseiro |\n\nO capítulo não traz um número padrão de sessões nem um intervalo padrão entre elas para o consultório; só o que cada caso mostra. A cor final foi verificada 1 semana depois de terminado o clareamento."
+    },
+    {
+      "id": "consultorio-sequencia",
+      "titulo": "Sequência clínica no consultório",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de consultório, casos 1 e 2, pp. 432–434 (intervalo de 2 ou 7 dias: caso 1, p. 432)",
+      "texto": "A sequência do caso 1 do livro (o caso 2 repete os mesmos passos):\n\n1. **Profilaxia e registro da cor** inicial.\n2. **Dessensibilizante** de nitrato de potássio e fluoreto de sódio em todas as faces vestibulares a clarear, por **10 minutos**. Depois é removido por completo, com sugador ou ar e água.\n3. **Barreira gengival** de resina fotopolimerizável, só com o campo limpo e seco e só depois da profilaxia e do dessensibilizante. Começa pelo contorno gengival, com a seringa a cerca de 45° e a ponta voltada para apical, em grupos de 2 a 4 dentes, fotoativando e secando antes do grupo seguinte.\n4. **Conferência da barreira:** com o espelho intrabucal, pela incisal, não deve haver espaços, e a barreira não pode tocar a superfície dentária. A polimerização completa se checa passando a sonda; áreas incompletas são ativadas de novo.\n5. **Gel** manipulado conforme o fabricante e aplicado com micropincel em todas as faces vestibulares, em quantidade que cubra a superfície.\n6. **Aplicações:** ao fim do tempo, o gel é removido com sugador antes de nova camada (caso 1: três aplicações de 8 min; caso 2: duas de 20 min).\n7. **Remoção da barreira** ao final e **nova sessão** com o mesmo protocolo, desde a profilaxia. No caso 1, a segunda sessão pode ser feita após **2 ou 7 dias**; no caso 2 foram duas sessões com o mesmo protocolo, sem prazo entre elas no texto.\n\nSe o gel tocar tecido mole, ver a seção «Efeitos nos tecidos moles e nas restaurações» (queimadura química e neutralizante).\n\nO gel é manipulado conforme o fabricante. A tabela do capítulo (seção própria) compara os tempos de vários produtos."
+    },
+    {
+      "id": "caseiro",
+      "titulo": "Clareamento caseiro: indicação, géis e quando evitar",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, pp. 435–437",
+      "texto": "O caseiro usa **moldeira individualizada, moldeira pré-fabricada ou tiras clareadoras**. Clareia vários dentes ao mesmo tempo, é fácil de aplicar, mais barato que o de consultório e tem risco menor de sensibilidade. Para o livro, a cor também é mais estável, porque as moléculas pigmentadas são quebradas de forma mais gradual.\n\n**Concentrações:** peróxido de hidrogênio a 1 a 10% e carbamida a 10 a 22%. Como são mais baixas, exigem mais tempo de aplicação. Segundo o texto geral, em média o peróxido de hidrogênio é usado por 30 minutos a 1 hora e a carbamida por 2 a 4 horas. Os tempos por produto e concentração estão na tabela do capítulo (seção própria).\n\n**Escolha do gel:** considera o risco de sensibilidade (carbamida, se houver muita), as horas livres do paciente e a responsabilidade dele com as instruções.\n\n**Quem acompanha:** todo tratamento caseiro é planejado e supervisionado pelo dentista. Ele dá as instruções (colocação, limpeza e guarda da moldeira) e marca retornos regulares para ver se ainda há mudança de cor, se há sensibilidade e se é preciso alterar tempo, concentração ou alternância dos dias.\n\n**Quando não é boa opção:**\n- paciente indisciplinado, que não segue as instruções por falta de habilidade ou de tempo;\n- **lesões cervicais não cariosas, abfrações e recessões gengivais**: o livro não recomenda o caseiro, porque nele não há como proteger essas regiões; indica o consultório, em que o profissional controla o tratamento prévio dessas lesões.\n\nIndicação especial: pacientes com sensibilidade exacerbada ou com restrições ao tratamento em ambiente clínico."
+    },
+    {
+      "id": "caseiro-moldeira",
+      "titulo": "Moldeira individualizada e pré-fabricada: os casos do livro",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, casos 3 e 4, pp. 435–439 (recorte da moldeira: caso 3, p. 436)",
+      "texto": "**Moldeira individualizada (caso 3, carbamida a 10%):**\n- moldagem com alginato, modelo de gesso de boa qualidade e placa de silicone ou acetato plastificada a vácuo;\n- recorte com lâmina ou tesoura fina, **ao nível gengival ou 1,0 a 2,0 mm acima**, seguindo a curvatura da margem gengival ou em corte reto (as duas opções estão na mesma frase do caso 3);\n- prova no paciente, para conforto e posição;\n- o paciente coloca uma pequena gota de gel na face vestibular; ao fim, bochecha com água, lava e seca a moldeira, e guarda a bisnaga na geladeira;\n- usou por **4 semanas**, com resultado eficaz e sem relato de sensibilidade que obrigasse a suspender.\n\n**Divergência do livro no tempo diário do caso 3 (e do caso 5):**\n\n| Onde | Tempo por dia |\n|---|---|\n| Quadro do caso (casos 3 e 5) | 1 a 2 horas |\n| Texto do caso (casos 3 e 5) | 2 horas |\n\nO livro não explica a diferença. Nenhuma outra parte do tema depende desse número.\n\n**Moldeira pré-fabricada (caso 4, peróxido de hidrogênio a 10%):**\n- vem numa guia plástica, com arco superior e inferior identificados; é levada à boca e posicionada sem pressão, e a guia é removida para a moldeira ficar com o gel;\n- o gel, mais viscoso, fica nos terços médio e incisal ou oclusal e não é espalhado até a região cervical; isso evita o contato direto com ela, minimiza a sensibilidade e, segundo o livro, não reduz a efetividade;\n- caixa com dez jogos: **10 dias, 30 min a 1 h por dia**;\n- vantagem: dispensa moldagem, modelo e moldeira individual; boa para quem sente desconforto no consultório."
+    },
+    {
+      "id": "combinada",
+      "titulo": "Técnica combinada e estabilidade da cor",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Técnica mista e Estabilidade, pp. 439–442",
+      "texto": "**Combinada:** reúne os dois métodos no mesmo paciente. Em geral o consultório vem na primeira sessão e o paciente leva o material caseiro para continuar até a satisfação ou até a cor parar de mudar. O livro diz que **ainda não há evidência suficiente** de que a mudança de cor seja maior na combinada do que na caseira ou na de consultório isoladas; o ganho é a individualização do tratamento.\n\n**Caso 5:** consultório com peróxido de hidrogênio a 38%, em uma sessão de até 30 minutos, com dessensibilizante de 10 min e barreira gengival. Depois, moldeira individualizada com carbamida a 10% por **4 semanas**. O tempo diário do caso aparece como \"1 a 2 horas\" no quadro e \"2 horas\" no texto (ver a seção da moldeira individualizada).\n\n**Estabilidade:** caseira e consultório alcançam o mesmo nível de branco; muda o tempo de tratamento e a estabilidade. Segundo a literatura citada, a estabilidade do caseiro em 2 anos é um pouco maior.\n\n**Ponto de saturação:** a partir de certo momento a cor não muda mais entre as sessões, porque já não há moléculas pigmentadas a quebrar. Insistir além disso pode levar à perda de estrutura sadia: o oxigênio reativo continua procurando estruturas com carbono, como as proteínas da matriz do esmalte, e pode gerar rugosidade e porosidade no esmalte, que favorecem cárie e desgaste.\n\n**Duração:** em média cerca de 2 anos, menos em quem consome alimentos ou bebidas pigmentantes (ver a seção de mitos e verdades)."
+    },
+    {
+      "id": "sensibilidade",
+      "titulo": "Sensibilidade: causa, fatores de risco e como reduzir",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442",
+      "texto": "A **sensibilidade é a reação adversa mais relatada**. O peróxido de hidrogênio chega à polpa por difusão e causa uma inflamação momentânea: aumentam a vascularização, o fluxo sanguíneo e a pressão interna, e a polpa não consegue expandir dentro de parede dura.\n\n**Dois fatores aumentam risco e intensidade:** o **tempo de aplicação** e a **concentração do gel**. Em estudo citado, grupos usaram peróxido de hidrogênio a 4% ou a 10%, duas vezes ao dia, 30 minutos, por 2 semanas. Relatou sensibilidade 64% do grupo de 10% e 38% do grupo de 4%. As duas concentrações clarearam igualmente; a de 4% teve menor risco e menor intensidade.\n\n**Duração do sintoma:** é momentânea, enquanto houver oxigênio reativo no dente; podem ocorrer picos de segundos, por até 2 dias em média depois da sessão.\n\n**Fatores de risco, que se procuram no exame clínico prévio:**\n- trincas (selar com adesivo, como barreira física);\n- lesões cervicais não cariosas, recessões e dentina exposta, por onde o gel chega mais fácil à polpa;\n- restaurações mal adaptadas (conferir o selamento marginal e, se preciso, tratar as margens com adesivo);\n- áreas cariosas (restaurar, ou recobrir cirurgicamente se for o caso, antes de clarear);\n- dentes com dentina exposta, como os desgastados na incisal: tratamento adesivo e fina camada de resina fluida.\n\n**Esmalte cervical:** o último milímetro é onde há mais microtrincas e o esmalte tem menos de 0,3 mm. O livro propõe proteger **1,0 mm dessa região** com a barreira gengival, para que ela não tenha contato direto com o gel.\n\n**Irritação gengival e queimadura:** ver a seção de efeitos nos tecidos moles."
+    },
+    {
+      "id": "sensibilidade-condutas",
+      "titulo": "Dessensibilizante, medicamentos e luz",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Dessensibilizante dental e Mitos e verdades, pp. 443–444 e 447–449",
+      "texto": "**Dessensibilizante:** reduz a intensidade da sensibilidade, mas não evita a dor nem a agressão pulpar. Os dois principais são o **nitrato de potássio** (despolariza fibras nervosas, efeito semelhante a anestesia) e o **fluoreto de sódio** (oblitera os túbulos dentinários e reduz a permeabilidade, sem afetar a eficácia do clareamento). Pode ser **passivo**, já na fórmula do gel clareador, ou **ativo**: gel aplicado após a profilaxia nas faces vestibulares, por **10 minutos** (aos 5 minutos chega à polpa quantidade mínima; aos 10, a suficiente para ação neural).\n\n**Medicamentos:** o livro cita estudos com analgésicos, anti-inflamatórios, corticosteroide e vitamina C (entre eles naproxeno, etoricoxibe, ibuprofeno, dexametasona, dipirona, paracetamol com ou sem codeína, piroxicam e vitamina C). **Nenhum mudou o risco nem a intensidade** da sensibilidade, usado antes ou depois do clareamento. A melhor forma de evitar a dor, diz o livro, são os cuidados prévios: checar trincas, áreas expostas e sensibilidade anterior, usar dessensibilizante e escolher o gel adequado. O capítulo não traz posologia para a sensibilidade.\n\n**Luz ou laser:** estudos citados não mostram diferença significativa na capacidade clareadora entre usar luz e os métodos convencionais, e a luz pode aumentar a sensibilidade, por poder elevar a temperatura e causar estímulos dolorosos. O capítulo não traz protocolo de luz ou laser."
+    },
+    {
+      "id": "efeitos-moles",
+      "titulo": "Efeitos nos tecidos moles e nas restaurações",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 442–444 (cuidado com a moldeira: p. 443, Fig. 38.65)",
+      "texto": "**Irritação gengival:** efeito comum do caseiro, na maioria pelo excesso de produto na moldeira, que extravasa para a gengiva e causa ardência ou descamação em alguns casos. Cuidados: cortar a moldeira individual a nível gengival (Fig. 38.65, p. 443) e sem reservatório. O caso 3 (seção da moldeira individualizada) dá o recorte ao nível gengival ou 1,0 a 2,0 mm acima. A irritação reverte suspendendo o clareamento por alguns dias, com correção das instruções. Com moldeira pré-fabricada é bem menos relatada, porque o gel fica mais para a incisal.\n\n**Queimadura química:** ocorrência comum no consultório, causada pelo contato do gel de alta concentração com tecido mole. Aparece como mancha esbranquiçada na gengiva, mucosa jugal ou língua, com ardência. Evita-se com barreira gengival adequada e afastadores bem posicionados. Se houve contato, aplique **neutralizante (solução de bicarbonato de sódio, em geral presente nos kits) logo depois do contato**, o que ameniza a irritação.\n\n**Restaurações estéticas anteriores:** as resinas não mudam de cor com os géis; por isso a diferença de cor em relação ao dente clareado pode aparecer, e o paciente deve ser avisado de possível substituição ou reparo. A troca ou o reparo superficial é feito **7 ou 14 dias depois do término do clareamento**. O oxigênio residual é liberado devagar por cerca de 1 semana e atrapalha a polimerização das resinas: menor resistência de união, mais infiltração marginal e perda precoce da restauração.\n\nEm dente despolpado, o livro pede esperar 14 dias antes da restauração final, pelo mesmo motivo (seção seguinte)."
+    },
+    {
+      "id": "despolpados-tecnicas",
+      "titulo": "Dente despolpado: tampão cervical, walking bleach e inside/outside",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447",
+      "texto": "O clareamento de dentes despolpados trata alteração de cor por trauma, necrose ou materiais do tratamento endodôntico. O livro o considera menos invasivo que faceta ou coroa. Usa-se perborato de sódio ou peróxidos de baixa concentração.\n\n**Risco:** reabsorção radicular externa, uma resposta inflamatória quando o agente atinge o tecido periodontal. O capítulo não traz incidência. Para minimizar, faz-se um **tampão cervical** durante o clareamento interno: desobtura-se **2,0 a 3,0 mm abaixo da junção amelocementária (JAC)**, com instrumento rotatório em baixa rotação ou calcadores aquecidos, e sela-se com cimento de ionômero de vidro ou com adesivo e resina fluida.\n\n**Walking bleach:** o agente fica dentro da câmara pulpar por alguns dias e é trocado no consultório até a cor desejada.\n- Antes: conferir a obturação dos canais por radiografia, usar isolamento absoluto e fazer o tampão cervical.\n- Gel na cavidade e restauração provisória.\n- Em geral, 3 a 6 sessões com intervalos de 1 semana, tempo ainda não bem estabelecido na literatura.\n- Avaliar a cor regularmente, para não clarear além do necessário; alcançada a cor, restauração definitiva, respeitando o tempo de espera.\n\n**Inside/outside:** usa a moldeira do clareamento caseiro. Faz-se o mesmo tampão, mas a cavidade de acesso fica **aberta, sem restauração provisória**. O gel (carbamida ou peróxido de hidrogênio de baixa concentração) vai dentro da câmara e na face vestibular, mantido pela moldeira. O paciente limpa a cavidade e repete todo dia, com supervisão. Em média 2 horas por dia; resultado satisfatório em geral em cerca de 2 semanas."
+    },
+    {
+      "id": "despolpados-consultorio",
+      "titulo": "Dente despolpado: consultório e clareamento só externo",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 446–447",
+      "texto": "**Consultório (power bleaching):** semelhante à técnica em dentes vitais. O agente é aplicado na face vestibular e dentro da câmara pulpar. Exige o mesmo tampão cervical e proteção gengival, de preferência com isolamento absoluto. A literatura citada relata **duas a quatro sessões** para resultado satisfatório. A restauração final espera **14 dias**, para o oxigênio residual sair e não interferir nos procedimentos adesivos.\n\n**Clareamento externo associado ao caseiro (caso 6):** o paciente usa a moldeira do caseiro e coloca o gel **apenas por fora** do dente escurecido, todos os dias por algumas semanas. Caso relatado: carbamida a 10%, 2 horas por dia, por 3 semanas. Vantagens apontadas:\n- maior controle, o que evita o dente clarear além do necessário;\n- dispensa desobturar o canal e fazer o tampão cervical;\n- pode ser usado até em dentes sem tratamento endodôntico.\n\n**Comparação:**\n\n| Técnica | Onde fica o gel | Cavidade de acesso | Duração citada |\n|---|---|---|---|\n| Walking bleach | dentro da câmara | restaurada provisoriamente | 3 a 6 sessões, intervalo de 1 semana |\n| Inside/outside | câmara e face vestibular, com moldeira | aberta | em média 2 h/dia, cerca de 2 semanas |\n| Consultório | face vestibular e câmara | com tampão cervical | 2 a 4 sessões |\n| Externa com caseiro | só face vestibular | sem desobturar o canal | caso: 2 h/dia por 3 semanas |"
+    },
+    {
+      "id": "tabela",
+      "titulo": "Tabela 38.1: géis do mercado, por composição e tempo",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Tabela 38.1, pp. 444–446",
+      "texto": "O livro reúne produtos em uma tabela. Aqui eles aparecem sem marca, só por composição e tempo. A mesma concentração traz tempos diferentes conforme o produto.\n\n**Consultório (peróxido de hidrogênio):**\n\n| Concentração | Tempos que aparecem |\n|---|---|\n| 35% | aplicação única de 40, 45 ou 50 min; 3 aplicações de 15 min (45 min); 3 de 8 min (24 min); 2 de 20 min (40 min) |\n| 38% | 30 min |\n| 40% | 2 aplicações de 20 min (40 min) |\n| 6% | aplicação única de 50 min |\n| perborato de sódio e peróxido de hidrogênio a 20% (dentes não vitais) | dentro da câmara pulpar, removido após 1 semana |\n\n**Caseiro com carbamida:**\n\n| Concentração | Tempos que aparecem |\n|---|---|\n| 10% | 3 a 4 h em três produtos; 2 h em outros dois |\n| 15% | 3 a 4 h |\n| 16% | 3 a 4 h; 2 a 3 h; 90 min |\n| 22% | 1 h; 45 min |\n| 35% | 30 min |\n\nUm produto traz as concentrações de 10, 16 e 22% com \"2 h por dia\" para todas.\n\n**Caseiro com peróxido de hidrogênio:** 6%: 1 h e 30 min; 7,5%: 1 h por dia em um produto e 45 min em outro; 9,5%: 30 min; 10%: 30 min por dia.\n\n**Dessensibilizantes:** quase todos têm nitrato de potássio e fluoreto de sódio (dois têm oxalato de potássio e fluoreto de sódio). Tempos de ação: 3 a 5 min, 5 min, 10 min (a maioria) e, num produto, de 15 min a 1 h.\n\n**Duas leituras do livro sobre o perborato:** o texto de Tipos de géis (p. 430) cita hoje a preferência pela carbamida a 10 a 30% em dentes despolpados; a tabela traz um produto de perborato com peróxido de hidrogênio a 20% para dentes não vitais. O livro não concilia."
+    },
+    {
+      "id": "mitos",
+      "titulo": "Mitos e verdades que o livro responde",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449",
+      "texto": "**Dieta branca:** estudos recentes mostram que evitar pigmentos durante o clareamento não influencia o resultado. A diferença é só na duração: com dieta pigmentante, a cor dura menos.\n\n**Duração da cor:** em média cerca de 2 anos; depende de dieta, higiene, hábitos nocivos, genética e envelhecimento.\n\n**Câncer:** estudos com micronúcleos mostram que o clareamento não altera o DNA de forma permanente e, portanto, não transforma células normais em cancerígenas. O peróxido de hidrogênio é um metabólito endógeno, rapidamente metabolizado por enzimas e vitaminas, como a peroxidase salivar.\n\n**Fumantes:** podem clarear, com respostas muito parecidas com as dos não fumantes. O escurecimento volta mais rápido, porque a nicotina pigmenta a superfície externa e a interna. Mantêm-se higiene e profilaxia periódica.\n\n**Grávidas e lactantes:** não há estudos que comprovem com segurança que possam ou não clarear sem afetar o bebê; elas são excluídas dos estudos, e não está claro se o peróxido de hidrogênio tem efeito teratogênico. Por precaução, e por ser procedimento eletivo, o livro recomenda evitar nesse período.\n\n**Idade:** normalmente se recomenda iniciar a partir de 15 anos, evitando procedimentos eletivos em crianças; casos especiais (amelogênese e dentinogênese imperfeitas, traumas) permitem antecipar. Não há idade mínima fixa nem máxima estabelecida, mas a pessoa mais velha tem mais dentina depositada e calcificações no esmalte, o que dificulta.\n\n**Dentifrício de carvão ativado:** o livro diz que não há evidência de efeito clareador, e alerta para risco de cárie (a maioria não tem flúor) e alta abrasividade."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como o peróxido de hidrogênio clareia o dente?",
+      "verso": "Atravessa o esmalte até a dentina e, por **oxidação**, quebra as cadeias carbônicas longas dos cromóforos em moléculas menores; a luz passa e é refletida.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mecanismo de ação, p. 430"
+    },
+    {
+      "id": "f02",
+      "frente": "Em que o peróxido de carbamida se dissocia?",
+      "verso": "**70% de ureia e 30% de peróxido de hidrogênio.** A ureia vira gás carbônico e amônia e o pH sobe.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Tipos de géis, p. 430"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual região do dente é a mais escura e qual é o dente mais escuro da arcada?",
+      "verso": "Região **cervical** (menos esmalte); o **canino** (mais dentina).",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mecanismo de ação, p. 430"
+    },
+    {
+      "id": "f04",
+      "frente": "Quais condições bucais devem estar resolvidas antes de clarear?",
+      "verso": "Profilaxia, instrumentação periodontal, selamento de cavidades e de dentina exposta (inclusive lesões cervicais não cariosas) e restaurações mal adaptadas corrigidas.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Técnicas, pp. 430–431"
+    },
+    {
+      "id": "f05",
+      "frente": "Gel de alta concentração no consultório: qual proteção?",
+      "verso": "**Barreira gengival fotopolimerizável** e afastador de bochechas e língua. Para carbamida de alta concentração o livro diz que não é necessário proteger a gengiva.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de consultório, pp. 431–432"
+    },
+    {
+      "id": "f06",
+      "frente": "Na sequência do consultório, a barreira vem antes ou depois do dessensibilizante?",
+      "verso": "**Depois**, e só com o campo limpo e seco. Dessensibilizante por 10 min, removido, e então a barreira.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434"
+    },
+    {
+      "id": "f07",
+      "frente": "Quais lesões fazem o livro não recomendar o clareamento caseiro?",
+      "verso": "Lesões cervicais não cariosas, abfrações e recessões gengivais: no caseiro não há como proteger essas regiões. Indica o consultório.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+    },
+    {
+      "id": "f08",
+      "frente": "Concentrações do clareamento caseiro segundo o livro?",
+      "verso": "Peróxido de hidrogênio a **1 a 10%** e carbamida a **10 a 22%**.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+    },
+    {
+      "id": "f09",
+      "frente": "Quanto a moldeira individualizada deve passar da margem gengival?",
+      "verso": "Ao **nível gengival ou 1,0 a 2,0 mm acima**, seguindo a margem gengival ou em corte reto (caso 3).",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, caso 3, pp. 435–437"
+    },
+    {
+      "id": "f10",
+      "frente": "O que aumenta o risco e a intensidade da sensibilidade?",
+      "verso": "**Tempo de aplicação** e **concentração do gel**. No estudo citado, 4% teve menos sensibilidade que 10% (38% × 64%), com clareamento igual.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442"
+    },
+    {
+      "id": "f11",
+      "frente": "O que o livro diz do dessensibilizante?",
+      "verso": "Reduz a intensidade, mas não evita a dor nem a agressão pulpar. Nitrato de potássio e fluoreto de sódio; ativo: 10 min após a profilaxia.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Dessensibilizante dental, pp. 443–444"
+    },
+    {
+      "id": "f12",
+      "frente": "Analgésico ou anti-inflamatório reduz a sensibilidade do clareamento?",
+      "verso": "Nos estudos citados, **nenhum** dos medicamentos testados mudou risco ou intensidade, antes ou depois. O livro aponta os cuidados prévios.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+    },
+    {
+      "id": "f13",
+      "frente": "Quando trocar ou reparar a resina anterior após clarear?",
+      "verso": "**7 ou 14 dias** depois do término: o oxigênio residual atrapalha a polimerização por cerca de 1 semana.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444"
+    },
+    {
+      "id": "f14",
+      "frente": "Onde se faz o tampão cervical no dente despolpado e com quê?",
+      "verso": "**2,0 a 3,0 mm abaixo da JAC**, com ionômero de vidro ou adesivo e resina fluida. Para minimizar a reabsorção radicular externa.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+    },
+    {
+      "id": "f15",
+      "frente": "Walking bleach × inside/outside: qual diferença na cavidade?",
+      "verso": "Walking bleach: gel na câmara com **restauração provisória**, 3 a 6 sessões com intervalo de 1 semana. Inside/outside: cavidade **aberta** e moldeira, em média 2 h por dia.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+    },
+    {
+      "id": "f16",
+      "frente": "Luz ou laser clareiam mais?",
+      "verso": "Não: os estudos citados não mostram diferença significativa na capacidade clareadora, e a luz pode aumentar a sensibilidade.",
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o Mondelli, como o peróxido de carbamida se comporta ao entrar em contato com o dente?",
+      "alternativas": [
+        {
+          "texto": "Dissocia-se em 30% de ureia e 70% de peróxido de hidrogênio.",
+          "correta": false,
+          "justificativa": "A proporção está invertida: são 70% de ureia e 30% de peróxido de hidrogênio.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Tipos de géis, p. 430"
+        },
+        {
+          "texto": "Dissocia-se em 70% de ureia e 30% de peróxido de hidrogênio.",
+          "correta": true,
+          "justificativa": "É a proporção descrita; a ureia vira gás carbônico e amônia e o pH sobe.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Tipos de géis, p. 430"
+        },
+        {
+          "texto": "Age só pela ureia, sem liberar peróxido de hidrogênio.",
+          "correta": false,
+          "justificativa": "O livro descreve a dissociação em ureia e peróxido de hidrogênio; o clareamento vem da oxidação pelo peróxido.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Tipos de géis, p. 430"
+        },
+        {
+          "texto": "Libera peróxido de hidrogênio em partes iguais à ureia.",
+          "correta": false,
+          "justificativa": "A proporção é 70% de ureia para 30% de peróxido de hidrogênio, não metade e metade.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Tipos de géis, p. 430"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Tipos de géis, p. 430",
+      "secao": "agentes",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Num clareamento de consultório com gel de peróxido de hidrogênio, qual a ordem descrita no caso 1 do livro?",
+      "alternativas": [
+        {
+          "texto": "Profilaxia, barreira gengival, dessensibilizante e gel.",
+          "correta": false,
+          "justificativa": "A barreira só é feita depois da profilaxia e do dessensibilizante.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434"
+        },
+        {
+          "texto": "Dessensibilizante, profilaxia, gel e barreira gengival.",
+          "correta": false,
+          "justificativa": "A profilaxia vem antes do dessensibilizante, e a barreira antes do gel.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434"
+        },
+        {
+          "texto": "Profilaxia e registro de cor, dessensibilizante por 10 minutos (removido), barreira gengival e gel.",
+          "correta": true,
+          "justificativa": "É a sequência do caso 1: o campo fica limpo e seco para a barreira, e o gel entra por último.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434"
+        },
+        {
+          "texto": "Registro de cor, gel e barreira gengival no fim da sessão.",
+          "correta": false,
+          "justificativa": "A barreira protege os tecidos e é feita antes do gel; além disso a profilaxia precede o registro de cor.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de consultório, caso 1, pp. 432–434",
+      "secao": "consultorio-sequencia",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente quer clarear os anteriores e tem abfrações e recessões gengivais. Qual técnica o livro indica?",
+      "alternativas": [
+        {
+          "texto": "Consultório, em que o profissional controla o tratamento prévio dessas lesões.",
+          "correta": true,
+          "justificativa": "O caseiro não permite proteger essas regiões; o livro indica o consultório.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+        },
+        {
+          "texto": "Caseiro com moldeira individualizada, em concentração menor.",
+          "correta": false,
+          "justificativa": "O livro não recomenda o caseiro com essas lesões, porque não há como protegê-las.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+        },
+        {
+          "texto": "Caseiro com moldeira pré-fabricada.",
+          "correta": false,
+          "justificativa": "A restrição do livro é ao clareamento caseiro, que inclui a moldeira pré-fabricada; para essas lesões ele indica o consultório.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+        },
+        {
+          "texto": "Tiras clareadoras, por serem de baixo custo.",
+          "correta": false,
+          "justificativa": "As tiras fazem parte do caseiro; o livro não recomenda o caseiro nesses casos.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento caseiro, pp. 435–437"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento caseiro, pp. 435–437",
+      "secao": "caseiro",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "No estudo citado pelo Mondelli com peróxido de hidrogênio a 4% e a 10%, qual foi o resultado?",
+      "alternativas": [
+        {
+          "texto": "O gel a 10% clareou mais e teve a mesma sensibilidade.",
+          "correta": false,
+          "justificativa": "As duas concentrações clarearam igualmente, e a sensibilidade diferiu.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442"
+        },
+        {
+          "texto": "O gel a 4% teve 64% de relatos de sensibilidade e o de 10%, 38%.",
+          "correta": false,
+          "justificativa": "Os números estão trocados: 64% foi do grupo de 10% e 38% do de 4%.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442"
+        },
+        {
+          "texto": "Os dois géis tiveram a mesma sensibilidade e o mesmo clareamento.",
+          "correta": false,
+          "justificativa": "O de 4% teve menor risco e menor intensidade de sensibilidade.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442"
+        },
+        {
+          "texto": "Os dois géis clarearam igualmente, e o de 4% teve menos sensibilidade.",
+          "correta": true,
+          "justificativa": "Foi o achado: mesma efetividade, com 38% de relatos no de 4% e 64% no de 10%.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 441–442",
+      "secao": "sensibilidade",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um aluno sugere que o paciente tome um anti-inflamatório antes do clareamento para evitar a sensibilidade. O que o livro diz?",
+      "alternativas": [
+        {
+          "texto": "Corticosteroide antes da sessão elimina a sensibilidade.",
+          "correta": false,
+          "justificativa": "Os estudos citados incluem corticosteroide, e nenhum medicamento mudou risco ou intensidade.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "Anti-inflamatório reduz a sensibilidade só se tomado depois da sessão.",
+          "correta": false,
+          "justificativa": "Os estudos não mostraram efeito, usado antes ou depois do clareamento.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "Nos estudos citados, nenhum medicamento mudou o risco ou a intensidade.",
+          "correta": true,
+          "justificativa": "O livro cita ibuprofeno e dexametasona entre os testados; para prevenir, indica verificar trincas e áreas expostas, usar dessensibilizante e escolher o gel.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "Vitamina C é a única que mostrou benefício.",
+          "correta": false,
+          "justificativa": "A vitamina C também foi testada e não modificou risco nem intensidade.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449",
+      "secao": "sensibilidade-condutas",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "O que o Mondelli diz do uso de luz ou laser no clareamento?",
+      "alternativas": [
+        {
+          "texto": "Aumenta de modo significativo a capacidade clareadora.",
+          "correta": false,
+          "justificativa": "Os estudos citados não mostram diferença significativa na capacidade clareadora.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "Não muda a capacidade clareadora de modo significativo, e pode aumentar a sensibilidade.",
+          "correta": true,
+          "justificativa": "É o que o livro afirma, porque a luz pode elevar a temperatura e causar estímulos dolorosos.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "Reduz a sensibilidade por encurtar o tempo do gel.",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: a luz pode aumentar a sensibilidade.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        },
+        {
+          "texto": "É obrigatória para o gel de alta concentração agir.",
+          "correta": false,
+          "justificativa": "Os estudos citados não mostram diferença significativa na capacidade clareadora entre o uso de luz e os métodos convencionais.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Mitos e verdades, pp. 447–449",
+      "secao": "sensibilidade-condutas",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "No clareamento interno de dente despolpado, onde fica o tampão cervical?",
+      "alternativas": [
+        {
+          "texto": "De 2,0 a 3,0 mm acima da junção amelocementária.",
+          "correta": false,
+          "justificativa": "O livro descreve a desobturação abaixo da JAC, não acima.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        },
+        {
+          "texto": "De 0,5 a 1,0 mm abaixo da junção amelocementária.",
+          "correta": false,
+          "justificativa": "A faixa descrita é de 2,0 a 3,0 mm abaixo da JAC.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        },
+        {
+          "texto": "De 2,0 a 3,0 mm abaixo da junção amelocementária.",
+          "correta": true,
+          "justificativa": "É a posição descrita, para vedar os túbulos e minimizar o risco de reabsorção radicular externa.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        },
+        {
+          "texto": "Ao nível da junção amelocementária, sem desobturar.",
+          "correta": false,
+          "justificativa": "O tampão é feito desobturando o canal 2,0 a 3,0 mm abaixo da JAC.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447",
+      "secao": "despolpados-tecnicas",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Qual técnica de clareamento em dente despolpado mantém a cavidade de acesso aberta e usa moldeira?",
+      "alternativas": [
+        {
+          "texto": "Walking bleach.",
+          "correta": false,
+          "justificativa": "No walking bleach o gel fica na câmara com restauração provisória.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        },
+        {
+          "texto": "Inside/outside.",
+          "correta": true,
+          "justificativa": "O gel vai na câmara e na face vestibular, mantido pela moldeira, com a cavidade sem restauração provisória.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447"
+        },
+        {
+          "texto": "Consultório (power bleaching).",
+          "correta": false,
+          "justificativa": "No consultório o agente vai na vestibular e na câmara com tampão cervical e proteção gengival, em 2 a 4 sessões.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 446–447"
+        },
+        {
+          "texto": "Clareamento externo associado ao caseiro (caso 6).",
+          "correta": false,
+          "justificativa": "Nele o gel é só externo e não se desobtura o canal.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento de dentes despolpados, pp. 446–447"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento de dentes despolpados, pp. 444–447",
+      "secao": "despolpados-tecnicas",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente clareou os anteriores e tem uma resina vestibular antiga com diferença de cor. Quando o livro indica trocar ou reparar a restauração?",
+      "alternativas": [
+        {
+          "texto": "No mesmo dia, para ver a cor final.",
+          "correta": false,
+          "justificativa": "O oxigênio residual interfere na polimerização por cerca de 1 semana.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444"
+        },
+        {
+          "texto": "Nunca: a resina clareia junto com o dente.",
+          "correta": false,
+          "justificativa": "As resinas não mudam de cor com os géis; por isso a diferença aparece.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444"
+        },
+        {
+          "texto": "Depois de 7 ou 14 dias do término do clareamento.",
+          "correta": true,
+          "justificativa": "É o intervalo do livro, que evita menor resistência de união e perda precoce.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444"
+        },
+        {
+          "texto": "Durante o uso do gel, para ele agir também na resina.",
+          "correta": false,
+          "justificativa": "O gel não clareia a resina, e o oxigênio residual atrapalha a polimerização.",
+          "fonte": "mondelli2026",
+          "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444"
+        }
+      ],
+      "fonte": "mondelli2026",
+      "onde": "cap. 38, Clareamento, Reações adversas, pp. 443–444",
+      "secao": "efeitos-moles",
+      "figura": null
+    }
+  ]
+}

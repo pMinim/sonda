@@ -1,0 +1,543 @@
+{
+  "slug": "lesoes-do-orgao-dentario",
+  "titulo": "Lesões do órgão dentário: desgastes, reabsorções, alterações de cor",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 2 e 3",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap2",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 2, Anomalias Dentárias, p. 50–113.",
+      "curta": "Neville 5ª ed., cap. 2"
+    },
+    {
+      "id": "neville5-cap3",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 3, Doença Pulpar e Periapical, p. 114–142.",
+      "curta": "Neville 5ª ed., cap. 3"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "desgaste",
+      "titulo": "Desgaste dentário: a ideia central, atrição e abrasão",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, introdução, p. 56–57; Atrição, p. 57; Abrasão, p. 57; Características clínicas, p. 58",
+      "texto": "**O que é:** perda de estrutura do dente depois de formado, por causa que não é cárie nem trauma. O livro trata quatro formas como alterações separadas: **atrição, abrasão, erosão e abfração**. Um certo desgaste da superfície é normal com o envelhecimento; vira problema quando causa dano **funcional, estético ou de sensibilidade**.\n\n**A ideia central:** na maioria dos casos há **mais de um fator ao mesmo tempo**. Dentina exposta por atrição ou abfração sofre mais com erosão e abrasão; área amolecida pela erosão desgasta mais fácil. Por isso o desgaste por fatores ambientais é quase sempre multifatorial.\n\n**Atrição:** perda pelo **contato entre os dentes**, na oclusão e na mastigação. Acelera quando o esmalte é de má qualidade ou ausente, quando há **contato prematuro** (como a oclusão topo a topo), abrasivos na boca, erosão ou **bruxismo** (inclusive o induzido por medicamentos e drogas).\n- **Onde:** nas superfícies que tocam o antagonista: oclusais e incisais, palatinas dos anteriores superiores, vestibulares dos anteriores inferiores. Pode ocorrer em dentes decíduos e permanentes.\n- **Como é:** grandes faces **planas, lisas e brilhantes**, que combinam com o padrão de oclusão. A perda nos pontos de contato pode encurtar o arco.\n\n**Abrasão:** perda patológica de estrutura do dente ou da restauração por ação mecânica de um agente externo. O padrão depende do agente.\n- **Escovação:** fendas **cervicais horizontais** na face vestibular, com margens definidas e superfície dura e lisa. Pior em dentes vestibularizados (caninos, pré-molares, vizinhos de espaço edêntulo).\n- **Hábitos** (cortar linha, cachimbo, abrir grampo): entalhes redondos ou em V nas bordas incisais.\n- **Fio dental e palito mal usados:** perda interproximal de cemento e dentina."
+    },
+    {
+      "id": "erosao",
+      "titulo": "Erosão: de onde vem o ácido e como ela se parece",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Erosão, p. 57–59",
+      "texto": "**O que é:** perda de estrutura por processo **químico, sem bactéria**, em geral causado por ácido. A saliva tampona o ácido; com pouca saliva a erosão piora.\n\n**De onde vem o ácido:**\n- **Dieta:** refrigerantes ácidos e carbonatados, frutas ácidas. Conta a **frequência e a duração**: a saliva costuma estabilizar o pH em 2 a 13 minutos, e 4 ou mais exposições por dia aumentam o risco. Tomar goles pequenos ou comer devagar prolonga a exposição. Canudo no fundo da boca protege; no vestíbulo, piora. Alimento ácido rico em cálcio, como o iogurte, erode pouco.\n- **Regurgitação:** a erosão por secreção gástrica chama-se **perimólise**. Pode ser involuntária (hérnia de hiato, esofagite, alcoolismo crônico, gestação) ou voluntária (bulimia, distúrbios psicológicos).\n- **Pouca saliva:** desidratação, radioterapia, medicamentos, síndrome de Sjögren, diabetes.\n- Outras: certos medicamentos, piscina com pH inadequado, exposição industrial.\n\n**Onde:** nas áreas pouco protegidas pela saliva serosa de parótidas e submandibulares: faces **vestibulares e palatinas dos superiores** e vestibulares e oclusais dos posteriores inferiores. O envolvimento das faces linguais dos inferiores é incomum.\n\n**Padrão clássico:** **depressão côncava de dentina cercada por borda elevada de esmalte**. Surge nas pontas de cúspide e nas bordas incisais. Nos anteriores superiores aparece como depressão rasa, **em colher**, na porção cervical da face vestibular (a abrasão faz fenda). Restaurações metálicas podem ficar **acima** do nível do dente. A erosão ativa tem superfície **limpa**; a inativa fica manchada.\n\n**A localização sugere a causa, mas não é totalmente confiável:**\n- só a face vestibular dos anteriores superiores: costuma sugerir alimentos ácidos;\n- só as bordas incisais dos anteriores de ambos os arcos: fonte ambiental externa;\n- faces palatinas dos anteriores e oclusais dos posteriores, nos dois arcos: provável regurgitação gástrica."
+    },
+    {
+      "id": "abfracao-conduta",
+      "titulo": "Abfração e conduta no desgaste dentário",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Abfração, p. 57 e 59; Tratamento e prognóstico, p. 59–60",
+      "texto": "**Abfração:** perda cervical atribuída a **estresse oclusal**: a flexão repetida do dente sob forças excêntricas concentra a tensão na região cervical e rompe esmalte e dentina longe do ponto de pressão.\n- **Como é:** defeito **em cunha**, limitado ao colo; pode lembrar abrasão cervical ou erosão. Pistas: defeito **profundo, estreito, em V** (a escova não alcança o fundo), em geral em **um dente só**, às vezes subgengival; mais nas faces vestibulares de pré-molares e molares.\n- **Discussão do livro:** não há consenso. Alguns a veem como causa da maior parte da perda cervical; revisões sistemáticas acharam pouco apoio, e a validade do conceito é questionada.\n\n**Conduta no desgaste:**\n- **Atrição em nível normal não precisa de tratamento.** Intervém-se quando o desgaste pode levar à perda do dente.\n- **Ache a causa antes de agir.** Não reconhecer que o desgaste é multifatorial leva a tratamento errado e fracasso do reparo. A ênfase é diagnóstico detalhado, prevenção e **monitoramento de longo prazo**. O tratamento imediato visa aliviar a dor; achar as causas e proteger a dentina que resta também são objetivos importantes.\n- **Restaurar cedo é precipitado** se o desgaste ainda ocorre. Espera-se interesse estético forte, **sensibilidade que não cede** a medidas conservadoras ou desgaste **progressivo e incontrolável**. Então faz-se o mínimo necessário, com restaurações conservadoras. Na abfração, o livro recomenda **ionômero de vidro**, que flexiona com o dente; na abrasão, material resistente à abrasão.\n- **Erosão, prevenção:** reduzir a frequência e a duração do contato com ácido; leite, queijo e antiácido sem açúcar ajudam; enxaguar a boca após o ácido e manter a hidratação são sugeridos para reduzir a desmineralização e manter o fluxo salivar; dentifrício pouco abrasivo e escovação sem excesso evitam a abrasão do esmalte amolecido. Placa de mordida ou protetor bucal durante o sono podem reduzir o atrito noturno e proteger contra o ácido da regurgitação. A sensibilidade dentinária pode ser reduzida com vernizes ou dentifrícios com cloreto de estrôncio ou fluoreto estanhoso.\n- **Por que a polpa raramente se expõe:** o processo é lento e deposita dentina terciária (seção da polpa ao longo do tempo)."
+    },
+    {
+      "id": "reab-interna",
+      "titulo": "Reabsorção interna",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, introdução, p. 60; Características clínicas e radiográficas, p. 61–62; Características histopatológicas, p. 65; Tratamento e prognóstico, p. 65",
+      "texto": "**O que é:** destruição do dente feita por células da **polpa**. É relativamente rara e, na maioria dos casos, vem depois de dano pulpar, como trauma ou pulpite por cárie. Continua enquanto a polpa estiver viva e pode chegar ao ligamento periodontal. Ao microscópio há dentinoclastos, células iguais a osteoclastos.\n\n**Como aparece:** em geral **sem sintoma**; é achada em radiografia de rotina. Dói se houver inflamação pulpar. Há dois padrões principais. No **inflamatório**, a dentina vira tecido de granulação, mais na região cervical; a polpa coronária costuma estar necrosada e a apical viva, e os testes pulpares variam.\n- **Radiografia:** área radiolúcida **uniforme, bem delimitada e simétrica**, a partir da câmara ou do canal. O contorno do canal se perde, com **alargamento em forma de balão**.\n- **Clínica:** quando atinge a polpa coronária e se aproxima da superfície, a coroa fica **rósea** (\"dente róseo de Mummery\").\n- Se avançar, pode perfurar a lateral da raiz e ser confundida com reabsorção externa.\n\n**Padrão por substituição (metaplásico):** a dentina da parede é trocada por osso ou osso cementoide. Na radiografia, o canal parece dilatado e preenchido por material **menos radiolúcido** que a dentina, em geral com o canal parcialmente obliterado; o limite é menos nítido que no padrão inflamatório.\n\n**Evolução:** pode parar quando a polpa necrosa. Alguns casos se limitam sozinhos, em geral em dentes traumatizados ou há pouco tratados na ortodontia ou na periodontia.\n\n**Conduta:** remover **todo o tecido mole** da área destruída. A endodontia consegue interromper o processo se tirar toda a polpa antes de ele chegar ao ligamento. Com **perfuração**, o tratamento é mais difícil e o prognóstico é ruim: no início tenta-se pasta de hidróxido de cálcio; se falhar, exposição cirúrgica e restauração do defeito; a extração costuma ser necessária se não responder."
+    },
+    {
+      "id": "reab-externa",
+      "titulo": "Reabsorção externa: tipos",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, p. 60–61; Boxe 2.3, p. 61; Reabsorção externa inflamatória, apical transitória e de superfície, p. 62; Reabsorção externa de substituição e Reabsorção cervical invasiva, p. 63–64; Tratamento e prognóstico (fator desencadeante e dentes avulsionados), p. 65",
+      "texto": "**O que é:** destruição que começa na superfície da raiz, feita por células do **ligamento periodontal**. É **muito comum**: numa revisão radiográfica de 13.263 dentes, 86,4% tinham algum grau. A maioria é moderada e sem importância clínica; 10% dos pacientes têm quantidade incomum. A suscetibilidade individual pesa mais. Entre os fatores do Boxe 2.3: trauma, ortodontia, dentes impactados, cistos, tumores, reimplante, inflamação periapical, tratamento periodontal.\n\n**Tipos:**\n- **Inflamatória:** vem de doença periapical ou periodontite. A raiz encurta, com ápice irregular. Em geral **para quando o foco de infecção é eliminado**.\n- **Apical transitória:** após luxação; reabsorção focal da ponta, alargamento do ligamento apical e lâmina dura borrada. Repara sozinha em até 12 meses, mas confunde com doença periapical inicial.\n- **De superfície (por pressão):** causada por movimentação ortodôntica, dente impactado vizinho, cisto ou tumor. Na ortodontia, as raízes ficam truncadas ou encurtadas; o risco cresce com a força e com a **distância movida**, e os anteriores superiores são os mais afetados, sobretudo com extração de pré-molares. Nos casos de reabsorção grande durante o tratamento, uma pausa de 2 a 3 meses tende a reduzir a perda final. Impactados, cistos e tumores deixam defeito irregular ou em pires. Em toda reabsorção externa, o primeiro passo é eliminar o fator desencadeante, como a força ortodôntica.\n- **De substituição:** osteoclastos tiram cemento e dentina e o **osso toma o lugar**. Vem após luxação grave ou **avulsão**: se o dente fica fora do alvéolo sem meio de armazenamento, as células do ligamento morrem, e o osso trata o dente como corpo estranho. Com frequência há **anquilose**, e muitos dentes duram anos até perder quase toda a raiz. Prevenir é manter o ligamento vivo: reimplante imediato ou rápido, com armazenamento em solução fisiológica.\n- **Cervical invasiva:** incomum, mas problemática. Começa no cemento do colo, às vezes como pequena perfuração, e se espalha em volta da coroa e da raiz. A polpa em geral **não é invadida**, pois tem uma camada de pré-dentina que resiste. A causa é desconhecida; ortodontia, trauma, periodontite e bruxismo são citados. Se envolve **mais de três dentes**, é a forma múltipla, de curso em geral agressivo."
+    },
+    {
+      "id": "reab-distincao",
+      "titulo": "Reabsorção externa × interna: como distinguir e o que fazer",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Figura 2.22, p. 61; Reabsorção externa idiopática, p. 64; diferenciação entre externa e interna (técnica de Clark, TCFC) e Tratamento e prognóstico, p. 65",
+      "texto": "**Na radiografia, olhe o canal:**\n\n| | Interna | Externa |\n|---|---|---|\n| Origem | polpa | ligamento periodontal |\n| Canal | **alargado**, contorno perdido (balão) | **não alargado**; a radiolucência se sobrepõe a ele |\n| Borda da área | nítida, uniforme, simétrica (padrão inflamatório) | na idiopática, pouco definida, aspecto \"corroído\", densidade variável |\n\nNa externa idiopática, um exame atento mostra o **canal inalterado** passando pela área do defeito. Quando a interna perfura a raiz, as duas podem se confundir.\n\n**Como separar:** a **técnica de Clark** (duas exposições radiográficas) ajuda. A tomografia de feixe cônico (**TCFC**) é apresentada como superior e como padrão-ouro para avaliar natureza e extensão. A reabsorção externa da coroa antes da erupção é muitas vezes tomada por cárie pré-eruptiva; o livro mostra um canino impactado cuja coroa reabsorvida não tinha cárie ao microscópio.\n\n**Conduta na externa:**\n- **Primeiro passo:** identificar e eliminar o fator desencadeante, como a força ortodôntica ou a infecção.\n- **A endodontia não estabiliza o processo**, porque as células que reabsorvem estão no ligamento, fora do canal. A região apical também não pode ser abordada sem causar dano.\n- **Cervical invasiva:** difícil e varia com o tamanho e o local do defeito. Opções: reparo externo, com ou sem endodontia; reparo interno com endodontia; reimplante intencional; ou só **acompanhar**. A forma isolada tem prognóstico melhor. Na **múltipla**, o resultado é insatisfatório: na maioria dos casos relatados há recidivas repetidas e perda dos dentes.\n- **Dente avulsionado:** com ápice aberto e células do ligamento mortas, não se reimplanta; reimplantado com ápice aberto, controle mensal; com ápice fechado, é preciso endodontia.\n\n**A conduta na interna** está na seção da reabsorção interna: remover o tecido mole pela endodontia."
+    },
+    {
+      "id": "cor",
+      "titulo": "Alterações de cor do dente: extrínsecas e intrínsecas",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Pigmentação dentária por fatores ambientais, introdução, p. 65; Efeitos ambientais, Fluorose dentária, p. 55; Características clínicas, Boxe 2.4 (inclui fluorose dentária) e manchas intrínsecas, p. 66–68; Tratamento e prognóstico, p. 69",
+      "texto": "**A pergunta que organiza tudo:** a mancha sai com polimento? **Extrínseca** é pigmento de fora, depositado na superfície e removível com tratamento da superfície. **Intrínseca** é pigmento incorporado ao esmalte ou à dentina e **não sai com profilaxia com pasta ou pedra-pomes**.\n\n**Extrínsecas, as mais vistas:**\n- **Manchas bacterianas:** cinza, marrom-escuro ou laranja; mais em crianças, no terço cervical vestibular dos anteriores superiores.\n- **Tabaco, betel, chá e café:** marrom. Nos fumantes, em geral na face lingual dos incisivos inferiores. As manchas de bebida são mais difusas e fracas.\n- **Clorexidina:** marrom-amarelada, interproximal junto à gengiva; piora com bebidas ricas em tanino, como chá e vinho. Muitos outros antissépticos orais causam manchas parecidas.\n- **Diamino fluoreto de prata** (usado na cárie de crianças): deixa mancha enegrecida.\n\n**Intrínsecas, as mais vistas:**\n- **Trauma:** a cor rósea temporária aparece de 1 a 3 semanas depois e em geral some em 1 a 3 semanas. A radiografia periapical exclui reabsorção interna, que pode dar o mesmo quadro. Amarelo tardio indica **metamorfose cálcica** (seção da polpa ao longo do tempo).\n- **Restauração:** o **amálgama** pode dar cor cinza-escura, mais em jovens; para reduzir o risco, o livro orienta não restaurar com amálgama dente anterior tratado endodonticamente.\n- **Tetraciclina:** amarelo-claro a marrom-escuro, com fluorescência amarela à luz ultravioleta; com a luz ambiente vira marrom sem fluorescência. Evita-se da gestação até **8 anos**. A **minociclina** (acne, artrite) mancha em 3 a 6% dos usuários prolongados, até dentes já formados, em cinza-azulado.\n- **Hiperbilirrubinemia neonatal:** dentes decíduos esverdeados.\n- A porfiria eritropoiética (dentes marrom-avermelhados) e a ocronose também constam entre as causas intrínsecas.\n- A **fluorose dentária** (esmalte branco, opaco) também consta no Boxe 2.4; o livro a descreve na seção de efeitos do meio ambiente no desenvolvimento dos dentes, fora deste tema.\n\n**Conduta:** extrínsecas: **pedra-pomes fina**, jato de bicarbonato ou pedra-pomes com peróxido de hidrogênio. A mancha pode voltar se a causa não for reduzida. Intrínsecas: clareamento externo (dente vital) ou interno (dente desvitalizado), restaurações adesivas, facetas ou coroas."
+    },
+    {
+      "id": "polpa-cemento",
+      "titulo": "A polpa ao longo do tempo: dentina, metamorfose cálcica e calcificações",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Dentina secundária e terciária, p. 116–118; Calcificações pulpares, p. 118–119",
+      "texto": "**Dentina secundária fisiológica:** é depositada devagar durante toda a vida, e aumenta depois dos 35 a 40 anos. Câmara e canais ficam menores, e na radiografia o espaço pulpar parece reduzido. Isso ajuda (a polpa se expõe menos) e atrapalha (é mais difícil achar o canal na endodontia).\n\n**Dentina terciária:** nova dentina, irregular, feita **onde houve lesão**: atrição, abrasão, erosão, cárie, fratura, procedimento dentário. Se o estímulo é de brando a moderado, é a **dentina reacional**, mais regular. Se é grave e mata os odontoblastos, é a **reparadora**, irregular e desorganizada. É por ela que o desgaste lento raramente expõe a polpa.\n\n**Metamorfose cálcica:** fechamento precoce da câmara e do canal, em geral depois de **trauma**. Muitas vezes o achado clínico é a coroa **amarela**; na radiografia, o espaço pulpar é bem menor que o dos vizinhos ou do dente do outro lado, ou desaparece. A maioria **nunca** desenvolve lesão periapical: trata-se o canal **só se houver lesão periapical ou teste de vitalidade negativo**. Para a estética, o livro recomenda cobertura completa do dente anterior pigmentado com grande restauração; se não, o clareamento costuma resolver.\n\n**Calcificações pulpares:** dentículos, cálculos pulpares e calcificações lineares difusas. Os dois primeiros aparecem como áreas **radiopacas** na câmara ou no canal; as difusas não se veem na radiografia. Mais em molares, maxila, mulheres, após os 50 anos e em dentes cariados ou restaurados. Têm **pouca importância clínica**, exceto por atrapalhar a endodontia."
+    },
+    {
+      "id": "hipercementose",
+      "titulo": "Hipercementose",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Hipercementose, Características clínicas e radiográficas, p. 90; Tratamento e prognóstico, p. 91",
+      "texto": "**Hipercementose:** deposição excessiva de cemento na raiz. A maioria dos casos localizados não tem doença sistêmica associada; entre as causas locais estão trauma oclusal, inflamação vizinha e **ausência do antagonista**. Os fatores sistêmicos têm associação fraca, exceto a doença de Paget, com relatos de hipercementose significativa; pense nela diante de hipercementose generalizada em paciente da idade apropriada.\n- **Radiografia:** raiz engrossada, cercada por ligamento radiolúcido e lâmina dura. Se muito espessa, lembra **cementoblastoma**, que se distingue por idade, dor, expansão da cortical e aumento contínuo.\n- **Conduta:** não precisa de tratamento; pode dificultar a exodontia (às vezes odontossecção) e a endodontia."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as quatro formas de desgaste dentário e qual é a ideia central do livro sobre elas?",
+      "verso": "**Atrição, abrasão, erosão e abfração.** Na maioria dos casos há combinação de fatores; o desgaste por causa ambiental é quase sempre multifatorial.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, introdução, p. 56–57"
+    },
+    {
+      "id": "f02",
+      "frente": "Como é a atrição e onde aparece?",
+      "verso": "Grandes faces **planas, lisas e brilhantes** nas superfícies que tocam o antagonista (oclusais, incisais, palatinas dos anteriores superiores).",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Atrição, Características clínicas, p. 57"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual é o aspecto da abrasão por escovação?",
+      "verso": "Fendas **cervicais horizontais** na face vestibular, com margens definidas e superfície dura e lisa; pior em caninos e pré-molares vestibularizados.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Abrasão, Características clínicas, p. 58"
+    },
+    {
+      "id": "f04",
+      "frente": "O que é perimólise?",
+      "verso": "Erosão causada por **secreção gástrica** (regurgitação involuntária ou voluntária, como na bulimia).",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Erosão, p. 57"
+    },
+    {
+      "id": "f05",
+      "frente": "Qual é o padrão clássico da erosão?",
+      "verso": "**Depressão côncava de dentina cercada por borda elevada de esmalte**; restaurações metálicas podem ficar acima do nível do dente.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Erosão, Características clínicas, p. 58"
+    },
+    {
+      "id": "f06",
+      "frente": "Que localização sugere regurgitação gástrica na erosão?",
+      "verso": "Faces **palatinas dos anteriores e oclusais dos posteriores**, nos dois arcos. A localização sugere a causa, mas não é totalmente confiável.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Erosão, Características clínicas, p. 59"
+    },
+    {
+      "id": "f07",
+      "frente": "Que pistas separam a abfração da abrasão cervical?",
+      "verso": "Defeito **profundo, estreito, em V**, em geral em um único dente, às vezes subgengival. O livro diz que não há consenso sobre a sua prevalência.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Abfração, p. 57 e 59"
+    },
+    {
+      "id": "f08",
+      "frente": "Quando restaurar um dente com desgaste?",
+      "verso": "Não enquanto o desgaste ainda ocorre. Só com forte interesse estético, sensibilidade que não cede ou desgaste progressivo e incontrolável.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 59–60"
+    },
+    {
+      "id": "f09",
+      "frente": "Reabsorção interna: que sinais clínico e radiográfico a caracterizam?",
+      "verso": "Coroa **rósea** (dente róseo de Mummery) e, na radiografia, **alargamento do canal em balão**, com área uniforme e bem delimitada.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Características clínicas e radiográficas, p. 61–62"
+    },
+    {
+      "id": "f10",
+      "frente": "Como o canal ajuda a distinguir reabsorção externa de interna?",
+      "verso": "Na interna o canal está **alargado**; na externa a radiolucência se sobrepõe a um canal **não alargado**.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Figura 2.22, p. 61"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual reabsorção externa vem após avulsão e reimplante?",
+      "verso": "A **de substituição**: se o dente ficou fora do alvéolo sem meio de armazenamento, o ligamento necrosa e o osso toma o lugar da raiz, com frequência com anquilose. Prevenção: reimplante rápido e armazenamento em solução fisiológica.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de substituição, p. 63; Tratamento e prognóstico, p. 65"
+    },
+    {
+      "id": "f12",
+      "frente": "Por que a endodontia não estabiliza a reabsorção externa?",
+      "verso": "Porque as células que reabsorvem estão no **ligamento periodontal**, fora do canal. O primeiro passo é eliminar o fator desencadeante.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Tratamento e prognóstico, p. 65"
+    },
+    {
+      "id": "f13",
+      "frente": "Mancha extrínseca ou intrínseca: o que as separa?",
+      "verso": "A extrínseca é pigmento de superfície, removível com tratamento da superfície. A intrínseca está no esmalte ou na dentina e não sai com profilaxia com pasta ou pedra-pomes.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Pigmentação dentária por fatores ambientais, introdução, p. 65"
+    },
+    {
+      "id": "f14",
+      "frente": "Como a clorexidina mancha os dentes?",
+      "verso": "Mancha **marrom-amarelada**, interproximal, junto à margem gengival; aumenta com bebidas com tanino (chá, vinho).",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Pigmentação dentária por fatores ambientais, Características clínicas, p. 66"
+    },
+    {
+      "id": "f15",
+      "frente": "Metamorfose cálcica: como se reconhece e quando tratar o canal?",
+      "verso": "Coroa muitas vezes amarela e canal obliterado ou muito reduzido na radiografia, após trauma. Endodontia **só se houver lesão periapical ou teste de vitalidade negativo**.",
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118"
+    },
+    {
+      "id": "f16",
+      "frente": "Como a hipercementose aparece na radiografia e qual a conduta?",
+      "verso": "Raiz engrossada, cercada por ligamento radiolúcido e lâmina dura. Sem tratamento; pode dificultar exodontia e endodontia.",
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Hipercementose, Características clínicas e radiográficas, p. 90; Tratamento e prognóstico, p. 91"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 45 anos, com bruxismo, tem nos incisivos e pré-molares grandes faces planas, lisas e brilhantes, que coincidem com a oclusão do arco oposto. O que é mais provável?",
+      "alternativas": [
+        {
+          "texto": "Erosão por refluxo gástrico",
+          "correta": false,
+          "justificativa": "A erosão não segue o padrão funcional de contato: dá depressões côncavas de dentina com borda de esmalte elevada, não faces planas e brilhantes.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Erosão, Características clínicas, p. 58"
+        },
+        {
+          "texto": "Abfração dos incisivos",
+          "correta": false,
+          "justificativa": "A abfração dá defeito em cunha no colo do dente, não faces planas nas superfícies oclusais e incisais.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Abfração, Diagnóstico, p. 59"
+        },
+        {
+          "texto": "Atrição",
+          "correta": true,
+          "justificativa": "Faces planas, lisas e brilhantes que correspondem ao padrão de oclusão são o quadro da atrição, que o bruxismo acelera.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Atrição, p. 57"
+        },
+        {
+          "texto": "Abrasão por escovação",
+          "correta": false,
+          "justificativa": "A escovação produz fendas cervicais horizontais na face vestibular, não faces oclusais e incisais planas.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Abrasão, Características clínicas, p. 58"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Atrição, p. 57",
+      "secao": "desgaste",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Mulher de 30 anos escova os dentes com força e mostra, nos caninos e pré-molares vestibularizados, fendas horizontais no colo, de margens definidas e superfície dura e lisa. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Abrasão por escovação",
+          "correta": true,
+          "justificativa": "Fendas cervicais horizontais vestibulares, com margens definidas e superfície dura e lisa, em dentes vestibularizados, são o padrão da abrasão por escovação.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Abrasão, Características clínicas, p. 58"
+        },
+        {
+          "texto": "Erosão por dieta ácida",
+          "correta": false,
+          "justificativa": "A erosão dá depressões rasas em colher ou concavidades com borda de esmalte elevada, sem o padrão de fendas horizontais.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Erosão, Características clínicas, p. 58"
+        },
+        {
+          "texto": "Reabsorção cervical invasiva",
+          "correta": false,
+          "justificativa": "É uma reabsorção externa, não um desgaste: começa no cemento do colo e se espalha pela coroa e pela raiz, e não é descrita como fenda horizontal de superfície dura e lisa.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção cervical invasiva, p. 63–64"
+        },
+        {
+          "texto": "Atrição",
+          "correta": false,
+          "justificativa": "A atrição afeta superfícies que tocam o antagonista (oclusais e incisais), não o colo vestibular.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Atrição, Características clínicas, p. 57"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Abrasão, Características clínicas, p. 58",
+      "secao": "desgaste",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Jovem de 22 anos com bulimia mostra perda de esmalte nas faces palatinas dos incisivos e nas faces oclusais dos molares, nos dois arcos, com dentina côncava cercada por borda elevada de esmalte. Qual é a causa mais provável da perda?",
+      "alternativas": [
+        {
+          "texto": "Atrição por bruxismo",
+          "correta": false,
+          "justificativa": "A atrição dá faces planas e brilhantes que casam com a oclusão, não dentina côncava com borda de esmalte elevada.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Atrição, Características clínicas, p. 57"
+        },
+        {
+          "texto": "Abrasão por hábito de roer objeto",
+          "correta": false,
+          "justificativa": "Hábitos como cachimbo ou cortar linha dão entalhes nas bordas incisais, não perda palatina e oclusal nos dois arcos.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Abrasão, Características clínicas, p. 58"
+        },
+        {
+          "texto": "Fonte ambiental externa, como exposição industrial",
+          "correta": false,
+          "justificativa": "Perda limitada às bordas incisais dos anteriores indica fonte externa; o padrão palatino e oclusal sugere regurgitação.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Erosão, Erosão limitada, p. 59"
+        },
+        {
+          "texto": "Erosão por regurgitação gástrica (perimólise)",
+          "correta": true,
+          "justificativa": "Perda palatina dos anteriores e oclusal dos posteriores nos dois arcos sugere regurgitação de secreção gástrica, aqui na bulimia.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Erosão, Erosão limitada, p. 59"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Erosão, p. 57–59",
+      "secao": "erosao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um paciente tem erosão ativa por consumo frequente de refrigerante, sem sensibilidade e sem queixa estética. Qual é a conduta mais adequada?",
+      "alternativas": [
+        {
+          "texto": "Restaurar todos os dentes afetados com coroas totais",
+          "correta": false,
+          "justificativa": "Restaurar é precipitado com o desgaste em curso; preferem-se restaurações conservadoras e mínimas, quando indicadas.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 60"
+        },
+        {
+          "texto": "Identificar e controlar as causas, orientar a prevenção, monitorar e adiar a restauração",
+          "correta": true,
+          "justificativa": "A conduta enfatiza diagnóstico, prevenção e monitoramento; a restauração espera sensibilidade que não cede, interesse estético forte ou desgaste incontrolável.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 60"
+        },
+        {
+          "texto": "Nenhum cuidado, pois o desgaste é fisiológico",
+          "correta": false,
+          "justificativa": "Níveis normais de atrição não necessitam de tratamento; no desgaste por erosão o livro pede medidas preventivas e monitoramento.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 60"
+        },
+        {
+          "texto": "Restaurar de imediato com resina, antes de investigar a causa",
+          "correta": false,
+          "justificativa": "O livro alerta que não reconhecer a natureza multifatorial leva a tratamento inadequado e ao fracasso do reparo.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 60"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Desgaste dentário, Tratamento e prognóstico, p. 59–60",
+      "secao": "abfracao-conduta",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Em radiografia de rotina, um incisivo central superior assintomático, com coroa rósea, mostra área radiolúcida uniforme e bem delimitada que alarga o canal em forma de balão. Qual é o diagnóstico?",
+      "alternativas": [
+        {
+          "texto": "Metamorfose cálcica",
+          "correta": false,
+          "justificativa": "Dá coroa amarela e obliteração do canal, não alargamento do canal.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117"
+        },
+        {
+          "texto": "Reabsorção externa de superfície",
+          "correta": false,
+          "justificativa": "Na externa o canal não está alargado: a radiolucência se sobrepõe a ele. A de superfície vem de pressão (ortodontia, dente impactado, cisto, tumor).",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Figura 2.22, p. 61; Reabsorção externa de superfície, p. 62"
+        },
+        {
+          "texto": "Reabsorção interna inflamatória",
+          "correta": true,
+          "justificativa": "Coroa rósea e alargamento do canal em balão, em área uniforme e bem delimitada, definem a reabsorção interna.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Características clínicas e radiográficas, p. 61–62"
+        },
+        {
+          "texto": "Hipercementose",
+          "correta": false,
+          "justificativa": "É espessamento da raiz por cemento, cercado por ligamento radiolúcido e lâmina dura, e não uma área radiolúcida que alarga o canal.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Hipercementose, Características clínicas e radiográficas, p. 90"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Características clínicas e radiográficas, p. 61–62",
+      "secao": "reab-interna",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Adolescente em tratamento ortodôntico com extração de pré-molares tem reabsorção acentuada, com raízes encurtadas e truncadas nos incisivos superiores e canal de calibre normal. Qual é o tipo de reabsorção e a conduta inicial?",
+      "alternativas": [
+        {
+          "texto": "Externa de superfície; eliminar o fator desencadeante, e considerar pausa de 2 a 3 meses",
+          "correta": true,
+          "justificativa": "A pressão ortodôntica causa reabsorção externa de superfície; o primeiro passo é eliminar o fator desencadeante e, quando a reabsorção é grande, a pausa de 2 a 3 meses tende a reduzir a perda final.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de superfície, p. 62; Tratamento e prognóstico, p. 65"
+        },
+        {
+          "texto": "Interna; tratamento endodôntico imediato",
+          "correta": false,
+          "justificativa": "A interna alarga o canal. Aqui o canal é normal e a endodontia não estabiliza a externa.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Tratamento e prognóstico, p. 65"
+        },
+        {
+          "texto": "De substituição; reimplante do dente",
+          "correta": false,
+          "justificativa": "A de substituição vem de luxação grave ou avulsão, não da pressão ortodôntica.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de substituição, p. 63"
+        },
+        {
+          "texto": "Cervical invasiva; exodontia dos incisivos",
+          "correta": false,
+          "justificativa": "A cervical invasiva começa no colo e a exodontia não é o passo inicial.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção cervical invasiva, p. 63–64"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de superfície, p. 62; Tratamento e prognóstico, p. 65",
+      "secao": "reab-externa",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Um incisivo avulsionado ficou muito tempo fora do alvéolo, sem meio de armazenamento adequado, e foi reimplantado. Qual evolução é mais provável?",
+      "alternativas": [
+        {
+          "texto": "Reabsorção interna com coroa rósea",
+          "correta": false,
+          "justificativa": "A interna nasce na polpa; aqui o problema é a necrose do ligamento periodontal.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção interna, p. 60"
+        },
+        {
+          "texto": "Hipercementose generalizada da raiz",
+          "correta": false,
+          "justificativa": "Os fatores ligados à hipercementose (trauma oclusal, inflamação vizinha, ausência do antagonista) não incluem a morte do ligamento após avulsão.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Hipercementose, Fatores associados (Boxe 2.11), p. 90"
+        },
+        {
+          "texto": "Dentina terciária reacional",
+          "correta": false,
+          "justificativa": "É resposta localizada dos odontoblastos a um estímulo, não a evolução esperada do ligamento necrosado.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, p. 117"
+        },
+        {
+          "texto": "Reabsorção externa de substituição, com anquilose",
+          "correta": true,
+          "justificativa": "Sem células vivas no ligamento, o osso trata o dente como corpo estranho e o substitui, com anquilose.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de substituição, p. 63"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Reabsorção interna e externa, Reabsorção externa de substituição, p. 63",
+      "secao": "reab-externa",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente usa bochecho diário de clorexidina e toma chá. Tem manchas marrom-amareladas interproximais, junto à gengiva. Qual é o tipo de mancha e a conduta?",
+      "alternativas": [
+        {
+          "texto": "Intrínseca por tetraciclina; clareamento interno",
+          "correta": false,
+          "justificativa": "A tetraciclina é intrínseca, de dente em formação; a clorexidina dá mancha de superfície.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Pigmentação dentária por fatores ambientais, Manchas intrínsecas, p. 67"
+        },
+        {
+          "texto": "Extrínseca por clorexidina; polimento com pedra-pomes fina e controle da causa",
+          "correta": true,
+          "justificativa": "A clorexidina causa mancha marrom-amarelada interproximal, extrínseca; remove-se com pedra-pomes fina, e ela volta se a causa persistir.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Pigmentação dentária por fatores ambientais, Características clínicas, p. 66; Tratamento e prognóstico, p. 69"
+        },
+        {
+          "texto": "Intrínseca por necrose pulpar; facetas",
+          "correta": false,
+          "justificativa": "Mancha intrínseca está dentro do esmalte ou da dentina; a clorexidina deixa mancha de superfície, junto à gengiva.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Pigmentação dentária por fatores ambientais, introdução, p. 65; Características clínicas, p. 66"
+        },
+        {
+          "texto": "Extrínseca; profilaxia comum com pasta resolve definitivamente",
+          "correta": false,
+          "justificativa": "A profilaxia comum é insuficiente e a mancha pode recidivar.",
+          "fonte": "neville5-cap2",
+          "onde": "cap. 2, Pigmentação dentária por fatores ambientais, Tratamento e prognóstico, p. 69"
+        }
+      ],
+      "fonte": "neville5-cap2",
+      "onde": "cap. 2, Pigmentação dentária por fatores ambientais, Características clínicas, p. 66; Tratamento e prognóstico, p. 69",
+      "secao": "cor",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Menino de 12 anos sofreu trauma no incisivo central superior há um ano. A coroa está amarela e a radiografia mostra o espaço pulpar bem menor que o do incisivo do outro lado, sem lesão periapical. Qual achado novo justificaria tratar o canal?",
+      "alternativas": [
+        {
+          "texto": "A coroa amarela",
+          "correta": false,
+          "justificativa": "É o jeito como a metamorfose cálcica costuma ser percebida; por si só não indica tratar o canal.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118"
+        },
+        {
+          "texto": "O canal muito reduzido na radiografia",
+          "correta": false,
+          "justificativa": "É a característica radiográfica da metamorfose cálcica; a ampla maioria desses dentes nunca desenvolve doença periapical.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118"
+        },
+        {
+          "texto": "Uma lesão periapical associada ao dente",
+          "correta": true,
+          "justificativa": "O livro reserva o tratamento endodôntico aos casos com patologia periapical, porque a ampla maioria desses dentes nunca desenvolve doença periapical.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118"
+        },
+        {
+          "texto": "O trauma ocorrido há um ano",
+          "correta": false,
+          "justificativa": "O trauma é a causa usual da metamorfose cálcica, não uma indicação de tratar o canal.",
+          "fonte": "neville5-cap3",
+          "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118"
+        }
+      ],
+      "fonte": "neville5-cap3",
+      "onde": "cap. 3, Dentina secundária e terciária, Características clínicas e radiológicas, p. 117; Tratamento e prognóstico, p. 118",
+      "secao": "polpa-cemento",
+      "figura": null
+    }
+  ]
+}

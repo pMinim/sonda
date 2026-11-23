@@ -1,0 +1,150 @@
+{
+  "disciplina": "14723",
+  "topicos": [
+    {
+      "slug": "anamnese-e-exame-clinico",
+      "titulo": "Anamnese e exame clínico sistematizado: da queixa à palpação de linfonodos",
+      "area": "Clínica Integrada",
+      "resumoCurto": "Da queixa principal à palpação de linfonodos: a sequência do exame que não deixa escapar a lesão que você não estava procurando",
+      "status": "em-revisao",
+      "origem": "Marcucci 3ª ed., cap. 4"
+    },
+    {
+      "slug": "anomalias-dentarias",
+      "titulo": "Anomalias dentárias de número, forma, tamanho, estrutura e erupção",
+      "area": "Estomatologia",
+      "resumoCurto": "Do dente que falta ao dente duplo: reconhecer no exame e na radiografia e saber o que fazer",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 2"
+    },
+    {
+      "slug": "biopsia-e-exames-complementares",
+      "titulo": "Biópsia e exames complementares: quando biopsiar, citologia, imagem, exames de sangue",
+      "area": "Estomatologia",
+      "resumoCurto": "Quando pedir cada exame, quando biopsiar e como ler o resultado: citologia, imagem e exames de sangue antes de operar",
+      "status": "em-revisao",
+      "origem": "Marcucci 3ª ed., cap. 5"
+    },
+    {
+      "slug": "carcinoma-espinocelular-bucal",
+      "titulo": "Carcinoma espinocelular: fatores de risco, sítios, aspecto clínico e encaminhamento",
+      "area": "Estomatologia",
+      "resumoCurto": "O dentista é quem vê primeiro; o estágio no diagnóstico pesa na sobrevida",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 10, e Seoane Romero et al. 2025"
+    },
+    {
+      "slug": "cistos-dos-maxilares",
+      "titulo": "Cistos dos maxilares: dentígero, queratocisto, não odontogênicos e o diferencial das radiolucências",
+      "area": "Estomatologia",
+      "resumoCurto": "Dentígero, queratocisto, ducto nasopalatino e o que se parece com eles na radiografia",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 1, 8, 14 e 15"
+    },
+    {
+      "slug": "tumores-odontogenicos-e-osseos",
+      "titulo": "Tumores odontogênicos e tumores ósseos dos maxilares",
+      "area": "Estomatologia",
+      "resumoCurto": "Ameloblastoma, odontoma e os outros tumores odontogênicos; displasia cemento-óssea; osteossarcoma, Ewing e metástases, com a imagem e a conduta de cada um",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 14 e 15"
+    },
+    {
+      "slug": "desordens-orais-potencialmente-malignas",
+      "titulo": "Desordens orais potencialmente malignas: leucoplasia, eritroplasia e queilite actínica",
+      "area": "Estomatologia",
+      "resumoCurto": "É onde o diagnóstico precoce do câncer realmente acontece",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 10"
+    },
+    {
+      "slug": "doencas-autoimunes-mucocutaneas",
+      "titulo": "Doenças autoimunes mucocutâneas: líquen plano, pênfigo vulgar, penfigoide das membranas mucosas e lúpus eritematoso",
+      "area": "Estomatologia",
+      "resumoCurto": "Estrias brancas, bolhas que se rompem, gengiva que descama: o que separa uma da outra e quem confirma",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 16"
+    },
+    {
+      "slug": "doencas-das-glandulas-salivares",
+      "titulo": "Doenças das glândulas salivares: mucocele, rânula, sialolitíase, xerostomia e neoplasias (adenoma pleomórfico)",
+      "area": "Estomatologia",
+      "resumoCurto": "Da mucocele do lábio ao nódulo firme do palato: o que é comum, o que seca a boca e o que pede biópsia",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 11"
+    },
+    {
+      "slug": "infeccoes-da-cavidade-oral",
+      "titulo": "Infecções da cavidade oral: candidíase, herpes simples, herpes-zóster, sífilis e manifestações bucais do HIV",
+      "area": "Estomatologia",
+      "resumoCurto": "Placa branca que sai à raspagem, vesícula que vira úlcera, lesão de um lado só: reconhecer o padrão e saber quem trata",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 5, 6 e 7"
+    },
+    {
+      "slug": "lesoes-do-orgao-dentario",
+      "titulo": "Lesões do órgão dentário: desgastes, reabsorções, alterações de cor",
+      "area": "Estomatologia",
+      "resumoCurto": "O dente que se gasta, se reabsorve ou muda de cor: separar a causa antes de restaurar",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 2 e 3"
+    },
+    {
+      "slug": "lesoes-fundamentais",
+      "titulo": "Lesões fundamentais: mácula, pápula, nódulo, vesícula, bolha, úlcera, placa",
+      "area": "Estomatologia",
+      "resumoCurto": "O vocabulário de toda descrição de lesão: cor, formação sólida, coleção líquida e perda tecidual, com os limites de tamanho",
+      "status": "em-revisao",
+      "origem": "Marcucci 3ª ed., cap. 6"
+    },
+    {
+      "slug": "lesoes-traumaticas",
+      "titulo": "Lesões traumáticas: úlcera traumática, queimaduras e lesões químicas da mucosa",
+      "area": "Estomatologia",
+      "resumoCurto": "Úlcera com causa: tira-se a causa e reavalia-se; sem causa óbvia ou sem resposta, biópsia",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 8"
+    },
+    {
+      "slug": "lesoes-traumaticas-e-reacionais",
+      "titulo": "Lesões reacionais: hiperplasia fibrosa inflamatória, hiperplasia papilar inflamatória, granuloma piogênico, lesão periférica de células gigantes e fibroma ossificante periférico",
+      "area": "Estomatologia",
+      "resumoCurto": "Nódulos da gengiva e do rebordo que crescem em resposta a irritação",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 12"
+    },
+    {
+      "slug": "periapicopatias",
+      "titulo": "Periapicopatias: granuloma, cisto radicular, abscesso periapical e osteíte condensante",
+      "area": "Endodontia",
+      "resumoCurto": "A radiolucidez no ápice de um dente sem vitalidade: o que pode ser e o que se faz",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., cap. 3"
+    },
+    {
+      "slug": "periodontite-estagio-grau",
+      "titulo": "Periodontite: estágio, grau e extensão",
+      "area": "Periodontia",
+      "resumoCurto": "Como fechar o diagnóstico pela classificação de 2018: critérios de caso, os quatro estágios, os três graus e a extensão.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "tumores-benignos-de-tecidos-moles",
+      "titulo": "Tumores benignos de tecidos moles: fibroma, papiloma, lipoma e hemangioma",
+      "area": "Estomatologia",
+      "resumoCurto": "Neoplasia ou hiperplasia reacional: a distinção muda a conduta",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 10 e 12"
+    },
+    {
+      "slug": "variacoes-da-normalidade",
+      "titulo": "Variações da normalidade: grânulos de Fordyce, leucoedema, língua fissurada e geográfica, linha alba, tórus",
+      "area": "Estomatologia",
+      "resumoCurto": "Achados comuns que em geral não pedem tratamento: reconhecer evita biópsia e encaminhamento à toa",
+      "status": "em-revisao",
+      "origem": "Neville 5ª ed., caps. 1, 8 e 16"
+    }
+  ]
+}

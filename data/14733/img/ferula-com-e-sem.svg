@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" width="720" height="560">
+<rect width="720" height="560" fill="#FFFFFF"/>
+<title>A férula: com e sem</title>
+<desc>Dois cortes vestibulolinguais do mesmo pré-molar inferior de raiz única tratado endodonticamente, na mesma escala, com coroa protética, núcleo, pino, obturação no terço apical, gengiva e osso. Com férula: acima da gengiva sobra um anel de dentina do próprio dente, de 1,5 a 2 mm de altura, em volta da base do núcleo; a coroa desce por fora e termina sobre essa dentina, de modo que, de fora para dentro, ficam coroa, dentina e núcleo. Sem férula: a raiz termina plana na altura da gengiva, o núcleo assenta direto sobre ela e a coroa termina na junção núcleo-raiz, sem dentina entre coroa e núcleo.</desc>
+<defs><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B86A3C" stroke-width="2.5"/></pattern></defs>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<g transform="translate(0,0)">
+<clipPath id="pc0"><rect x="2" y="8" width="350" height="472" rx="14"/></clipPath>
+<rect x="2" y="8" width="350" height="472" rx="14" fill="#FAF8F4" stroke="#E2CDB2" stroke-width="3"/>
+<text x="177" y="46" font-size="30" font-weight="700" fill="#1F4D4F" text-anchor="middle">Com férula</text>
+<g clip-path="url(#pc0)">
+<rect x="-10" y="324" width="400" height="160" fill="#E2CDB2"/>
+<path d="M-10,324 L-10,290 L77,290 Q103,284 107,274 L130,270 L214,270 L237,274 Q241,284 267,290 L400,290 L400,324 Z" fill="#F2A7A0"/><path d="M-10,290 L77,290 Q103,284 107,274 L130,270 M214,270 L237,274 Q241,284 267,290 L400,290" fill="none" stroke="#D98A84" stroke-width="3"/>
+<path d="M106,262 C98,230 96,170 98,135 C100,100 132,84 172,84 C212,84 244,100 246,135 C248,170 246,230 238,262 Z" fill="#FFFBEA" stroke="#1F4D4F" stroke-width="4" stroke-linejoin="round"/>
+<path d="M130,204 L130,270 C130,330 158,400 168,426 Q172,434 176,426 C186,400 214,330 214,270 L214,204 Z" fill="#F3E3B3" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+<rect x="130" y="204" width="20" height="66" fill="#F0D98A"/><rect x="130" y="204" width="20" height="66" fill="url(#hatch)"/>
+<rect x="194" y="204" width="20" height="66" fill="#F0D98A"/><rect x="194" y="204" width="20" height="66" fill="url(#hatch)"/>
+<path d="M130,204 L132,150 C137,120 148,106 172,106 C196,106 207,120 212,150 L214,204 L194,204 L194,236 Q194,248 179,250 L165,250 Q150,248 150,236 L150,204 Z" fill="#A9B0B0" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+<path d="M165,248 L179,248 L179,377 L165,377 Z" fill="#A9B0B0" stroke="#1F4D4F" stroke-width="3"/>
+<path d="M165,377 L179,377 L175,424 L169,424 Z" fill="#E8A58C" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+<g fill="none" stroke="#B86A3C" stroke-width="4"><rect x="130" y="204" width="20" height="66"/><rect x="194" y="204" width="20" height="66"/></g>
+</g>
+<line x1="226" y1="150" x2="256" y2="150" stroke="#1F4D4F" stroke-width="3"/><circle cx="226" cy="150" r="5" fill="#1F4D4F"/><text x="262" y="159" font-size="26" fill="#1F4D4F">coroa</text>
+<line x1="194" y1="185" x2="256" y2="185" stroke="#1F4D4F" stroke-width="3"/><circle cx="194" cy="185" r="5" fill="#1F4D4F"/><text x="262" y="194" font-size="26" fill="#1F4D4F">núcleo</text>
+<line x1="172" y1="350" x2="256" y2="350" stroke="#1F4D4F" stroke-width="3"/><circle cx="172" cy="350" r="5" fill="#1F4D4F"/><text x="262" y="359" font-size="26" fill="#1F4D4F">pino</text>
+<line x1="204" y1="246" x2="256" y2="246" stroke="#1F4D4F" stroke-width="3"/><circle cx="204" cy="246" r="5" fill="#1F4D4F"/><text x="262" y="252" font-size="26" font-weight="700" fill="#B86A3C">férula</text><text x="262" y="278" font-size="26" fill="#1F4D4F">dentina</text>
+<g stroke="#B86A3C" stroke-width="2" stroke-opacity=".7"><line x1="90" y1="204" x2="98" y2="204"/><line x1="90" y1="270" x2="104" y2="270"/></g>
+<g stroke="#B86A3C" stroke-width="5"><line x1="90" y1="204" x2="90" y2="270"/><line x1="82" y1="204" x2="98" y2="204"/><line x1="82" y1="270" x2="98" y2="270"/></g>
+<text x="76" y="236" font-size="26" font-weight="700" fill="#B86A3C" text-anchor="end">1,5 a</text><text x="76" y="262" font-size="26" font-weight="700" fill="#B86A3C" text-anchor="end">2 mm</text>
+<text x="14" y="312" font-size="26" fill="#1F4D4F">gengiva</text><text x="14" y="368" font-size="26" fill="#1F4D4F">osso</text>
+<line x1="172" y1="402" x2="146" y2="402" stroke="#1F4D4F" stroke-width="3"/><circle cx="172" cy="402" r="5" fill="#1F4D4F"/><text x="14" y="411" font-size="26" fill="#1F4D4F">obturação</text>
+<text x="177" y="516" font-size="26" fill="#1F4D4F" text-anchor="middle">a coroa abraça</text>
+<text x="177" y="546" font-size="26" fill="#1F4D4F" text-anchor="middle">a dentina do dente</text>
+</g>
+<g transform="translate(360,0)">
+<clipPath id="pc1"><rect x="2" y="8" width="350" height="472" rx="14"/></clipPath>
+<rect x="2" y="8" width="350" height="472" rx="14" fill="#FAF8F4" stroke="#E2CDB2" stroke-width="3"/>
+<text x="177" y="46" font-size="30" font-weight="700" fill="#1F4D4F" text-anchor="middle">Sem férula</text>
+<g clip-path="url(#pc1)">
+<rect x="-10" y="324" width="400" height="160" fill="#E2CDB2"/>
+<path d="M-10,324 L-10,290 L77,290 Q103,284 107,274 L130,270 L214,270 L237,274 Q241,284 267,290 L400,290 L400,324 Z" fill="#F2A7A0"/><path d="M-10,290 L77,290 Q103,284 107,274 L130,270 M214,270 L237,274 Q241,284 267,290 L400,290" fill="none" stroke="#D98A84" stroke-width="3"/>
+<path d="M106,270 C98,230 96,170 98,135 C100,100 132,84 172,84 C212,84 244,100 246,135 C248,170 246,230 238,270 Z" fill="#FFFBEA" stroke="#1F4D4F" stroke-width="4" stroke-linejoin="round"/>
+<path d="M130,270 L130,270 C130,330 158,400 168,426 Q172,434 176,426 C186,400 214,330 214,270 L214,270 Z" fill="#F3E3B3" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+<path d="M130,270 L132,150 C137,120 148,106 172,106 C196,106 207,120 212,150 L214,270 Z" fill="#A9B0B0" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+<path d="M165,270 L179,270 L179,377 L165,377 Z" fill="#A9B0B0" stroke="#1F4D4F" stroke-width="3"/>
+<path d="M165,377 L179,377 L175,424 L169,424 Z" fill="#E8A58C" stroke="#1F4D4F" stroke-width="3" stroke-linejoin="round"/>
+
+</g>
+<line x1="226" y1="150" x2="256" y2="150" stroke="#1F4D4F" stroke-width="3"/><circle cx="226" cy="150" r="5" fill="#1F4D4F"/><text x="262" y="159" font-size="26" fill="#1F4D4F">coroa</text>
+<line x1="194" y1="185" x2="256" y2="185" stroke="#1F4D4F" stroke-width="3"/><circle cx="194" cy="185" r="5" fill="#1F4D4F"/><text x="262" y="194" font-size="26" fill="#1F4D4F">núcleo</text>
+<line x1="172" y1="350" x2="256" y2="350" stroke="#1F4D4F" stroke-width="3"/><circle cx="172" cy="350" r="5" fill="#1F4D4F"/><text x="262" y="359" font-size="26" fill="#1F4D4F">pino</text><line x1="198" y1="300" x2="256" y2="300" stroke="#1F4D4F" stroke-width="3"/><circle cx="198" cy="300" r="5" fill="#1F4D4F"/><text x="262" y="309" font-size="26" fill="#1F4D4F">raiz</text>
+<text x="177" y="516" font-size="26" fill="#1F4D4F" text-anchor="middle">a coroa termina na</text>
+<text x="177" y="546" font-size="26" fill="#1F4D4F" text-anchor="middle">junção núcleo-raiz</text>
+</g>
+</g>
+</svg>

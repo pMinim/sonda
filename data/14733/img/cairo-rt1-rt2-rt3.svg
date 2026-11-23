@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520">
+<rect width="720" height="520" fill="#FFFFFF"/>
+<title>Classificação de Cairo: RT1, RT2 e RT3</title>
+<desc>Três painéis lado a lado, vista vestibular de três dentes inferiores vizinhos (incisivo lateral, canino e primeiro pré-molar), com a gengiva. A recessão vestibular do canino é idêntica nos três painéis. RT1: as papilas preenchem o espaço entre as coroas e não há perda interproximal. RT2: as papilas desceram um pouco, menos que a margem vestibular, e abrem-se espaços escuros entre as raízes (perda interproximal menor ou igual à vestibular). RT3: as papilas desceram mais que a margem vestibular e as raízes ficam visíveis dos dois lados de um espaço escuro (perda interproximal maior que a vestibular). Medidas tomadas a partir da junção cemento-esmalte (JCE).</desc>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<defs><path id="teeth" d="M50,106 C68,104 80,122 80,140 C78,158.66666666666666 73,177.33333333333334 65,196 C65,246 63.5,262 50,332 C36.5,262 35,246 35,196 C27,177.33333333333334 22,158.66666666666666 20,140 C20,122 32,104 50,106 Z M120,72 C140,72 160,106 160,140 C158.33333333333334,158.66666666666666 153.66666666666666,177.33333333333334 146,196 C146,246 143.4,274 120,344 C96.6,274 94,246 94,196 C86.33333333333333,177.33333333333334 81.66666666666667,158.66666666666666 80,140 C80,106 100,72 120,72 Z M190,110 C208,108 220,126 220,140 C218.33333333333334,158.66666666666666 213.66666666666666,177.33333333333334 206,196 C206,246 204.4,258 190,328 C175.6,258 174,246 174,196 C166.33333333333334,177.33333333333334 161.66666666666666,158.66666666666666 160,140 C160,126 172,108 190,110 Z"/></defs>
+<g transform="translate(0,0)">
+<clipPath id="pc0"><rect x="6" y="12" width="228" height="334" rx="14"/></clipPath>
+<clipPath id="cr0"><rect x="0" y="0" width="240" height="196"/></clipPath>
+<rect x="6" y="12" width="228" height="334" rx="14" fill="#FAF8F4" stroke="#E2CDB2" stroke-width="3"/>
+<text x="120" y="50" font-size="34" font-weight="700" fill="#B86A3C" text-anchor="middle">RT1</text>
+<g clip-path="url(#pc0)">
+<rect x="44" y="140" width="74" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<rect x="122" y="140" width="76" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<use href="#teeth" fill="#EBD7A0"/>
+<use href="#teeth" fill="#FFFBEA" clip-path="url(#cr0)"/>
+<use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<path d="M6,212 C28,212 28,204 50,204 Q64,196 81,146 C97,236 98,252 120,252 C142,252 142,236 158,146 Q176,196 190,204 C212,204 212,212 234,212 L234,346 L6,346 Z" fill="#F2A7A0"/>
+<path d="M6,212 C28,212 28,204 50,204 Q64,196 81,146 C97,236 98,252 120,252 C142,252 142,236 158,146 Q176,196 190,204 C212,204 212,212 234,212" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<g clip-path="url(#cr0)"><use href="#teeth" fill="#FFFBEA"/><use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/></g>
+</g>
+<line x1="20" y1="196" x2="206" y2="196" stroke="#9A7B4F" stroke-width="3" stroke-dasharray="8 6"/>
+<g stroke="#B86A3C" stroke-width="5"><line x1="106" y1="196" x2="106" y2="252"/><line x1="98" y1="196" x2="114" y2="196"/><line x1="98" y1="252" x2="114" y2="252"/></g>
+<text x="118" y="233" font-size="26" font-weight="700" fill="#B86A3C">V</text>
+
+<text x="120" y="388" font-size="26" fill="#1F4D4F" text-anchor="middle">sem perda</text>
+<text x="120" y="420" font-size="26" fill="#1F4D4F" text-anchor="middle">interproximal</text>
+</g>
+<g transform="translate(240,0)">
+<clipPath id="pc1"><rect x="6" y="12" width="228" height="334" rx="14"/></clipPath>
+<clipPath id="cr1"><rect x="0" y="0" width="240" height="196"/></clipPath>
+<rect x="6" y="12" width="228" height="334" rx="14" fill="#FAF8F4" stroke="#E2CDB2" stroke-width="3"/>
+<text x="120" y="50" font-size="34" font-weight="700" fill="#B86A3C" text-anchor="middle">RT2</text>
+<g clip-path="url(#pc1)">
+<rect x="44" y="140" width="74" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<rect x="122" y="140" width="76" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<use href="#teeth" fill="#EBD7A0"/>
+<use href="#teeth" fill="#FFFBEA" clip-path="url(#cr1)"/>
+<use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<path d="M6,212 C28,212 28,204 50,204 C68.6,204 62.400000000000006,226 81,226 C104.4,226 96.6,252 120,252 C142.8,252 135.2,226 158,226 C177.2,226 170.8,204 190,204 C212,204 212,212 234,212 L234,346 L6,346 Z" fill="#F2A7A0"/>
+<path d="M6,212 C28,212 28,204 50,204 C68.6,204 62.400000000000006,226 81,226 C104.4,226 96.6,252 120,252 C142.8,252 135.2,226 158,226 C177.2,226 170.8,204 190,204 C212,204 212,212 234,212" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<g clip-path="url(#cr1)"><use href="#teeth" fill="#FFFBEA"/><use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/></g>
+</g>
+<line x1="20" y1="196" x2="206" y2="196" stroke="#9A7B4F" stroke-width="3" stroke-dasharray="8 6"/>
+<g stroke="#B86A3C" stroke-width="5"><line x1="106" y1="196" x2="106" y2="252"/><line x1="98" y1="196" x2="114" y2="196"/><line x1="98" y1="252" x2="114" y2="252"/></g>
+<text x="118" y="233" font-size="26" font-weight="700" fill="#B86A3C">V</text>
+<g stroke="#FAF8F4" stroke-width="5"><line x1="158" y1="196" x2="158" y2="226"/><line x1="150" y1="196" x2="166" y2="196"/><line x1="150" y1="226" x2="166" y2="226"/></g>
+<rect x="147" y="238" width="46" height="34" rx="8" fill="#1F4D4F"/><text x="170" y="264" font-size="26" font-weight="700" fill="#FAF8F4" text-anchor="middle">IP</text>
+<text x="120" y="388" font-size="26" fill="#1F4D4F" text-anchor="middle">interproximal</text>
+<text x="120" y="420" font-size="26" fill="#1F4D4F" text-anchor="middle">≤ vestibular</text>
+</g>
+<g transform="translate(480,0)">
+<clipPath id="pc2"><rect x="6" y="12" width="228" height="334" rx="14"/></clipPath>
+<clipPath id="cr2"><rect x="0" y="0" width="240" height="196"/></clipPath>
+<rect x="6" y="12" width="228" height="334" rx="14" fill="#FAF8F4" stroke="#E2CDB2" stroke-width="3"/>
+<text x="120" y="50" font-size="34" font-weight="700" fill="#B86A3C" text-anchor="middle">RT3</text>
+<g clip-path="url(#pc2)">
+<rect x="44" y="140" width="74" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<rect x="122" y="140" width="76" height="190" fill="#1F4D4F" fill-opacity=".92"/>
+<use href="#teeth" fill="#EBD7A0"/>
+<use href="#teeth" fill="#FFFBEA" clip-path="url(#cr2)"/>
+<use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<path d="M6,212 C28,212 28,204 50,204 C68.6,204 62.400000000000006,292 81,292 C104.4,292 96.6,252 120,252 C142.8,252 135.2,292 158,292 C177.2,292 170.8,204 190,204 C212,204 212,212 234,212 L234,346 L6,346 Z" fill="#F2A7A0"/>
+<path d="M6,212 C28,212 28,204 50,204 C68.6,204 62.400000000000006,292 81,292 C104.4,292 96.6,252 120,252 C142.8,252 135.2,292 158,292 C177.2,292 170.8,204 190,204 C212,204 212,212 234,212" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/>
+<g clip-path="url(#cr2)"><use href="#teeth" fill="#FFFBEA"/><use href="#teeth" fill="none" stroke="#5E8586" stroke-width="4" stroke-linejoin="round"/></g>
+</g>
+<line x1="20" y1="196" x2="206" y2="196" stroke="#9A7B4F" stroke-width="3" stroke-dasharray="8 6"/>
+<g stroke="#B86A3C" stroke-width="5"><line x1="106" y1="196" x2="106" y2="252"/><line x1="98" y1="196" x2="114" y2="196"/><line x1="98" y1="252" x2="114" y2="252"/></g>
+<text x="118" y="233" font-size="26" font-weight="700" fill="#B86A3C">V</text>
+<g stroke="#FAF8F4" stroke-width="5"><line x1="158" y1="196" x2="158" y2="292"/><line x1="150" y1="196" x2="166" y2="196"/><line x1="150" y1="292" x2="166" y2="292"/></g>
+<rect x="147" y="304" width="46" height="34" rx="8" fill="#1F4D4F"/><text x="170" y="330" font-size="26" font-weight="700" fill="#FAF8F4" text-anchor="middle">IP</text>
+<text x="120" y="388" font-size="26" fill="#1F4D4F" text-anchor="middle">interproximal</text>
+<text x="120" y="420" font-size="26" fill="#1F4D4F" text-anchor="middle">> vestibular</text>
+</g>
+<line x1="24" y1="466" x2="64" y2="466" stroke="#9A7B4F" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="74" y="475" font-size="26" fill="#1F4D4F">JCE</text>
+<text x="170" y="475" font-size="26" fill="#B86A3C"><tspan font-weight="700">V</tspan> vestibular</text>
+<rect x="350" y="448" width="46" height="34" rx="8" fill="#1F4D4F"/><text x="373" y="474" font-size="26" font-weight="700" fill="#FAF8F4" text-anchor="middle">IP</text>
+<text x="404" y="475" font-size="26" fill="#1F4D4F">interproximal</text>
+<text x="360" y="508" font-size="26" font-weight="700" fill="#1F4D4F" text-anchor="middle">V igual nos três; muda só o IP</text>
+</g>
+</svg>

@@ -1,0 +1,579 @@
+{
+  "slug": "variacoes-da-normalidade",
+  "titulo": "Variações da normalidade: grânulos de Fordyce, leucoedema, língua fissurada e geográfica, linha alba, tórus",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 1, 8 e 16",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap1",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 1, Defeitos do Desenvolvimento da Região Oral e Maxilofacial, p. 1–49.",
+      "curta": "Neville 5ª ed., cap. 1"
+    },
+    {
+      "id": "neville5-cap8",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 8, Lesões Físicas e Químicas, p. 265–312.",
+      "curta": "Neville 5ª ed., cap. 8"
+    },
+    {
+      "id": "neville5-cap16",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 16, Doenças Dermatológicas, p. 730–800.",
+      "curta": "Neville 5ª ed., cap. 16"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "conceito",
+      "titulo": "O que é uma variação da normalidade e por que reconhecê-la",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, Tratamento e prognóstico, p. 6; Leucoedema, introdução e Tratamento e prognóstico, p. 7; Língua saburrosa e Língua pilosa (Diagnóstico), p. 12; Exostoses, Tratamento e prognóstico, p. 20; cap. 8, Linha alba, Tratamento e prognóstico, p. 265; cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768",
+      "texto": "O livro usa a ideia de **variação da normalidade** de forma explícita para dois achados: os **grânulos de Fordyce**, chamados de \"variação anatômica normal\", e o **leucoedema**, que por ser tão comum, segundo o livro, parece mais uma variação da normalidade do que uma doença. Nas páginas lidas, só esses dois recebem a expressão. Os outros deste tema (linha alba, língua fissurada, língua geográfica, língua pilosa, varicosidades sublinguais, exostoses e tórus) o livro descreve como condições que, em geral, **não pedem tratamento** (várias ditas benignas), com as exceções que as seções seguintes trazem.\n\n**O que eles têm em comum:**\n- vários são **frequentes**: grânulos de Fordyce em mais de 80% da população; leucoedema em 70 a 90% dos adultos negros;\n- vários costumam ser **assintomáticos**;\n- o **diagnóstico costuma ser clínico**, e a biópsia costuma ser desnecessária (Fordyce, leucoedema, língua pilosa, exostoses, tórus palatino e mandibular).\n\n**Por que reconhecê-los:** quem os conhece não biopsia nem trata à toa. O livro dá um exemplo do custo de não reconhecer: a língua saburrosa é muitas vezes confundida com candidíase e tratada sem necessidade com antifúngicos.\n\n**Reconhecer não é descuidar do exame:**\n- no leucoedema, a mucosa deve ser **distendida** (esticada) para excluir lesões escondidas pelo edema;\n- na exostose com dúvida diagnóstica, a biópsia exclui outras lesões ósseas;\n- alguns pedem intervenção em situações específicas, como exostose com trauma constante, ulceração e dor, ou tórus com ulceração recorrente, que atrapalha a função ou a prótese, e varicosidade solitária de lábio ou bochecha, cuja remoção pode confirmar o diagnóstico.\n\nAs seções seguintes trazem, para cada achado, onde aparece, como é, o sinal que o identifica e a conduta. A última seção compara todos."
+    },
+    {
+      "id": "fordyce-leucoedema",
+      "titulo": "Grânulos de Fordyce e leucoedema",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, introdução, Características clínicas e Tratamento e prognóstico, p. 6; Leucoedema, introdução, Características clínicas e Tratamento e prognóstico, p. 7",
+      "texto": "**Grânulos de Fordyce.** São **glândulas sebáceas** na mucosa oral. Na pele elas são estruturas habituais; na boca são chamadas de \"ectópicas\" (fora do lugar habitual). Aparecem em **mais de 80% da população**.\n- **Como são:** várias pápulas (pequenas elevações sólidas) **amarelas ou branco-amareladas**, de poucas a centenas.\n- **Onde:** mucosa jugal e parte lateral do vermelhão (a parte avermelhada) do lábio superior; às vezes região retromolar e pilar tonsilar anterior.\n- **Em quem:** mais em adultos do que em crianças; a puberdade parece estimular, provavelmente por fator hormonal.\n- **Sintomas:** nenhum; o paciente pode notar leve rugosidade.\n- **Histopatologia:** glândulas sebáceas logo abaixo do epitélio, sem folículos pilosos.\n- **Conduta:** nenhum tratamento; o aspecto é característico e dispensa biópsia. Podem hiperplasiar ou formar pseudocistos de queratina; tumores são muito raros.\n\n**Leucoedema.** Alteração comum da mucosa oral, de causa desconhecida.\n- **Como é:** aspecto **difuso, opalescente (leitoso), branco-acinzentado**, com a superfície pregueada em estrias. **Não é destacável.**\n- **Onde:** em geral **bilateral na mucosa jugal**; pode chegar à mucosa labial.\n- **Em quem:** mais em negros (70 a 90% dos adultos negros e 50% das crianças negras); em brancos é bem mais sutil. É mais acentuado em fumantes e diminui quando param.\n- **Sinal que fecha o diagnóstico:** o aspecto branco **diminui muito ou some quando a mucosa é distendida**.\n- **Histopatologia:** edema dentro das células da camada espinhosa.\n- **Conduta:** benigno; nenhum tratamento.\n\n**Ponte com outros temas:** o aspecto que desaparece ao esticar ajuda a distinguir o leucoedema de outras lesões brancas comuns, como leucoplasia, candidíase e líquen plano. Além disso, a mucosa afetada deve sempre ser distendida no exame, para excluir lesões subjacentes encobertas pelo edema. Leucoplasia e demais placas brancas ficam em outro tema."
+    },
+    {
+      "id": "linha-alba",
+      "titulo": "Linha alba",
+      "fonte": "neville5-cap8",
+      "onde": "cap. 8, Linha alba, introdução, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 265",
+      "texto": "**O que é:** alteração comum da mucosa jugal (da bochecha), em geral associada a pressão, atrito ou trauma de sucção contra os dentes. O livro cita ainda transpasse horizontal insuficiente e restaurações irregulares como problemas relacionados.\n\n**Como é:** uma **linha branca**, em geral **bilateral** e **festonada** (de contorno recortado em arcos), na mucosa jugal **na altura da linha de oclusão** dos dentes. Costuma ir do canto da boca para trás, em direção à rafe pterigomandibular, até os dentes posteriores em oclusão. A proeminência varia e é maior perto dos dentes posteriores.\n\n**Em quem:** nos estudos de alterações bucais é uma das condições orais **mais comuns**. Vários estudos relatam predomínio no sexo feminino.\n\n**Histopatologia:** a biópsia raramente é indicada. Quando feita, mostra **hiperqueratose** sobre mucosa oral normal, às vezes com edema dentro das células do epitélio e inflamação crônica leve na lâmina própria.\n\n**Conduta:** **não precisa de tratamento**, e o livro não documenta dificuldades causadas por ela. Pode regredir sozinha.\n\n**Fora deste tema:** as lesões brancas da bochecha por mordiscar a mucosa, como o morsicatio buccarum, ficam no tema de lesões traumáticas."
+    },
+    {
+      "id": "lingua-fissurada",
+      "titulo": "Língua fissurada",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua fissurada (língua escrotal), introdução, Características clínicas e Características histopatológicas, p. 11; relação com outras condições e Tratamento e prognóstico, p. 12",
+      "texto": "**O que é:** condição relativamente comum, com vários sulcos ou fissuras no **dorso da língua**. Também se chama língua escrotal.\n\n**Como é:** sulcos de **2 a 6 mm de profundidade**. O livro descreve três padrões:\n- casos mais graves: muitas fissuras cobrem o dorso e dividem as papilas em \"ilhas\";\n- fissuras mais localizadas na parte dorsolateral;\n- uma fissura central ampla, com fissuras menores ramificadas perpendicularmente.\n\n**Em quem:** crianças e adultos; a frequência e a gravidade crescem com a idade (30% dos adultos mais velhos). A prevalência varia de **2 a 5%** em alguns estudos a 20 a 73% em outros, provavelmente por causa do rigor do critério. Alguns estudos mostram predileção masculina.\n\n**Causa:** incerta. A hereditariedade parece ter papel importante; envelhecimento, tabagismo e história de psoríase também contribuem.\n\n**Sintomas:** em geral nenhum; alguns pacientes têm discreta ardência ou dor.\n\n**Histopatologia:** hiperplasia das projeções epiteliais, perda dos \"pelos\" de queratina das papilas filiformes e microabscessos de neutrófilos no epitélio, padrão parecido com o do eritema migratório e da psoríase.\n\n**Conduta:** benigna; **nenhum tratamento específico**. Oriente a **escovar a língua**, porque restos de alimento retidos nas fissuras podem irritar.\n\n**Relações:** há forte associação com a **língua geográfica**, e a mesma base hereditária pode valer para as duas. A língua fissurada também pode compor a síndrome de Melkersson-Rosenthal (cap. 9 do livro)."
+    },
+    {
+      "id": "lingua-geografica",
+      "titulo": "Língua geográfica (eritema migratório)",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório (língua geográfica), introdução, Características clínicas e Tratamento e prognóstico, p. 767–768; Características histopatológicas, p. 767–768 [fronteira de página aproximada]",
+      "texto": "**O que é:** o livro chama de **eritema migratório** (também glossite migratória benigna). Condição benigna e comum que afeta sobretudo a língua, em **1 a 3% da população**. Em geral é achada no exame de rotina. A causa é desconhecida; um estudo recente nos EUA não achou associação significativa com fumo, alergias, diabetes ou uso de contraceptivos.\n\n**Como é:** nos **dois terços anteriores do dorso**, na ponta e nas bordas laterais, aparecem várias **zonas vermelhas bem demarcadas**. O vermelho vem da atrofia das papilas filiformes. As zonas são circundadas, ao menos em parte, por **borda branco-amarelada, sinuosa ou festonada, levemente elevada**.\n\n**Sinal que a define: a migração.** As lesões surgem rápido numa área, regridem em dias ou semanas e aparecem em outro lugar. Em geral cada uma começa como pequena placa branca, com centro atrófico avermelhado que cresce para fora.\n\n**Sintomas:** em geral nenhum. Quando ativa, pode haver ardência ou sensibilidade a alimento quente ou picante; raramente a ardência é constante e intensa.\n\n**Outros locais:** raro; mucosa jugal, labial e, menos, palato mole ou assoalho, com a mesma aparência. A borda branco-amarelada sinuosa pode ajudar a evitar confusão com candidíase ou eritroplasia.\n\n**Relação com a língua fissurada:** cerca de **um terço** dos pacientes com língua fissurada também tem eritema migratório.\n\n**Histopatologia:** neutrófilos dentro do epitélio e alongamento das cristas epiteliais, como na psoríase; por isso se fala em mucosite psoriasiforme. O livro discute a ligação com psoríase (cerca de 10% dos psoriáticos tinham a lesão, contra 2,5% do grupo comparado), sem concluir que seja psoríase oral.\n\n**Conduta:** em geral **nenhum tratamento**; basta assegurar ao paciente que é benigna. Se a ardência comprometer o estilo de vida, **corticosteroide tópico** em gel (fluocinonida ou betametasona), em fina película várias vezes ao dia."
+    },
+    {
+      "id": "pilosa-varicosidades",
+      "titulo": "Língua pilosa e varicosidades",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua pilosa, introdução, Características clínicas, Diagnóstico, Tratamento e prognóstico e Diferencial, p. 12–13; Varicosidades (varizes), Características clínicas, p. 13; Tratamento e prognóstico, p. 14",
+      "texto": "**Língua pilosa.** Acúmulo de queratina nas **papilas filiformes** do dorso, que ficam alongadas como pelos. Prevalência em adultos de **0,5 a 11,3%**.\n- **Fatores associados:** muitos pacientes fumam; também higiene oral deficiente, debilitação geral, hipossalivação, radioterapia de cabeça e pescoço; a linezolida causou casos transitórios.\n- **Como é:** mais na linha média, adiante das papilas circunvaladas, podendo se espalhar. Papilas alongadas **acastanhadas, amareladas ou enegrecidas**, que se elevam com gaze ou instrumental.\n- **Sintomas e diagnóstico:** em geral nenhum (náusea ou gosto ruim em alguns). Diagnóstico clínico; biópsia desnecessária.\n- **Conduta:** benigna. Eliminar tabaco, antibióticos ou antissépticos predisponentes, manter higiene excelente e escovar ou raspar a língua. Agentes queratolíticos, como a podofilina, já foram usados, mas por segurança o livro não os recomenda.\n- **Não confundir:** **leucoplasia pilosa** (borda da língua, vírus Epstein-Barr, ligada a HIV ou imunossupressão); **língua saburrosa** (sem projeções em pelos, pode dar halitose, confundida com candidíase); **pigmentação por bismuto** (sem elevação das papilas, some ao suspender o medicamento).\n\n**Varicosidades (varizes).** Veias dilatadas e tortuosas, ligadas à idade: raras em crianças, comuns em adultos.\n- **Sublinguais:** o tipo mais comum, em **dois terços das pessoas com mais de 60 anos**. Lesões múltiplas, elevadas, **azul-purpúreas**, na borda e no ventre da língua; assintomáticas, salvo trombose.\n- **Solitárias:** lábios e mucosa jugal, notadas em geral só após trombose: nódulo azul-purpúreo, firme e indolor.\n- **Conduta:** sublinguais, nenhum tratamento. Solitárias podem precisar de remoção cirúrgica, para confirmar o diagnóstico ou por estética."
+    },
+    {
+      "id": "exostoses-torus",
+      "titulo": "Exostoses e tórus (palatino e mandibular)",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Exostoses, p. 18–20; Tórus palatino, p. 20–21; Tórus mandibular, p. 21–22",
+      "texto": "**Exostoses:** protuberâncias ósseas localizadas, que partem da cortical; benignas e mais vistas em adultos. Tipos:\n- **vestibulares:** bilaterais, na face vestibular dos rebordos alveolares; a mucosa fina por cima pode ulcerar por trauma;\n- **palatinas:** na face palatina das tuberosidades maxilares, em geral bilaterais;\n- **solitárias:** por irritação local, como sob enxerto gengival; a **subpôntica** (sob o pôntico de prótese fixa) é rara.\n\nHistologia: osso cortical lamelar denso. **Conduta:** na maioria das exostoses a clínica basta; biópsia se houver dúvida. Remove-se se há trauma constante, ulceração e dor, necessidade de prótese ou de retalho periodontal. Exostose reacional ao dente pode recidivar se o estresse persistir. Raramente cresce tanto que lembra osteoma (tumor ósseo).\n\n**Tórus palatino:** exostose na **linha média do palato duro**. Pode ser plano, alongado (crista), nodular ou lobular. A maioria tem **menos de 2 cm**, cresce devagar e é assintomática. A prevalência varia muito (4 a 60%); nos EUA, a maioria dos estudos mostra **20 a 35%**; mulher:homem de 2:1; pico no início da vida adulta. Em geral não aparece nas radiografias de rotina. **Conduta:** clínica; remoção em desdentados para a prótese, ulceração recorrente ou prejuízo funcional. O tórus palatino tem tendência a desenvolver osteonecrose induzida por medicamentos (o livro remete ao cap. 8; cap. 1, Tórus palatino, Tratamento e prognóstico, p. 21).\n\n**Tórus mandibular:** na superfície **lingual da mandíbula, acima da linha milo-hióidea, na região dos pré-molares**; **bilateral em mais de 90%**, em geral nódulos únicos (às vezes lóbulos paralelos). Nos EUA, **7 a 10%**, com leve predileção masculina; relacionado a bruxismo e ao número de dentes. Em periapical, o tórus grande pode aparecer como radiopacidade sobre as raízes; na oclusal, é bem visível. **Conduta:** sem tratamento; remoção para prótese; pode recidivar se os dentes permanecem."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: os achados deste tema",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, p. 6; Leucoedema, p. 7; Língua fissurada, p. 11–12; Língua pilosa, p. 12–13; Varicosidades, p. 13–14; Exostoses, p. 19–20; Tórus palatino, p. 20–21; Tórus mandibular, p. 21–22; cap. 8, Linha alba, p. 265; cap. 16, Eritema migratório, p. 767–768",
+      "texto": "| Achado | Onde | Como é | O que identifica | Conduta |\n|---|---|---|---|---|\n| **Grânulos de Fordyce** | mucosa jugal, lábio superior | pápulas amarelas, poucas a centenas | aspecto característico | nenhuma; sem biópsia |\n| **Leucoedema** | mucosa jugal, bilateral | branco-acinzentado, leitoso, estrias | some ao distender | nenhuma |\n| **Linha alba** | mucosa jugal, na linha de oclusão | linha branca festonada | posição no plano oclusal | nenhuma; pode regredir |\n| **Língua fissurada** | dorso da língua | sulcos de 2 a 6 mm | sulcos no dorso da língua | nenhuma; escovar a língua |\n| **Língua geográfica** | dorso e bordas da língua | zonas vermelhas com borda branco-amarelada | lesões que mudam de lugar | nenhuma; corticoide tópico se ardência intensa |\n| **Língua pilosa** | dorso, linha média | papilas alongadas, acastanhadas, amareladas ou enegrecidas | papilas se elevam com gaze | tirar fatores; higiene |\n| **Varicosidade sublingual** | borda e ventre da língua | lesões azul-purpúreas elevadas | lesões azul-purpúreas; adultos, mais em maiores de 60 anos | nenhuma |\n| **Tórus palatino** | linha média do palato duro | massa óssea dura | aspecto | remover para prótese, se ulcera de repetição ou atrapalha a função |\n| **Tórus mandibular** | lado lingual, pré-molares | nódulos ósseos, em geral bilaterais | aspecto | remover para prótese |\n\n**Com o que o livro manda não confundir:**\n- leucoedema: leucoplasia, candidíase, líquen plano (some ao esticar);\n- língua pilosa: leucoplasia pilosa, língua saburrosa, pigmentação por bismuto;\n- língua geográfica: candidíase e eritroplasia (a borda branca sinuosa ajuda);\n- exostose muito grande: osteoma."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "O que são os grânulos de Fordyce e quão comuns são?",
+      "verso": "**Glândulas sebáceas** na mucosa oral, relatadas em **mais de 80% da população**. O livro as trata como variação anatômica normal.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, introdução, p. 6"
+    },
+    {
+      "id": "f02",
+      "frente": "Grânulos de Fordyce: aspecto, locais e conduta?",
+      "verso": "Pápulas **amarelas ou branco-amareladas**, na mucosa jugal e no lábio superior. Sem tratamento e sem biópsia, pois o aspecto é característico.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, Características clínicas e Tratamento e prognóstico, p. 6"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual sinal fecha o diagnóstico de leucoedema?",
+      "verso": "O aspecto branco-acinzentado e leitoso **diminui muito ou some quando a mucosa é distendida**.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Leucoedema, Características clínicas, p. 7"
+    },
+    {
+      "id": "f04",
+      "frente": "Em quem o leucoedema é mais frequente?",
+      "verso": "Em **negros**: 70 a 90% dos adultos negros e 50% das crianças negras. Em brancos é mais sutil. Fumantes têm aspecto mais acentuado.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Leucoedema, introdução, p. 7"
+    },
+    {
+      "id": "f05",
+      "frente": "Por que sempre distender a mucosa em um paciente com leucoedema?",
+      "verso": "Para **excluir lesões subjacentes** que o edema possa estar encobrindo.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Leucoedema, Tratamento e prognóstico, p. 7"
+    },
+    {
+      "id": "f06",
+      "frente": "Linha alba: onde e como é, e qual a conduta?",
+      "verso": "Linha branca **festonada**, em geral bilateral, na mucosa jugal **na altura da linha de oclusão**. Sem tratamento; pode regredir sozinha.",
+      "fonte": "neville5-cap8",
+      "onde": "cap. 8, Linha alba, Características clínicas e Tratamento e prognóstico, p. 265"
+    },
+    {
+      "id": "f07",
+      "frente": "Língua fissurada: como é e o que se orienta?",
+      "verso": "Sulcos de **2 a 6 mm** no dorso da língua. Sem tratamento específico; orientar a **escovar a língua** para tirar restos de alimento.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua fissurada, Características clínicas, p. 11; Tratamento e prognóstico, p. 12"
+    },
+    {
+      "id": "f08",
+      "frente": "Que proporção dos pacientes com língua fissurada também tem língua geográfica?",
+      "verso": "Cerca de **um terço** também tem eritema migratório (língua geográfica).",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório, Características clínicas, p. 767"
+    },
+    {
+      "id": "f09",
+      "frente": "O que caracteriza a língua geográfica (eritema migratório) no exame?",
+      "verso": "Zonas **vermelhas** bem demarcadas (papilas atróficas) com **borda branco-amarelada sinuosa**, que **mudam de lugar** em dias ou semanas.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório, Características clínicas, p. 767"
+    },
+    {
+      "id": "f10",
+      "frente": "Língua geográfica com ardência intensa: qual conduta?",
+      "verso": "Em geral nenhuma, só tranquilizar. Se a ardência prejudica a vida do paciente, **corticosteroide tópico** (fluocinonida ou betametasona) em fina película.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768"
+    },
+    {
+      "id": "f11",
+      "frente": "Língua pilosa: o que é e qual a conduta?",
+      "verso": "Papilas filiformes alongadas, acastanhadas ou enegrecidas. Benigna: eliminar fatores como tabaco, **higiene excelente** e raspar ou escovar a língua.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua pilosa, Características clínicas, p. 12; Tratamento e prognóstico, p. 13"
+    },
+    {
+      "id": "f12",
+      "frente": "Como diferenciar língua pilosa de leucoplasia pilosa?",
+      "verso": "A leucoplasia pilosa fica classicamente na **borda da língua**, é causada pelo vírus Epstein-Barr e se associa a HIV ou imunossupressão.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua pilosa, Diferencial, p. 13"
+    },
+    {
+      "id": "f13",
+      "frente": "Varicosidade sublingual: quem tem, como é e o que fazer?",
+      "verso": "Dois terços dos maiores de 60 anos. Lesões **azul-purpúreas** elevadas na borda e no ventre da língua. Sem tratamento.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Varicosidades, Características clínicas, p. 13; Tratamento e prognóstico, p. 14"
+    },
+    {
+      "id": "f14",
+      "frente": "Quando se indica remover uma exostose?",
+      "verso": "Trauma constante, **ulceração e dor**, necessidade de prótese ou de retalho periodontal. Se há dúvida diagnóstica, biópsia.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Exostoses, Tratamento e prognóstico, p. 20"
+    },
+    {
+      "id": "f15",
+      "frente": "Tórus palatino: onde fica, tamanho típico e conduta?",
+      "verso": "**Linha média do palato duro**; em geral **menos de 2 cm**. Clínico; remove-se em desdentados para prótese, se ulcerar de repetição ou atrapalhar a função.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Tórus palatino, p. 20–21"
+    },
+    {
+      "id": "f16",
+      "frente": "Tórus mandibular: localização e lateralidade?",
+      "verso": "Face **lingual** da mandíbula, acima da linha milo-hióidea, região de **pré-molares**; **bilateral em mais de 90%**.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Tórus mandibular, Características clínicas e radiográficas, p. 21"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Adulto de 35 anos, sem queixas, tem várias pápulas amarelas, pequenas e agrupadas na mucosa jugal, dos dois lados, que dão leve sensação de rugosidade. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Leucoedema",
+          "correta": false,
+          "justificativa": "O leucoedema é uma alteração difusa, branco-acinzentada, e não pápulas amarelas; seu sinal é sumir ao distender a mucosa.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Leucoedema, Características clínicas, p. 7"
+        },
+        {
+          "texto": "Grânulos de Fordyce",
+          "correta": true,
+          "justificativa": "Várias pápulas amarelas ou branco-amareladas na mucosa jugal, assintomáticas, com possível rugosidade leve, são o quadro típico dos grânulos de Fordyce.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Grânulos de Fordyce, Características clínicas, p. 6"
+        },
+        {
+          "texto": "Varicosidades sublinguais",
+          "correta": false,
+          "justificativa": "As varicosidades são lesões azul-purpúreas, típicas da borda e do ventre da língua em idosos.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Varicosidades, Características clínicas, p. 13"
+        },
+        {
+          "texto": "Tórus mandibular",
+          "correta": false,
+          "justificativa": "O tórus é uma protuberância óssea na face lingual da mandíbula, não pápulas na mucosa jugal.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus mandibular, Características clínicas e radiográficas, p. 21"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Grânulos de Fordyce, Características clínicas, p. 6",
+      "secao": "fordyce-leucoedema",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem negro de 28 anos tem aspecto branco-acinzentado, leitoso e com estrias nas duas mucosas jugais. A área não é destacável e o aspecto some quando a bochecha é esticada. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Diagnóstico clínico de leucoedema e nenhum tratamento",
+          "correta": true,
+          "justificativa": "O desaparecimento ao distender identifica o leucoedema, que é benigno e não exige tratamento.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Leucoedema, Características clínicas e Tratamento e prognóstico, p. 7"
+        },
+        {
+          "texto": "Antifúngico, por suspeita de candidíase",
+          "correta": false,
+          "justificativa": "O livro cita a candidíase como uma das lesões brancas de que o leucoedema se distingue, justamente pelo sumiço ao esticar a mucosa.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Leucoedema, Tratamento e prognóstico, p. 7"
+        },
+        {
+          "texto": "Excisão cirúrgica da mucosa afetada",
+          "correta": false,
+          "justificativa": "Não há indicação cirúrgica: a condição é benigna e não exige tratamento.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Leucoedema, Tratamento e prognóstico, p. 7"
+        },
+        {
+          "texto": "Biópsia incisional de rotina para afastar leucoplasia",
+          "correta": false,
+          "justificativa": "O desaparecimento ao distender permite o diagnóstico clínico e ajuda a distinguir o leucoedema da leucoplasia.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Leucoedema, Características clínicas, p. 7"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Leucoedema, Características clínicas e Tratamento e prognóstico, p. 7",
+      "secao": "fordyce-leucoedema",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Mulher de 30 anos tem uma linha branca festonada, bilateral, nas mucosas jugais, ao nível em que os dentes se encontram. Qual é a conduta indicada?",
+      "alternativas": [
+        {
+          "texto": "Biópsia incisional de rotina",
+          "correta": false,
+          "justificativa": "A biópsia raramente é indicada na linha alba.",
+          "fonte": "neville5-cap8",
+          "onde": "cap. 8, Linha alba, Características histopatológicas, p. 265"
+        },
+        {
+          "texto": "Antifúngico tópico por 14 dias",
+          "correta": false,
+          "justificativa": "A linha alba é uma hiperqueratose ligada a pressão e atrito, e o livro diz que não há necessidade de tratamento. O prazo de 14 dias não é dado do livro.",
+          "fonte": "neville5-cap8",
+          "onde": "cap. 8, Linha alba, Características clínicas e Características histopatológicas, p. 265"
+        },
+        {
+          "texto": "Nenhum tratamento, pois é uma condição comum, sem dificuldades documentadas",
+          "correta": true,
+          "justificativa": "O livro diz que não há necessidade de tratamento nem dificuldades documentadas, e que pode haver regressão espontânea.",
+          "fonte": "neville5-cap8",
+          "onde": "cap. 8, Linha alba, Tratamento e prognóstico, p. 265"
+        },
+        {
+          "texto": "Remoção cirúrgica da faixa de mucosa",
+          "correta": false,
+          "justificativa": "Não há indicação de qualquer tratamento, muito menos cirúrgico.",
+          "fonte": "neville5-cap8",
+          "onde": "cap. 8, Linha alba, Tratamento e prognóstico, p. 265"
+        }
+      ],
+      "fonte": "neville5-cap8",
+      "onde": "cap. 8, Linha alba, Características clínicas e Tratamento e prognóstico, p. 265",
+      "secao": "linha-alba",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um paciente adulto, assintomático, tem vários sulcos de 3 a 4 mm no dorso da língua. Qual orientação o livro dá?",
+      "alternativas": [
+        {
+          "texto": "Biópsia para excluir lesão maligna",
+          "correta": false,
+          "justificativa": "A língua fissurada é uma condição benigna, e o livro não descreve biópsia na conduta; a orientação é escovar a língua.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua fissurada, Tratamento e prognóstico, p. 12"
+        },
+        {
+          "texto": "Corticosteroide tópico em gel",
+          "correta": false,
+          "justificativa": "O corticosteroide tópico é citado no eritema migratório com ardência intensa, não na língua fissurada.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768"
+        },
+        {
+          "texto": "Antifúngico, por suspeita de candidíase",
+          "correta": false,
+          "justificativa": "A língua fissurada é benigna e não tem tratamento específico; antifúngico não é indicado.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua fissurada, Tratamento e prognóstico, p. 12"
+        },
+        {
+          "texto": "Nenhum tratamento específico, com orientação para escovar a língua",
+          "correta": true,
+          "justificativa": "A condição é benigna; escovar a língua evita que restos de alimento retidos nos sulcos irritem.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua fissurada, Tratamento e prognóstico, p. 12"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua fissurada, Tratamento e prognóstico, p. 12",
+      "secao": "lingua-fissurada",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente relata que manchas vermelhas na língua mudam de lugar em poucos dias e arde com comida picante. Há zonas vermelhas bem demarcadas na ponta e nas bordas, com borda branco-amarelada sinuosa. Qual é o diagnóstico?",
+      "alternativas": [
+        {
+          "texto": "Língua pilosa",
+          "correta": false,
+          "justificativa": "A língua pilosa tem papilas alongadas, acastanhadas ou enegrecidas, não zonas vermelhas atróficas que migram.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Características clínicas, p. 12"
+        },
+        {
+          "texto": "Eritema migratório (língua geográfica)",
+          "correta": true,
+          "justificativa": "Zonas vermelhas bem demarcadas por atrofia papilar, com borda branco-amarelada sinuosa, que surgem e regridem em locais diferentes, formam o quadro do eritema migratório.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Características clínicas, p. 767"
+        },
+        {
+          "texto": "Língua fissurada",
+          "correta": false,
+          "justificativa": "A língua fissurada é descrita por sulcos de 2 a 6 mm no dorso, não por zonas vermelhas que migram; pode coexistir com a geográfica (cerca de um terço dos casos), mas não explica as manchas que mudam de lugar.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua fissurada, Características clínicas, p. 11"
+        },
+        {
+          "texto": "Varicosidades linguais",
+          "correta": false,
+          "justificativa": "As varicosidades são lesões azul-purpúreas elevadas, não zonas vermelhas atróficas que migram.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Varicosidades, Características clínicas, p. 13"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório, Características clínicas, p. 767",
+      "secao": "lingua-geografica",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente com eritema migratório (língua geográfica) tem ardência tão intensa que atrapalha a rotina. Qual conduta o livro cita?",
+      "alternativas": [
+        {
+          "texto": "Raspagem periódica das papilas",
+          "correta": false,
+          "justificativa": "A raspagem é conduta da língua pilosa, não do eritema migratório.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Tratamento e prognóstico, p. 13"
+        },
+        {
+          "texto": "Antifúngico sistêmico",
+          "correta": false,
+          "justificativa": "O livro cita só o corticosteroide tópico, quando a ardência é intensa; a condição é benigna e em geral não se trata.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768"
+        },
+        {
+          "texto": "Corticosteroide tópico em gel, em fina película, várias vezes ao dia",
+          "correta": true,
+          "justificativa": "Nos casos em que a ardência compromete o estilo de vida, gel de fluocinonida ou betametasona pode aliviar.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768"
+        },
+        {
+          "texto": "Remoção cirúrgica das áreas atróficas",
+          "correta": false,
+          "justificativa": "Não há indicação cirúrgica; em geral nenhum tratamento é indicado.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Eritema migratório, Tratamento e prognóstico, p. 768",
+      "secao": "lingua-geografica",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Fumante de 50 anos queixa-se de gosto desagradável e do aspecto da língua. Tem papilas alongadas e acastanhadas na linha média do dorso, que se elevam com uma gaze. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Antifúngico, tratando como candidíase",
+          "correta": false,
+          "justificativa": "O antifúngico é o tratamento desnecessário que o livro cita quando a língua saburrosa é confundida com candidíase; papilas alongadas e acastanhadas que se elevam com gaze indicam língua pilosa.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, língua saburrosa, p. 12"
+        },
+        {
+          "texto": "Tratar como leucoplasia pilosa, investigando infecção pelo HIV",
+          "correta": false,
+          "justificativa": "A leucoplasia pilosa ocorre classicamente na borda da língua, é causada pelo vírus Epstein-Barr e se associa a HIV ou imunossupressão; aqui as papilas alongadas estão na linha média.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Diferencial, p. 13"
+        },
+        {
+          "texto": "Eliminar o fator predisponente, manter higiene excelente e escovar ou raspar a língua",
+          "correta": true,
+          "justificativa": "A língua pilosa é benigna; eliminam-se fatores como o tabaco, mantém-se higiene excelente e descama-se a língua com escova ou raspador.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Tratamento e prognóstico, p. 13"
+        },
+        {
+          "texto": "Biópsia excisional para confirmar o diagnóstico",
+          "correta": false,
+          "justificativa": "O diagnóstico da língua pilosa é clínico, pelo aspecto, e a biópsia é desnecessária na maioria dos casos.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Diagnóstico, p. 12"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Língua pilosa, Características clínicas, Diagnóstico e Tratamento e prognóstico, p. 12–13",
+      "secao": "pilosa-varicosidades",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Idoso de 68 anos, assintomático, tem várias lesões elevadas, azul-purpúreas, na borda e no ventre da língua. Qual é o diagnóstico e a conduta?",
+      "alternativas": [
+        {
+          "texto": "Eritema migratório, com corticosteroide tópico",
+          "correta": false,
+          "justificativa": "O eritema migratório é de zonas vermelhas atróficas que migram, não de lesões azul-purpúreas elevadas.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Eritema migratório, Características clínicas, p. 767"
+        },
+        {
+          "texto": "Língua pilosa, com raspagem periódica",
+          "correta": false,
+          "justificativa": "A língua pilosa afeta as papilas do dorso, que ficam alongadas e escuras, não o ventre com lesões azul-purpúreas.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Língua pilosa, Características clínicas, p. 12"
+        },
+        {
+          "texto": "Tórus mandibular, com remoção cirúrgica",
+          "correta": false,
+          "justificativa": "O tórus é uma massa óssea dura na face lingual da mandíbula, não uma lesão azulada da língua.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus mandibular, Características clínicas e radiográficas, p. 21"
+        },
+        {
+          "texto": "Varicosidades sublinguais, sem tratamento",
+          "correta": true,
+          "justificativa": "Lesões múltiplas, azul-purpúreas, na borda e no ventre da língua em idoso são varizes sublinguais; assintomáticas, não têm indicação de tratamento.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Varicosidades, Características clínicas, p. 13; Tratamento e prognóstico, p. 14"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Varicosidades, Características clínicas, p. 13; Tratamento e prognóstico, p. 14",
+      "secao": "pilosa-varicosidades",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Mulher de 25 anos tem uma massa óssea dura, de 1,5 cm, na linha média do palato duro. Nunca ulcerou e ela não tem queixas. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Biópsia incisional de rotina",
+          "correta": false,
+          "justificativa": "A maioria dos tórus palatinos é diagnosticada pelo aspecto característico; a biópsia fica para casos raros.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus palatino, Tratamento e prognóstico, p. 21"
+        },
+        {
+          "texto": "Diagnóstico clínico de tórus palatino, sem tratamento",
+          "correta": true,
+          "justificativa": "O tórus palatino é diagnosticado clinicamente; a remoção só se discute em desdentados para prótese, ulceração recorrente ou prejuízo funcional.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus palatino, Tratamento e prognóstico, p. 21"
+        },
+        {
+          "texto": "Remoção cirúrgica imediata",
+          "correta": false,
+          "justificativa": "A cirurgia não é indicada em tórus assintomático sem ulceração nem interferência na função.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus palatino, Tratamento e prognóstico, p. 21"
+        },
+        {
+          "texto": "Encaminhamento para investigar tumor ósseo",
+          "correta": false,
+          "justificativa": "Uma exostose só se confunde com osteoma quando fica muito grande, caso raro; uma massa de 1,5 cm na linha média é o tórus típico.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Exostoses, Características clínicas e radiográficas, p. 19"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Tórus palatino, Tratamento e prognóstico, p. 21",
+      "secao": "exostoses-torus",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Qual é a localização típica do tórus mandibular?",
+      "alternativas": [
+        {
+          "texto": "Face vestibular dos rebordos alveolares, dos dois lados",
+          "correta": false,
+          "justificativa": "Essa é a localização das exostoses vestibulares, não do tórus mandibular.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Exostoses, Características clínicas e radiográficas, p. 19"
+        },
+        {
+          "texto": "Linha média do palato duro",
+          "correta": false,
+          "justificativa": "Essa é a localização do tórus palatino.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus palatino, p. 20"
+        },
+        {
+          "texto": "Face lingual da mandíbula, acima da linha milo-hióidea, na região de pré-molares",
+          "correta": true,
+          "justificativa": "É a localização descrita para o tórus mandibular, bilateral em mais de 90% dos casos.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Tórus mandibular, Características clínicas e radiográficas, p. 21"
+        },
+        {
+          "texto": "Face palatina das tuberosidades maxilares",
+          "correta": false,
+          "justificativa": "Essa é a localização das exostoses palatinas (tubérculos palatinos).",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Exostoses, Características clínicas e radiográficas, p. 19"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Tórus mandibular, Características clínicas e radiográficas, p. 21",
+      "secao": "exostoses-torus",
+      "figura": null
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "slug": "anticoagulados-e-coagulopatias",
+  "titulo": "Anticoagulantes, antiagregantes e coagulopatias hereditárias (hemofilia, von Willebrand)",
+  "area": "Pacientes Especiais",
+  "origem": "Little e Falace 9ª ed., caps. 24, 25 e 5 (p. 75–82); Andrade, Terapêutica Medicamentosa, 3ª ed., cap. 19",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "lf9-cap24",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 24, Acquired Bleeding and Hypercoagulable Disorders, p. 428–456.",
+      "curta": "Little e Falace 9ª ed., cap. 24"
+    },
+    {
+      "id": "lf9-cap25",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 25, Congenital Bleeding and Hypercoagulable Disorders, p. 457–479.",
+      "curta": "Little e Falace 9ª ed., cap. 25"
+    },
+    {
+      "id": "lf9-cap05",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 5, Cardiac Arrhythmias, p. 75–82.",
+      "curta": "Little e Falace 9ª ed., cap. 5"
+    },
+    {
+      "id": "andrade3-cap19",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 19, Antiagregantes e anticoagulantes, p. 196–204.",
+      "curta": "Andrade 3ª ed., cap. 19"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "identificar-risco",
+      "titulo": "Quem pode sangrar e como achar",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Etiology, p. 428–429; Dental Management, Patient Identification (History and Symptoms, Physical Examination, Medical Considerations), Box 24.6, p. 444–447",
+      "texto": "Esta seção é do **cap. 24 de Little e Falace** (autores dos EUA), sobre distúrbios hemorrágicos adquiridos. Cada seção do tema diz de qual livro e capítulo vêm os números dela.\n\nProcedimento odontológico que sangra costuma ser de baixo risco. O perigo é o paciente cuja hemostasia está alterada por droga ou doença e o dentista não percebe antes de começar. Identificado, o manejo reduz bastante o risco.\n\n**De onde vem o risco.** O livro diz que a maioria dos distúrbios hemorrágicos é iatrogênica. Quem toma cumarínico (varfarina) tem potencial problema de sangramento; o uso é comum após infarto recente, AVC ou tromboflebite, e também na fibrilação atrial, na cirurgia cardíaca aberta e na artroplastia recente de quadril ou joelho. Pesam ainda os antiplaquetários, a aspirina em doença crônica, a idade avançada, a hepatopatia, a falta de vitamina K, a leucemia e a quimioterapia.\n\n**Quatro formas de identificar:** história, exame físico, exames de triagem e sangramento excessivo depois de um procedimento.\n\n**A história é uma conversa ativa**, que parte do questionário e aprofunda. Cubra seis temas:\n- sangramento em parentes;\n- sangramento excessivo após operações e extrações (e se precisou voltar ao dentista para tamponamento, sutura ou transfusão);\n- sangramento excessivo após trauma;\n- remédios que previnem coagulação ou tratam dor crônica;\n- doenças atuais e passadas, em especial hepatopatia;\n- sangramento espontâneo (gengival, nasal, urinário, retal).\n\nPergunte a todo paciente, novo ou de retorno, se usa anticoagulante (heparina, heparina de baixo peso molecular, cumarínico, inibidor direto da trombina ou do fator Xa). Se usa, **contate o médico** para saber o grau de anticoagulação mantido e a finalidade. Pergunte também de aspirina, outros antiplaquetários, antibiótico de amplo espectro recente, álcool e fitoterápicos.\n\nO dado mais valioso é o sangramento excessivo depois de um desafio hemostático grande e recente. História negativa depois de agressões pequenas não exclui diátese leve.\n\n**Exame:** procure petéquias, equimoses, aranhas vasculares, telangiectasias, icterícia e palidez. Sinal sem explicação pela história: encaminhe para avaliação médica.\n\n**Conduta:** não se opera quem, pela história e pelo exame, é suspeito de problema hemorrágico. Ele é triado ou vai ao hematologista. Paciente sob cuidado médico com possível problema hemorrágico só recebe tratamento odontológico depois da consulta ao médico e do preparo adequado."
+    },
+    {
+      "id": "triagem-plaquetas",
+      "titulo": "Exames de triagem e limites de plaquetas",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Laboratory and Diagnostic Findings, p. 436 e 438; Dental Management, Screening Laboratory Tests, Box 24.7, p. 447; Thrombocytopenia, p. 452",
+      "texto": "Faz-se triagem quando há história de problema hemorrágico, de familiar com problema ou sinais no exame. O dentista pode pedir os exames ou encaminhar ao hematologista. Para o livro, uma história clara de sangramento prolongado após trauma ou cirurgia pesa mais que um exame negativo.\n\n**Quatro exames que o dentista pode usar** (Box 24.7; os normais variam com o laboratório, e o controle deve estar na faixa):\n- **Contagem de plaquetas:** rastreia trombocitopenia.\n- **aPTT** (tempo de tromboplastina parcial ativada): vias intrínseca e comum; normal de 25 a 35 s. Prolonga-se na hemofilia e na hepatopatia.\n- **PT** (tempo de protrombina): vias extrínseca e comum; normal de 11 a 15 s. Em quem usa cumarínico, o PT é expresso como INR, que padroniza o resultado entre laboratórios.\n- **TT** (tempo de trombina): mede se o fibrinogênio forma o coágulo inicial; normal de 9 a 13 s.\n\nPT, aPTT e TT todos prolongados indicam problema na conversão do fibrinogênio em fibrina. Triagem anormal: o hematologista faz o diagnóstico e recomenda o tratamento. O tempo de sangramento de Ivy e o PFA-100 não são recomendados como triagem pelo dentista.\n\n**Plaquetas, os números do livro lado a lado:**\n- Faixa normal: 150.000 a 450.000/µL no texto (p. 436) e 140.000 a 400.000/µL no Box 24.7 (p. 447). O livro não concilia.\n- Texto, p. 436: entre 50.000 e 100.000/µL, sangramento excessivo só com trauma grave; abaixo de 50.000/µL, púrpura de pele e mucosa e sangramento com trauma mínimo; abaixo de 20.000/µL, sangramento espontâneo possível.\n- Manejo, p. 452: acima de 30.000/µL, anestesia por infiltração e bloqueio e a maioria dos procedimentos de rotina podem ser feitos. Abaixo disso, adiar o tratamento de rotina com lesão tecidual mínima; em urgência, repor plaquetas. Acima de 50.000/µL, extrações e cirurgia dentoalveolar. Cirurgia mais avançada pede 80.000 a 100.000/µL ou mais; abaixo, repor antes.\n\nO livro apresenta as duas leituras sem conciliá-las. Na trombocitopenia grave, o hematologista participa do preparo e do manejo pós-cirúrgico."
+    },
+    {
+      "id": "antiplaquetarios",
+      "titulo": "Aspirina, AINEs e clopidogrel",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Pathophysiology, p. 430–431; Antiplatelet Drugs, p. 443; Dental Management, Antiplatelet Therapy, p. 448–449",
+      "texto": "**Aspirina.** Inibe de forma irreversível a ciclo-oxigenase da plaqueta, e sem tromboxano A2 a agregação falha. A plaqueta não tem núcleo e não refaz a enzima; a inibição pode durar até 9 dias, tempo de eliminar as plaquetas velhas. Mesmo uma dose por dia, ou em dias alternados, basta para inibir. Apesar disso, o livro diz que esse efeito geralmente não tem significado clínico: o uso de aspirina não costuma gerar problema hemorrágico significativo, e **os procedimentos odontológicos invasivos podem ser feitos**. Em cirurgia grande de emergência, a desmopressina pode reduzir o risco de sangramento excessivo, em consulta com o médico ou o hematologista.\n\n**AINEs.** Inibem a mesma enzima, mas de modo reversível; a duração depende do fármaco, da dose e da meia-vida. A maioria dos procedimentos invasivos dispensa ajuste. Se o médico recomendar suspender, três meias-vidas do fármaco bastam para a função plaquetária voltar ao normal. O risco com aspirina ou AINE sobe com álcool, anticoagulante, idade avançada, hepatopatia e outras coagulopatias.\n\n**Clopidogrel e ticlopidina** (bloqueiam o receptor de ADP). São muito usados para evitar trombose em stents; o clopidogrel é o mais comum, sozinho ou com aspirina. O livro cita um aconselhamento científico de 2007 de sociedades dos EUA (AHA, ACC, SCAI, American College of Surgeons e ADA): 12 meses de terapia antiplaquetária dupla após stent farmacológico, adiar cirurgia eletiva por 1 ano e, se não der para adiar, considerar manter a aspirina nos pacientes de alto risco.\n\nUm estudo recente, com antiplaquetário único ou duplo em extrações, cirurgia periodontal e raspagem subgengival, não achou sangramento prolongado. Para o livro, hoje parece seguro manter ticlopidina, clopidogrel ou a terapia dupla com aspirina nos procedimentos invasivos. Se uma cirurgia bucal maior não puder esperar, os tienopiridínicos podem precisar ser suspensos até depois dela: peça consulta ao médico.\n\n**Antiplaquetários injetáveis** são de uso hospitalar em emergência coronariana; o dentista dificilmente os encontra. Se for chamado ao hospital por paciente com síndrome coronariana aguda ou infarto, consulte o médico responsável e, em geral, escolha o tratamento odontológico mais conservador, sem mudar medicamentos.\n\n**Analgesia:** aspirina e AINEs não servem para dor em quem tem distúrbio hemorrágico ou usa anticoagulante."
+    },
+    {
+      "id": "varfarina-inr",
+      "titulo": "Varfarina: INR e conduta",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Anticoagulant Drugs, Coumarin, Tabela 24.3, p. 442–443; Dental Management, Coumarin Therapy, Box 24.9, p. 449–451",
+      "texto": "A varfarina é um cumarínico oral que bloqueia a síntese dos fatores dependentes de vitamina K (VII, IX, X e protrombina). O efeito terapêutico leva de 4 a 5 dias. Monitora-se pelo PT, expresso como **INR**: razão normalizada internacional, que corrige o PT pelo índice de sensibilidade da tromboplastina usada no laboratório.\n\n**Metas de INR (Tabela 24.3):**\n- 2,0 a 3,0 (alvo 2,5): tratamento e profilaxia de trombose venosa, embolia pulmonar, fibrilação atrial, infarto agudo, valvopatia e biopróteses nos 3 primeiros meses.\n- 2,5 a 3,5 (alvo 3,0): valva cardíaca protética mecânica, prevenção de novo infarto e trombose associada a anticorpos antifosfolípides.\n\n**O dilema.** Com varfarina, a preocupação do dentista é sangrar; se o anticoagulante for suspenso, a preocupação do médico é a trombose, que pode ser fatal. O livro afirma que a literatura apoia claramente manter a varfarina em cirurgia oral pequena e procedimentos invasivos semelhantes quando o **INR é de 3,5 ou menos**. Estima-se que, a cada 1,0 de INR acima de 3,5, o risco de sangramento dobra. Para cirurgia bucal maior a literatura é menos clara. Com outro problema hemorrágico (hepatopatia, doença renal) ou outros fármacos (aspirina, antibióticos, AINEs), o manejo é individualizado. Sem infecção aguda e com INR de 3,5 ou menos, a cirurgia pequena pode ser feita com o menor trauma possível. Para a dor depois, o Box 24.9 manda evitar aspirina e AINEs; sugere acetaminofeno, com ou sem codeína (detalhes na seção seguinte).\n\n**Conduta do Box 24.9:**\n- Todo paciente em varfarina: consulta ao médico antes de procedimento cirúrgico ou invasivo, para saber o grau de anticoagulação mantido, e confirmação do INR antes da cirurgia.\n- INR de 2,0 a 3,5 e procedimento invasivo ou cirurgia oral menor: **sem ajuste de dose**.\n- INR acima de 3,5: pedir ao médico que reduza a dose, para o INR cair a 2,0 a 3,5.\n- Cirurgia oral maior com INR de 3,0 a 3,5: o dentista pode pedir redução para 2,0 a 3,0.\n- A redução leva de 3 a 5 dias. Confirme por INR e marque o procedimento em até 2 dias depois da confirmação; cheque o INR de novo no dia da cirurgia.\n- Sem complicação (sangramento, infecção, cicatrização ruim), o médico é contatado para retomar a dose usual; segundo o texto, se não houver sangramento excessivo no dia seguinte, ele pode orientar a volta à dose usual.\n- Infecção aguda presente: evite a cirurgia até tratá-la."
+    },
+    {
+      "id": "varfarina-local",
+      "titulo": "Varfarina: hemostasia local, remédios e retorno",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449 e 451; Box 24.9, p. 450",
+      "texto": "**Medidas locais.** Se o alvéolo sangrar além do esperado após extração, pode-se pôr esponja de gelatina com trombina no alvéolo; o fechamento primário sobre ele é desejável. Celulose oxidada (Oxycel, Surgicel) ou colágeno microfibrilar podem substituir a esponja de gelatina, mas **não se usa trombina com eles**: ela é inativada por fatores de pH, sem benefício e com custo a mais. Pode-se somar um inibidor da fibrinólise (ácido tranexâmico ou ácido ε-aminocaproico).\n\n**Bochecho antifibrinolítico.** O livro cita recomendação do American College of Chest Physicians e da AHA/ACC (EUA): não interromper a varfarina para procedimento odontológico invasivo e usar bochecho de ácido tranexâmico ou ácido ε-aminocaproico nos 2 primeiros dias pós-operatórios. Preparo do ε-aminocaproico (Amicar) descrito pelo livro: 10 mL da solução (1,00 g) mantidos na área do procedimento por 2 minutos, logo antes, e repetidos a cada 1 a 2 horas até acabar a solução. Instrua o paciente a não agitar com força e a evitar canudo e bala, para não desalojar o coágulo.\n\n**Se as medidas locais falharem:** consulte o médico. Opções que o livro lista: suspender a varfarina (leva vários dias para agir), vitamina K, plasma fresco congelado, concentrado de protrombina e fator VIIa recombinante.\n\n**Remédios (Box 24.9 e p. 451):**\n- Dor: doses mínimas de acetaminofeno, com ou sem codeína. Evite aspirina, compostos com aspirina e AINEs.\n- Antibiótico: só se houver infecção aguda.\n- Potencializam a varfarina: acetaminofeno, metronidazol, salicilatos, antibióticos de amplo espectro, eritromicina e inibidores da COX-2 (se usados, reduzir a dose; pela preocupação com infarto, talvez seja melhor evitá-los). Também fitoterápicos e medicamentos sem receita com aspirina.\n- Antagonizam a varfarina: barbitúricos, esteroides e nafcilina.\n- Anestesia e ansiedade: o box registra \"sem problemas\".\n\n**Retorno:** contate ou examine o paciente de 24 a 48 horas depois de cirurgia, para ver se há sangramento excessivo ou infecção."
+    },
+    {
+      "id": "heparinas-e-novos",
+      "titulo": "Heparinas, inibidores diretos e antídotos",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Medical Management, p. 440–442; Dental Management, Heparin, Low-molecular-weight heparin, Direct thrombin inhibitors, Direct factor Xa inhibitors, p. 451; Table 24.5, p. 445",
+      "texto": "**Heparina padrão.** A maioria dos pacientes está internada e recebe varfarina na alta. Urgência odontológica durante a internação: tratar do modo mais conservador, evitando procedimentos invasivos se possível. Quem faz hemodiálise recebe heparina; como a meia-vida dela é de 1 a 2 horas, se o tratamento esperar até o dia seguinte à diálise, procedimentos invasivos podem ser feitos.\n\n**Heparina de baixo peso molecular e fondaparinux.** Usados em ambulatório após artroplastia recente de quadril ou joelho e em trombose venosa profunda ou embolia pulmonar assintomática. Cirurgia eletiva pode esperar a suspensão, em geral em 3 a 6 meses. Se o procedimento invasivo for necessário: consulte o médico. A meia-vida é menor que 1 dia; o médico pode sugerir suspender o fármaco e operar em 1 a 2 dias, ou fazer a cirurgia e tratar localmente as complicações hemorrágicas. Segundo o livro, esses pacientes parecem tolerar cirurgia pequena com pouco risco de sangramento grave.\n\n**Inibidores diretos da trombina injetáveis:** uso hospitalar, sobretudo em quem já teve trombocitopenia induzida por heparina. Improvável o dentista ter esse paciente; muitos procedimentos invasivos podem ser feitos sem suspender (p. 451).\n\n**Dabigatrana (oral).** O livro diz que a maioria dos procedimentos invasivos pode ser feita e recomenda consultar o médico. Na frase seguinte, comenta que, pela meia-vida curta desses fármacos (inibidores diretos da trombina), bastaria 1 dia sem o fármaco para procedimentos mais invasivos. É observação do livro, e o capítulo não traz instrução de suspensão ao dentista.\n\n**Rivaroxabana e apixabana** são de uso comum. Aqui o livro diz que quem os toma sangra em excesso com trauma ou cirurgia; no cap. 5 (p. 82, seção sobre fibrilação atrial) diz que não se prevê preocupação com sangramento maior nos procedimentos invasivos. O livro não concilia os dois trechos. Nesta passagem (p. 451) não traz orientação de suspensão.\n\n**Antídotos (Tabela 24.5, p. 445):** protamina para a heparina e vitamina K para a varfarina. Para a dabigatrana, a tabela lista o idarucizumabe (aprovado nos EUA em outubro de 2015), mas o coloca sob a coluna \"sem antídoto\"; para a rivaroxabana, concentrado de complexo protrombínico com sucesso limitado; para a apixabana, nenhum. O texto da p. 440 diz que não há antídoto para os anticoagulantes mais novos, embora haja progresso. O livro mostra as duas leituras e não as concilia."
+    },
+    {
+      "id": "hereditarios-visao",
+      "titulo": "Distúrbios hereditários: o que pesquisar",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Epidemiology, p. 457; Hemophilia A, p. 466–467; Dental Management, Patient Identification, p. 471–472; p. 459, 469, 472–473 e 477",
+      "texto": "Os distúrbios hemorrágicos hereditários são menos prevalentes que os adquiridos: num consultório de 2.000 pacientes, no máximo 10 a 20 teriam um (estimativa do livro, autores dos EUA).\n\n**Os mais comuns:**\n- **Doença de von Willebrand:** o distúrbio hemorrágico hereditário mais comum, cerca de 1% da população dos EUA, em geral autossômico dominante. Falta ou falha do fator de von Willebrand (vWF), que prende as plaquetas à parede lesada e carrega o fator VIII.\n- **Hemofilia A** (fator VIII): o distúrbio hereditário de coagulação mais comum, cerca de 1 em 5.000 nascimentos masculinos. **Hemofilia B** (fator IX, doença de Christmas): cerca de 1 em 30.000.\n\nAs hemofilias são recessivas ligadas ao X e aparecem sobretudo em homens. Todas as filhas de um homem afetado são portadoras; a portadora transmite a doença à metade dos filhos homens. A taxa de mutação é alta (até 30%), então história familiar negativa vale pouco para excluir hemofilia A. A hemofilia B tem manifestações clínicas idênticas às da A (p. 469). A deficiência do fator XII prolonga o aPTT, mas não causa sangramento (Tabela 25.1, p. 459; p. 469).\n\n**Pistas da história:**\n- Hemartrose e hemorragia muscular espontâneas sugerem hemofilia grave.\n- Epistaxe, sangramento gengival e menorragia aparecem em trombocitopenia, distúrbio plaquetário e doença de von Willebrand.\n- Sangramento prolongado após extração sugere mais doença de von Willebrand ou distúrbio plaquetário do que hemofilia.\n- Na hemofilia, o sangramento costuma ser tardio: a hemostasia parece normal na hora e o sangramento sério surge horas ou dias depois.\n- Hemorragia grave depois de extração é muitas vezes a primeira pista de uma forma leve.\n\n**Triagem:** na hemofilia, aPTT prolongado com PT e plaquetas normais indica problema na via intrínseca; o hematologista segue com teste de mistura e dosagem do fator. Na doença de von Willebrand, o aPTT pode estar prolongado, com plaquetas normais ou pouco reduzidas e PT e TT normais; tipificar exige exames do hematologista.\n\n**Conduta de base:** antes de qualquer procedimento invasivo, consulte o hematologista sobre a gravidade, a presença de inibidores (anticorpos contra o fator VIII), o tipo de reposição e a necessidade de hospital."
+    },
+    {
+      "id": "hemofilia-quadro",
+      "titulo": "Hemofilia: gravidade e tratamento médico",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Hemophilia A, p. 459 (Fig. 25.2), 466–469 e 472–473",
+      "texto": "**Gravidade pelo nível de fator VIII** (como o livro imprime): abaixo de 1% do normal, grave; de 1% a 5%, moderada; de 5% a 30%, leve. Cerca de 60% dos casos são graves. A hemostasia normal exige pelo menos 30% de atividade.\n\n**Clínica.** Na forma grave há sangramento espontâneo, hemartrose, equimoses e hematomas; na moderada, sangramento com trauma mínimo ou cirurgia; na leve, sangramento discreto após trauma maior ou cirurgia. Cortes pequenos em geral não sangram de modo anormal. Após lesões maiores o sangramento é desproporcional e costuma começar tardiamente. A hemartrose aguda de joelho pode ser confundida com infecção: joelho quente, vermelho, inchado e doloroso.\n\n**Tratamento médico (só para você entender o que o hematologista faz).** Repor o fator que falta (VIII na hemofilia A, IX na B). Hemofilia leve pode ser manejada com desmopressina e ácido aminocaproico. Parte dos pacientes forma **inibidores**, anticorpos contra o fator VIII, e o manejo muda; quem define é o hematologista, assim como diagnóstico, grau e hospitalização.\n\n**Reposição.** O fator em falta é reposto antes de procedimento que sangra. O livro manda planejar a reposição com o hematologista, que escolhe o produto e determina a dose, antes de qualquer procedimento invasivo (p. 472–473).\n\n**Cuidados gerais:** o paciente deve evitar esportes de contato, aspirina e AINEs. Hemofilia grave se manifesta cedo, e a prevenção deve começar cedo: flúor, selantes, orientação para restringir carboidratos refinados, escovação, fio dental e consultas regulares. Boa higiene reduz a necessidade de procedimentos que exigem reposição."
+    },
+    {
+      "id": "hemofilia-conduta",
+      "titulo": "Hemofilia: o que muda na cadeira",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Hemophilia, Box 25.2, p. 472–475",
+      "texto": "**Analgesia e antibiótico.** Acetaminofeno, com ou sem codeína; evite aspirina, compostos com aspirina e AINEs. Antibiótico só se houver infecção aguda.\n\n**Anestesia.** Na deficiência moderada a grave de fator VIII, evite bloqueio anestésico, infiltração lingual, injeção no assoalho da boca e injeção intramuscular, a menos que se use reposição de fator. O texto diz que infiltração e injeção intraligamentar em geral podem ser dadas sem reposição. O Box 25.2 também aceita o bloqueio em quem usa desmopressina, ácido aminocaproico ou concentrado de fator.\n\n**O que em geral dispensa reposição:** restaurações simples; endodontia de dente não vital, sem sobreinstrumentar nem sobreobturar; profilaxia com taça de borracha e remoção de cálculo supragengival, se não houver lesão gengival. A ortodontia pode ser feita; evite bordas cortantes, que ferem a mucosa e podem causar sangramento importante na hemofilia moderada a grave (p. 472). O livro também diz que a hemofilia grave exige reposição de fator VIII em todo tratamento odontológico invasivo (p. 475) e não define \"invasivo\"; por isso a decisão sobre reposição é do hematologista (Box 25.2).\n\n**O que costuma exigir reposição** na deficiência moderada a grave: cirurgia periodontal, raspagem radicular, extrações, cirurgia dentoalveolar, de tecidos moles e bucomaxilofacial complexa. Na hemofilia grave, todo tratamento invasivo pede reposição de fator VIII.\n\n**Hemofilia leve a moderada sem inibidores:** em procedimentos menos invasivos (raspagem, tecidos moles, extrações) o paciente muitas vezes é manejado no consultório, com desmopressina e ácido aminocaproico ou tranexâmico, ou com reposição mais aminocaproico.\n\n**Cirurgia:**\n- Prefira endodontia à extração sempre que possível.\n- Preencha os alvéolos com colágeno microfibrilar e feche com sutura.\n- Em retalho mandibular, prefira a via vestibular ou labial. O trauma de tecidos linguais mandibulares aumenta o risco de sangramento que pode obstruir a via aérea.\n- Em criança, extraia os dentes decíduos logo que ficarem soltos.\n- Talas podem ser feitas antes de várias extrações em hemofilia grave; sem pressão sobre os tecidos moles.\n- A hospitalização é frequente; a decisão segue o procedimento e a consulta ao hematologista.\n\n**Alergia e retorno.** Quem recebe reposição de fator VIII deve ser observado quanto a sinais de alergia. Veja o paciente em 24 a 48 horas para checar sangramento, alergia e cicatrização; se sangrar, o hematologista pode ter de dar mais concentrado, ou o dentista aplica os procedimentos locais."
+    },
+    {
+      "id": "von-willebrand",
+      "titulo": "Doença de von Willebrand",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, von Willebrand Disease, p. 462–464; Dental Management, Box 25.3, p. 475–476",
+      "texto": "**Tipos.** O tipo 1 é o mais comum (cerca de 70% a 80% dos casos), em geral autossômico dominante, com sangramento leve a moderado. O tipo 2A responde por 15% a 20% dos casos (p. 463); o Box 25.3 (p. 476) dá o tipo 2 como 20% a 30%. O livro não concilia os dois. O **tipo 3** é raro, recessivo, com deficiência grave de vWF e de fator VIII. Os tipos 2N e 3 têm maior risco de sangramento. Em casos leves o sangramento só ocorre após cirurgia ou trauma; nos mais graves pode haver epistaxe espontânea ou sangramento da mucosa oral.\n\n**Clínica e exames.** Sangramento cutâneo e mucoso, epistaxe, menorragia e sangramento gengival são comuns; petéquias são raras. Nas formas graves, com fator VIII baixo, há hemartrose e hematomas dissecantes. Formas leves podem ter história negativa. Na triagem, o aPTT pode estar prolongado, as plaquetas normais ou pouco reduzidas, o PT e o TT normais. Tipificar exige exames do hematologista.\n\n**Tratamento médico.** Crioprecipitado, concentrados de fator VIII que retêm os multímeros de vWF e **desmopressina**. A desmopressina só é usada depois de testar se o paciente responde, porque alguns não respondem. Os de tipo 1 são os melhores candidatos; ela não é eficaz no tipo 3 nem na maioria das variantes do tipo 2, que recebem concentrado com vWF. O livro pede cautela em idosos com doença cardiovascular, pelo risco de trombose induzida pelo fármaco.\n\n**Conduta do Box 25.3:**\n- Consulte o hematologista antes de qualquer procedimento invasivo: confirmar o diagnóstico, estabelecer o tipo da variante e decidir se precisa de desmopressina, de fator VIII com vWF e de ácido aminocaproico.\n- Tipo 1 em geral é manejado no consultório com desmopressina. O tipo 3 exige fator VIII com vWF em todos os casos, e este e alguns do tipo 2 podem precisar de hospital.\n- Tipo 2: o Box diz que em geral pode ser manejado com desmopressina e que em alguns casos também é preciso fator VIII com vWF; o texto da p. 464 diz que a desmopressina não é eficaz na maioria das variantes do tipo 2. O livro não concilia os dois trechos; o hematologista define a variante e o preparo.\n- Anestesia: evite infiltração e bloqueio em quem não estiver em desmopressina, aminocaproico ou concentrado de fator. O texto da hemofilia (seção anterior) permite infiltração sem reposição; o livro não comenta a diferença.\n- Analgesia com acetaminofeno; evite aspirina e AINEs. Antibiótico só se houver infecção aguda.\n- Retorno em 24 a 48 horas; quem recebe fator VIII com vWF deve ser observado quanto a alergia.\n\n**Um estudo citado:** em 63 pacientes com a doença submetidos a extrações ou cirurgia periodontal, com ácido tranexâmico antes e por 7 dias depois, mais desmopressina ou fator conforme a indicação, só 2 tiveram sangramento excessivo."
+    },
+    {
+      "id": "hemostaticos-locais",
+      "titulo": "Hemostáticos locais e antifibrinolíticos",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Tabela 25.6, p. 474; Tranexamic acid, p. 475",
+      "texto": "A Tabela 25.6 lista os agentes locais usados para controlar sangramento. Na hemofilia, o livro os cita como adjuvantes ao preparo sistêmico.\n\n**Agentes:**\n- **Gaze** em compressão, feita pelo paciente: sangramento logo depois de extração ou pequena cirurgia.\n- **Esponja de gelatina (Gelfoam):** absorve em 3 a 5 dias; útil na maioria dos pacientes em uso de antitrombótico; pode-se pôr trombina tópica sobre ela, e em cirurgia extensa ela pode ir dentro de uma tala.\n- **Curativo de quitosana (HemCon):** pode ser usado em alvéolos e feridas orais, inclusive em quem usa anticoagulante.\n- **Celulose oxidada (Surgicel, Oxycel):** incha em contato com o sangue; fica gelatinosa em 24 a 48 horas; útil quando outros agentes falham. A trombina é ineficaz com ela.\n- **Colágeno absorvível (Instat):** sangramento leve a moderado em geral controlado em 2 a 5 minutos. **Colágeno microfibrilar (Avitene, Helistat):** para sangramento moderado a grave; a trombina também é ineficaz com ele.\n- **Colla-Cote, Tape e Plug:** curativos de colágeno que podem ser suturados no lugar ou usados sob stent; reabsorvidos em 10 a 14 dias.\n- **Trombina tópica:** converte o fibrinogênio diretamente em fibrina; útil em sangramento grave.\n- **Cola de fibrina (Beriplast):** o livro a dá como indisponível nos EUA.\n\n**Antifibrinolíticos.** Ácido tranexâmico e ácido ε-aminocaproico competem pela ativação do plasminogênio e servem, a curto prazo, para evitar sangramento após extrações. O livro descreve o bochecho de ácido tranexâmico a 5%, que o dentista pode pedir à farmácia: 5 mL mantidos na boca por 2 minutos e cuspidos, primeira vez logo antes do procedimento e repetido até quatro vezes ao dia se necessário. O ácido tranexâmico também pode ser dado por via oral ou intravenosa; o livro alerta para risco de eventos trombóticos, sobretudo em idosos e no uso prolongado.\n\n**Cuidados na cirurgia em quem sangra:** preencher o alvéolo (colágeno microfibrilar) e suturar para cicatrização primária sempre que possível; evitar talas que pressionem os tecidos moles."
+    },
+    {
+      "id": "doac-e-fa",
+      "titulo": "Fibrilação atrial: varfarina e anticoagulantes orais diretos",
+      "fonte": "lf9-cap05",
+      "onde": "cap. 5, Cardiac Arrhythmias, Oral Anticoagulant Therapy, p. 75; Dental Management, Bleeding, p. 80; Box 5.7, p. 81; Direct oral anticoagulants, p. 82",
+      "texto": "Esta seção é do **cap. 5 de Little e Falace** (arritmias). As diretrizes citadas são de sociedades dos EUA.\n\n**Quem usa.** O paciente com fibrilação atrial tem risco maior de AVC e tromboembolismo. O livro diz que a AHA recomenda anticoagulante oral quando o escore CHA2DS2-VASc é 2 ou mais.\n\n**Quais.** Varfarina e os anticoagulantes orais diretos (DOAC): dabigatrana, rivaroxabana, apixabana e edoxabana. O texto diz \"quatro\" anticoagulantes orais, mas nomeia cinco. A varfarina é mais barata e vale para fibrilação atrial valvar e não valvar; os DOAC são aprovados nos EUA só para a não valvar. Com varfarina, a dose mira um INR de 2,0 a 3,0 e exige teste de coagulação de rotina; para os DOAC não se exige. O livro diz que, nas doses recomendadas, os DOAC têm menos sangramento maior que a varfarina. A dose dos DOAC precisa de ajuste quando a depuração de creatinina é baixa e em idosos frágeis.\n\n**Varfarina e cirurgia (Box 5.7).** Revise o INR atual (o exame deve ser feito em até 24 a 72 horas do procedimento cirúrgico) e confirme que o paciente toma o fármaco com regularidade. Se o INR está na faixa terapêutica (2,0 a 3,5, como o box escreve), o tratamento, inclusive cirurgia oral menor, pode ser feito sem suspender nem alterar a varfarina. O texto da p. 80 diz o mesmo para extrações simples com INR de 2,0 a 3,5. Alguns antibióticos (metronidazol, penicilinas de espectro estendido) elevam o INR: use com cautela.\n\n**DOAC e cirurgia oral maior (Box 5.7).** Consulte o médico sobre o procedimento planejado e o estado de coagulação, e garanta que a função renal é normal.\n\n**Varfarina, DOAC ou outro anticoagulante ou antiplaquetário:** use hemostasia local (esponja de gelatina, celulose oxidada ou quitosana no alvéolo, sutura, gaze com pressão, stent pré-operatório) e ácido tranexâmico ou ε-aminocaproico em bochecho ou em gaze sobre o local.\n\n**O que a p. 82 diz dos DOAC.** Não se prevê preocupação com sangramento maior em procedimentos invasivos, mas poucos estudos avaliaram esses fármacos na odontologia. Só a dabigatrana tem agente de reversão (idarucizumabe). Idosos com doses maiores e quem tem função renal comprometida têm risco aumentado. O livro aconselha limitar o número de extrações por consulta, monitorar a função renal e usar boa hemostasia local. À parte, cita estudos em que, em extrações de quatro ou mais dentes ou extrações cirúrgicas, o DOAC foi suspenso na noite anterior e retomado no dia seguinte, com complicações mínimas. **Isso é relato, não recomendação do livro:** o livro não manda suspender o DOAC, e o Box 5.7 não traz suspensão. (O cap. 24, p. 451, traz leitura diferente para rivaroxabana e apixabana; ver a seção sobre heparinas e novos anticoagulantes.)"
+    },
+    {
+      "id": "andrade-antiagregantes",
+      "titulo": "Andrade: antiagregantes plaquetários",
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, abertura do capítulo (sem número impresso) e Antiagregantes plaquetários, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 196–197",
+      "texto": "Esta seção e as duas seguintes são de **Andrade, Terapêutica Medicamentosa em Odontologia** (3ª ed., 2014, livro brasileiro), cap. 19. Os números delas são do Andrade.\n\n**Quem usa e por quê.** Antiagregantes e anticoagulantes são comuns na prevenção do tromboembolismo; os candidatos são sobretudo pacientes com fibrilação atrial, cardiopatia isquêmica, doença vascular periférica ou prótese valvar cardíaca.\n\n**Ácido acetilsalicílico.** Inibe de forma irreversível a ciclo-oxigenase-1 e reduz o tromboxano A2. Como a plaqueta não sintetiza proteínas, o efeito dura a vida útil dela, de 7 a 10 dias. **Clopidogrel** e **ticlopidina** bloqueiam o receptor de ADP, também de modo irreversível; o clopidogrel associado ao AAS é hoje o regime padrão após implante de stent.\n\n**O quanto atrapalham.** Em quem não tem outros fatores de risco, o efeito do antiagregante na hemostasia primária é mínimo. Antiagregantes podem dobrar o tempo de sangramento basal, mas só 20% a 25% dos usuários de AAS têm tempo de sangramento anormal.\n\n**Estudo citado (AAS 100 mg por dia, cirurgias bucais):** num grupo o AAS foi suspenso 7 dias antes, no outro foi mantido. O tempo de sangramento médio foi 1,8 min e 3,1 min, ambos dentro da normalidade. Não houve sangramento incontrolável; o sangramento durante a cirurgia foi controlado com gaze e sutura em 85% dos pacientes. Medidas locais simples bastam, sem interromper o AAS.\n\n**Quando o sangramento pós-operatório é anormal** (critérios do livro): persiste por mais de 12 horas; o paciente liga ou volta ao consultório; há hematoma ou equimose de tecidos moles; houve necessidade de transfusão.\n\n**O risco de suspender.** Mesmo muito tempo depois da implantação de stents coronários, interromper AAS ou clopidogrel aumenta o risco de trombose do stent e de infarto.\n\n**Resumo do livro:** esses medicamentos não devem ser descontinuados antes de procedimentos dentários que causam sangramento, e a dose do clopidogrel não deve ser alterada. Se o paciente usa **AAS e clopidogrel**, entre em contato com o médico para avaliar riscos e benefícios do atendimento ambulatorial ou hospitalar, aos cuidados de um cirurgião bucomaxilofacial.\n\n**Contraste com o outro livro.** O Little e Falace (seção sobre aspirina, AINEs e clopidogrel) admite que, em cirurgia bucal maior que não possa esperar, os tienopiridínicos talvez precisem ser suspensos até depois dela, com consulta ao médico. O Andrade diz que não devem ser descontinuados. Cada livro vale na sua seção."
+    },
+    {
+      "id": "andrade-rni",
+      "titulo": "Andrade: varfarina e RNI",
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Varfarina e femprocumona, Valores de RNI, Suspender ou não o uso da varfarina, Tabela 19.1, p. 198–202",
+      "texto": "**Varfarina.** É o anticoagulante oral mais usado. O efeito aparece em 24 horas, com máximo em 72 a 96 horas. Os médicos monitoram em geral a cada 30 a 60 dias. O livro usa **RNI** (razão normalizada internacional, o INR): o TAP do paciente dividido pelo de um pool de plasmas normais, elevado ao índice de sensibilidade da tromboplastina.\n\n**Leitura do RNI (Andrade, p. 199).** RNI de 1 é coagulação normal; RNI de 3 significa ação anticoagulante 3 vezes maior. A maioria dos pacientes tratados precisa manter o RNI **entre 2 e 4**. Acima de 5 é anticoagulação exagerada, com risco crescente de hemorragia espontânea. Em urgência, um aparelho portátil dá o RNI em sangue capilar em cerca de 1 minuto.\n\n**Três cortes de RNI no mesmo capítulo, lado a lado:**\n- **Menor que 4,1 (p. 199–200):** ensaio com 109 pacientes e extrações. Complicação hemorrágica em 26% (15 de 57) com a varfarina mantida e 14% (7 de 52) com ela suspensa 2 dias antes (p. 199), diferença sem significância estatística. Conclusão do livro (p. 200): com RNI < 4,1, manter a varfarina pode dar discreto aumento do sangramento pós-exodontia, sem evidência de hemorragia clinicamente importante.\n- **3,5 ou menos (p. 201):** revisão sistemática de 2007. Em exodontia não complicada, não é preciso alterar nem suspender a varfarina. Com RNI de 3,5 ou mais, encaminhar ao médico para considerar ajuste.\n- **Menor que 3,5 (p. 202):** quadro do protocolo. Abaixo de 3,5, sem alterar a dose em cirurgia simples; com 3,5 ou mais e cirurgia mais complexa, trocar informações com o médico.\n\nO livro não harmoniza os três valores, que vêm de fontes diferentes citadas por ele.\n\n**Sangramento por faixa de RNI (Tabela 19.1, p. 200), em extrações sem interromper a varfarina:** 1,5 a 1,99, 5,0%; 2,0 a 2,49, 12,8%; 2,5 a 2,99, 15,2%; 3,0 a 3,49, 16,6%; acima de 3,5, 13%. Os autores concluíram que a faixa \"ideal\" não influenciou de forma significativa a hemorragia.\n\n**Suspender?** Numa revisão de 950 pacientes e 2.400 procedimentos, só 12 (menos de 1,3%) precisaram de mais que medidas locais. Entre 526 pacientes com a terapia interrompida, 5 (0,95%) tiveram complicação embólica grave, e 4 morreram."
+    },
+    {
+      "id": "andrade-protocolo",
+      "titulo": "Andrade: protocolo de atendimento",
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Protocolo de atendimento odontológico de pacientes que fazem uso de anticoagulantes, p. 202; Quadro 19.1, p. 200; Novos anticoagulantes orais, p. 203",
+      "texto": "O livro adapta o protocolo de van Diermen e D'Amico e de recomendações do Hospital das Clínicas da FMUSP e do Hemocentro de São Paulo.\n\n**Continuidade da terapia.** RNI abaixo de 3,5: sem alterar ou suspender o anticoagulante em cirurgias mais simples. RNI de 3,5 ou mais com cirurgia mais complexa: é imprescindível trocar informações com o médico, para avaliar o risco e o benefício de alterar a terapia. Nas cirurgias eletivas de paciente com baixo risco de tromboembolismo venoso, o médico pode suspender ou substituir a varfarina por heparina sódica 4 a 5 dias antes.\n\n**Antibióticos.** Em prótese valvar ou outra condição de risco para endocardite, uma única dose profilática de amoxicilina ou clindamicina não pede alterar a terapia anticoagulante. Quem precisa de mais de uma dose deve ter o RNI reavaliado após 2 a 3 dias. Se possível, evite metronidazol e eritromicina.\n\n**Antes.** Faça história completa e avalie comorbidades (doença hepática ou renal, distúrbios da medula). Com RNIs estáveis, o RNI pode ser avaliado 72 horas antes da cirurgia bucal; caso contrário, no mesmo dia. Agende de manhã se possível. Urgência com expectativa de sangramento excessivo: atendimento hospitalar, depois de avaliação médica inicial.\n\n**Durante.** Anestésico local com vasoconstritor, de preferência epinefrina; evitar bloqueios regionais; na mandíbula, preferir a técnica infiltrativa ou intraóssea com articaína. Evitar traumatismo desnecessário, limitar a instrumentação periodontal, dividir exodontias múltiplas em mais sessões, suturas oclusivas e pressão com gaze por 15 a 30 minutos.\n\n**Depois.** Esponja hemostática de gelatina reabsorvível; bochecho de ácido tranexâmico a 4,8% por 48 horas; suturas não reabsorvíveis removidas em 4 a 7 dias. Para dor, **não prescrever AAS nem AINEs (inclusive os coxibes)**; optar pela dipirona. Considerar corticosteroide em dose única, após conversar com o médico. (O Quadro 19.1 lista os corticosteroides entre os fármacos que potencializam a varfarina; o livro não comenta a diferença.) Não aplicar medicamento por via intramuscular, pelo risco de hemorragia, equimose e hematoma.\n\n**Interações (Quadro 19.1).** Podem potencializar a varfarina e elevar o RNI: AAS, paracetamol, anti-inflamatórios, corticosteroides, cefalosporinas, eritromicina, azitromicina, metronidazol, tetraciclinas e ciprofloxacino. O perigo está em iniciar ou retirar o fármaco: dose o RNI com mais frequência.\n\n**Novos anticoagulantes.** O livro cita dabigatrana e rivaroxabana como possíveis substitutas da varfarina, sem monitoramento e com poucas interações. O capítulo não traz conduta odontológica específica para elas."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo Little e Falace, até que INR a literatura apoia manter a varfarina em cirurgia oral pequena? E o que acontece acima disso?",
+      "verso": "INR de **3,5 ou menos**. Estima-se que, a cada 1,0 de INR acima de 3,5, o risco de sangramento dobra.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo Little e Falace (Box 24.9), INR de 3,0 a 3,5 e cirurgia oral maior: o que o dentista pode pedir ao médico?",
+      "verso": "Redução da dose para o INR cair a **2,0 a 3,0**. Leva 3 a 5 dias; confirmar por INR e marcar a cirurgia em até 2 dias depois da confirmação.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, Box 24.9, p. 450–451"
+    },
+    {
+      "id": "f03",
+      "frente": "Quanto dura a inibição plaquetária da aspirina, segundo Little e Falace, e o que isso muda nos procedimentos invasivos?",
+      "verso": "Até 9 dias (tempo de eliminar as plaquetas velhas). O livro diz que geralmente não tem significado clínico: os procedimentos invasivos podem ser feitos.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Pathophysiology, p. 431; Dental Management, Antiplatelet Therapy, p. 448"
+    },
+    {
+      "id": "f04",
+      "frente": "Se o médico recomendar suspender um AINE, quanto tempo basta, segundo Little e Falace?",
+      "verso": "Três meias-vidas do fármaco: os níveis ficam baixos o bastante para a função plaquetária voltar ao normal. A inibição do AINE é reversível.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo Little e Falace, com que contagem de plaquetas se faz anestesia por infiltração e bloqueio? E extração?",
+      "verso": "Anestesia por infiltração e bloqueio acima de 30.000/µL; extrações e cirurgia dentoalveolar acima de 50.000/µL.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Thrombocytopenia, p. 452"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são os quatro exames de triagem que o dentista pode usar e que via cada um avalia (Little e Falace)?",
+      "verso": "Contagem de plaquetas; aPTT (vias intrínseca e comum); PT (extrínseca e comum); TT (formação do coágulo inicial a partir do fibrinogênio).",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Screening Laboratory Tests, Box 24.7, p. 447"
+    },
+    {
+      "id": "f07",
+      "frente": "Que bochecho o livro de Little e Falace cita para quem usa varfarina e por quanto tempo?",
+      "verso": "Ácido tranexâmico ou ácido ε-aminocaproico nos 2 primeiros dias pós-operatórios, junto com não interromper a varfarina (recomendação de entidades dos EUA citada pelo livro).",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+    },
+    {
+      "id": "f08",
+      "frente": "Heparina de baixo peso molecular e procedimento invasivo: o que Little e Falace dizem sobre a meia-vida e a conduta?",
+      "verso": "Meia-vida menor que 1 dia: o médico pode sugerir suspender e operar em 1 a 2 dias, ou operar e tratar localmente as complicações hemorrágicas. Consulte o médico.",
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Low-molecular-weight heparin, p. 451"
+    },
+    {
+      "id": "f09",
+      "frente": "Como Little e Falace classificam a gravidade da hemofilia A pelo nível de fator VIII?",
+      "verso": "Abaixo de 1%, grave; de 1% a 5%, moderada; de 5% a 30%, leve.",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Hemophilia A, p. 466"
+    },
+    {
+      "id": "f10",
+      "frente": "Hemofilia A moderada a grave sem reposição de fator: que anestesias evitar (Little e Falace)?",
+      "verso": "Bloqueio anestésico, infiltração lingual, injeção no assoalho da boca e injeção intramuscular. O texto permite infiltração e injeção intraligamentar sem reposição.",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Hemophilia, p. 472"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual tipo de doença de von Willebrand é o melhor candidato à desmopressina, e em qual ela não é eficaz?",
+      "verso": "Tipo 1 é o melhor candidato; não é eficaz no tipo 3 nem na maioria das variantes do tipo 2. Testar a resposta antes.",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, von Willebrand Disease, Medical Management, p. 464"
+    },
+    {
+      "id": "f12",
+      "frente": "Sangramento prolongado após extração sugere o quê, segundo Little e Falace?",
+      "verso": "Mais doença de von Willebrand ou distúrbio plaquetário do que hemofilia. Hemartrose e hemorragia muscular espontâneas sugerem hemofilia grave.",
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Patient Identification, p. 471"
+    },
+    {
+      "id": "f13",
+      "frente": "Little e Falace (cap. 5): o que o Box 5.7 pede antes de cirurgia oral maior em quem usa DOAC?",
+      "verso": "Consultar o médico sobre o procedimento e o estado de coagulação e garantir função renal normal. O box manda usar hemostasia local.",
+      "fonte": "lf9-cap05",
+      "onde": "cap. 5, Cardiac Arrhythmias, Box 5.7, Bleeding, p. 81"
+    },
+    {
+      "id": "f14",
+      "frente": "Little e Falace (cap. 5, p. 82): o livro manda suspender o DOAC antes de extração? O que ele relata?",
+      "verso": "Não manda. Relata que, em extração de quatro ou mais dentes ou extração cirúrgica, o DOAC foi suspenso na noite anterior e retomado no dia seguinte, com complicações mínimas. O Box 5.7 pede só consulta ao médico e função renal normal.",
+      "fonte": "lf9-cap05",
+      "onde": "cap. 5, Cardiac Arrhythmias, Direct oral anticoagulants, p. 82"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o protocolo de Andrade, o que fazer com RNI abaixo de 3,5 e cirurgia simples? E com 3,5 ou mais e cirurgia complexa?",
+      "verso": "Abaixo de 3,5: sem alterar nem suspender o anticoagulante. Com 3,5 ou mais e cirurgia mais complexa: trocar informações com o médico para avaliar risco e benefício.",
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Protocolo de atendimento, Continuidade da terapia anticoagulante, p. 202"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo Andrade, qual analgésico escolher no pós-operatório de paciente anticoagulado?",
+      "verso": "Dipirona. Não prescrever AAS nem AINEs (inclusive coxibes), e não aplicar medicamentos por via intramuscular.",
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Protocolo de atendimento, Cuidados pós-operatórios, p. 202"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo Little e Falace, um homem de 68 anos com fibrilação atrial toma varfarina e o INR medido hoje é 2,8. Ele precisa de extração simples de dois dentes, sem infecção aguda. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Suspender a varfarina por alguns dias antes da extração.",
+          "correta": false,
+          "justificativa": "O livro afirma que a literatura apoia manter a varfarina em cirurgia oral pequena quando o INR é de 3,5 ou menos, e que suspender expõe o paciente ao risco de trombose, que pode ser fatal.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+        },
+        {
+          "texto": "Pedir ao médico que reduza a dose para o INR chegar a 2,0 a 3,0.",
+          "correta": false,
+          "justificativa": "O Box 24.9 pede redução quando o INR passa de 3,5, ou na cirurgia oral maior com INR de 3,0 a 3,5. Com INR de 2,0 a 3,5 e cirurgia oral menor, não há indicação de ajuste.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450"
+        },
+        {
+          "texto": "Realizar a extração mantendo a varfarina, com o menor trauma e medidas locais de hemostasia.",
+          "correta": true,
+          "justificativa": "Com INR de 2,0 a 3,5 e cirurgia oral menor, o livro não indica ajuste da dose, e a infecção aguda, que adiaria a cirurgia, está ausente. As medidas locais (esponja de gelatina, sutura) completam a conduta.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, Box 24.9, p. 449–451"
+        },
+        {
+          "texto": "Prescrever aspirina para a dor pós-operatória.",
+          "correta": false,
+          "justificativa": "Para o paciente em varfarina, o Box 24.9 manda evitar aspirina, compostos com aspirina e AINEs; sugere acetaminofeno com ou sem codeína.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450"
+        }
+      ],
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, Box 24.9, p. 449–451",
+      "secao": "varfarina-inr",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Segundo Little e Falace, uma mulher em uso de varfarina tem INR de 3,3 hoje e precisa de cirurgia oral maior. Qual a conduta indicada no Box 24.9?",
+      "alternativas": [
+        {
+          "texto": "Operar no mesmo dia, pois o INR está abaixo de 3,5.",
+          "correta": false,
+          "justificativa": "O box diz que, com INR de 3,0 a 3,5 e cirurgia oral maior, pode ocorrer sangramento significativo e o INR pode precisar baixar a 3,0 ou menos.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450"
+        },
+        {
+          "texto": "Suspender a varfarina por conta própria e operar no dia seguinte.",
+          "correta": false,
+          "justificativa": "Quem orienta o ajuste da dose é o médico, e a redução leva de 3 a 5 dias para ocorrer, com confirmação por INR antes do procedimento.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450–451"
+        },
+        {
+          "texto": "Pedir ao médico a redução para INR de 2,0 a 3,0 e marcar a cirurgia em até 2 dias depois de confirmar a redução por INR.",
+          "correta": true,
+          "justificativa": "É a sequência do box: o dentista pode pedir a redução, ela leva 3 a 5 dias, deve ser confirmada por INR e o procedimento fica para até 2 dias depois da confirmação.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450"
+        },
+        {
+          "texto": "Confirmar a redução por INR e deixar a cirurgia para uma semana depois.",
+          "correta": false,
+          "justificativa": "O box marca o procedimento em até 2 dias depois da confirmação da redução por INR.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Box 24.9, p. 450"
+        }
+      ],
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, Box 24.9, p. 450–451",
+      "secao": "varfarina-inr",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo Little e Falace, um homem de 70 anos toma um comprimido de aspirina por dia para prevenir trombose coronariana e vai fazer extração de dois pré-molares. O que o livro indica?",
+      "alternativas": [
+        {
+          "texto": "Suspender a aspirina e esperar 9 dias, o tempo que a inibição plaquetária dura.",
+          "correta": false,
+          "justificativa": "O livro registra a inibição de até 9 dias, mas diz que o efeito geralmente não tem significado clínico e que o uso de aspirina não costuma impedir procedimentos invasivos.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448"
+        },
+        {
+          "texto": "Suspender a aspirina e esperar três meias-vidas, como se faz com os AINEs.",
+          "correta": false,
+          "justificativa": "As três meias-vidas valem para os AINEs, que inibem a enzima de modo reversível. A aspirina a inibe de modo irreversível, e o livro não pede suspensão para este paciente.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448"
+        },
+        {
+          "texto": "Fazer a extração, porque o uso de aspirina não costuma levar a problema hemorrágico significativo e os procedimentos invasivos podem ser feitos.",
+          "correta": true,
+          "justificativa": "É a afirmação do livro para o uso de aspirina em dose baixa: o efeito irreversível sobre a plaqueta geralmente não tem significado clínico.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448"
+        },
+        {
+          "texto": "Dar desmopressina antes de qualquer extração.",
+          "correta": false,
+          "justificativa": "O livro menciona a desmopressina para cirurgia de grande porte em emergência, em consulta com o médico ou o hematologista; não a indica para extrações em quem usa aspirina.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448"
+        }
+      ],
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Antiplatelet Therapy, p. 448",
+      "secao": "antiplaquetarios",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Segundo Little e Falace (cap. 5, Box 5.7), um paciente com fibrilação atrial usa um anticoagulante oral direto e será submetido a cirurgia oral maior. Qual a conduta indicada?",
+      "alternativas": [
+        {
+          "texto": "Pedir o INR de rotina, como se faz com a varfarina.",
+          "correta": false,
+          "justificativa": "O livro diz que, como o perfil dos anticoagulantes orais diretos é previsível, não se exige teste de coagulação de rotina; o INR de rotina é da varfarina.",
+          "fonte": "lf9-cap05",
+          "onde": "cap. 5, Cardiac Arrhythmias, Oral Anticoagulant Therapy, p. 75"
+        },
+        {
+          "texto": "Dispensar a hemostasia local, porque esses fármacos sangram menos que a varfarina.",
+          "correta": false,
+          "justificativa": "O Box 5.7 manda usar medidas e produtos hemostáticos locais em quem toma varfarina, anticoagulante direto ou outro anticoagulante ou antiplaquetário.",
+          "fonte": "lf9-cap05",
+          "onde": "cap. 5, Cardiac Arrhythmias, Box 5.7, Bleeding, p. 81"
+        },
+        {
+          "texto": "Aplicar idarucizumabe antes da cirurgia para reverter o efeito.",
+          "correta": false,
+          "justificativa": "O livro cita o idarucizumabe como agente de reversão só da dabigatrana. Para cirurgia oral maior em quem usa anticoagulante oral direto, o Box 5.7 pede consulta ao médico e função renal normal.",
+          "fonte": "lf9-cap05",
+          "onde": "cap. 5, Cardiac Arrhythmias, Direct oral anticoagulants, p. 82"
+        },
+        {
+          "texto": "Consultar o médico sobre o procedimento e o estado de coagulação, garantir função renal normal e usar hemostasia local.",
+          "correta": true,
+          "justificativa": "É o que o Box 5.7 pede para cirurgia oral maior em quem usa anticoagulante oral direto, somado às medidas locais.",
+          "fonte": "lf9-cap05",
+          "onde": "cap. 5, Cardiac Arrhythmias, Box 5.7, Bleeding, p. 81"
+        }
+      ],
+      "fonte": "lf9-cap05",
+      "onde": "cap. 5, Cardiac Arrhythmias, Box 5.7, Bleeding, p. 81",
+      "secao": "doac-e-fa",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Segundo Little e Falace, um paciente em varfarina, com INR de 2,6, continua sangrando do alvéolo depois de uma extração. Qual a primeira medida indicada?",
+      "alternativas": [
+        {
+          "texto": "Esponja de gelatina com trombina no alvéolo e fechamento primário sobre ele.",
+          "correta": true,
+          "justificativa": "É a medida local descrita pelo livro para o sangramento pós-extração excessivo, que pode ser somada a um inibidor da fibrinólise.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+        },
+        {
+          "texto": "Aplicar trombina sobre celulose oxidada (Surgicel).",
+          "correta": false,
+          "justificativa": "O livro diz que a trombina não deve ser usada com celulose oxidada nem com colágeno microfibrilar, porque é inativada por fatores de pH, sem benefício.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+        },
+        {
+          "texto": "Vitamina K por via intravenosa de imediato.",
+          "correta": false,
+          "justificativa": "A vitamina K está entre as opções para quando as medidas locais não controlam o sangramento, e então se consulta o médico; não é a primeira medida.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+        },
+        {
+          "texto": "Bochecho vigoroso com solução de ácido ε-aminocaproico.",
+          "correta": false,
+          "justificativa": "O livro orienta o paciente a não agitar a solução com força, para não desalojar o coágulo, e a evitar canudo e bala.",
+          "fonte": "lf9-cap24",
+          "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449"
+        }
+      ],
+      "fonte": "lf9-cap24",
+      "onde": "cap. 24, Dental Management, Coumarin Therapy, p. 449",
+      "secao": "varfarina-local",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 28 anos relata sangramento por vários dias após extração de terceiro molar, epistaxe frequente e menorragia, sem hemartrose nem hemorragia muscular espontânea. Segundo Little e Falace, qual hipótese a história favorece?",
+      "alternativas": [
+        {
+          "texto": "Hemofilia A grave.",
+          "correta": false,
+          "justificativa": "O livro associa hemartrose e hemorragia muscular espontâneas à hemofilia grave; a paciente não tem nenhuma delas.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Patient Identification, p. 471"
+        },
+        {
+          "texto": "Doença de von Willebrand ou distúrbio plaquetário.",
+          "correta": true,
+          "justificativa": "Epistaxe, sangramento gengival e menorragia aparecem nesses distúrbios, e o sangramento prolongado após extração os sugere mais do que a hemofilia.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Patient Identification, p. 471"
+        },
+        {
+          "texto": "Hemofilia B grave.",
+          "correta": false,
+          "justificativa": "As manifestações da hemofilia B são idênticas às da A; a ausência de hemartrose e de hemorragia muscular espontânea pesa contra a forma grave.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Hemophilia B, p. 469; Dental Management, p. 471"
+        },
+        {
+          "texto": "Deficiência de fator XII.",
+          "correta": false,
+          "justificativa": "O livro diz que a deficiência de fator XII não causa sangramento clínico, embora prolongue o aPTT; a paciente sangra.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Tabela 25.1, p. 459; Other genetic factor deficiencies, p. 469"
+        }
+      ],
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Patient Identification, p. 471",
+      "secao": "hereditarios-visao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo Little e Falace, um homem de 25 anos com hemofilia A, deficiência moderada a grave de fator VIII, precisa de uma restauração simples em pré-molar inferior, e o hematologista já definiu que o tratamento será sem reposição de fator. O plano de anestesia é bloqueio do alveolar inferior. Qual a conduta quanto à anestesia?",
+      "alternativas": [
+        {
+          "texto": "Fazer o bloqueio normalmente, porque a restauração dispensa reposição.",
+          "correta": false,
+          "justificativa": "Na deficiência moderada a grave de fator VIII, o livro manda evitar bloqueio anestésico sem reposição de fator; a restauração simples dispensar reposição não muda isso.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Hemophilia, p. 472"
+        },
+        {
+          "texto": "Evitar o bloqueio e usar infiltração ou injeção intraligamentar, que em geral podem ser dadas sem reposição.",
+          "correta": true,
+          "justificativa": "É a orientação do texto para a hemofilia, que ainda aceita restaurações simples sem reposição.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Hemophilia, p. 472"
+        },
+        {
+          "texto": "Anestesia por infiltração lingual, no assoalho da boca.",
+          "correta": false,
+          "justificativa": "O livro manda evitar infiltrações linguais e injeções no assoalho da boca na deficiência moderada a grave, salvo com reposição.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Hemophilia, p. 472"
+        },
+        {
+          "texto": "Exigir reposição de fator VIII e hospitalização para qualquer restauração.",
+          "correta": false,
+          "justificativa": "O livro diz que restaurações simples muitas vezes podem ser feitas sem reposição; a hospitalização é decidida conforme o procedimento e a consulta ao hematologista.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Hemophilia, p. 472"
+        }
+      ],
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, Dental Management, Hemophilia, Box 25.2, p. 472–473",
+      "secao": "hemofilia-conduta",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o texto de Little e Falace sobre o manejo médico (p. 464), qual afirmação sobre a desmopressina na doença de von Willebrand está correta?",
+      "alternativas": [
+        {
+          "texto": "É eficaz no tipo 3, a forma mais grave.",
+          "correta": false,
+          "justificativa": "O livro diz que ela não é eficaz no tipo 3; esses pacientes recebem fator VIII que retém os multímeros de vWF.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, von Willebrand Disease, Medical Management, p. 464"
+        },
+        {
+          "texto": "O paciente deve ter a resposta testada antes, porque alguns não respondem; os de tipo 1 são os melhores candidatos.",
+          "correta": true,
+          "justificativa": "É a orientação do livro: testar a resposta antes de usar e reconhecer o tipo 1 como o melhor candidato.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, von Willebrand Disease, Medical Management, p. 464"
+        },
+        {
+          "texto": "Dispensa a identificação da variante, pois serve para todos os tipos.",
+          "correta": false,
+          "justificativa": "O livro diz que o tratamento não deve começar sem testar qual variante o paciente tem; ela não é eficaz no tipo 3 nem na maioria dos tipos 2.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, von Willebrand Disease, Medical Management, p. 464"
+        },
+        {
+          "texto": "Pode ser dada pelo dentista no consultório, antes da cirurgia, sem consultar o hematologista.",
+          "correta": false,
+          "justificativa": "O Box 25.3 manda consultar o hematologista antes de qualquer procedimento invasivo, para confirmar o diagnóstico, definir a variante e decidir se precisa de desmopressina.",
+          "fonte": "lf9-cap25",
+          "onde": "cap. 25, Dental Management, Box 25.3, p. 476"
+        }
+      ],
+      "fonte": "lf9-cap25",
+      "onde": "cap. 25, von Willebrand Disease, Medical Management, p. 464",
+      "secao": "von-willebrand",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o protocolo de Andrade (quadro da p. 202), um paciente em varfarina tem RNI de 2,9 e vai fazer exodontia simples de molar inferior. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Suspender a varfarina e substituí-la por heparina sódica 4 a 5 dias antes.",
+          "correta": false,
+          "justificativa": "O protocolo traz essa troca como possibilidade, a critério do médico, em cirurgias eletivas de baixo risco de tromboembolismo; com RNI abaixo de 3,5 e cirurgia simples, não se altera nem se suspende o anticoagulante.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Protocolo de atendimento, p. 202"
+        },
+        {
+          "texto": "Manter a varfarina; anestesia com vasoconstritor, de preferência infiltrativa ou intraóssea com articaína em vez de bloqueio; sutura oclusiva e gaze por 15 a 30 minutos.",
+          "correta": true,
+          "justificativa": "Reúne a continuidade da terapia com RNI abaixo de 3,5 e as medidas transoperatórias do quadro.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Protocolo de atendimento, Continuidade da terapia e Medidas transoperatórias, p. 202"
+        },
+        {
+          "texto": "Bloqueio do nervo alveolar inferior com solução sem vasoconstritor.",
+          "correta": false,
+          "justificativa": "O protocolo indica solução com vasoconstritor, de preferência epinefrina, e manda evitar bloqueios regionais.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Protocolo de atendimento, Medidas transoperatórias, p. 202"
+        },
+        {
+          "texto": "Prescrever AAS para o controle da dor.",
+          "correta": false,
+          "justificativa": "O protocolo manda não prescrever AAS nem AINEs (inclusive coxibes) e optar pela dipirona.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Protocolo de atendimento, Cuidados pós-operatórios, p. 202"
+        }
+      ],
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Protocolo de atendimento, p. 202",
+      "secao": "andrade-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo Andrade, um paciente usa AAS e clopidogrel e precisa de procedimento odontológico que causa sangramento. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Suspender o AAS e o clopidogrel uma semana antes.",
+          "correta": false,
+          "justificativa": "O livro diz que esses medicamentos não devem ser descontinuados antes de procedimentos dentários que causam sangramento, e que a interrupção aumenta o risco de trombose de stent e de infarto.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 197"
+        },
+        {
+          "texto": "Reduzir a dose do clopidogrel e manter o AAS.",
+          "correta": false,
+          "justificativa": "Para o livro, pacientes em uso de clopidogrel não devem ter a dosagem alterada.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 197"
+        },
+        {
+          "texto": "Prosseguir no consultório sem contato com o médico, porque o efeito na hemostasia primária é mínimo.",
+          "correta": false,
+          "justificativa": "O efeito mínimo vale para quem não tem fatores de risco adicionais. Com AAS e clopidogrel juntos, o livro manda contatar o médico.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 197"
+        },
+        {
+          "texto": "Contatar o médico para avaliar riscos e benefícios do atendimento ambulatorial ou hospitalar, sem descontinuar os medicamentos.",
+          "correta": true,
+          "justificativa": "É o resumo do livro para o paciente em AAS e clopidogrel: contato com o médico e avaliação do local de atendimento, aos cuidados de um cirurgião bucomaxilofacial.",
+          "fonte": "andrade3-cap19",
+          "onde": "cap. 19, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 197"
+        }
+      ],
+      "fonte": "andrade3-cap19",
+      "onde": "cap. 19, Como agir com pacientes que fazem uso contínuo de antiagregantes plaquetários, p. 197",
+      "secao": "andrade-antiagregantes",
+      "figura": null
+    }
+  ]
+}

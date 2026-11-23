@@ -1,0 +1,717 @@
+{
+  "slug": "diabetes-mellitus",
+  "titulo": "Diabetes: critérios e metas de controle, relação bidirecional com a doença periodontal, hipoglicemia no consultório",
+  "area": "Pacientes Especiais",
+  "origem": "Malamed 7ª ed., cap. 17; Andrade e Ranali 3ª ed., cap. 6 (hipoglicemia, pp. 66–69); Varellis (manual) 3ª ed., cap. 34; Little e Falace 9ª ed., cap. 14",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "malamed7-cap17",
+      "ref": "Malamed SF. Emergências Médicas em Odontologia. 7ª ed. Elsevier; 2016. Cap. 17, Diabetes Melito: Hiperglicemia e Hipoglicemia, p. 254–279 (numeração da edição digital).",
+      "curta": "Malamed 7ª ed., cap. 17"
+    },
+    {
+      "id": "ar3-cap06",
+      "ref": "Andrade ED, Ranali J (orgs.). Emergências Médicas em Odontologia. 3ª ed. Artes Médicas; 2011. Cap. 6, Alteração ou Perda da Consciência, p. 62–78.",
+      "curta": "Andrade e Ranali 3ª ed., cap. 6"
+    },
+    {
+      "id": "varellis3-cap34",
+      "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 34, Diabetes Melito, p. 281–289 (numeração da edição digital).",
+      "curta": "Varellis (manual) 3ª ed., cap. 34"
+    },
+    {
+      "id": "lf9-cap14",
+      "ref": "Little JW, Miller CS, Rhodus NL. Little and Falace's Dental Management of the Medically Compromised Patient. 9ª ed. St. Louis: Elsevier; 2018. Cap. 14, Diabetes Mellitus, p. 230–254.",
+      "curta": "Little e Falace 9ª ed., cap. 14"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "classificacao",
+      "titulo": "Quem é o paciente: definição, diagnóstico e tipos",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Diabetes Melito, abertura, Classificação da diabetes, Tipos de diabetes, Quadro 17-2 e Tabela 17-2, p. 254–255 e 258–259",
+      "texto": "O Malamed (autor dos EUA) define o diabetes como o distúrbio endócrino mais comum: um grupo de doenças em que a glicose fica alta por defeito na produção e/ou na ação da insulina.\n\n**Diagnóstico.** O livro relata os critérios da American Diabetes Association (EUA; ele não dá o ano da versão). Qualquer um deles:\n- glicose ocasional de 200 mg/dL ou mais, com sintomas (poliúria, polidipsia e perda de peso);\n- glicose em jejum de 126 mg/dL ou mais (sem ingestão calórica por mais de 8 horas);\n- glicose pós-prandial (2 horas depois de comer) acima de 200 mg/dL.\n\nO diagnóstico se confirma com uma segunda medição em outro dia.\n\n**Classificação** (Quadro 17-2, de um comitê de especialistas de 1997): tipo 1 (imunomediada ou idiopática), tipo 2, outros tipos específicos e diabetes gestacional. Entre a normalidade e o diabetes ficam a tolerância à glicose diminuída (140 a 199 mg/dL, 2 horas após o teste oral) e a glicemia de jejum alterada (100 a 125 mg/dL). O livro diz que \"insulino-dependente\" e \"não insulino-dependente\" foram abandonados por serem confusos e imprecisos.\n\n**Tipo 1:** cerca de 5 a 10% dos diabéticos nos EUA. Início abrupto, pico entre 10 e 14 anos, tendência à cetose, dependência de insulina injetável para manter a vida; 90 a 95% têm autoanticorpos contra as células beta.\n\n**Tipo 2:** 90 a 95% dos diabéticos nos EUA, mais em adultos e cada vez mais em jovens. A insulina própria basta para evitar cetoacidose em repouso, mas é insuficiente para a demanda; há alta incidência de obesidade e a maioria não precisa de insulina para viver.\n\nPela Tabela 17-2 (adaptada do Little e Falace, 8ª ed.): usam insulina quase todos do tipo 1 e 20 a 30% do tipo 2; cetoacidose é comum no tipo 1 e incomum no tipo 2; o tipo 1 é instável e o tipo 2 é estável.\n\n**Gestacional:** resultado anormal no teste oral de tolerância à glicose durante a gravidez; pode reverter após o parto ou permanecer."
+    },
+    {
+      "id": "complicacoes",
+      "titulo": "Complicações que mudam o risco na cadeira",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Diabetes Melito, Complicações agudas e crônicas, Tabela 17-1, Quadro 17-4, p. 254–257 e 261–262",
+      "texto": "**Agudas.** As duas que mais importam ao dentista são a hiperglicemia e a hipoglicemia. A hipoglicemia é a de risco de vida mais imediato e ocorre em diabéticos e em não diabéticos. A hiperglicemia só leva à perda de consciência depois de um processo longo (geralmente pelo menos 48 horas desde os sintomas); no consultório isso é extremamente improvável.\n\n**Crônicas.** O livro as agrupa em doença de grandes vasos (arteriosclerose, mais frequente e mais precoce no diabético), doença de pequenos vasos (retinopatia e nefropatia) e maior suscetibilidade à infecção. Dados dos EUA citados no capítulo:\n- risco de doença vascular cardíaca, cerebral e periférica de duas a sete vezes maior (p. 254–255);\n- risco de morte por doença cardíaca e de AVE de 2 a 4 vezes maior (p. 254); na p. 256 o livro escreve que a morte por doença cardíaca é \"quatro vezes\" mais provável;\n- retinopatia em 58 a 80% em 5 a 10 anos do diagnóstico; neuropatia em 60 a 70%; doença renal em 20 a 40%;\n- cerca de 73% dos adultos diabéticos têm pressão de 130/80 mmHg ou mais, ou usam anti-hipertensivo.\n\n**Boca.** A Tabela 17-1 lista gengivite, mais cárie e doença periodontal e perda óssea alveolar. O risco de doença periodontal é cerca de duas vezes maior (p. 254), e a periodontite inflamatória é mais frequente quando o diabetes não está controlado; no paciente controlado a diferença desaparece (p. 257). O capítulo descreve o efeito do diabetes sobre o periodonto; o efeito da periodontite sobre a glicemia não é detalhado nele.\n\n**Controle.** No estudo DCCT (EUA, 1993; 1.441 pacientes com tipo 1, até 10 anos), a quase normalização da glicose atrasou e abrandou as complicações microvasculares e neuropáticas, com redução de cerca de 60% do risco em 7 anos. O grupo intensivo teve risco três vezes maior de hipoglicemia grave.\n\n**Para o dentista:** conhecer e evitar as complicações agudas e procurar as crônicas que aumentem o risco durante o tratamento; elas podem exigir mudanças no plano."
+    },
+    {
+      "id": "fatores",
+      "titulo": "O que precipita hiperglicemia e hipoglicemia",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Hiperglicemia e Hipoglicemia, Tabela 17-4, p. 260–261",
+      "texto": "**Hiperglicemia.** Aumentam a demanda de insulina e podem precipitá-la: ganho de peso, parar o exercício, gravidez, hipertireoidismo ou medicação para a tireoide, terapia com adrenalina, corticoterapia, infecção aguda e febre. Sem tratamento pode evoluir para cetoacidose e coma, ambos com risco de vida. A cetoacidose é mais comum no tipo 1 e se instala em um dia a duas semanas de mal-estar, náuseas, poliúria e polidipsia; é altamente improvável que se apresente como emergência aguda no consultório.\n\n**Hipoglicemia.** Instala-se mais depressa. Com insulina injetável o paciente pode perder a consciência em minutos; com hipoglicemiantes orais o início costuma levar várias horas. Reduzem a necessidade de insulina e favorecem a hipoglicemia: perda de peso, mais atividade física, fim da gravidez, suspensão de adrenalina, tireoide ou corticosteroide, recuperação de infecção e febre. Tomar a dose \"usual\" de insulina nessas situações aumenta o risco.\n\nCausas mais comuns: omitir ou atrasar refeições, exercício excessivo antes das refeições e aumento da dose de insulina. Na Tabela 17-4 (240 casos consecutivos, hospital dos EUA, 1973 a 1975): 66% por ingestão inadequada de carboidratos, 12% por dose excessiva de insulina, 12% por sulfonilureia, 4% por exercício extenuante, 4% por etanol e 2% por outras causas.\n\n**O consultório entra na conta.** O estresse fisiológico e psicológico aumenta a exigência de insulina e a chance de hipoglicemia. O paciente pode evitar comer antes da consulta para ter os dentes limpos; a consulta pode cair no horário da refeição; e o procedimento pode atrasar a refeição seguinte (anestesia prolongada de tecidos moles, anestésico de longa duração como a bupivacaína, cirurgia periodontal ou oral, endodontia)."
+    },
+    {
+      "id": "reconhecer",
+      "titulo": "Reconhecer: hiperglicemia ou hipoglicemia",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Complicações agudas, Exame físico, Manifestações clínicas, Quadro 17-7, Tratamento (pistas de diagnóstico), p. 255, 268–270 e 273–275",
+      "texto": "**Hipoglicemia, definição do livro:** glicose abaixo de 50 mg por 100 mL em adultos e abaixo de 40 mg por 100 mL em crianças. O livro avisa que há reações com glicose normal ou alta e ausência de sintoma com 25 a 30 mg/dL: o fator mais importante é a velocidade da queda.\n\n**Como a hipoglicemia aparece.** Primeiro: função cerebral diminuída (erro em contas simples), mudança de humor e menos espontaneidade, fome e náusea. Depois, hiperatividade simpática: sudorese, taquicardia, piloereção, ansiedade. Em seguida, comportamento bizarro, beligerância, julgamento ruim e falta de cooperação; quem vê pode achar que é álcool ou droga. No estágio tardio: perda de consciência, convulsões, hipotensão e hipotermia. Os sinais lembram os de ansiedade aguda ou de excesso de adrenalina, exceto pela desorientação.\n\n**Como a hiperglicemia/cetoacidose aparece.** Poliúria, polidipsia, polifagia com perda de peso, fadiga, visão turva, dor abdominal, náuseas e vômitos; face corada, desidratação e, na cetoacidose, respiração profunda e rápida (Kussmaul) com hálito doce de acetona.\n\n| | Hiperglicemia / cetoacidose | Hipoglicemia |\n|---|---|---|\n| Instalação | horas a dias; paciente com aspecto de doente crônico | minutos (insulina) ou horas (oral) |\n| Pele | corada, quente e seca | fria e úmida |\n| Pressão e pulso | pressão diminuída (hipovolemia), taquicardia | pressão maior, taquicardia (resposta simpática) |\n| Respiração | profunda e rápida na cetoacidose | normal ou diminuída |\n\nPistas do livro para hiperglicemia: glicose acima de 250 mg/dL, hálito doce, pulso fraco e rápido. O cheiro de cetonas confirma hiperglicemia. Faça sinais vitais antes e depois de todo tratamento."
+    },
+    {
+      "id": "suspeita",
+      "titulo": "Quando suspeitar de diabetes não diagnosticado",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, Tabela 17-3, Manifestações clínicas da hiperglicemia, Tabela 17-10, p. 260–261, 266–267 e 269–270",
+      "texto": "O livro estima cerca de 7 milhões de americanos com diabetes sem diagnóstico, e diz que o dentista pode ajudar a detectá-lo.\n\n**Sintomas.** Sede excessiva, micção frequente e boca seca não são específicos, mas a tríade polidipsia, polifagia e poliúria, com perda de peso inesperada, deve alertar. No tipo 2 pode não haver sintoma algum; a Tabela 17-10 marca \"ausência de sintomas\" como geralmente presente no tipo 2. No tipo 1 a tríade é evidente por um dia ou mais, com fadiga, visão turva, dor abdominal e perda de peso.\n\n**Fatores de risco** (Tabela 17-3, EUA): idade de 45 anos ou mais; IMC de 25 kg/m² ou mais; parente de primeiro grau com diabetes; inatividade física; etnia de alto risco; criança com mais de 4 kg ao nascer; diabetes gestacional prévio; pressão de 140/90 mmHg ou mais; triglicerídeos de 250 mg/dL ou mais; síndrome do ovário policístico; pré-diabetes no exame anterior; doença vascular.\n\nNo texto do mesmo capítulo (p. 269), o indicador é o nascimento de bebê com mais de 4,5 kg. Tabela e texto divergem (4 kg × 4,5 kg); o livro não escolhe.\n\nOutros indicadores do texto: obesidade, idade acima de 40 anos, aborto espontâneo ou natimorto, parentes diabéticos, diabetes descoberto depois de infarto em pessoa jovem ou insuficiência vascular periférica precoce.\n\n**Triagem.** A American Diabetes Association (EUA), como o livro a cita, recomenda triar todos acima de 45 anos pelo menos a cada 3 anos, e mais cedo e com mais frequência quem é mais jovem, tem IMC acima de 25 kg/m² e outro fator de risco."
+    },
+    {
+      "id": "avaliacao",
+      "titulo": "O que perguntar e medir antes de atender",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, questionário de história médica, hemoglobina A1c e exame físico, p. 266–268",
+      "texto": "**Se o paciente não diz que tem diabetes**, mas relata sede excessiva, micção frequente ou boca seca (perda de peso recente sem explicação também pode indicar diabetes não detectado), o livro manda fazer um diálogo curto: sede frequente? fome a maior parte do tempo? acorda à noite para urinar? ganhou ou perdeu peso sem dieta, e quantos quilos? Com respostas positivas, faça o exame físico e odontológico preliminar e **consulte o médico antes de iniciar o tratamento**.\n\n**Se ele já sabe que tem**, pergunte:\n- há quanto tempo e com que tratamento: a gravidade e o potencial de complicação aguda são maiores no tipo 1 ou 2 controlado com insulina injetável; quem usa só dieta, ou dieta e hipoglicemiante oral (tipo 2), mantém alguma função do pâncreas e resiste mais à cetoacidose;\n- com que frequência monitora a glicose e quais foram os resultados dos últimos dias;\n- qual foi a hemoglobina A1c mais recente;\n- com que frequência tem hipoglicemia (leituras frequentemente baixas indicam propensão).\n\n**Hemoglobina A1c** é a média da glicose dos últimos 2 a 3 meses. Quem usa insulina (ou bomba) a mede 4 vezes por ano; os demais, 2 vezes. Um não diabético tem cerca de 5%; uma variação de 1 ponto percentual equivale a cerca de 30 mg/dL na glicose média; 6% corresponde a 135 mg/dL e 9% a 240 mg/dL. O livro dá como objetivo de controle A1c de 6% ou menos; a Tabela 17-6 do mesmo capítulo chama de normal o valor abaixo de 6,5% e de excelente o de 6,5 a 7,5%.\n\n**Exame físico.** Procure sinais de doença secundária, sobretudo cardiovascular. Sinais vitais antes e depois de todo tratamento. Pele corada e seca sugere hiperglicemia; pele fria e úmida, hipoglicemia; cheiro de acetona na respiração, cetoacidose."
+    },
+    {
+      "id": "risco-a1c",
+      "titulo": "Quanto o controle muda o risco (A1c e ASA)",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269",
+      "texto": "O Malamed traduz o controle em estado físico ASA (sistema de risco da American Society of Anesthesiologists, EUA).\n\n**Estado ideal (Tabela 17-7):** tipo 1 ou 2 tratado com insulina e dieta, ASA 3; tipo 2 com medicação oral e dieta, ASA 2.\n\n**Tabela 17-8:** A1c e glicose mudam esse estado. A linha de 8,5 a 9,5% traz só \"240\" na coluna de glicose, assim no livro.\n\n| A1c (%) | Glicose (mg/dL) | Mudança no estado físico | Comentário do livro |\n|---|---|---|---|\n| (em branco) | menos de 70 | +1 | pode ser aceito, mas aumenta a chance de hipoglicemia |\n| menos de 6,5 | 70 a 110 | 0 | pode ser aceito |\n| 6,5 a 7,5 | 110 a 175 | 0 | pode ser aceito |\n| 7,5 a 8,5 | 175 a 240 | +1 | avaliar com cuidado antes do tratamento |\n| 8,5 a 9,5 | 240 | +1 | avaliar com cuidado; consulta médica sugerida |\n| mais de 9,5 | mais de 400 | +2 | consulta médica antes; eletivo não indicado, só emergência |\n\n**Tabela 17-9, considerações por estado:**\n- **ASA 2:** café da manhã normal e dose usual de insulina da manhã, se possível; evitar perder refeições antes e depois da cirurgia; se a perda for inevitável, consultar o médico ou reduzir a dose de insulina pela metade.\n- **ASA 3:** além das considerações habituais, monitorar a glicose com mais frequência por vários dias depois de cirurgia ou procedimento extenso, modificando as doses de insulina; considerar consulta médica.\n- **ASA 4:** consultar um médico antes de iniciar o tratamento odontológico.\n\nConsidere consulta médica também no tipo 1 que precisa de grandes doses de insulina (mais de 40 unidades por dia) ou quando houver dúvida sobre o ajuste da dose.\n\nO Andrade e Ranali, na seção \"Andrade e Ranali: hipoglicemia, definição e prevenção\", diz que alterar a dose de insulina é atribuição exclusiva do médico; os livros divergem e o tema não escolhe."
+    },
+    {
+      "id": "atendimento",
+      "titulo": "O que muda no atendimento",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, Considerações sobre o tratamento odontológico, p. 268–269",
+      "texto": "**Horário e refeição.** Oriente o paciente a manter os hábitos alimentares normais, a tomar a dose habitual de insulina e a fazer o café da manhã normal antes da consulta. Marcar no início do dia (de manhã) reduz o risco de hipoglicemia.\n\n**Glicemia na cadeira.** Peça que traga o medidor. O dentista que atende muitos diabéticos pode ter um (precisão dentro de 5% e resultado em 1 minuto). Se o valor vier baixo ou no limite inferior da faixa de jejum de 80 a 120 mg/dL, dê um carboidrato de ação rápida antes de começar.\n\n**Quanto o paciente tolera.** O tipo 2 em geral tolera bem as oscilações agudas da glicose (anestesia geral, sedação parenteral e anestesia local com preocupação mínima). No tipo 1, mais propenso à cetoacidose, o plano pode ser modificado com o protocolo de redução de estresse. Diabéticos toleram melhor períodos curtos de hiperglicemia do que de hipoglicemia.\n\n**Anestésico.** Anestésico de ação curta (como exemplo do livro, a mepivacaína pura) causa menos déficit alimentar pós-tratamento do que o de ação longa (bupivacaína com adrenalina). A fentolamina (OraVerse) reduz o efeito residual da anestesia de tecidos moles. Se o procedimento puder prejudicar a alimentação (sedação intravenosa, cirurgia), a dose de insulina deve ser ajustada; o capítulo não diz quem faz o ajuste e sugere considerar consulta médica quando houver dúvida.\n\n**Depois de procedimento extenso** (cirurgia oral ou periodontal, reconstrução, endodontia), o tipo 1 deve checar a glicose com mais frequência nos dias seguintes; se glicose ou cetona subirem, a insulina é modificada e o médico avisado. Paciente com controle justo em geral não precisa de antibiótico depois de cirurgia; a cobertura é apropriada se houver infecção significativa, dor ou estresse.\n\n**Se não está controlado**, o livro lista: xerostomia, infecção, má cicatrização, cáries mais numerosas e mais graves, candidíase, gengivite, doença periodontal, abscessos periapicais e síndrome de ardência bucal. Em dúvida sobre o estado médico, consulte o clínico geral."
+    },
+    {
+      "id": "hiperglicemia-conduta",
+      "titulo": "Conduta: hiperglicemia e cetoacidose",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275",
+      "texto": "**Paciente consciente com sinais de hiperglicemia:** é ASA 4 e **não recebe tratamento odontológico até que um médico seja consultado**. Na maioria dos casos a consulta termina em atendimento médico imediato ou internação.\n\n**Diabético com mudança de comportamento ou inconsciente: trate como hipoglicêmico.** O diabético que muda de comportamento, age de modo estranho ou perde a consciência é tratado como hipoglicêmico \"até prova em contrário\". O livro explica a razão: a hipoglicemia não tratada rápido leva mais depressa à morte ou a dano neurológico grave do que a hiperglicemia. Sinais que ajudam a separar: pele quente e seca na hiperglicemia, fria e úmida na hipoglicemia; o cheiro de cetonas confirma hiperglicemia. Se a dúvida persistir sobre qual é a emergência, dê suporte (posição, circulação, vias aéreas e respiração) até chegar ajuda médica.\n\n**Paciente inconsciente por hiperglicemia (cetoacidose ou coma):**\n1. Interrompa o tratamento e ative a equipe de emergência do consultório.\n2. Posição: supina, com as pernas ligeiramente elevadas.\n3. Retire materiais da boca.\n4. Circulação, vias aéreas e respiração: suporte básico de vida se necessário. No coma diabético, geralmente bastam a posição e manter as vias aéreas; a respiração costuma ser espontânea, profunda e rápida ou lenta, e pode haver odor doce e frutado.\n5. Solicite assistência médica se não melhorar; estabeleça acesso venoso se possível, com infusão de dextrose a 5% em água ou soro fisiológico enquanto a equipe não chega; ofereça oxigênio (não ajuda a recuperação, mas não causa dano); o paciente é transportado ao hospital.\n\nA insulina não deve fazer parte do kit de emergência do consultório (salvo dentista ou membro da equipe diabético dependente de insulina). A cetoacidose é emergência médica com risco de vida e mortalidade pouco menor que 5%; no consultório o tratamento é apenas de suporte."
+    },
+    {
+      "id": "hipoglicemia-consciente",
+      "titulo": "Conduta: hipoglicemia com paciente consciente",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277",
+      "texto": "**Reconheça.** Comportamento estranho ou mudança de personalidade, sem cheiro de álcool no hálito, mais os outros sinais. Se for diabético, pergunte há quanto tempo comeu ou tomou insulina; ele pode não responder racionalmente a essas perguntas, embora pareça raciocinar normalmente.\n\n**Passos:** interrompa o procedimento; posição conforme o conforto do paciente (em geral ele prefere sentado ereto); vias aéreas, respiração e circulação mantidas pelo próprio paciente; então o tratamento definitivo.\n\n**Consciente e cooperativo: carboidrato oral é o tratamento de escolha.** O kit de emergência deve ter açúcar (dissolvido e ingerido); outras opções são suco de laranja, refrigerante e barra de chocolate. Uma porção de 150 a 350 mL de refrigerante contém 20 a 40 g de glicose. Dê cerca de 100 mL a cada 5 a 10 minutos até os sintomas desaparecerem.\n\n**Recuperação.** Observe o paciente por cerca de 1 hora antes de liberar. Ele pode ir sem escolta se o dentista julgar que se recuperou totalmente; na dúvida, fica mais tempo ou um adulto responsável o leva para casa. Verifique se comeu antes da consulta e reafirme a importância de comer antes de cada visita.\n\n**Consciente, mas sem resposta ao açúcar oral ou sem cooperar:** chame imediatamente a assistência médica e considere medicamento parenteral:\n- glucagon, 1 mg, por via intramuscular ou intravenosa; ou, se disponível,\n- 50 mL de dextrose a 50% por via intravenosa, em 2 a 3 minutos.\n\nO paciente geralmente responde em 10 a 15 minutos após o glucagon intramuscular e em 5 minutos após a dextrose intravenosa. Depois, carboidrato oral assim que tolerar. Monitore os sinais vitais ao menos a cada 5 minutos até a chegada da equipe. Na maioria dos casos o paciente é internado ao menos até a glicose normalizar. Antes de marcar novas consultas, discuta as causas possíveis do episódio e como evitar a repetição."
+    },
+    {
+      "id": "hipoglicemia-inconsciente",
+      "titulo": "Conduta: hipoglicemia com paciente inconsciente",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Figura 17-8, Quadro 17-10, p. 270 e 277–278",
+      "texto": "Esta seção é do Malamed (autor dos EUA), cap. 17; a conduta e os números são dele.\n\n**Diabético inconsciente é tratado como hipoglicêmico**, a menos que outra causa óbvia seja estabelecida.\n\n**Passos:** interrompa o tratamento; posição supina com as pernas ligeiramente elevadas; circulação, vias aéreas e respiração com suporte básico de vida, e o passo geralmente exigido é manter as vias aéreas pérvias (a circulação costuma estar adequada e a respiração espontânea); solicite assistência médica se não responder ao suporte.\n\n**Carboidrato pela via mais eficaz disponível**, em geral dextrose a 50% por via intravenosa ou glucagon por via intramuscular. O glucagon (1 mg, intramuscular ou intravenoso) eleva a glicose quebrando o glicogênio do fígado; começa a agir em cerca de 10 a 20 minutos e o pico vem em 30 a 60 minutos (na seção do paciente consciente o livro fala em resposta em 10 a 15 minutos; ele não harmoniza os dois). O livro recomenda que todo paciente com tipo 1 carregue uma ampola de glucagon e que o médico instrua família e amigos a aplicá-la por via intramuscular.\n\n**Nunca por via oral:** líquido ou substância que se liquefaz na temperatura do corpo (gel ou pasta fina) em paciente inconsciente, pelo risco de obstrução, aspiração pulmonar ou ambos. A única pasta que o livro admite é a de glicose concentrada, mais espessa que pasta de dentes, no cenário descrito mais abaixo. Quando recuperar a consciência, suco ou refrigerante por via oral.\n\n**Sem glucagon nem dextrose:** adrenalina 1:1.000, 0,5 mg por via subcutânea ou intramuscular, repetida a cada 15 minutos se preciso; ela aumenta a glicose, mas pede cautela em quem tem doença cardiovascular.\n\n**Sem via parenteral:** mantenha o suporte básico até a equipe chegar. A aplicação transmucosa de açúcar não é mais recomendada de rotina, pelo início lento (30 minutos ou mais). Na opinião do autor, só vale quando o acesso à emergência é muito lento (por exemplo, mais de 40 minutos): pasta de glicose concentrada (mais espessa que pasta de dentes) ou pequena quantidade de mel ou xarope na prega mucovestibular, com início em 30 a 40 minutos; avalie e aspire a boca a cada 5 minutos.\n\n**Convulsões** podem ocorrer na hipoglicemia grave e persistir até a glicose subir; o livro remete ao capítulo de convulsões."
+    },
+    {
+      "id": "lf-periodonto-ida",
+      "titulo": "Little e Falace: do diabetes para a doença periodontal",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Importância para o dentista, p. 230; Manejo odontológico, detecção, p. 247; Complicações bucais, periodontite, Figs. 14.12 e 14.13, p. 251",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. O que está abaixo é o que o livro diz; ele não traz número de risco nem resultado de estudo sobre periodontite e diabetes nestas páginas.\n\n**A relação, nas palavras do livro (p. 230).** O diabetes afeta a saúde bucal e a saúde bucal afeta o diabetes: o livro chama isso de relação bidirecional. Esta seção traz o sentido do diabetes para o periodonto; a seção seguinte traz o sentido inverso.\n\n**Diabetes para periodontite (p. 251).** Vários estudos relatam mais inflamação gengival, mais abscesso periodontal e mais doença periodontal crônica em quem tem diabetes. O livro dá três razões para o risco maior: respostas inflamatórias aumentadas, cicatrização deprimida e alterações dos vasos pequenos.\n\nSobre a gravidade, o livro diz:\n- adultos com diabetes descontrolado têm manifestações mais graves que adultos sem diabetes;\n- como grupo, quem tem diabetes controlado parece ter doença periodontal mais grave que quem não tem diabetes, mas as diferenças não são grandes;\n- de modo geral, a doença periodontal é mais grave e mais frequente no diabetes mal controlado;\n- a associação não se explica só por mais placa supragengival;\n- a relação no tempo entre o estado diabético e o início da doença periodontal ainda não foi estabelecida, mas \"periodontal disease is clearly a complication of type 1 and type 2 diabetes\" (a doença periodontal é claramente uma complicação do diabetes tipo 1 e tipo 2).\n\nO Malamed, na seção \"Complicações que mudam o risco na cadeira\", diz que no paciente controlado a diferença desaparece; os livros divergem e o tema não escolhe.\n\n**A periodontite como pista de diabetes sem diagnóstico (pp. 247 e 251).** Entre os achados que, no paciente sem diagnóstico, pedem teste de rastreamento no laboratório ou no médico, o livro lista doença periodontal progressiva e múltiplos abscessos periodontais. As Figs. 14.12 e 14.13 mostram um adulto jovem com periodontite grave e progressiva (encaminhado após rastreamento positivo; teve diabetes diagnosticado e precisou de insulina) e um paciente com múltiplos abscessos periodontais (diabetes diagnosticado após avaliação médica).\n\n**Boca no diabetes mal controlado (p. 251).** Gengivite e doença periodontal entram na lista de complicações bucais do diabetes mal controlado (p. 251)."
+    },
+    {
+      "id": "lf-periodonto-volta",
+      "titulo": "Little e Falace: da doença periodontal para o diabetes",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Importância para o dentista, p. 230; infecção bucal, p. 248; Box 14.8, F, seguimento, p. 249; Box 14.9, p. 250",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. É o sentido inverso da seção anterior, e o livro é mais curto aqui.\n\n**Afirmação geral (p. 230).** Ao explicar por que o diabetes importa ao dentista, o livro diz que a saúde bucal afeta o diabetes, e chama a relação de bidirecional.\n\n**Seguimento (Box 14.8, item F, p. 249).** O quadro recomenda avaliação de rotina e periódica e a inspeção das lesões bucais como forma de monitorar a progressão da doença. Nesse item está a frase: \"Poor periodontal health is associated with poor glycemic control\" (saúde periodontal ruim se associa a controle glicêmico ruim). O quadro a dá como associação: sem número, sem estudo e sem dizer qual dos dois vem primeiro.\n\n**Infecção bucal aguda (p. 248 e Box 14.9, p. 250).** Aqui o livro fala de infecção bucal aguda em geral, não só de periodontite:\n- é problema potencialmente importante no paciente com diabetes, pior com dose alta de insulina e no tipo 1;\n- costuma levar à perda do controle do diabetes, e as defesas do corpo a tratam pior do que em um paciente normal;\n- o objetivo é curar a infecção e restaurar o controle glicêmico ao mesmo tempo;\n- quem usa insulina costuma precisar de insulina adicional, prescrita pelo médico; quem não usa pode precisar de manejo médico mais agressivo do diabetes, possivelmente com insulina nesse período;\n- o médico deve ser consultado e tornar-se parceiro nesse período.\n\n**O que o capítulo não traz.** O capítulo não traz o efeito do tratamento periodontal sobre a glicemia ou a HbA1c.\n\nA conduta na infecção bucal aguda está na seção \"Little e Falace: infecção bucal no diabetes\"."
+    },
+    {
+      "id": "lf-diagnostico",
+      "titulo": "Little e Falace: critérios diagnósticos do diabetes",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Etiologia, p. 231; Critérios diagnósticos, Tabela 14.3, p. 236; Tabela 14.4, p. 237; Manejo odontológico, detecção, p. 247; Box 14.7, p. 248",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Os critérios são da American Diabetes Association (ADA, EUA), como o livro os apresenta na Tabela 14.3 (p. 236); os números são dele. Os critérios que o Malamed relata estão na seção \"Quem é o paciente: definição, diagnóstico e tipos\", com os números dele. A lista do Malamed tem outros itens, e o valor de 2 horas dele é medido depois de uma refeição, não depois de 75 g de glicose; o tema não escolhe.\n\n**Tabela 14.3: quatro critérios alternativos.** Qualquer um fecha o diagnóstico:\n1. glicemia plasmática de jejum de 126 mg/dL ou mais, em duas ocasiões (jejum: nenhuma ingestão calórica por pelo menos 8 horas);\n2. sintomas e sinais de diabetes mais glicemia casual de 200 mg/dL ou mais (casual: a qualquer hora do dia, sem relação com a última refeição); as manifestações cardinais são poliúria, polidipsia e perda de peso inexplicada;\n3. glicemia de 200 mg/dL ou mais 2 horas depois de uma carga de 75 g de glicose no teste oral de tolerância à glicose (TOTG); a tabela anota que o TOTG em geral não é recomendado na prática clínica;\n4. hemoglobina glicosilada (ensaio A1C) de 6,5% ou mais.\n\n**Pré-diabetes (Tabela 14.4 e p. 231).** Quem tem glicemia anormal, mas abaixo do nível de diabetes, recebe o diagnóstico de pré-diabetes. Glicemia de jejum alterada: jejum de 100 a 125 mg/dL. Tolerância à glicose diminuída: 140 a 199 mg/dL às 2 horas do TOTG.\n\n**Onde o livro diverge de si mesmo (o tema não escolhe):**\n- Jejum: a Tabela 14.3 diz 126 mg/dL ou mais em duas ocasiões; o texto da p. 236 escreve \"maior que 126\" em mais de uma ocasião e, na descrição do TOTG, 126 mg/100 mL ou mais.\n- Duas horas no TOTG: a Tabela 14.3 diz 200 mg/dL ou mais; a coluna correspondente da Tabela 14.4 está impressa como \"maior que 200\".\n- Idade para rastrear: o texto diz 45 anos ou mais (p. 235) e acima de 45 anos (pp. 236 e 247); na lista de alto risco do Box 14.7 (p. 248), em idade acima de 40 anos.\n\n**O que fazer na cadeira (p. 247).** Glicemia de jejum de 126 mg/100 mL ou mais, ou glicemia pós-prandial de 2 horas de 200 mg/100 mL ou mais: encaminhe ao médico para avaliação e tratamento, se indicado. Quem tem os sinais cardinais (polidipsia, poliúria, polifagia, perda de peso, fraqueza) e nenhum diagnóstico também é encaminhado. O livro manda rastrear de rotina, no mínimo a cada 3 anos, quem é obeso, tem mais de 45 anos ou parentes próximos com diabetes."
+    },
+    {
+      "id": "lf-metas",
+      "titulo": "Little e Falace: metas de controle e HbA1c",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, HbA1c, p. 236; frequência da HbA1c e Tabela 14.5, p. 237; metas de HbA1c, p. 238",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Os números são dele. As metas de A1c do Malamed estão na seção \"O que perguntar e medir antes de atender\", com os números dele.\n\n**HbA1c (p. 236).** Reflete a glicemia dos 3 meses anteriores, a vida média aproximada da hemácia. O livro diz que em saúde fica abaixo de 6% e que, no diabetes bem controlado, deve ficar abaixo de 7%, sem hipoglicemia clinicamente significativa.\n\n**Frequência (p. 237).** Pelo menos duas vezes por ano em quem atingiu as metas e tem controle estável; a cada trimestre em quem mudou o tratamento ou não atinge as metas. As complicações, inclusive as bucais, se aceleram com HbA1c elevada; por isso o monitoramento importa em especial para quem fará procedimento invasivo.\n\n**Tabela 14.5 (p. 237): metas da ADA e do American College of Endocrinology (ACE), duas entidades dos EUA.** O livro as põe lado a lado:\n\n| Parâmetro | Normal | ADA | ACE |\n|---|---|---|---|\n| Glicemia pré-prandial (mg/dL) | menos de 100 | 90 a 130 | menos de 110 |\n| Glicemia pós-prandial (mg/dL) | menos de 140 | menos de 180 | menos de 140 |\n| A1C | 4% a 6% | menos de 7% | menos de 6,5% |\n\nPós-prandial: medida de 1 a 2 horas após o início da refeição. O livro não escolhe entre a meta da ADA e a do ACE.\n\n**Notas da ADA na tabela.** As metas devem ser individualizadas; crianças, gestantes e idosos exigem considerações especiais; metas menos intensivas podem ser indicadas em hipoglicemia grave ou frequente; metas mais estritas (A1C abaixo de 6%) podem reduzir mais as complicações, ao custo de maior risco de hipoglicemia.\n\n**Meta individual (p. 238).** A meta é definida com o paciente, considerando fatores médicos, sociais e de estilo de vida. Na maioria, A1C abaixo de 7%; para alguns, mais estrita (por exemplo, 6,5% em adulto jovem com tipo 1); para pacientes muito jovens ou idosos, ou com vida curta ou comorbidades, pode servir uma meta mais alta (8,0% ou 8,5%).\n\n**Alvo do tratamento e limite do consultório.** Estes números são as metas do tratamento (Tabela 14.5). Para decidir se atende, o Box 14.8 e a Fig. 14.11 dão outros números, na seção \"Little e Falace: o que é bem controlado na consulta\". As metas e o período da A1c do Malamed são outros (seções \"O que perguntar e medir antes de atender\" e \"Quanto o controle muda o risco (A1c e ASA)\"); o tema não escolhe."
+    },
+    {
+      "id": "lf-bem-controlado",
+      "titulo": "Little e Falace: o que é bem controlado na consulta",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé e Notas sobre cirurgia, p. 249; Fig. 14.11, p. 250; Tabela 14.5, p. 237; capacidade funcional e infecção, p. 248",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14, Box 14.8 e Fig. 14.11. Os números são dele.\n\n**Por que importa.** Segundo o Box 14.8 (p. 249), se o diabetes está bem controlado, todos os procedimentos odontológicos de rotina podem ser feitos sem precauções especiais; consultas pela manhã costumam ser as melhores.\n\n**\"Bem controlado\", pela nota de rodapé do Box 14.8.** Tudo junto: glicemia de jejum entre 70 e 200 mg/dL; nenhuma complicação (o quadro lista pós-infarto, doença renal, insuficiência cardíaca congestiva, angina sintomática, idade avançada, arritmia cardíaca e AVC); pressão abaixo de 180/110 mmHg; capacidade funcional acima de 4 METs. MET (equivalente metabólico) mede a capacidade funcional; abaixo de 4 METs o paciente tem dificuldade nas atividades diárias normais (p. 248). O quadro não cita HbA1c.\n\n**Fig. 14.11 (p. 250): glicemia de jejum no glicosímetro.**\n- Abaixo de 70 mg/dL: adiar o tratamento eletivo ou dar carboidratos.\n- Acima de 200 mg/dL: adiar o tratamento eletivo; dar hipoglicemiante (ou insulina) ou encaminhar ao médico. A nota da figura diz que o hipoglicemiante oral é o prescrito pelo médico do paciente; o texto da p. 248 diz que a insulina adicional é prescrita pelo médico.\n- O diagrama não traz caixa para valores de 70 a 200 mg/dL.\n\n**Mal controlado (Box 14.8, Notas sobre cirurgia).** O quadro descreve o paciente não bem controlado com glicemia de jejum abaixo de 70 ou acima de 200 mg/dL, comorbidades presentes e pressão acima de 180/110 mmHg ou capacidade funcional abaixo de 4 METs. Conduta: só atendimento de emergência; pedir avaliação médica, manejo e modificação dos fatores de risco; se sintomático, encaminhamento imediato; se assintomático, encaminhamento de rotina.\n\n**Dois \"controles\" no mesmo capítulo (o tema não escolhe).**\n- Tabela 14.5 (alvo do tratamento): pré-prandial de 90 a 130 mg/dL e A1C abaixo de 7% (ADA); pré-prandial abaixo de 110 mg/dL e A1C abaixo de 6,5% (ACE).\n- Box 14.8 e Fig. 14.11 (limite do consultório): jejum de 70 a 200 mg/dL, com os demais critérios acima.\n\nO capítulo não une os dois. Os limites de glicemia do Malamed (seção \"Quanto o controle muda o risco (A1c e ASA)\") e do Varellis (seção \"Varellis: classificação e categorias de risco\") são outros; só o Little e Falace manda adiar o eletivo acima de 200 mg/dL no glicosímetro. O tema não escolhe. Sobre infecção e glicemia, o texto da p. 248 traz outros valores, de cirurgia não bucal, na seção \"Little e Falace: antibiótico e risco de infecção\"."
+    },
+    {
+      "id": "lf-anestesia-analgesicos",
+      "titulo": "Little e Falace: epinefrina, analgésicos e interações",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250; Box 14.8, A, B e C, p. 249; Analgésicos, p. 248; Tabela 14.7, pp. 241–242; Box 14.5, sulfonilureias, p. 243",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Só traz o que o Malamed não cobre; a escolha do anestésico de ação curta ou longa está na seção \"O que muda no atendimento\".\n\n**Anestésico local com epinefrina.**\n- Na maioria dos pacientes com diabetes, o uso rotineiro de anestésico local com epinefrina 1:100.000 é bem tolerado (p. 250).\n- A epinefrina tem efeito farmacológico oposto ao da insulina; por isso a glicemia pode subir com o seu uso (p. 250).\n- Com diabetes e hipertensão, infarto recente ou arritmia, o livro manda ter cautela: o Box 14.8 limita a epinefrina a no máximo dois tubetes de 1:100.000 (p. 249). O texto diz que as orientações são as do paciente cardiovascular e podem ser mais estritas se há doença cardiovascular e capacidade funcional abaixo de 4 METs (p. 250).\n- O Varellis (manual), na seção \"Varellis: cuidados no atendimento e medicamentos\", traz orientação diferente sobre o vasoconstritor. Os livros divergem; o tema não escolhe.\n\n**Analgésicos: texto e quadro (o tema não escolhe).**\n- Texto (p. 248): aspirina e AINEs podem potencializar a eficácia de alguns hipoglicemiantes orais (sulfonilureias) e aumentar a hipoglicemia; usar com critério.\n- Box 14.8 (p. 249): evitar aspirina e outros AINEs em quem toma sulfonilureias, porque podem piorar a hipoglicemia.\n\n**Outras interações que o livro lista.**\n- Sulfonilureias de 1ª geração (Tabela 14.7): salicilatos e cetoconazol aumentam a hipoglicemia. De 2ª geração: corticosteroides diminuem a ação.\n- O texto da p. 243 cita, como interações significativas de algumas sulfonilureias: álcool, varfarina, aspirina, cetoconazol, inibidores da alfa-glicosidase e fluconazol.\n- Betabloqueadores podem agravar a hipoglicemia em quem toma sulfonilureias (Box 14.8, C).\n- Tabela 14.7: os inibidores do SGLT2 podem aumentar a hipoglicemia; para a linagliptina (inibidor da DPP-4), a tabela anota hipoglicemia se combinada com insulina ou sulfonilureias.\n\n**Antes de cirurgia (Box 14.8, B).** Trombocitopenia é efeito adverso raro das sulfonilureias.\n\nO capítulo não detalha dose de analgésico nem alternativa à aspirina e aos AINEs."
+    },
+    {
+      "id": "lf-infeccao",
+      "titulo": "Little e Falace: infecção bucal no diabetes",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Antibióticos e risco de infecção, p. 248; Box 14.8, A, p. 249; Box 14.9, p. 250; diabetes lábil, p. 251",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Os números são dele. A profilaxia antibiótica e os dados de glicemia e infecção estão na seção \"Little e Falace: antibiótico e risco de infecção\".\n\n**Quem precisa de atenção (p. 248).** O diabetes bem controlado não exige atenção especial no tratamento odontológico, a menos que surja infecção dentária ou bucal significativa, possivelmente com edema ou febre. Quem usa insulina ou não está bem controlado exige atenção especial. Complicações como doença renal ou cardiovascular podem exigir mudanças específicas.\n\n**Como tratar a infecção (Box 14.8, A, e Box 14.9).** De forma agressiva e pelos métodos padrão: bochechos mornos, incisão e drenagem, pulpotomia, pulpectomia ou extração e antibióticos. No diabético lábil (controle muito difícil) ou com dose alta de insulina, colher cultura da área infectada para teste de sensibilidade: inicia-se o antibiótico (o livro cita a penicilina) e, se a resposta clínica for ruim, escolhe-se um mais eficaz pelo resultado. Atenção também ao equilíbrio eletrolítico e às necessidades de líquido e dieta. Pacientes lábeis podem precisar de internação.\n\n**Diabetes lábil (p. 251).** Quem tem períodos de hiperglicemia e hipoglicemia extremas, mesmo com o melhor manejo, exige consulta estreita com o médico antes de qualquer tratamento odontológico."
+    },
+    {
+      "id": "lf-antibiotico",
+      "titulo": "Little e Falace: antibiótico e risco de infecção",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Antibióticos e risco de infecção, p. 248; Box 14.8, A e D, p. 249; dispositivos, p. 251",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Os números são dele. O antibiótico depois de cirurgia no paciente de controle justo, segundo o Malamed, está na seção \"O que muda no atendimento\".\n\n**Antibiótico profilático no lábil: texto × Box 14.8 (o tema não escolhe).**\n- Texto (p. 248): no diabético lábil ou com dose alta de insulina, em procedimento invasivo, o risco de infecção pós-operatória pode ser maior, mas a profilaxia antibiótica em geral não é indicada; se surgir infecção, dá-se antibiótico sistêmico apropriado. A decisão de profilaxia ou cobertura em geral envolve consultar o médico e se relaciona ao mau controle glicêmico.\n- Box 14.8, A (p. 249): profilaxia em geral não é necessária; pode-se prescrever antibiótico ao lábil com procedimento invasivo planejado, mas com saúde bucal ruim e glicemia de jejum acima de 200 mg/dL.\n- Bomba de insulina: profilaxia antibiótica não é necessária (Box 14.8, D; p. 251).\n- O Varellis (manual), na seção \"Varellis: cuidados no atendimento e medicamentos\", orienta antibiótico profilático nos pós-operatórios cirúrgicos. Os livros divergem; o tema não escolhe.\n\n**Glicemia e risco de infecção (p. 248, dados de cirurgia geral, não bucal).** Glicemia de jejum abaixo de 206 mg/100 mL: sem aumento previsto do risco. De 207 a 229 mg/100 mL: aumento previsto de 20%. Acima de 230 mg/100 mL: aumento relatado de 80% na infecção pós-operatória. O livro diz que o dentista deve conhecer o nível de controle em cirurgia bucal complexa e considerar monitoração criteriosa e uso adequado de antibióticos."
+    },
+    {
+      "id": "lf-hipoglicemia",
+      "titulo": "Little e Falace: hipoglicemia, definição e prevenção",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Choque insulínico, p. 247; Hipoglicemia na consulta, Fig. 14.11, p. 250; Box 14.8, E, p. 249; sulfonilureias, Box 14.5, p. 243; diabetes lábil, p. 251",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14. Traz a definição, as causas e a prevenção; o tratamento que o livro dá é curto e está na seção seguinte. O capítulo não traz quantidades de açúcar, suco, glicose, glucagon ou epinefrina; os passos e as doses do Malamed, do Andrade e Ranali e do Varellis estão nas seções deles (\"Conduta: hipoglicemia com paciente consciente\", \"Conduta: hipoglicemia com paciente inconsciente\", \"Andrade e Ranali: protocolo da hipoglicemia aguda\" e \"Varellis: choque insulínico e coma diabético\").\n\n**Definição (p. 250).** O livro fala do paciente com \"controle excessivo\", com glicemia baixa, abaixo de 70 mg/dL, que deve ser reconhecido e manejado. Na Fig. 14.11, glicemia de jejum abaixo de 70 mg/dL no glicosímetro antes de começar: adiar o tratamento eletivo ou dar carboidratos. Por isso a monitoração física cuidadosa e contínua é obrigatória. Os valores de definição do Malamed e do Andrade e Ranali são outros e estão nas seções \"Reconhecer: hiperglicemia ou hipoglicemia\" e \"Andrade e Ranali: hipoglicemia, definição e prevenção\"; o tema não escolhe.\n\n**De onde vem (pp. 243 e 247).** Quem usa insulina e não come como o plano manda, mas mantém a insulina regular, pode ter reação por excesso de insulina (o livro a chama de choque insulínico); também vem de overdose de insulina ou de agente oral, sobretudo as sulfonilureias. Com secretagogos (principalmente os de ação longa, sobretudo em idosos), costuma se ligar a refeição atrasada, mais atividade física, álcool ou insuficiência renal. Os fármacos que aumentam a chance estão na seção \"Little e Falace: epinefrina, analgésicos e interações\".\n\n**Prevenção na consulta (p. 250 e Box 14.8, E).** O objetivo principal, em quem usa insulina, é evitar o choque insulínico durante a consulta:\n- dizer ao paciente que tome a dose usual de insulina e faça refeições normais antes da consulta, que em geral é melhor de manhã;\n- na chegada, confirmar que tomou a insulina e o café da manhã;\n- instruir o paciente a avisar o dentista se, em qualquer momento da consulta, sentir sintomas de reação à insulina;\n- usar o glicosímetro do consultório para garantir bom controle da glicemia;\n- ter à mão uma fonte de açúcar: suco de laranja, cobertura de bolo ou refrigerante não dietético.\n\n**Quando consultar o médico (p. 250).** Quem não consultou o médico recentemente (nos 6 meses anteriores), teve episódios frequentes de choque insulínico ou relata sinais e sintomas de diabetes pode ter doença instável: encaminhe para avaliação ou consulte o médico sobre o estado atual. No diabético lábil, a consulta estreita com o médico vem antes de qualquer tratamento (p. 251)."
+    },
+    {
+      "id": "lf-hipoglicemia-tratamento",
+      "titulo": "Little e Falace: o que o livro diz do tratamento da reação",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Choque insulínico, Tratamento da reação, Box 14.6, p. 247",
+      "texto": "Esta seção é do Little e Falace (autores dos EUA), cap. 14; o que está abaixo é só o que ele diz, sem quantidades.\n\n**Tratamento (p. 247).** O livro diz que o choque insulínico se corrige dando ao paciente suco de fruta adoçado ou qualquer coisa com açúcar (por exemplo, cobertura de bolo). No estágio grave, com inconsciência, diz que o melhor é solução de glicose intravenosa, e que glucagon ou epinefrina podem dar alívio transitório. O Box 14.6 separa o choque em três estágios (leve: fome, fraqueza, taquicardia, palidez, sudorese, parestesias; moderado: incoerência, falta de cooperação, beligerância; grave: inconsciência, movimentos tônicos ou clônicos, hipotensão, hipotermia).\n\n**O que o capítulo não traz.** Volumes, gramas, concentração ou dose de glicose, glucagon ou epinefrina. Os passos e as doses dos outros livros estão nas seções do Malamed, do Andrade e Ranali e do Varellis."
+    },
+    {
+      "id": "ar-hipoglicemia",
+      "titulo": "Andrade e Ranali: hipoglicemia, definição e prevenção",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68",
+      "texto": "Esta seção é do Andrade e Ranali (obra brasileira organizada por Eduardo Dias de Andrade e José Ranali), capítulo 6; os valores são dele.\n\n**Definição do livro:** hipoglicemia é a glicose abaixo de 60 mg/dL (o livro escreve \"60 mg/100 mL ou 60 mg/dL\"). O problema é o fornecimento inadequado de glicose ao cérebro, de discreto mal-estar ao coma e, mais raramente, à morte.\n\n**Quando ocorre.** Ocorre mais em diabéticos, mas também em não diabéticos. O livro aponta como causa mais frequente o excesso de bebida alcoólica; também o jejum e o esforço físico extenuante. Aspirina, anti-inflamatórios não esteroides e betabloqueadores não cardiosseletivos também predispõem. É a complicação aguda mais frequente do diabético, sobretudo no tipo I: a consciência pode se perder minutos após dose excessiva de insulina. No tipo II com sulfonilureias de ação longa, os sintomas se instalam mais devagar.\n\n**Sinais.** No início (epinefrina e glucagon): ansiedade, taquicardia, sudorese, palidez, frio, pupilas dilatadas, fome, náusea; respiração, pulso e pressão costumam estar normais. Mais tarde (cérebro sem glicose): alteração de humor, irritabilidade, fraqueza, tontura, fala difícil, falta de coordenação (às vezes confundida com embriaguez), coma e convulsão. Confirme com o glicosímetro: gota de sangue da polpa digital na fita, resultado em cerca de 15 a 30 segundos.\n\n**Prevenção (10 itens do livro, resumidos):**\n- investigue história de hipoglicemia, mesmo em não diabético; oriente a não vir em jejum;\n- no diabético, obtenha dados do controle (último exame de glicemia ou hemoglobina glicada, que o livro define como a média das glicemias dos últimos 60 a 90 dias; medicação contínua; complicações recentes) e confirme com o médico se preciso; certifique-se de que tomou a medicação;\n- **nunca modifique a dose de hipoglicemiante oral ou de insulina**: é atribuição exclusiva do médico;\n- de preferência, marque no início da manhã, com mais sessões, todas curtas; em sessão longa, faça um intervalo e ofereça chá, suco ou bolacha;\n- se o procedimento limitar a mastigação depois, converse antes com o médico sobre a dieta e/ou a dose;\n- paciente muito ansioso: considere benzodiazepínico por via oral ou óxido nitroso e oxigênio, se for habilitado;\n- mantenha solução açucarada à disposição nas sessões de diabéticos."
+    },
+    {
+      "id": "ar-protocolo",
+      "titulo": "Andrade e Ranali: protocolo da hipoglicemia aguda",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69",
+      "texto": "Nesta seção, as condutas e a dose de glicose são do Andrade e Ranali, capítulo 6. A escolha depende do estado de consciência.\n\n**Paciente consciente e responsivo:**\n1. Se agir de modo anormal (como embriagado, mas sem cheiro de álcool), interrompa o atendimento e retire o material da boca.\n2. Posição confortável.\n3. Carboidrato por via oral (água com açúcar, tabletes de glicose, suco de laranja ou refrigerante) até os sintomas desaparecerem.\n4. Mantenha em observação por 20 a 30 minutos antes de dispensar com acompanhante adulto, e encaminhe para avaliação médica.\n5. Investigue as causas para prevenir a recorrência.\n\n**Paciente inconsciente (não responsivo):**\n1. Chame o serviço móvel de urgência.\n2. Deite-o de costas, com os pés elevados.\n3. Libere as vias aéreas e avalie respiração e pulso.\n4. Se for hipoglicemia severa e essas medidas não surtirem efeito, o livro manda administrar **uma ampola com 10 mL de solução de glicose a 25%, por via intravenosa, em injeção lenta**, se o profissional estiver habilitado a fazer injeções intravenosas.\n5. Enquanto aguarda, monitore respiração e pulso.\n6. À chegada do socorro, encaminhe para avaliação médica; o livro diz que em geral o tratamento inclui glucagon por via intramuscular e/ou glicose por via intravenosa.\n7. Investigue as causas.\n\nEsta é a conduta do Andrade e Ranali para o paciente inconsciente: o que o livro manda é a glicose intravenosa, se o profissional for habilitado, e o encaminhamento."
+    },
+    {
+      "id": "vr-classificacao-risco",
+      "titulo": "Varellis: classificação e categorias de risco",
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285",
+      "texto": "Esta seção é do capítulo 34 do Varellis, um **manual prático organizado por Maria Lucia Zarvos Varellis** (o clássico de emergências, o Malamed, vem nas seções anteriores). Os números abaixo são dele.\n\n**Tipos.** Tipo I (insulinodependente, infantojuvenil): início antes dos 40 anos, maior instabilidade, tendência à cetose e à cetoacidose, em geral magros, precisam de insulina. Tipo II (da maturidade): após os 40 anos, peso normal ou obesos, maior estabilidade, controle com dieta e/ou hipoglicemiantes orais. Há também diabetes de origem pancreática, induzido por medicamentos e ligado a síndromes genéticas. A mulher que teve diabetes na gestação, ou cujo bebê nasceu com mais de 4 kg, tem propensão a desenvolver a doença depois.\n\n**Glicemia em jejum (como o livro escreve):** normal abaixo de 99 mg/dL; alterada de 100 a 125 mg/dL; diabetes acima de 126 mg/dL.\n\n**Avaliação.** Quem tem sinais, sintomas ou história familiar faz exame de glicemia; se alterada, vai ao médico. Quem já tem diagnóstico: pesquise o início, o tipo de controle (dieta, hipoglicemiante, insulina), os exames, a história de cetoacidose e hipoglicemia e as complicações.\n\n**Três categorias de risco:**\n- **Pequeno:** regime estável, bom controle, sem sintomas, sem cetoacidose ou hipoglicemia, sem complicação, glicemia abaixo de 150 mg/dL, sem cetonúria.\n- **Médio:** regime estável, controle razoável, sintomas ocasionais, sem episódio recente de hipoglicemia ou cetoacidose, poucas complicações, glicemia abaixo de 250 mg/dL, sem cetonúria.\n- **Grande:** controle deficiente, sintomático, hipoglicemia e cetoacidose frequentes, várias complicações, glicemia acima de 250 mg/dL, cetonúria ocasional.\n\n**Conduta por categoria.** O livro diz que não há \"receita de bolo\". Pequeno risco: procedimentos clínicos não cirúrgicos; os cirúrgicos, com adequação da insulina pelo médico. Risco médio: clínicos não cirúrgicos; cirurgia menor exige ajuste da insulina pelo médico; cirurgia maior, além do ajuste, estudar possível internação. **Grande risco: adiar o tratamento até equilibrar as condições metabólicas**, com controle enérgico das infecções bucais nesse período."
+    },
+    {
+      "id": "vr-bucal-periodonto",
+      "titulo": "Varellis: boca e periodonto no diabético",
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Achados bucais, Tabela 34.1, DM e periodontopatias, p. 285–286",
+      "texto": "Esta seção é do Varellis (manual organizado por Maria Lucia Zarvos Varellis, cap. 34).\n\n**Achados bucais descritos:**\n- **Cárie** de evolução rápida (mais glicose no fluido gengival, que pode alterar a placa) e **cálculo** (mais glicose na saliva e menor fluxo salivar).\n- **Periodontite:** gengiva hiperêmica, que sangra sozinha, com aumento de volume, consistência mole, cor azulada e ulcerações; sensibilidade à percussão, processos apicais com fístula, mobilidade precoce dos dentes decíduos e erupção tardia dos permanentes. Na dentição permanente a evolução pode ser rápida, com perda óssea e perda espontânea de dentes. A perda óssea no tipo 1 costuma ser maior que no tipo II, segundo Erickson (citado pelo livro).\n- **Xerostomia:** mucosa seca, mais suscetível a infecção oportunista (Candida albicans), placa e retenção de alimentos, cárie e periodontite, ardência e alteração do paladar.\n- Aumento da parótida (provável alteração da membrana basal dos ductos, segundo o livro) e alteração do paladar (neuropatia diabética ou desordem dos receptores de glicose).\n\n**Tabela 34.1** (adaptada pelo livro de uma revista de 2013): entre portadores de diabetes, periodontite 77%, gengivite 54%, raiz residual 39%, xerostomia 37%, abscesso periodontal 28%, hiperplasia gengival 21%, prótese 54%, queilite angular 19%, hálito cetônico 19%, candidíase 18%, herpes 5%; sem alteração bucal, 4%.\n\n**Diabetes e periodontite.** O livro diz haver relação estabelecida entre o diabetes e a doença periodontal, sem dizer em que direção. A causa primária da periodontite é a placa bacteriana; o papel do diabetes não está descrito, mas as alterações fisiológicas do diabético favorecem a doença: defesas alteradas (entre elas, neutrófilos com menor aderência e fagocitose) e microangiopatia, com menos nutrientes e oxigênio e menor reação à infecção.\n\nO capítulo descreve o caminho do diabetes para o periodonto; o efeito da periodontite sobre a glicemia não é detalhado nele."
+    },
+    {
+      "id": "vr-atendimento",
+      "titulo": "Varellis: cuidados no atendimento e medicamentos",
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288",
+      "texto": "Esta seção é do Varellis (manual organizado por Maria Lucia Zarvos Varellis, cap. 34).\n\n**Cuidados que o livro lista:**\n- evitar atendimento prolongado, tranquilizar e evitar a dor;\n- reforçar o uso do hipoglicemiante oral ou da insulina e manter a dieta normal anterior ao tratamento;\n- consultas curtas no meio da manhã, com tranquilizante ou sedação complementar quando necessário e prescrito pelo médico;\n- se a consulta demorar, interromper para uma refeição leve (suco); se houver dificuldade de mastigar depois, alimentos pastosos e líquidos;\n- reduzir ao mínimo a infecção, com orientação de escovação, fio dental, bochechos fluorados e com clorexidina, alimentação rica em fibras e dieta hipocalórica;\n- consultar o médico sobre a necessidade de adequar a dose de insulina;\n- pedir sempre a glicemia em jejum antes de qualquer procedimento e consulta médica prévia; jejum desnecessário para cirurgia com anestesia local é fator predisponente de hipoglicemia, por isso oriente sobre a necessidade ou não de jejum.\n\n**Antibiótico.** O livro manda usar profilaxia com antibiótico nos pós-operatórios cirúrgicos e diz que diversos autores preconizam cobertura antibiótica com infecção oral, extração e antes de qualquer procedimento cirúrgico.\n\n**Vasoconstritor.** O capítulo traz duas orientações: na p. 284–285, não usar anestésico com vasoconstritor adrenérgico (hiperglicemiante); na p. 288, evitar vasoconstritores derivados de epinefrina, mas usar sempre algum vasoconstritor, porque o anestésico sem ele controla mal a dor e libera epinefrina endógena sob estresse.\n\n**Analgésicos.** Cuidado com a dipirona (discretamente hiperglicemiante). Não usar ácido acetilsalicílico, que pode somar efeito com a insulina e provocar choque hipoglicêmico.\n\nO medo do dentista e o estresse liberam catecolaminas (epinefrina e norepinefrina), de ação hiperglicemiante comprovada, e podem favorecer infecção e descompensação."
+    },
+    {
+      "id": "vr-crises",
+      "titulo": "Varellis: choque insulínico e coma diabético",
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Complicações agudas, Hipoglicemia, Complicações durante o tratamento (choque insulínico e coma diabético), p. 283–284 e 287",
+      "texto": "Esta seção é do Varellis (manual organizado por Maria Lucia Zarvos Varellis, cap. 34). O manual chama a hipoglicemia de choque insulínico.\n\n**Hipoglicemia: causas.** Omitir ou atrasar refeição ou comer pouco; vômito e diarreia; exercício excessivo; dose excessiva de insulina ou de hipoglicemiante oral; excesso de álcool, que impede o fígado de liberar glicose. É distúrbio evitável.\n\n**Sinais.** Náuseas, fome, desânimo, irritabilidade, ansiedade, sudorese fria, taquicardia, tremores, hipotensão, hipotermia, midríase, perda do controle dos esfíncteres, convulsões e coma. A crise pode evoluir depressa, com lesão irreversível no cérebro ou na retina.\n\n**Conduta.**\n- **Consciente:** um copo de água ou xícara de chá bem adoçado, uma bala ou um bombom; vale açúcar comum, doces, suco de fruta e leite. Bebida para diabéticos, sem açúcar, não adianta.\n- **Inconsciente:** chame o médico imediatamente. Não dê líquido; remova para o pronto-socorro, onde se aplica glicose ou glucagon injetáveis. Esta é a conduta do Varellis (manual).\n- Diabéticos devem carregar balas ou bombons e um cartão de identificação; parentes e amigos devem ser orientados.\n\n**Coma diabético.** Sinais: desidratação, poliúria seguida de oligúria, hálito cetônico, náuseas, vômitos, respiração rápida e profunda (Kussmaul), fraqueza, febre, taquicardia, hipotensão e coma. Conduta: manter as funções vitais, comunicar o médico e remover ao hospital, com soro fisiológico rápido se houver desidratação. **Todo diabético em uso de insulina ou hipoglicemiante que esteja em coma, sem diagnóstico, é tratado inicialmente como choque insulínico** até o diagnóstico ser estabelecido, porque o coma insulínico pode causar lesão cerebral irreversível.\n\n**Outras complicações agudas descritas:** cetoacidose (mais frequente em quem usa insulina; hálito cetônico, respiração rápida e profunda) e coma hiperosmolar (não cetótico, em geral no tipo 2, instalação insidiosa, de torpor a coma profundo)."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Malamed (critérios da ADA, EUA), qual glicemia de jejum fecha o critério de diabetes?",
+      "verso": "126 mg/dL ou mais, em jejum de mais de 8 horas. O diagnóstico exige confirmação por segunda medição em outro dia.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Diabetes Melito, abertura, Classificação da diabetes, Tipos de diabetes, Quadro 17-2 e Tabela 17-2, p. 254–255 e 258–259"
+    },
+    {
+      "id": "f03",
+      "frente": "Paciente consciente com sinais de hiperglicemia: qual a conduta do Malamed?",
+      "verso": "É ASA 4: não recebe tratamento odontológico até consultar o médico. A consulta costuma terminar em atendimento imediato ou internação.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275"
+    },
+    {
+      "id": "f07",
+      "frente": "Tabela 17-8 do Malamed: que A1c e glicose pedem consulta médica antes e nenhum atendimento eletivo?",
+      "verso": "A1c acima de 9,5% e glicose acima de 400 mg/dL (mudança de +2 no estado físico): só cuidados de emergência.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269"
+    },
+    {
+      "id": "f08",
+      "frente": "Hipoglicemia com paciente consciente e cooperativo: qual o tratamento do Malamed e em que quantidade?",
+      "verso": "Carboidrato oral, cerca de 100 mL a cada 5 a 10 minutos até os sintomas passarem. Uma porção de 150 a 350 mL de refrigerante tem 20 a 40 g de glicose.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+    },
+    {
+      "id": "f09",
+      "frente": "Depois de reverter a hipoglicemia no consciente, por quanto tempo o Malamed manda observar?",
+      "verso": "Cerca de 1 hora antes de liberar. Pode sair sem escolta se o dentista julgar que se recuperou totalmente; na dúvida, com adulto responsável.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+    },
+    {
+      "id": "f10",
+      "frente": "Glucagon na hipoglicemia, segundo o Malamed: dose, via e tempo de resposta?",
+      "verso": "1 mg, por via intramuscular ou intravenosa. No quadro do paciente consciente, o livro diz que a resposta costuma vir em 10 a 15 minutos após a injeção intramuscular; no texto do inconsciente, dá início em cerca de 10 a 20 minutos e pico em 30 a 60 minutos (a resposta varia).",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+    },
+    {
+      "id": "f11",
+      "frente": "Dextrose a 50% na hipoglicemia, segundo o Malamed: quanto, como e quando responde?",
+      "verso": "50 mL por via intravenosa, em 2 a 3 minutos. A resposta costuma vir em cerca de 5 minutos.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+    },
+    {
+      "id": "f12",
+      "frente": "Como o Malamed manda tratar o diabético que perde a consciência na cadeira, sem outra causa óbvia?",
+      "verso": "Como hipoglicêmico, a menos que outra causa óbvia seja estabelecida. Posição supina com pernas elevadas e vias aéreas pérvias (o passo do suporte básico geralmente exigido); chamar assistência médica se não responder.",
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Quadro 17-10, p. 277–278"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o Andrade e Ranali, na hipoglicemia severa com paciente inconsciente, se as medidas iniciais não surtirem efeito e o profissional for habilitado a injeções intravenosas, qual a medida?",
+      "verso": "Uma ampola com 10 mL de solução de glicose a 25%, por via intravenosa, em injeção lenta.",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Andrade e Ranali, a partir de que valor se fala em hipoglicemia?",
+      "verso": "Glicose abaixo de 60 mg/dL (o livro escreve 60 mg/100 mL ou 60 mg/dL).",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Andrade e Ranali, o dentista pode mudar a dose de insulina ou de hipoglicemiante oral?",
+      "verso": "Nunca. A alteração da dose é atribuição exclusiva dos médicos; o dentista conversa com o médico quando o procedimento afetar a alimentação.",
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo o Varellis (manual), qual a conduta no paciente de grande risco?",
+      "verso": "Adiar o tratamento até equilibrar as condições metabólicas, com controle enérgico das infecções bucais nesse período. Grande risco: glicemia acima de 250 mg/dL, hipoglicemia e cetoacidose frequentes, várias complicações.",
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285"
+    },
+    {
+      "id": "f17",
+      "frente": "Segundo o Little e Falace, em que sentidos vai a relação entre diabetes e doença periodontal, e o que o capítulo diz sobre o efeito de tratar a periodontite na glicemia?",
+      "verso": "Nos dois: o diabetes afeta a saúde bucal e a saúde bucal afeta o diabetes (bidirecional). Saúde periodontal ruim se associa a controle glicêmico ruim (Box 14.8, F). O capítulo não traz o efeito do tratamento periodontal sobre a glicemia ou a HbA1c.",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Importância para o dentista, p. 230; Box 14.8, F, seguimento, p. 249"
+    },
+    {
+      "id": "f18",
+      "frente": "Tabela 14.3 do Little e Falace: quais os quatro critérios alternativos de diabetes?",
+      "verso": "Jejum de 126 mg/dL ou mais em duas ocasiões; sintomas mais glicemia casual de 200 mg/dL ou mais; 200 mg/dL ou mais às 2 horas de 75 g no TOTG; A1C de 6,5% ou mais.",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Critérios diagnósticos, Tabela 14.3, p. 236"
+    },
+    {
+      "id": "f19",
+      "frente": "Como o Box 14.8 do Little e Falace define diabetes \"bem controlado\" na consulta?",
+      "verso": "Glicemia de jejum de 70 a 200 mg/dL, sem complicações (pós-infarto, doença renal, insuficiência cardíaca, angina sintomática, arritmia, AVC, idade avançada), pressão abaixo de 180/110 mmHg e capacidade funcional acima de 4 METs. O quadro não cita HbA1c.",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé, p. 249"
+    },
+    {
+      "id": "f20",
+      "frente": "Segundo o Box 14.8 do Little e Falace, que analgésicos evitar em quem toma sulfonilureia, e por quê?",
+      "verso": "Aspirina e outros AINEs, porque podem piorar a hipoglicemia. O texto da p. 248 diz que podem potencializar a sulfonilureia e manda usá-los com critério.",
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Box 14.8, A, p. 249; Analgésicos, p. 248"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q02",
+      "enunciado": "Paciente com tipo 1, A1c de 10,2% e glicemia capilar de 420 mg/dL na consulta, para uma extração eletiva. Segundo a Tabela 17-8 do Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Pode ser aceito para o tratamento, mas com maior chance de hipoglicemia.",
+          "correta": false,
+          "justificativa": "Esse comentário é da linha de glicose abaixo de 70 mg/dL; aqui a glicose é 420 mg/dL.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269"
+        },
+        {
+          "texto": "Consulta médica antes do tratamento; atendimento eletivo não indicado, só cuidados de emergência.",
+          "correta": true,
+          "justificativa": "A linha de A1c acima de 9,5% e glicose acima de 400 mg/dL (mudança de +2) manda consultar o médico antes e não indica atendimento eletivo.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269"
+        },
+        {
+          "texto": "Avaliar com cuidado e, com consulta médica sugerida, realizar o procedimento eletivo.",
+          "correta": false,
+          "justificativa": "Esse é o comentário da linha de 8,5 a 9,5%; com A1c de 10,2% a tabela passa a não indicar atendimento eletivo.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269"
+        },
+        {
+          "texto": "Pode ser aceito sem restrição, desde que tome o café da manhã normal.",
+          "correta": false,
+          "justificativa": "O comentário \"pode ser aceito\" é das linhas de glicose de 70 a 110 e de 110 a 175 mg/dL; a glicose de 420 mg/dL e a A1c de 10,2% estão na linha em que o atendimento eletivo não é indicado.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269"
+        }
+      ],
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Prevenção, Tabelas 17-6 a 17-9, p. 268–269",
+      "secao": "risco-a1c",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Mulher de 38 anos, com tipo 1, está confusa e irritada, com suor frio e taquicardia, no meio de uma restauração; sem cheiro de álcool. Ela está consciente, entende o que se diz e consegue engolir. Segundo o Malamed, qual a conduta inicial?",
+      "alternativas": [
+        {
+          "texto": "Glucagon, 1 mg, por via intramuscular.",
+          "correta": false,
+          "justificativa": "O glucagon entra quando os carboidratos orais não revertem ou o paciente não coopera; esta paciente está consciente e coopera.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+        },
+        {
+          "texto": "Dextrose a 50%, 50 mL por via intravenosa, em 2 a 3 minutos.",
+          "correta": false,
+          "justificativa": "A via parenteral é reservada ao paciente que não responde ao carboidrato oral ou se recusa a ingeri-lo.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+        },
+        {
+          "texto": "Interromper o procedimento e dar carboidrato oral, cerca de 100 mL de refrigerante a cada 5 a 10 minutos, até os sintomas passarem.",
+          "correta": true,
+          "justificativa": "Para o paciente consciente e cooperativo com sinais de hipoglicemia, o livro indica o carboidrato oral como tratamento de escolha, em doses de cerca de 100 mL a cada 5 a 10 minutos.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+        },
+        {
+          "texto": "Deitá-la em posição supina com as pernas elevadas e aguardar a recuperação sem oferecer nada por via oral.",
+          "correta": false,
+          "justificativa": "Para o paciente consciente a posição é a de conforto (em geral sentado ereto); a posição supina com pernas elevadas é do inconsciente.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277"
+        }
+      ],
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente consciente, Quadro 17-9, p. 275–277",
+      "secao": "hipoglicemia-consciente",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem diabético, usuário de insulina, perde a consciência na cadeira. Não há medidor de glicose à mão, o consultório tem ampola de glucagon e dextrose a 50%, e a equipe de emergência foi chamada. Segundo o Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Interromper o tratamento, manter o paciente deitado e apenas aguardar a recuperação espontânea, sem dar carboidrato.",
+          "correta": false,
+          "justificativa": "O livro manda tratar o diabético inconsciente como hipoglicêmico e dar carboidrato pela via mais eficaz disponível (dextrose a 50% IV ou glucagon IM); aguardar sem carboidrato não faz parte da conduta.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Quadro 17-10, p. 277–278"
+        },
+        {
+          "texto": "Aplicar a insulina do paciente, por tratar-se de provável hiperglicemia.",
+          "correta": false,
+          "justificativa": "O diabético inconsciente é tratado como hipoglicêmico, a menos que outra causa óbvia seja estabelecida; o tratamento é dar carboidrato, não insulina.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Figura 17-8, Quadro 17-10, p. 270 e 277–278"
+        },
+        {
+          "texto": "Aplicar adrenalina 1:1.000, 0,5 mg por via intramuscular, como primeira escolha.",
+          "correta": false,
+          "justificativa": "A adrenalina é a opção só quando não há glucagon nem dextrose a 50% disponíveis; aqui ambos estão no consultório.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Figura 17-8, Quadro 17-10, p. 270 e 277–278"
+        },
+        {
+          "texto": "Manter vias aéreas pérvias e dar glucagon, 1 mg por via intramuscular, ou dextrose a 50% por via intravenosa, mantendo o suporte básico até a equipe chegar.",
+          "correta": true,
+          "justificativa": "É o que o livro indica ao diabético inconsciente: glucagon IM ou dextrose a 50% IV, tratando-o como hipoglicêmico.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Figura 17-8, Quadro 17-10, p. 270 e 277–278"
+        }
+      ],
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hipoglicemia, paciente inconsciente, Figura 17-8, Quadro 17-10, p. 270 e 277–278",
+      "secao": "hipoglicemia-inconsciente",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente de 24 anos, tipo 1, chega consciente, com pele quente e seca, face corada, respiração profunda e rápida, hálito de acetona e glicemia capilar de 320 mg/dL. Segundo o Malamed, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Dar carboidrato oral, cerca de 100 mL de refrigerante a cada 5 a 10 minutos.",
+          "correta": false,
+          "justificativa": "Pele quente e seca e hálito de acetona apontam hiperglicemia; o carboidrato oral é o tratamento da hipoglicemia, que tem pele fria e úmida.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275"
+        },
+        {
+          "texto": "Aplicar glucagon, 1 mg por via intramuscular, e prosseguir com o procedimento.",
+          "correta": false,
+          "justificativa": "O glucagon trata a hipoglicemia; o quadro descrito é de hiperglicemia, e o livro não libera o tratamento odontológico.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275"
+        },
+        {
+          "texto": "Não tratar até consultar o médico: é ASA 4, e a consulta costuma terminar em atendimento médico imediato ou internação.",
+          "correta": true,
+          "justificativa": "O paciente com sinais e sintomas de hiperglicemia é risco ASA 4 e não recebe tratamento odontológico até um médico ser consultado.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275"
+        },
+        {
+          "texto": "Realizar o procedimento sob anestésico de ação curta, pois diabéticos toleram bem a hiperglicemia.",
+          "correta": false,
+          "justificativa": "Embora o diabético tolere melhor a hiperglicemia transitória que a hipoglicemia, o livro classifica o paciente com sinais de hiperglicemia como ASA 4, sem tratamento odontológico.",
+          "fonte": "malamed7-cap17",
+          "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275"
+        }
+      ],
+      "fonte": "malamed7-cap17",
+      "onde": "cap. 17, Tratamento da hiperglicemia, Quadro 17-8, p. 273–275",
+      "secao": "hiperglicemia-conduta",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo o Andrade e Ranali, um paciente diabético está inconsciente por hipoglicemia severa. O serviço móvel de urgência foi chamado, o paciente está deitado de costas com os pés elevados, as vias aéreas estão liberadas e as medidas iniciais do protocolo não surtiram efeito. O dentista é habilitado a injeções intravenosas. Qual a medida seguinte do livro?",
+      "alternativas": [
+        {
+          "texto": "Sentar o paciente e oferecer suco de laranja por via oral até os sintomas desaparecerem.",
+          "correta": false,
+          "justificativa": "Carboidrato por via oral até os sintomas desaparecerem é a conduta do paciente consciente e responsivo no livro; este paciente está inconsciente e o protocolo dele segue outros passos.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69"
+        },
+        {
+          "texto": "Observar por 20 a 30 minutos e dispensar com um acompanhante adulto.",
+          "correta": false,
+          "justificativa": "A observação de 20 a 30 minutos e a dispensa com adulto são do paciente consciente; o inconsciente aguarda o socorro e é encaminhado.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69"
+        },
+        {
+          "texto": "Aguardar o socorro apenas monitorando respiração e pulso, sem outra medida.",
+          "correta": false,
+          "justificativa": "Monitorar respiração e pulso é o que o livro manda enquanto se aguarda; para a hipoglicemia severa em que as medidas iniciais falham, ele manda administrar glicose por via intravenosa, se o profissional for habilitado.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69"
+        },
+        {
+          "texto": "Administrar uma ampola de 10 mL de glicose a 25% por via intravenosa, em injeção lenta.",
+          "correta": true,
+          "justificativa": "O livro manda, se as medidas iniciais falharem e o profissional for habilitado, uma ampola com 10 mL de glicose a 25% por via intravenosa lenta.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69"
+        }
+      ],
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Protocolo de atendimento, Figura 6.2, p. 68–69",
+      "secao": "ar-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o Andrade e Ranali, um paciente com tipo 1, em uso de insulina, fará uma cirurgia extensa que o impedirá de mastigar por alguns dias, e o dentista teme hipoglicemia. Qual a conduta do livro?",
+      "alternativas": [
+        {
+          "texto": "Reduzir por conta própria a dose de insulina nos dias de dieta pastosa.",
+          "correta": false,
+          "justificativa": "O livro diz que nunca se modifica a dose de insulina ou de hipoglicemiante oral: é atribuição exclusiva dos médicos.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+        },
+        {
+          "texto": "Orientar o paciente a vir em jejum para o procedimento, para evitar náusea.",
+          "correta": false,
+          "justificativa": "O livro manda orientar a não vir em jejum.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+        },
+        {
+          "texto": "Agendar a cirurgia no fim da tarde, depois de o paciente almoçar e jantar normalmente.",
+          "correta": false,
+          "justificativa": "O livro prefere o início da manhã, com sessões curtas.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+        },
+        {
+          "texto": "Conversar antes com o médico sobre alterar a dieta e/ou ajustar a dose, preferindo o início da manhã e sessões curtas.",
+          "correta": true,
+          "justificativa": "Para procedimentos que limitem a mastigação, o livro manda conversar antes com o médico sobre a dieta e/ou a dose, e prefere o início da manhã com sessões curtas.",
+          "fonte": "ar3-cap06",
+          "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68"
+        }
+      ],
+      "fonte": "ar3-cap06",
+      "onde": "cap. 6, Alteração ou Perda da Consciência, Hipoglicemia, Significado e risco clínico, Ocorrência, Prevenindo, Figura 6.1, p. 66–68",
+      "secao": "ar-hipoglicemia",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o Varellis (manual), um paciente tem glicemia de 270 mg/dL, cetonúria ocasional, hipoglicemias e cetoacidoses frequentes e várias complicações, e precisa de uma extração. Qual a categoria de risco e a conduta?",
+      "alternativas": [
+        {
+          "texto": "Pequeno risco: procedimentos clínicos não cirúrgicos, e cirúrgicos com adequação da insulina pelo médico.",
+          "correta": false,
+          "justificativa": "O pequeno risco tem glicemia abaixo de 150 mg/dL, sem cetoacidose, sem hipoglicemia e sem complicação; este paciente tem tudo isso.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285"
+        },
+        {
+          "texto": "Risco médio: cirurgia menor com ajuste da insulina pelo médico.",
+          "correta": false,
+          "justificativa": "O risco médio tem glicemia abaixo de 250 mg/dL e sem episódio recente de hipoglicemia ou cetoacidose; aqui a glicemia é de 270 mg/dL e os episódios são frequentes.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285"
+        },
+        {
+          "texto": "Grande risco: adiar o tratamento até equilibrar as condições metabólicas, com controle enérgico das infecções bucais nesse período.",
+          "correta": true,
+          "justificativa": "Controle deficiente, glicemia acima de 250 mg/dL, hipoglicemia e cetoacidose frequentes e várias complicações são o grande risco, cuja diretriz é adiar o tratamento até equilibrar as condições.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285"
+        },
+        {
+          "texto": "Risco médio: cirurgia maior com ajuste da insulina e estudo de internação.",
+          "correta": false,
+          "justificativa": "Essa conduta é do risco médio; os dados do paciente (glicemia acima de 250 mg/dL e episódios frequentes) são os do grande risco.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285"
+        }
+      ],
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Classificação, Exames laboratoriais, Avaliação do paciente, Riscos, Tratamento odontológico, p. 281–285",
+      "secao": "vr-classificacao-risco",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o Varellis (manual), um paciente em uso de insulina fará uma cirurgia curta sob anestesia local. Qual orientação o livro dá?",
+      "alternativas": [
+        {
+          "texto": "Manter jejum prolongado antes da cirurgia, por precaução.",
+          "correta": false,
+          "justificativa": "O livro diz que o jejum desnecessário para cirurgia com anestesia local é fator predisponente de hipoglicemia, e manda orientar sobre a necessidade ou não de jejum.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288"
+        },
+        {
+          "texto": "Fazer uma sessão longa para concluir tudo de uma vez.",
+          "correta": false,
+          "justificativa": "O livro manda evitar atendimento prolongado e prefere consultas curtas.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288"
+        },
+        {
+          "texto": "Prescrever ácido acetilsalicílico para a dor depois da cirurgia.",
+          "correta": false,
+          "justificativa": "O livro manda não usar ácido acetilsalicílico, que pode somar efeito com a insulina e provocar choque hipoglicêmico.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288"
+        },
+        {
+          "texto": "Pedir a glicemia em jejum antes do procedimento, com consulta médica prévia, e orientar sobre a necessidade ou não de jejum.",
+          "correta": true,
+          "justificativa": "É o que o livro manda: glicemia em jejum antes de qualquer procedimento e consulta médica prévia, com orientação sobre o jejum.",
+          "fonte": "varellis3-cap34",
+          "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288"
+        }
+      ],
+      "fonte": "varellis3-cap34",
+      "onde": "cap. 34, Diabetes Melito, Tratamento odontológico, Terapia medicamentosa, p. 284–285 e 287–288",
+      "secao": "vr-atendimento",
+      "figura": null
+    },
+    {
+      "id": "q11",
+      "enunciado": "Segundo o Little e Falace (Box 14.8 e Fig. 14.11), um homem de 58 anos com diabetes tipo 2 chega para uma restauração eletiva, assintomático, e a glicemia de jejum no glicosímetro do consultório é de 245 mg/dL. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Dar carboidratos e iniciar o procedimento, porque a glicemia de jejum está fora da faixa esperada.",
+          "correta": false,
+          "justificativa": "A Fig. 14.11 manda dar carboidratos (ou adiar o eletivo) com glicemia abaixo de 70 mg/dL; com 245 mg/dL o caso é o da caixa acima de 200 mg/dL.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé, p. 249; Fig. 14.11, p. 250"
+        },
+        {
+          "texto": "Atender sem precauções especiais, porque 245 mg/dL cai na faixa de diabetes bem controlado do Box 14.8.",
+          "correta": false,
+          "justificativa": "A nota do Box 14.8 define bem controlado como glicemia de jejum de 70 a 200 mg/dL; 245 mg/dL está acima dessa faixa.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé, p. 249; Fig. 14.11, p. 250"
+        },
+        {
+          "texto": "Adiar o procedimento eletivo e encaminhar o paciente ao médico.",
+          "correta": true,
+          "justificativa": "A Fig. 14.11 manda, com glicemia de jejum acima de 200 mg/dL, adiar o tratamento eletivo e dar o hipoglicemiante prescrito pelo médico do paciente ou encaminhá-lo ao médico.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé, p. 249; Fig. 14.11, p. 250"
+        },
+        {
+          "texto": "Fazer a restauração com monitoração contínua da glicemia durante o procedimento, sem adiar.",
+          "correta": false,
+          "justificativa": "A Fig. 14.11 manda, com glicemia de jejum acima de 200 mg/dL, adiar o tratamento eletivo e dar o hipoglicemiante prescrito pelo médico ou encaminhar o paciente ao médico.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Box 14.8, A, p. 249; Fig. 14.11, p. 250"
+        }
+      ],
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Box 14.8, nota de rodapé, p. 249; Fig. 14.11, p. 250",
+      "secao": "lf-bem-controlado",
+      "figura": null
+    },
+    {
+      "id": "q12",
+      "enunciado": "Segundo o Little e Falace, uma paciente de 62 anos com diabetes tipo 2 e hipertensão fará uma extração com anestésico local com epinefrina 1:100.000. Qual a orientação do Box 14.8?",
+      "alternativas": [
+        {
+          "texto": "Usar o anestésico de rotina, sem limite de tubetes, porque o paciente diabético tolera bem a epinefrina.",
+          "correta": false,
+          "justificativa": "O texto diz que o uso rotineiro é bem tolerado na maioria; com diabetes mais hipertensão, o Box 14.8 limita a epinefrina a dois tubetes de 1:100.000.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250; Box 14.8, A, p. 249"
+        },
+        {
+          "texto": "Limitar a epinefrina a no máximo dois tubetes de 1:100.000.",
+          "correta": true,
+          "justificativa": "Com hipertensão concomitante, o Box 14.8 limita a epinefrina a no máximo dois tubetes de 1:100.000.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250; Box 14.8, A, p. 249"
+        },
+        {
+          "texto": "Limitar a epinefrina a no máximo quatro tubetes de 1:100.000.",
+          "correta": false,
+          "justificativa": "O limite do Box 14.8 para esse paciente é de dois tubetes de 1:100.000; quatro tubetes passa do limite.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250; Box 14.8, A, p. 249"
+        },
+        {
+          "texto": "Dar carboidrato antes da injeção, porque a epinefrina reduz a glicemia.",
+          "correta": false,
+          "justificativa": "O livro diz que a epinefrina tem efeito farmacológico oposto ao da insulina, e que a glicemia pode subir com o seu uso.",
+          "fonte": "lf9-cap14",
+          "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250"
+        }
+      ],
+      "fonte": "lf9-cap14",
+      "onde": "cap. 14, Diabetes Mellitus, Anestésicos, p. 250; Box 14.8, A, p. 249",
+      "secao": "lf-anestesia-analgesicos",
+      "figura": null
+    }
+  ]
+}

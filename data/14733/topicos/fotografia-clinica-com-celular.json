@@ -1,0 +1,607 @@
+{
+  "slug": "fotografia-clinica-com-celular",
+  "titulo": "Fotografia clínica com celular",
+  "area": "Integrado",
+  "origem": "Casaglia 2015; Moussa 2021; Rocha e Trigueiro, cap. 2, em Cordon, Laganá e Sesma 2015; Resolução CFO-196/2019; Lei nº 13.709/2018 (LGPD)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "casaglia2015",
+      "ref": "Casaglia A, De Dominicis P, Arcuri L, Gargari M, Ottria L. Dental photography today. Part 1: basic concepts. Oral Implantol (Rome). 2015;8(4):122–129. DOI 10.11138/orl/2015.8.4.122. PMCID PMC5159893.",
+      "curta": "Casaglia et al., 2015"
+    },
+    {
+      "id": "moussa2021",
+      "ref": "Moussa C, Hardan L, Kassis C, Bourgi R, Devoto W, Jorquera G, Panda S, Abou Fadel R, Cuevas-Suárez CE, Lukomska-Szymanska M. Accuracy of Dental Photography: Professional vs. Smartphone's Camera. Biomed Res Int. 2021;2021:3910291. DOI 10.1155/2021/3910291. PMCID PMC8694966.",
+      "curta": "Moussa et al., 2021"
+    },
+    {
+      "id": "cordon2015",
+      "ref": "Rocha AL, Trigueiro I. Protocolo de Fotografias Clínicas. In: Cordon R, Laganá DC, Sesma N. Odontologia multidisciplinar: o paciente no centro das atenções. 1ª ed. Rio de Janeiro: Elsevier, 2015. Cap. 2, pp. 33–52 Páginas conforme a edição digital.",
+      "curta": "Rocha e Trigueiro, in Cordon et al., 2015"
+    },
+    {
+      "id": "cfo196",
+      "ref": "Conselho Federal de Odontologia. Resolução CFO-196, de 29 de janeiro de 2019. Autoriza a divulgação de autoretratos (selfie) e de imagens relativas ao diagnóstico e ao resultado final de tratamentos odontológicos, e dá outras providências. Brasília (DF). Lida em 16/11/2026.",
+      "curta": "Resolução CFO-196/2019"
+    },
+    {
+      "id": "lgpd",
+      "ref": "Brasil. Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais). Texto compilado no Planalto.",
+      "curta": "LGPD, Lei nº 13.709/2018"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "para-que-serve",
+      "titulo": "Para que serve a fotografia na clínica",
+      "fonte": "casaglia2015",
+      "onde": "Introdução; Exame, diagnóstico e planejamento de tratamento; Aspectos legais: documentação legal (p. 122–129)",
+      "texto": "Segundo a revisão de Casaglia e colegas (2015), o uso primário da fotografia é **registrar com precisão as manifestações clínicas da cavidade oral**. O artigo a trata como ferramenta de diagnóstico, no mesmo patamar de radiografias e outros exames.\n\n**Em que ela ajuda:**\n- no **exame inicial**;\n- no **diagnóstico**;\n- no **controle do resultado** do atendimento ao longo do tempo.\n\nUm conjunto completo de imagens no primeiro exame ajuda a chegar a um diagnóstico e a oferecer opções de tratamento, e serve para mais do que registrar a condição inicial.\n\n**Usos secundários** descritos no artigo: documentação legal, publicação, ensino, comunicação com paciente, equipe e técnico em prótese, e marketing.\n\n**Duas características essenciais.** Para a imagem ser útil, o artigo pede cor correta e resolução suficiente para registrar o detalhe de tecidos moles e duros. A qualidade da imagem resulta da resolução do sensor e da capacidade das lentes de captar os detalhes mais finos; mais resolução traz mais informação.\n\n**Câmera e celular.** O artigo trata de câmeras digitais em geral, hoje muito mais fáceis de usar para fazer e guardar imagens. Ele não trata de fotografar com celular. O artigo também não detalha exposição, abertura, ISO, iluminação nem flash. Esses pontos, e o equipamento, os acessórios e as tomadas, estão nas seções do capítulo de Rocha e Trigueiro (Cordon et al., 2015), que descreve a técnica com câmera reflex e não trata de celular."
+    },
+    {
+      "id": "serie-de-fotos",
+      "titulo": "A série de fotos: quando e o que registrar",
+      "fonte": "casaglia2015",
+      "onde": "Exame, diagnóstico e planejamento de tratamento; Aspectos legais: documentação legal; Publicação e educação; Comunicação: marketing (p. 122–129)",
+      "texto": "**Antes e depois.** Na parte de documentação legal, o artigo diz que, no ambiente médico-legal de hoje, uma série de fotos antes e depois do tratamento é \"imperativa\" (referência de Ward). Nos procedimentos que se documentam, recomenda registrar pelo menos:\n- a **condição inicial** e a **condição final**;\n- os **eventos incomuns** durante o tratamento.\n\n**Quais procedimentos documentar.** O artigo reconhece que seria razoável documentar todos os procedimentos, mas que o clínico comum não fotografa a rotina diária; por isso é possível escolher. Em geral recomenda documentar com fotos os **tratamentos cirúrgicos** e os **estéticos**. Indica também fotos para pacientes que parecem desconfiados ou muito ansiosos com o tratamento aceito, ou que já tiveram questão legal com um dentista, e para a odontologia abrangente e cara.\n\n**Publicação, ensino e controles.** Para publicação e ensino, o artigo diz ser necessário capturar imagens de **cada etapa** do procedimento. Diz também ser relevante fotografar **em cada controle** futuro do paciente, para registrar mudanças devidas ao tratamento ou a outras variáveis, como o tempo.\n\n**Divulgação com paciente (marketing).** O artigo diz que imagens clínicas de \"antes\" e \"depois\", ou sequências de etapas de tratamentos, podem ser úteis. Diz que se deve evitar imagem repugnante ou desagradável ao paciente: imagens de procedimentos cirúrgicos, inflamações ou hemorragias são exemplos que merecem exclusão. É um artigo estrangeiro (publicado no periódico Oral Implantol, de Roma); a regra brasileira de divulgação está na seção da Resolução CFO-196.\n\n**Afastar lábios e bochechas.** O artigo cita o estudo de Chen et al., feito em lactentes, em que bochechas e lábios foram afastados só com o dedo do examinador, para expor os dentes anteriores e parte das gengivas superior e inferior. O método fotográfico detectou mais defeitos de desenvolvimento do esmalte do que o exame clínico. O artigo não fala de afastador nem de espelho.\n\nO artigo não detalha a distância nem o enquadramento de cada foto da série."
+    },
+    {
+      "id": "balanco-de-branco",
+      "titulo": "Balanço de branco e cor fiel",
+      "fonte": "casaglia2015",
+      "onde": "Introdução (p. 122–129)",
+      "texto": "**Cor fiel.** Para o artigo, cor correta e resolução suficiente são as duas características essenciais de uma imagem útil. A imagem deve registrar a cor que o olho percebe no exame: gengiva, mucosa, dentes e próteses. O artigo diz que a cor correta é possível, mas nem sempre é fácil de obter.\n\n**Por que importa.** Nos tecidos moles, a cor correta é um excelente método para distinguir tecido sadio de doente e registrar alterações como manchas brancas, inflamação, ulceração, queimaduras, lacerações e carcinoma; a legenda da Figura 1 diz que saturação de cor incorreta dificulta avaliar a lesão. Nos tecidos duros, a cor correta revela a transparência do esmalte, a cárie, a erosão e a abrasão, entre outros achados; a legenda da Figura 2 diz que cor incorreta esconde lesões de tecido duro.\n\n**Balanço de branco.** A definição do artigo é: \"White balance is the process of removing unrealistic colorcasts from photos.\" Ou seja, é o processo de tirar da foto os tons de cor irreais, as dominantes de cor.\n\n**Balanço manual.** Muitas câmeras digitais permitem o balanço manual: fotografa-se um alvo feito para isso, muito próximo do neutro.\n\n**Parte 2.** O artigo anuncia que a Parte 2 vai ilustrar a importância do balanço de branco, da temperatura de cor e da reprodução de cor. Nesta Parte 1, ele não define a temperatura de cor."
+    },
+    {
+      "id": "cordon-equipamento",
+      "titulo": "Cordon: equipamento e preparo da foto",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Protocolo de Fotografias Clínicas; Preparação da fotografia; Equipamentos fotográficos; Figura 2-1, pp. 33–35",
+      "texto": "O capítulo \"Protocolo de Fotografias Clínicas\", de Rocha e Trigueiro (em Cordon, Laganá e Sesma, 2015), descreve a técnica com **câmera reflex, objetiva macro e flash circular**. Ele **não trata de celular**. O que este tema traz sobre celular continua vindo do Moussa e do Casaglia; nada do que segue foi estendido a ele.\n\n**Para que o livro indica as fotos.** As fotos extrabucais e intrabucais ajudam no diagnóstico e no planejamento. Entre os usos listados: comunicação com o laboratório de prótese, motivos legais, documentação, análise do sorriso em sistema computadorizado, acompanhamento dos casos, comparação entre tratamento inicial e final, orientação aos pacientes e publicações científicas. Padronizar o número e os ângulos das fotos, a iluminação e a distância evita repetição, reduz custo e poupa tempo.\n\n**Equipamento que o livro pede:**\n- **Câmera reflex básica:** pelo menos 5 megapixels, para boa resolução na impressão.\n- **Objetiva macro** de 90, 100 ou 105 mm, f/2.8, 1:1. Entre 90 e 120 mm é, segundo o livro, a melhor distância focal para evitar distorções.\n- **Flash circular:** \"o mais versátil e prático\", serve a todas as especialidades.\n- Usar o mesmo corpo, a mesma objetiva e a mesma fonte de iluminação facilita a padronização.\n\nO livro também cita modelos de marcas conhecidas; os modelos não são o ponto aqui.\n\n**Antes de fotografar:** saber com que objetivo as fotos serão feitas e planejar a sequência; posição confortável do fotógrafo, com equilíbrio e firmeza; atenção a enquadramento, iluminação e foco; evitar que afastadores, dedos e saliva apareçam; fazer antes a profilaxia, para remover cálculo."
+    },
+    {
+      "id": "cordon-abertura",
+      "titulo": "Cordon: abertura, profundidade de campo e ampliação",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo; ampliação); Figuras 2-2 a 2-4, pp. 36–37; Tabela 2.2, p. 38",
+      "texto": "**Abertura do diafragma (f-stop).** É a abertura circular dentro da lente, que muda de diâmetro para controlar a luz que chega ao sensor. Na redação do livro: \"quanto menor for o número, maior será a abertura\". O exemplo dado é que f/2.8 é maior do que f/8.\n\n**Profundidade de campo.** É a região da imagem com foco nítido aceitável atrás e na frente do foco principal; a passagem do foco total ao desfoque é gradual.\n- Abertura grande (f/2.8): menor profundidade de campo.\n- Abertura pequena (f/25): passa menos luz pela lente e a profundidade de campo é maior.\n\n**O que o livro sugere para a boca.** Aberturas até f/22 ou f/25 para o corredor bucal e f/11 ou f/16 para a região anterior. O motivo dado é a difração, fenômeno óptico em que a foto perde nitidez com o diafragma mais fechado.\n\n**Onde o livro diverge de si mesmo: f/27 e f/32.**\n\n| Onde | O que diz |\n|---|---|\n| Texto, p. 36 (Conceitos e princípios) | a difração ocorre de f/27 em diante; achar que f/32 dará mais profundidade de campo e foto melhor é conceito errado, porque a profundidade não fica visivelmente maior e a imagem piora |\n| Tabela 2.2, p. 38 (intrabucal, câmera reflex) | abertura f/22, f/25, f/27 ou f/32 |\n\nO capítulo não explica a diferença; este tema mostra os dois lados sem escolher.\n\n**Ampliação (magnificação).** A objetiva macro faz ampliação de 1:1: 1 cm do objeto ocupa 1 cm do sensor. A ampliação é escolhida no anel de foco, com o **foco automático desligado** para que ela não mude; o foco se faz indo para frente e para trás em movimentos curtos. Cada tipo de tomada deve ter a sua ampliação (uma para o corredor bucal, outra para a região anterior, dentes e mucosa), para padronizar entre pacientes e ter padrão de comparação futuro."
+    },
+    {
+      "id": "cordon-exposicao",
+      "titulo": "Cordon: velocidade, ISO, exposição e balanço de branco",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; combinação; exposição); Balanço de branco; Figuras 2-5 a 2-8, pp. 37–38",
+      "texto": "**Tempo de exposição (velocidade do obturador).** É o tempo em que o obturador fica aberto, regulando a luz que chega ao sensor. Os números usuais são 1, 2, 4, 8, 15, 30, 60, 125, 250, 500, 1000 e 2000; cada um é a fração de 1 segundo dividida por ele (100 é 1/100 s). Quanto **menor** o número, mais lenta a velocidade e mais luz atinge o sensor. Velocidade lenta com assunto em movimento dá foto tremida. Para a velocidade mínima, o livro relaciona com a distância focal da objetiva: 50 mm, 1/50; 100 mm, 1/100; 300 mm, 1/300.\n\n**ISO.** Representa a sensibilidade do sensor à luz. ISO alto (800, 1600, 3200) capta mais luz; ISO baixo (50, 100, 200) capta menos. Subir o ISO aumenta o ruído, que aparece como pontos coloridos minúsculos e atrapalha a imagem. O livro sugere ISO 100 ou 200, para menos ruído e mais nitidez.\n\n**Exposição.** É a combinação de abertura do diafragma, tempo de exposição e ISO. Está correta quando os três se equilibram e a foto não fica clara demais (superexposição) nem escura demais (subexposição). Quando um ajuste muda, muda-se um dos outros dois para compensar a luminosidade. O livro recomenda deixar o ISO constante em 100 ou 200 e alterar os outros dois.\n\n**Balanço de branco.** Feito errado, causa falha de cor, que pode prejudicar a comunicação com o laboratório de prótese ou a confiabilidade da foto. A luz do ambiente varia (natural, fluorescente de teto, amarela do refletor, luminária de bancada) e cada fonte tem temperatura de cor diferente, o que afasta a cor vista pelo olho da registrada pela câmera.\n- **Mínimo recomendado:** a posição do símbolo de flash ou do símbolo de sol, conforme a luz ambiente.\n- **Método ideal (\"custom\"):** antes da sessão, fotografar uma folha branca no ambiente das fotos e ajustar a câmera a esse padrão. O manual de cada câmera diz como.\n\nA definição de balanço de branco do Casaglia está na seção \"Balanço de branco e cor fiel\"."
+    },
+    {
+      "id": "cordon-tabelas",
+      "titulo": "Cordon: tabelas de ajuste da câmera",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38; Conceitos e princípios, pp. 36–37",
+      "texto": "O livro traz duas tabelas de ajuste da câmera: a **Tabela 2.1**, para fotos **extrabucais**, e a **Tabela 2.2**, para **intrabucais**. Cada uma tem a coluna da câmera compacta e a da câmera reflex. O capítulo diz que elas servem para os dois tipos de câmera e que, além de dominar o equipamento, é preciso conhecer os conceitos de fotografia. Não há coluna de celular.\n\n**Tabela 2.1, extrabucal**\n- *Câmera compacta:* modo programa; função macro desativada; flash ativado; balanço de branco em flash.\n- *Câmera reflex:* modo manual; abertura f/8, f/11 ou f/20; tempo de exposição 1/60, 1/80 ou 1/100; ISO 400; flash TTL.\n\n**Tabela 2.2, intrabucal**\n- *Câmera compacta:* modo programa; função macro ativada; flash ativado; distância do objeto de no mínimo 30 a 40 cm; balanço de branco em flash.\n- *Câmera reflex:* modo manual; abertura f/22, f/25, f/27 ou f/32; tempo de exposição 1/125, 1/160 ou 1/200; ISO 100 ou 200; flash TTL.\n\n**Onde o livro diverge de si mesmo**\n- **Aberturas f/27 e f/32.** Texto, p. 36: de f/27 em diante a difração piora a imagem, e f/32 é conceito errado. Tabela 2.2, p. 38: a coluna reflex lista f/27 e f/32.\n- **ISO no extrabucal.** Tabela 2.1, p. 38 (câmera reflex): ISO 400. Texto, p. 37: sugere ISO 100 ou 200; na p. 38 recomenda deixar o ISO constante em 100 ou 200. Na Tabela 2.2 (intrabucal) o ISO é 100 ou 200.\n\nO capítulo não explica as diferenças; este tema mostra os dois lados, cada um com o seu lugar, sem escolher."
+    },
+    {
+      "id": "cordon-acessorios",
+      "titulo": "Cordon: acessórios e biossegurança",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Acessórios necessários para as tomadas fotográficas intrabucais, Figuras 2-24 a 2-26, pp. 43–44; Biossegurança, Figura 2-9, p. 38",
+      "texto": "**Acessórios para as tomadas intrabucais:**\n- **Espelho de metal:** o mais recomendado. Tem manuseio fácil; a curvatura permite melhor adaptação na cavidade oral; por ser mais fino, não deixa os dedos aparecerem na tomada; é mais confortável para o paciente.\n- **Afastadores de plástico transparente:** os mais indicados, porque não produzem reflexos e não contrastam com a cor dos tecidos fotografados. O livro mostra afastadores em V e unilaterais.\n- **Fundo:** dispositivos de papel ou plástico podem servir de plano de fundo, para enfatizar o motivo principal e eliminar estruturas indesejáveis.\n\n**Biossegurança.** Para minimizar a infecção cruzada, o livro manda usar barreiras de proteção nos equipamentos e acessórios.\n- **Câmera:** \"filme\" de PVC nas partes tocadas pelo fotógrafo, deixando livre a parte frontal da objetiva.\n- **Espelhos e afastadores:** lavar e secar com gaze, com cuidado para não riscar nem ranhurar, e esterilizar após o uso."
+    },
+    {
+      "id": "cordon-tomadas-extrabucais",
+      "titulo": "Cordon: tomadas extrabucais",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Fotografias extrabucais, Figuras 2-10 a 2-23, pp. 39–44",
+      "texto": "Na posição frontal o livro põe o paciente em posição confortável, olhando para frente, em máxima intercuspidação habitual.\n\n**Face frontal, em repouso e sorrindo** (Figuras 2-10 a 2-13). A câmera fica na altura do rosto, alinhada com o olhar do paciente. Enquadrar a cabeça como limite superior e as clavículas como limite inferior. Manter a linha interpupilar paralela ao plano horizontal e a distância do canto do olho ao início do couro cabeludo igual nos dois lados; o livro liga isso aos planos de Frankfurt e Sagital Mediano.\n\n**Perfil direito e esquerdo** (Figuras 2-14 a 2-17). Atenção à relação olho/nariz: o olho focalizado fica visível e as estruturas do outro olho não aparecem. A linha do canto do olho ao ponto superior da orelha fica paralela ao plano horizontal. Enquadrar cabeça e clavículas, com a objetiva paralela ao plano de Frankfurt.\n\n**Sorriso frontal e boca entreaberta** (Figuras 2-18 a 2-20). O profissional fica à frente do paciente e enquadra o sorriso e a ponta do nariz.\n\n**Sorriso de perfil, direito e esquerdo** (Figuras 2-21 a 2-23). O profissional fica ao lado do paciente e enquadra as comissuras labiais e a ponta do nariz.\n\nO capítulo não dá, para estas tomadas, a distância do operador ao paciente em centímetros."
+    },
+    {
+      "id": "cordon-tomadas-intrabucais-1",
+      "titulo": "Cordon: tomadas intrabucais, oclusão e laterais",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Fotografias intrabucais; Oclusão com afastador; Canino a canino; Oclusal lateral direita e esquerda; Figuras 2-27 a 2-34, pp. 45–48",
+      "texto": "**Oclusão com afastador** (Figuras 2-27 a 2-31). Duas posições recomendadas: o paciente sentado no mocho, fotografado de frente; ou deitado na cadeira o mais horizontal possível, fotografado na posição de 12 horas.\n- **Enquadramento:** o mais próximo possível da ampliação 1:1; abranger a distal do último molar; centralizar os incisivos centrais na interseção dos planos sagital e mediano; foco na região dos caninos, com as bordas da foto no vestíbulo.\n- **Fora de eixo:** evitar, cuidando do posicionamento da câmera com os planos de orientação.\n- **Distorção:** conferir se o plano oclusal está perpendicular à base da máquina. Fotografar acima ou abaixo desse plano distorce a perspectiva, com dentes alongados ou achatados, o chamado sorriso invertido.\n\n**Canino a canino com afastador e oclusal lateral direita** (Figuras 2-32 e 2-33). O capítulo traz só a foto de cada uma, sem texto de posicionamento ou enquadramento.\n\n**Oclusal lateral esquerda com afastador** (Figura 2-34):\n- o profissional fica ao lado do paciente e usa **dois afastadores**: um em V, no lado fotografado, tencionando com cuidado lábios e mucosa jugal para trás; outro arredondado, no lado oposto, sem tensão;\n- enquadrar todos os dentes do lado fotografado, incluindo a distal do último molar e o incisivo central do lado oposto;\n- plano oclusal paralelo ao plano horizontal; ponto de foco e centro da foto perto do canino."
+    },
+    {
+      "id": "cordon-tomadas-intrabucais-2",
+      "titulo": "Cordon: tomadas intrabucais, oclusais com espelho e perfil incisal",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Oclusal de mandíbula; Oclusal de maxila; Perfil incisal; Figuras 2-35 a 2-44, pp. 49–52",
+      "texto": "**Oclusal de mandíbula** (Figuras 2-35 a 2-39):\n- o profissional fica à frente do paciente; o espelho fica distal aos últimos molares inferiores, com a face refletora voltada para o arco inferior, e a parte superior do espelho, que não reflete, toca os incisivos centrais superiores;\n- para melhorar a estética da tomada, o paciente pode manter a língua no palato;\n- objetiva o mais perpendicular possível à imagem do plano oclusal refletida no espelho;\n- enquadrar todas as oclusais; o ponto central geralmente coincide com a interseção do plano sagital (região do freio lingual) com uma linha imaginária pela região do segundo pré-molar.\n\nNo texto desta tomada o livro acrescenta: para o espelho não embaçar, o paciente inspira pela boca e expira pelo nariz, e jatos de ar da seringa tríplice ou sugadores perto do espelho também servem; as imagens devem ser reinvertidas, pois o espelho inverte.\n\n**Oclusal de maxila** (Figuras 2-40 a 2-42):\n- o profissional fica atrás ou à frente do paciente; o espelho fica distal ao último molar superior, com a face refletora voltada para o arco superior, e a parte inferior do espelho toca os incisivos centrais inferiores;\n- objetiva o mais perpendicular possível à imagem refletida; enquadrar todos os dentes da arcada, com o ponto central na interseção do plano sagital (região da sutura palatina) com a linha do segundo pré-molar;\n- usar afastador recortado e espelho, e fotografar apenas a imagem dos dentes refletida no espelho.\n\n**Perfil incisal** (Figuras 2-43 e 2-44). Enquadrar a distal dos dentes laterais, centralizando a papila da região dos elementos 11 e 21; o foco fica nos laterais."
+    },
+    {
+      "id": "moussa-estudo",
+      "titulo": "Celular ou câmera profissional: o que o estudo mediu",
+      "fonte": "moussa2021",
+      "onde": "Objetivo; Método; Resultados; Tabela 1; Discussão; Conclusão (artigo 3910291)",
+      "texto": "**Pergunta do estudo.** Moussa e colegas (2021) compararam medidas lineares de modelos de gesso fotografados com uma câmera DSLR (profissional) e com um celular, usando como controle as medidas de um escaneamento intraoral.\n\n**Como foi feito.** Trinta arcadas superiores de gesso, de 30 pacientes de 18 a 30 anos com dentição natural. Foram escaneadas com scanner intraoral (o controle) e fotografadas de frente com uma DSLR com lente macro (uma foto por modelo) e com um iPhone X (uma foto em cada uma de cinco distâncias, de 16 a 32 cm). Mediram-se largura e altura dos dentes.\n\n**Resultados:**\n- **Altura dos dentes:** sem diferença estatística entre escaneamento, DSLR e celular, em nenhuma distância (p > 0,05).\n- **Largura de caninos a caninos e dentes anteriores:** sem diferença entre câmeras e distâncias (p > 0,05).\n- **Largura dos pré-molares (14, 15, 24, 25):** houve diferença por câmera e distância (p < 0,001). Os autores explicam isso porque os pré-molares ficam mais distais na arcada, perto da borda da foto, onde há mais distorção.\n\n**Conclusão dos autores (ver a seção seguinte sobre a distância).** Para documentação, a distorção é desprezível e as duas câmeras podem ser usadas. Eles dizem que o dentista pode confiar em DSLR e celular (a pelo menos 24 cm) para planejamento estético (smile design).\n\n**O que o estudo não fez, ou os autores apontam como limite:**\n- só arcadas superiores de **gesso**, em fotos 2D; os autores dizem que há poucos estudos clínicos e pedem ensaios clínicos randomizados;\n- um modelo de DSLR e um de celular; os autores pedem testes com outras câmeras;\n- cor e tonalidade (shade) não foram avaliadas;\n- a face do paciente e os vídeos ficam para outros estudos."
+    },
+    {
+      "id": "moussa-distancia",
+      "titulo": "A distância no estudo: o texto do artigo não é coerente",
+      "fonte": "moussa2021",
+      "onde": "Método; Resultados; Tabela 1 (dente 15); Discussão; Conclusão (artigo 3910291)",
+      "texto": "O estudo fotografou com o celular em cinco distâncias: 16, 20, 24, 28 e 32 cm. O texto do próprio artigo não é coerente sobre quais delas diferem do escaneamento. Aqui estão as versões, cada uma no seu lugar, sem escolha.\n\n| Onde no artigo | O que diz |\n|---|---|\n| **Resultados** (pré-molares) | os valores do escaneamento diferiram dos do celular a **16 e 20 cm**; os do celular a 24, 28 e 32 cm foram estatisticamente semelhantes aos da DSLR |\n| **Conclusão** | DSLR e celular, a **pelo menos 24 cm**, não diferiram do escaneamento |\n| **Discussão** (início) | não houve diferença entre escaneamento, DSLR e celular a distâncias de **24 cm ou mais** |\n| **Discussão** (segundo parágrafo) | a única diferença entre os dois aparelhos apareceu na largura dos pré-molares, com o celular a **16 cm e 24 cm** |\n| **Discussão** (mais adiante) | DSLR e celular a 24, 28 e 32 cm deram larguras de pré-molares semelhantes entre si, mas **diferentes das do escaneamento**; a 20 cm a diferença fica significativa, e mais ainda a 16 cm |\n\n**Exemplo da Tabela 1 (largura do dente 15, em cm, média e desvio-padrão):**\n\n| Escaneamento | DSLR | Celular a 16 cm | Celular a 20 cm | Celular a 24 cm | Celular a 28 cm | Celular a 32 cm |\n|---|---|---|---|---|---|---|\n| 0,25 (0,05) | 0,24 (0,06) | 0,17 (0,06) | 0,20 (0,07) | 0,22 (0,07) | 0,23 (0,06) | 0,23 (0,06) |\n\nPelas letras da Tabela 1, nos quatro pré-molares o celular a 16 e a 20 cm difere do escaneamento, e a DSLR e o celular a 24, 28 e 32 cm compartilham letra com ele. Nos dentes anteriores, nenhuma distância testada produziu diferença.\n\nO que o artigo sustenta sem divergência: a distorção aparece nas bordas da foto, nos dentes mais distais, e o estudo foi feito em modelos de gesso."
+    },
+    {
+      "id": "cordon-autorizacao-armazenamento",
+      "titulo": "Cordon: autorização do paciente e armazenamento",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Preparação da fotografia, pp. 33–35; Armazenamento digital; Normas para publicação em revistas, pp. 36–37",
+      "texto": "**Autorização do paciente.** O capítulo manda orientar o paciente sobre todo o uso das imagens com um **consentimento livre e esclarecido, dado por escrito**, e isso **antes de qualquer procedimento**, fotográfico ou clínico. É o que o capítulo traz sobre o tema: não há modelo de termo, conteúdo do termo, regra de divulgação nem menção à Resolução CFO-196 ou à LGPD. Essas normas estão nas duas seções seguintes.\n\n**Armazenamento digital.** Diante da discussão sobre a validade das fotos digitais, o livro recomenda o formato **RAW**. O RAW mantém a integridade da imagem porque não permite salvar manipulação no mesmo arquivo; para modificar, grava-se em outro formato (TIFF ou JPEG), nunca sobre o RAW original, o que assegura a autenticidade do arquivo. As imagens são organizadas em pastas com o nome do paciente e a sequência de tratamento. O capítulo não detalha cópia de segurança nem sigilo dos arquivos.\n\n**Publicação em revista.** Seguir as normas da revista escolhida. Não se aceitam fotos com resolução ou tamanho aumentados artificialmente em programas de edição, nem montagens."
+    },
+    {
+      "id": "cfo196",
+      "titulo": "Divulgar imagens do paciente: a Resolução CFO-196/2019",
+      "fonte": "cfo196",
+      "onde": "Considerandos; arts. 1º a 6º",
+      "texto": "A Resolução CFO-196, de 29 de janeiro de 2019, do Conselho Federal de Odontologia, trata da **divulgação** de imagens; não menciona o registro no prontuário. Este resumo segue o texto de 29/01/2019; eventuais alterações ou revogação posteriores devem ser conferidas no banco de resoluções do CFO.\n\n**Pontos de partida (considerandos):** o direito à imagem é garantia constitucional; o Código Civil (art. 20) permite ceder a imagem com autorização prévia e expressa; a postagem de imagens de pacientes é de inteira responsabilidade do cirurgião-dentista.\n\n**O que autoriza:**\n- **Art. 1º:** divulgar selfies do cirurgião-dentista, com ou sem paciente, com autorização prévia do paciente ou do representante legal por **Termo de Consentimento Livre e Esclarecido (TCLE)**. O § 1º proíbe imagens que permitam identificar equipamentos, instrumentais, materiais e tecidos biológicos.\n- **Art. 2º:** divulgar imagens de **diagnóstico** e de **conclusão de tratamento**, quando a divulgação é feita pelo cirurgião-dentista responsável pela execução do procedimento, com autorização prévia do paciente ou do representante legal por TCLE. O § 1º continua proibindo sensacionalismo, autopromoção, concorrência desleal, mercantilização da Odontologia e promessa de resultado.\n\n**O que proíbe:**\n- **Art. 3º:** divulgar vídeos ou imagens do **transcurso** ou da realização dos procedimentos. A exceção é a publicação científica.\n- **Art. 4º:** é vedada a divulgação de casos clínicos de autoria de terceiros. Em toda publicação devem constar o nome do profissional e o número de inscrição.\n\n**Art. 5º:** divulgar imagens, áudios ou vídeos de pacientes em desacordo com a norma é infração ética de manifesta gravidade.\n\n**O que a resolução não trata:** ocultar o rosto, o conteúdo do TCLE, fotos de uso interno e a definição de publicação científica."
+    },
+    {
+      "id": "lgpd",
+      "titulo": "A LGPD: dado pessoal, dado sensível e dado de saúde",
+      "fonte": "lgpd",
+      "onde": "art. 2º, IV; art. 4º, II, b; art. 5º, I, II e XII; art. 11, caput, I e II",
+      "texto": "A Lei nº 13.709, de 14 de agosto de 2018, a Lei Geral de Proteção de Dados Pessoais, define os termos abaixo. A lei não menciona fotografia. A palavra imagem aparece só entre os fundamentos da proteção de dados (art. 2º, IV: a inviolabilidade da intimidade, da honra e da imagem).\n\n**Art. 5º, definições:**\n- **Dado pessoal (inciso I):** informação relacionada a pessoa natural identificada ou identificável.\n- **Dado pessoal sensível (inciso II):** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, e também dado de vida sexual, genético ou biométrico, quando ligado a uma pessoa natural. A lista inclui o \"dado referente à saúde\".\n- **Consentimento (inciso XII):** concordância do titular, dada livremente, com informação e de forma inequívoca, para o tratamento de seus dados com uma finalidade determinada.\n\n**Art. 11, tratamento de dado sensível:**\n- **Caput:** só pode ocorrer nas hipóteses que o artigo lista.\n- **Inciso I:** quando o titular ou o responsável legal consentir, de forma **específica e destacada**, para finalidades específicas.\n- **Inciso II:** sem consentimento, quando for indispensável para uma das hipóteses das alíneas a a g. A alínea f trata da tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária.\n- **§ 1º:** o artigo se aplica a qualquer tratamento que revele dado sensível e possa causar dano ao titular, ressalvada legislação específica.\n\n**Art. 4º, II, b:** a lei não se aplica ao tratamento feito exclusivamente para fins acadêmicos, mas, nesse caso, aplicam-se os arts. 7º e 11.\n\nA lei não trata de publicação em rede social. A autorização para divulgar imagens exigida na odontologia está na resolução do CFO, vista na seção anterior."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual é o uso primário da fotografia clínica segundo Casaglia et al. (2015)?",
+      "verso": "Registrar com precisão as manifestações clínicas da cavidade oral. O artigo a trata como ferramenta de diagnóstico, comparável a radiografias e outros exames.",
+      "fonte": "casaglia2015",
+      "onde": "Introdução; Exame, diagnóstico e planejamento de tratamento (p. 122–129)"
+    },
+    {
+      "id": "f02",
+      "frente": "O que Casaglia cita como \"imperativo\" no ambiente médico-legal atual?",
+      "verso": "Uma série de fotos antes e depois do tratamento. O artigo recomenda registrar a condição inicial, a final e os eventos incomuns durante o tratamento.",
+      "fonte": "casaglia2015",
+      "onde": "Aspectos legais: documentação legal (p. 122–129)"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que a cor da foto precisa ser fiel, segundo Casaglia?",
+      "verso": "Cor mal reproduzida dificulta avaliar lesões de tecido mole (legenda da Figura 1) e esconde lesões de tecido duro (legenda da Figura 2). Na lista do artigo estão a transparência do esmalte, a cárie e a erosão.",
+      "fonte": "casaglia2015",
+      "onde": "Introdução (p. 122–129)"
+    },
+    {
+      "id": "f04",
+      "frente": "O que é balanço de branco, segundo Casaglia?",
+      "verso": "O processo de remover da foto as dominantes de cor irreais. Muitas câmeras permitem o balanço manual, fotografando um alvo feito para isso, muito próximo do neutro.",
+      "fonte": "casaglia2015",
+      "onde": "Introdução (p. 122–129)"
+    },
+    {
+      "id": "f05",
+      "frente": "Que equipamento o capítulo de Rocha e Trigueiro (Cordon, 2015) descreve, e o que diz do celular?",
+      "verso": "Câmera reflex (pelo menos 5 megapixels), objetiva macro de 90, 100 ou 105 mm f/2.8 1:1 e flash circular. O capítulo não trata de celular.",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Equipamentos fotográficos, pp. 33–35"
+    },
+    {
+      "id": "f06",
+      "frente": "Segundo o Cordon, como se combina a exposição e o que fazer ao mudar um ajuste?",
+      "verso": "A exposição combina abertura, tempo de exposição e ISO. Ao mudar um, muda-se outro para compensar a luminosidade; o livro recomenda deixar o ISO constante em 100 ou 200.",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios (exposição), pp. 37–38"
+    },
+    {
+      "id": "f07",
+      "frente": "Onde o Cordon se contradiz sobre as aberturas f/27 e f/32?",
+      "verso": "No texto (p. 36), de f/27 em diante a difração piora a imagem e f/32 é conceito errado. A Tabela 2.2 (intrabucal, câmera reflex, p. 38) lista f/27 e f/32.",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios, p. 36; Tabela 2.2, p. 38"
+    },
+    {
+      "id": "f08",
+      "frente": "Como o Cordon manda guardar as fotos digitais?",
+      "verso": "Em RAW, que mantém a integridade da imagem: a edição é gravada em TIFF ou JPEG, nunca sobre o RAW. As imagens ficam em pastas com o nome do paciente e a sequência de tratamento.",
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Armazenamento digital, p. 36"
+    },
+    {
+      "id": "f09",
+      "frente": "O que Moussa et al. (2021) fotografaram para comparar celular e câmera profissional?",
+      "verso": "Trinta modelos de gesso de arcadas superiores, com DSLR e com iPhone X. O controle foi o escaneamento intraoral.",
+      "fonte": "moussa2021",
+      "onde": "Método (artigo 3910291)"
+    },
+    {
+      "id": "f10",
+      "frente": "No estudo de Moussa, onde não houve diferença entre escaneamento, DSLR e celular?",
+      "verso": "Na altura dos dentes e na largura de caninos a caninos e dentes anteriores, em nenhuma distância testada (p > 0,05).",
+      "fonte": "moussa2021",
+      "onde": "Resultados (artigo 3910291)"
+    },
+    {
+      "id": "f11",
+      "frente": "Onde Moussa encontrou diferença e como os autores a explicam?",
+      "verso": "Na largura dos pré-molares (p < 0,001). Os autores atribuem à distorção nas bordas da foto, porque esses dentes ficam mais distais na arcada.",
+      "fonte": "moussa2021",
+      "onde": "Resultados; Discussão (artigo 3910291)"
+    },
+    {
+      "id": "f12",
+      "frente": "Cite dois limites do estudo de Moussa, segundo o texto dos autores.",
+      "verso": "Só modelos de gesso de arcada superior, em fotos 2D, e não em paciente; um modelo de DSLR e um de celular. Cor e tonalidade não foram avaliadas.",
+      "fonte": "moussa2021",
+      "onde": "Discussão (artigo 3910291)"
+    },
+    {
+      "id": "f13",
+      "frente": "Que autorização a Resolução CFO-196/2019 exige para divulgar imagem de diagnóstico ou de conclusão de tratamento?",
+      "verso": "Autorização prévia do paciente ou do representante legal, por Termo de Consentimento Livre e Esclarecido (TCLE). A divulgação deve ser feita pelo cirurgião-dentista responsável pela execução do procedimento.",
+      "fonte": "cfo196",
+      "onde": "art. 2º"
+    },
+    {
+      "id": "f14",
+      "frente": "O que o art. 3º da Resolução CFO-196/2019 proíbe?",
+      "verso": "Divulgar vídeos ou imagens do transcurso ou da realização dos procedimentos. A exceção é a publicação científica.",
+      "fonte": "cfo196",
+      "onde": "art. 3º"
+    },
+    {
+      "id": "f15",
+      "frente": "O que deve constar em toda publicação de imagens segundo a Resolução CFO-196/2019, e o que é vedado?",
+      "verso": "Nome do profissional e número de inscrição. É vedada a divulgação de casos clínicos de autoria de terceiros.",
+      "fonte": "cfo196",
+      "onde": "art. 4º"
+    },
+    {
+      "id": "f16",
+      "frente": "Na LGPD, em que lista de dados pessoais sensíveis entra o dado referente à saúde, e que base tem o tratamento com consentimento?",
+      "verso": "Entra no rol do art. 5º, II. Com consentimento, o art. 11, I exige que o titular ou o responsável legal consinta de forma específica e destacada, para finalidades específicas.",
+      "fonte": "lgpd",
+      "onde": "art. 5º, II; art. 11, I"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Um fotógrafo compara duas fotos intrabucais frontais feitas com a objetiva macro, uma em f/2.8 e outra em f/25. Segundo o capítulo de Rocha e Trigueiro (Cordon, 2015), o que é correto afirmar?",
+      "alternativas": [
+        {
+          "texto": "Em f/2.8 a abertura é menor do que em f/25, porque o número é menor.",
+          "correta": false,
+          "justificativa": "Para o capítulo, quanto menor o número, maior a abertura (f/2.8 é maior do que f/8). Entre f/2.8 e f/25, a abertura maior é a de f/2.8.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo), p. 36"
+        },
+        {
+          "texto": "Em f/2.8 a profundidade de campo é maior, porque passa mais luz.",
+          "correta": false,
+          "justificativa": "O capítulo liga a abertura grande, como f/2.8, a menor profundidade de campo.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo), p. 36"
+        },
+        {
+          "texto": "Em f/25 passa menos luz pela lente e a profundidade de campo é maior.",
+          "correta": true,
+          "justificativa": "É o que o capítulo diz da abertura pequena, como f/25.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo), p. 36"
+        },
+        {
+          "texto": "As duas fotos têm a mesma profundidade de campo, porque a abertura muda só a quantidade de luz.",
+          "correta": false,
+          "justificativa": "Para o capítulo, a abertura controla a luz que chega ao sensor e também a profundidade de campo: abertura maior, menor profundidade; abertura menor, maior.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo), p. 36"
+        }
+      ],
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios (abertura do diafragma; profundidade de campo), p. 36",
+      "secao": "cordon-abertura",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Com ISO 100 e a exposição correta, um fotógrafo fecha o diafragma e passa menos luz ao sensor. Ele quer manter a mesma luminosidade sem aumentar o ruído da imagem. Segundo o capítulo de Rocha e Trigueiro (Cordon, 2015), o que ele faz?",
+      "alternativas": [
+        {
+          "texto": "Usa um tempo de exposição mais lento, com número menor, e mantém o ISO em 100.",
+          "correta": true,
+          "justificativa": "Quanto menor o número, mais lenta a velocidade e mais luz atinge o sensor. O livro manda compensar mudando um dos outros dois ajustes e recomenda deixar o ISO em 100 ou 200.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; exposição); Balanço de branco, pp. 37–38"
+        },
+        {
+          "texto": "Sobe o ISO para 3200, que capta mais luz.",
+          "correta": false,
+          "justificativa": "O capítulo diz que ISO alto capta mais luz, mas aumenta o ruído. O enunciado pede sem aumentar o ruído, e o livro sugere ISO 100 ou 200.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; exposição); Balanço de branco, pp. 37–38"
+        },
+        {
+          "texto": "Usa um tempo de exposição mais rápido, com número maior.",
+          "correta": false,
+          "justificativa": "Quanto maior o número, mais rápida a velocidade e menos luz atinge o sensor, o que se soma à luz já reduzida pelo diafragma.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; exposição); Balanço de branco, pp. 37–38"
+        },
+        {
+          "texto": "Muda o balanço de branco para a posição de sol.",
+          "correta": false,
+          "justificativa": "O capítulo liga o balanço de branco à cor da foto. A luminosidade vem da combinação de abertura, tempo de exposição e ISO.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; exposição); Balanço de branco, pp. 37–38"
+        }
+      ],
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Conceitos e princípios (tempo de exposição; ISO; exposição); Balanço de branco, pp. 37–38",
+      "secao": "cordon-exposicao",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo Casaglia et al. (2015), por que a reprodução fiel da cor importa numa foto clínica?",
+      "alternativas": [
+        {
+          "texto": "Porque a cor correta é sempre fácil de obter em qualquer câmera, sem cuidado especial.",
+          "correta": false,
+          "justificativa": "O artigo diz que a reprodução correta da cor é possível, mas nem sempre é fácil de alcançar.",
+          "fonte": "casaglia2015",
+          "onde": "Introdução (p. 122–129)"
+        },
+        {
+          "texto": "Porque a cor fiel aumenta a resolução do sensor.",
+          "correta": false,
+          "justificativa": "Segundo o artigo, a qualidade da imagem resulta da resolução do sensor e da capacidade das lentes de captar os detalhes mais finos.",
+          "fonte": "casaglia2015",
+          "onde": "Introdução (p. 122–129)"
+        },
+        {
+          "texto": "Porque a imagem deve registrar a cor da câmera, e não a que o olho percebe.",
+          "correta": false,
+          "justificativa": "O artigo diz o contrário: a imagem deve registrar a cor percebida pelo olho no exame.",
+          "fonte": "casaglia2015",
+          "onde": "Introdução (p. 122–129)"
+        },
+        {
+          "texto": "Porque a cor mal reproduzida dificulta avaliar lesões de tecido mole e esconde lesões de tecido duro.",
+          "correta": true,
+          "justificativa": "São as legendas das Figuras 1 e 2 do artigo: saturação de cor incorreta dificulta avaliar lesão de tecido mole, e cor incorreta esconde lesões de tecido duro.",
+          "fonte": "casaglia2015",
+          "onde": "Introdução (p. 122–129)"
+        }
+      ],
+      "fonte": "casaglia2015",
+      "onde": "Introdução (p. 122–129)",
+      "secao": "balanco-de-branco",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um cirurgião-dentista monta o material de divulgação do consultório com imagens clínicas e quer evitar imagens repugnantes ou desagradáveis para o paciente. Segundo Casaglia et al. (2015), qual das imagens abaixo pode ser útil nesse material?",
+      "alternativas": [
+        {
+          "texto": "Imagens clínicas de antes e depois do tratamento.",
+          "correta": true,
+          "justificativa": "O artigo diz que imagens clínicas de antes e depois podem ser úteis no material de divulgação.",
+          "fonte": "casaglia2015",
+          "onde": "Comunicação: marketing (p. 122–129)"
+        },
+        {
+          "texto": "Imagens de procedimentos cirúrgicos.",
+          "correta": false,
+          "justificativa": "O artigo dá imagens de procedimentos cirúrgicos como exemplo do que merece exclusão do material.",
+          "fonte": "casaglia2015",
+          "onde": "Comunicação: marketing (p. 122–129)"
+        },
+        {
+          "texto": "Imagens de inflamações.",
+          "correta": false,
+          "justificativa": "O artigo dá imagens de inflamações como exemplo do que merece exclusão do material.",
+          "fonte": "casaglia2015",
+          "onde": "Comunicação: marketing (p. 122–129)"
+        },
+        {
+          "texto": "Imagens de hemorragias.",
+          "correta": false,
+          "justificativa": "O artigo dá imagens de hemorragias como exemplo do que merece exclusão do material.",
+          "fonte": "casaglia2015",
+          "onde": "Comunicação: marketing (p. 122–129)"
+        }
+      ],
+      "fonte": "casaglia2015",
+      "onde": "Comunicação: marketing (p. 122–129)",
+      "secao": "serie-de-fotos",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "No estudo de Moussa et al. (2021), os autores marcaram linhas de referência a lápis em cada dente, colocaram um adesivo de 0,8 cm na base para dar a escala e compararam fotos de DSLR e de celular com o escaneamento intraoral. O que foi fotografado?",
+      "alternativas": [
+        {
+          "texto": "A face de pacientes, com fotos frontais.",
+          "correta": false,
+          "justificativa": "Cada modelo recebeu linhas a lápis e um adesivo de escala na base. Os autores indicam fotos da face de pacientes para um estudo futuro.",
+          "fonte": "moussa2021",
+          "onde": "Método; Discussão (artigo 3910291)"
+        },
+        {
+          "texto": "Vídeos das arcadas de pacientes.",
+          "correta": false,
+          "justificativa": "Os autores indicam que vídeos devem ser avaliados em estudos futuros.",
+          "fonte": "moussa2021",
+          "onde": "Método; Discussão (artigo 3910291)"
+        },
+        {
+          "texto": "Modelos de gesso de arcadas superiores.",
+          "correta": true,
+          "justificativa": "Foram usadas 30 arcadas superiores de gesso, e os autores citam isso entre os limites: fotos 2D de modelos, com poucos estudos clínicos.",
+          "fonte": "moussa2021",
+          "onde": "Método; Discussão (artigo 3910291)"
+        },
+        {
+          "texto": "Arcadas inferiores em boca, sob isolamento absoluto.",
+          "correta": false,
+          "justificativa": "O estudo incluiu só arcadas superiores de gesso; modelos inferiores ficam para estudos futuros.",
+          "fonte": "moussa2021",
+          "onde": "Método; Discussão (artigo 3910291)"
+        }
+      ],
+      "fonte": "moussa2021",
+      "onde": "Método; Discussão (artigo 3910291)",
+      "secao": "moussa-estudo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Uma aluna vai fotografar a região intrabucal com uma câmera compacta e consulta as tabelas de ajuste do capítulo de Rocha e Trigueiro (Cordon, 2015). Qual conjunto de ajustes a tabela traz para essa situação?",
+      "alternativas": [
+        {
+          "texto": "Modo manual, tempo de exposição 1/125, 1/160 ou 1/200, ISO 100 ou 200 e flash TTL.",
+          "correta": false,
+          "justificativa": "É a coluna da câmera reflex na Tabela 2.2. O enunciado fala de câmera compacta.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38"
+        },
+        {
+          "texto": "Modo programa, função macro ativada, flash ativado, distância do objeto de no mínimo 30 a 40 cm e balanço de branco em flash.",
+          "correta": true,
+          "justificativa": "É a coluna da câmera compacta na Tabela 2.2, a das fotos intrabucais.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38"
+        },
+        {
+          "texto": "Modo programa, função macro desativada, flash ativado e balanço de branco em flash.",
+          "correta": false,
+          "justificativa": "É a coluna da câmera compacta na Tabela 2.1, a das fotos extrabucais. O enunciado fala de região intrabucal.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38"
+        },
+        {
+          "texto": "Modo manual, abertura f/8, f/11 ou f/20, tempo de exposição 1/60, 1/80 ou 1/100, ISO 400 e flash TTL.",
+          "correta": false,
+          "justificativa": "É a coluna da câmera reflex na Tabela 2.1, a das fotos extrabucais. O enunciado fala de câmera compacta e de região intrabucal.",
+          "fonte": "cordon2015",
+          "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38"
+        }
+      ],
+      "fonte": "cordon2015",
+      "onde": "cap. 2, Ajuste da câmera fotográfica, Tabelas 2.1 e 2.2, p. 38",
+      "secao": "cordon-tabelas",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Um cirurgião-dentista quer publicar na rede social um vídeo do procedimento restaurador enquanto o realiza, com TCLE assinado pelo paciente. Segundo a Resolução CFO-196/2019, essa divulgação:",
+      "alternativas": [
+        {
+          "texto": "é proibida pelo art. 3º, que ressalva a publicação científica.",
+          "correta": true,
+          "justificativa": "O art. 3º proíbe expressamente divulgar vídeos ou imagens do transcurso ou da realização dos procedimentos, exceto em publicação científica.",
+          "fonte": "cfo196",
+          "onde": "art. 3º"
+        },
+        {
+          "texto": "é permitida, porque o art. 2º autoriza imagens do tratamento desde que haja TCLE.",
+          "correta": false,
+          "justificativa": "O art. 2º trata de imagens de diagnóstico e de conclusão de tratamento. Para o transcurso do procedimento vale o art. 3º.",
+          "fonte": "cfo196",
+          "onde": "art. 2º; art. 3º"
+        },
+        {
+          "texto": "é permitida, desde que conste o nome do profissional e o número de inscrição.",
+          "correta": false,
+          "justificativa": "O art. 4º exige nome e inscrição em toda publicação, mas não afasta a proibição do art. 3º.",
+          "fonte": "cfo196",
+          "onde": "art. 3º; art. 4º"
+        },
+        {
+          "texto": "é permitida, desde que o paciente seja o próprio autor das imagens.",
+          "correta": false,
+          "justificativa": "O art. 3º proíbe a divulgação de vídeos ou imagens do transcurso ou da realização dos procedimentos; a exceção que ele traz é a publicação científica, não a autoria das imagens.",
+          "fonte": "cfo196",
+          "onde": "art. 3º"
+        }
+      ],
+      "fonte": "cfo196",
+      "onde": "art. 3º",
+      "secao": "cfo196",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o art. 2º da Resolução CFO-196/2019, a divulgação de imagem relativa à conclusão de tratamento é autorizada quando:",
+      "alternativas": [
+        {
+          "texto": "é feita por qualquer cirurgião-dentista da clínica, e o paciente concordou no consultório.",
+          "correta": false,
+          "justificativa": "O art. 2º exige que a divulgação seja feita pelo cirurgião-dentista responsável pela execução do procedimento, e a autorização é por TCLE.",
+          "fonte": "cfo196",
+          "onde": "art. 2º"
+        },
+        {
+          "texto": "é feita pelo cirurgião-dentista responsável, sem autorização, desde que traga nome e inscrição.",
+          "correta": false,
+          "justificativa": "O art. 4º exige nome e inscrição na publicação, mas o art. 2º exige a autorização prévia por TCLE.",
+          "fonte": "cfo196",
+          "onde": "art. 2º; art. 4º"
+        },
+        {
+          "texto": "mostra caso clínico de outro profissional, com autorização do paciente por TCLE.",
+          "correta": false,
+          "justificativa": "O art. 4º veda a divulgação de casos clínicos de autoria de terceiros.",
+          "fonte": "cfo196",
+          "onde": "art. 4º"
+        },
+        {
+          "texto": "é feita pelo cirurgião-dentista responsável pela execução do procedimento, com autorização prévia do paciente por TCLE.",
+          "correta": true,
+          "justificativa": "São as condições do art. 2º: divulgação pelo responsável pela execução do procedimento e autorização prévia do paciente ou do representante legal por TCLE.",
+          "fonte": "cfo196",
+          "onde": "art. 2º"
+        }
+      ],
+      "fonte": "cfo196",
+      "onde": "art. 2º",
+      "secao": "cfo196",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o art. 5º, II da Lei nº 13.709/2018 (LGPD), qual das opções abaixo é dado pessoal sensível?",
+      "alternativas": [
+        {
+          "texto": "Qualquer informação sobre pessoa natural identificável, por si só.",
+          "correta": false,
+          "justificativa": "Isso é a definição de dado pessoal (art. 5º, I). O inciso II lista os tipos de dado pessoal sensível.",
+          "fonte": "lgpd",
+          "onde": "art. 5º, I e II"
+        },
+        {
+          "texto": "A concordância livre, informada e inequívoca do titular.",
+          "correta": false,
+          "justificativa": "Isso é o consentimento, definido no art. 5º, XII, e não um tipo de dado.",
+          "fonte": "lgpd",
+          "onde": "art. 5º, XII"
+        },
+        {
+          "texto": "O tratamento feito exclusivamente para fins acadêmicos.",
+          "correta": false,
+          "justificativa": "É a hipótese do art. 4º, II, b, em que a lei não se aplica, mas se aplicam os arts. 7º e 11. Não é um tipo de dado.",
+          "fonte": "lgpd",
+          "onde": "art. 4º, II, b"
+        },
+        {
+          "texto": "O dado referente à saúde, quando ligado a uma pessoa natural.",
+          "correta": true,
+          "justificativa": "O art. 5º, II inclui o dado referente à saúde, ligado a pessoa natural, entre os dados pessoais sensíveis.",
+          "fonte": "lgpd",
+          "onde": "art. 5º, II"
+        }
+      ],
+      "fonte": "lgpd",
+      "onde": "art. 5º, II",
+      "secao": "lgpd",
+      "figura": null
+    }
+  ]
+}

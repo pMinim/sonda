@@ -1,0 +1,618 @@
+{
+  "slug": "periodontite-estagio-grau",
+  "titulo": "Periodontite: estágio, grau e extensão",
+  "area": "Periodontia",
+  "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "tonetti2018",
+      "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+      "curta": "Tonetti et al. 2018"
+    },
+    {
+      "id": "papapanou2018",
+      "ref": "Papapanou PN, Sanz M, Buduneli N, et al. Periodontitis: consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S162–S170.",
+      "curta": "Papapanou et al. 2018"
+    },
+    {
+      "id": "caton2018",
+      "ref": "Caton JG, Armitage G, Berglundh T, et al. A new classification scheme for periodontal and peri-implant diseases and conditions – Introduction and key changes from the 1999 classification. J Clin Periodontol. 2018;45(Suppl 20):S1–S8.",
+      "curta": "Caton et al. 2018"
+    },
+    {
+      "id": "chapple2018",
+      "ref": "Chapple ILC, et al. Periodontal health and gingival diseases and conditions on an intact and a reduced periodontium: consensus report of workgroup 1 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(Suppl 20):S68–S77.",
+      "curta": "Chapple et al. 2018"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "definicao",
+      "titulo": "O que é periodontite e como se mede",
+      "fonte": "papapanou2018",
+      "onde": "seção \"Which are the main features that identify periodontitis?\", p. S167; introdução, p. S163; Tabela 1A, nota, p. S164",
+      "texto": "**Definição (consenso de 2018):** doença inflamatória crônica e multifatorial, associada a biofilmes **disbióticos**, caracterizada pela destruição progressiva do aparato de sustentação do dente.\n\nOs traços principais são a perda de inserção clínica, a perda óssea radiográfica, a bolsa periodontal e o sangramento gengival. O clínico costuma confirmar a perda interproximal pela radiografia.\n\n**No estágio:** a classificação parte da perda de inserção clínica; quando ela não está disponível, usa-se a perda óssea radiográfica (Tabela 1A)."
+    },
+    {
+      "id": "criterios",
+      "titulo": "Os critérios de caso",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152",
+      "texto": "No contexto de cuidado clínico, o paciente é **caso de periodontite** quando cumpre **uma** de duas condições (basta uma):\n\n- **Perda de inserção interdental:** detectável em **2 ou mais dentes não adjacentes**. \"Detectável\" quer dizer que o clínico identifica a perda ao sondar ou vê a junção cemento-esmalte interdental, levando em conta erro de medição e fatores locais. Não há limiar fixo em milímetros, para não classificar periodontite inicial como gengivite. Exigir dentes não adjacentes aumenta a especificidade. (Analogia: se dois pontos distantes da casa estão sem luz, o problema é da casa, não da tomada.)\n- **Perda de inserção vestibular ou oral:** **≥ 3 mm**, com bolsa **> 3 mm**, detectáveis em **2 ou mais dentes**.\n\n**A definição inteira** tem uma ressalva: a perda de inserção observada não pode ser atribuída a causa não periodontal. O texto dá cinco exemplos:\n\n1. recessão gengival de origem traumática;\n2. cárie estendendo-se à região cervical do dente;\n3. perda de inserção na face distal de segundo molar, associada à má posição ou à extração do terceiro molar;\n4. lesão endodôntica drenando pela margem periodontal;\n5. fratura vertical de raiz."
+    },
+    {
+      "id": "estagio-grau-extensao",
+      "titulo": "Estágio, grau e extensão: a analogia do carro",
+      "fonte": "tonetti2018",
+      "onde": "Tabela 1, p. S154; Tabela 3 (com notas), p. S157; Tabela 4, p. S159; seção \"Integrating current knowledge…\", extensão, p. S153; texto do estágio, p. S158",
+      "texto": "- **Estágio = a estrada:** o quanto o carro já andou. Classifica a **gravidade** (perda de inserção, perda óssea e dentes perdidos por periodontite) e a **complexidade do manejo**.\n- **Grau = o velocímetro:** a velocidade a que anda. Estima o **risco de progressão** e a resposta à terapia padrão, para orientar a **intensidade do tratamento e do monitoramento**, e o impacto potencial sobre a saúde sistêmica. Parte da evidência direta (exames antigos) ou indireta (razão perda óssea/idade e fenótipo do caso) e depois é modificado por tabagismo e diabetes.\n- **Extensão = o sobrenome:** localizada, generalizada ou padrão molar/incisivo, acrescentada ao estágio.\n\nA analogia do carro é só apoio de memória: os termos da classificação são estágio, grau e extensão. Estágio e grau são dimensões separadas: dois carros com a mesma quilometragem podem andar em velocidades muito diferentes.\n\n**A característica determinante** do estágio é a **perda de inserção interdental no sítio de maior perda**. Na ausência dela, usa-se a perda óssea radiográfica, que é menos sensível. **Em paciente tratado**, perda de inserção e perda óssea continuam determinando o estágio; se o tratamento eliminou um fator de complexidade que tinha subido o estágio, ele **não regride**. A exceção é a regeneração periodontal bem-sucedida, que pode melhorar a inserção e o osso daquele dente.\n\n**Fatores de complexidade** podem deslocar o estágio para cima, e em geral basta um. Furca classe II ou III leva a III ou IV, independentemente da perda de inserção (perda de 4 mm com furca II em raiz curta passa de II para III). Defeito ósseo vertical ≥ 3 mm e defeito de rebordo moderado estão no III; mobilidade ≥ 2 e defeito de rebordo severo, no IV. Mobilidade alta ou colapso de mordida posterior indicam IV.\n\n**Extensão:** localizada (menos de 30% dos dentes envolvidos), generalizada ou padrão molar/incisivo. Na classificação de 1999, a distribuição molar/incisivo era o descritor principal da periodontite agressiva, e o padrão dos mais jovens era o que se chamava periodontite juvenil localizada.\n\n**Como o osso desce:** perda **predominantemente horizontal** é a dos estágios I e II (imagem didática: a crista desce como uma plataforma). Perda **vertical** de 3 mm ou mais (o defeito \"cava\" ao lado da raiz) é fator de complexidade do estágio III."
+    },
+    {
+      "id": "estagios",
+      "titulo": "Os quatro estágios",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157; descrição dos estágios, p. S155",
+      "texto": "| Estágio | Perda de inserção interdental (pior sítio) | Perda óssea radiográfica | Dentes perdidos por periodontite | Complexidade local |\n|---|---|---|---|---|\n| **I — inicial** | 1–2 mm | terço coronal, < 15% | nenhum | sondagem máxima ≤ 4 mm · perda predominantemente horizontal |\n| **II — moderada** | 3–4 mm | terço coronal, 15 a 33% | nenhum | sondagem máxima ≤ 5 mm · perda predominantemente horizontal |\n| **III — grave** | ≥ 5 mm | terço médio ou apical | até 4 | além do II: sondagem ≥ 6 mm · perda vertical ≥ 3 mm · furca II/III · defeito de rebordo moderado |\n| **IV — avançada** | ≥ 5 mm (a mesma do III) | terço médio ou apical | 5 ou mais | além do III, **necessidade de reabilitação complexa** por: disfunção mastigatória · trauma oclusal secundário (mobilidade ≥ 2) · defeito de rebordo severo · colapso de mordida, migração ou inclinação dos dentes · menos de 20 dentes (10 pares antagonistas) |\n\n**III × IV: o milímetro é o mesmo; o que muda é a complexidade.** No III, a perda é significativa, mas a função mastigatória está preservada e o tratamento não exige reabilitação complexa da função. No IV, o dano ao suporte é considerável, a função mastigatória pode se perder e, com frequência, o caso pede estabilização ou reabilitação. Mobilidade alta ou colapso de mordida posterior indicam IV. A perda dentária por periodontite é de até 4 dentes no III e de 5 ou mais no IV."
+    },
+    {
+      "id": "caso-estagio",
+      "titulo": "Caso clínico 1: qual o estágio?",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157; Tabela 4, notas, p. S159",
+      "texto": "Homem, 45 anos: perda de inserção de 6 mm no pior sítio (16), com perda óssea no terço médio da raiz; bolsas de 6 mm em 8 dentes; furca grau II no 46; perdeu o 26 e o 36 por periodontite e tem 26 dentes; sem mobilidade ≥ 2, colapso de mordida nem defeito de rebordo severo, mastigação preservada; 38% dos dentes afetados. Qual o estágio?\n\nO raciocínio, na ordem da classificação:\n\n1. **Determinante:** 6 mm no pior sítio, ≥ 5 mm, logo estágio III ou IV.\n2. **Complexidade e perda dental:** 2 dentes perdidos (≤ 4) e furca II, que leva a III ou IV. Não há nenhum fator de IV: nem 5 perdas, nem disfunção mastigatória, mobilidade ≥ 2, colapso de mordida, rebordo severo ou menos de 20 dentes. Fica no III.\n3. **Extensão:** 38% dos dentes afetados, acima de 30%, então não é localizada: generalizada.\n\nDiagnóstico: **periodontite estágio III, generalizada**. E o grau? Por padrão, **assume-se grau B**; para confirmar ou mudar para A ou C, falta cruzar perda óssea, idade e fatores de risco."
+    },
+    {
+      "id": "grau",
+      "titulo": "O grau: risco de progressão",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Framework for developing a periodontitis staging and grading system\", Tabela 1, p. S154; seção \"Incorporation of staging and grading…\", Tabela 4 (com notas), p. S159, e texto do grau, p. S158",
+      "texto": "O grau estima o **risco de progressão**, a resposta à terapia padrão e o impacto sistêmico, para orientar a **intensidade** do tratamento e do monitoramento.\n\n**Comece pelo B.** Sem evidência específica, o clínico assume progressão moderada (grau B) e procura sinais de A ou C. Os critérios primários são a **evidência direta** (comparação com exames antigos: quanto andou em 5 anos) e, na falta dela, a **evidência indireta**: a razão perda óssea/idade e o **fenótipo do caso**, que são critérios separados. A conta da razão está na próxima seção.\n\n| | A — lenta | B — moderada | C — rápida |\n|---|---|---|---|\n| Evidência direta (5 anos) | nenhuma perda | < 2 mm | ≥ 2 mm |\n| Evidência indireta: % de perda óssea ÷ idade | < 0,25 | 0,25–1,0 | > 1,0 |\n| Evidência indireta: fenótipo | muito biofilme, pouca destruição | destruição compatível com o biofilme | destruição **excede** o esperado para o biofilme · padrão molar/incisivo ou outro sinal de progressão rápida ou início precoce · não responde à terapia padrão |\n| Modificador: tabagismo | não fuma | < 10 cigarros/dia | ≥ 10 cigarros/dia |\n| Modificador: diabetes | normoglicêmico ou sem diagnóstico de diabetes | diabético com hemoglobina glicada (HbA1c) < 7% | diabético com HbA1c ≥ 7% |\n\nO grau é fixado pela evidência e **depois** ajustado pelos fatores de risco, que podem subi-lo mesmo contra o critério primário: um estágio II grau B com diabetes mal controlado passa a grau C. Tabagismo e diabetes podem mudar o grau."
+    },
+    {
+      "id": "conta-e-casos",
+      "titulo": "A razão perda óssea/idade e os casos fechados",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", grau, p. S158; Tabelas 3 e 4 (com notas), p. S157 e S159; seção \"Integrating current knowledge…\", forma de periodontite, p. S152–S153; Papapanou et al. 2018, critérios de caso das doenças necrosantes",
+      "texto": "**A conta.** A evidência indireta de progressão é a perda óssea no dente mais afetado, em porcentagem do comprimento da raiz, dividida pela idade do paciente (Tabela 4: \"% de perda óssea / idade\"). O artigo não detalha em que pontos da radiografia se mede; o exemplo abaixo usa só a perda e o comprimento da raiz, em milímetros.\n\n> **Perda óssea (%) = perda em mm ÷ comprimento da raiz em mm × 100**\n> **Razão = perda óssea (%) ÷ idade**\n\n**Exemplo fechado (caso didático).** A paciente: perda de 4 mm numa raiz de 9 mm, então 4 ÷ 9 × 100 = **44,4%** de perda óssea. 44,4 ÷ 40 anos = **razão 1,11**. Como passa de 1,0, **grau C**, e os 15 cigarros por dia levam ao mesmo grau por outro caminho (tabagismo ≥ 10/dia também é C).\n\nO estágio: na falta da perda de inserção, usa-se a perda óssea radiográfica. 44% passa do terço coronal (que vai até 33%) e alcança o terço médio, faixa do III ou IV na Tabela 3; sem fator de IV, **estágio III**. Com 42% dos dentes afetados, acima de 30%, não é localizada: a extensão é **generalizada**.\n\n**Diagnóstico completo do exemplo: periodontite, estágio III, grau C, generalizada.**\n\n**Casos breves**\n\n- **Paciente tratado, em que o tratamento eliminou um fator de complexidade que havia elevado o estágio:** perda de inserção e perda óssea continuam determinando o estágio, que **não regride**. A exceção é a regeneração periodontal bem-sucedida, que pode melhorar a inserção e o osso daquele dente.\n- **35 anos, não fuma, sem diabetes:** perda de inserção de 6 mm em incisivos e primeiros molares, razão perda óssea/idade 1,4, 25% dos dentes afetados. **Periodontite estágio III, grau C, padrão molar/incisivo.** Perda de inserção ≥ 5 mm leva a III ou IV (sem fator de IV, III); a razão > 1,0 dá C mesmo sem fator de risco, e o padrão molar/incisivo, exemplo de fenótipo C, também aponta para C. Na classificação de 1999, essa distribuição era o descritor principal da forma agressiva.\n- **50 anos, dor intensa há 3 dias, ulceração da margem gengival, papilas decapitadas cobertas por fibrina e perda óssea rápida:** é a apresentação da **periodontite necrosante**, uma das três formas de periodontite, ao lado da periodontite como manifestação de doença sistêmica e da periodontite que cobre as antigas crônica e agressiva. Segundo o Papapanou et al. (critérios de caso das doenças necrosantes), a gengivite necrosante traz necrose ou úlcera das papilas, sangramento e dor; a periodontite necrosante acrescenta a **perda óssea rápida**.\n\n**Roteiro para ler uma periapical.** Três perguntas: a perda chega a qual terço da raiz (coronal, médio ou apical)? O padrão é predominantemente horizontal ou vertical (≥ 3 mm)? Há furca envolvida?"
+    }
+  ],
+  "figuras": [
+    {
+      "src": "data/14733/img/sondagem-bolsa-perda-insercao.jpg",
+      "alt": "Corte de pré-molar inferior com a gengiva um pouco abaixo do fim do esmalte e uma sonda milimetrada entrando fundo numa bolsa vestibular, com o osso abaixo do normal.",
+      "legenda": "Ilustração de sondagem. Da junção cemento-esmalte (JCE) ao fundo da bolsa: perda de inserção. Definição de caso: perda de inserção vestibular ou oral ≥ 3 mm com bolsa > 3 mm em 2 ou mais dentes, ou perda de inserção interdental em 2 ou mais dentes não adjacentes. Nos dois casos, descartar antes as causas não periodontais: recessão traumática, cárie cervical, distal de segundo molar ligada ao terceiro molar, lesão endodôntica drenando pela margem periodontal e fratura vertical de raiz (Tonetti et al. 2018).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "criterios",
+      "largura": 1138,
+      "altura": 1400
+    },
+    {
+      "src": "data/14733/img/rx-perda-ossea-score-0-a-3.jpg",
+      "alt": "Quatro radiografias periapicais de dentes posteriores inferiores, rotuladas de Score 0 a Score 3. Da primeira para a última, a crista óssea aparece cada vez mais longe da coroa.",
+      "legenda": "Quatro radiografias periapicais classificadas pelos autores pela perda óssea: “Score 0”, sem perda detectável; “Score 1”, até 15% do comprimento da raiz (faixa do estágio I); “Score 2”, de 15% a 33% (estágio II); “Score 3”, terço médio da raiz ou além (estágios III e IV, que se separam pela complexidade). Lembre que o estágio parte da perda de inserção; a radiografia entra quando ela não está disponível.",
+      "credito": "Radiografias: Dujic et al., Diagnostics, 2023 (Figura 1). CC BY 4.0.",
+      "apos": "estagios",
+      "largura": 1155,
+      "altura": 1159
+    },
+    {
+      "src": "data/14733/img/rx-estagio-i.jpg",
+      "alt": "Radiografia periapical de molar e pré-molar inferiores com a crista óssea pouco abaixo da junção cemento-esmalte. No canto, o rótulo “Score 1” dos autores.",
+      "legenda": "Radiografia periapical classificada pelos autores como perda óssea leve (“Score 1”: até 15% do comprimento da raiz), a faixa radiográfica do estágio I.",
+      "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 1”, recortado). CC BY 4.0.",
+      "apos": "estagios",
+      "largura": 554,
+      "altura": 556
+    },
+    {
+      "src": "data/14733/img/rx-estagio-ii.jpg",
+      "alt": "Radiografia periapical de molares inferiores com a crista óssea mais baixa entre os dentes, ainda no terço coronal das raízes. No canto, o rótulo “Score 2” dos autores.",
+      "legenda": "Radiografia periapical classificada pelos autores como perda óssea moderada (“Score 2”: de 15% a 33% do comprimento da raiz), a faixa radiográfica do estágio II.",
+      "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 2”, recortado). CC BY 4.0.",
+      "apos": "estagios",
+      "largura": 556,
+      "altura": 556
+    },
+    {
+      "src": "data/14733/img/rx-estagio-iii.jpg",
+      "alt": "Radiografia periapical de molares inferiores com perda óssea profunda ao lado do último molar, chegando à metade da raiz. No canto, o rótulo “Score 3” dos autores.",
+      "legenda": "Radiografia periapical classificada pelos autores como perda óssea grave (“Score 3”: chega ao terço médio da raiz ou passa dele), a faixa radiográfica do estágio III.",
+      "credito": "Radiografia: Dujic et al., Diagnostics, 2023 (Figura 1, painel “Score 3”, recortado). CC BY 4.0.",
+      "apos": "estagios",
+      "largura": 554,
+      "altura": 556
+    },
+    {
+      "src": "data/14733/img/conta-do-percentual-de-perda-ossea.svg",
+      "alt": "Esquema de um dente em corte com o osso em volta da raiz. Setas marcam 4 mm de perda óssea, da junção cemento-esmalte até a crista óssea, e 9 mm de comprimento da raiz, da junção até o ápice. Embaixo, o cálculo da perda óssea em porcentagem (44,4%) e da razão com a idade (1,11).",
+      "legenda": "Esquema didático, com exemplo numérico: 4 mm de perda óssea numa raiz de 9 mm dão 4 ÷ 9 × 100 = 44,4%; dividindo pela idade de 40 anos, 44,4 ÷ 40 = 1,11. O artigo diz que a perda óssea é medida no dente mais afetado, em porcentagem do comprimento da raiz, dividida pela idade; os pontos de medida do desenho são ilustrativos. JCE: junção cemento-esmalte.",
+      "credito": "Esquema elaborado para o Sonda.",
+      "apos": "conta-e-casos",
+      "largura": 720,
+      "altura": 1060
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual é o corte de extensão da periodontite?",
+      "verso": "**30% dos dentes afetados.** Menos de 30%, localizada; 30% ou mais, generalizada. A terceira opção é o padrão molar/incisivo.",
+      "fonte": "caton2018",
+      "onde": "seção \"A new classification of periodontitis\", Tabela 3, nota 3, p. S5"
+    },
+    {
+      "id": "f02",
+      "frente": "Na definição de caso de periodontite, qual condição se baseia na perda de inserção interdental?",
+      "verso": "Perda de inserção interdental detectável em **2 ou mais dentes não adjacentes**, sem limiar fixo em milímetros. É alternativa à condição vestibular/oral (basta uma). Nas duas, a perda não pode ser atribuída a causa não periodontal.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+    },
+    {
+      "id": "f03",
+      "frente": "Que causas não periodontais de perda de inserção a definição de caso de periodontite cita como exemplos?",
+      "verso": "Recessão gengival de origem traumática; cárie estendendo-se à região cervical; perda na distal do segundo molar ligada à má posição ou à extração do terceiro molar; lesão endodôntica drenando pela margem periodontal; fratura vertical de raiz. A perda observada não pode ser atribuída a elas, em qualquer das duas condições.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual é a característica determinante do estágio?",
+      "verso": "A **perda de inserção interdental no sítio de maior perda**. Na ausência dela, usa-se a perda óssea radiográfica, que é menos sensível.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+    },
+    {
+      "id": "f05",
+      "frente": "Estágios III e IV têm o mesmo milímetro. O que os diferencia?",
+      "verso": "A complexidade. O IV exige **reabilitação complexa** por disfunção mastigatória, mobilidade ≥ 2, colapso de mordida (migração, inclinação), defeito de rebordo severo ou menos de 20 dentes, ou já perdeu 5 ou mais dentes por periodontite. No III a função mastigatória está preservada.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+    },
+    {
+      "id": "f06",
+      "frente": "Como se calcula a evidência indireta de progressão do grau (razão perda óssea/idade)?",
+      "verso": "Perda óssea no dente mais afetado, em **% do comprimento da raiz**, dividida pela **idade**. Exemplo: 4 mm de perda numa raiz de 9 mm = 44,4%; 44,4 ÷ 40 anos = 1,11.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto, pp. S156 e S158"
+    },
+    {
+      "id": "f07",
+      "frente": "Quais são as faixas da razão perda óssea/idade para os graus A, B e C?",
+      "verso": "A: < 0,25. B: 0,25–1,0. C: > 1,0.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+    },
+    {
+      "id": "f08",
+      "frente": "O que o estágio mede e para que serve o grau?",
+      "verso": "O estágio mede a **gravidade** e a **complexidade do manejo**. O grau estima o **risco de progressão** e a resposta à terapia, para orientar a **intensidade do tratamento e do monitoramento** (e sinaliza o impacto sistêmico).",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Framework for developing a periodontitis staging and grading system\", Tabela 1, p. S154"
+    },
+    {
+      "id": "f09",
+      "frente": "O que acontece com o estágio em paciente tratado?",
+      "verso": "Perda de inserção e perda óssea continuam determinando o estágio. Se o tratamento eliminou o fator de complexidade que o subiu, o estágio **não regride**. Exceção: regeneração periodontal bem-sucedida pode melhorar inserção e osso daquele dente.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+    },
+    {
+      "id": "f10",
+      "frente": "Quantos dentes perdidos por periodontite caracterizam o estágio IV?",
+      "verso": "5 ou mais. É um dos caminhos para o IV; os fatores de complexidade (disfunção mastigatória, mobilidade ≥ 2, colapso de mordida, rebordo severo, menos de 20 dentes) também levam a ele.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+    },
+    {
+      "id": "f11",
+      "frente": "Sem evidência de progressão, qual grau o clínico assume?",
+      "verso": "**Grau B.** Depois procura evidência específica de A ou C, e os fatores de risco (tabagismo, diabetes) podem subir o grau.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual é a condição vestibular/oral da definição de caso de periodontite?",
+      "verso": "Perda de inserção vestibular ou oral **≥ 3 mm**, com bolsa **> 3 mm**, detectáveis em **2 ou mais dentes**, sem causa não periodontal para a perda.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+    },
+    {
+      "id": "f13",
+      "frente": "Quais são os modificadores do grau e como entram?",
+      "verso": "**Tabagismo** (não fuma: A; < 10 cigarros/dia: B; ≥ 10: C) e **diabetes** (sem diabetes: A; HbA1c < 7,0%: B; ≥ 7,0%: C). O grau é fixado pela evidência de progressão e **depois** pode subir pelos fatores de risco.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158"
+    },
+    {
+      "id": "f14",
+      "frente": "Na classificação de 1999, o que a distribuição molar/incisivo caracterizava? E hoje?",
+      "verso": "Era o descritor principal da periodontite agressiva (o padrão dos mais jovens, antes chamado periodontite juvenil localizada). Hoje é uma das formas de descrever a extensão, ao lado de localizada e generalizada, e um exemplo de fenótipo de grau C.",
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", extensão, p. S153; Tabela 4, p. S159"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 40 anos, fumante de 15 cigarros por dia. A periapical do pior sítio mostra 4 mm de osso perdidos numa raiz de 9 mm. Qual é a razão entre a perda óssea percentual e a idade, e qual o grau correspondente?",
+      "alternativas": [
+        {
+          "texto": "Razão 1,11, grau B.",
+          "correta": false,
+          "justificativa": "A razão é maior que 1,0, faixa do grau C. O grau B vai de 0,25 a 1,0.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Razão 1,11, grau C.",
+          "correta": true,
+          "justificativa": "Perda óssea = 4 ÷ 9 × 100 = 44,4%; razão = 44,4 ÷ 40 = 1,11. Como passa de 1,0, é grau C, e fumar 15 cigarros por dia (≥ 10/dia) também leva a C.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Razão 0,25, grau B.",
+          "correta": false,
+          "justificativa": "0,25 é só o limite inferior da faixa B e não resulta da conta; 44,4 ÷ 40 dá 1,11.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Perda óssea de 44,4% e grau A.",
+          "correta": false,
+          "justificativa": "44,4% é a perda óssea, não a razão por idade, e o grau A exige razão < 0,25, o que não é o caso.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159",
+      "secao": "conta-e-casos",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem, 45 anos: perda de inserção de 6 mm no pior sítio, com perda óssea no terço médio da raiz; bolsas de 6 mm em 8 dentes; furca grau II no 46; perdeu o 26 e o 36 por periodontite e tem 26 dentes; sem mobilidade ≥ 2, colapso de mordida nem defeito de rebordo severo, mastigação preservada; 38% dos dentes afetados. Qual é o diagnóstico de estágio e extensão?",
+      "alternativas": [
+        {
+          "texto": "Estágio III, localizada.",
+          "correta": false,
+          "justificativa": "O estágio está certo, mas 38% dos dentes afetados passa do corte de 30%, então é generalizada.",
+          "fonte": "caton2018",
+          "onde": "seção \"A new classification of periodontitis\", Tabela 3, nota 3, p. S5"
+        },
+        {
+          "texto": "Estágio IV, generalizada.",
+          "correta": false,
+          "justificativa": "Não há 5 ou mais perdas nem fator de complexidade do IV (disfunção mastigatória, mobilidade ≥ 2, colapso de mordida, rebordo severo, menos de 20 dentes). A furca II leva a III ou IV; sem fator de IV, fica no III.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+        },
+        {
+          "texto": "Estágio II, generalizada.",
+          "correta": false,
+          "justificativa": "6 mm no pior sítio é ≥ 5 mm, o que dá III ou IV; o estágio II vai de 3 a 4 mm.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "Estágio III, generalizada.",
+          "correta": true,
+          "justificativa": "6 mm no pior sítio dá III ou IV; 2 dentes perdidos (≤ 4) e furca II, sem nenhum fator de IV, ficam no III; 38% dos dentes afetados passa de 30%, então não é localizada: é generalizada.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157",
+      "secao": "caso-estagio",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente de 35 anos, não fuma e não tem diabetes, com perda de inserção de 6 mm em incisivos e primeiros molares, razão perda óssea/idade de 1,4 e 25% dos dentes afetados. Qual é o grau?",
+      "alternativas": [
+        {
+          "texto": "Grau A, porque não fuma e não tem diabetes.",
+          "correta": false,
+          "justificativa": "O grau vem primeiro da evidência de progressão; fatores de risco só o modificam. Ausência de fator de risco não baixa uma razão alta.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159"
+        },
+        {
+          "texto": "Grau B, porque os fatores de risco são nulos e a extensão é localizada.",
+          "correta": false,
+          "justificativa": "O grau B vai de 0,25 a 1,0 e a razão do caso é 1,4, acima de 1,0. Além disso, o padrão molar/incisivo é exemplo de fenótipo C, não de B.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Grau C, porque a razão perda óssea/idade é maior que 1,0.",
+          "correta": true,
+          "justificativa": "A razão de 1,4 (> 1,0) já dá C, mesmo sem fator de risco; o padrão molar/incisivo, critério de fenótipo C, também aponta para C.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Não é possível definir o grau sem a radiografia de base.",
+          "correta": false,
+          "justificativa": "Sem exame antigo (evidência direta), usa-se a evidência indireta: a razão perda óssea/idade e o fenótipo do caso.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159",
+      "secao": "grau",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Qual das alternativas descreve a condição interdental da definição de caso de periodontite?",
+      "alternativas": [
+        {
+          "texto": "Perda de inserção interdental detectável em 2 ou mais dentes não adjacentes.",
+          "correta": true,
+          "justificativa": "É o critério interdental. Conta-se dente, sem limiar fixo em milímetros, e exigir dentes não adjacentes aumenta a especificidade.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Perda de inserção interdental em 2 ou mais dentes adjacentes.",
+          "correta": false,
+          "justificativa": "A definição exige dentes não adjacentes, o que aumenta a especificidade.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Bolsa de 3 mm com sangramento em 8% dos sítios.",
+          "correta": false,
+          "justificativa": "Sondagem ≤ 3 mm com sangramento à sondagem em menos de 10% dos sítios é quadro de saúde (inclusive em periodonto reduzido), não de periodontite.",
+          "fonte": "chapple2018",
+          "onde": "Tabela 1, p. S74"
+        },
+        {
+          "texto": "Perda de inserção em um único sítio vestibular.",
+          "correta": false,
+          "justificativa": "Perda vestibular entra pela condição vestibular/oral, que exige ≥ 3 mm com bolsa > 3 mm em pelo menos 2 dentes; um único sítio não basta.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152",
+      "secao": "criterios",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um paciente tem perda de inserção de 6 mm no pior sítio, a mesma faixa do estágio III, mas apresenta disfunção mastigatória, mobilidade grau 2 por trauma oclusal secundário e colapso de mordida posterior, e o plano exige reabilitação complexa. Qual estágio você está olhando?",
+      "alternativas": [
+        {
+          "texto": "Estágio II.",
+          "correta": false,
+          "justificativa": "O estágio II tem perda de 3 a 4 mm e nenhum fator de complexidade além de sondagem ≤ 5 mm e perda horizontal.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "Estágio III.",
+          "correta": false,
+          "justificativa": "No III a função mastigatória está preservada; disfunção mastigatória, mobilidade ≥ 2 e colapso de mordida são fatores do IV.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+        },
+        {
+          "texto": "Estágio IV.",
+          "correta": true,
+          "justificativa": "O milímetro é o mesmo do III; o que muda é a complexidade. A necessidade de reabilitação complexa por disfunção mastigatória, mobilidade ≥ 2 ou colapso de mordida define o IV.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+        },
+        {
+          "texto": "Estágio I.",
+          "correta": false,
+          "justificativa": "O estágio I tem 1 a 2 mm de perda, sondagem ≤ 4 mm e nenhum fator de complexidade.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157",
+      "secao": "estagios",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Qual destes fatores é modificador do grau da periodontite?",
+      "alternativas": [
+        {
+          "texto": "Tabagismo.",
+          "correta": true,
+          "justificativa": "O tabagismo (não fuma: A; menos de 10 cigarros por dia: B; 10 ou mais: C) é modificador do grau.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4, p. S159"
+        },
+        {
+          "texto": "Cárie estendendo-se à região cervical.",
+          "correta": false,
+          "justificativa": "É causa não periodontal de perda de inserção citada na definição de caso, não modificador do grau.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Fratura vertical de raiz.",
+          "correta": false,
+          "justificativa": "É causa não periodontal de perda de inserção citada na definição de caso, não modificador do grau.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Lesão endodôntica drenando pela margem periodontal.",
+          "correta": false,
+          "justificativa": "É causa não periodontal de perda de inserção citada na definição de caso, não modificador do grau.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159",
+      "secao": "grau",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Para que servem, respectivamente, o estágio e o grau?",
+      "alternativas": [
+        {
+          "texto": "O estágio estima o risco de progressão; o grau mede a gravidade e a complexidade do manejo.",
+          "correta": false,
+          "justificativa": "Está invertido. O estágio mede a gravidade e a complexidade do manejo; o grau estima o risco de progressão.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Framework for developing a periodontitis staging and grading system\", Tabela 1, p. S154"
+        },
+        {
+          "texto": "O estágio mede a gravidade e a complexidade do manejo; o grau estima o risco de progressão, para dosar tratamento e monitoramento.",
+          "correta": true,
+          "justificativa": "Na analogia do carro, o estágio é a estrada, o quanto o carro já andou; o grau é o velocímetro, que orienta a intensidade do tratamento e do monitoramento.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Framework for developing a periodontitis staging and grading system\", Tabela 1, p. S154"
+        },
+        {
+          "texto": "Ambos descrevem apenas a extensão.",
+          "correta": false,
+          "justificativa": "A extensão (localizada, generalizada, molar/incisivo) é um descritor acrescentado ao estágio, não o que estágio e grau medem.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "O estágio determina o grau.",
+          "correta": false,
+          "justificativa": "São dimensões separadas: o grau vem da evidência de progressão e dos modificadores, não do estágio. Na analogia do carro, dois carros com a mesma quilometragem podem andar em velocidades muito diferentes.",
+          "fonte": "tonetti2018",
+          "onde": "Tabela 1, p. S154 (seção \"Framework for developing a periodontitis staging and grading system\") e Tabela 4, p. S159 (seção \"Incorporation of staging and grading…\")"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Framework for developing a periodontitis staging and grading system\", Tabela 1, p. S154",
+      "secao": "estagio-grau-extensao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Na falta da perda de inserção, a perda óssea de um paciente é de 44% (alcança o terço médio da raiz), não há nenhum fator de complexidade do estágio IV e 42% dos dentes estão afetados. Qual é o estágio e a extensão?",
+      "alternativas": [
+        {
+          "texto": "Estágio I, localizada.",
+          "correta": false,
+          "justificativa": "O estágio I tem perda óssea no terço coronal, < 15%.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "Estágio II, generalizada.",
+          "correta": false,
+          "justificativa": "O estágio II tem perda no terço coronal, de 15 a 33%; 44% alcança o terço médio.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "Estágio IV, localizada.",
+          "correta": false,
+          "justificativa": "Sem fator de complexidade do IV não é IV, e 42% dos dentes afetados não é localizada (localizada é < 30%).",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3, p. S157"
+        },
+        {
+          "texto": "Estágio III, generalizada.",
+          "correta": true,
+          "justificativa": "Na falta da perda de inserção usa-se a perda óssea; 44% alcança o terço médio (III ou IV), não há fator de IV e 42% dos dentes passa de 30%, então é generalizada.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 3 e notas, p. S157",
+      "secao": "conta-e-casos",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com perda de inserção vestibular de 3 mm e bolsa de 4 mm nos dentes 14 e 15. Não há recessão traumática, cárie cervical, lesão endodôntica nem fratura radicular, e a perda interdental não foi detectada. Esse paciente é caso de periodontite?",
+      "alternativas": [
+        {
+          "texto": "Sim: cumpre a condição vestibular/oral da definição de caso.",
+          "correta": true,
+          "justificativa": "A condição pede perda de inserção vestibular ou oral ≥ 3 mm com bolsa > 3 mm em 2 ou mais dentes, sem causa não periodontal. O caso traz 3 mm e 4 mm em 2 dentes e descarta as causas.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Não: só há caso de periodontite quando existe perda interdental.",
+          "correta": false,
+          "justificativa": "A definição tem duas condições alternativas, a interdental e a vestibular/oral; basta uma delas.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Não: os dois dentes são adjacentes.",
+          "correta": false,
+          "justificativa": "A exigência de dentes não adjacentes está escrita na condição interdental; a vestibular/oral pede 2 ou mais dentes.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        },
+        {
+          "texto": "Não: a bolsa de 4 mm não passa de 3 mm.",
+          "correta": false,
+          "justificativa": "A condição vestibular/oral pede bolsa > 3 mm, e 4 mm é maior que 3 mm.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Integrating current knowledge…\", definição de caso (contexto clínico), p. S152",
+      "secao": "criterios",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente de 52 anos com diabetes e HbA1c de 8,2%, não fumante, sem radiografia antiga. A razão entre a perda óssea percentual e a idade é 0,6. Qual é o grau?",
+      "alternativas": [
+        {
+          "texto": "Grau A, porque a razão é baixa.",
+          "correta": false,
+          "justificativa": "O grau A exige razão < 0,25; 0,6 está na faixa do grau B (0,25 a 1,0).",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158"
+        },
+        {
+          "texto": "Grau B, porque a razão está entre 0,25 e 1,0 e o diabetes não altera o grau.",
+          "correta": false,
+          "justificativa": "O grau é fixado pela evidência e depois pode ser modificado pelos fatores de risco. HbA1c ≥ 7,0% em paciente com diabetes é critério de grau C.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158"
+        },
+        {
+          "texto": "Grau C, porque o diabetes com HbA1c ≥ 7,0% sobe o grau.",
+          "correta": true,
+          "justificativa": "A razão de 0,6 dá grau B, e o fator de risco pode subir o grau independentemente do critério primário. HbA1c de 8,2% em paciente com diabetes é critério de grau C.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158"
+        },
+        {
+          "texto": "Grau C, mas só se o paciente também fumar.",
+          "correta": false,
+          "justificativa": "Tabagismo e diabetes são modificadores separados; HbA1c ≥ 7,0% em paciente com diabetes leva ao grau C por si só.",
+          "fonte": "tonetti2018",
+          "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158"
+        }
+      ],
+      "fonte": "tonetti2018",
+      "onde": "seção \"Incorporation of staging and grading…\", Tabela 4 e notas, p. S159; texto do grau, p. S158",
+      "secao": "grau",
+      "figura": null
+    }
+  ]
+}

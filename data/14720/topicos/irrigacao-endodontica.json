@@ -1,0 +1,536 @@
+{
+  "slug": "irrigacao-endodontica",
+  "titulo": "Irrigação: hipoclorito de sódio, EDTA, clorexidina e acidente com hipoclorito",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 8 e 20",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    },
+    {
+      "id": "cohen12-cap20",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 20, Manejo de Eventos Iatrogênicos, p. 737–787 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 20"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "objetivo",
+      "titulo": "Para que serve a irrigação",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Desinfecção do sistema de canais radiculares, Objetivos da irrigação, pp. 265–268",
+      "texto": "O Cohen (tradução da obra de Berman, Hargreaves e Rotstein) dá à irrigação dois grupos de objetivos: mecânicos e químicos, e biológicos.\n\n**Mecânicos e químicos.** O irrigante deve:\n\n- eliminar resíduos;\n- lubrificar o canal;\n- dissolver tecido orgânico e inorgânico;\n- impedir a formação da camada de debris que a instrumentação deixa na parede (smear layer) ou dissolvê-la depois de formada;\n- desorganizar e dissolver biofilmes.\n\n**Biológicos.** O irrigante precisa ter efeito antimicrobiano e reduzir ao máximo as bactérias do canal. Em princípio, deveria agir contra anaeróbios e facultativos, inativar endotoxinas e não ser tóxico aos tecidos vivos nem causar reação anafilática.\n\n**Por que a irrigação não é só \"passar líquido\".** A instrumentação não alcança irregularidades, istmos e ramificações; a irrigação precisa chegar lá. Para isso ela tem de gerar fluxo no sistema todo e tocar as paredes. A eficiência química depende da concentração do irrigante, da área de contato e do tempo de interação com o material infectado. A eficácia final da desinfecção depende da eficiência química e da mecânica juntas.\n\n**Nenhuma substância é ótima.** O livro lista o que o irrigante ideal teria (ação germicida e fungicida, não irritar o tecido periapical, ser estável, agir na presença de sangue e proteínas, remover a smear layer, ser barato, entre outras) e conclui que hoje nenhuma solução reúne tudo. O uso combinado de produtos selecionados contribui para o sucesso do tratamento. Por isso as seções seguintes tratam de cada substância e do papel dela."
+    },
+    {
+      "id": "agulha",
+      "titulo": "Seringa e agulha: calibre, profundidade, extrusão",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280, e p. 236",
+      "texto": "A agulha e a seringa colocam o irrigante, renovam o líquido que já está no canal e levam embora os resíduos maiores. O Cohen lista o que o operador controla: profundidade de penetração da agulha, diâmetro interno e externo dela, pressão, viscosidade, velocidade na ponta, tipo e orientação do bisel. O diâmetro e a conicidade do canal preparado limitam até onde a agulha entra.\n\n**Calibres.** O livro cita agulha de injeção calibre 27 (0,42 mm de diâmetro externo) e pontas de irrigação de aço calibre 30 (0,32 mm) e 31 (0,26 mm), além de ponta calibre 30 de níquel-titânio, que penetra melhor em canais curvos.\n\n**Fina × grossa.** Agulha fina exige mais pressão e extrui o líquido com mais velocidade; agulha grossa extrui volume muito maior, mas não pode entrar tão fundo. Calibre maior troca mais líquido, porém o diâmetro amplo não limpa as áreas apicais e as superfícies mais estreitas.\n\n**Até onde o irrigante chega: duas medidas no cap. 8.**\n\n- p. 236: na irrigação passiva com seringa e agulha, a solução avança cerca de 1 mm além da ponta da agulha;\n- pp. 279–280: a troca real do irrigante fica restrita a **1 a 1,5 mm apicais à ponta da agulha**.\n\nO capítulo não concilia as duas medidas. Nas pp. 279–280, o livro pede a agulha perto do comprimento de trabalho, com controle rigoroso da profundidade de inserção, para não extruir. A maioria dos canais não instrumentados é estreita demais para o irrigante chegar bem, mesmo com agulha adequada; por isso a limpeza inclui agitar o conteúdo, de forma intermitente, com um instrumento endodôntico pequeno, para não acumular resíduos, sobretudo no ápice.\n\n**Extrusão.** Evite sempre pressão excessiva e agulha presa no canal sem possibilidade de refluxo. Em dente imaturo, com forame amplo ou sem constrição apical, o cuidado é redobrado.\n\n**Ponta da agulha: o livro traz duas frases.** Na p. 266, alguns tipos de agulha liberam a solução por aberturas laterais e têm ponta de segurança de extremidade fechada, para aumentar a segurança contra a extrusão. Nas pp. 279–280, agulhas de extremidade aberta são recomendadas, em comparação com as de extremidade fechada, para prevenir a extrusão. O capítulo não concilia as duas. O cap. 20 traz outra orientação de ponta e de posição, mostrada ao lado da deste capítulo na seção de prevenção do acidente."
+    },
+    {
+      "id": "naocl",
+      "titulo": "Hipoclorito de sódio: a substância de escolha",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, pp. 268–269",
+      "texto": "O NaOCl (hipoclorito de sódio) é a solução de irrigação mais usada e, para o Cohen, a substância de escolha em endodontia: tem ação antibacteriana, dissolve com rapidez tecido necrótico, polpa viva, componentes orgânicos da dentina e biofilmes, e reúne a maior parte das características desejadas de um irrigante.\n\n**Alergia.** Há poucos relatos, e alergia verdadeira é improvável, porque sódio e cloro são elementos fisiológicos. Hipersensibilidade e dermatite de contato podem ocorrer em situações raras. Se há suspeita ou confirmação de hipersensibilidade ao NaOCl, a clorexidina (CLX) também não deveria ser usada, por causa do cloro da sua composição. Em quem tem maior chance de alergia a vários elementos (alimentos, látex), pode ser indicado teste cutâneo para NaOCl e CLX.\n\n**Segurança nos olhos.** O livro relata queimadura química grave nos olhos de um endodontista por contato acidental com NaOCl a 3,5%. O acidente por extrusão pelo ápice tem seções próprias, adiante.\n\n**Remissões.** O iodo iodeto de potássio (IKI) está na seção de outros irrigantes. O hidróxido de cálcio, que o livro diz que poderia ser usado como medicação temporária, tem tema próprio (medicação intracanal)."
+    },
+    {
+      "id": "concentracao-tempo",
+      "titulo": "NaOCl: concentração e tempo de ação",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270",
+      "texto": "**Concentração.** Para irrigar, o NaOCl é usado entre **0,5 e 6%**. O livro diz que há controvérsia sobre qual concentração recomendar, porque os estudos mediram desfechos diferentes (ação antimicrobiana, dissolução do tecido, penetração na dentina, dor pós-operatória e outros) com resultados conflitantes. O cap. 8 não indica uma concentração única nem um volume. O que ele afirma:\n\n- concentrações mais altas dissolvem melhor o tecido; em estudos clínicos, concentrações baixas e altas foram igualmente eficientes para reduzir bactérias;\n- concentrações mais altas são mais tóxicas e causam mais erosão da dentina, degradação do colágeno e descalcificação, e reduzem a microdureza e a resistência à flexão da dentina;\n- concentrações mais baixas, em grande volume, podem ser igualmente eficientes; no canal, usar concentração maior não necessariamente muda o resultado, porque grande volume e trocas frequentes podem compensar o efeito da concentração.\n\n**Tempo.** O tempo de retenção e o volume de irrigação são fatores essenciais para a atividade antibacteriana, e as evidências são conflitantes: em alguns trabalhos o NaOCl elimina o microrganismo-alvo em segundos, mesmo em baixa concentração; em outros, os tempos são bem mais longos. A diferença é atribuída à concentração, à matéria orgânica, a exsudatos e restos de tecido, e à dentina, que atrasou bastante a eliminação de um microrganismo pelo NaOCl a 1%. Sem esses fatores, o NaOCl mata rapidamente o alvo, mesmo abaixo de 0,1%.\n\nNo paciente, a matéria orgânica consome o NaOCl e enfraquece seu efeito. O íon cloro, responsável pela dissolução e pela ação antibacteriana, é instável e consumido rapidamente, provavelmente nos primeiros minutos. Por isso o livro pede reabastecimento contínuo e tempo de contato suficiente.\n\nO tempo ótimo em que a solução, numa dada concentração, deve ficar no canal \"ainda precisa ser discutido\". Mesmo assim o cap. 8 dá uma conduta: usar o hipoclorito **durante toda a instrumentação e por 1 a 2 minutos depois** de terminá-la."
+    },
+    {
+      "id": "clorexidina",
+      "titulo": "Clorexidina: o que faz, o que não faz, e o cuidado com o NaOCl",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina, pp. 271–272",
+      "texto": "A clorexidina (CLX) é um antimicrobiano de amplo espectro: liga-se às superfícies carregadas negativamente das bactérias e torna a parede permeável. Age contra gram-positivas, gram-negativas e leveduras. Como irrigante, a concentração importa: in vitro, a CLX a 2% teve eficácia antibacteriana melhor que a 0,12%.\n\n**A CLX não substitui o NaOCl.** Ela não dissolve matéria orgânica; com tecido presente, o NaOCl é claramente preferível. O livro conclui que o NaOCl continua sendo a solução de irrigação primária em endodontia.\n\n**Substantividade** é a capacidade de a CLX ficar na dentina e ser liberada aos poucos (efeito residual). O cap. 8 dá duas informações em páginas vizinhas:\n\n- p. 271: a CLX permanece na dentina pela natureza catiônica, em níveis terapêuticos, e foi detectada na dentina dos canais por **até 120 dias**;\n- p. 272: a aplicação por 5 minutos não induziu substantividade, tempo curto no canal pode interferir na adsorção, as conclusões dos estudos são inconsistentes e a eficácia antimicrobiana residual in vivo ainda precisa ser demonstrada.\n\n**CLX e NaOCl não se misturam no canal.** Em contato, mudam de cor e formam precipitado; quanto maior a concentração do NaOCl, maior o precipitado. O livro cita pigmentação, interferência no selamento da obturação e a formação de paracloroanilina (4-cloroanilina), que é tóxica. Alternativa: secar o canal com cones de papel antes do enxágue final com CLX. A CLX com EDTA também forma precipitado, branco. Diluir NaOCl ou CLX em solução salina deve ser evitado, para prevenir precipitado (p. 271).\n\n**Alergia.** É rara; o livro não cita relato após irrigação de canal, e a sensibilização é de cerca de 2% em vários estudos. Pacientes com atopia a qualquer das substâncias devem fazer avaliação imunológica básica antes de usar CLX ou NaOCl."
+    },
+    {
+      "id": "edta",
+      "titulo": "EDTA e a camada de debris (smear layer)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274",
+      "texto": "A **smear layer** é o filme de debris que fica aderido à dentina depois da instrumentação: partículas de dentina, restos de polpa, componentes bacterianos e resíduos do irrigante. Ela pode impedir que a substância penetre nos túbulos. O livro registra controvérsia: remover a camada, para irrigantes, medicamentos e material obturador penetrarem, ou mantê-la, como proteção contra invasão bacteriana.\n\n**EDTA** (ácido etilenodiamino tetra-acético) quela o cálcio e remove a parte mineralizada da smear layer. Dados do cap. 8:\n\n- concentração de **17%**, em contato direto com a parede do canal por **menos de 1 minuto**;\n- sozinho, geralmente não remove a smear layer de forma eficiente: precisa de um componente proteolítico, como o NaOCl, para a parte orgânica;\n- ação autolimitada: quando todos os íons de cálcio disponíveis estão ligados, a dissolução para; mesmo assim, se for deixado por mais tempo ou se o NaOCl for usado depois do EDTA, foi demonstrada erosão da dentina (Fig. 8.55);\n- na endodontia moderna, entra assim que a limpeza e a modelagem terminam, por cerca de 1 minuto;\n- a elevação da temperatura do EDTA não é desejável.\n\n**Outro capítulo, outro tempo.** O cap. 9, ao tratar da remoção da smear layer antes de obturar, traz outro tempo de contato; os dois estão lado a lado no tema de obturação.\n\n**EDTA e NaOCl devem ser usados separados.** Misturados, o EDTA continua quelando o cálcio, mas o NaOCl perde a capacidade de dissolver tecido. Na irrigação alternada, é preciso aplicar grandes quantidades de NaOCl para retirar os remanescentes do EDTA.\n\nO ácido etidrônico (HEBP) é um quelante fraco apresentado como alternativa ao EDTA: não reage no curto prazo com o NaOCl e pode ser usado junto com ele sem afetar suas propriedades proteolíticas ou antimicrobianas."
+    },
+    {
+      "id": "outros-irrigantes",
+      "titulo": "MTAD, QMiX e iodo iodeto de potássio",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, BioPure MTAD e Tetraclean, QMiX e Iodo iodeto de potássio, pp. 275–276",
+      "texto": "Além do NaOCl, do EDTA e da CLX, o cap. 8 cita ainda outros irrigantes.\n\n**MTAD** e **Tetraclean** são misturas comerciais de antibiótico, ácido cítrico e detergente, que removem smear layer e tecido orgânico. O livro recomenda a MTAD como irrigante final, depois do preparo químico-mecânico convencional.\n\n**QMiX** é um irrigante final, usado depois do NaOCl. Sobre a eficácia, o capítulo diz que ela e a biocompatibilidade foram demonstradas só por estudos in vitro e ex vivo, e que faltam pesquisas clínicas independentes.\n\n**Iodo iodeto de potássio (IKI)** é um desinfetante de canal de amplo espectro e toxicidade relativamente baixa em cultura de tecidos. Desvantagem: possível reação alérgica, porque alguns pacientes são hipersensíveis ao iodo."
+    },
+    {
+      "id": "acidente-cap8",
+      "titulo": "Acidente com hipoclorito (cap. 8): sinais, anestesia e manejo",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271",
+      "texto": "Acidente com hipoclorito é a extrusão do NaOCl para além do ápice, para os tecidos perirradiculares. O livro avisa que, sem cautela, o NaOCl é muito tóxico e destrutivo para os tecidos moles da boca, para os vasos da região perirradicular e para o osso esponjoso. A taxa de acidentes é relatada como baixa, mas a frequência real é desconhecida, e extrusões pequenas podem passar despercebidas.\n\n**Sinais (em paciente):**\n\n- dor intensa;\n- edema dos tecidos moles ao redor, que pode chegar à metade lesada da face ou do lábio superior;\n- sangramento abundante pelo canal e hemorragia da pele e da mucosa (equimose): o NaOCl dissolve a parede dos vasos;\n- gosto clorado e irritação da garganta, quando houve injeção para o seio maxilar;\n- infecção secundária; parestesia ou anestesia reversível.\n\nO NaOCl é um oxidante potente e, nas soluções de 3 a 6%, muito hipertônico em relação aos fluidos dos tecidos, o que explica em parte o edema rápido.\n\n**Manejo, segundo o cap. 8.** Informar o paciente; controlar a dor com anestesia local e analgésicos; seguimento rigoroso nas horas e nos dias seguintes. O manejo é em geral ambulatorial, com medicamentos por via oral:\n\n- compressas frias extrabucais por 1 dia, para reduzir o inchaço;\n- depois de 1 dia, compressas mornas e enxágues bucais frequentes com líquidos mornos, para estimular a circulação local;\n- paciente monitorado diariamente;\n- continuar o tratamento endodôntico com solução salina estéril ou CLX como irrigantes; encaminhar ao hospital se os sintomas piorarem.\n\n**Fármacos.** Antibióticos não são obrigatórios: só em casos de alto risco ou com evidência de infecção secundária. Anti-histamínicos também não são obrigatórios, e os corticosteroides são controversos.\n\n**Qual anestesia.** Se há inchaço, a anestesia infiltrativa está **contraindicada**, para evitar o espalhamento de infecções existentes; faça bloqueio nervoso. Sobre o vasoconstritor, o capítulo diz que há pouquíssima informação: teoricamente poderia limitar a difusão do NaOCl, mas provavelmente aumenta o risco de necrose do tecido por isquemia local, especialmente com soluções muito concentradas."
+    },
+    {
+      "id": "resumo-protocolo",
+      "titulo": "Sequência dos irrigantes no resumo e no protocolo do capítulo",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Resumo da irrigação, pp. 279–280 e Amostra de protocolo, pp. 287–288",
+      "texto": "**Resumo do livro (pp. 279–280).** O NaOCl é a substância de escolha, pelas propriedades desinfetantes e de dissolução do tecido. O EDTA e outros quelantes devem ser usados **ao final do procedimento**, para remover a smear layer, seguidos de **irrigação final com NaOCl por 1 minuto**, para obter a eficiência máxima de limpeza e minimizar a erosão da dentina. Segundo o livro, essa estratégia também reduz a inativação do NaOCl por interações químicas.\n\n**Duas passagens do mesmo capítulo.** Na seção do EDTA (p. 274), o livro diz que, se o NaOCl for usado depois do EDTA, foi demonstrada erosão da dentina. Na pp. 279–280, recomenda o NaOCl por 1 minuto depois do EDTA, para minimizar a erosão. O cap. 8 não concilia as duas passagens.\n\n**Protocolo do livro (pp. 287–288).** A \"amostra de protocolo\" traz, para a irrigação, quatro verbos: irrigar com quantidades abundantes de NaOCl; ativar a substância de irrigação; selecionar a solução para remover a smear layer; fazer a irrigação final. Outros itens do mesmo protocolo que tocam a irrigação:\n\n- irrigar com NaOCl durante todo o procedimento de modelagem;\n- usar irrigação copiosa e verificar de novo a patência e o comprimento de trabalho durante a modelagem;\n- secar o canal por completo antes de obturar.\n\nO resumo do capítulo acrescenta que a limpeza, reconhecida pela superfície do canal livre de smear layer, só pode ser feita depois que os canais foram ampliados o bastante para acomodar as agulhas de irrigação adequadas.\n\n**O que o capítulo não traz:** o volume de NaOCl a usar e uma ordem numerada dos irrigantes. O protocolo é uma lista de quatro verbos, sem volumes.\n\n**Remissões.** A ativação do irrigante (dispositivos, laser e afins) está no tema de inovações tecnológicas em endodontia. A medicação intracanal tem tema próprio."
+    },
+    {
+      "id": "acidente-cap20",
+      "titulo": "Acidente com hipoclorito (cap. 20): causas, sinais e conduta imediata",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, causas, reconhecimento e conduta imediata, pp. 737–739",
+      "texto": "O cap. 20 trata o acidente com hipoclorito como evento iatrogênico, isto é, \"induzido inadvertidamente por um médico ou cirurgião\". O livro diz que a evolução depois do extravasamento é rápida e surpreendente, muitas vezes sem aviso, e que as propriedades e o uso do NaOCl estão no cap. 8.\n\n**Por que é grave.** O NaOCl, usado de 0,5 a 6%, é extremamente citotóxico em qualquer tecido: concentração de 0,01% já foi letal para fibroblastos in vitro. Injetado em tecido vivo, causa hemólise, ulceração e dano a células endoteliais e fibroblastos.\n\n**Causas, segundo o cap. 20.** A maioria das complicações relatadas parece ligada a comprimento de trabalho impreciso, alargamento iatrogênico do forame, perfuração lateral da raiz ou pressionamento da agulha de irrigação.\n\n**Como reconhecer (em paciente):**\n\n- dor intensa e imediata;\n- edema acentuado ou hematoma, que pode se estender pelo lado lesado da face, da bochecha e dos lábios;\n- hemorragia espontânea e profusa no espaço do canal;\n- em dentes posteriores superiores: dor periorbital, gosto de cloro ou irritação na garganta;\n- parestesia, transitória ou permanente; o livro relata também dano irreversível ao nervo motor, com perda de função do lábio superior e da bochecha num caso;\n- em dentes inferiores, a extensão para as regiões submandibular, submentual ou sublingual pode comprometer as vias respiratórias e exige hospitalização imediata e/ou cirurgia.\n\nAgentes efervescentes, como o peróxido de hidrogênio, agravam o inchaço. A quantidade extravasada, a localização e a proximidade de estruturas sensíveis ditam a gravidade e a duração.\n\n**Conduta imediata.** Ao perceber o extravasamento, interrompa o tratamento e comece de imediato as medidas para diminuir o efeito do produto; ignorar o evento compromete os resultados. Os protocolos são empíricos, baseados na causa e na gravidade: controle da dor com anestésicos locais e analgésicos; compressas frias contra o inchaço; e irrigação imediata do canal com soro fisiológico, para estimular o sangramento, diluir o irritante e removê-lo do local. O livro também descreve irrigar canal e áreas perirradiculares com soro, usando dispositivo de pressão negativa com a cânula no forame."
+    },
+    {
+      "id": "acidente-conduta-prevencao-cap20",
+      "titulo": "Acidente com hipoclorito (cap. 20): conduta posterior e prevenção",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739",
+      "texto": "**Conduta posterior, segundo o cap. 20:**\n\n- depois de 1 dia, compressas mornas no lugar das frias e bochechos orais mornos, para estimular a microcirculação local;\n- **antibióticos geralmente prescritos**, com a administração proporcional à gravidade da destruição e da necrose de tecidos moles e duros: casos mais suaves podem ser tratados com medicamentos orais; os graves são mais bem controlados em ambiente hospitalar, por via intravenosa;\n- **corticosteroides: uso ambíguo**, porque o controle do edema disseminado precisa ser equilibrado com o aumento do risco de infecção;\n- monitorar de perto: aumento acentuado do edema ou sinais de obstrução iminente das vias respiratórias exigem encaminhamento imediato ao hospital ou a cirurgião bucomaxilofacial;\n- tranquilizar o paciente (a recuperação é geralmente completa e sem intercorrências, apesar da aparência atual), explicar por que ocorreu e o que esperar; recuperação monitorada e documentada diariamente até a resolução.\n\nO livro não traz, nessa seção, doses, vias ou fármacos específicos além dos grupos citados.\n\n**Prevenção (lista do cap. 20):**\n\n1. estabelecer comprimento de trabalho preciso e evitar instrumentação excessiva ou ampliação do forame;\n2. se irrigar com pressão positiva, usar agulha pequena com abertura lateral, posicionada **2 mm aquém do comprimento de trabalho**, injetar o fluido lentamente e observar se ele está passando pela cavidade de acesso;\n3. avaliar com cuidado a integridade do canal, em busca de perfuração ou outras grandes saídas de fluido;\n4. evitar travar a ponta da agulha no canal ou inseri-la além do comprimento de trabalho;\n5. confirmar qual é a solução antes de injetar ou irrigar.\n\n**Dois capítulos, duas redações.**\n\n- Antibiótico e corticosteroide: o cap. 8 (pp. 270–271) diz que os antibióticos não são obrigatórios (só em alto risco ou infecção secundária) e que os corticosteroides são controversos; o cap. 20 (pp. 738–739) diz que os antibióticos são \"geralmente prescritos\" e o corticosteroide, ambíguo.\n- Agulha: o cap. 8 (pp. 279–280) pede a agulha de extremidade aberta, perto do comprimento de trabalho; o cap. 20 (p. 739) pede agulha pequena com abertura lateral, 2 mm aquém do comprimento de trabalho.\n\nCada capítulo está na sua seção, sem harmonizar."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as tarefas mecânicas e químicas da irrigação, segundo o Cohen?",
+      "verso": "Eliminar resíduos, lubrificar, dissolver tecido orgânico e inorgânico, impedir ou dissolver a smear layer e desorganizar biofilmes.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Desinfecção do sistema de canais radiculares, Objetivos da irrigação, pp. 265–268"
+    },
+    {
+      "id": "f02",
+      "frente": "Até onde o irrigante chega além da ponta da agulha na irrigação passiva com seringa?",
+      "verso": "Só até perto da ponta: na irrigação passiva com seringa, a troca real do irrigante fica restrita à região logo além da ponta da agulha. Por isso o cap. 8 pede a agulha perto do comprimento de trabalho, com a profundidade controlada.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280, e p. 236"
+    },
+    {
+      "id": "f04",
+      "frente": "Entre que concentrações o NaOCl é usado na irrigação, e o que muda nas mais altas?",
+      "verso": "Entre 0,5 e 6% (cap. 8, p. 269). As mais altas dissolvem melhor o tecido, mas são mais tóxicas; grande volume e trocas frequentes podem compensar a concentração.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o cap. 8, por quanto tempo usar o NaOCl na instrumentação?",
+      "verso": "Durante toda a instrumentação e por 1 a 2 minutos depois (p. 270). O livro diz que o tempo ótimo \"ainda precisa ser discutido\".",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que o NaOCl precisa ser reabastecido continuamente?",
+      "verso": "O íon cloro, que dissolve e mata bactérias, é instável e consumido rápido, provavelmente nos primeiros minutos; no paciente a matéria orgânica também consome o NaOCl (cap. 8, p. 270).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+    },
+    {
+      "id": "f07",
+      "frente": "O que o EDTA faz na parede do canal e do que ele precisa, segundo o cap. 8?",
+      "verso": "EDTA a 17%: quela o cálcio e remove a parte mineralizada da smear layer. Sozinho não basta: precisa de um componente proteolítico, como o NaOCl, para a parte orgânica.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+    },
+    {
+      "id": "f08",
+      "frente": "O que acontece se EDTA e NaOCl são misturados?",
+      "verso": "O EDTA continua quelando o cálcio, mas o NaOCl perde a capacidade de dissolver tecido; usar separados (cap. 8, p. 274).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+    },
+    {
+      "id": "f09",
+      "frente": "A clorexidina substitui o hipoclorito como irrigante principal, segundo o cap. 8?",
+      "verso": "Não. A CLX não dissolve matéria orgânica; com tecido presente o NaOCl é claramente preferível e continua sendo a solução de irrigação primária.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina, pp. 271–272"
+    },
+    {
+      "id": "f10",
+      "frente": "O que fazer para usar CLX no enxágue final depois do NaOCl?",
+      "verso": "NaOCl e CLX em contato formam precipitado e paracloroanilina, tóxica. O livro sugere secar o canal com cones de papel antes do enxágue final com CLX (cap. 8, p. 272).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina, pp. 271–272"
+    },
+    {
+      "id": "f12",
+      "frente": "Com inchaço depois de extrusão de NaOCl, qual anestesia, segundo o cap. 8?",
+      "verso": "Bloqueio nervoso. A anestesia infiltrativa está contraindicada, para evitar espalhar infecções existentes (p. 270).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271"
+    },
+    {
+      "id": "f13",
+      "frente": "Antibiótico depois de acidente com hipoclorito: o que diz o cap. 20, e o que diz o cap. 8?",
+      "verso": "Cap. 20 (p. 739): geralmente prescritos, com a administração proporcional à gravidade; casos suaves por via oral, graves em hospital por via intravenosa. Cap. 8 (pp. 270–271): não obrigatórios, só em alto risco ou com infecção secundária. O livro não harmoniza.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+    },
+    {
+      "id": "f15",
+      "frente": "Por que o cap. 20 chama o uso de corticosteroide de \"ambíguo\"?",
+      "verso": "O controle do edema disseminado precisa ser equilibrado com o aumento do risco de infecção (p. 739).",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+    },
+    {
+      "id": "f16",
+      "frente": "Como irrigar com pressão positiva para reduzir o risco de acidente, segundo o cap. 20?",
+      "verso": "Agulha pequena com abertura lateral, 2 mm aquém do comprimento de trabalho, injeção lenta, observando se o fluido passa pela cavidade de acesso (p. 739).",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na bancada, você irriga de forma passiva, com seringa e agulha, um canal já preparado. Segundo o cap. 8 do Cohen, o líquido só se renova de verdade perto da ponta da agulha. O que fazer para que o irrigante se renove na porção apical?",
+      "alternativas": [
+        {
+          "texto": "Trocar por uma agulha de calibre maior, que limpa melhor o ápice.",
+          "correta": false,
+          "justificativa": "Errada. Calibre maior troca mais líquido, mas o diâmetro amplo não limpa as áreas apicais e as superfícies estreitas, e a agulha maior não pode ser introduzida tão fundo (pp. 266–267 e pp. 279–280).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280"
+        },
+        {
+          "texto": "Posicionar a agulha perto do comprimento de trabalho, controlando com rigor a profundidade de inserção.",
+          "correta": true,
+          "justificativa": "Correta. A troca real fica restrita a 1 a 1,5 mm apicais à ponta da agulha; o livro pede a agulha próxima do comprimento de trabalho, com controle rigoroso da profundidade para evitar extrusão (pp. 279–280).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280"
+        },
+        {
+          "texto": "Travar a agulha no canal, para que a pressão empurre o líquido até o ápice.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que excesso de pressão ou agulha presa no canal, sem possibilidade de refluxo, deve ser evitado sob todas as circunstâncias, pelo risco de extrusão e acidentes (pp. 279–280).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280"
+        },
+        {
+          "texto": "Deixar a agulha na cavidade de acesso, porque o líquido desce sozinho até o ápice.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que é preciso posicionar a agulha próxima do comprimento de trabalho para garantir a troca na porção apical (pp. 279–280).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hidrodinâmica da irrigação e Aplicação por seringa, pp. 266–267 e pp. 279–280, e p. 236",
+      "secao": "agulha",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "O aluno pergunta por que o cap. 8 do Cohen manda reabastecer o hipoclorito durante a instrumentação, em vez de colocá-lo uma vez e esperar. Qual é a razão dada pelo capítulo?",
+      "alternativas": [
+        {
+          "texto": "O cloro, que dissolve e mata bactérias, é instável e consumido rápido, e no paciente a matéria orgânica também consome o NaOCl.",
+          "correta": true,
+          "justificativa": "Correta. O íon cloro é instável e consumido rapidamente, provavelmente nos primeiros minutos; in vivo a matéria orgânica consome o NaOCl e enfraquece o efeito, daí o reabastecimento contínuo (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "O capítulo define 30 segundos como o tempo ótimo de contato, e cada reposição reinicia a contagem.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o tempo ótimo ainda precisa ser discutido e indica o NaOCl durante toda a instrumentação e por 1 a 2 minutos depois (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "Abaixo de 0,1% o NaOCl não consegue matar os microrganismos, então é preciso repor para subir a concentração.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que, sem os fatores de conflito, o NaOCl mata rapidamente os microrganismos-alvo, mesmo em concentrações menores que 0,1% (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "O volume de irrigação não importa; só a concentração define a atividade antibacteriana.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o tempo de retenção e o volume de irrigação são fatores essenciais para a atividade antibacteriana (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270",
+      "secao": "concentracao-tempo",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um colega quer usar sempre a concentração mais alta de NaOCl \"para garantir\". Segundo o cap. 8 do Cohen, qual afirmação o capítulo sustenta?",
+      "alternativas": [
+        {
+          "texto": "Concentração mais alta sempre melhora o resultado clínico, e por isso o capítulo recomenda 6% em todo caso.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o NaOCl é usado entre 0,5 e 6%, que há controvérsia sobre a concentração e que, no canal, usar concentração maior não necessariamente altera os resultados (p. 269).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "Uma concentração baixa, mesmo em grande volume, nunca é tão eficiente quanto uma alta.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que concentrações mais baixas, em grande volume, podem ser igualmente eficientes, e que grande volume e trocas frequentes podem compensar o efeito da concentração (p. 269).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "Concentrações mais altas dissolvem melhor o tecido, mas são mais tóxicas; grande volume e trocas frequentes podem compensar uma concentração menor.",
+          "correta": true,
+          "justificativa": "Correta. É o que o capítulo afirma sobre dissolução, toxicidade e o efeito compensador de volume e trocas (p. 269).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        },
+        {
+          "texto": "A toxicidade do NaOCl não depende da concentração, só do tempo de contato.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que concentrações mais altas são mais tóxicas que as baixas e causam mais citotoxicidade e erosão da dentina (p. 269).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Concentração e Tempo, pp. 269–270",
+      "secao": "concentracao-tempo",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Você terminou o preparo com NaOCl e quer fazer o enxágue final com CLX. Segundo o cap. 8 do Cohen, o que acontece se os dois se encontram no canal, e o que o livro sugere?",
+      "alternativas": [
+        {
+          "texto": "Os dois se somam e dissolvem mais tecido; nada a evitar.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a CLX não dissolve tecido e que, em contato com o NaOCl, forma-se precipitado (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        },
+        {
+          "texto": "Só muda a cor, sem outra preocupação; o enxágue pode ser feito direto.",
+          "correta": false,
+          "justificativa": "Errada. Além da cor e do precipitado, o livro cita pigmentação, interferência no selamento da obturação e formação de paracloroanilina, tóxica (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        },
+        {
+          "texto": "Forma-se precipitado só se a CLX estiver a 0,12%; a 2% não há interação.",
+          "correta": false,
+          "justificativa": "Errada. O livro liga a quantidade de precipitado à concentração do NaOCl, e mostra a CLX a 2% misturada a diferentes concentrações de NaOCl na Fig. 8.52 (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–273"
+        },
+        {
+          "texto": "Mudam de cor e formam precipitado, com paracloroanilina tóxica; secar o canal com cones de papel antes do enxágue final com CLX.",
+          "correta": true,
+          "justificativa": "Correta. É a interação descrita e a alternativa que o capítulo cita (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina, pp. 271–272",
+      "secao": "clorexidina",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um colega propõe usar só clorexidina a 2% como irrigante durante todo o preparo, no lugar do hipoclorito. Segundo o cap. 8 do Cohen, o que o capítulo diz?",
+      "alternativas": [
+        {
+          "texto": "A CLX a 2% dissolve o tecido pulpar melhor que o NaOCl.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a CLX não dissolve matéria orgânica; os 2% aparecem na comparação de eficácia antibacteriana in vitro com a CLX a 0,12% (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        },
+        {
+          "texto": "A CLX não dissolve matéria orgânica; com tecido presente o NaOCl é claramente preferível e continua sendo a solução de irrigação primária.",
+          "correta": true,
+          "justificativa": "Correta. É a conclusão do cap. 8 sobre a CLX como irrigante (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        },
+        {
+          "texto": "A CLX pode ser alternada com o NaOCl dentro do canal sem cuidado nenhum, porque os efeitos se somam.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que, em contato, as duas mudam de cor e formam precipitado, com paracloroanilina, que é tóxica (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        },
+        {
+          "texto": "A CLX só age contra bactérias gram-positivas, por isso não serve como irrigante.",
+          "correta": false,
+          "justificativa": "Errada. O livro descreve a CLX como antimicrobiano de amplo espectro, ativo contra gram-positivas, gram-negativas e leveduras; o limite que ele aponta é não dissolver matéria orgânica (pp. 271–272).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Clorexidina, pp. 271–272"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Clorexidina, pp. 271–272",
+      "secao": "clorexidina",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Para ganhar tempo, o aluno mistura EDTA a 17% e NaOCl no mesmo recipiente. Segundo o cap. 8 do Cohen, o que se perde?",
+      "alternativas": [
+        {
+          "texto": "O NaOCl perde a capacidade de dissolver tecido; o EDTA continua quelando o cálcio.",
+          "correta": true,
+          "justificativa": "Correta. É o que o capítulo descreve da mistura; por isso EDTA e NaOCl devem ser usados separadamente (p. 274).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+        },
+        {
+          "texto": "O EDTA perde a capacidade de quelar o cálcio; o NaOCl continua dissolvendo tecido.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o EDTA mantinha a capacidade de formar complexos com o cálcio quando misturado ao NaOCl (p. 274).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+        },
+        {
+          "texto": "Nada: o livro diz que a mistura soma os dois efeitos.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que o NaOCl perdia a capacidade de dissolver tecido e que os dois devem ser usados separadamente (p. 274).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+        },
+        {
+          "texto": "O EDTA fica autolimitado, e a mistura precisa ser aquecida para recuperar o efeito.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a elevação da temperatura do EDTA não é desejável, porque os quelantes funcionam melhor em determinada faixa de temperatura (p. 274).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Agentes descalcificantes e EDTA, pp. 272–274",
+      "secao": "edta",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo o cap. 20 do Cohen, durante a irrigação o paciente relata dor intensa e imediata e o canal sangra de forma espontânea e profusa. Você suspeita de extravasamento de NaOCl. Qual é a conduta imediata descrita pelo capítulo?",
+      "alternativas": [
+        {
+          "texto": "Terminar a instrumentação e a obturação na mesma sessão e só depois cuidar do inchaço.",
+          "correta": false,
+          "justificativa": "Errada. O capítulo manda interromper o tratamento e começar de imediato as medidas para diminuir o efeito do produto, e diz que ignorar o evento compromete os resultados (pp. 737–739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, causas, reconhecimento e conduta imediata, pp. 737–739"
+        },
+        {
+          "texto": "Irrigar o canal com peróxido de hidrogênio, para neutralizar o hipoclorito.",
+          "correta": false,
+          "justificativa": "Errada. O capítulo diz que agentes efervescentes, como o peróxido de hidrogênio, agravam o inchaço; a irrigação imediata é com soro fisiológico (pp. 737–739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, causas, reconhecimento e conduta imediata, pp. 737–739"
+        },
+        {
+          "texto": "Interromper o tratamento, controlar a dor com anestésico local e analgésico, aplicar compressas frias e irrigar o canal de imediato com soro fisiológico.",
+          "correta": true,
+          "justificativa": "Correta. É a conduta imediata do cap. 20: interromper, controlar a dor, compressas frias contra o inchaço e soro fisiológico para estimular o sangramento, diluir o irritante e removê-lo do local (pp. 737–739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, causas, reconhecimento e conduta imediata, pp. 737–739"
+        },
+        {
+          "texto": "Aplicar compressas mornas desde o primeiro momento, para estimular a microcirculação.",
+          "correta": false,
+          "justificativa": "Errada. Na conduta imediata do cap. 20 as compressas são frias; as mornas entram no lugar das frias depois de 1 dia (pp. 738–739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, causas, reconhecimento e conduta imediata, pp. 737–739",
+      "secao": "acidente-cap20",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o cap. 8 do Cohen, depois da extrusão de NaOCl o paciente tem dor intensa e a face já está inchada. Que anestesia o capítulo indica para o alívio da dor?",
+      "alternativas": [
+        {
+          "texto": "Bloqueio nervoso, porque com inchaço a infiltrativa está contraindicada, para não espalhar infecções existentes.",
+          "correta": true,
+          "justificativa": "Correta. É a conduta do cap. 8 (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271"
+        },
+        {
+          "texto": "Infiltrativa com vasoconstritor, que limita a difusão do NaOCl.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que, com inchaço, a infiltrativa está contraindicada, e que o vasoconstritor provavelmente aumenta o risco de necrose por isquemia local (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271"
+        },
+        {
+          "texto": "Infiltrativa sem vasoconstritor, porque o inchaço indica que o NaOCl já se espalhou.",
+          "correta": false,
+          "justificativa": "Errada. Com inchaço presente, a anestesia infiltrativa está contraindicada, para evitar espalhar infecções existentes; o livro indica bloqueio nervoso (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271"
+        },
+        {
+          "texto": "Nenhuma: só compressas frias, porque a anestesia piora o edema.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda controlar a dor com anestesia local e analgésicos, com seguimento rigoroso (p. 270).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Hipoclorito de sódio, Toxicidade e Acidente com hipoclorito, pp. 270–271",
+      "secao": "acidente-cap8",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o cap. 20 do Cohen, você vai irrigar com pressão positiva um dente cujo comprimento de trabalho já foi medido. Qual conduta reduz o risco de acidente com hipoclorito?",
+      "alternativas": [
+        {
+          "texto": "Encaixar uma agulha de calibre grande firme no canal, para o líquido não voltar.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda evitar travar a ponta da agulha no canal (p. 739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+        },
+        {
+          "texto": "Inserir a agulha 1 mm além do comprimento de trabalho, para o líquido chegar ao ápice.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda evitar inserir a agulha além do comprimento de trabalho (p. 739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+        },
+        {
+          "texto": "Usar agulha pequena com abertura lateral, 2 mm aquém do comprimento de trabalho, injetando lentamente e observando se o fluido passa pela cavidade de acesso.",
+          "correta": true,
+          "justificativa": "Correta. É o item 2 da lista de prevenção do cap. 20 (p. 739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+        },
+        {
+          "texto": "Injetar rápido, com pressão firme, e só então confirmar qual era a solução.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda injetar lentamente e confirmar qual é a solução antes de injetar ou irrigar (p. 739).",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, conduta posterior e prevenção, pp. 738–739",
+      "secao": "acidente-conduta-prevencao-cap20",
+      "figura": null
+    }
+  ]
+}

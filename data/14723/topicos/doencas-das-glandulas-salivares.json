@@ -1,0 +1,569 @@
+{
+  "slug": "doencas-das-glandulas-salivares",
+  "titulo": "Doenças das glândulas salivares: mucocele, rânula, sialolitíase, xerostomia e neoplasias (adenoma pleomórfico)",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 11",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap11",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 11, Patologia das Glândulas Salivares, p. 448–500.",
+      "curta": "Neville 5ª ed., cap. 11"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "mucocele",
+      "titulo": "Mucocele (fenômeno de extravasamento de muco) e cisto do ducto salivar",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Características clínicas, p. 448; Localização, Mucocele superficial, Tabela 11.1 e Tratamento e prognóstico, p. 449; Cistos do ducto salivar, p. 451–452",
+      "texto": "**O que é:** uma lesão comum da mucosa oral. Um ducto de glândula salivar se rompe e a **mucina** (o muco) extravasa para os tecidos moles em volta. Em geral há trauma local, mas em muitos casos não há história de trauma. A mucocele **não tem revestimento epitelial**.\n\n**Em quem e onde:** mais em crianças e adultos jovens, embora apareça em todas as idades. O **lábio inferior** concentra **81,9%** dos casos (1.405 de 1.715 casos em um estudo), em geral ao lado da linha média. Depois vêm assoalho da boca (5,8%), ventre da língua (5,0%), mucosa jugal (4,8%) e palato (1,3%). No **lábio superior** não houve nenhum caso nas grandes séries; é o contrário das neoplasias salivares, que são incomuns no lábio inferior.\n\n**Como é:** nódulo arredondado de 1 ou 2 mm a alguns centímetros, **flutuante** (cede à palpação como bolsa de líquido), de cor **azulada** quando o muco está logo abaixo da superfície; as profundas podem ter a cor da mucosa, e algumas são firmes à palpação. Muitos pacientes contam um aumento que rompe, esvazia e volta.\n\n**Mucocele superficial:** no palato, na região retromolar e na mucosa jugal posterior surgem **vesículas** de 1 a 4 mm que rompem e deixam úlceras rasas e dolorosas, curadas em poucos dias. Pode haver novos episódios no mesmo local.\n\n**Conduta:** algumas rompem e cicatrizam sozinhas. Muitas são crônicas e pedem **excisão cirúrgica**, tirando as glândulas menores que estiverem na lesão, para reduzir a recidiva. O tecido vai ao microscópio para confirmar o diagnóstico e **descartar neoplasia**. O prognóstico é excelente, mas pode haver recidiva, sobretudo se as glândulas ficaram. Ela é maior no ventre da língua, provavelmente porque as glândulas ali são mais profundas.\n\n**Cisto do ducto salivar:** é diferente, pois tem **revestimento epitelial** e é cisto verdadeiro, de causa incerta. Ocorre em adultos, na parótida ou nas glândulas menores (assoalho, mucosa jugal, lábios), e se parece com a mucocele: flutuante, às vezes azulado, às vezes âmbar no assoalho. Trata-se com excisão conservadora e em geral não recidiva."
+    },
+    {
+      "id": "ranula",
+      "titulo": "Rânula",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Rânula, introdução, glândula de origem e Características clínicas, p. 450; Tratamento e prognóstico, p. 451",
+      "texto": "**O que é:** o nome que o livro reserva às **mucoceles do assoalho da boca**. Vem do latim *rana* (rã), porque o aumento de volume lembra o ventre translúcido do animal. O termo já foi usado para outros aumentos do assoalho (cisto do ducto salivar, cisto dermoide, higroma cístico), mas o melhor uso é para o extravasamento de muco.\n\n**Glândula de origem:** a **sublingual**, formada por 15 a 30 glândulas menores, cada uma com seu ducto. A sublingual produz muco de forma contínua, mesmo sem estímulo, e por isso um ducto rompido pode formar a lesão. O Marcucci, no tema Anamnese e exame clínico, descreve a rânula de outro modo: estase no ducto, com retenção salivar, no parágrafo das glândulas submandibulares. Os dois livros divergem; aqui segue-se o Neville (extravasamento de muco, glândula sublingual).\n\n**Como é:** aumento arredondado, **flutuante e azulado** no assoalho da boca; as profundas podem ter a cor da mucosa. É mais frequente em crianças e adultos jovens. Costuma ser **maior** que as mucoceles de outros locais, preencher o assoalho e **elevar a língua**. Fica ao lado da linha média, o que ajuda a separá-la do cisto dermoide, que é mediano. Pode romper, liberar o muco e formar-se de novo.\n\n**Rânula mergulhante (cervical):** variante incomum em que o muco **atravessa o músculo milo-hioide** e forma um aumento macio **no pescoço**. Pode haver ou não aumento no assoalho; sem lesão na boca, a rânula pode nem ser lembrada. Tomografia, ressonância ou ultrassonografia ajudam a firmar o diagnóstico e a achar a origem.\n\n**Conduta:** remoção da **glândula sublingual** e/ou **marsupialização** (retirar a parte superior da lesão intraoral, a descompressão). A marsupialização costuma resolver rânulas pequenas e superficiais, mas **falha com frequência nas grandes**; a maioria dos autores pede considerar a remoção da glândula para prevenir recidiva. Se a glândula é removida, pode não ser preciso dissecar com minúcia o limite da lesão, mesmo na rânula mergulhante."
+    },
+    {
+      "id": "sialolitiase",
+      "titulo": "Sialolitíase e sialoadenite",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Sialolitíase, p. 453–454 (glândulas menores, p. 453–454); Sialoadenite, Etiologia, p. 454; Características clínicas e radiográficas, p. 455; Tratamento e prognóstico, p. 456",
+      "texto": "**Sialolitíase** é a formação de **cálculos** (sialólitos, \"pedras\") dentro dos ductos das glândulas salivares: sais de cálcio se depositam em volta de um ninho de debris (muco espesso, bactérias, células). Não tem relação com distúrbio sistêmico do cálcio e do fósforo.\n\n**Onde e em quem:** a **glândula submandibular** concentra **80%** dos casos; a parótida vem depois. O ducto de Wharton, longo, ascendente e tortuoso, e a saliva espessa podem explicar essa tendência. Ocorre em adultos jovens e de meia-idade.\n\n**Sintomas:** episódios de **dor e aumento da glândula durante as refeições**, quando o fluxo salivar é estimulado. Se o cálculo estiver perto da saída do ducto, pode-se palpar uma **massa dura** sob a mucosa.\n\n**Imagem:** massa **radiopaca**, mas nem todo cálculo aparece nas radiografias comuns. Na parte final do ducto submandibular, a **radiografia oclusal** mostra melhor. Em panorâmica ou periapical, o cálculo pode se sobrepor à mandíbula e ser confundido com lesão intraóssea. Sialografia, ultrassonografia e tomografia também ajudam.\n\n**Tratamento:** cálculos pequenos podem sair com massagem, sialogogos (estimulam a saliva), calor e mais líquidos. Sialoendoscopia e litotripsia podem retirar cálculos de glândulas maiores e evitar a remoção da glândula. Os cálculos grandes em geral precisam de cirurgia; a glândula é removida se o dano inflamatório for grande. Nas glândulas menores, o cálculo ocorre mais no lábio superior e na mucosa jugal, como nódulo endurecido, e o melhor tratamento é excisá-lo com a glândula.\n\n**Sialoadenite** é a inflamação da glândula. A viral mais comum é a **caxumba** (a sorologia dela aparece no tema Biópsia e exames complementares). A bacteriana nasce de obstrução (cálculo) ou de pouca saliva, com disseminação retrógrada das bactérias. A **aguda** é mais comum na parótida: glândula inchada e dolorosa; a pele pode ficar quente e vermelha, e pode haver febre baixa e trismo. Em geral sai **pus pelo orifício do ducto** à massagem. Trata-se com antibiótico apropriado, hidratação e drenagem se houver abscesso. A **crônica** vem de obstrução persistente, em geral por cálculo, com dor e edema perto das refeições; todo paciente com sialoadenite deve fazer panorâmica para procurar cálculo."
+    },
+    {
+      "id": "xerostomia",
+      "titulo": "Xerostomia: causas, consequências e conduta",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Xerostomia, introdução, Características clínicas, Tabela 11.2 e Tratamento e prognóstico, p. 458; Síndrome de Sjögren, Tratamento e prognóstico, p. 463",
+      "texto": "**O que é:** a sensação **subjetiva** de boca seca, que pode ou não vir com hipofunção da glândula. Os achados do exame nem sempre batem com a queixa: há quem se queixe com fluxo normal e quem tenha boca seca sem queixa.\n\n**Causas:** o livro as agrupa em cinco: aplasia da glândula; perda de água (pouca ingestão, vômito, diarreia); **causas iatrogênicas** (medicamentos, radioterapia de cabeça e pescoço, quimioterapia); doenças sistêmicas (síndrome de Sjögren, diabetes, HIV, hepatite C e outras); fatores locais (mastigação diminuída, fumo, respiração bucal).\n\n**Os medicamentos merecem atenção especial.** Mais de 500 substâncias causam boca seca, incluindo 63% dos 200 medicamentos mais prescritos nos EUA. A tabela do livro traz as classes: anti-histamínicos, descongestionantes, antidepressivos, antipsicóticos, ansiolíticos e sedativos, anti-hipertensivos e anticolinérgicos. Cerca de 25% dos idosos se queixam de boca seca; hoje se aceita que a idade em si reduz pouco a saliva e que a queixa vem sobretudo dos **remédios**.\n\n**Como é:** pouca saliva, que fica **espumosa ou espessa** e forma fios; mucosa seca; **dorso da língua fissurado**, com atrofia das papilas filiformes. O paciente tem dificuldade para mastigar e engolir, e o alimento gruda na mucosa.\n\n**Consequências:** **candidíase** (a saliva limpa e combate micróbios) e **cárie cervical e de raiz**, mais ligada à radioterapia. A candidíase em detalhe está no tema de infecções da cavidade oral.\n\n**Conduta:** o tratamento é difícil e em geral pouco satisfatório. Usam-se saliva artificial, géis e sprays, goles de água, balas sem açúcar. Se a causa é um remédio, **considera-se reduzir, suspender ou trocar** o fármaco. **Pilocarpina e cevimelina** são sialogogos, mas só funcionam se houver tecido glandular viável; ambas são contraindicadas no glaucoma de ângulo agudo. Como a cárie é muito provável, indicam-se visitas frequentes e **flúor tópico** no consultório e em casa."
+    },
+    {
+      "id": "sjogren",
+      "titulo": "Síndrome de Sjögren",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Síndrome de Sjögren, p. 460; Manifestações sistêmicas, p. 461; Glândulas salivares maiores, Achados laboratoriais e Biópsia de glândula salivar menor, p. 462; Boxe 11.3, p. 462; Limites da biópsia, Tratamento e prognóstico e Linfoma, p. 463",
+      "texto": "**O que é:** doença **autoimune crônica sistêmica** que ataca sobretudo as glândulas salivares e lacrimais, com **boca seca (xerostomia)** e **olho seco (queratoconjuntivite sicca)**: a síndrome \"sicca\". A forma **primária** tem só a síndrome sicca; a **secundária** vem associada a outra doença autoimune. Cerca de 15% dos pacientes com artrite reumatoide têm a síndrome, e a forma secundária pode surgir em 30% dos com lúpus eritematoso sistêmico.\n\n**Em quem:** prevalência de cerca de 1% da população; **mulheres:homens de 9:1**; adultos de meia-idade; raro em crianças.\n\n**Boca e olhos:** boca seca com saliva espumosa, dificuldade para engolir e usar prótese, alteração do paladar, língua fissurada e atrófica, mucosa vermelha e dolorosa (muitas vezes por candidíase), queilite angular e cárie cervical. Nos olhos, sensação de areia, visão turva e dor, que piora ao longo do dia.\n\n**Glândulas maiores:** de um terço à metade dos pacientes tem **aumento firme e difuso**, em geral bilateral, indolor ou pouco doloroso, da parótida e das outras maiores. Quanto mais grave a doença, maior a chance de aumento glandular e de sialoadenite bacteriana.\n\n**Como se confirma:** o diagnóstico junta o quadro clínico e exames: **testes de lágrima e de saliva**, **autoanticorpos**, **biópsia de glândula salivar labial**. Entre os autoanticorpos estão o anti-SS-A (anti-Ro), o anti-SS-B (anti-La), sobretudo na forma primária, e o FAN. Na **biópsia de glândula salivar menor do lábio inferior**, feita por pequena incisão na mucosa normal, o patologista procura **focos** de linfócitos e plasmócitos. A biópsia não é 100% confiável e depende de patologista experiente. A sialografia mostra o padrão de árvore sem galhos, carregada de frutos, mas não é diagnóstica.\n\n**Linfoma:** o risco de linfoma ao longo da vida é de **5 a 10%**, cerca de 15 a 20 vezes o da população geral. Aumento persistente da parótida e linfadenopatia são sinais de risco.\n\n**Conduta:** é de **suporte**: lágrima e saliva artificiais, pilocarpina ou cevimelina se houver glândula viável, flúor diário e antifúngico para a candidíase."
+    },
+    {
+      "id": "neoplasias",
+      "titulo": "Neoplasias das glândulas salivares: visão geral",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466; Tabelas 11.3 e 11.4, p. 467; Tabela 11.7, p. 468; Tabela 11.8 e texto, p. 469; Tabelas 11.10 e 11.11 e Adenoma pleomórfico, p. 470",
+      "texto": "São tumores incomuns, com incidência de cerca de **1,0 a 6,5 por 100.000 pessoas por ano**. O livro trata só das neoplasias epiteliais primárias, benignas e malignas.\n\n**Onde são mais comuns:** na **parótida**, que tem 61 a 80% de todos os casos. A submandibular fica com cerca de 10%, a sublingual com cerca de 1% e as **glândulas menores** com 9 a 28%.\n\n**Onde a chance de ser maligna é maior:** quanto **menor a glândula, maior a probabilidade de malignidade**.\n\n| Glândula | Parte das neoplasias | Malignas |\n|---|---|---|\n| Parótida | 61 a 80% | 15 a 32% |\n| Submandibular | cerca de 10% | 26 a 45% |\n| Sublingual | cerca de 1% | 70 a 97% |\n| Menores | 9 a 28% | 38 a 54% |\n\nEssas faixas de malignas são as do texto (p. 466). A Tabela 11.4 (p. 467) dá 70 a 95% para a sublingual e 45 a 62% para as menores.\n\n**Nas glândulas menores:** o **palato** é o sítio mais comum (42 a 57%), na região lateral posterior; os lábios vêm em segundo (15 a 24%) e a mucosa jugal em terceiro (12 a 15%). Nos lábios, 74 a 87% das neoplasias estão no **superior**, o oposto das mucoceles. A porcentagem de malignas muda com o sítio: 9 a 25% no lábio superior, 43 a 86% no inferior, 41 a 51% no palato e **quase todas na região retromolar** (o texto do livro diz mais de 95%; a Tabela 11.11 dá 88 a 95%). A maioria das neoplasias do assoalho da boca e da língua é maligna.\n\n**O que isso significa na clínica:** o **adenoma pleomórfico** é a neoplasia mais comum na parótida, na submandibular e nas glândulas menores, e entre as malignas das glândulas menores o carcinoma mucoepidermoide é o mais frequente (13 a 23% das neoplasias). O tecido removido de um aumento de volume salivar vai ao exame microscópico, para confirmar o diagnóstico e descartar neoplasia."
+    },
+    {
+      "id": "tumores",
+      "titulo": "Adenoma pleomórfico, tumor de Warthin e carcinoma mucoepidermoide",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Adenoma pleomórfico, Características clínicas, p. 471; Localização e Histopatologia, p. 472; Tratamento e prognóstico, p. 473; Tumor de Warthin, p. 475–477 (Tabela 11.5, p. 467); Carcinoma mucoepidermoide, p. 480–483",
+      "texto": "**Adenoma pleomórfico (tumor misto benigno).** É a neoplasia salivar **mais comum**, inclusive na parótida. Aumento de volume **firme, indolor e de crescimento lento**, notado meses ou anos antes do diagnóstico, em adultos de 30 a 60 anos, com leve predomínio feminino. Na parótida, fica à frente da orelha, no lobo superficial, e no início é móvel. No **palato** (50 a 65% dos intraorais) é nódulo liso e arredondado na região lateral posterior, **não móvel**, porque a mucosa é aderida; no lábio e na mucosa jugal costuma ser móvel. **Conduta:** excisão cirúrgica; na parótida, parotidectomia superficial com preservação do nervo facial. **Evita-se a enucleação simples**, porque pode deixar células do tumor e levar à recidiva. A cura passa de 95%. Pode haver transformação maligna em cerca de 3 a 4% dos casos, e o risco cresce com o tempo de evolução.\n\n**Tumor de Warthin.** Benigno, **quase só na parótida**, em geral na **cauda**, perto do ângulo da mandíbula. É o segundo tumor benigno mais comum da parótida. Atinge idosos, tem forte relação com o **tabagismo** (risco 8 vezes maior) e é **bilateral em 5 a 17%**. Nódulo indolor, de crescimento lento, firme ou flutuante; ao microscópio, epitélio oncocítico com estroma linfoide. Trata-se com cirurgia (recidiva de 2 a 6%); se a punção aspirativa for confiável, alguns acompanham. A transformação maligna é extremamente rara.\n\n**Carcinoma mucoepidermoide.** Um dos cânceres salivares mais comuns e o **mais comum em crianças**. Ocorre na parótida e, nas glândulas menores, sobretudo no **palato**: aumento assintomático, às vezes flutuante, **azulado ou vermelho**, que pode ser confundido com **mucocele**. Dor e paralisia facial costumam estar ligadas a lesões de alto grau. A cirurgia depende do local, do grau e do estágio; no baixo grau, 90 a 98% são curados, e no alto grau a sobrevida é de 30 a 64%.\n\n**Alerta:** lesão que parece mucocele no palato pode ser esse carcinoma; todo tecido excisado vai ao microscópio."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: as lesões salivares deste tema",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, p. 448–449; Rânula, p. 450–451; Sialolitíase, p. 453–454; Síndrome de Sjögren, p. 460–463; Adenoma pleomórfico, p. 470–473; Tumor de Warthin, p. 475–477; Carcinoma mucoepidermoide, p. 480–483",
+      "texto": "| Lesão | Onde | Como é | O que a identifica | Conduta |\n|---|---|---|---|---|\n| **Mucocele** | lábio inferior (81,9%) | nódulo flutuante, azulado | extravasamento de muco, sem revestimento epitelial | excisão com glândulas menores; exame microscópico |\n| **Cisto do ducto salivar** | parótida, assoalho, mucosa jugal, lábios | nódulo flutuante, às vezes azulado ou âmbar | cisto com revestimento epitelial | excisão conservadora |\n| **Rânula** | assoalho da boca, ao lado da linha média | grande, flutuante, azulada; pode mergulhar ao pescoço | origem na glândula sublingual | remover a glândula; marsupializar se pequena |\n| **Sialolitíase** | submandibular (80%) | dor e aumento nas refeições; massa dura | massa radiopaca; oclusal mostra melhor | massagem e sialendoscopia; cirurgia se grande |\n| **Sjögren** | glândulas salivares e lacrimais | boca e olho secos; parótida aumentada | anti-SS-A, anti-SS-B; biópsia labial com focos | suporte; vigiar linfoma |\n| **Adenoma pleomórfico** | parótida; palato lateral posterior | nódulo firme, indolor, lento | tumor geralmente encapsulado, mais comum | excisão; evitar enucleação |\n| **Tumor de Warthin** | cauda da parótida | nódulo indolor; às vezes bilateral | idoso fumante; estroma linfoide | cirurgia ou acompanhamento |\n| **Carcinoma mucoepidermoide** | parótida; palato | azulado ou vermelho; lembra mucocele | maligno; células mucosas e epidermoides | cirurgia conforme o grau |\n\n**O que separa as principais:** a mucocele é **flutuante e azulada, no lábio inferior**; o tumor salivar é **firme** e, no palato, **não móvel**. Dor e edema da glândula **nas refeições** apontam para o cálculo. **Boca e olho secos** em mulher de meia-idade apontam para Sjögren. Lesão que parece mucocele **no palato**, onde a mucocele é rara, pode ser carcinoma mucoepidermoide; todo tecido excisado vai ao exame microscópico."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Mucocele: o que acontece e ela tem revestimento epitelial?",
+      "verso": "Um ducto salivar se rompe e a **mucina extravasa** para os tecidos moles. **Não tem** revestimento epitelial; o cisto do ducto salivar tem.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, introdução, p. 448; Cistos do ducto salivar, p. 451"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual é a localização mais comum da mucocele e em que porcentagem?",
+      "verso": "**Lábio inferior**, com **81,9%** dos casos (1.405 de 1.715 em um estudo), ao lado da linha média. No lábio superior, nenhum caso nas grandes séries.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Localização e Tabela 11.1, p. 449"
+    },
+    {
+      "id": "f03",
+      "frente": "Como é a mucocele típica?",
+      "verso": "Nódulo arredondado, **flutuante**, de cor **azulada** quando o muco é superficial. Muitos relatam que rompe, esvazia e volta.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Características clínicas, p. 448"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual a conduta na mucocele crônica e por que remover as glândulas menores?",
+      "verso": "**Excisão cirúrgica** tirando as glândulas menores da lesão, para reduzir a recidiva. O tecido vai ao microscópio para descartar neoplasia.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Tratamento e prognóstico, p. 449"
+    },
+    {
+      "id": "f05",
+      "frente": "O que é a rânula e de que glândula ela vem?",
+      "verso": "**Mucocele do assoalho da boca**, da glândula **sublingual**. É grande, flutuante, azulada, ao lado da linha média e eleva a língua.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Rânula, introdução e Características clínicas, p. 450"
+    },
+    {
+      "id": "f06",
+      "frente": "O que é a rânula mergulhante?",
+      "verso": "Variante em que o muco **atravessa o músculo milo-hioide** e forma um aumento macio no **pescoço**, com ou sem lesão no assoalho.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Rânula, Características clínicas, p. 450–451"
+    },
+    {
+      "id": "f07",
+      "frente": "Rânula: quando a marsupialização costuma falhar?",
+      "verso": "Nas rânulas **grandes**. Nelas, a maioria dos autores pede considerar a **remoção da glândula** acometida para prevenir recidiva.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Rânula, Tratamento e prognóstico, p. 451"
+    },
+    {
+      "id": "f08",
+      "frente": "Qual glândula é a mais afetada pela sialolitíase e quais os sintomas?",
+      "verso": "A **submandibular**, em **80%**. Dor e aumento da glândula **durante as refeições**; pode haver massa dura sob a mucosa.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Sialolitíase, p. 453"
+    },
+    {
+      "id": "f09",
+      "frente": "Que radiografia mostra melhor um cálculo na parte final do ducto submandibular?",
+      "verso": "A **oclusal**. Em panorâmica ou periapical, o cálculo pode se sobrepor à mandíbula e ser confundido com lesão intraóssea.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Sialolitíase, Características clínicas e radiográficas, p. 453; Figura 11.15, p. 454"
+    },
+    {
+      "id": "f10",
+      "frente": "A que o livro atribui, sobretudo, a xerostomia do idoso?",
+      "verso": "Aos **medicamentos**. Mais de 500 substâncias causam boca seca, incluindo 63% dos 200 medicamentos mais prescritos nos EUA.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Xerostomia, introdução, p. 458"
+    },
+    {
+      "id": "f11",
+      "frente": "Quais as duas consequências mais citadas da xerostomia?",
+      "verso": "**Candidíase oral** e **cárie cervical e de raiz**, porque a saliva deixa de limpar e de combater micróbios.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Xerostomia, Consequências, p. 458"
+    },
+    {
+      "id": "f12",
+      "frente": "Pilocarpina e cevimelina: quando funcionam?",
+      "verso": "Só se houver **tecido glandular viável**. São sialogogos; contraindicados no glaucoma de ângulo agudo.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Xerostomia, Tratamento e prognóstico, p. 458; Síndrome de Sjögren, Tratamento, p. 463"
+    },
+    {
+      "id": "f13",
+      "frente": "Síndrome de Sjögren: primária e secundária.",
+      "verso": "**Primária:** só a síndrome sicca (boca e olho secos). **Secundária:** sicca associada a outra doença autoimune, como artrite reumatoide ou lúpus.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Síndrome de Sjögren, p. 460"
+    },
+    {
+      "id": "f14",
+      "frente": "Sjögren: quem tem e qual o risco de linfoma?",
+      "verso": "**Mulheres:homens de 9:1**, adultos de meia-idade. Risco de linfoma de **5 a 10%** ao longo da vida, 15 a 20 vezes o da população normal.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Síndrome de Sjögren, p. 460; Boxe 11.3, p. 462; Linfoma, p. 463"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual glândula tem mais neoplasias e qual tem maior proporção de malignas?",
+      "verso": "A **parótida** tem mais (61 a 80%), mas a **sublingual** tem a maior proporção de malignas (70 a 97% no texto do livro; 70 a 95% na Tabela 11.4). Quanto menor a glândula, maior a chance.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466"
+    },
+    {
+      "id": "f16",
+      "frente": "Adenoma pleomórfico no palato: como é?",
+      "verso": "Nódulo **liso, arredondado, firme e não móvel**, na região lateral posterior. É a neoplasia salivar mais comum; cura em mais de 95% com cirurgia.",
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Adenoma pleomórfico, Características clínicas, p. 471; Localização, p. 472; Tratamento e prognóstico, p. 473"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Menino de 9 anos tem um nódulo arredondado, flutuante e azulado, de 8 mm, no lábio inferior, ao lado da linha média. Ele diz que a lesão já estourou e voltou. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Adenoma pleomórfico",
+          "correta": false,
+          "justificativa": "O adenoma pleomórfico é firme, indolor e de crescimento lento, e as neoplasias salivares são incomuns no lábio inferior; o nódulo flutuante e azulado que rompe e volta é de mucocele.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Adenoma pleomórfico, Características clínicas, p. 471; Mucocele, Características clínicas, p. 448"
+        },
+        {
+          "texto": "Mucocele",
+          "correta": true,
+          "justificativa": "Nódulo flutuante e azulado no lábio inferior, em criança, que rompe e volta, é o quadro típico de mucocele, e o lábio inferior concentra 81,9% dos casos.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Características clínicas, p. 448; Localização, p. 449"
+        },
+        {
+          "texto": "Sialolito de glândula menor",
+          "correta": false,
+          "justificativa": "O sialólito de glândula menor é um nódulo endurecido, mais comum no lábio superior e na mucosa jugal, e não flutuante e azulado.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Sialolitíase, p. 453–454"
+        },
+        {
+          "texto": "Tumor de Warthin",
+          "correta": false,
+          "justificativa": "O tumor de Warthin ocorre quase só na parótida, em adultos idosos.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, p. 475–476"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Características clínicas, p. 448; Localização, p. 449",
+      "secao": "mucocele",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Uma mucocele crônica do lábio inferior vai ser tratada. Qual conduta o livro indica?",
+      "alternativas": [
+        {
+          "texto": "Excisão com as glândulas menores da lesão e exame microscópico do tecido",
+          "correta": true,
+          "justificativa": "Tirar as glândulas menores reduz o risco de recidiva, e o exame microscópico confirma o diagnóstico e descarta neoplasia de glândula salivar.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Tratamento e prognóstico, p. 449"
+        },
+        {
+          "texto": "Só marsupialização, sem remover glândulas",
+          "correta": false,
+          "justificativa": "A marsupialização é citada para a rânula pequena; na mucocele, deixar as glândulas na lesão aumenta a chance de recidiva.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Rânula, Tratamento e prognóstico, p. 451; Mucocele, Tratamento e prognóstico, p. 449"
+        },
+        {
+          "texto": "Excisão e descarte do tecido, pois o diagnóstico é clínico",
+          "correta": false,
+          "justificativa": "O livro manda examinar o tecido excisado ao microscópio, para confirmar e descartar neoplasia.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Tratamento e prognóstico, p. 449"
+        },
+        {
+          "texto": "Parotidectomia superficial com preservação do nervo facial",
+          "correta": false,
+          "justificativa": "A parotidectomia é conduta de tumor da parótida, e não de mucocele do lábio.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Adenoma pleomórfico, Tratamento e prognóstico, p. 473"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Mucocele, Tratamento e prognóstico, p. 449",
+      "secao": "mucocele",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Menina de 8 anos tem um aumento grande, azulado e flutuante no assoalho da boca, à esquerda da linha média, que eleva a língua. Qual é o diagnóstico e qual conduta é mais segura contra a recidiva?",
+      "alternativas": [
+        {
+          "texto": "Cisto dermoide; excisão com margem",
+          "correta": false,
+          "justificativa": "O cisto dermoide é mediano; a rânula fica ao lado da linha média. Na rânula grande, o que se considera para prevenir a recidiva é remover a glândula.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Rânula, Características clínicas, p. 450"
+        },
+        {
+          "texto": "Cisto do ducto salivar; observação",
+          "correta": false,
+          "justificativa": "O cisto do ducto salivar ocorre em adultos e tem tratamento por excisão conservadora; o quadro descrito, grande e em criança, é de rânula.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Cistos do ducto salivar, Características clínicas, p. 451; Tratamento e prognóstico, p. 452; Rânula, p. 450"
+        },
+        {
+          "texto": "Sialolitíase; remoção do cálculo",
+          "correta": false,
+          "justificativa": "A sialolitíase causa dor e aumento nas refeições e massa dura, e não nódulo azulado e flutuante.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Sialolitíase, p. 453"
+        },
+        {
+          "texto": "Rânula; considerar a remoção da glândula sublingual",
+          "correta": true,
+          "justificativa": "A rânula grande tem falha frequente com marsupialização; a maioria dos autores indica considerar a remoção da glândula sublingual para evitar recidiva.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Rânula, Tratamento e prognóstico, p. 451"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Rânula, Características clínicas, p. 450; Tratamento e prognóstico, p. 451",
+      "secao": "ranula",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 40 anos sente dor e aumento de volume abaixo da mandíbula, só nas refeições, e palpa uma massa dura no assoalho da boca. Qual é o diagnóstico mais provável e qual radiografia pode mostrar o achado?",
+      "alternativas": [
+        {
+          "texto": "Rânula; radiografia periapical",
+          "correta": false,
+          "justificativa": "A rânula é um aumento macio e azulado, e não uma massa dura com dor nas refeições.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Rânula, Características clínicas, p. 450"
+        },
+        {
+          "texto": "Sialolitíase da submandibular; radiografia oclusal",
+          "correta": true,
+          "justificativa": "Dor e aumento durante as refeições com massa dura próxima ao orifício do ducto indicam cálculo, e a radiografia oclusal mostra melhor o cálculo da parte final do ducto submandibular.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Sialolitíase, Características clínicas e radiográficas, p. 453"
+        },
+        {
+          "texto": "Síndrome de Sjögren; sialografia sem outros achados",
+          "correta": false,
+          "justificativa": "O Sjögren cursa com boca e olhos secos e aumento difuso das glândulas.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Síndrome de Sjögren, p. 460; Glândulas salivares maiores, p. 462"
+        },
+        {
+          "texto": "Tumor de Warthin; radiografia panorâmica",
+          "correta": false,
+          "justificativa": "O tumor de Warthin é um nódulo indolor e de crescimento lento da parótida em idosos; dor e aumento nas refeições com massa dura no assoalho é quadro de cálculo.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, Características clínicas, p. 475–476"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Sialolitíase, Características clínicas e radiográficas, p. 453",
+      "secao": "sialolitiase",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 70 anos, que usa anti-hipertensivo, antidepressivo e anti-histamínico, queixa-se de boca seca, com língua fissurada e saliva espessa. Qual é a primeira consideração do livro sobre a causa e a conduta?",
+      "alternativas": [
+        {
+          "texto": "É efeito normal da idade e não deve ser investigado",
+          "correta": false,
+          "justificativa": "O livro diz que a redução da saliva ligada à idade é moderada e que a xerostomia do idoso vem de outros fatores, em especial medicamentos.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Xerostomia, introdução, p. 458"
+        },
+        {
+          "texto": "Provável efeito dos medicamentos; considerar reduzir ou trocar o fármaco",
+          "correta": true,
+          "justificativa": "Medicamentos como anti-hipertensivos, antidepressivos e anti-histamínicos estão na tabela de causas de xerostomia, e se a secura é secundária ao remédio se considera suspender, reduzir ou substituir.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Xerostomia, Tabela 11.2 e Tratamento e prognóstico, p. 458"
+        },
+        {
+          "texto": "Aplasia da glândula salivar; sialogogo imediato",
+          "correta": false,
+          "justificativa": "A aplasia é distúrbio do desenvolvimento, e os sialogogos só funcionam se houver tecido glandular viável.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Xerostomia, causas e Tratamento e prognóstico, p. 458"
+        },
+        {
+          "texto": "Síndrome de Sjögren confirmada pelo quadro oral isolado",
+          "correta": false,
+          "justificativa": "Boca seca sozinha não basta para o diagnóstico de Sjögren, que junta o quadro clínico e exames (autoanticorpos, biópsia labial); aqui há causa medicamentosa evidente.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Xerostomia, introdução, p. 458; Síndrome de Sjögren, p. 460–462"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Xerostomia, introdução, Tabela 11.2 e Tratamento e prognóstico, p. 458",
+      "secao": "xerostomia",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 52 anos tem boca seca, olhos com sensação de areia e aumento bilateral, firme e pouco doloroso das parótidas. O exame de anticorpos mostra anti-SS-A positivo. Qual achado de biópsia sustenta o diagnóstico e qual risco deve ser acompanhado?",
+      "alternativas": [
+        {
+          "texto": "Focos linfocíticos em glândula menor do lábio inferior; risco de linfoma",
+          "correta": true,
+          "justificativa": "O quadro é de síndrome de Sjögren, que se confirma com biópsia de glândula labial mostrando focos de linfócitos e plasmócitos, e tem risco de 5 a 10% de linfoma.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Síndrome de Sjögren, Biópsia de glândula salivar menor, p. 462; Linfoma, p. 463"
+        },
+        {
+          "texto": "Cálculo com laminações concêntricas; risco de abscesso",
+          "correta": false,
+          "justificativa": "O cálculo é achado da sialolitíase e não explica olho seco, anticorpo positivo e aumento bilateral das parótidas.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Sialolitíase, Histopatologia, p. 454"
+        },
+        {
+          "texto": "Mucina extravasada com tecido de granulação; risco de recidiva",
+          "correta": false,
+          "justificativa": "É o achado da mucocele, lesão nodular localizada, e não de uma doença sistêmica com olho seco.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Características histopatológicas, p. 449"
+        },
+        {
+          "texto": "Epitélio oncocítico com estroma linfoide; risco de transformação em carcinoma",
+          "correta": false,
+          "justificativa": "É o achado do tumor de Warthin, nódulo da parótida em idoso, e sua transformação maligna é extremamente rara.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, Características histopatológicas e Tratamento e prognóstico, p. 476–477"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Síndrome de Sjögren, p. 460; Biópsia de glândula salivar menor, p. 462; Linfoma, p. 463",
+      "secao": "sjogren",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Entre as neoplasias das glândulas salivares, em qual glândula é maior a proporção de tumores malignos?",
+      "alternativas": [
+        {
+          "texto": "Parótida, com 15 a 32% de malignas",
+          "correta": false,
+          "justificativa": "A parótida é a mais frequente em número de neoplasias, mas tem a menor proporção de malignas entre as glândulas.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466; Tabela 11.4, p. 467"
+        },
+        {
+          "texto": "Submandibular, com 26 a 45% de malignas",
+          "correta": false,
+          "justificativa": "A proporção é cerca do dobro da parótida, mas ainda menor que a da sublingual.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466"
+        },
+        {
+          "texto": "Glândulas salivares menores",
+          "correta": false,
+          "justificativa": "A proporção é alta, mas a sublingual tem proporção ainda maior de malignas.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466; Tabela 11.7, p. 468"
+        },
+        {
+          "texto": "Sublingual",
+          "correta": true,
+          "justificativa": "A sublingual tem a maior proporção de malignas, e a regra do livro é que, quanto menor a glândula, maior a probabilidade de malignidade.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Neoplasias de glândulas salivares, Considerações gerais, p. 466; Tabela 11.4, p. 467",
+      "secao": "neoplasias",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Homem de 38 anos tem, há 2 anos, um nódulo firme, liso, indolor e fixo na região lateral posterior do palato duro, sem alteração de cor. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Mucocele",
+          "correta": false,
+          "justificativa": "A mucocele é flutuante e azulada, e o palato é local raro (1,3%).",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Características clínicas, p. 448; Localização, p. 449"
+        },
+        {
+          "texto": "Adenoma pleomórfico",
+          "correta": true,
+          "justificativa": "O palato é o sítio mais comum do adenoma pleomórfico intraoral, que ali é liso, firme, arredondado, de crescimento lento e não móvel, por aderência da mucosa.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Adenoma pleomórfico, Características clínicas, p. 471; Localização, p. 472"
+        },
+        {
+          "texto": "Tumor de Warthin",
+          "correta": false,
+          "justificativa": "O tumor de Warthin ocorre quase só na parótida, em idosos, e não no palato de um adulto de 38 anos.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, p. 475–476"
+        },
+        {
+          "texto": "Cisto do ducto salivar",
+          "correta": false,
+          "justificativa": "Os locais mais frequentes do cisto do ducto são o assoalho, a mucosa jugal e os lábios, e ele em geral é flutuante; o nódulo firme, fixo e de crescimento lento no palato lateral posterior é do adenoma pleomórfico.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Cistos do ducto salivar, Características clínicas, p. 451"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Adenoma pleomórfico, Características clínicas, p. 471; Localização, p. 472",
+      "secao": "tumores",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Homem de 66 anos, fumante, tem um nódulo indolor e de crescimento lento na cauda da parótida direita, perto do ângulo da mandíbula. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Tumor de Warthin",
+          "correta": true,
+          "justificativa": "Nódulo indolor na cauda da parótida, em idoso fumante, é o quadro do tumor de Warthin, com forte relação com o tabagismo.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, Características clínicas, p. 475–476"
+        },
+        {
+          "texto": "Carcinoma mucoepidermoide de glândula menor",
+          "correta": false,
+          "justificativa": "O carcinoma de glândula menor ocorre sobretudo no palato, e o caso descreve a parótida com nódulo indolor e lento.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Carcinoma mucoepidermoide, Características clínicas, p. 480"
+        },
+        {
+          "texto": "Síndrome de Sjögren",
+          "correta": false,
+          "justificativa": "O Sjögren é de mulheres de meia-idade, com boca e olhos secos e aumento difuso, em geral bilateral.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Síndrome de Sjögren, p. 460; Glândulas salivares maiores, p. 462"
+        },
+        {
+          "texto": "Sialolitíase da parótida",
+          "correta": false,
+          "justificativa": "A sialolitíase dá dor e aumento nas refeições, e a maioria dos cálculos está na submandibular.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Sialolitíase, p. 453"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Tumor de Warthin, Características clínicas, p. 475–476",
+      "secao": "tumores",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Mulher de 35 anos tem, na região lateral posterior do palato, um aumento assintomático, azulado e às vezes flutuante, que parece uma mucocele. Por que o tecido removido deve ir ao exame microscópico?",
+      "alternativas": [
+        {
+          "texto": "Pode ser carcinoma mucoepidermoide, que se confunde com mucocele",
+          "correta": true,
+          "justificativa": "O carcinoma mucoepidermoide de glândula menor, sobretudo no palato, pode ser azulado ou vermelho, às vezes flutuante, e ser confundido com mucocele; a mucocele em si é rara no palato.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Carcinoma mucoepidermoide, Características clínicas, p. 480; Mucocele, Localização, p. 449"
+        },
+        {
+          "texto": "Pode ser adenoma pleomórfico, que sempre é azulado e flutuante",
+          "correta": false,
+          "justificativa": "O adenoma pleomórfico do palato é firme, liso e não móvel, e não azulado e flutuante.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Adenoma pleomórfico, Localização, p. 472"
+        },
+        {
+          "texto": "Pode ser tumor de Warthin, que é comum no palato",
+          "correta": false,
+          "justificativa": "O tumor de Warthin ocorre quase só na parótida.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Tumor de Warthin, p. 475"
+        },
+        {
+          "texto": "A mucocele do palato é sempre maligna",
+          "correta": false,
+          "justificativa": "A mucocele não é neoplasia; o motivo do exame é afastar um tumor salivar que se parece com ela.",
+          "fonte": "neville5-cap11",
+          "onde": "cap. 11, Mucocele, Tratamento e prognóstico, p. 449"
+        }
+      ],
+      "fonte": "neville5-cap11",
+      "onde": "cap. 11, Carcinoma mucoepidermoide, Características clínicas, p. 480; Mucocele, Localização e Tratamento e prognóstico, p. 449",
+      "secao": "tumores",
+      "figura": null
+    }
+  ]
+}

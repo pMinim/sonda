@@ -1,0 +1,531 @@
+{
+  "slug": "doencas-autoimunes-mucocutaneas",
+  "titulo": "Doenças autoimunes mucocutâneas: líquen plano, pênfigo vulgar, penfigoide das membranas mucosas e lúpus eritematoso",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 16",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap16",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 16, Doenças Dermatológicas, p. 730–800.",
+      "curta": "Neville 5ª ed., cap. 16"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "lp-formas",
+      "titulo": "Líquen plano: o que é e como aparece",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, introdução e Características clínicas, p. 769–770; Líquen plano reticular, p. 770; Líquen plano erosivo, p. 771",
+      "texto": "**O que é:** doença crônica e relativamente comum, que atinge a pele e, com frequência, a mucosa oral. O nome sugere infecção fúngica, mas as evidências atuais apontam doença **mucocutânea imunomediada**.\n\n**Em quem:** adultos de meia-idade; é rara em crianças. Mulheres são mais afetadas, na razão aproximada de 3:2. Cerca de 1% da população tem líquen plano na pele; na boca, a prevalência fica entre 0,1% e 2,2%.\n\n**Pele:** pápulas poligonais, arroxeadas e que coçam, sobretudo na face flexora dos membros. Sobre elas aparecem linhas brancas finas, em rendilhado: as **estrias de Wickham**. Podem ser afetados também a glande, a vulva e as unhas.\n\n**Na boca há duas formas básicas.**\n\n**Reticular** (a mais comum; costuma ser assintomática):\n- linhas brancas entrelaçadas (as mesmas estrias de Wickham), às vezes pápulas;\n- **bilateral, na região posterior da mucosa jugal**, o local mais frequente;\n- não é estática: **piora e melhora** em semanas ou meses;\n- em pessoas de pele escura, costuma haver **melanose** (escurecimento) após a inflamação;\n- no dorso da língua não há estrias: aparecem placas brancas lisas, com perda das papilas;\n- também pode atingir gengiva, palato, borda da língua e vermelhão do lábio.\n\n**Erosiva** (menos comum, mas a que mais incomoda, porque dói):\n- áreas **vermelhas e atróficas** (finas), com úlcera central de tamanho variável;\n- na periferia, finas **estrias brancas irradiadas**;\n- se a atrofia e a úlcera ficam só na gengiva, o quadro é a **gengivite descamativa**;\n- se a erosão separa o epitélio do conjuntivo, surge o raro líquen plano bolhoso.\n\nNos estudos a forma erosiva parece predominar, mas por viés: ela é sintomática e chega mais aos centros de referência."
+    },
+    {
+      "id": "lp-diagnostico",
+      "titulo": "Líquen plano: como se diagnostica e o que o imita",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, introdução, p. 769; Líquen plano erosivo e Características histopatológicas, p. 771–772; Imunopatologia e Diagnóstico, p. 773",
+      "texto": "**Reticular: a clínica costuma bastar.** As estrias brancas entrelaçadas na região posterior da mucosa jugal, dos dois lados, são muito características. Se o quadro não for típico, a biópsia é apropriada. A **candidíase sobreposta** pode apagar o padrão reticular: no caso do livro, as estrias só reapareceram 2 semanas depois do antifúngico.\n\n**Erosivo: mais difícil só pela clínica.** Estrias brancas radiadas e mucosa atrófica vermelha ao redor das úlceras, bem demarcadas na região posterior da mucosa jugal dos dois lados, permitem considerar o diagnóstico. Mesmo assim a biópsia pode ser necessária. O **penfigoide das membranas mucosas** e o **pênfigo vulgar** podem ter o mesmo aspecto, e por isso a biópsia do tecido perilesional vai para microscopia de luz **e** imunofluorescência. Outras doenças ulcerativas ou erosivas a descartar: lúpus eritematoso e estomatite ulcerativa crônica.\n\n**Lesão liquenoide erosiva isolada** (palato mole, borda ou ventre da língua, assoalho da boca) deve ser biopsiada para afastar alteração pré-maligna ou maligna.\n\n**Histopatologia:** típica, mas **não específica**. Vê-se faixa de linfócitos logo abaixo do epitélio, degeneração da camada basal e cristas epiteliais pontiagudas, em dentes de serra. Na imunofluorescência há fibrinogênio na zona da membrana basal, sem especificidade. Não se espera atipia epitelial no líquen plano oral.\n\n**O que dá quadro semelhante (reação liquenoide):**\n- medicamentos (o livro usa o termo mucosite liquenoide);\n- **amálgama dentário**;\n- corpo estranho na gengiva;\n- doença do enxerto contra o hospedeiro;\n- lúpus eritematoso;\n- estomatite ulcerativa crônica e fase inicial da leucoplasia verrucosa proliferativa.\n\n**Associações citadas:** hepatite C (relatos do Mediterrâneo, sem apoio nos estudos controlados) e hipotireoidismo. A ligação com ansiedade e estresse é controversa."
+    },
+    {
+      "id": "lp-tratamento",
+      "titulo": "Líquen plano: tratamento, acompanhamento e malignização",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 773–774; Características histopatológicas, p. 772; Potencial de transformação maligna, p. 774",
+      "texto": "**Reticular:** normalmente sem sintomas e **sem tratamento**. Se o paciente passa a sentir **ardência**, pense em candidíase sobreposta, que exige antifúngico e também pode alterar o aspecto das estrias. Alguns autores sugerem reavaliar as lesões uma vez por ano.\n\n**Erosivo:** como é imunomediado, usa-se corticosteroide.\n- **Primeira escolha:** corticosteroide **tópico potente**, em gel, várias vezes ao dia nas áreas mais sintomáticas. Em geral a cicatrização vem em **1 a 2 semanas**.\n- O paciente deve saber que a doença **recidiva** e que o corticosteroide será reaplicado.\n- Vigie a **candidíase** causada pelo próprio tratamento (no caso do livro, placas brancas cremosas apareceram 2 semanas depois).\n- O corticosteroide **sistêmico** funciona, mas é agressivo e em geral desnecessário.\n- Acompanhamento: alguns autores sugerem reavaliar o erosivo **a cada 3 a 6 meses**, sobretudo se as lesões forem atípicas.\n\n**Malignização: o livro diz que não está resolvido.**\n- A maioria dos casos relatados é mal documentada.\n- Alguns poderiam ser **leucoplasias displásicas** com infiltrado liquenoide por cima, e não líquen plano verdadeiro.\n- Em um estudo, o líquen plano característico não se transformou, mas várias lesões apenas liquenoides evoluíram para carcinoma espinocelular.\n- A inflamação crônica com células atípicas pode ser quase indistinguível de displasia leve, o que alimenta a controvérsia.\n- Conclusão do livro: se o potencial existe, parece **pequeno**. A maior parte dos casos relatados é de líquen plano erosivo ou em placa.\n\nLesões com candidíase podem parecer mais preocupantes ao microscópio e devem ser reavaliadas depois do tratamento antifúngico. A discussão sobre desordens potencialmente malignas está em outro tema."
+    },
+    {
+      "id": "penfigo",
+      "titulo": "Pênfigo vulgar",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, introdução, p. 752; Características clínicas, p. 753; Tabela 16.3, p. 754",
+      "texto": "**Mecanismo:** autoanticorpos atacam a **desmogleína**, proteína dos desmossomos, as estruturas que prendem as células do epitélio umas às outras. As células se soltam e forma-se uma **fenda dentro do epitélio**, logo acima da camada basal: a bolha é **intraepitelial**. Das quatro doenças do grupo pênfigo, só o vulgar (e o raro vegetante) atinge a boca; o capítulo trata do vulgar.\n\n**Em quem:** adultos, com idade média de **50 anos** no diagnóstico; é rara em crianças. Quanto ao sexo, o texto do livro cita leve predileção por mulheres em alguns relatos, mas a Tabela 16.3 do mesmo capítulo registra sexos iguais. Parece mais frequente em pessoas do Mediterrâneo, do sul da Ásia e de ascendência judaica. É pouco frequente: 1 a 5 casos por milhão de pessoas por ano. Sem tratamento, frequentemente leva à morte.\n\n**Começa na boca:** em **mais da metade** dos pacientes as lesões orais **antecedem as da pele**, às vezes por 1 ano ou mais. Quase todos têm envolvimento oral em algum momento. O livro as chama de \"as primeiras a surgirem, e as últimas a desaparecerem\".\n\n**Aspecto na boca:**\n- o paciente se queixa de **dor**;\n- **erosões superficiais e úlceras irregulares**, espalhadas ao acaso, em qualquer local: palato, mucosa labial e jugal, ventre da língua, gengiva;\n- **bolhas íntegras raramente são vistas**, porque o teto fino e frágil se rompe cedo.\n\n**Pele:** bolhas **flácidas**, que se rompem em horas a poucos dias e deixam a superfície vermelha e sem revestimento. O olho é menos atingido (conjuntivite bilateral) e, ao contrário do penfigoide, **em geral sem cicatriz nem simbléfaro**.\n\n**Sinal de Nikolsky positivo:** pressão lateral firme sobre a pele de aspecto normal **induz uma bolha**.\n\nMedicamentos (penicilamina, IECA, AINEs) podem causar erupção parecida. Sem tratamento, as lesões persistem e se estendem."
+    },
+    {
+      "id": "penfigoide",
+      "titulo": "Penfigoide das membranas mucosas e o olho",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758–759; Tabela 16.3, p. 754; Tratamento e prognóstico, p. 761",
+      "texto": "**Mecanismo:** autoanticorpos atacam componentes da **membrana basal**, e a bolha se forma **abaixo do epitélio** (subepitelial). O nome vem da semelhança clínica com o pênfigo, mas prognóstico e microscopia são bem diferentes. Outro nome é penfigoide cicatricial. A prevalência exata é desconhecida, mas a maioria dos autores acredita que seja cerca de **duas vezes mais comum** que o pênfigo vulgar.\n\n**Em quem:** adultos. O texto do livro fala em média de **50 a 60 anos**, e a Tabela 16.3 traz sexta a sétima décadas. Mulheres, na razão de **2:1**.\n\n**Na boca:** a maioria dos pacientes tem lesões orais. Elas começam como vesículas ou bolhas que, ao contrário do pênfigo, **muitas vezes são vistas íntegras**, porque o teto da bolha subepitelial é mais espesso e resistente. Ao romperem, deixam úlceras superficiais dolorosas que podem durar semanas ou meses sem tratamento. O processo é em geral difuso, mas pode se limitar à **gengiva**, causando **gengivite descamativa**. Esse padrão também ocorre no líquen plano erosivo e, menos vezes, no pênfigo vulgar.\n\n**Outros locais:** conjuntiva, nariz, esôfago, laringe, vagina e pele (bolhas tensas em cerca de 20%). Se houver rouquidão inesperada ou dificuldade para respirar, o paciente precisa de laringoscopia.\n\n**O olho é a complicação mais grave.** Até **25%** dos pacientes com lesão oral podem desenvolver doença ocular, e um olho pode ser afetado antes do outro. O início é uma fibrose sob a conjuntiva, que em geral é detectada pelo oftalmologista, com lâmpada de fenda. Depois vêm erosão, aderência entre a conjuntiva do globo e a da pálpebra (**simbléfaro**), pálpebra virada para dentro com cílios roçando a córnea, olho seco e córnea opaca. Sem reconhecimento e tratamento, a cicatriz conjuntival leva à **cegueira**. As lesões orais raramente cicatrizam.\n\n**Conduta no consultório:** confirmado o diagnóstico, o paciente é **encaminhado a oftalmologista** que conheça a doença, **tenha ou não queixa ocular**."
+    },
+    {
+      "id": "confirmacao",
+      "titulo": "Confirmação das doenças vesicobolhosas, tratamento e prognóstico",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Características histopatológicas e Diagnóstico, p. 755–756, Tratamento e prognóstico, p. 756; Penfigoide das membranas mucosas, Características histopatológicas e imunopatológicas, p. 760–761, Tratamento e prognóstico, p. 761–762; Tabela 16.3, p. 754",
+      "texto": "**Onde biopsiar:** colha o **tecido perilesional**, a borda da lesão com mucosa ainda íntegra, e não a úlcera. No fundo da úlcera falta a interface entre epitélio e conjuntivo, e o epitélio solto pode se destacar na hora da biópsia; o resultado costuma ser inconclusivo. Envie material para **microscopia de luz e para imunofluorescência direta**, que usa tecido fresco ou em solução de Michel.\n\n**Pênfigo vulgar:**\n- fenda **dentro** do epitélio, logo acima da camada basal; células soltas e arredondadas (**acantólise**), que na citologia esfoliativa são as **células de Tzanck** (o tema Biópsia e exames complementares traz a citologia de Tzanck pelo Marcucci; aqui, pelo Neville, a confirmação é a biópsia perilesional com imunofluorescência direta);\n- imunofluorescência direta: anticorpos (IgG ou IgM) e complemento **entre as células** do epitélio, padrão de \"tela de galinheiro\", em quase todos os pacientes;\n- a imunofluorescência indireta (anticorpos no sangue) é positiva em 80 a 90% e serve para acompanhar a resposta.\n\n**Penfigoide das membranas mucosas:**\n- fenda **abaixo** do epitélio, na membrana basal;\n- imunofluorescência direta: **banda linear contínua** na membrana basal em cerca de 90%;\n- imunofluorescência indireta: o texto do livro diz positiva em apenas 5 a 25%, e a Tabela 16.3 traz negativa.\n\n**Tratamento do pênfigo:** é doença sistêmica e pede abordagem **sistêmica**, por médico experiente em imunossupressão. O tratamento é com corticosteroide sistêmico e imunossupressores; hoje o **rituximabe** é citado como primeira linha. O corticosteroide tópico na boca é questionável: a melhora vem da absorção. O diagnóstico precoce facilita o controle.\n\n**Prognóstico do pênfigo:** antes dos corticosteroides, 60 a 90% morriam. Hoje a mortalidade é de **5 a 10%**, em grande parte por complicações do tratamento prolongado. Remissões e recaídas são comuns.\n\n**Tratamento do penfigoide:** individualizado. Só na boca, às vezes o **gel de corticosteroide tópico potente**, várias vezes ao dia, controla a doença; as lesões costumam voltar. Na gengiva, higiene bucal e placa flexível ajudam. Em doença intensa ou com olho avançado, usa-se corticosteroide sistêmico com outro imunossupressor.\n\n**Tópico ou sistêmico?** O corticosteroide tópico é a escolha no líquen plano erosivo e no lúpus cutâneo crônico; no penfigoide restrito à boca, costuma ser tentado. No pênfigo vulgar o tratamento é sistêmico, conduzido pelo médico."
+    },
+    {
+      "id": "lupus",
+      "titulo": "Lúpus eritematoso: tipos, pele e boca",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Lúpus eritematoso, Características clínicas, p. 780–781; Diagnóstico e Tratamento e prognóstico, p. 783; Tabela 16.5, p. 783; prognóstico do LECC, p. 784",
+      "texto": "**Três tipos:**\n- **sistêmico (LES):** doença grave, com vários órgãos;\n- **cutâneo crônico (LECC), ou discoide:** pele e mucosa oral, prognóstico bom;\n- **cutâneo subagudo (LECS):** intermediário entre os dois.\n\n**LES:** mulheres são afetadas 8 a 10 vezes mais. Quadro vago no início: febre, fadiga, perda de peso, artrite. Em **40 a 50%** há exantema em **asa de borboleta** nas regiões malar e nasal, poupando os sulcos nasolabiais; o sol piora. O envolvimento do rim é o aspecto mais grave. Lesões orais ocorrem em 5 a 25% (em alguns estudos, 40%), em **palato, mucosa jugal e gengiva**, às vezes de aspecto liquenoide. O vermelhão do lábio inferior pode ter ulceração, dor, eritema e hiperqueratose (queilite lúpica).\n\n**LECC:** placas vermelhas redondas em áreas expostas ao sol, sobretudo cabeça e pescoço; cicatrizam com atrofia, cicatriz e alteração de cor. Na boca, as lesões são, na maioria dos casos, **clinicamente idênticas às do líquen plano erosivo**: centro vermelho, atrófico ou ulcerado, cercado por **estrias brancas irradiadas**, doloroso com alimento ácido ou salgado. Diferença: ao contrário do líquen plano, raramente aparecem sem lesão de pele. No **LECS**, as lesões de pele são fotossensíveis, sem endurecimento nem cicatriz, e podem ser desencadeadas por medicamentos.\n\n**Diagnóstico:** biópsia e imunofluorescência direta (banda granular de IgG, IgM ou complemento na membrana basal); sozinha, não fecha o diagnóstico. Os anticorpos antinucleares são achado de triagem e inespecífico no LES: o texto do livro fala em cerca de 95% dos pacientes, e a Tabela 16.5 traz 98%.\n\n**Tratamento:** evitar sol excessivo. LES leve: AINE com antimalárico (hidroxicloroquina); grave: corticosteroide sistêmico, às vezes com outro imunossupressor, e as lesões orais costumam responder. LECC: **corticosteroide tópico**, inclusive na boca; se resistir, antimalárico sistêmico.\n\n**Prognóstico:** no LES, a causa mais comum de morte é a insuficiência renal. No LECC, 5 a 15% podem evoluir para LES."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: as quatro doenças lado a lado",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, p. 752–756 e Tabela 16.3, p. 754; Penfigoide das membranas mucosas, p. 758–762; Líquen plano, p. 769–774; Lúpus eritematoso, p. 780–784",
+      "texto": "| Doença | Onde se forma a lesão | Na boca | O que confirma | Conduta |\n|---|---|---|---|---|\n| **Líquen plano reticular** | interface epitélio-conjuntivo (faixa de linfócitos), sem fenda | estrias brancas entrelaçadas, mucosa jugal posterior, bilateral | em geral a clínica; biópsia se atípico | sem tratamento; antifúngico se ardência |\n| **Líquen plano erosivo** | idem | úlcera central com estrias radiadas; gengivite descamativa | biópsia perilesional com imunofluorescência, para excluir as outras; a imunofluorescência direta só mostra fibrinogênio, inespecífico | corticosteroide tópico potente; revisão a cada 3 a 6 meses |\n| **Pênfigo vulgar** | **dentro** do epitélio (fenda logo acima da camada basal) | erosões dolorosas, bolha íntegra rara; antecede a pele | imunofluorescência direta: anticorpos **entre as células** (tela de galinheiro) | sistêmico, por médico experiente: corticosteroide e imunossupressores (rituximabe) |\n| **Penfigoide das membranas mucosas** | **abaixo** do epitélio (fenda subepitelial, na membrana basal) | bolhas íntegras, úlceras, gengivite descamativa | imunofluorescência direta: **banda linear contínua** na membrana basal | gel de corticosteroide tópico se só na boca; sistêmico se falhar; oftalmologista |\n| **Lúpus (LECC)** | interface epitélio-conjuntivo | igual ao líquen plano erosivo, com lesão de pele | biópsia; imunofluorescência direta: banda granular na membrana basal, que sozinha não fecha o diagnóstico | corticosteroide tópico; evitar sol |\n\n**Gengivite descamativa** é um padrão, não uma doença: gengiva vermelha, atrófica e com erosões. O livro a descreve no **penfigoide** (às vezes só a gengiva é afetada), no **líquen plano erosivo** e, com menos frequência, no **pênfigo vulgar**. Como as três parecem iguais, a biópsia perilesional com imunofluorescência é o que separa.\n\n**O que separa na prática:** bolha íntegra sugere penfigoide; só erosões e lesão oral antes da pele sugerem pênfigo; estrias brancas radiadas sugerem líquen plano, mas o **lúpus cutâneo crônico** pode ser idêntico na boca e costuma ter lesão de pele. Pênfigo e penfigoide pedem encaminhamento, com oftalmologista no penfigoide."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são as duas formas orais do líquen plano?",
+      "verso": "**Reticular** (linhas brancas entrelaçadas, em geral assintomática, a mais comum) e **erosiva** (vermelha, atrófica, com úlcera e dor).",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Características clínicas, p. 769; Líquen plano reticular, p. 770"
+    },
+    {
+      "id": "f02",
+      "frente": "Onde aparece o líquen plano reticular típico?",
+      "verso": "**Bilateral, na região posterior da mucosa jugal**, como linhas brancas entrelaçadas (estrias de Wickham). Nessa apresentação, a clínica costuma bastar.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano reticular, p. 770; Diagnóstico, p. 773"
+    },
+    {
+      "id": "f03",
+      "frente": "O que são as estrias de Wickham?",
+      "verso": "Linhas brancas finas, em rendilhado, vistas sobre as pápulas da pele e como estrias entrelaçadas na mucosa do líquen plano reticular.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Características clínicas, p. 769; Líquen plano reticular, p. 770"
+    },
+    {
+      "id": "f04",
+      "frente": "Como é o líquen plano erosivo?",
+      "verso": "Áreas **vermelhas e atróficas** com úlcera central variável e, na periferia, **finas estrias brancas irradiadas**. Se ficar só na gengiva, é gengivite descamativa.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano erosivo, p. 771"
+    },
+    {
+      "id": "f05",
+      "frente": "Por que biopsiar o líquen plano erosivo com imunofluorescência?",
+      "verso": "Porque **penfigoide das membranas mucosas** e **pênfigo vulgar** podem ter o mesmo aspecto. Lúpus e estomatite ulcerativa crônica também precisam ser excluídos.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano erosivo, p. 771; Diagnóstico, p. 773"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual é o tratamento habitual do líquen plano erosivo?",
+      "verso": "**Corticosteroide tópico potente** em gel, várias vezes ao dia; cicatriza em 1 a 2 semanas, mas **recidiva**. Vigie a candidíase causada pelo tratamento.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 774"
+    },
+    {
+      "id": "f07",
+      "frente": "O que o livro conclui sobre a malignização do líquen plano oral?",
+      "verso": "Que o tema **não está resolvido**. Se o potencial existe, parece **pequeno**; a maioria dos casos relatados é mal documentada e alguns podem ser leucoplasias displásicas.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Potencial de transformação maligna, p. 774"
+    },
+    {
+      "id": "f08",
+      "frente": "Pênfigo vulgar: onde se forma a fenda e por quê?",
+      "verso": "**Dentro do epitélio**, logo acima da camada basal. Autoanticorpos contra a desmogleína, dos desmossomos, soltam as células umas das outras.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, introdução, p. 752"
+    },
+    {
+      "id": "f09",
+      "frente": "Pênfigo vulgar: por que quase nunca se veem bolhas íntegras na boca?",
+      "verso": "O teto da bolha é **fino e frágil** e se rompe cedo. O que se vê são erosões e úlceras irregulares e dolorosas.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+    },
+    {
+      "id": "f10",
+      "frente": "Em que ordem o pênfigo vulgar costuma aparecer na boca e na pele?",
+      "verso": "Em mais de **50%** dos pacientes, as lesões orais vêm **antes** das da pele, às vezes com 1 ano ou mais de antecedência.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+    },
+    {
+      "id": "f11",
+      "frente": "O que é o sinal de Nikolsky?",
+      "verso": "Bolha induzida em pele de aspecto normal por **pressão lateral firme**. É positivo no pênfigo vulgar.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+    },
+    {
+      "id": "f12",
+      "frente": "Penfigoide das membranas mucosas: por que a bolha oral é vista mais vezes que no pênfigo?",
+      "verso": "Porque a bolha é **subepitelial**, e seu teto é mais espesso e resistente que o da bolha intraepitelial do pênfigo.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758"
+    },
+    {
+      "id": "f13",
+      "frente": "Por que encaminhar ao oftalmologista o paciente com penfigoide das membranas mucosas?",
+      "verso": "Até 25% dos com lesão oral desenvolvem doença ocular, que cicatriza (simbléfaro) e pode causar **cegueira**. O encaminhamento vale **com ou sem queixa ocular**.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 759; Tratamento e prognóstico, p. 761"
+    },
+    {
+      "id": "f14",
+      "frente": "Onde colher a biópsia de uma doença vesicobolhosa?",
+      "verso": "No **tecido perilesional**, para microscopia de luz e imunofluorescência direta. A úlcera em si costuma dar resultado inconclusivo.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Imunofluorescência, p. 756; Penfigoide das membranas mucosas, p. 761"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual padrão de imunofluorescência direta define pênfigo vulgar e penfigoide?",
+      "verso": "Pênfigo: anticorpos **entre as células** do epitélio (\"tela de galinheiro\"). Penfigoide: **banda linear contínua** na membrana basal, em cerca de 90%.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, p. 755–756; Penfigoide das membranas mucosas, Características histopatológicas e imunopatológicas, p. 760"
+    },
+    {
+      "id": "f16",
+      "frente": "O lúpus eritematoso cutâneo crônico tem lesão oral parecida com qual doença?",
+      "verso": "Com o **líquen plano erosivo**: centro vermelho atrófico ou ulcerado e estrias brancas irradiadas. Ao contrário dele, o lúpus raramente ocorre sem lesão de pele.",
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Lúpus eritematoso, Lúpus eritematoso cutâneo crônico, p. 781"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 52 anos, sem queixas, tem linhas brancas finas e entrelaçadas na região posterior da mucosa jugal, dos dois lados. As lesões pioram e melhoram ao longo de semanas. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Pênfigo vulgar",
+          "correta": false,
+          "justificativa": "O pênfigo vulgar causa erosões e úlceras dolorosas espalhadas ao acaso, não linhas brancas entrelaçadas e assintomáticas.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+        },
+        {
+          "texto": "Líquen plano reticular",
+          "correta": true,
+          "justificativa": "Linhas brancas entrelaçadas na região posterior da mucosa jugal, bilateral, sem sintomas e com altos e baixos ao longo de semanas, são o quadro do líquen plano reticular.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano reticular, p. 770"
+        },
+        {
+          "texto": "Penfigoide das membranas mucosas",
+          "correta": false,
+          "justificativa": "O penfigoide se inicia como bolhas e úlceras superficiais dolorosas, às vezes só gengivais; não há linhas brancas entrelaçadas.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758"
+        },
+        {
+          "texto": "Lúpus eritematoso cutâneo crônico",
+          "correta": false,
+          "justificativa": "As lesões orais do lúpus cutâneo crônico têm centro vermelho, atrófico ou ulcerado, são dolorosas e raramente surgem sem lesões de pele.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Lúpus eritematoso, Lúpus eritematoso cutâneo crônico, p. 781"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano reticular, p. 770",
+      "secao": "lp-formas",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente com líquen plano reticular conhecido passa a ter ardência na mucosa jugal e as estrias brancas ficaram pouco características. Qual hipótese deve ser considerada e tratada?",
+      "alternativas": [
+        {
+          "texto": "Transformação em carcinoma espinocelular, com indicação de excisão ampla",
+          "correta": false,
+          "justificativa": "O livro diz que a transformação maligna é discutida e, se existe, parece pequena; ardência com padrão alterado sugere antes a candidíase sobreposta.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 773; Potencial de transformação maligna, p. 774"
+        },
+        {
+          "texto": "Pênfigo vulgar, com início imediato de corticosteroide sistêmico",
+          "correta": false,
+          "justificativa": "Não há motivo clínico para trocar o diagnóstico; a ardência no líquen plano reticular pede avaliação de candidíase, que se trata com antifúngico.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 773"
+        },
+        {
+          "texto": "Candidíase sobreposta, tratada com antifúngico",
+          "correta": true,
+          "justificativa": "A candidíase sobreposta é comum e causa ardência; ela pode apagar o padrão reticular, que reapareceu depois do antifúngico no caso do livro.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Diagnóstico e Tratamento e prognóstico, p. 773"
+        },
+        {
+          "texto": "Reação liquenoide ao amálgama, tratada só com corticosteroide tópico",
+          "correta": false,
+          "justificativa": "A reação ao amálgama simula o líquen plano, mas o livro associa a ardência do líquen reticular à candidíase, cujo tratamento é antifúngico.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 773"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano, Diagnóstico e Tratamento e prognóstico, p. 773",
+      "secao": "lp-tratamento",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Mulher de 58 anos tem gengiva vermelha, atrófica e com erosões, em várias regiões, há meses. A clínica sugere líquen plano erosivo, mas o penfigoide das membranas mucosas é possível. Qual conduta separa as duas?",
+      "alternativas": [
+        {
+          "texto": "Biópsia da área ulcerada central, só para microscopia de luz",
+          "correta": false,
+          "justificativa": "A área ulcerada costuma dar resultado inconclusivo, e a imunofluorescência é necessária; a biópsia deve ser perilesional.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, p. 761; Pênfigo, Imunofluorescência, p. 756"
+        },
+        {
+          "texto": "Prova terapêutica com corticosteroide tópico, sem biópsia",
+          "correta": false,
+          "justificativa": "Pênfigo e penfigoide podem parecer iguais ao líquen plano erosivo, e a biópsia com imunofluorescência é o que os diferencia.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano erosivo, p. 771; Diagnóstico, p. 773"
+        },
+        {
+          "texto": "Encaminhar de imediato para laringoscopia",
+          "correta": false,
+          "justificativa": "A laringoscopia é indicada no penfigoide diagnosticado quando há rouquidão ou dificuldade respiratória, e não para distinguir os dois quadros.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 759"
+        },
+        {
+          "texto": "Biópsia do tecido perilesional para microscopia de luz e imunofluorescência",
+          "correta": true,
+          "justificativa": "O livro pede o tecido perilesional para as duas análises, porque penfigoide e pênfigo podem ter aspecto clínico semelhante ao do líquen plano erosivo.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano erosivo, p. 771"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Líquen plano erosivo, p. 771; Diagnóstico, p. 773",
+      "secao": "lp-diagnostico",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Homem de 50 anos tem dor oral e erosões superficiais e irregulares espalhadas pela mucosa, sem nenhuma bolha íntegra. Por que bolhas íntegras são raras no pênfigo vulgar?",
+      "alternativas": [
+        {
+          "texto": "O teto da bolha é fino e frágil e se rompe logo",
+          "correta": true,
+          "justificativa": "A bolha é intraepitelial, de teto fino e frágil, e se rompe cedo, deixando erosões e úlceras.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+        },
+        {
+          "texto": "A bolha se forma abaixo da membrana basal, com teto espesso",
+          "correta": false,
+          "justificativa": "A bolha subepitelial, de teto espesso e resistente, é a do penfigoide, em que as bolhas íntegras são vistas com mais frequência.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758"
+        },
+        {
+          "texto": "As lesões só aparecem depois das da pele, quando as bolhas já cicatrizaram",
+          "correta": false,
+          "justificativa": "Em mais de 50% dos pacientes as lesões orais vêm antes das da pele, e não depois.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+        },
+        {
+          "texto": "O pênfigo vulgar não forma bolhas, apenas placas brancas",
+          "correta": false,
+          "justificativa": "O pênfigo forma bolhas, flácidas na pele; na boca, elas se rompem e deixam erosões e úlceras dolorosas.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Características clínicas, p. 753",
+      "secao": "penfigo",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 56 anos, com gengivite descamativa e bolhas íntegras no palato mole, tem o diagnóstico de penfigoide das membranas mucosas confirmado por biópsia. Não refere queixa nos olhos. Qual conduta o livro indica?",
+      "alternativas": [
+        {
+          "texto": "Encaminhar ao oftalmologista, mesmo sem queixa ocular",
+          "correta": true,
+          "justificativa": "O livro manda encaminhar a oftalmologista familiarizado com a doença, com ou sem queixa ocular, porque a cicatriz conjuntival pode levar à cegueira.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Tratamento e prognóstico, p. 761"
+        },
+        {
+          "texto": "Aguardar sintomas oculares para encaminhar",
+          "correta": false,
+          "justificativa": "O início da doença ocular é difícil de perceber; a fibrose inicial em geral é detectada pelo oftalmologista, daí o encaminhamento independente de queixa.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 759"
+        },
+        {
+          "texto": "Encaminhar ao oftalmologista só se a imunofluorescência indireta for positiva",
+          "correta": false,
+          "justificativa": "O livro manda encaminhar ao oftalmologista independentemente de queixa ocular.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Tratamento e prognóstico, p. 761"
+        },
+        {
+          "texto": "Tratar apenas a boca, pois as lesões orais é que cicatrizam e ameaçam a visão",
+          "correta": false,
+          "justificativa": "É o contrário: as lesões orais raramente cicatrizam, e a cicatriz da conjuntiva é que causa a cegueira.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Penfigoide das membranas mucosas, Tratamento e prognóstico, p. 761",
+      "secao": "penfigoide",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "A imunofluorescência direta de uma biópsia perilesional mostra anticorpos depositados entre as células do epitélio, em padrão de tela de galinheiro. Qual doença isso indica?",
+      "alternativas": [
+        {
+          "texto": "Penfigoide das membranas mucosas",
+          "correta": false,
+          "justificativa": "No penfigoide o depósito é em banda linear contínua na membrana basal, e não entre as células.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características histopatológicas e imunopatológicas, p. 760"
+        },
+        {
+          "texto": "Líquen plano erosivo",
+          "correta": false,
+          "justificativa": "A histologia do líquen plano mostra faixa de linfócitos e cristas em dentes de serra, sem depósito de anticorpos entre as células do epitélio.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Características histopatológicas, p. 771–772"
+        },
+        {
+          "texto": "Lúpus eritematoso cutâneo crônico",
+          "correta": false,
+          "justificativa": "No lúpus o depósito é em banda áspera ou granular na zona da membrana basal.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Lúpus eritematoso, Diagnóstico, p. 783"
+        },
+        {
+          "texto": "Pênfigo vulgar",
+          "correta": true,
+          "justificativa": "Anticorpos e complemento entre as células do epitélio, em padrão de tela de galinheiro, são o achado do pênfigo vulgar.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Diagnóstico e Imunofluorescência, p. 755–756"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Diagnóstico e Imunofluorescência, p. 755–756",
+      "secao": "comparacao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Em uma suspeita de doença vesicobolhosa com uma grande úlcera na mucosa jugal, onde o material para biópsia deve ser colhido?",
+      "alternativas": [
+        {
+          "texto": "No centro da úlcera, onde a lesão é mais evidente",
+          "correta": false,
+          "justificativa": "Na úlcera falta a interface intacta entre epitélio e conjuntivo, e o resultado costuma ser inconclusivo.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Imunofluorescência, p. 756"
+        },
+        {
+          "texto": "Na borda da lesão, com mucosa ainda íntegra (perilesional)",
+          "correta": true,
+          "justificativa": "O tecido perilesional preserva a interface entre epitélio e conjuntivo e serve para microscopia de luz e imunofluorescência direta.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Imunofluorescência, p. 756; Penfigoide das membranas mucosas, p. 761"
+        },
+        {
+          "texto": "Em mucosa distante e sem lesão, como o lábio",
+          "correta": false,
+          "justificativa": "O livro pede tecido perilesional, e não mucosa distante da lesão.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, p. 761"
+        },
+        {
+          "texto": "Por raspado da superfície, sem tecido",
+          "correta": false,
+          "justificativa": "O diagnóstico exige tecido para microscopia de luz e imunofluorescência direta; a citologia esfoliativa (células de Tzanck) pode ser usada no diagnóstico do pênfigo, mas a confirmação vem do tecido, por imunofluorescência direta.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características histopatológicas e Diagnóstico, p. 755"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Imunofluorescência, p. 756; Penfigoide das membranas mucosas, p. 761",
+      "secao": "confirmacao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Mulher de 40 anos tem, na mucosa jugal, uma área vermelha e atrófica com estrias brancas irradiadas, dolorosa com alimentos ácidos. Há placas redondas e cicatriciais na pele da face, que piora ao sol. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "texto": "Líquen plano erosivo isolado",
+          "correta": false,
+          "justificativa": "A boca é muito parecida com a do líquen plano erosivo, mas as placas de pele fotossensíveis e cicatriciais apontam para o lúpus; o líquen plano oral costuma ocorrer sem lesão de pele.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Lúpus eritematoso, Lúpus eritematoso cutâneo crônico, p. 781"
+        },
+        {
+          "texto": "Pênfigo vulgar",
+          "correta": false,
+          "justificativa": "O pênfigo causa erosões irregulares e bolhas flácidas na pele, não placas cicatriciais com estrias brancas radiadas na boca.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Características clínicas, p. 753"
+        },
+        {
+          "texto": "Lúpus eritematoso cutâneo crônico",
+          "correta": true,
+          "justificativa": "Placas discoides em áreas expostas ao sol, que cicatrizam com atrofia, e lesão oral, na maioria dos casos, igual à do líquen plano erosivo definem o lúpus cutâneo crônico.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Lúpus eritematoso, Lúpus eritematoso cutâneo crônico, p. 781"
+        },
+        {
+          "texto": "Penfigoide das membranas mucosas",
+          "correta": false,
+          "justificativa": "O penfigoide forma bolhas e úlceras superficiais, e a pele raramente é afetada (bolhas tensas em cerca de 20%), sem placas cicatriciais fotossensíveis.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Penfigoide das membranas mucosas, Características clínicas, p. 758–759"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Lúpus eritematoso, Lúpus eritematoso cutâneo crônico, p. 781",
+      "secao": "lupus",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Qual abordagem de tratamento o livro indica para o pênfigo vulgar?",
+      "alternativas": [
+        {
+          "texto": "Corticosteroide tópico oral isolado, pois a doença é restrita à boca",
+          "correta": false,
+          "justificativa": "O pênfigo é doença sistêmica; a melhora das lesões orais com o corticosteroide tópico viria da absorção sistêmica.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Tratamento e prognóstico, p. 756"
+        },
+        {
+          "texto": "Antifúngico, como no líquen plano reticular com ardência",
+          "correta": false,
+          "justificativa": "O antifúngico serve à candidíase sobreposta do líquen plano, e não trata o pênfigo.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Líquen plano, Tratamento e prognóstico, p. 773"
+        },
+        {
+          "texto": "Remover a causa local e acompanhar, sem tratamento sistêmico",
+          "correta": false,
+          "justificativa": "O pênfigo pede abordagem sistêmica; sem tratamento, frequentemente leva à morte.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, introdução, p. 752; Tratamento e prognóstico, p. 756"
+        },
+        {
+          "texto": "Tratamento sistêmico por médico experiente, com corticosteroide e imunossupressores",
+          "correta": true,
+          "justificativa": "O livro pede abordagem sistêmica, com corticosteroide sistêmico e imunossupressores, conduzida por médico experiente; o rituximabe é citado hoje como primeira linha.",
+          "fonte": "neville5-cap16",
+          "onde": "cap. 16, Pênfigo, Tratamento e prognóstico, p. 756"
+        }
+      ],
+      "fonte": "neville5-cap16",
+      "onde": "cap. 16, Pênfigo, Tratamento e prognóstico, p. 756",
+      "secao": "confirmacao",
+      "figura": null
+    }
+  ]
+}

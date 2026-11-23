@@ -1,0 +1,591 @@
+{
+  "slug": "carcinoma-espinocelular-bucal",
+  "titulo": "Carcinoma espinocelular: fatores de risco, sítios, aspecto clínico e encaminhamento",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 10, e Seoane Romero et al. 2025",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap10",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 10, Patologia Epitelial, p. 344–447.",
+      "curta": "Neville 5ª ed., cap. 10"
+    },
+    {
+      "id": "romero2025",
+      "ref": "Seoane Romero JM, Mallah N, Varela-Centelles PI, Warnakulasuriya S, Takkouche B. Primary care referral delays in oral cancer diagnosis: a meta-analysis. Oral Dis. 2025;31(7):2148–2159. doi:10.1111/odi.15218.",
+      "curta": "Seoane Romero et al. 2025"
+    },
+    {
+      "id": "nice-ng12",
+      "ref": "National Institute for Health and Care Excellence (NICE). Suspected cancer: recognition and referral. NICE guideline NG12. Londres: NICE; 2015, atualizada em 15 abr. 2026. Disponível em: https://www.nice.org.uk/guidance/ng12. Lido em 16 nov. 2026.",
+      "curta": "NICE NG12 (2015, atualizada em 2026)"
+    },
+    {
+      "id": "marcucci3-cap5",
+      "ref": "Silveira FRX, Santos GG, Guimarães Júnior J. Métodos Diagnósticos. In: Marcucci G (ed.). Fundamentos de Odontologia: Estomatologia. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2020. Cap. 5, p. 57–84.",
+      "curta": "Marcucci 3ª ed., cap. 5"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "epidemiologia",
+      "titulo": "O que é e em quem aparece",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, introdução e Características clínicas e radiográficas (Carcinoma da cavidade oral), p. 390–409",
+      "texto": "O **carcinoma espinocelular** (também chamado carcinoma de células escamosas ou carcinoma epidermoide) responde por **mais de 90% das neoplasias malignas orais**.\n\n**Cuidado com a palavra \"oral\":** nesta seção do Neville, ela junta a cavidade oral (mucosa intraoral e vermelhão do lábio) e a orofaringe. Os três locais têm fatores de risco, aspecto clínico e comportamento diferentes; por isso o resumo os separa sempre que o livro separa.\n\n**Em quem:** a maioria é de **homens mais velhos**, e o risco sobe com a idade.\n\n**Tendências que o livro destaca:**\n- A queda do tabagismo reduziu o câncer de assoalho de boca nos países desenvolvidos.\n- O câncer de **orofaringe ligado ao HPV** aumentou, com preferência pelas tonsilas palatinas e pela base da língua.\n- O câncer de **língua** (dois terços anteriores) vem aumentando em pessoas com **menos de 45 anos**, muitas vezes sem tabaco e álcool. A causa é incerta.\n\n**Lábio:** o carcinoma do vermelhão se parece mais com o carcinoma da pele exposta ao sol. Predomina em homens brancos e é pouco frequente em mulheres e em pessoas não brancas.\n\n**O atraso começa cedo:** o paciente percebe a lesão **4 a 8 meses** antes de procurar ajuda (**8 a 24 meses** nos grupos socioeconômicos mais baixos). No início ela quase não dói, o que pode explicar a demora em procurar ajuda. E, se o profissional não suspeita de malignidade, podem passar semanas ou meses até a biópsia."
+    },
+    {
+      "id": "tabaco-alcool",
+      "titulo": "Tabaco e álcool: os fatores de maior peso",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral (Fumo de tabaco, Tabaco sem fumaça, Betel quid, Álcool), p. 390–409",
+      "texto": "A causa é **multifatorial**: mais de um fator pode ser necessário. A hereditariedade não tem papel causal importante, salvo síndromes raras.\n\n**Tabaco fumado:**\n- **80%** dos pacientes com carcinoma oral fumam, cerca de quatro vezes a proporção da população geral.\n- O risco cresce com a **dose** (cigarros por dia) e com o **tempo** de hábito. Charuto e cachimbo têm risco semelhante ou maior que o cigarro.\n- **Parar funciona:** o risco cai com o tempo, e cerca de **10 anos** depois de parar a incidência se aproxima da de quem nunca fumou. Quem segue fumando depois do diagnóstico tem maior risco de um segundo carcinoma primário do trato aerodigestivo superior do que quem parou.\n- No **fumo invertido** (ponta acesa dentro da boca), até metade dos cânceres orais fica no palato duro, local que a doença costuma poupar.\n\n**Tabaco sem fumaça e betel quid:** os dois são carcinogênicos. Cerca de metade dos cânceres orais em usuários de tabaco sem fumaça surge **no local onde o tabaco é colocado**. O betel quid (paan) está ligado a muitos carcinomas orais no subcontinente indiano e em Taiwan.\n\n**Álcool:** carcinogênico para o trato aerodigestivo superior. Mesmo descontado o tabaco, beber em excesso aumenta o risco, que em geral depende da dose e do tempo.\n\n**Tabaco e álcool juntos:** a combinação é um fator de risco importante. Entre os grandes consumidores das duas substâncias, o risco relativo relatado é de **15 ou mais**.\n\n**Enxaguatório com álcool:** os estudos não estabeleceram ligação definitiva."
+    },
+    {
+      "id": "outros-fatores",
+      "titulo": "Sol, HPV e os demais fatores",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral (introdução, Radiação, Vírus oncogênicos, Imunossupressão, Deficiências de vitaminas/minerais e fatores dietéticos, Trauma ou irritação crônica), p. 390–409",
+      "texto": "**Luz solar (só lábio):** é fator de risco apenas para o carcinoma do **vermelhão do lábio**. O livro trata o efeito do sol no lábio junto com a queilite actínica. Alguns anti-hipertensivos (como a hidroclorotiazida) foram associados ao câncer de lábio, talvez por fotossensibilização; a causalidade não está estabelecida.\n\n**Radioterapia prévia** de cabeça e pescoço aumenta o risco de nova neoplasia maligna oral. Houve controvérsia sobre a radiografia dentária, mas os exames de imagem da cavidade oral não têm sido associados ao carcinoma oral.\n\n**HPV (sobretudo orofaringe):**\n- Cerca de **70%** dos cânceres de orofaringe nos EUA (40% no mundo) são atribuídos ao HPV, com predileção pelas **tonsilas palatinas e base da língua**.\n- Na **cavidade oral**, a fração atribuída ao HPV é pequena: de cerca de 4% a 16%, conforme o estudo.\n- O HPV-16 aparece em mais de 90% dos carcinomas de orofaringe HPV-positivos.\n- O carcinoma de orofaringe HPV-positivo se associa mais ao comportamento sexual (número de parceiros ao longo da vida, intensidade da exposição ao sexo oral) do que o HPV-negativo, mas esses pacientes em geral também têm algum histórico de tabaco e álcool.\n\n**Imunossupressão:** infecção pelo HIV e terapia imunossupressora (transplante, tratamento de câncer) aumentam o risco, sobretudo junto com tabaco e álcool.\n\n**Deficiência grave de ferro** (síndrome de Plummer-Vinson): maior risco de carcinoma de esôfago, orofaringe e região posterior da boca, em idade mais precoce.\n\n**Dieta:** muita fruta e vegetal se associa a menor risco, mas tabaco e álcool confundem essa relação.\n\n**Trauma crônico:** dentes quebrados ou afiados e o uso de prótese total **não** aumentam o risco de forma significativa. Prótese total **mal adaptada** teve razão de chances de 3,9 em alguns estudos, e a associação persiste depois de controlar tabaco, álcool e betel quid. O livro diz que não está claro o que ela reflete: o efeito de um ambiente inflamatório ou de uma microbiota alterada, ou menos chance de detectar cedo as lesões potencialmente malignas em quem vai pouco ao dentista.\n\nCom evidência mais fraca, o capítulo cita ainda exposições ocupacionais, mate quente, bactérias orais e Candida."
+    },
+    {
+      "id": "aspecto-clinico",
+      "titulo": "Como aparece: as cinco apresentações",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas (Carcinoma da cavidade oral), Figuras 10.101 e 10.104 (endurecimento: Figura 10.104 e parágrafo da lesão exofítica), e Características histopatológicas, p. 390–409; cap. 10, Carcinoma verrucoso, Características clínicas e Tratamento e prognóstico, p. 409–411",
+      "texto": "No início a lesão **dói pouco ou nada**, e isso pode explicar parte do atraso.\n\n| Apresentação | Como é |\n|---|---|\n| **Exofítica** | aumento de volume: vegetante, papilífera ou verruciforme |\n| **Endofítica** | invasiva, escavada, ulcerada |\n| **Leucoplásica** | mancha branca |\n| **Eritroplásica** | mancha vermelha |\n| **Eritroleucoplásica** | mancha vermelha e branca |\n\n**Mancha branca ou vermelha:** provavelmente são casos iniciais, que ainda não cresceram nem ulceraram, e têm o mesmo aspecto da leucoplasia e da eritroplasia. Na Figura 10.101, uma eritroplasia salpicada teve citologia negativa, e a biópsia incisional mostrou carcinoma invasivo.\n\n**Exofítica:** superfície irregular, muitas vezes ulcerada; a cor vai de normal a branca ou vermelha, conforme a queratina e a vascularização.\n\n**Endofítica:** centro deprimido, irregular e ulcerado, com **borda elevada**, porque o tumor cresce para baixo e para os lados sob o epitélio vizinho. Granuloma traumático, infecção fúngica profunda, tuberculose, sífilis terciária, granulomatose com poliangiite e doença de Crohn podem ter aspecto parecido.\n\n**À palpação:** a lesão é **endurecida**.\n\n**Osso:** a destruição pode doer ou não. Na radiografia, radiolucidez **\"roída por traças\"**, de margens mal definidas, parecida com osteomielite. A invasão de nervo pode dar **parestesia**.\n\n**Ao microscópio:** ilhas e cordões de células epiteliais malignas invadem o conjuntivo; pode haver **pérolas de queratina**. O grau vai de I (bem diferenciado) a III (pouco diferenciado), mas o **estadiamento clínico se relaciona muito melhor com o prognóstico** do que o grau.\n\n**Carcinoma verrucoso:** variante de baixo grau, em idosos (média de 65 a 70 anos). Alguns casos surgem em usuários crônicos de tabaco sem fumaça ou betel quid; outros, em fumantes ou em quem não tem fator de risco identificável. A área afetada costuma ser onde o tabaco é colocado. Placa espessa, bem delimitada, indolor, em geral branca, com projeções papilares ou verrucosas. Tratamento de escolha: excisão cirúrgica."
+    },
+    {
+      "id": "sitios",
+      "titulo": "Onde aparece: lábio, língua, assoalho, gengiva e orofaringe",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas (Carcinoma do vermelhão do lábio, Carcinoma intraoral, Carcinoma orofaríngeo), p. 390–409",
+      "texto": "**Vermelhão do lábio:** pessoa de pele clara com exposição crônica ao sol (70% trabalham ao ar livre), em geral com **queilite actínica**. Pode surgir onde o paciente apoia cigarro, charuto ou cachimbo. Quase **90% no lábio inferior**. É uma úlcera **endurecida, crostosa, exsudativa e indolor**, em geral com **menos de 1 cm** ao diagnóstico. Cresce devagar (a maioria nota o problema por 12 a 16 meses antes do diagnóstico); menos de 10% têm metástase linfonodal ao diagnóstico, em geral submentoniana.\n\n**Intraoral:** nos EUA, os locais mais comuns são a **língua** e o **assoalho de boca**; depois, em ordem, gengiva e rebordo alveolar, mucosa jugal, mucosa labial e palato duro.\n\n**Língua:** mais de 50% dos cânceres intraorais nos EUA. **Dois terços** na **borda lateral posterior**, como tumor endurecido e indolor ou úlcera; 20% na borda lateral anterior ou no ventre; só 4% no dorso.\n\n**Assoalho de boca:** o sítio que mais nasce de leucoplasia ou eritroplasia preexistente e o mais associado a **segundo tumor primário**. Surge mais na linha média, perto do freio.\n\n**Gengiva e rebordo:** em geral indolores, mais na gengiva posterior da mandíbula; menos ligados ao tabaco e, entre os sítios intraorais, com maior predileção pelo sexo feminino. **Imitam lesões benignas**: granuloma piogênico, gengivite, doença periodontal, peri-implantite. Destroem osso e podem causar **mobilidade dentária**; após a extração, podem crescer para fora do alvéolo como tecido de granulação. Na área desdentada, podem lembrar a hiperplasia fibrosa inflamatória na borda da prótese.\n\n**Mucosa jugal:** sítio comum onde o betel quid é usado.\n\n**Orofaringe** (parede posterior do palato mole, região das tonsilas palatinas e base da língua): placa vermelha, aumento de volume ulcerado ou sensação de plenitude na garganta, com poucos sintomas; lesão pequena na cripta tonsilar pode não ser visível. No HPV-positivo, a queixa inicial mais comum é **aumento de volume no pescoço**, seguida de dor de garganta e disfagia. A dor pode irradiar para o ouvido."
+    },
+    {
+      "id": "disseminacao",
+      "titulo": "Linfonodos, metástase e estadiamento TNM",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Metástase e Estadiamento, Figura 10.118, Tabelas 10.2, 10.3 e 10.6, p. 390–409",
+      "texto": "**Via principal:** linfática, para os **linfonodos cervicais**, mais vezes do **mesmo lado** do tumor. O pescoço é dividido em sete níveis (Figura 10.118). Cavidade oral: sobretudo níveis **I a III**. Orofaringe: níveis II e III.\n\n**Como fica o linfonodo com metástase:** em geral **aumentado, de firme a duro como pedra, e indolor**. Se o tumor rompe a cápsula e invade o tecido em volta (extensão extranodal), o linfonodo fica **fixo**, pouco móvel. A extensão extranodal piora o prognóstico dos carcinomas intraorais e do vermelhão do lábio e entra no estadiamento deles.\n\n**Metástase à distância:** sobretudo pulmões, fígado e ossos.\n\n**Quando:** na cavidade oral, a metástase não é precoce, mas, por causa do atraso no diagnóstico, **20 a 30%** dos pacientes já chegam com metástase cervical evidente (60% nos relatos de centros terciários). Na orofaringe ela é precoce: mais de 50% com linfonodo acometido e 10% com metástase à distância ao diagnóstico. Em 10 a 40% dos que parecem sem metástase cervical, descobre-se depois uma metástase **oculta**.\n\n**TNM:** descreve a extensão do câncer e orienta tratamento e prognóstico.\n- **T:** o tumor primário, pelo tamanho em centímetros; na cavidade oral, também pela **profundidade de invasão**.\n- **N:** os linfonodos regionais acometidos.\n- **M:** a metástase à distância.\n\n**Exemplo na cavidade oral:** T1 é tumor de até 2 cm com profundidade de invasão de até 5 mm; N1 é um único linfonodo do mesmo lado, de até 3 cm, sem extensão extranodal (Tabela 10.2). As combinações formam os estágios (Tabela 10.6): T1N0M0 é estágio I, T2N0M0 é estágio II, e qualquer M1 é estágio IV. O vermelhão do lábio segue outra tabela, a do carcinoma cutâneo (Tabela 10.3).\n\n**Regra geral:** quanto maior o estágio, **pior o prognóstico**. O livro diz que o estadiamento clínico se relaciona muito melhor com o prognóstico do que o grau histopatológico (I a III). A orofaringe tem tabelas próprias para tumores ligados ou não ao HPV."
+    },
+    {
+      "id": "tratamento-prognostico",
+      "titulo": "Tratamento, sobrevida e segundo tumor primário",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, Tabela 10.8, e Carcinomas múltiplos, p. 390–409",
+      "texto": "**O estadiamento clínico orienta o tratamento.**\n- **Vermelhão do lábio:** em geral detectado cedo e tratado por excisão cirúrgica, com resultado excelente; o esvaziamento cervical raramente é indicado. Exceção: o lábio **superior**, local raro, com alto risco de metástase regional.\n- **Intraoral em estágio inicial:** cirurgia; a radioterapia é alternativa para lesão inoperável. Na doença moderadamente avançada, cirurgia, e a radioterapia depois dela pode ser considerada conforme os achados adversos do tumor; nos casos muito avançados, as opções incluem radioterapia, terapia sistêmica e cuidados paliativos.\n- **Pescoço:** o esvaziamento cervical (retirada dos linfonodos do pescoço) hoje tende a ser modificado ou seletivo, com menos sequelas.\n\n**Sobrevida relativa em 5 anos, EUA, SEER 2011 a 2017 (Tabela 10.8):**\n\n| Estágio SEER | Cavidade oral e faringe | Lábio | Língua | Assoalho |\n|---|---|---|---|---|\n| Localizado | 85% | 93% | 83% | 73% |\n| Regional | 68% | 65% | 69% | 41% |\n| Distante | 40% | 33% | 41% | 23% |\n| Todos | 67% | 91% | 68% | 52% |\n\nO lábio vai bem (91%) porque costuma ser diagnosticado cedo; o assoalho de boca fica em 52%. Na orofaringe, ser **HPV-positivo** é fator de bom prognóstico.\n\n**Recorrência:** até dois terços dos pacientes com carcinoma de cabeça e pescoço têm recorrência, a maioria nos **2 primeiros anos**. O acompanhamento é feito a cada poucos meses nos primeiros 5 anos e, depois, pelo menos uma vez por ano.\n\n**Segundo tumor primário:** o risco de novos carcinomas fica aumentado (3 a 7% ao ano numa análise, com 36% acumulados em 20 anos). Cerca de um terço das mortes desses pacientes se deve a esses segundos tumores. A explicação proposta é a **cancerização de campo**: tabaco e álcool alteram uma área extensa de epitélio, que fica toda com maior potencial de transformação maligna. Os tumores ligados ao HPV não parecem seguir esse padrão."
+    },
+    {
+      "id": "encaminhamento",
+      "titulo": "O dentista e o encaminhamento: o que mostra a metanálise",
+      "fonte": "romero2025",
+      "onde": "Seoane Romero et al. 2025, seções 2.2, 2.4, 3.4.2 e 3.5.2, Tabelas 2 a 4 (p. 2 a 8) e Discussão (p. 8 a 10)",
+      "texto": "**O que o estudo é:** revisão sistemática com duas metanálises de **estudos observacionais** (17 estudos de vários países, publicados entre 1981 e 2021). Compara o **médico clínico geral** e o **cirurgião-dentista generalista**, os dois na atenção primária.\n\n**Termos:**\n- **Intervalo do paciente:** do início do sintoma à primeira consulta com um profissional de saúde.\n- **Intervalo da atenção primária:** dessa primeira consulta até o encaminhamento ao especialista.\n- **Estágio precoce:** TNM I e II. **Avançado:** III e IV.\n\n**Pergunta 1: quanto do tempo antes do encaminhamento fica na atenção primária?** Cerca de **um terço**: proporção combinada de 0,31 (IC 95% 0,23 a 0,40), 11 estimativas. Os estudos **variam muito entre si**, então o número é um resumo, não o esperado para cada paciente. O \"um terço\" é do tempo até o encaminhamento, não do tempo até o tratamento.\n\n**Pergunta 2: o estágio muda conforme quem encaminha?** Em 10 estudos, o paciente encaminhado pelo dentista teve menor chance de estar em estágio avançado: **razão de chances 0,58 (IC 95% 0,34 a 0,98)**, ou seja, chance 42% menor que a do encaminhado pelo médico. Aqui a variação entre os estudos foi moderada. Parte dos estudos reúne câncer de boca e de orofaringe; só nos estudos de câncer oral, a razão de chances foi 0,57 (IC 95% 0,40 a 0,80) no modelo de efeito fixo.\n\n**Como ler esse resultado:**\n- São razões de chances **brutas**: nenhum estudo trouxe razão de chances ajustada (os autores citam as diferenças entre os pacientes e a agressividade do tumor como fatores a considerar). Por isso, outras diferenças entre os pacientes podem explicar parte do resultado.\n- O limite superior (0,98) fica perto de 1, e em vários subgrupos o intervalo inclui 1.\n- O único estudo brasileiro (1986 a 1988) apontou o contrário: razão de chances 2,25.\n- A duração do intervalo da atenção primária (27,6 dias para o dentista e 30,5 para o médico) veio de só 2 estudos por grupo e não permite dizer quem é mais rápido.\n- O estudo **não mostra** que encaminhar mais cedo aumenta a sobrevida, nem que o dentista diagnostica melhor: atribuir a diferença a conhecimento e exame é hipótese dos autores.\n\n**Conclusão dos autores:** o reconhecimento precoce na atenção primária precisa melhorar, e nenhum teste auxiliar substitui a **biópsia** com exame anatomopatológico."
+    },
+    {
+      "id": "prazo-nice",
+      "titulo": "A úlcera que não cicatriza: o que recomenda a diretriz inglesa",
+      "fonte": "nice-ng12",
+      "onde": "seção 1.8, itens 1.8.2 a 1.8.4; Termos usados na diretriz (Urgent; Suspected cancer pathway referral; Unexplained). A menção ao Marcucci é remissão: cap. 5, Biópsia (tema Biópsia e exames complementares)",
+      "texto": "Esta é uma diretriz inglesa (NICE NG12, do sistema de saúde da Inglaterra), não uma regra brasileira. Todas as recomendações abaixo usam o verbo \"considerar\".\n\n| Achado | O que a diretriz recomenda |\n|---|---|\n| Úlcera na cavidade oral, **sem explicação**, por **mais de 3 semanas** (item 1.8.2) | Considerar encaminhamento pela **via de suspeita de câncer** |\n| Nódulo no lábio ou na boca, ou mancha vermelha, ou vermelha e branca, compatível com eritroplasia ou eritroleucoplasia (item 1.8.3) | Considerar avaliação **urgente** por um cirurgião-dentista |\n| Depois da avaliação do dentista: nódulo no lábio ou na boca compatível com câncer oral, ou mancha vermelha, ou vermelha e branca, compatível com eritroplasia ou eritroleucoplasia (item 1.8.4) | O dentista considera o encaminhamento pela via de suspeita de câncer |\n\n**Como a diretriz define os termos:**\n- **Via de suspeita de câncer:** a pessoa recebe o diagnóstico de câncer, ou a exclusão dele, em até 28 dias depois do encaminhamento.\n- **Urgente:** antes de 2 semanas.\n- **Sem explicação:** a avaliação inicial na atenção primária (história, exame e exames) não chegou a um diagnóstico.\n\nA diretriz fala de encaminhar. Ela não dá prazo para biópsia. Os prazos são metas do sistema de saúde inglês.\n\nO prazo que um livro brasileiro de estomatologia dá para biopsiar está no tema Biópsia e exames complementares: o Marcucci (cap. 5) indica biópsia para a úlcera que não cicatriza após 10 a 20 dias. São dois números de duas fontes, para dois atos (encaminhar na NICE, biopsiar no Marcucci); este tema não escolhe entre eles.\n\nSíntese do professor: úlcera que não cicatriza em 10 a 21 dias deve ser investigada. O intervalo junta o prazo do Marcucci para a biópsia (10 a 20 dias) e o da diretriz inglesa NICE para o encaminhamento (mais de 3 semanas)."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Que fração das neoplasias malignas orais é carcinoma espinocelular?",
+      "verso": "**Mais de 90%.**",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, introdução, p. 390–409"
+    },
+    {
+      "id": "f02",
+      "frente": "Quanto tempo o paciente com carcinoma da cavidade oral costuma levar para procurar ajuda, e por quê?",
+      "verso": "**4 a 8 meses** depois de perceber a lesão (8 a 24 meses nos grupos socioeconômicos mais baixos), provavelmente porque no início ela quase não dói.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual o risco relativo de câncer oral relatado entre grandes consumidores de tabaco e álcool juntos?",
+      "verso": "**15 ou mais.** É o risco relatado para o uso pesado das duas substâncias.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Álcool, p. 390–409"
+    },
+    {
+      "id": "f04",
+      "frente": "A luz solar é fator de risco para carcinoma espinocelular de qual sítio?",
+      "verso": "Só do **vermelhão do lábio**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral (introdução), p. 390–409"
+    },
+    {
+      "id": "f05",
+      "frente": "HPV: em que sítio ele pesa, e onde o tumor prefere aparecer?",
+      "verso": "Na **orofaringe**: cerca de 70% dos casos nos EUA (40% no mundo), com predileção pelas **tonsilas palatinas e base da língua**. Na cavidade oral, a fração ligada ao HPV é pequena.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Vírus oncogênicos, p. 390–409"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são as cinco apresentações clínicas do carcinoma espinocelular da cavidade oral?",
+      "verso": "**Exofítica**, **endofítica**, **leucoplásica** (branca), **eritroplásica** (vermelha) e **eritroleucoplásica** (vermelha e branca).",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+    },
+    {
+      "id": "f07",
+      "frente": "Como é a forma endofítica, e o que se sente à palpação?",
+      "verso": "Úlcera de centro deprimido e irregular, com **borda elevada** (o tumor cresce sob o epitélio vizinho). À palpação, **endurecida**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral (endurecimento: Figura 10.104 e parágrafo da lesão exofítica), p. 390–409"
+    },
+    {
+      "id": "f08",
+      "frente": "Como é o carcinoma típico do vermelhão do lábio?",
+      "verso": "Úlcera **endurecida, crostosa, exsudativa e indolor**, em geral com menos de 1 cm, em quase 90% dos casos no **lábio inferior**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio, p. 390–409"
+    },
+    {
+      "id": "f09",
+      "frente": "Em que parte da língua aparecem dois terços dos carcinomas linguais, e qual sítio intraoral mais nasce de leucoplasia ou eritroplasia?",
+      "verso": "Língua: **borda lateral posterior** (só 4% no dorso). Leucoplasia ou eritroplasia: o **assoalho de boca**, em geral na linha média, perto do freio, que também mais se associa a segundo tumor primário.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+    },
+    {
+      "id": "f10",
+      "frente": "Pela NICE NG12, quando considerar encaminhar uma úlcera da cavidade oral pela via de suspeita de câncer?",
+      "verso": "Quando ela é **sem explicação** e dura **mais de 3 semanas** (item 1.8.2). A diretriz diz \"considerar\" e não dá prazo para biópsia. O prazo do Marcucci para biopsiar é outro e está no tema Biópsia e exames complementares. Síntese do professor: úlcera que não cicatriza em 10 a 21 dias deve ser investigada. O intervalo junta o prazo do Marcucci para a biópsia (10 a 20 dias) e o da diretriz inglesa NICE para o encaminhamento (mais de 3 semanas).",
+      "fonte": "nice-ng12",
+      "onde": "seção 1.8, item 1.8.2; Termos usados na diretriz (Unexplained)"
+    },
+    {
+      "id": "f11",
+      "frente": "Que lesões benignas o carcinoma gengival pode imitar?",
+      "verso": "Granuloma piogênico, gengivite, doença periodontal e peri-implantite. Pode também destruir osso e causar **mobilidade dentária**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+    },
+    {
+      "id": "f12",
+      "frente": "Como é, à palpação, o linfonodo cervical com carcinoma metastático?",
+      "verso": "**Em geral aumentado, de firme a duro como pedra, indolor.** Fica **fixo** quando o tumor rompe a cápsula (extensão extranodal).",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Metástase, p. 390–409"
+    },
+    {
+      "id": "f13",
+      "frente": "O que medem o T, o N e o M do estadiamento?",
+      "verso": "**T:** tamanho do tumor primário (na cavidade oral, também a profundidade de invasão). **N:** linfonodos regionais. **M:** metástase à distância. Quanto maior o estágio, pior o prognóstico.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Estadiamento, p. 390–409"
+    },
+    {
+      "id": "f14",
+      "frente": "O que é cancerização de campo?",
+      "verso": "Tabaco e álcool alteram uma área extensa de epitélio, que fica toda com maior potencial de transformação maligna. Explicaria o **risco de segundo tumor primário**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, Carcinomas múltiplos, p. 390–409"
+    },
+    {
+      "id": "f15",
+      "frente": "Na metanálise de Seoane Romero et al., que parte do tempo antes do encaminhamento fica na atenção primária?",
+      "verso": "Cerca de **um terço**: 0,31 (IC 95% 0,23 a 0,40), com os estudos variando muito entre si.",
+      "fonte": "romero2025",
+      "onde": "Seoane Romero et al. 2025, seção 3.4.2 e Tabela 2, p. 4 e 6"
+    },
+    {
+      "id": "f16",
+      "frente": "Na mesma metanálise, qual a razão de chances de estágio avançado no encaminhado pelo dentista, comparado ao médico?",
+      "verso": "**0,58 (IC 95% 0,34 a 0,98)**, de razões de chances brutas de estudos observacionais. Não prova que o dentista diagnostica melhor.",
+      "fonte": "romero2025",
+      "onde": "Seoane Romero et al. 2025, seção 3.5.2 e Tabela 4, p. 6 e 8"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Homem de 64 anos, fumante e etilista, tem na borda lateral posterior da língua uma úlcera indolor, de centro escavado e irregular, com borda elevada e endurecida à palpação. Qual apresentação clínica do carcinoma espinocelular o quadro descreve?",
+      "alternativas": [
+        {
+          "texto": "Exofítica.",
+          "correta": false,
+          "justificativa": "A exofítica é um aumento de volume, vegetante, papilífero ou verruciforme. Aqui o centro é escavado.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+        },
+        {
+          "texto": "Endofítica.",
+          "correta": true,
+          "justificativa": "Centro deprimido, irregular e ulcerado, com borda elevada formada pelo tumor que cresce sob o epitélio vizinho, é a forma endofítica.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+        },
+        {
+          "texto": "Leucoplásica.",
+          "correta": false,
+          "justificativa": "A leucoplásica é uma mancha branca, provavelmente fase inicial, que ainda não ulcerou.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+        },
+        {
+          "texto": "Eritroplásica.",
+          "correta": false,
+          "justificativa": "A eritroplásica é uma mancha vermelha, também provavelmente inicial, sem ulceração nem aumento de volume.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma da cavidade oral, p. 390–409",
+      "secao": "aspecto-clinico",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 70 anos, pele clara, trabalhou a vida toda na lavoura. Tem no lábio inferior uma úlcera crostosa, endurecida e indolor, de 0,8 cm. Qual afirmação sobre esse tipo de carcinoma está de acordo com o Neville?",
+      "alternativas": [
+        {
+          "texto": "É mais comum no lábio superior que no inferior.",
+          "correta": false,
+          "justificativa": "Quase 90% das lesões ficam no lábio inferior; o carcinoma do lábio superior é raro.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio (quase 90% no inferior); Tratamento e prognóstico (lábio superior raro), p. 390–409"
+        },
+        {
+          "texto": "Raramente se associa à queilite actínica.",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: em geral está associado à queilite actínica.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio, p. 390–409"
+        },
+        {
+          "texto": "Costuma doer desde o início, o que acelera o diagnóstico.",
+          "correta": false,
+          "justificativa": "A úlcera típica do vermelhão é assintomática, e os pacientes convivem com o problema por 12 a 16 meses antes do diagnóstico.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio, p. 390–409"
+        },
+        {
+          "texto": "Menos de 10% têm metástase linfonodal ao diagnóstico.",
+          "correta": true,
+          "justificativa": "A metástase é tardia no carcinoma do vermelhão: menos de 10% ao diagnóstico, em geral na região submentoniana.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma do vermelhão do lábio, p. 390–409",
+      "secao": "sitios",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Entre os carcinomas intraorais, qual sítio é o mais provável de surgir de uma leucoplasia ou eritroplasia preexistente e o mais associado a um segundo tumor primário?",
+      "alternativas": [
+        {
+          "texto": "Assoalho de boca.",
+          "correta": true,
+          "justificativa": "O Neville aponta o assoalho de boca para as duas coisas; o tumor surge mais na linha média, perto do freio.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "Dorso de língua.",
+          "correta": false,
+          "justificativa": "Só 4% dos carcinomas linguais ficam no dorso; para lesão precursora e segundo tumor, o livro destaca o assoalho de boca.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "Gengiva posterior da mandíbula.",
+          "correta": false,
+          "justificativa": "O que o livro destaca na gengiva é outro traço: imitar lesões inflamatórias benignas e ser menos ligado ao tabaco.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "Palato duro.",
+          "correta": false,
+          "justificativa": "O palato duro está no fim da lista de frequência; o livro o destaca no fumo invertido, em que até metade dos cânceres orais fica ali.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral; Etiologia do câncer oral, Fumo de tabaco, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409",
+      "secao": "sitios",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Mulher de 58 anos, não fumante, tem uma alteração granular avermelhada na gengiva posterior da mandíbula, tratada há meses como gengivite. Agora o molar vizinho está com mobilidade. O que o Neville diz sobre esse cenário?",
+      "alternativas": [
+        {
+          "texto": "O carcinoma gengival é o mais fortemente ligado ao tabaco, o que torna o caso improvável.",
+          "correta": false,
+          "justificativa": "É o inverso: entre os intraorais, o gengival é o menos associado ao tabaco e tem maior predileção pelo sexo feminino.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "O carcinoma gengival pode imitar gengivite e doença periodontal e causar mobilidade dentária.",
+          "correta": true,
+          "justificativa": "O livro descreve essa propensão a imitar lesões inflamatórias benignas e a destruir o osso, com mobilidade dentária.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "O carcinoma gengival aparece sobretudo na gengiva anterior da maxila.",
+          "correta": false,
+          "justificativa": "Surge mais na mucosa queratinizada da região posterior da mandíbula.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        },
+        {
+          "texto": "A mobilidade aponta para doença periodontal e afasta a hipótese de tumor.",
+          "correta": false,
+          "justificativa": "Os tumores gengivais muitas vezes destroem o osso e causam mobilidade; ela não afasta o carcinoma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Características clínicas e radiográficas, Carcinoma intraoral, p. 390–409",
+      "secao": "sitios",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Ao palpar o pescoço de um paciente com carcinoma da borda lateral da língua, qual achado o Neville descreve como típico de linfonodo com metástase?",
+      "alternativas": [
+        {
+          "texto": "Linfonodo aumentado, de firme a duro como pedra, indolor.",
+          "correta": true,
+          "justificativa": "É a descrição do livro para o linfonodo cervical com carcinoma metastático.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Metástase, Figura 10.119, p. 390–409"
+        },
+        {
+          "texto": "Linfonodo pequeno, macio e doloroso.",
+          "correta": false,
+          "justificativa": "O linfonodo metastático é descrito como aumentado, de firme a duro e indolor, não macio e doloroso.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Metástase, p. 390–409"
+        },
+        {
+          "texto": "Linfonodo duro e doloroso, só do lado oposto ao tumor.",
+          "correta": false,
+          "justificativa": "A metástase regional é mais vezes do mesmo lado do tumor, e o linfonodo acometido costuma ser indolor.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Metástase, p. 390–409"
+        },
+        {
+          "texto": "Linfonodo fixo, sinal de tumor ainda contido na cápsula.",
+          "correta": false,
+          "justificativa": "O linfonodo fica fixo justamente quando o tumor rompe a cápsula e invade o tecido em volta (extensão extranodal).",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Metástase, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Metástase, p. 390–409",
+      "secao": "disseminacao",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "No estadiamento TNM, o que a categoria N avalia?",
+      "alternativas": [
+        {
+          "texto": "A profundidade de invasão do tumor primário.",
+          "correta": false,
+          "justificativa": "A profundidade de invasão entra no T da cavidade oral, junto com o tamanho do tumor.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Estadiamento, Tabela 10.2, p. 390–409"
+        },
+        {
+          "texto": "O envolvimento dos linfonodos regionais.",
+          "correta": true,
+          "justificativa": "N é o envolvimento de linfonodos regionais; T é o tumor primário e M, a metástase à distância.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Estadiamento, p. 390–409"
+        },
+        {
+          "texto": "O grau histopatológico, de I a III.",
+          "correta": false,
+          "justificativa": "O N avalia os linfonodos regionais. O grau histopatológico é outra coisa, e o livro diz que o estadiamento clínico se relaciona muito melhor com o prognóstico do que o grau.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Características histopatológicas; Estadiamento, Tabelas 10.2 a 10.7, p. 390–409"
+        },
+        {
+          "texto": "A metástase à distância.",
+          "correta": false,
+          "justificativa": "Metástase à distância é a categoria M.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Estadiamento, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Estadiamento, p. 390–409",
+      "secao": "disseminacao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Na Tabela 10.8 do Neville, a sobrevida relativa em 5 anos, somados todos os estágios, é de cerca de 91% para o lábio e de 52% para o assoalho de boca. Qual explicação o livro dá para o bom resultado do lábio?",
+      "alternativas": [
+        {
+          "texto": "O carcinoma do lábio nunca dá metástase.",
+          "correta": false,
+          "justificativa": "Dá, embora tarde: menos de 10% têm metástase ao diagnóstico, e o lábio superior tem alto risco de metástase regional.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, p. 390–409"
+        },
+        {
+          "texto": "O carcinoma do lábio costuma ser HPV-positivo.",
+          "correta": false,
+          "justificativa": "O HPV como fator de bom prognóstico vale para a orofaringe; o lábio está ligado à luz solar.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico; Etiologia do câncer oral (introdução), p. 390–409"
+        },
+        {
+          "texto": "A maioria é diagnosticada em estágio inicial.",
+          "correta": true,
+          "justificativa": "É a razão dada pelo livro: o carcinoma do vermelhão costuma ser diagnosticado cedo e tratado por excisão, com resultado excelente.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, Tabela 10.8, p. 390–409"
+        },
+        {
+          "texto": "É tratado só com radioterapia, que controla melhor o tumor.",
+          "correta": false,
+          "justificativa": "A maioria é tratada por excisão cirúrgica; a radioterapia fica para casos mais avançados.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Tratamento e prognóstico, Tabela 10.8, p. 390–409",
+      "secao": "tratamento-prognostico",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Qual destes fatores o Neville associa a um risco relativo de câncer oral de 15 ou mais?",
+      "alternativas": [
+        {
+          "texto": "História familiar (hereditariedade).",
+          "correta": false,
+          "justificativa": "O livro diz que a hereditariedade não tem papel causal importante, salvo algumas síndromes hereditárias raras.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral (introdução), p. 390–409"
+        },
+        {
+          "texto": "Enxaguatório bucal com álcool.",
+          "correta": false,
+          "justificativa": "Os estudos sobre enxaguatório com álcool são limitados e inconsistentes; não há ligação definitiva.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Álcool, p. 390–409"
+        },
+        {
+          "texto": "Uso intenso de tabaco e álcool juntos.",
+          "correta": true,
+          "justificativa": "Entre os grandes consumidores das duas substâncias, o risco relativo relatado é de 15 ou mais.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Álcool, p. 390–409"
+        },
+        {
+          "texto": "Ter parado de fumar há mais de 10 anos.",
+          "correta": false,
+          "justificativa": "É o contrário: cerca de 10 anos depois de parar, a incidência se aproxima da de quem nunca fumou.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Fumo de tabaco, p. 390–409"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Carcinoma espinocelular, Etiologia do câncer oral, Álcool, p. 390–409",
+      "secao": "tabaco-alcool",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "A metanálise de Seoane Romero et al. (2025), feita com estudos observacionais, achou que cerca de um terço (0,31) do tempo antes do encaminhamento ao especialista fica na atenção primária e que o paciente encaminhado pelo dentista teve menor chance de estágio avançado (razão de chances bruta de 0,58). Qual conclusão esses dados permitem?",
+      "alternativas": [
+        {
+          "texto": "Um terço do tempo até o início do tratamento se perde na atenção primária.",
+          "correta": false,
+          "justificativa": "O um terço é do tempo até o encaminhamento (intervalo do paciente mais o da atenção primária), não do tempo até o tratamento.",
+          "fonte": "romero2025",
+          "onde": "seções 2.4 e 3.4.2, Tabela 2, p. 3, 4 e 6"
+        },
+        {
+          "texto": "A atenção primária responde por parte considerável do tempo antes do encaminhamento, e o reconhecimento precoce ali precisa melhorar.",
+          "correta": true,
+          "justificativa": "É o que o estudo mediu (cerca de um terço do tempo antes do encaminhamento) e a conclusão dos próprios autores.",
+          "fonte": "romero2025",
+          "onde": "Resumo, p. 1; seção 3.4.2, p. 4; Discussão, p. 8"
+        },
+        {
+          "texto": "A menor chance de estágio avançado vale para qualquer paciente, porque as razões de chances foram ajustadas para idade e perfil.",
+          "correta": false,
+          "justificativa": "Nenhum estudo trouxe razão de chances ajustada; os dados são brutos, e outras diferenças entre os pacientes podem explicar parte do resultado.",
+          "fonte": "romero2025",
+          "onde": "seção 2.4, p. 3; Discussão, p. 10"
+        },
+        {
+          "texto": "Cada paciente passa cerca de um terço do seu tempo antes do encaminhamento na atenção primária.",
+          "correta": false,
+          "justificativa": "Os estudos variam muito entre si; o 0,31 é um resumo deles, não o tempo esperado para cada paciente.",
+          "fonte": "romero2025",
+          "onde": "seção 3.4.3 e Tabela 2, p. 4 e 6"
+        }
+      ],
+      "fonte": "romero2025",
+      "onde": "seções 2.4, 3.4.2 e 3.5.2, Tabelas 2 e 4, p. 3 a 8; Discussão, p. 8 e 10",
+      "secao": "encaminhamento",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "A metanálise de Seoane Romero et al. (2025) achou razão de chances de 0,58 (IC 95% 0,34 a 0,98) para estágio avançado no paciente encaminhado pelo dentista, comparado ao médico. Qual leitura é correta?",
+      "alternativas": [
+        {
+          "texto": "Os encaminhados pelo dentista tiveram menor chance de estágio avançado, mas sem ajuste para outros fatores.",
+          "correta": true,
+          "justificativa": "É o que o resultado diz: chance menor de estágio III e IV, com razões de chances brutas, sem ajuste para as diferenças entre os pacientes nem para a agressividade do tumor.",
+          "fonte": "romero2025",
+          "onde": "seções 2.4 e 3.5.2, Tabela 4, p. 3, 6 e 8"
+        },
+        {
+          "texto": "Prova que o dentista diagnostica o câncer bucal melhor que o médico.",
+          "correta": false,
+          "justificativa": "Os dados são razões de chances brutas de estudos observacionais; a explicação por conhecimento e exame é hipótese dos autores, sem teste.",
+          "fonte": "romero2025",
+          "onde": "seção 2.4, p. 3; Discussão, p. 8 e 10"
+        },
+        {
+          "texto": "Mostra que o encaminhamento pelo dentista aumenta a sobrevida.",
+          "correta": false,
+          "justificativa": "O estudo não avaliou sobrevida; os autores dizem que o efeito do intervalo sobre a sobrevida é incerto e pedem estudos.",
+          "fonte": "romero2025",
+          "onde": "Discussão, p. 10"
+        },
+        {
+          "texto": "Mostra que o dentista encaminha 42% mais rápido que o médico.",
+          "correta": false,
+          "justificativa": "Os 42% são a redução da chance de estágio avançado, não de tempo; a duração do intervalo (27,6 contra 30,5 dias) veio de só 2 estudos por grupo.",
+          "fonte": "romero2025",
+          "onde": "seções 3.4.4 e 3.5.2, p. 4 a 6"
+        }
+      ],
+      "fonte": "romero2025",
+      "onde": "seção 3.5.2 e Tabela 4, p. 6 e 8",
+      "secao": "encaminhamento",
+      "figura": null
+    }
+  ]
+}

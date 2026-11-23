@@ -1,0 +1,609 @@
+{
+  "slug": "traumatismo-dentario",
+  "titulo": "Traumatismo dentário: fraturas coronárias e avulsão",
+  "area": "Endodontia",
+  "origem": "IADT 2020, partes 1 e 2 (tradução oficial em português)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "iadt2020-1",
+      "ref": "Bourguignon C, Cohenca N, Lauridsen E, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations. Dent Traumatol. 2020;36(4):314–330. Lida na tradução oficial para o português publicada pela IADT (Silva EJNL, Pinto KP, Segato RAB, Nelson Filho P).",
+      "curta": "IADT 2020, parte 1"
+    },
+    {
+      "id": "iadt2020-2",
+      "ref": "Fouad AF, Abbott PV, Tsilingaridis G, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent teeth. Dent Traumatol. 2020;36(4):331–342. Lida na tradução oficial para o português publicada pela IADT (Silva EJNL, Pinto KP, Segato RAB, Nelson Filho P).",
+      "curta": "IADT 2020, parte 2"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "esmalte",
+      "titulo": "Fratura só de esmalte",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 28 e 29 do PDF (Parte 1, Tabela 2)",
+      "texto": "Na fratura que atinge **só o esmalte**, a International Association of Dental Traumatology (IADT), associação internacional de traumatologia dentária, indica colar o fragmento, suavizar as bordas ou restaurar com resina. A diretriz dá as fraturas de coroa em tabelas próprias; esta é chamada de fratura não complicada de coroa. Fratura de coroa e raiz, fratura radicular, fratura alveolar e a conduta das luxações têm tabelas à parte e ficam fora deste tema.\n\n**Achados clínicos:** perda de esmalte, sem dentina visível. Mobilidade normal. Teste de sensibilidade pulpar normalmente positivo. Se houver sensibilidade, a diretriz manda avaliar se existe lesão de luxação ou fratura radicular.\n\n**Radiografia:** periapical paralela, que mostra a perda de esmalte. Radiografias adicionais só se houver sinais ou sintomas de outras lesões. Se o fragmento não foi encontrado e há lesão de tecido mole, a IADT indica radiografias de lábio e/ou bochecha, para procurar fragmento ou material estranho.\n\n**Tratamento:**\n- fragmento presente: pode ser colado ao dente;\n- conforme a extensão e a localização: suavizar as bordas da fratura ou restaurar com resina composta.\n\n**Acompanhamento:** avaliação clínica e radiográfica em **6 a 8 semanas** e em **1 ano**. Se houver lesão de luxação ou suspeita dela, prevalece o esquema de acompanhamento da luxação, e a tabela diz que será necessário um acompanhamento mais longo.\n\n**Prognóstico favorável:** sem sintomas, resposta positiva ao teste de sensibilidade, boa qualidade da restauração. Em rizogênese incompleta (raiz ainda em formação), a raiz continua a se desenvolver.\n\n**Prognóstico desfavorável:** sintomas, necrose pulpar e infecção, lesão periapical, perda ou colapso da restauração. Em rizogênese incompleta, a raiz deixa de se desenvolver."
+    },
+    {
+      "id": "esmalte-dentina",
+      "titulo": "Fratura de esmalte e dentina sem exposição pulpar",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)",
+      "texto": "Quando a fratura atinge **esmalte e dentina sem expor a polpa**, a IADT soma ao quadro anterior a proteção da dentina.\n\n**Achados clínicos:** mobilidade normal; sem sensibilidade à percussão nem à palpação; teste de sensibilidade pulpar normalmente positivo. A radiografia mostra perda visível de esmalte e dentina. Se houver sensibilidade, avaliar luxação ou fratura radicular. Radiografia periapical paralela, com a mesma regra da seção anterior para fragmento não encontrado e lesão de tecido mole (radiografias de lábio e/ou bochecha).\n\n**Tratamento:**\n- **Fragmento presente e intacto:** colar ao dente. Se estiver seco, reidratar em água ou soro por **20 minutos** antes de recolocar.\n- **Dentina exposta:** cobrir com ionômero de vidro, ou com adesivo e resina composta.\n- **Dentina exposta a 0,5 mm da polpa** (rosada, sem sangramento): aplicar uma camada de hidróxido de cálcio e cobrir com ionômero de vidro.\n- Trocar a restauração provisória por uma definitiva assim que possível.\n\n**Acompanhamento:** **6 a 8 semanas** e **1 ano**. Com luxação associada, fratura radicular ou suspeita de luxação, prevalece o esquema de luxação, e será necessário um acompanhamento mais longo.\n\n**Prognósticos favoráveis:** sem sintomas, resposta pulpar positiva, boa qualidade da restauração; em rizogênese incompleta, a raiz continua a se desenvolver.\n\n**Prognósticos desfavoráveis:** sintomas, necrose pulpar e infecção, lesão periapical, perda ou colapso da restauração; em rizogênese incompleta, a raiz não continua a se desenvolver."
+    },
+    {
+      "id": "exposicao-pulpar",
+      "titulo": "Fratura de esmalte e dentina com exposição pulpar",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 32 a 34 do PDF (Parte 1, Tabela 4)",
+      "texto": "Aqui a polpa está **exposta**; a IADT chama esta de fratura complicada de coroa. Os achados clínicos são mobilidade normal e ausência de sensibilidade à percussão e à palpação, com um acréscimo: a polpa exposta é **sensível a estímulos** como ar, frio e doce. A radiografia é a periapical paralela, com perda visível de esmalte e dentina e a mesma regra de radiografias de lábio e/ou bochecha.\n\n**Tratamento, rizogênese incompleta:** a IADT recomenda **preservar a polpa**, com pulpotomia parcial e capeamento pulpar, para que a raiz continue a se desenvolver.\n\n**Tratamento, rizogênese completa:** o tratamento conservador, como a pulpotomia parcial, também é preferível. Se for preciso colocar retentor intrarradicular, indica-se o tratamento endodôntico.\n\n**Material sobre a polpa exposta:** pasta de hidróxido de cálcio e cimentos à base de silicato de cálcio que não causem descoloração.\n\n**Com fragmento:** colar depois de reidratá-lo e tratar a exposição pulpar. **Sem fragmento:** cobrir a dentina exposta com ionômero de vidro, ou com adesivo e resina composta, e trocar a restauração provisória por uma definitiva assim que possível.\n\n**Acompanhamento:** **6 a 8 semanas, 3 meses, 6 meses e 1 ano**. Com luxação associada, fratura radicular ou suspeita de luxação, prevalece o esquema de luxação, e será necessário um acompanhamento mais longo.\n\n**Prognósticos desfavoráveis:** sintomas, **descoloração**, necrose pulpar e infecção, lesão periapical, perda ou colapso da restauração; em rizogênese incompleta, a raiz não continua a se desenvolver. Os prognósticos favoráveis são os mesmos das fraturas anteriores."
+    },
+    {
+      "id": "fraturas-comparacao",
+      "titulo": "As três fraturas lado a lado",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 28 a 34 do PDF (Parte 1, Tabelas 2, 3 e 4)",
+      "texto": "| | Só esmalte | Esmalte e dentina, sem exposição | Esmalte e dentina, com exposição |\n|---|---|---|---|\n| **Polpa** | teste de sensibilidade normalmente positivo | normalmente positivo | polpa exposta sensível a ar, frio e doce |\n| **Tratamento** | colar o fragmento; suavizar bordas ou resina composta | colar o fragmento (seco: 20 min em água ou soro); cobrir a dentina; a 0,5 mm da polpa, hidróxido de cálcio e ionômero | preservar a polpa (pulpotomia parcial, capeamento); material sem descoloração; cobrir a dentina |\n| **Retornos** | 6 a 8 semanas e 1 ano | 6 a 8 semanas e 1 ano | 6 a 8 semanas, 3 meses, 6 meses e 1 ano |\n| **Prognóstico desfavorável a mais** | | | descoloração |\n\n**O que vale para as três:**\n- radiografia periapical paralela; radiografias de lábio e/ou bochecha se o fragmento não foi achado e há lesão de tecido mole;\n- sensibilidade no exame: avaliar luxação ou fratura radicular;\n- luxação associada ou suspeita: segue o esquema de acompanhamento da luxação;\n- prognóstico favorável: sem sintomas, resposta pulpar positiva, boa restauração e, em rizogênese incompleta, raiz que continua a se desenvolver.\n\nA diretriz traz a conduta das luxações em tabelas próprias (concussão, subluxação, luxação extrusiva, lateral e intrusiva), que este tema não detalha."
+    },
+    {
+      "id": "av-socorros",
+      "titulo": "Avulsão: primeiros socorros e armazenamento do dente",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)",
+      "texto": "Na avulsão de dente permanente, o **reimplante imediato no local do acidente** é, segundo a IADT, o melhor tratamento. Se não for possível, o dente vai para um meio de armazenamento.\n\n**Ordem no local:**\n1. manter o paciente calmo;\n2. segurar o dente **pela coroa**, sem tocar a raiz;\n3. se estiver sujo, lavar com leite, soro ou saliva;\n4. reimplantar no lugar;\n5. o paciente morde uma gaze ou um lenço para manter o dente em posição.\n\n**Se o reimplante não for possível**, o dente vai para um meio de armazenamento, nesta ordem de preferência: **leite, HBSS (solução balanceada de Hanks), saliva, soro**. A água é um meio ruim, mas melhor do que deixar o dente seco.\n\nEm qualquer caso, o dente vai junto com o paciente, que deve consultar o dentista imediatamente.\n\n**Dente decíduo avulsionado não deve ser reimplantado.**"
+    },
+    {
+      "id": "av-tempo",
+      "titulo": "Avulsão: tempo fora do alvéolo e viabilidade do ligamento",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 75 e 76 do PDF (Parte 2, tempo extra-alveolar)",
+      "texto": "O **tempo extra-alveolar** deve ser levantado na anamnese, porque orienta o prognóstico.\n\n**Tempo seco:** depois de cerca de **30 minutos** fora da boca, exposto ao seco, a maioria das células do ligamento periodontal fica inviável.\n\nA diretriz separa três grupos de dentes, conforme o estado provável dessas células:\n1. **provavelmente viáveis:** reimplantado imediatamente ou após cerca de 15 minutos, no local do acidente;\n2. **possivelmente viáveis, mas comprometidas:** mantido em meio de armazenamento, com tempo extra-alveolar **menor que 60 minutos**;\n3. **provavelmente inviáveis:** tempo extra-alveolar **superior a 60 minutos**, com ou sem meio de armazenamento.\n\nO corte de 60 minutos separa o segundo do terceiro grupo. A diretriz diz duas coisas, em páginas vizinhas:\n- **p. 75:** a escolha do tratamento está relacionada com o grau de formação radicular (ápice aberto ou fechado) e com a condição das células do ligamento periodontal, que depende do meio de armazenamento e do tempo;\n- **p. 76:** os três grupos orientam o prognóstico, podem ocorrer exceções, e isso **não irá alterar o tratamento**; a classificação apenas serve para orientar a decisão de tratamento do dentista."
+    },
+    {
+      "id": "av-fechado",
+      "titulo": "Avulsão com ápice fechado: dente reimplantado ou em meio de armazenamento",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 76 a 78 do PDF (Parte 2, 3.1.1 e 3.1.2)",
+      "texto": "Estas são as condutas para dente com **rizogênese completa**.\n\n**Já reimplantado no local ou antes da chegada (3.1.1):**\n- limpar a área com água, soro ou clorexidina e checar a posição, clínica e radiograficamente;\n- manter o dente no lugar; se mal posicionado, corrigir com leve pressão digital. Se foi reimplantado no alvéolo errado ou rodado, ainda dá para reposicionar **até 48 horas** após o trauma;\n- anestesia local, se necessária, de preferência **sem vasoconstritor**;\n- contenção flexível por **2 semanas**; suturar lacerações gengivais;\n- endodontia **em até 2 semanas** após o reimplante;\n- antibiótico sistêmico, proteção antitetânica, instruções ao paciente e acompanhamento.\n\n**Dente mantido em meio de armazenamento, tempo extra-alveolar menor que 60 minutos (3.1.2):**\n- tirar os detritos com soro ou meio de osmolaridade balanceada e deixar o dente no meio enquanto se faz a anamnese e se prepara o paciente;\n- anestesia local, de preferência sem vasoconstritor; lavar o alvéolo com soro, remover o coágulo se necessário e reposicionar parede alveolar fraturada;\n- **reimplante lento**, com ligeira pressão digital e sem força excessiva; checar a posição;\n- depois, a mesma sequência: contenção flexível por 2 semanas, sutura, endodontia em até 2 semanas, antibiótico sistêmico, antitetânica, instruções e acompanhamento."
+    },
+    {
+      "id": "av-fechado-tardio",
+      "titulo": "Avulsão com ápice fechado: mais de 60 minutos fora do alvéolo",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 78 e 79 do PDF (Parte 2, 3.1.3, rizogênese completa, mais de 60 minutos)",
+      "texto": "Com **rizogênese completa e tempo extra-alveolar maior que 60 minutos** (3.1.3), a sequência no consultório é a mesma: limpeza, anestesia, lavar e examinar o alvéolo, reimplante lento e sem força, checagem da posição, contenção flexível por 2 semanas, sutura, endodontia dentro de 2 semanas, antibiótico sistêmico, antitetânica, instruções e acompanhamento.\n\nO que muda é o **prognóstico**: acima de 60 minutos, o dente está no grupo de células do ligamento provavelmente inviáveis, e a IADT diz que essa classificação orienta o prognóstico e que isso não irá alterar o tratamento (p. 76; ver a seção «Avulsão: tempo fora do alvéolo e viabilidade do ligamento»). A IADT descreve para o reimplante tardio um prognóstico desfavorável a longo prazo, com **anquilose e reabsorção radicular esperadas**.\n\nMesmo assim, a diretriz continua recomendando reimplantar: é quase sempre a melhor decisão, porque **mantém o contorno e a altura do osso** e deixa opções futuras abertas.\n\n**Se for preciso, o dente pode ser extraído depois**, no momento apropriado e após avaliação interdisciplinar.\n\n**Em paciente em crescimento**, se houver anquilose e infra-oclusão, podem ser necessários decoronação ou autotransplante."
+    },
+    {
+      "id": "av-aberto",
+      "titulo": "Avulsão com ápice aberto",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 79 a 83 do PDF (Parte 2, 3.2.1 a 3.2.3)",
+      "texto": "Estas são as condutas para dente com **rizogênese incompleta**. A lógica é a da seção do ápice fechado, com uma mudança de objetivo: **permitir a revascularização pulpar**.\n\n**Reimplantado antes da chegada (3.2.1):**\n- limpar, checar a posição e, se estiver no alvéolo errado, reposicionar em até 48 horas; anestesia local, de preferência sem vasoconstritor;\n- contenção **passiva e flexível por 2 semanas**; dentes muito curtos podem precisar de mais tempo;\n- suturar lacerações gengivais;\n- antibiótico sistêmico, antitetânica, instruções e acompanhamento.\n\n**Por que a atenção:** existe risco de reabsorção radicular externa inflamatória, que **evolui rapidamente em crianças**.\n\n**Se a polpa não revascularizar sozinha:** iniciar apicificação, revitalização ou revascularização pulpar, ou endodontia, assim que houver necrose e infecção pulpar.\n\n**Dente em meio de armazenamento, com menos de 60 minutos (3.2.2) ou mais de 60 minutos (3.2.3):** mesma lógica, com as mesmas etapas de limpeza, anestesia, reimplante, contenção passiva de 2 semanas e endodontia só se necessária. Para mais de 60 minutos, a diretriz mantém a recomendação de reimplantar."
+    },
+    {
+      "id": "av-contencao",
+      "titulo": "Avulsão: contenção e orientação ao paciente",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 85 do PDF (Parte 2, contenção); p. 76 do PDF (3.1.1, contenção com fratura alveolar); pp. 85 e 86 do PDF (Parte 2, orientação ao paciente)",
+      "texto": "**Contenção:** passiva e flexível, por **2 semanas**, colada com resina composta. A IADT cita fio de aço de até 0,016 polegada (0,4 mm) ou, como opção, linha de nylon de 0,13 a 0,25 mm. O nylon não é recomendado em criança com poucos dentes permanentes para dar estabilidade.\n\n**Fratura alveolar ou óssea associada:** contenção mais rígida, por cerca de **4 semanas**.\n\n**Cuidados de colocação:**\n- nos dentes superiores, colocar a contenção na face vestibular, para deixar o acesso lingual livre para a endodontia;\n- afastar a resina e os componentes da margem gengival e das áreas interproximais.\n\n**Na remoção**, o dente pode ficar móvel. Só se prolonga uma semana se houver contato oclusal excessivo ou se o dente não estiver na posição certa; avalia-se depois de remover e checa-se a oclusão.\n\n**Orientação ao paciente:**\n- evitar esportes de contato físico;\n- dieta macia por até 2 semanas, conforme a tolerância;\n- escovar com escova macia após cada refeição;\n- bochecho de **clorexidina 0,12%, duas vezes ao dia, por 2 semanas**.\n\nA diretriz diz que a adesão às visitas de acompanhamento e aos cuidados em casa melhora o prognóstico."
+    },
+    {
+      "id": "av-medicacao",
+      "titulo": "Avulsão: antibiótico e antitetânica",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico); tradução IADT, p. 84 do PDF (Parte 2, antitetânica)",
+      "texto": "**Antibiótico sistêmico.** A IADT reconhece que o valor do antibiótico depois do reimplante ainda é questionado, mas o **recomenda** para reduzir infecção e reabsorção inflamatória. Ele também pode ser indicado por condição médica do paciente ou por lesão concomitante.\n\n- **Dose:** a diretriz manda calcular conforme idade e peso do paciente e não traz dose, via nem duração.\n- **Primeiras escolhas:** amoxicilina e penicilina. Em alergia à penicilina, a diretriz manda considerar outros.\n- **Doxiciclina:** a IADT a considera apropriada, por ter ação antimicrobiana, anti-inflamatória e antirreabsortiva. Deve-se considerar o risco de descoloração; em muitos países a tetraciclina não é recomendada para menores de 12 anos.\n- **Antibiótico tópico na raiz:** o efeito é incerto, e a IADT não recomenda antibiótico, duração ou método específicos.\n\n**Antitetânica.** Verificar a proteção do paciente e **encaminhar ao médico** para avaliar a necessidade de vacina antitetânica. A conduta é do médico; o dentista verifica e encaminha."
+    },
+    {
+      "id": "av-endodontia",
+      "titulo": "Avulsão: endodontia",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)",
+      "texto": "**Rizogênese completa:** iniciar a endodontia em até **2 semanas** após o reimplante, sob **isolamento**, com o grampo nos dentes vizinhos, para não traumatizar o dente reimplantado.\n- **Hidróxido de cálcio** intracanal por até 1 mês e, depois, obturação.\n- **Alternativa:** pasta de antibiótico e corticosteroide no canal, colocada logo após o reimplante e mantida por pelo menos 6 semanas. Algumas pastas causam descoloração.\n\n**Rizogênese incompleta:** **evitar a endodontia**, a não ser que, nas consultas de acompanhamento, apareçam sinais clínicos e radiográficos de necrose pulpar. Antes disso, avaliar o risco de reabsorção inflamatória.\n\n**Se houver necrose ou infecção na rizogênese incompleta:** endodontia, apicificação ou revitalização/revascularização pulpar, conforme o caso.\n\n**Resumo para a decisão:** com ápice fechado, a IADT manda iniciar a endodontia em até 2 semanas após o reimplante; com ápice aberto, evita a endodontia, a não ser que apareçam sinais clínicos e radiográficos de necrose pulpar."
+    },
+    {
+      "id": "av-acompanhamento",
+      "titulo": "Avulsão: acompanhamento, reabsorção e prognóstico",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 87 e 88 do PDF (Parte 2, acompanhamento)",
+      "texto": "**Retornos, rizogênese completa:** 2 semanas (quando sai a contenção), 4 semanas, 3 meses, 6 meses, 1 ano e, depois, **anual por pelo menos 5 anos**.\n\n**Retornos, rizogênese incompleta:** 2 semanas (contenção), 1 mês, 2 meses, 3 meses, 6 meses, 1 ano e, depois, anual por pelo menos 5 anos. Se a revascularização espontânea for possível, as revisões devem ser mais frequentes.\n\n**Reabsorção:** qualquer reabsorção radicular ou óssea ao redor da raiz é tratada como **inflamatória**. A ausência do espaço do ligamento periodontal, com substituição por osso, e o **som metálico à percussão** indicam reabsorção por **anquilose** (substitutiva). Os dois tipos podem ocorrer juntos.\n\n**Prognóstico favorável:** dente assintomático, funcional, com mobilidade normal, sem sensibilidade à percussão, com som normal, sem reabsorção nem radioluscência e com lâmina dura de aspecto normal. Na rizogênese incompleta, soma-se a continuação da formação radicular e da erupção. A obliteração do canal radicular é esperada no primeiro ano, como cicatrização pulpar.\n\n**Prognóstico desfavorável:** inchaço e secreção purulenta, mobilidade excessiva ou anquilose, reabsorção inflamatória ou substitutiva, com ou sem sintomas. Na incompleta, também a ausência de continuação da formação radicular. Em paciente em crescimento, a infra-oclusão pode prejudicar o crescimento alveolar e facial.\n\nO acompanhamento a longo prazo é de equipe interdisciplinar (ortodontista, odontopediatra e/ou endodontista); sem equipe, o dentista acompanha dentro da sua experiência."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Fratura só de esmalte: tratamento e retornos?",
+      "verso": "Colar o fragmento, se houver, ou suavizar as bordas ou restaurar com resina composta. Retornos em **6 a 8 semanas e 1 ano**.",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 28 do PDF (Parte 1, Tabela 2)"
+    },
+    {
+      "id": "f02",
+      "frente": "Fragmento seco numa fratura de esmalte e dentina: o que fazer antes de colar?",
+      "verso": "Reidratar em água ou soro por **20 minutos**.",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 30 do PDF (Parte 1, Tabela 3)"
+    },
+    {
+      "id": "f03",
+      "frente": "Fratura de esmalte e dentina: dentina exposta a 0,5 mm da polpa, rosada e sem sangramento. Conduta?",
+      "verso": "Uma camada de **hidróxido de cálcio** e cobertura com ionômero de vidro.",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)"
+    },
+    {
+      "id": "f04",
+      "frente": "Fratura com exposição pulpar e rizogênese incompleta: o que a IADT recomenda?",
+      "verso": "**Preservar a polpa**: pulpotomia parcial e capeamento pulpar, para a raiz continuar a se desenvolver.",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+    },
+    {
+      "id": "f05",
+      "frente": "Que materiais a IADT indica sobre a polpa exposta?",
+      "verso": "Pasta de hidróxido de cálcio e cimentos de silicato de cálcio que **não causem descoloração**.",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 33 do PDF (Parte 1, Tabela 4)"
+    },
+    {
+      "id": "f06",
+      "frente": "Retornos da fratura com exposição pulpar?",
+      "verso": "**6 a 8 semanas, 3 meses, 6 meses e 1 ano.**",
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+    },
+    {
+      "id": "f07",
+      "frente": "Avulsão: o que a IADT diz do dente decíduo avulsionado?",
+      "verso": "**Não deve ser reimplantado.**",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+    },
+    {
+      "id": "f08",
+      "frente": "Avulsão: meios de armazenamento, em ordem de preferência?",
+      "verso": "**Leite, HBSS (solução balanceada de Hanks), saliva, soro.** Água é meio ruim, mas melhor que deixar o dente seco.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+    },
+    {
+      "id": "f09",
+      "frente": "Como segurar o dente avulsionado, e o que fazer se estiver sujo?",
+      "verso": "Pela **coroa**, sem tocar a raiz. Se sujo, lavar com leite, soro ou saliva e reimplantar.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+    },
+    {
+      "id": "f10",
+      "frente": "Após quanto tempo seco a maioria das células do ligamento periodontal fica inviável? E qual o corte do grupo de células provavelmente inviáveis?",
+      "verso": "Cerca de **30 minutos** seco. O grupo provavelmente inviável é o de tempo extra-alveolar **acima de 60 minutos**.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 75 e 76 do PDF (Parte 2, tempo extra-alveolar)"
+    },
+    {
+      "id": "f11",
+      "frente": "Contenção na avulsão: tempo e material?",
+      "verso": "Passiva e flexível, **2 semanas**, colada com resina; fio de aço até 0,4 mm ou, opção, nylon de 0,13 a 0,25 mm. Com fratura alveolar associada, mais rígida, por cerca de 4 semanas.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 85 do PDF (Parte 2, contenção); p. 76 do PDF (3.1.1, fratura alveolar)"
+    },
+    {
+      "id": "f12",
+      "frente": "Antibiótico na avulsão: quais as primeiras escolhas e o que dizer da dose?",
+      "verso": "**Amoxicilina e penicilina.** A dose se calcula conforme idade e peso; a diretriz não traz a dose.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)"
+    },
+    {
+      "id": "f13",
+      "frente": "Antitetânica na avulsão: qual a conduta?",
+      "verso": "Verificar a proteção do paciente e **encaminhar ao médico** para avaliar a necessidade da vacina.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 84 do PDF (Parte 2, antitetânica)"
+    },
+    {
+      "id": "f14",
+      "frente": "Endodontia com rizogênese completa: quando começar e que medicação de canal?",
+      "verso": "Em até **2 semanas** do reimplante, com isolamento; hidróxido de cálcio por até 1 mês e depois obturação.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)"
+    },
+    {
+      "id": "f15",
+      "frente": "Reabsorção por anquilose: quais os sinais?",
+      "verso": "Ausência do espaço do ligamento periodontal, com substituição por osso, e **som metálico à percussão**.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 87 do PDF (Parte 2, acompanhamento)"
+    },
+    {
+      "id": "f16",
+      "frente": "Retornos após avulsão com rizogênese completa?",
+      "verso": "2 semanas, 4 semanas, 3 meses, 6 meses, 1 ano e depois **anual por pelo menos 5 anos**.",
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 87 do PDF (Parte 2, acompanhamento)"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Incisivo central com perda de esmalte, sem dentina visível, mobilidade normal e teste de sensibilidade positivo. O fragmento foi trazido pelo paciente. Qual conduta a IADT indica?",
+      "alternativas": [
+        {
+          "texto": "Pulpotomia parcial e capeamento pulpar.",
+          "correta": false,
+          "justificativa": "Pulpotomia parcial é a conduta da IADT para fratura com exposição pulpar; neste dente só o esmalte foi perdido.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Colar o fragmento ao dente, ou suavizar as bordas ou restaurar com resina composta.",
+          "correta": true,
+          "justificativa": "É o tratamento da Tabela 2 para fratura só de esmalte: colar o fragmento se presente; conforme extensão e localização, suavizar bordas ou resina composta.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 28 do PDF (Parte 1, Tabela 2)"
+        },
+        {
+          "texto": "Camada de hidróxido de cálcio e cobertura com ionômero de vidro.",
+          "correta": false,
+          "justificativa": "Isso é indicado quando a dentina exposta está a 0,5 mm da polpa; aqui não há dentina exposta.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 30 do PDF (Parte 1, Tabela 3)"
+        },
+        {
+          "texto": "Iniciar a endodontia, para evitar necrose pulpar.",
+          "correta": false,
+          "justificativa": "Com resposta positiva ao teste de sensibilidade, o tratamento da Tabela 2 é colar o fragmento, suavizar as bordas ou restaurar com resina composta.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 28 do PDF (Parte 1, Tabela 2)"
+        }
+      ],
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 28 do PDF (Parte 1, Tabela 2)",
+      "secao": "esmalte",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Fratura de esmalte e dentina em um incisivo, sem exposição pulpar. A dentina exposta está a 0,5 mm da polpa, rosada e sem sangramento. Qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Aplicar uma camada de hidróxido de cálcio e cobrir com ionômero de vidro.",
+          "correta": true,
+          "justificativa": "É o que a Tabela 3 indica para dentina a 0,5 mm da polpa, rosada e sem sangramento.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)"
+        },
+        {
+          "texto": "Fazer pulpotomia parcial.",
+          "correta": false,
+          "justificativa": "A pulpotomia parcial é recomendada na fratura com exposição pulpar, e aqui a polpa não está exposta.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Deixar a dentina sem cobertura e reavaliar em 1 ano.",
+          "correta": false,
+          "justificativa": "A IADT manda cobrir a dentina exposta, e os retornos são em 6 a 8 semanas e 1 ano.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)"
+        },
+        {
+          "texto": "Iniciar o tratamento endodôntico completo, porque a dentina está perto da polpa.",
+          "correta": false,
+          "justificativa": "O enunciado traz fratura sem exposição pulpar; para dentina a 0,5 mm da polpa, rosada e sem sangramento, a Tabela 3 indica camada de hidróxido de cálcio e cobertura com ionômero de vidro.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)"
+        }
+      ],
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 30 e 31 do PDF (Parte 1, Tabela 3)",
+      "secao": "esmalte-dentina",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Adolescente com incisivo central de rizogênese incompleta, fratura de esmalte e dentina com polpa exposta, sensível ao ar e ao frio. Qual o objetivo e a conduta da IADT?",
+      "alternativas": [
+        {
+          "texto": "Extrair o dente e aguardar o fim do crescimento.",
+          "correta": false,
+          "justificativa": "Para esta fratura, a Tabela 4 recomenda preservar a polpa, com pulpotomia parcial e capeamento pulpar, para a raiz continuar a se desenvolver.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Endodontia completa com obturação, para evitar a necrose.",
+          "correta": false,
+          "justificativa": "Com rizogênese incompleta, a IADT recomenda preservar a polpa para que a raiz continue a se desenvolver.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Apenas restaurar a coroa, sem tratar a exposição pulpar.",
+          "correta": false,
+          "justificativa": "Para a polpa exposta de dente com rizogênese incompleta, a Tabela 4 recomenda pulpotomia parcial e capeamento pulpar; com o fragmento, ele é colado após reidratação e a exposição pulpar é tratada.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, pp. 32 a 34 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Preservar a polpa, com pulpotomia parcial e capeamento pulpar.",
+          "correta": true,
+          "justificativa": "É a recomendação da Tabela 4 para dentes com rizogênese incompleta.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        }
+      ],
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, pp. 32 a 34 do PDF (Parte 1, Tabela 4)",
+      "secao": "exposicao-pulpar",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Qual é o esquema de retornos que a IADT dá para a fratura de esmalte e dentina com exposição pulpar?",
+      "alternativas": [
+        {
+          "texto": "6 a 8 semanas e 1 ano.",
+          "correta": false,
+          "justificativa": "É o esquema das fraturas sem exposição pulpar (Tabelas 2 e 3); com exposição, há retornos em 3 e 6 meses também.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 30 do PDF (Parte 1, Tabela 3)"
+        },
+        {
+          "texto": "6 a 8 semanas, 3 meses, 6 meses e 1 ano.",
+          "correta": true,
+          "justificativa": "É o esquema da Tabela 4, para fratura com exposição pulpar.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "6 a 8 semanas, 3 meses e 6 meses, sem retorno em 1 ano.",
+          "correta": false,
+          "justificativa": "A Tabela 4 inclui o retorno de 1 ano.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)"
+        },
+        {
+          "texto": "Apenas 1 ano.",
+          "correta": false,
+          "justificativa": "As três tabelas de fratura começam o acompanhamento em 6 a 8 semanas; com exposição pulpar, os retornos são 6 a 8 semanas, 3 meses, 6 meses e 1 ano.",
+          "fonte": "iadt2020-1",
+          "onde": "tradução IADT, p. 28 do PDF (Parte 1, Tabela 2)"
+        }
+      ],
+      "fonte": "iadt2020-1",
+      "onde": "tradução IADT, p. 32 do PDF (Parte 1, Tabela 4)",
+      "secao": "fraturas-comparacao",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Criança de 12 anos tem um incisivo superior permanente avulsionado na quadra. O dente está limpo, a criança está calma e o reimplante é possível. O que a IADT recomenda?",
+      "alternativas": [
+        {
+          "texto": "Esfregar a raiz com gaze úmida e guardar o dente em água até chegar ao consultório.",
+          "correta": false,
+          "justificativa": "A diretriz manda segurar o dente pela coroa, sem tocar a raiz, e a água é meio ruim.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Embrulhar o dente em gaze seca e levar ao consultório.",
+          "correta": false,
+          "justificativa": "O dente seco é pior que a água, que já é um meio ruim; e o reimplante imediato é possível.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Reimplantar de imediato, segurando pela coroa, e fazer o paciente morder gaze ou lenço.",
+          "correta": true,
+          "justificativa": "Reimplante imediato no local é o melhor tratamento, seguido de gaze ou lenço mordidos para manter o dente.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Reimplantar só no consultório, porque o dente deve passar antes por avaliação radiográfica.",
+          "correta": false,
+          "justificativa": "A IADT diz que o reimplante imediato no local é o melhor tratamento.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)",
+      "secao": "av-socorros",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "O reimplante no local do acidente não é possível. Qual meio de armazenamento a IADT lista em primeiro lugar?",
+      "alternativas": [
+        {
+          "texto": "Água.",
+          "correta": false,
+          "justificativa": "A água é um meio ruim, melhor apenas que deixar o dente seco.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Saliva.",
+          "correta": false,
+          "justificativa": "A saliva está na lista, mas depois de leite e HBSS.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Gaze seca.",
+          "correta": false,
+          "justificativa": "Deixar o dente seco é pior que usar a água.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        },
+        {
+          "texto": "Leite.",
+          "correta": true,
+          "justificativa": "A ordem de preferência da IADT é leite, HBSS, saliva e soro.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 73 e 74 do PDF (Parte 2, primeiros socorros no local)",
+      "secao": "av-socorros",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Incisivo central superior avulsionado, ápice fechado, com mais de 60 minutos fora do alvéolo. O que a IADT diz sobre reimplantar?",
+      "alternativas": [
+        {
+          "texto": "Reimplantar é quase sempre a melhor decisão, apesar do prognóstico desfavorável a longo prazo.",
+          "correta": true,
+          "justificativa": "A diretriz mantém a recomendação: reimplantar preserva contorno e altura do osso e deixa opções futuras; anquilose e reabsorção são esperadas.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 78 e 79 do PDF (Parte 2, 3.1.3, rizogênese completa, mais de 60 minutos)"
+        },
+        {
+          "texto": "Não reimplantar, porque o tempo acima de 60 minutos contraindica o reimplante.",
+          "correta": false,
+          "justificativa": "A IADT diz que reimplantar um dente permanente é quase sempre a melhor decisão, mesmo quando o tempo extra-alveolar passa de 60 minutos; o enunciado traz mais de 60 minutos, e esse dado não leva a recomendar não reimplantar.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 79 do PDF (Parte 2, 3.1.3, rizogênese completa, mais de 60 minutos)"
+        },
+        {
+          "texto": "Reimplantar, com a expectativa de que as células do ligamento estejam viáveis.",
+          "correta": false,
+          "justificativa": "Acima de 60 minutos, o grupo é de células provavelmente inviáveis.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 76 do PDF (Parte 2, tempo extra-alveolar)"
+        },
+        {
+          "texto": "Extrair o dente na primeira consulta, para evitar anquilose.",
+          "correta": false,
+          "justificativa": "Reimplantar é quase sempre a melhor decisão mesmo acima de 60 minutos; se necessário, o dente pode ser extraído depois, no momento apropriado e após avaliação interdisciplinar.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 78 e 79 do PDF (Parte 2, 3.1.3, rizogênese completa, mais de 60 minutos)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 78 e 79 do PDF (Parte 2, 3.1.3, rizogênese completa, mais de 60 minutos)",
+      "secao": "av-fechado-tardio",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Um adulto teve o incisivo central avulsionado, ápice fechado, e um familiar reimplantou o dente no local. Na chegada ao consultório o dente está na posição correta. Qual conduta a IADT indica?",
+      "alternativas": [
+        {
+          "texto": "Remover o dente e repetir o reimplante lento.",
+          "correta": false,
+          "justificativa": "A diretriz manda manter no lugar o dente reimplantado; só se corrige com leve pressão digital se estiver mal posicionado.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 76 do PDF (Parte 2, 3.1.1, rizogênese completa, reimplantado antes da chegada)"
+        },
+        {
+          "texto": "Contenção flexível por 2 semanas e endodontia em até 2 semanas.",
+          "correta": true,
+          "justificativa": "É a conduta de 3.1.1: contenção flexível por 2 semanas e endodontia em até 2 semanas após o reimplante.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 76 do PDF (Parte 2, 3.1.1, rizogênese completa, reimplantado antes da chegada)"
+        },
+        {
+          "texto": "Contenção flexível por 2 semanas, sem endodontia.",
+          "correta": false,
+          "justificativa": "Com rizogênese completa, a IADT indica endodontia em até 2 semanas após o reimplante.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 76 do PDF (Parte 2, 3.1.1, rizogênese completa, reimplantado antes da chegada)"
+        },
+        {
+          "texto": "Evitar a endodontia, a menos que haja sinais de necrose nas consultas de acompanhamento.",
+          "correta": false,
+          "justificativa": "Essa é a conduta do dente com rizogênese incompleta, não do de ápice fechado.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 76 do PDF (Parte 2, 3.1.1, rizogênese completa, reimplantado antes da chegada)",
+      "secao": "av-fechado",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Criança com incisivo de rizogênese incompleta, avulsionado e reimplantado no local, com boa posição. Qual a conduta da IADT em relação à endodontia?",
+      "alternativas": [
+        {
+          "texto": "Iniciar a endodontia em até 2 semanas, com hidróxido de cálcio.",
+          "correta": false,
+          "justificativa": "Esse prazo e essa medicação são da rizogênese completa.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)"
+        },
+        {
+          "texto": "Fazer a obturação do canal na primeira consulta, para evitar a reabsorção.",
+          "correta": false,
+          "justificativa": "A IADT manda evitar a endodontia, para permitir a revascularização pulpar.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 80 do PDF (Parte 2, 3.2.1, rizogênese incompleta, reimplantado antes da chegada)"
+        },
+        {
+          "texto": "Evitar a endodontia, a não ser que o acompanhamento mostre sinais clínicos e radiográficos de necrose pulpar.",
+          "correta": true,
+          "justificativa": "Com rizogênese incompleta, o objetivo é permitir a revascularização; a endodontia entra só diante de sinais de necrose.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)"
+        },
+        {
+          "texto": "Iniciar a endodontia em 1 semana, para prevenir a reabsorção inflamatória.",
+          "correta": false,
+          "justificativa": "A IADT manda evitar a endodontia e avaliar antes o risco de reabsorção inflamatória; ela entra se houver sinais de necrose.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, p. 86 do PDF (Parte 2, endodontia)",
+      "secao": "av-endodontia",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Qual afirmação sobre antibiótico sistêmico após reimplante está de acordo com a IADT?",
+      "alternativas": [
+        {
+          "texto": "Amoxicilina e penicilina são as primeiras escolhas.",
+          "correta": true,
+          "justificativa": "A diretriz dá amoxicilina e penicilina como primeiras escolhas e recomenda o antibiótico para reduzir infecção e reabsorção inflamatória.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)"
+        },
+        {
+          "texto": "Doxiciclina é a primeira escolha, sem ressalvas.",
+          "correta": false,
+          "justificativa": "A doxiciclina é apropriada, mas a diretriz manda considerar o risco de descoloração; as primeiras escolhas são amoxicilina e penicilina.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)"
+        },
+        {
+          "texto": "Não se recomenda antibiótico sistêmico, porque o valor dele é questionado.",
+          "correta": false,
+          "justificativa": "A IADT reconhece a dúvida, mas recomenda o antibiótico para reduzir infecção e reabsorção inflamatória.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)"
+        },
+        {
+          "texto": "O antibiótico tópico na raiz tem efeito comprovado e é recomendado.",
+          "correta": false,
+          "justificativa": "A diretriz diz que o efeito do antibiótico tópico é incerto e que antibiótico, duração ou método específicos não podem ser recomendados.",
+          "fonte": "iadt2020-2",
+          "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)"
+        }
+      ],
+      "fonte": "iadt2020-2",
+      "onde": "tradução IADT, pp. 83 e 84 do PDF (Parte 2, antibiótico sistêmico)",
+      "secao": "av-medicacao",
+      "figura": null
+    }
+  ]
+}

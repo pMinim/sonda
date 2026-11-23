@@ -1,0 +1,586 @@
+{
+  "slug": "acidentes-de-procedimento-em-endodontia",
+  "titulo": "Acidentes de procedimento: degrau, transporte, perfuração, fratura de instrumento e extrusão de material obturador",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 8, 10 e 20",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    },
+    {
+      "id": "cohen12-cap10",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 10, Retratamento Não Cirúrgico, p. 385–386 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 10"
+    },
+    {
+      "id": "cohen12-cap20",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 20, Manejo de Eventos Iatrogênicos, p. 737–787 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 20"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "fratura-cap8",
+      "titulo": "Fratura de instrumento (cap. 8)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286",
+      "texto": "No cap. 8, a fratura de instrumento abre a lista de imprevistos da modelagem.\n\n**Frequência (cap. 8, p. 284).** A maioria dos relatos aponta cerca de **1 a 6%** para a lima manual e **0,4 a 5%** para o instrumento rotatório. O cap. 20 (p. 740) traz outros números: 0,4 a 23% de limas de NiTi separadas, e cerca de 5% relatado por endodontistas.\n\n**Dois modos de fraturar (instrumento de rotação contínua):**\n- **Torção:** a ponta fica travada no canal e o cabo continua girando.\n- **Flexão:** cargas cíclicas cansam o metal (fadiga). Por isso não se fabricam instrumentos de aço inoxidável de rotação contínua: o aço fadiga depois de poucos ciclos. O NiTi resiste a mais ciclos, mas ainda pode fraturar no canal.\n\n**Por que importa.** O fragmento limita o acesso do irrigante ao sistema de canais e pode impedir a eliminação dos microrganismos. O capítulo também diz que as evidências clínicas atuais não sugerem taxa de insucesso maior com instrumento fraturado quando o tratamento é feito por especialistas.\n\n**O que o seu gesto muda (p. 285).**\n- A abordagem **coroa-ápice** (crown down) é recomendada para reduzir a carga de torção: evita que uma grande porção do instrumento cônico encoste na dentina de uma vez, fenômeno que o livro chama de taper-lock.\n- A pressão axial muda o torque. Para os instrumentos de NiTi atuais, o livro recomenda toque bastante suave, sem forçar nem travar o instrumento. Fusões, dilacerações e divisões do canal também podem travá-lo.\n- Trabalhar com torque alto pode diminuir a resistência à fadiga cíclica.\n\n**Se o instrumento fraturou (p. 286).** Avalie com cuidado antes de tentar remover. Ward e colaboradores sugeriram tentar só quando o fragmento está do lado coronário de uma curvatura significativa do canal e visível com magnificação. A remoção é possível em muitas situações, mas pode causar dano adicional, como perfuração: faça a análise de riscos e benefícios antes. O livro remete as técnicas sofisticadas de remoção ao cap. 20."
+    },
+    {
+      "id": "desvio-cap8",
+      "titulo": "Desvio do canal, zip e degrau (cap. 8)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Desvio do canal, pp. 286–287",
+      "texto": "No cap. 8, as aberrações em relação à trajetória original do canal são talvez os resultados adversos mais frequentes da modelagem: formação de zip e de ombro, degrau, perfuração e desgaste excessivo.\n\n**\"Desvio do canal\" no cap. 8 (p. 286).** O livro chama de desvio do canal a origem de todos esses problemas e o define como a retirada de parede na **curvatura externa, na metade apical** do canal. A causa é a tendência das limas de se retificarem.\n- Durante a modelagem, o desvio tira dentina demais e pode acabar em perfuração em fita.\n- O livro também fala em transporte apical: ele pode levar à formação de zip ou a uma perfuração apical evidente.\n- Tipicamente o desvio ocorre em direção à parede interna (convexa) na porção média da raiz e na curvatura externa, apicalmente.\n\n**Quanto é aceitável.** Qualquer preparo desvia ao longo do eixo do canal (o centro de gravidade das secções transversais). O livro diz que se afirma que um transporte de cerca de **100 a 150 µm** pode ser clinicamente aceitável.\n\n**Degrau como consequência.** Se o transporte levou à formação de degrau, os instrumentos seguintes só ultrapassam o degrau se forem pré-curvados adequadamente. Com rotatórios, o livro recomenda usar instrumentos manuais de tamanho comparável. A definição de degrau no cap. 8 está na seção seguinte, junto com o bloqueio.\n\n**Atenção:** os outros capítulos usam as palavras de outro modo. No cap. 20 (p. 753), transporte é a remoção de parede na curva externa, na metade radicular, e desvio é a irregularidade artificial na parede; no cap. 10 (p. 385), \"degrau ou desvio\" aparecem juntos."
+    },
+    {
+      "id": "perfuracao-bloqueio-cap8",
+      "titulo": "Perfuração, degrau e bloqueio (cap. 8)",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, pp. 286–287",
+      "texto": "**Perfuração: três tipos (cap. 8, p. 287).**\n- **Em fita**, na direção da furca em dentes multirradiculares (também chamadas de \"zonas de perigo\").\n- Associadas às **curvaturas do canal**.\n- **Através do forame apical.**\n\nA perfuração pode ser o resultado final do desvio, quando ocorre dentro do sistema de canais. Outras perfurações acontecem na cavidade de acesso (preparo da cavidade de acesso, cap. 7). O cap. 20 não tem seção sobre perfuração radicular (p. 737); entre os capítulos deste tema, os três tipos estão só no cap. 8. O reparo de perfurações é tratado no cap. 10 (retratamento), que não faz parte deste tema. O preparo de canais mineralizados exige habilidade avançada do operador e é facilitado pela magnificação.\n\n**Bloqueio: dois problemas parecidos (p. 287).** Um canal pode ficar impossível de instrumentar por duas ocorrências diferentes, mas muitas vezes ligadas.\n- **Degrau:** plataforma de dentina que os instrumentos formam ao retificar e desgastar a parede do lado **convexo**. Nos casos menos intensos, pode ser corrigido com instrumentos pré-curvados. Pode levar a falsos trajetos e impedir a obturação adequada, quando os cones principais não alcançam o comprimento de trabalho.\n- **Bloqueio:** trecho do canal entupido por restos compactados ou por polpa colágena que sobrou. Também pode vir de outros obstáculos, como limas fraturadas ou restos de material obturador preexistente.\n\n**Como reconhecer.** O sinal clínico de degrau ou de bloqueio é a incapacidade de um instrumento reto e flexível penetrar mais fundo no canal. Diferencie de canal estreito ou mineralizado, em que porções mais longas das hélices de corte do instrumento ficam travadas. Outra explicação possível para a sensação de bloqueio é uma curvatura muito abrupta do canal.\n\n**Por que preocupa.** O bloqueio impede a desinfecção da porção apical. As estratégias para degraus e bloqueios estão no cap. 10 (seção própria, mais abaixo)."
+    },
+    {
+      "id": "fratura-causas-cap20",
+      "titulo": "Fratura de instrumento: causas e como reconhecer (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Causas da fratura de instrumentos, pp. 739–740",
+      "texto": "No cap. 20, a fratura de instrumento tem seção própria, com números diferentes dos do cap. 8 (p. 284), que fala em cerca de 1 a 6% para a lima manual e 0,4 a 5% para o rotatório.\n\n**Quanto fratura (cap. 20, p. 740).** A incidência relatada de limas de NiTi separadas varia de **0,4 a 23%**. O texto diz que endodontistas relataram cerca de **5%**. A fratura parece mais frequente em molares, sobretudo inferiores, por causa do acesso, do diâmetro e da curvatura do canal.\n\n**Como reconhecer (p. 739).** Na radiografia, o instrumento fraturado costuma aparecer como uma radiopacidade distinta dentro do canal. Se o canal for obturado depois com material radiopaco, o fragmento pode não ser visto. Ao remover a obturação, ele pode surgir ao microscópio ou, pela primeira vez, na radiografia.\n\n**Causas comuns (p. 740).**\n- Uso impróprio: acesso inadequado, uso excessivo do mesmo instrumento, muita pressão apical e uso contínuo de instrumento calibroso em curva do canal.\n- Outros fatores: experiência do operador, velocidade de rotação, curvatura (raio) do canal, desenho e liga do instrumento, torque, tipo de movimento (contínuo ou reciprocante), tipo de dente e falta de acesso livre.\n\n**Mecanismos (p. 740).**\n- **Fadiga cíclica:** tensões repetidas de compressão e tração na parte externa de uma lima que gira em canal curvo. A lima falha sem sinal prévio de deformação. Parece mais prevalente em canal curvo.\n- **Torção:** a ponta emperra e a haste continua girando; o instrumento rompe por cisalhamento. Pode ocorrer até em canal reto.\n- Instrumento com fadiga cíclica fica menos resistente à torção, e torque alto no ajuste do motor aumenta o risco de fadiga cíclica.\n- Calibres e conicidades menores resistem mais à fadiga cíclica e são mais suscetíveis à torção; os maiores fazem o oposto. Por isso instrumentos menores devem modelar onde se espera fadiga cíclica.\n- O movimento reciprocante costuma estender a vida útil do instrumento. O livro recomenda descartar os instrumentos usados em canais curvos depois do uso."
+    },
+    {
+      "id": "fratura-manejo-cap20",
+      "titulo": "Fratura de instrumento: o que fazer e prognóstico (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Manejo, Taxa de sucesso e Prognóstico, pp. 740–742 e 753",
+      "texto": "**Opções de manejo (cap. 20, p. 740).** O livro as divide em duas famílias: não cirúrgicas (mecânicas ou químicas) e cirúrgicas, em geral relativamente invasivas pela dentina perdida. Não remover também é um plano: a lima pode ser incorporada à obturação e mantida em observação (p. 742). Em paciente, o clínico informa sobre a fratura, as opções e as complicações de reter ou de tentar remover.\n\n**Números do cap. 20 sobre a remoção (p. 742).**\n- Taxa de sucesso na remoção de limas fraturadas: de **33 a 95%**, com tempo de 3 a mais de 60 minutos usando ultrassom.\n- Ela varia com a localização do fragmento, o diâmetro e a curvatura do canal, a experiência e a fadiga do operador e o comprimento do fragmento: alta para limas antes da curvatura, moderada na curvatura, baixa além dela.\n- Recomenda-se que as tentativas não passem de **45 a 60 minutos**. O sucesso pode cair com o tempo, e a fadiga do operador ou o desgaste excessivo do canal compromete o dente e aumenta o risco de perfuração.\n- O pior cenário é decidir manter a lima só depois de sacrificar muita dentina ou de perfurar. O melhor é ter diagnóstico preciso e plano antes da primeira tentativa.\n\n**Calor do ultrassom (p. 742).** O calor é inevitável. Aumento de temperatura acima de **10 °C** na superfície externa da raiz pode danificar os tecidos periodontais. Use pulsação, movimentos para dentro e para fora e a menor potência possível. Ponta ultrassônica em contato com a lima deixa o instrumento suscetível a fratura secundária.\n\n**Prognóstico (p. 753).** O instrumento no canal não condena o caso: o que determina o prognóstico é o tecido infectado que sobra. Em outras palavras, depende mais de remover a infecção do que de remover o instrumento. Quanto mais perto do fim do preparo o instrumento fraturou, melhor. Tentar remover de canal curvo pode causar remoção excessiva de dentina, fratura secundária, perfuração e até fratura da raiz.\n\nO capítulo descreve com detalhe técnicas de remoção de especialista; elas não entram neste tema. O cap. 8 (p. 286) também diz que a remoção é possível em muitas situações, mas pode causar dano adicional, como perfuração."
+    },
+    {
+      "id": "desvio-cap20-causas",
+      "titulo": "Desvio: definição, causas e como reconhecer (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Causas e Manejo (reconhecimento), pp. 753–754",
+      "texto": "No cap. 20, a seção \"Formação de desvio\" parte do Glossário da AAE (associação de endodontia dos EUA, citada pelo livro).\n\n**Definições do cap. 20 (p. 753).**\n- **Desvio:** \"irregularidade artificial criada na superfície da parede do canal radicular\", que impede colocar o instrumento no ápice de um canal que de outra forma seria patente.\n- **Transporte do canal:** remoção de estrutura da parede na curva externa, na **metade radicular** do canal, pela tendência das limas de voltarem à forma linear. O transporte provoca a deformação apical do canal (zip) e possível perfuração. O cap. 8 (p. 286) diz metade apical para o que chama de desvio do canal.\n- O desvio dificulta modelar e limpar o canal além dele. O livro vê possível relação entre desvio e resultado desfavorável.\n\n**Causas (p. 754).** O desvio ocorre no preparo, principalmente em canais muito curvos. O texto aponta, com ressalva, as razões mais comuns: não pré-curvar os instrumentos, não conseguir acesso adequado ao ápice e pressionar limas calibrosas em canais curvos. A incidência aumenta bastante com curvatura **acima de 20°**; no estudo citado, mais de **50%** dos canais ficaram desviados com curvatura **acima de 30°**.\n\nO Boxe 20.1 lista 14 causas possíveis. As que se vê na bancada: abertura coronária que não dá acesso adequado à parte radicular; forçar o instrumento contra a parede; instrumento calibroso de aço sem pré-curvar em canal curvo; não seguir a ordem sequencial dos instrumentos; girar a lima em excesso no comprimento de trabalho; irrigação ou lubrificação inadequada; depender demais de quelante; compactar detritos na porção apical; negociar canal calcificado; tentar remover instrumento fraturado.\n\n**Como reconhecer (p. 754).**\n- **Pelo tato:** o canal fica \"retificado\" no ponto em que a lima deixa de se ajustar à curva. De repente a lima parece solta dentro do canal, sem a sensação da ponta encravando na parede.\n- **Na radiografia:** a ponta do instrumento se afasta da curvatura do canal, o que torna o desvio na parede altamente provável. Em raiz com um canal só, a ponta deve aparecer no ponto médio da raiz, porque o canal está sempre no centro."
+    },
+    {
+      "id": "desvio-cap20-manejo",
+      "titulo": "Desvio: prevenir, ultrapassar e prognóstico (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Ultrapassagem, Prevenção e Prognóstico, pp. 754–763",
+      "texto": "**Prevenir (p. 762).**\n- Crie um glide path (acesso livre ao terço apical): ele garante que o canal tenha diâmetro para receber o primeiro instrumento de preparo.\n- Pré-curve os instrumentos e não os force no canal.\n- Prefira NiTi ao aço: a flexibilidade ajuda a manter o instrumento centrado. Pontas não cortantes, arredondadas, deslizam ao lado da parede e mantêm a curvatura original.\n- Segundo o livro, a instrumentação reciprocante de NiTi mostra menos desvios e fraturas que a rotatória com K-file/NiTi, mesmo nas mãos de clínicos novatos.\n\n**Ultrapassar o desvio.**\n- Ao reconhecer o desvio, escolha a lima mais curta possível que alcance o comprimento de trabalho. Ela é mais rígida, deixa os dedos mais perto da ponta e dá mais tato e controle (p. 754).\n- Sem microscópio (p. 757): lima K #8 ou #10 pré-curvada, cursor de borracha com o indicador apontado para a direção do caminho original, ligeira rotação da lima e movimento de bicada até o comprimento de trabalho. Se não funcionar, alargue o canal na porção coronária ao desvio, em direção anticurvatura, e use uma lima K menor com a ponta pré-curvada.\n- Antes de ultrapassar, alargue o canal até a área coronária ao desvio, para localizar e abrir a via original (p. 757).\n- Com microscópio e tomografia, o capítulo descreve microinstrumentos e pontas ultrassônicas. É trabalho de especialista e não entra neste tema.\n\n**O que pode piorar (p. 757).** Fratura do instrumento, perfuração da raiz e piora do desvio. Remoção excessiva de dentina compromete a integridade do dente e aumenta o risco de perfuração ou de fratura da raiz. Não tire estrutura demais nem sobrecarregue os instrumentos. Se nenhuma técnica ultrapassa o desvio e há sinais persistentes de lesão perirradicular, as opções ficam limitadas, e a intervenção cirúrgica está entre elas.\n\n**Prognóstico (p. 763).** O desvio é análogo a qualquer obstrução que impeça a limpeza e a modelagem até o fim do canal. O desvio não negociado pode ter prognóstico parecido com o de um canal com instrumento fraturado retido. Se for ultrapassado ou eliminado, ou se o canal além dele puder ser limpo sem alargamento excessivo ou perfuração, o prognóstico não deve ser comprometido."
+    },
+    {
+      "id": "degrau-cap10",
+      "titulo": "Degrau e bloqueio: o que fazer com a lima (cap. 10)",
+      "fonte": "cohen12-cap10",
+      "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386",
+      "texto": "O cap. 10 trata do degrau e do bloqueio dentro do retratamento; retratamento não entra neste tema, só o que se faz com a lima.\n\n**Palavras (p. 385).** O cap. 10 usa **\"degrau ou desvio\"** juntos: irregularidade no lado de fora da curvatura, difícil ou impossível de transpor, resultado de instrumentos não pré-curvados e de muita pressão apical em canais curvos. O cap. 8 (p. 287) chama de degrau a plataforma de dentina no lado convexo da parede. O espaço depois do degrau não é limpo nem selado por completo, e isso muitas vezes leva a doença pós-tratamento. O melhor é prevenir: instrumente com cautela e confirme a patência apical regularmente.\n\n**Bloqueio (p. 385).**\n- Sonde com delicadeza, com lima pré-curvada #8 ou #10; o stop de borracha mostra a direção da ponta.\n- Aspire e irrigue com frequência e use lubrificante.\n- Faça pressão apical suave ou bicadas contra o bloqueio até avançar. É lento.\n- Não gire a lima demais: ponta fina presa fica predisposta à fratura. Reduza o calibre e use rotação recíproca suave.\n- Ao chegar ao comprimento de trabalho, confirme com radiografia e faça movimentos de penetração e retirada de **1 a 2 mm** até a lima passar livre.\n\n**Degrau (pp. 385–386).**\n- Se, depois de tempo razoável, nenhum ponto de travamento aparece, suspeite de degrau mesmo sem vê-lo na radiografia. Não agrave instrumentando sem critério.\n- Pré-curve a ponta de uma lima fina **#08 ou #10 nos 2 mm finais**, a cerca de **45°** com o eixo, e oriente o stop de borracha para a curvatura.\n- Leve a ponta devagar pela parede interna, um pouco abaixo do degrau, até outro ponto de travamento: a entrada do terço apical. A rotação recíproca suave ajuda; confirme com radiografia.\n- Passado o degrau, movimentos curtos de penetração e retirada limpam o espaço apical. Quando a lima entra com facilidade, a instrumentação anticurvatura permite incorporar o degrau ao preparo. Se o terço apical puder ser limpo e obturado, o prognóstico não deve ser afetado."
+    },
+    {
+      "id": "extrusao-cap20",
+      "titulo": "Extrusão de material de obturação (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Extrusão radicular de materiais de obturação do canal radicular, pp. 763–770",
+      "texto": "Extrusão é a passagem de material de obturação, tecido necrótico, bactérias, medicamento ou irrigante além do forame ou de uma perfuração. Pode ocorrer na obturação ou na remoção do material obturador.\n\n**Por que evitar (p. 763).** Material extravasado está associado a inflamação pós-tratamento, agudização e falta de cicatrização perirradicular. Estudos histológicos in vivo mostram resultado mais favorável quando o material de obturação fica dentro da constrição radicular. A guta-percha extravasada pode provocar reação inflamatória grave. Alguns materiais, como o MTA, são mais biocompatíveis e não parecem causar muita inflamação perirradicular.\n\n**O que leva à extrusão (p. 764).**\n- Quase toda técnica de instrumentação ou de obturação extravasa detritos.\n- O excesso vem principalmente da falta de controle do material. O grau depende das técnicas de preparo e de obturação, incluindo instrumentação excessiva acidental e comprimento de trabalho incorreto.\n- Cuidado extra em ápice aberto e em forame aumentado.\n- A compactação vertical a quente pode extravasar guta-percha; a técnica com carreador extravasa ainda mais que ela.\n- Canal mais uniformemente afilado extravasa menos.\n\n**Se acontecer (pp. 766 e 770).**\n- Guta-percha mal compactada pode sair em grandes massas, mas a porção extravasada muitas vezes fica no tecido perirradicular.\n- Uma tentativa de remoção: lima Hedstrom nova, geralmente #15 ou #20, na obturação, com rotação suave no sentido horário até 0,5 a 1 mm além da constrição radicular; retire devagar e com firmeza, sem rotação. Funciona com frequência, mas não force a lima, para não fraturá-la nem empurrar mais a guta-percha.\n- O MTA extravasado para os tecidos perirradiculares não precisa ser removido: o livro atribui isso à biocompatibilidade e às propriedades antibacterianas do cimento de silicato de cálcio.\n- A maioria dos danos teciduais é tratada sem cirurgia: analgésicos, compressas frias, corticosteroides e antibióticos.\n\n**Perto do seio maxilar e do nervo alveolar inferior.** O extravasamento pode causar sinusite, aspergilose, parestesia e outras complicações neurais. O livro diz que pastas com paraformaldeído não são recomendadas para obturação. O manejo dessas complicações é de especialista e não entra neste tema."
+    },
+    {
+      "id": "hipoclorito-cap20",
+      "titulo": "Acidente com hipoclorito (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Hipoclorito de sódio, pp. 737–739",
+      "texto": "O extravasamento de hipoclorito de sódio para o tecido perirradicular causa dor intensa e imediata, edema acentuado e hemorragia no canal, com evolução rápida e muitas vezes sem aviso (cap. 20, pp. 737–739). Para prevenir, estabeleça o comprimento de trabalho com precisão, evite ampliar o forame e, se irrigar com pressão positiva, use agulha pequena com abertura lateral 2 mm aquém do comprimento de trabalho, sem travá-la no canal (p. 739). Reconhecimento, conduta e antibiótico (cap. 8, p. 271; cap. 20, p. 739) estão no tema de irrigação endodôntica."
+    },
+    {
+      "id": "enfisema-cap20",
+      "titulo": "Enfisema subcutâneo cervicofacial (cap. 20)",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778",
+      "texto": "Enfisema subcutâneo é a entrada de ar na pele e na submucosa; na endodontia pode vir de ar comprimido (seringa de ar ou peça de mão de alta velocidade) ou de peróxido de hidrogênio além do canal, e dá inchaço sem vermelhidão, com crepitação à palpação (cap. 20, p. 778). Para evitar: isole com dique de borracha, seque os canais com pontas de papel ou aspiração de alto volume em vez de seringa de ar e evite o peróxido de hidrogênio."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "No instrumento de rotação contínua, qual a diferença entre fratura por torção e por flexão (cap. 8)?",
+      "verso": "Torção: a ponta fica travada no canal e o cabo continua girando. Flexão: cargas cíclicas levam o metal à fadiga.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–285"
+    },
+    {
+      "id": "f04",
+      "frente": "Que abordagem o cap. 8 recomenda para reduzir a carga de torção do rotatório, e por quê?",
+      "verso": "Coroa-ápice (crown down): evita que uma grande porção do instrumento cônico encoste na dentina de uma vez (taper-lock).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286"
+    },
+    {
+      "id": "f05",
+      "frente": "Segundo o cap. 20, até quanto tempo se recomenda tentar remover uma lima fraturada?",
+      "verso": "Não mais que 45 a 60 minutos. O sucesso pode cair com o tempo, e a fadiga do operador ou o desgaste excessivo aumenta o risco de perfuração.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Condições para tentativas de remoção, pp. 741–743"
+    },
+    {
+      "id": "f06",
+      "frente": "No ultrassom, que aumento de temperatura na superfície externa da raiz pode danificar o periodonto (cap. 20)?",
+      "verso": "Acima de 10 °C. O calor é inevitável: use pulsação e a menor potência possível.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Condições para tentativas de remoção, pp. 741–743"
+    },
+    {
+      "id": "f07",
+      "frente": "Quais são os três tipos de perfuração descritos no cap. 8?",
+      "verso": "Em fita (na direção da furca, as \"zonas de perigo\"), associadas às curvaturas do canal e através do forame apical.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, pp. 286–287"
+    },
+    {
+      "id": "f08",
+      "frente": "O que é degrau no cap. 8?",
+      "verso": "Uma plataforma de dentina que os instrumentos formam ao retificar e desgastar a parede do lado convexo do canal.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, pp. 286–287"
+    },
+    {
+      "id": "f09",
+      "frente": "No cap. 8, onde o desvio do canal remove parede?",
+      "verso": "Na curvatura externa, na metade apical do canal, pela tendência das limas de se retificarem.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Desvio do canal, pp. 286–287"
+    },
+    {
+      "id": "f10",
+      "frente": "No cap. 20, como se define desvio, e em que metade do canal fica o transporte?",
+      "verso": "Desvio, pelo Glossário da AAE: irregularidade artificial na parede que impede o instrumento de chegar ao ápice. Transporte: remoção de parede na curva externa, na metade radicular.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, p. 753"
+    },
+    {
+      "id": "f11",
+      "frente": "Como reconhecer um desvio pelo tato e pela radiografia (cap. 20)?",
+      "verso": "Tato: de repente a lima fica solta, sem a ponta encravar na parede. Radiografia: a ponta do instrumento se afasta da curvatura do canal.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Manejo (reconhecimento), p. 754"
+    },
+    {
+      "id": "f12",
+      "frente": "Segundo o cap. 10, como preparar a lima para ultrapassar um degrau?",
+      "verso": "Lima fina #08 ou #10 pré-curvada nos 2 mm finais, a cerca de 45° com o eixo, com o stop de borracha orientado para a curvatura.",
+      "fonte": "cohen12-cap10",
+      "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386"
+    },
+    {
+      "id": "f15",
+      "frente": "O que o cap. 20 manda usar para secar o canal no lugar da seringa de ar?",
+      "verso": "Pontas de papel ou aspiração de alto volume, com dique de borracha: o ar comprimido pode forçar ar para os tecidos e causar enfisema.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778"
+    },
+    {
+      "id": "f16",
+      "frente": "Por que evitar que o material obturador passe do forame (cap. 20)?",
+      "verso": "O material extravasado se associa a inflamação, agudização e falta de cicatrização perirradicular. O resultado é mais favorável com o material dentro da constrição.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Extrusão radicular de materiais de obturação, pp. 763–764"
+    },
+    {
+      "id": "f17",
+      "frente": "Como prevenir o desvio ao preparar um canal curvo (cap. 20)?",
+      "verso": "Criar um glide path (acesso livre ao terço apical), pré-curvar os instrumentos, não forçá-los no canal e preferir NiTi ao aço.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Prevenção, p. 762"
+    },
+    {
+      "id": "f18",
+      "frente": "No cap. 20, o que distingue a fratura por fadiga cíclica da fratura por torção?",
+      "verso": "Fadiga cíclica: tensões repetidas de compressão e tração em lima que gira em canal curvo, sem deformação prévia. Torção: a ponta emperra e a haste continua girando; pode ocorrer até em canal reto.",
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Causas da fratura de instrumentos, p. 740"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Você instrumenta um canal curvo de dente extraído com NiTi rotatório. A ponta do instrumento fica presa e o cabo segue girando. Segundo o cap. 8 do Cohen, que fratura isso indica e o que reduz o risco?",
+      "alternativas": [
+        {
+          "texto": "Fratura por flexão, de fadiga cíclica; trocar para lima de aço inoxidável em rotação contínua resolve o problema.",
+          "correta": false,
+          "justificativa": "Ponta presa e cabo girando descrevem torção, não flexão. Além disso, o cap. 8 diz que não se fabricam instrumentos de aço inoxidável de rotação contínua, porque o aço fadiga após poucos ciclos.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–285"
+        },
+        {
+          "texto": "Fratura por torção; a abordagem coroa-ápice e o toque suave reduzem a carga de torção.",
+          "correta": true,
+          "justificativa": "A fratura torcional ocorre quando a ponta fica travada e o cabo continua a girar. O livro recomenda a abordagem coroa-ápice para reduzir a carga de torção e toque bastante suave, sem forçar nem travar o instrumento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–285"
+        },
+        {
+          "texto": "Fratura por flexão; aumentar a pressão axial mantém o instrumento centrado e evita a fadiga.",
+          "correta": false,
+          "justificativa": "O quadro do enunciado (ponta presa, cabo girando) é de torção. O livro recomenda toque suave: mais pressão axial força e trava o instrumento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, p. 285"
+        },
+        {
+          "texto": "Fratura por torção; a abordagem coroa-ápice é indicada porque aumenta a área de contato com a dentina.",
+          "correta": false,
+          "justificativa": "O livro diz que a abordagem coroa-ápice evita que uma grande porção do instrumento cônico encoste na dentina (taper-lock). Ela diminui a área de contato, não a aumenta.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, p. 285"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–285",
+      "secao": "fratura-cap8",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Em dente extraído, uma lima rotatória fraturou depois de uma curvatura acentuada, e o fragmento não aparece nem com magnificação. Segundo o cap. 8 do Cohen, qual a conduta antes de qualquer tentativa de remoção?",
+      "alternativas": [
+        {
+          "texto": "Tentar remover de imediato com a mesma técnica, porque a remoção do fragmento é sempre possível.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que a remoção é possível em muitas situações, não em todas, e que existe potencial de dano adicional, como perfuração.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286"
+        },
+        {
+          "texto": "Tentar de imediato com as técnicas do cap. 20, descritas como seguras para qualquer posição do fragmento.",
+          "correta": false,
+          "justificativa": "O cap. 8 pede avaliação cuidadosa antes de tentar remover e análise de riscos e benefícios; a remoção é possível em muitas situações, mas pode causar dano adicional, como perfuração.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286"
+        },
+        {
+          "texto": "Tentar de imediato, porque todo fragmento retido aumenta a taxa de insucesso do tratamento.",
+          "correta": false,
+          "justificativa": "O cap. 8 diz que as evidências clínicas atuais não sugerem taxa de insucesso maior com instrumento fraturado quando o tratamento é feito por especialistas.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286"
+        },
+        {
+          "texto": "Avaliar riscos e benefícios: o fragmento está além da curvatura e sem visão, e a tentativa pode causar perfuração.",
+          "correta": true,
+          "justificativa": "Ward e colaboradores sugeriram tentar a remoção só quando o fragmento está do lado coronário de uma curvatura significativa e visível com magnificação. O livro pede análise de riscos e benefícios porque a tentativa pode causar dano, como perfuração.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, pp. 284–286",
+      "secao": "fratura-cap8",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Ao modelar um canal curvo, o instrumento reto e flexível deixa de avançar. Ao explorar com uma lima fina, a ponta cai numa plataforma de dentina. Segundo o cap. 8 do Cohen, isso é:",
+      "alternativas": [
+        {
+          "texto": "Degrau.",
+          "correta": true,
+          "justificativa": "No cap. 8, degrau é a plataforma de dentina que os instrumentos formam ao retificar e desgastar a parede do lado convexo. Pode levar a falsos trajetos e impedir a obturação adequada.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, p. 287"
+        },
+        {
+          "texto": "Bloqueio, porque o canal está preenchido por resíduos densamente compactados.",
+          "correta": false,
+          "justificativa": "O bloqueio, no cap. 8, é o trecho entupido por restos compactados ou por polpa colágena. O enunciado descreve uma plataforma de dentina, que é o degrau.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, p. 287"
+        },
+        {
+          "texto": "Perfuração em fita, na direção da furca.",
+          "correta": false,
+          "justificativa": "A perfuração em fita é um dos três tipos de perfuração, na direção da furca. O enunciado descreve plataforma no lado convexo da parede, não perfuração na direção da furca.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Perfuração, p. 287"
+        },
+        {
+          "texto": "Canal mineralizado, em que as hélices de corte longas ficam travadas.",
+          "correta": false,
+          "justificativa": "O livro manda diferenciar o degrau do canal estreito ou mineralizado, que trava porções mais longas das hélices. Aqui há uma plataforma criada pelos instrumentos, não um canal calcificado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, p. 287"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, p. 287",
+      "secao": "perfuracao-bloqueio-cap8",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Em dente extraído de canal curvo, você pressiona uma lima de aço calibrosa e ela tende a se retificar, sem fraturar. Segundo o cap. 8 do Cohen, que problema essa tendência produz e onde?",
+      "alternativas": [
+        {
+          "texto": "Bloqueio, com resíduos densamente compactados na curvatura externa.",
+          "correta": false,
+          "justificativa": "No cap. 8, o bloqueio é área preenchida por resíduos ou por polpa colágena. O enunciado descreve a lima se retificando, que é o mecanismo do desvio do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Bloqueio, p. 287"
+        },
+        {
+          "texto": "Desvio do canal, mas na curvatura interna, na metade coronária da raiz.",
+          "correta": false,
+          "justificativa": "O livro põe a remoção de parede na curvatura externa, na metade apical, e não na curvatura interna da metade coronária.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Desvio do canal, p. 286"
+        },
+        {
+          "texto": "Desvio do canal: remoção de parede na curvatura externa, na metade apical, pela tendência das limas de se retificarem.",
+          "correta": true,
+          "justificativa": "O cap. 8 define o desvio do canal como a remoção de estrutura da parede na curvatura externa, na metade apical, devido à tendência de as limas se retificarem. Ele é a origem de zip, ombro, degrau, perfuração e desgaste excessivo.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Desvio do canal, p. 286"
+        },
+        {
+          "texto": "Fratura por torção, porque a lima fica travada na parede externa.",
+          "correta": false,
+          "justificativa": "O enunciado diz que a lima não fraturou. A fratura por torção exige a ponta travada com o cabo girando; aqui o que ocorre é a retificação da lima.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Fratura do instrumento, p. 284"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Sinais de imprevistos, Desvio do canal, p. 286",
+      "secao": "desvio-cap8",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Você instrumenta um canal curvo e, de repente, a lima parece solta dentro do canal, sem a sensação da ponta encravando na parede. A lima está inteira ao ser retirada. Segundo o cap. 20 do Cohen, qual a interpretação?",
+      "alternativas": [
+        {
+          "texto": "Bloqueio por detritos, porque a ponta sempre fica travada.",
+          "correta": false,
+          "justificativa": "O enunciado descreve perda da sensação de a ponta encravar na parede, não ponta travada. No cap. 20, essa perda de tato é o sinal clínico do desvio.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Manejo (reconhecimento), p. 754"
+        },
+        {
+          "texto": "Provável desvio: o canal foi retificado onde a lima deixou de se ajustar à curva.",
+          "correta": true,
+          "justificativa": "O cap. 20 descreve o canal \"retificado\" no ponto em que a lima deixa de se ajustar à curva, com sensação súbita de lima solta, sem tato da ponta encravando na parede.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Manejo (reconhecimento), p. 754"
+        },
+        {
+          "texto": "Fratura da ponta do instrumento dentro do canal.",
+          "correta": false,
+          "justificativa": "O enunciado diz que a lima saiu inteira. O cap. 20 descreve a fratura pela radiopacidade do fragmento no canal, não pela sensação de lima solta.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Fratura de instrumento, p. 739"
+        },
+        {
+          "texto": "Canal estreito, em que a lima sente a parede com mais força.",
+          "correta": false,
+          "justificativa": "O enunciado descreve ausência de contato com a parede; o cap. 8 (p. 287) descreve o canal estreito como o que trava a lima.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Sinais de imprevistos, Perfuração e Bloqueio, p. 287"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Manejo (reconhecimento), p. 754",
+      "secao": "desvio-cap20-causas",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Em dente extraído, nenhuma lima acha ponto de travamento e o canal original parece uma parede de tijolos; você suspeita de degrau. Segundo o cap. 10 do Cohen, como preparar a lima para tentar ultrapassá-lo?",
+      "alternativas": [
+        {
+          "texto": "Lima #25 reta de aço, empurrada com pressão apical firme contra a parede.",
+          "correta": false,
+          "justificativa": "O cap. 10 liga o degrau à instrumentação com muita pressão apical e a instrumentos sem pré-curvatura, e alerta para não agravá-lo instrumentando sem critério.",
+          "fonte": "cohen12-cap10",
+          "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, p. 385"
+        },
+        {
+          "texto": "Lima #10 pré-curvada a cerca de 90° com o eixo, em todo o comprimento do instrumento.",
+          "correta": false,
+          "justificativa": "O livro descreve a pré-curvatura só nos 2 mm finais da ponta e a cerca de 45° com o eixo.",
+          "fonte": "cohen12-cap10",
+          "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386"
+        },
+        {
+          "texto": "Lima reta de #10, girada continuamente no sentido horário para escavar o degrau.",
+          "correta": false,
+          "justificativa": "O cap. 10 manda não agravar o degrau instrumentando-o indiscriminadamente; a ponta da lima é pré-curvada e usada com rotação recíproca suave.",
+          "fonte": "cohen12-cap10",
+          "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386"
+        },
+        {
+          "texto": "Lima fina #08 ou #10 com os 2 mm finais pré-curvados a cerca de 45° e o stop de borracha orientado para a curvatura.",
+          "correta": true,
+          "justificativa": "É o preparo descrito no cap. 10: ponta pré-curvada nos 2 mm finais a cerca de 45° com o eixo, com o stop de borracha orientado para a curvatura, para achar a entrada do terço apical.",
+          "fonte": "cohen12-cap10",
+          "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386"
+        }
+      ],
+      "fonte": "cohen12-cap10",
+      "onde": "cap. 10, Retratamento Não Cirúrgico, Lidar com obstruções radiculares, pp. 385–386",
+      "secao": "degrau-cap10",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Em dente extraído, o canal é estreito e muito curvo (acima de 30°), e o primeiro instrumento de preparo mal entra no terço apical. Segundo o cap. 20 do Cohen, que conduta ajuda a prevenir o desvio?",
+      "alternativas": [
+        {
+          "texto": "Usar logo uma lima de aço calibrosa, sem pré-curvar, para abrir espaço.",
+          "correta": false,
+          "justificativa": "Instrumento calibroso de aço sem pré-curvar em canal curvo é causa de desvio; o livro prefere NiTi e manda pré-curvar.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Prevenção, p. 762"
+        },
+        {
+          "texto": "Criar um glide path e pré-curvar os instrumentos, sem forçá-los no canal.",
+          "correta": true,
+          "justificativa": "O glide path garante diâmetro para receber o primeiro instrumento de preparo; o livro manda pré-curvar os instrumentos e não os forçar.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Prevenção, p. 762"
+        },
+        {
+          "texto": "Forçar o primeiro instrumento de preparo até o comprimento de trabalho.",
+          "correta": false,
+          "justificativa": "O instrumento mal entra no terço apical: o livro manda não forçar, e sim criar o glide path antes.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Prevenção, p. 762"
+        },
+        {
+          "texto": "Trocar por instrumento de ponta cortante e afiada, para vencer a curvatura.",
+          "correta": false,
+          "justificativa": "O livro cita pontas não cortantes e arredondadas, que deslizam ao lado da parede e mantêm a curvatura original.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Formação de desvio, Prevenção, p. 762"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Formação de desvio, Prevenção, p. 762",
+      "secao": "desvio-cap20-manejo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o cap. 20 do Cohen, você tenta há mais de uma hora, com ultrassom, remover uma lima fraturada além da curvatura. A raiz está aquecida e o canal já foi muito desgastado. Qual a orientação?",
+      "alternativas": [
+        {
+          "texto": "Continuar com potência máxima, porque a taxa de sucesso aumenta com o tempo de tentativa.",
+          "correta": false,
+          "justificativa": "O livro diz que o sucesso pode cair com o tempo e recomenda a menor potência possível, com pulsação, porque o calor do ultrassom é inevitável.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Fratura de instrumento, Taxa de sucesso e Condições para tentativas de remoção, pp. 741–743"
+        },
+        {
+          "texto": "Concluir que o dente está condenado, porque instrumento fraturado leva sempre à doença pós-operatória.",
+          "correta": false,
+          "justificativa": "O cap. 20 diz que a presença do instrumento no canal não condena o caso: o prognóstico depende mais de remover a infecção do que de remover o instrumento.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Fratura de instrumento, Prognóstico, p. 753"
+        },
+        {
+          "texto": "Interromper: as tentativas não devem passar de 45 a 60 minutos, e o desgaste e o calor aumentam o risco para o dente.",
+          "correta": true,
+          "justificativa": "O cap. 20 recomenda que as tentativas não excedam 45 a 60 minutos, pois a fadiga do operador e o desgaste excessivo comprometem o dente e aumentam o risco de perfuração. Aumento de mais de 10 °C na superfície externa da raiz pode danificar o periodonto.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Fratura de instrumento, Taxa de sucesso e Condições para tentativas de remoção, pp. 741–743"
+        },
+        {
+          "texto": "Continuar até o fragmento sair, porque não há limite de tempo para tentar.",
+          "correta": false,
+          "justificativa": "O cap. 20 recomenda que as tentativas não passem de 45 a 60 minutos; o sucesso pode cair com o tempo e o desgaste aumenta o risco de perfuração.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Fratura de instrumento, Taxa de sucesso e Condições para tentativas de remoção, pp. 741–743"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Fratura de instrumento, Taxa de sucesso e Condições para tentativas de remoção, pp. 741–743",
+      "secao": "fratura-manejo-cap20",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Em um retratamento de molar, você precisa secar o canal repetidas vezes e quer ver melhor o fundo dele. Segundo o cap. 20 do Cohen, o que usar para secar e por quê?",
+      "alternativas": [
+        {
+          "texto": "Seringa de ar, porque o ar seca mais rápido e não causa dano.",
+          "correta": false,
+          "justificativa": "O ar comprimido da seringa é causa de enfisema subcutâneo (inchaço sem vermelhidão, com crepitação); o livro manda evitá-lo.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778"
+        },
+        {
+          "texto": "Pontas de papel ou aspiração de alto volume, para não forçar ar para os tecidos.",
+          "correta": true,
+          "justificativa": "O livro indica pontas de papel ou aspiração de alto volume em vez de seringa de ar, junto com o dique de borracha, para evitar o enfisema.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778"
+        },
+        {
+          "texto": "Jato da peça de mão de alta velocidade, que seca com mais força.",
+          "correta": false,
+          "justificativa": "O ar comprimido da peça de alta velocidade também é causa de enfisema; o livro manda minimizar o ar comprimido no local.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778"
+        },
+        {
+          "texto": "Peróxido de hidrogênio, que espuma e deixa o canal visível.",
+          "correta": false,
+          "justificativa": "O peróxido de hidrogênio além do canal pode causar enfisema; o livro manda evitá-lo.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Enfisema subcutâneo cervicofacial, p. 778",
+      "secao": "enfisema-cap20",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Você ampliou o forame de um dente extraído por instrumentação excessiva e vai obturar. Segundo o cap. 20 do Cohen, por que o material de obturação não deve passar do forame?",
+      "alternativas": [
+        {
+          "texto": "Porque o material extravasado é sempre biocompatível e só causa problema se for guta-percha.",
+          "correta": false,
+          "justificativa": "O livro diz que a guta-percha extravasada pode causar reação inflamatória grave e que só alguns materiais, como o MTA, são mais biocompatíveis. Nem todo material é inócuo.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Extrusão radicular de materiais de obturação, pp. 763–764"
+        },
+        {
+          "texto": "Porque o MTA é o material menos biocompatível e deve sempre ser removido quando extravasa.",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: o MTA extravasado não precisa ser removido, por sua biocompatibilidade e suas propriedades antibacterianas.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Extrusão radicular de materiais de obturação, p. 766"
+        },
+        {
+          "texto": "Porque o extravasamento estimula a cicatrização perirradicular e dispensa o selamento apical.",
+          "correta": false,
+          "justificativa": "O cap. 20 associa o material extravasado a inflamação pós-tratamento, agudização e falta de cicatrização perirradicular.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Extrusão radicular de materiais de obturação, pp. 763–764"
+        },
+        {
+          "texto": "Porque o extravasamento se associa a inflamação e a falta de cicatrização, e o resultado é mais favorável com o material dentro da constrição.",
+          "correta": true,
+          "justificativa": "O cap. 20 associa o material extravasado a inflamação pós-tratamento, agudização e falta de cicatrização perirradicular, e cita estudos histológicos in vivo com resultado mais favorável quando o material fica dentro da constrição radicular. Forame aumentado é uma das situações de cuidado extra.",
+          "fonte": "cohen12-cap20",
+          "onde": "cap. 20, Extrusão radicular de materiais de obturação, pp. 763–764"
+        }
+      ],
+      "fonte": "cohen12-cap20",
+      "onde": "cap. 20, Extrusão radicular de materiais de obturação, pp. 763–764",
+      "secao": "extrusao-cap20",
+      "figura": null
+    }
+  ]
+}

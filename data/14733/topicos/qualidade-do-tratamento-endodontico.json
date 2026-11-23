@@ -1,0 +1,600 @@
+{
+  "slug": "qualidade-do-tratamento-endodontico",
+  "titulo": "Controle radiográfico de qualidade da obturação e selamento coronário",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., caps. 9 e 10; Gillen et al. 2011",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-c9",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Guanabara Koogan, 2021. Cap. 9, Obturação dos Canais Radiculares (Aminoshariae, Johnson, Kulild, Tay), p. 299–336. Páginas conforme a edição digital.",
+      "curta": "Cohen 12ª ed., cap. 9"
+    },
+    {
+      "id": "cohen12-c10",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Guanabara Koogan, 2021. Cap. 10, Retratamento Não Cirúrgico, p. 337–402 (usadas as p. 337–342 e 345–347). Páginas conforme a edição digital.",
+      "curta": "Cohen 12ª ed., cap. 10"
+    },
+    {
+      "id": "gillen2011",
+      "ref": "Gillen BM, Looney SW, Gu LS, Loushine BA, Weller RN, Loushine RJ, Pashley DH, Tay FR. Impact of the quality of coronal restoration versus the quality of root canal fillings on success of root canal treatment: a systematic review and meta-analysis. J Endod. 2011;37(7):895–902. doi:10.1016/j.joen.2011.04.002. PMID 21689541.",
+      "curta": "Gillen et al. 2011"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "por-que-selar",
+      "titulo": "Por que selar o canal e o que pesa no sucesso",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares, pp. 299–301",
+      "texto": "O sistema de canais deve ser selado em três lados: **apical, coronário e lateral**. O capítulo avisa que todos os materiais e técnicas deixam algum grau de infiltração e que um selamento \"perfeito\" não é alcançável.\n\n**O que pesa no sucesso.** Uma metanálise citada pelo Cohen aponta quatro fatores: ausência de lesão periapical, espaços vazios radiográficos na obturação, obturação a **menos de 2,0 mm do ápice radiográfico** e restauração coronária adequada. Com a melhor evidência, o capítulo diz que a qualidade do tratamento e a da restauração coronária são significativas em qualquer resultado de reparação. Não confunda os 2,0 mm dessa metanálise com a diretriz de 1 mm aquém do ápice radiográfico para o limite do preparo (seção do limite apical).\n\n**Estudos de Toronto** (prospectivos, acompanhamento de 4 e 6 anos):\n\n| Comparação | Resultado |\n|---|---|\n| Tratamento primário: periodontite apical preexistente × sem área radiolúcida periapical | 82% × 93% de reparação |\n| Retratamento: o mesmo contraste | 80% × 93% de recuperação |\n| Obturação com comprimento adequado × inadequado | 87% × 77% (o trecho não diz o tipo de tratamento) |\n\nOs melhores resultados estão em dentes sem lesão radiolúcida periapical, com raiz única e sem complicações durante o tratamento. Havendo periodontite apical, o prognóstico foi melhor quando a lesão era menor.\n\n**Dois alertas do capítulo.** Num estudo controlado em animais, canais limpos e modelados, obturados ou não, não mostraram diferença de reparação após 190 dias. E, até o momento, não existe método eficiente para saber se a limpeza e a modelagem foram eficientes."
+    },
+    {
+      "id": "limite-apical",
+      "titulo": "Limite apical da obturação",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305",
+      "texto": "O capítulo diz que o limite apical do preparo e da obturação é uma **controvérsia não resolvida**.\n\n**Junção cementodentinária.** Estudos anteriores a apontaram como limite apical da obturação. Ela não pode ser determinada clinicamente, é irregular dentro do canal (pode estar vários milímetros mais alta na parede mesial que na distal) e não coincide com a parte mais estreita do canal, a constrição apical.\n\n**Forame e constrição.** No modelo clássico (Kuttler), o forame é o diâmetro maior e a constrição, o menor. A distância média entre os dois é de **0,5 mm** e a do forame ao ápice vai até **2,5 mm**; a distância forame-constrição aumenta com a idade, por deposição de cemento. Outros estudos mostram que o forame nem sempre está no ápice: desvio em 92% das raízes, com média de 0,6 mm, num estudo; em 230 raízes, desvio em 76% por microscopia e em 57% por radiografia, com média de 1 mm. Num outro estudo, a anatomia clássica de Kuttler estava presente em só **46%** dos dentes.\n\n**Na prática.** A diretriz de **1 mm aquém do ápice radiográfico** continua indicada quando se usam radiografias, mas o capítulo diz que o limite apical do preparo e da obturação ainda é um **valor empírico** (p. 305). O localizador apical, com as radiografias e o raciocínio clínico, torna a decisão mais lógica. A constrição apical é procurada pelo conhecimento da anatomia apical, pela sensação tátil, pela radiografia, pelo localizador apical, pelo sangramento apical e pela resposta do paciente, se não estiver anestesiado. Compactar a guta-percha e o cimento contra um **batente apical** previne a sobre-extensão."
+    },
+    {
+      "id": "sobre-extensao",
+      "titulo": "Sobre-extensão: o que os estudos citados mostram",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, pp. 303–305",
+      "texto": "Pelos achados da seção anterior (o forame nem sempre está no ápice), um canal obturado até o ápice radiográfico reflete **sobre-extensão** do material obturador.\n\n**Revisão sistemática citada:** 12 estudos, dos quais só 4 puderam entrar na metanálise, em três categorias de limite a partir do ápice radiográfico, incluindo o cimento: **A**, 0 a 1 mm; **B**, mais de 1 mm e menos de 3 mm; **C**, além do ápice radiográfico. O grupo A teve reparação melhor que o B, sem diferença estatisticamente significativa. Os autores concluem que o sucesso é maior quando a obturação termina aquém do ápice radicular.\n\n**Metanálise sobre o trabalho de Sjögren** (ref. 275 do capítulo; p. 305): em dentes com polpa necrosada e lesão periapical, com controle após 8 a 10 anos, os obturados 2 mm aquém do ápice tinham **94%** de condições periapicais normais na radiografia periapical de controle. As raízes com obturação sobre-estendida e as com obturação mais de 2 mm aquém do ápice tiveram recuperação significativamente mais baixa: **76%** e **68%**, respectivamente.\n\n**Estudo clínico prospectivo citado** (2 a 4 anos; pp. 304–305): a ausência de sobre-extensão foi fator prognóstico altamente significativo no tratamento primário e no retratamento. No mesmo estudo, a sobre-extensão de guta-percha não teve efeito sobre a sobrevida do dente nos primeiros **22 meses**; depois disso, o risco de perda aumentou significativamente. Os autores atribuem o efeito tardio a trincas criadas por força excessiva na condensação, que se propagam com o dente em função.\n\n**Histologia:** em seis casos com sobre-extensão, o exame mostrou inflamação grave. No retratamento, os autores de um estudo especularam que canais obturados mais de 2 mm além do ápice radiográfico abrigavam tecido necrótico, bactérias e irritantes.\n\n**Sobre-extensão que não pode ser removida** e causa dano ao tecido nervoso: o texto diz que o paciente deve ser encaminhado a profissional qualificado e experiente em casos desse tipo."
+    },
+    {
+      "id": "limites-lado-a-lado",
+      "titulo": "Os números de distância do ápice, lado a lado",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–300; Limite da obturação, pp. 302–305",
+      "texto": "Os números de distância do ápice aparecem no capítulo em contextos diferentes. Cada um vale para a condição em que foi dado; o tema não escolhe um deles.\n\n| Número | O que é no Cohen | Onde |\n|---|---|---|\n| Menos de **2,0 mm** do ápice radiográfico | Um dos quatro fatores da metanálise citada no início do capítulo | Importância de selar, pp. 299–300 |\n| Cerca de **1 mm** do ápice radiográfico | Diretriz de 1 mm aquém do ápice radiográfico, mantida quando se usam radiografias; o capítulo chama o limite de valor empírico | Limite da obturação, p. 305 |\n| **0 a 1 mm**; **mais de 1 e menos de 3 mm**; além do ápice | Categorias A, B e C da revisão sistemática citada (limite a partir do ápice radiográfico, incluindo o cimento) | Limite da obturação, p. 304 |\n| **2 mm** aquém × sobre-estendida × **mais de 2 mm** aquém | Obturação no trabalho de Sjögren, em dentes com polpa necrosada e lesão periapical, controle de 8 a 10 anos: condições periapicais normais em 94% × 76% × 68% | Limite da obturação, p. 305 |\n| **0,5 mm** (média) e até **2,5 mm** | Distâncias de Kuttler: forame-constrição e forame-ápice; descrevem a anatomia do forame e da constrição | Limite da obturação, p. 302 |"
+    },
+    {
+      "id": "radiografia-limites",
+      "titulo": "O que a radiografia mostra da obturação e o que ela não mostra",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares, pp. 299–301 (texto p. 299; Figura 9.2; legenda da Fig. 9.1, p. 300)",
+      "texto": "O capítulo é claro sobre os limites da radiografia na avaliação da obturação.\n\n**Selamento não se vê.** Não é possível avaliar a qualidade do selamento com uma radiografia. Uma imagem bidimensional adequada pode não identificar selamento adequado, e a avaliação radiográfica não identifica bem a infiltração. A Figura 9.2 mostra um incisivo lateral inferior com obturação aparentemente adequada na radiografia pós-tratamento; numa visão angulada, aparecem espaços vazios.\n\n**Figura 9.1 (legenda).** Reúne exemplos de obturação inadequada: num canino, comprimento adequado, mas sem densidade e sem selamento coronário; em incisivos centrais, espaços vazios, falta de densidade, conicidade e canal não preenchido; e um molar com obturação adequada, mas com restauração provisória mal adaptada na distal, por falha na remoção da cárie.\n\n**O que atrapalha a interpretação:** quem interpreta (o clínico), estruturas ósseas sobrepostas e a falta de uniformidade dos materiais obturadores.\n\n**Periapical × TCFC.** A radiografia periapical é usada desde 1922 para avaliar a reparação, mas os resultados baseados nela podem ter superestimado as taxas de reparação. A TCFC diagnostica melhor a lesão periapical no osso esponjoso, e foi relatado que ela tem **duas vezes mais** chance de detectar afecções periapicais que a periapical. O capítulo diz que continua questionável se esse ganho de informação nos controles levaria a melhor reparação.\n\n**Conclusão do capítulo:** a habilidade técnica de obturar não deve ser subestimada; os métodos devem buscar obturações compactas, sem espaços vazios e no comprimento correto.\n\n**O que o texto da p. 299 apresenta (com a Figura 9.1).** O capítulo apresenta a avaliação da obturação com base em comprimento, conicidade, condensação, nível da guta-percha e selamento coronário, com a Figura 9.1 como exemplo."
+    },
+    {
+      "id": "densidade-radiopacidade",
+      "titulo": "Densidade apical e radiopacidade do cimento",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Materiais ideais para a obturação dos canais radiculares, p. 308 (Figura 9.12)",
+      "texto": "O Cohen afirma que a avaliação da obturação se baseia nos achados radiográficos mas mostra como a imagem pode enganar.\n\n**Densidade do terço apical.** O texto diz que ela é frequentemente negligenciada. Pode haver pouco cimento e um cone único mal compactado no terço apical. Na radiografia, esse terço parece menos radiopaco, com o contorno da parede do canal mal definido e com bolhas ou lacunas no material ou na adaptação.\n\n**Cimento muito radiopaco.** Pode preencher só com cimento a parte apical e dar uma falsa impressão de obturação densa e tridimensional. A radiopacidade também pode dar a impressão de canal bem obturado quando os **espaços vazios ficam mascarados** pela densidade do cimento.\n\n**Os cimentos variam em radiopacidade.** Alguns levam partículas de prata ou quantidades significativas de sulfato de bário. Esses componentes podem melhorar a visualização de canais laterais, mas **não aumentam a capacidade de selamento nem a qualidade da obturação**.\n\n**Comparação entre cimentos.** O texto chama de equivocado afirmar que obturações com cimento muito radiopaco são melhores que as feitas com material menos radiopaco, e de infundada a afirmação de superioridade. O cimento não precisa ser altamente radiopaco para ser efetivo.\n\n**Ordem de prioridade.** A aparência radiográfica ou estética deve ser secundária à limpeza e à modelagem meticulosas.\n\nA legenda da Figura 9.12 traz exemplos de radiografia pós-operatória com obturação adequada: um molar superior com limite, densidade e conicidade adequados e um molar inferior."
+    },
+    {
+      "id": "infiltracao-restauracao",
+      "titulo": "Infiltração coronária e restauração depois da endodontia",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares (Restauração provisória e definitiva), pp. 299–301; Momento da obturação (Tecido pulpar com vitalidade), pp. 301–302",
+      "texto": "**Uma implicação de estudos in vitro** seria retratar os dentes que não receberam restauração definitiva 3 meses após o tratamento endodôntico. O capítulo diz que a relevância clínica dessa ideia **tem sido questionada**.\n\n**O que os estudos clínicos citados mostram:**\n- Estudos anteriores não conseguiram mostrar que a restauração definitiva contribui para o sucesso de um tratamento bem obturado.\n- Num estudo prospectivo mais recente, o tipo de restauração coronária não influenciou a reparação periapical, desde que as restaurações fossem de boa qualidade.\n- O mesmo grupo, em estudo separado: restauração cimentada, comparada à provisória, melhorou significativamente a sobrevida dos dentes com tratamento primário ou secundário. Explicação possível, segundo o texto: proteção da estrutura remanescente enfraquecida.\n\n**Restauração provisória há mais de 3 meses.** O capítulo diz que não existem evidências claras que justifiquem o retratamento só pela suspeita de microinfiltração. Conduta sugerida: **substituir a provisória por restauração coronária definitiva imediatamente** e observar o dente por pelo menos **3 meses** antes da restauração com recobrimento total.\n\n**Sessão única.** Na polpa com vitalidade, tratar em uma só sessão também evita a contaminação por infiltração coronária entre as sessões, segundo o texto. O tratamento eletivo por razões restauradoras pode ser concluído em uma sessão desde que a polpa tenha vitalidade até certo grau e o tempo permita.\n\nO que o Cohen diz sobre selar a entrada dos canais está na seção seguinte."
+    },
+    {
+      "id": "vedamento-entrada",
+      "titulo": "Vedamento da entrada do canal",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330",
+      "texto": "Qualquer que seja a técnica de obturação, a microinfiltração coronária pode ocorrer em pouco tempo, mesmo em canais aparentemente bem obturados, com potencial de causar infecção na área periapical. As pesquisas iniciais focavam o vedamento apical; as de hoje identificaram a importância de manter um **vedamento coronário** contra a infiltração bacteriana.\n\n**Cavit** é tradicionalmente indicado como material aceitável para o vedamento coronário.\n\n**Estudo citado pelo Cohen (Cavit e Super-EBA).** 3,5 mm de Cavit ou de cimento Super-EBA diminuíram a infiltração bacteriana em até **85%** (Cavit) e **65%** (Super-EBA), comparados aos controles não obturados com cimento. Os **45 dias** são o tempo em que todos os controles já apresentavam infiltração; **não** são a duração da proteção de nenhum dos dois materiais. O texto não dá o desenho do estudo além disso.\n\n**Estudo citado (assoalho com adesivo).** Outro método para retardar a infiltração pelo canal obturado, caso a restauração coronária falhe, é recobrir o assoalho da câmara pulpar com material adesivo, depois de remover o excesso de guta-percha e de cimento obturador na entrada dos canais. Com o procedimento, nenhum dos canais experimentais apresentou infiltração bacteriana após **60 dias**. Esse é o tempo de observação do grupo com o assoalho recoberto, não do Cavit.\n\n**Cor do material.** Um material de cor diferente da dentina pode ser usado para identificação, se depois for preciso colocar retentor intrarradicular.\n\nA seção não traz critério radiográfico para avaliar o selamento coronário."
+    },
+    {
+      "id": "retratamento-cap10",
+      "titulo": "No retratamento: infiltração coronária e radiografia",
+      "fonte": "cohen12-c10",
+      "onde": "cap. 10, Retratamento Não Cirúrgico, pp. 337–338, 340–342 e 345–347",
+      "texto": "O cap. 10 volta ao assunto do ponto de vista de quem retrata. Aqui entra só o que ele diz sobre infiltração coronária, radiografia e o exame de um dente já tratado.\n\n**Causas (pp. 337–338).** Entre as causas de doença pós-tratamento, o capítulo lista, junto com acesso mal feito, canais não tratados (principal e acessórios), canais não limpos e obturados adequadamente, degraus, perfurações, instrumentos fraturados e sobreobturação, a **infiltração coronária**. A causa principal é a presença de microrganismos dentro do canal, persistentes ou reinfectados, ligada a limpeza, modelagem, obturação e restauração inadequadas. A Figura 10.2 inclui um caso com suspeita de infiltração coronária e lima fraturada.\n\n**Radiografia (pp. 340–342).** Sozinha, não basta para o diagnóstico definitivo; ela deve mostrar o dente e as estruturas adjacentes. O capítulo diz que a TCFC ajuda a detectar canais não localizados, reabsorções e fraturas e que as imagens mudam o plano de tratamento em até **62%** dos casos.\n\n**Exame clínico (p. 342).** Os testes perirradiculares (percussão, mordida e palpação) são os mais úteis num dente já tratado; os testes de vitalidade (frio e calor) têm valor limitado, com falso-positivo e falso-negativo.\n\n**Obturação aparentemente adequada (pp. 345–347).** Com obturação radicular aparentemente adequada e sem evidência de infiltração coronária, a cirurgia pode ser indicada."
+    },
+    {
+      "id": "gillen-numeros",
+      "titulo": "Restauração × obturação: o que a metanálise de Gillen mediu",
+      "fonte": "gillen2011",
+      "onde": "Gillen et al. 2011, Resumo; Resultados (comparações); Discussão",
+      "texto": "Revisão sistemática com metanálise (J Endod 2011). A pergunta: em dentes com tratamento endodôntico não cirúrgico, pesa mais a qualidade da restauração coronária ou a da obturação? Entraram **9 estudos**. O próprio artigo classifica a evidência como nível 2, porque a maioria dos estudos é de coorte observacional. O desfecho é a ausência de periodontite apical.\n\nO resultado vem como **OR** (razão de chances): acima de 1, o primeiro grupo tem mais chance de ficar sem periodontite apical.\n\n| Comparação | OR combinado | IC 95% nos Resultados | IC 95% no Resumo |\n|---|---|---|---|\n| Obturação e restauração adequadas × restauração adequada com obturação inadequada | 2,73 | 2,40 a 3,11 | 2,61 a 2,88 |\n| Obturação e restauração adequadas × obturação adequada com restauração inadequada | 2,81 | 2,40 a 3,29 | 2,64 a 2,97 |\n| Obturação adequada com restauração inadequada × restauração adequada com obturação inadequada | 1,04 (p = 0,598) | 0,90 a 1,20 | não aparece |\n\n**Atenção:** o artigo traz dois intervalos diferentes para os mesmos OR, um no Resumo e outro nos Resultados, e o texto não explica a diferença. As duas colunas mostram o que cada lugar diz.\n\n**Leitura dos números.** Ter os dois lados adequados dá mais chance de ausência de periodontite apical que ter qualquer um dos dois inadequado. Entre as duas combinações com um lado inadequado, a diferença não foi significativa. Para o OR de 2,73 ou o de 2,81 cair a 1,44, valor que os autores tratam como efeito desprezível, seriam necessários 17 estudos negativos não publicados; os autores consideram isso improvável."
+    },
+    {
+      "id": "gillen-leitura",
+      "titulo": "Como ler a metanálise: conclusão, limites e lacuna",
+      "fonte": "gillen2011",
+      "onde": "Gillen et al. 2011, Resumo; Métodos; Discussão (Limitações)",
+      "texto": "**Conclusão dos autores.** Com a melhor evidência disponível, as chances de cicatrização da periodontite apical aumentam tanto com tratamento de canal adequado quanto com restauração adequada. A Discussão diz que não se pode colocar uma boa restauração sobre um canal mal obturado, nem o contrário, esperando o mesmo sucesso de quem faz bem os dois procedimentos.\n\n**Limitações, como o artigo as descreve:**\n- A maior parte dos dados vem de exame radiográfico, que é subjetivo. Não há dados clínicos que sustentem avaliar a qualidade da restauração só pela periapical.\n- O artigo diz que o tempo entre o fim do tratamento de canal e a colocação da restauração não era conhecido.\n- Os estudos são de coorte observacional, com alta heterogeneidade de população, método de avaliação e critério de qualidade. Cinco dos nove tiveram resultado não significativo em pelo menos uma das comparações.\n\n**O que o artigo não define.** Ele não diz operacionalmente o que é obturação adequada nem restauração adequada: e diz que comparar os estudos é difícil pela variedade de critérios avaliados em cada um. Por isso não se tira do artigo uma lista de critérios.\n\n**O que ficou de fora.** O artigo agrupa obturações, coroas e pinos sob \"restauração\", não compara materiais nem técnicas de obturação e tem como critério de exclusão não poder separar o efeito da restauração do efeito do pino intracanal."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Em quais lados o sistema de canais deve ser selado?",
+      "verso": "**Apical, coronário e lateral.** Todos os materiais e técnicas deixam algum grau de infiltração.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, p. 300"
+    },
+    {
+      "id": "f02",
+      "frente": "Quais quatro fatores a metanálise citada pelo Cohen associa ao sucesso?",
+      "verso": "Ausência de lesão periapical; espaços vazios radiográficos na obturação; obturação a **menos de 2,0 mm do ápice radiográfico**; restauração coronária adequada.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–300"
+    },
+    {
+      "id": "f03",
+      "frente": "Qual a diretriz do Cohen para o limite apical do preparo e o que ele diz dela?",
+      "verso": "Diretriz de **1 mm aquém do ápice radiográfico**, mantida quando se usam radiografias. O capítulo diz que o limite apical ainda é um valor empírico.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, p. 305"
+    },
+    {
+      "id": "f04",
+      "frente": "Por que a junção cementodentinária não serve como limite clínico?",
+      "verso": "Não pode ser determinada clinicamente, é irregular no canal e não coincide com a constrição apical.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, p. 302"
+    },
+    {
+      "id": "f05",
+      "frente": "Distâncias de Kuttler (forame-constrição e forame-ápice) e quanto dentes têm essa anatomia?",
+      "verso": "Forame-constrição: média de **0,5 mm**. Forame-ápice: até **2,5 mm**. Em outro estudo, a anatomia clássica estava em só **46%** dos dentes.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, p. 302"
+    },
+    {
+      "id": "f06",
+      "frente": "Sjögren (necrose com lesão, 8 a 10 anos): resultado de obturar 2 mm aquém do ápice?",
+      "verso": "**94%** com condições periapicais normais. Sobre-estendida e mais de 2 mm aquém tiveram recuperação significativamente mais baixa: **76%** e **68%**, respectivamente.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, p. 305"
+    },
+    {
+      "id": "f07",
+      "frente": "Sobre-extensão de guta-percha: quando o Cohen cita efeito sobre a sobrevida do dente?",
+      "verso": "No estudo clínico prospectivo citado (o mesmo da ausência de sobre-extensão como fator prognóstico): nenhum efeito nos primeiros **22 meses**; depois disso, risco de perda significativamente maior (trincas por força excessiva na condensação, segundo os autores).",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, pp. 304–305"
+    },
+    {
+      "id": "f08",
+      "frente": "Sobre-extensão que não se remove e causa dano ao tecido nervoso: conduta?",
+      "verso": "O texto diz que é obrigatório **encaminhar** a profissional qualificado e experiente em casos desse tipo.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, p. 303"
+    },
+    {
+      "id": "f09",
+      "frente": "A radiografia consegue avaliar a qualidade do selamento?",
+      "verso": "**Não.** Uma imagem bidimensional adequada pode não identificar selamento adequado; na Figura 9.2, a visão angulada revelou espaços vazios.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–301 (Figura 9.2)"
+    },
+    {
+      "id": "f10",
+      "frente": "Como aparece, na radiografia, um terço apical com pouco cimento e cone único mal compactado?",
+      "verso": "Menos radiopaco, com contorno da parede do canal mal definido e bolhas ou lacunas no material ou na adaptação.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Materiais ideais, p. 308"
+    },
+    {
+      "id": "f11",
+      "frente": "Cimento mais radiopaco (prata, sulfato de bário) obtura melhor?",
+      "verso": "**Não.** Pode melhorar a visualização de canais laterais, mas não aumenta o selamento nem a qualidade da obturação, e pode mascarar espaços vazios.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Materiais ideais, p. 308"
+    },
+    {
+      "id": "f12",
+      "frente": "Provisória há mais de 3 meses: o Cohen manda retratar pela suspeita de microinfiltração?",
+      "verso": "Não há evidências claras que justifiquem. Sugere trocar pela definitiva já e observar por pelo menos **3 meses** antes do recobrimento total.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–300"
+    },
+    {
+      "id": "f13",
+      "frente": "Cavit × Super-EBA (3,5 mm): o que o estudo citado mediu e o que são os 45 dias?",
+      "verso": "Redução da infiltração bacteriana em até **85%** (Cavit) e **65%** (Super-EBA) contra controles não obturados com cimento. Os 45 dias são o tempo em que os controles já infiltravam, não a duração da proteção.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+    },
+    {
+      "id": "f14",
+      "frente": "Como retardar a infiltração pelo canal obturado se a restauração coronária falhar?",
+      "verso": "Remover o excesso de guta-percha e cimento na entrada dos canais e **recobrir o assoalho da câmara com material adesivo**. Nesse estudo, nenhum canal infiltrou em 60 dias.",
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+    },
+    {
+      "id": "f15",
+      "frente": "Gillen 2011: obturação adequada com restauração inadequada × o contrário?",
+      "verso": "Sem diferença significativa (OR 1,04; p = 0,598). Já os dois lados adequados tiveram OR de 2,73 e 2,81 contra os cenários com um lado inadequado.",
+      "fonte": "gillen2011",
+      "onde": "Gillen et al. 2011, Resultados (comparações)"
+    },
+    {
+      "id": "f16",
+      "frente": "No retratamento, a radiografia sozinha basta para o diagnóstico definitivo?",
+      "verso": "**Não.** Ela deve mostrar o dente e as estruturas adjacentes. Os testes perirradiculares (percussão, mordida, palpação) são os mais úteis num dente já tratado.",
+      "fonte": "cohen12-c10",
+      "onde": "cap. 10, Diagnóstico, pp. 340–342"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na metanálise sobre o trabalho de Sjögren citada pelo Cohen (dentes com necrose pulpar e lesão periapical, reparação após 8 a 10 anos), qual a porcentagem de dentes com condições periapicais normais entre os obturados 2 mm aquém do ápice?",
+      "alternativas": [
+        {
+          "texto": "87%.",
+          "correta": false,
+          "justificativa": "O 87% é o valor das obturações de comprimento adequado nos estudos de Toronto, em outra comparação; não é o número de Sjögren.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, p. 300"
+        },
+        {
+          "texto": "94%.",
+          "correta": true,
+          "justificativa": "O texto traz 94% de condições periapicais normais para os dentes obturados 2 mm aquém do ápice (as sobre-estendidas tiveram 76% e as mais de 2 mm aquém, 68%).",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, p. 305"
+        },
+        {
+          "texto": "77%.",
+          "correta": false,
+          "justificativa": "O 77% é o valor das obturações de comprimento inadequado nos estudos de Toronto; não é o número de Sjögren.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, p. 300"
+        },
+        {
+          "texto": "85%.",
+          "correta": false,
+          "justificativa": "O 85% é a redução da infiltração bacteriana com Cavit em outro estudo (vedamento da entrada do canal); não é o número de Sjögren.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, p. 305",
+      "secao": "sobre-extensao",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "A metanálise citada no início do cap. 9 lista quatro fatores que influenciam o sucesso do tratamento. Qual é a distância do ápice radiográfico que aparece, para a obturação, entre esses fatores?",
+      "alternativas": [
+        {
+          "texto": "Menos de 0,5 mm.",
+          "correta": false,
+          "justificativa": "O 0,5 mm é a distância média forame-constrição de Kuttler, que descreve a anatomia; o fator da metanálise é menos de 2,0 mm.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, p. 302"
+        },
+        {
+          "texto": "Menos de 2,0 mm.",
+          "correta": true,
+          "justificativa": "Um dos quatro fatores é a obturação a menos de 2,0 mm do ápice radiográfico.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–300"
+        },
+        {
+          "texto": "Menos de 1 mm.",
+          "correta": false,
+          "justificativa": "Cerca de 1 mm do ápice radiográfico é a diretriz do capítulo para o limite apical do preparo, outro número do capítulo; o fator da metanálise é menos de 2,0 mm.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, p. 305"
+        },
+        {
+          "texto": "Menos de 2,5 mm.",
+          "correta": false,
+          "justificativa": "O 2,5 mm é a distância máxima forame-ápice no modelo de Kuttler (anatomia), não o fator da metanálise.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, p. 302"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–300",
+      "secao": "limites-lado-a-lado",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "A radiografia pós-tratamento de um incisivo lateral inferior mostra obturação aparentemente adequada, mas uma visão angulada revela espaços vazios (Figura 9.2 do Cohen). O que o capítulo conclui desse tipo de achado?",
+      "alternativas": [
+        {
+          "texto": "Que, sendo a primeira imagem de aparência adequada, o selamento pode ser considerado adequado.",
+          "correta": false,
+          "justificativa": "O capítulo diz que não é possível avaliar a qualidade do selamento com uma radiografia; na Figura 9.2, a visão angulada revelou espaços vazios que a primeira imagem não mostrava.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, p. 300"
+        },
+        {
+          "texto": "Que o comprimento adequado na radiografia basta para considerar a obturação adequada.",
+          "correta": false,
+          "justificativa": "A legenda da Figura 9.1 traz um canino com comprimento adequado, mas sem densidade e sem selamento coronário, entre os exemplos de obturação inadequada.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, p. 300 (Figura 9.1)"
+        },
+        {
+          "texto": "Que uma imagem bidimensional de aparência adequada pode esconder espaços vazios e não avalia o selamento.",
+          "correta": true,
+          "justificativa": "É a mensagem da Figura 9.2: não é possível avaliar a qualidade do selamento com uma radiografia, e uma imagem adequada pode não identificar selamento adequado.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–301 (Figura 9.2)"
+        },
+        {
+          "texto": "Que a leitura da imagem não depende de quem a interpreta.",
+          "correta": false,
+          "justificativa": "A interpretação pelo clínico está entre as variáveis significativas apontadas pelo capítulo para a leitura radiográfica, junto com as estruturas ósseas sobrepostas e a falta de uniformidade dos materiais obturadores.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, p. 300"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–301 (Figura 9.2)",
+      "secao": "radiografia-limites",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Na radiografia de controle, a parte apical de uma obturação parece muito radiopaca e densa. O que o Cohen alerta sobre esse achado?",
+      "alternativas": [
+        {
+          "texto": "Que o cimento muito radiopaco pode dar falsa impressão de obturação densa, com espaços vazios mascarados.",
+          "correta": true,
+          "justificativa": "O texto diz que a radiopacidade do cimento pode dar a impressão de canal bem obturado quando os espaços vazios ficam mascarados pela densidade.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Materiais ideais, p. 308"
+        },
+        {
+          "texto": "Que as partículas de prata e o sulfato de bário aumentam a capacidade de selamento do cimento.",
+          "correta": false,
+          "justificativa": "Esses componentes podem melhorar a visualização de canais laterais, mas não aumentam o selamento nem a qualidade da obturação.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Materiais ideais, p. 308"
+        },
+        {
+          "texto": "Que a obturação feita com cimento muito radiopaco é melhor que a feita com cimento menos radiopaco.",
+          "correta": false,
+          "justificativa": "O texto chama essa afirmação de equivocada e a superioridade de infundada.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Materiais ideais, p. 308"
+        },
+        {
+          "texto": "Que o terço apical mal obturado sempre aparece mais radiopaco que o resto do canal.",
+          "correta": false,
+          "justificativa": "Com pouco cimento e cone único mal compactado, o terço apical parece menos radiopaco, com contorno mal definido e bolhas ou lacunas.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Materiais ideais, p. 308"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Materiais ideais, p. 308",
+      "secao": "densidade-radiopacidade",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Dente tratado endodonticamente há mais de 3 meses continua com restauração provisória. Qual a posição do Cohen sobre retratar apenas pela suspeita de microinfiltração?",
+      "alternativas": [
+        {
+          "texto": "Retratar sempre, porque a infiltração em 3 meses é comprovada clinicamente.",
+          "correta": false,
+          "justificativa": "Essa ideia vem de estudos in vitro e sua relevância clínica tem sido questionada; não há evidências claras que justifiquem o retratamento por essa suspeita.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–300"
+        },
+        {
+          "texto": "Manter a provisória, porque a restauração cimentada não melhora a sobrevida do dente.",
+          "correta": false,
+          "justificativa": "Num estudo do mesmo grupo, a restauração cimentada, comparada à provisória, melhorou significativamente a sobrevida dos dentes.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–300"
+        },
+        {
+          "texto": "Colocar já o recobrimento total, sem período de observação.",
+          "correta": false,
+          "justificativa": "A conduta sugerida é observar o dente por pelo menos 3 meses, com a restauração definitiva, antes do recobrimento total.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–300"
+        },
+        {
+          "texto": "Sem evidência clara para retratar: trocar pela definitiva já e observar por 3 meses ou mais.",
+          "correta": true,
+          "justificativa": "É o que o capítulo diz: não existem evidências claras para o retratamento só pela suspeita, e a substituição imediata da provisória, com observação de pelo menos 3 meses, é a conduta sugerida.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Importância de selar, pp. 299–300"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Importância de selar, pp. 299–300",
+      "secao": "infiltracao-restauracao",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "O Cohen cita um estudo em que 3,5 mm de Cavit ou de cimento Super-EBA diminuíram a infiltração bacteriana (em até 85% e 65%, respectivamente) em comparação com controles não obturados com cimento, e menciona o prazo de 45 dias. O que representam esses 45 dias?",
+      "alternativas": [
+        {
+          "texto": "A duração da proteção oferecida pelo Cavit.",
+          "correta": false,
+          "justificativa": "Os 45 dias são o tempo em que os controles já infiltravam, não a duração da proteção do Cavit.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "O tempo em que todos os controles já apresentavam infiltração.",
+          "correta": true,
+          "justificativa": "É assim que o texto usa o dado: todos os controles já tinham infiltração aos 45 dias.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "O tempo máximo de proteção do Super-EBA.",
+          "correta": false,
+          "justificativa": "O texto não dá duração de proteção para o Super-EBA; os 45 dias referem-se aos controles.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "O intervalo em que o assoalho coberto com adesivo não infiltrou.",
+          "correta": false,
+          "justificativa": "O assoalho recoberto com adesivo é outro estudo, observado por 60 dias, e não por 45.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330",
+      "secao": "vedamento-entrada",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Além de selar a entrada dos canais com Cavit ou Super-EBA, que outro método o Cohen descreve para retardar a infiltração pelo canal obturado caso a restauração coronária falhe?",
+      "alternativas": [
+        {
+          "texto": "Deixar o excesso de guta-percha e de cimento na entrada dos canais.",
+          "correta": false,
+          "justificativa": "O método descrito começa por remover o excesso de guta-percha e de cimento obturador na entrada dos canais.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "Usar material de cor diferente da dentina na entrada dos canais, para impedir a infiltração.",
+          "correta": false,
+          "justificativa": "O texto dá a esse material a função de identificação, se depois for preciso colocar retentor intrarradicular; não o apresenta como método para retardar a infiltração.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "Recobrir o assoalho da câmara com material adesivo, depois de limpar a entrada dos canais.",
+          "correta": true,
+          "justificativa": "É o método do estudo citado: nenhum dos canais experimentais apresentou infiltração bacteriana após 60 dias.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+        },
+        {
+          "texto": "Aumentar a obturação até o ápice radiográfico.",
+          "correta": false,
+          "justificativa": "Obturar até o ápice radiográfico reflete sobre-extensão, e o método descrito para a infiltração atua na entrada dos canais, não no ápice.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, pp. 303–304"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330",
+      "secao": "vedamento-entrada",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Na metanálise de Gillen et al. (2011), como se comparam dentes com obturação adequada e restauração inadequada e dentes com restauração adequada e obturação inadequada?",
+      "alternativas": [
+        {
+          "texto": "A restauração adequada compensou a obturação inadequada, com vantagem significativa.",
+          "correta": false,
+          "justificativa": "A comparação entre as duas combinações com um lado inadequado teve OR de 1,04, sem diferença significativa (p = 0,598).",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Resultados (comparações)"
+        },
+        {
+          "texto": "A obturação adequada compensou a restauração inadequada, com vantagem significativa.",
+          "correta": false,
+          "justificativa": "Pelo mesmo motivo: OR de 1,04 e p = 0,598 indicam que nenhuma das duas combinações levou vantagem.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Resultados (comparações)"
+        },
+        {
+          "texto": "Os dois cenários tiveram desfecho semelhante, sem diferença significativa.",
+          "correta": true,
+          "justificativa": "OR de 1,04 (IC 95% de 0,90 a 1,20 nos Resultados; p = 0,598).",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Resultados (comparações)"
+        },
+        {
+          "texto": "As duas combinações tiveram desfecho igual ao de ter os dois lados adequados.",
+          "correta": false,
+          "justificativa": "Ter os dois lados adequados teve OR de 2,73 e 2,81 contra as combinações com um lado inadequado, ou seja, maior chance de ausência de periodontite apical.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Resultados (comparações)"
+        }
+      ],
+      "fonte": "gillen2011",
+      "onde": "Gillen et al. 2011, Resultados (comparações)",
+      "secao": "gillen-numeros",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Qual destas é uma limitação que a própria metanálise de Gillen et al. reconhece?",
+      "alternativas": [
+        {
+          "texto": "Os estudos incluídos eram ensaios clínicos randomizados com heterogeneidade baixa.",
+          "correta": false,
+          "justificativa": "Os estudos são de coorte observacional, com alta heterogeneidade; por isso o artigo classifica a evidência como nível 2.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Discussão (Limitações)"
+        },
+        {
+          "texto": "O tempo entre o fim do tratamento de canal e a restauração é conhecido em todos os estudos.",
+          "correta": false,
+          "justificativa": "O artigo diz o contrário: esse tempo não era conhecido.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Discussão (Limitações)"
+        },
+        {
+          "texto": "O efeito do pino intracanal foi medido à parte e entrou nas comparações.",
+          "correta": false,
+          "justificativa": "Um estudo em que o efeito da restauração não se separava do efeito do pino foi excluído pelos critérios.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Métodos (critérios de exclusão)"
+        },
+        {
+          "texto": "A maior parte dos dados vem de exame radiográfico, que é subjetivo.",
+          "correta": true,
+          "justificativa": "É a primeira limitação da Discussão: dados radiográficos subjetivos e ausência de dados clínicos que sustentem avaliar a restauração só pela periapical.",
+          "fonte": "gillen2011",
+          "onde": "Gillen et al. 2011, Discussão (Limitações)"
+        }
+      ],
+      "fonte": "gillen2011",
+      "onde": "Gillen et al. 2011, Discussão (Limitações)",
+      "secao": "gillen-leitura",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o Cohen, no estudo clínico prospectivo citado, o que se observou com a sobre-extensão de guta-percha sobre a sobrevida do dente?",
+      "alternativas": [
+        {
+          "texto": "Aumentou o risco de perda do dente já nos primeiros 22 meses.",
+          "correta": false,
+          "justificativa": "Nos primeiros 22 meses não houve efeito sobre a sobrevida.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, pp. 304–305"
+        },
+        {
+          "texto": "Não teve efeito sobre a sobrevida em nenhum momento do acompanhamento.",
+          "correta": false,
+          "justificativa": "Depois de 22 meses, o risco de perda do dente aumentou significativamente.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, pp. 304–305"
+        },
+        {
+          "texto": "Não teve efeito nos primeiros 22 meses e aumentou o risco de perda depois disso.",
+          "correta": true,
+          "justificativa": "Os autores atribuem o efeito tardio a trincas criadas por força excessiva na condensação, que se propagam com o dente em função.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, pp. 304–305"
+        },
+        {
+          "texto": "Melhorou a sobrevida, por ampliar o selamento apical.",
+          "correta": false,
+          "justificativa": "A ausência de sobre-extensão foi fator prognóstico altamente significativo para o sucesso, e a sobre-extensão aumentou o risco de perda a longo prazo.",
+          "fonte": "cohen12-c9",
+          "onde": "cap. 9, Limite da obturação, pp. 304–305"
+        }
+      ],
+      "fonte": "cohen12-c9",
+      "onde": "cap. 9, Limite da obturação, pp. 304–305",
+      "secao": "sobre-extensao",
+      "figura": null
+    }
+  ]
+}

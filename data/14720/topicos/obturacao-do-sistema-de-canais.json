@@ -1,0 +1,611 @@
+{
+  "slug": "obturacao-do-sistema-de-canais",
+  "titulo": "Obturação: cone principal, condensação lateral, cimentos e critérios radiográficos",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 9",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap09",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 9, Obturação dos Canais Radiculares, p. 299–336 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 9"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "objetivo",
+      "titulo": "Para que serve a obturação e por que selar",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares, pp. 299–301; Materiais ideais, p. 307; Núcleos sólidos, p. 315",
+      "texto": "O tema vem do Cohen, *Caminhos da Polpa* (tradução da obra de Berman, Hargreaves e Rotstein, autores dos EUA), cap. 9. Os números e os estudos são os que esse capítulo cita.\n\n**O que é.** A obturação vem depois da limpeza e modelagem. O livro diz que o sistema de canais deve ser selado em três direções: **apical, coronária e lateral**.\n\n**Por que não existe selamento perfeito.** Todos os materiais e técnicas deixam algum grau de infiltração. O capítulo diz que o selamento \"perfeito\" não é alcançável e que a maioria dos materiais não tem atividade antimicrobiana nem promove o selamento do canal. Por isso a ênfase fica na limpeza e modelagem, seja qual for a técnica de obturação (p. 315). O capítulo lembra também que erros de preparo podem não ser corrigíveis (p. 307).\n\n**Fatores do resultado.** O capítulo cita uma metanálise do tratamento endodôntico não cirúrgico com quatro fatores: lesão periapical, obturações com espaços vazios radiográficos, obturação a menos de 2,0 mm do ápice radiográfico e restauração coronária adequada.\n\n**Como se avalia.** Pela radiografia, mas ela tem limite: o livro diz que uma radiografia não avalia a qualidade do selamento. Uma imagem bidimensional que parece boa pode esconder espaços vazios (Fig. 9.2: a visão angulada de uma obturação aparentemente adequada revelou vazios).\n\n**Ao fim da obturação, pergunte-se:** o material parou no limite certo? Preencheu o canal sem vazios? A entrada do canal ficou vedada? As seções seguintes respondem a cada uma."
+    },
+    {
+      "id": "momento",
+      "titulo": "Quando obturar",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Momento da obturação e Quando obturar, pp. 301–302",
+      "texto": "**O que decide o momento (Cohen):** sinais e sintomas do paciente, estado dos tecidos pulpares e periapicais, grau de dificuldade do caso e planejamento com o paciente.\n\n**Polpa viva.** O consenso atual é que sessão única é aceitável quando a polpa está total ou parcialmente vital. Remover polpa normal ou inflamada em condições assépticas tende a dar sucesso, pela relativa ausência de bactérias. A sessão única também evita a contaminação por infiltração coronária entre uma sessão e outra. Na pulpite irreversível, a obturação em sessão única pode ser feita, porque tirar a polpa costuma resolver a dor.\n\n**Polpa necrosada.** Necrose pulpar, com ou sem condição perirradicular assintomática, pode ser tratada em uma sessão. Com abscesso perirradicular agudo e sintomas, a obturação normalmente é adiada até o paciente ficar sem sintomas.\n\n**Uma sessão ou várias.** Estudos clínicos e revisões sistemáticas citados no capítulo não acharam diferença significativa na reparação da periodontite apical entre uma e várias sessões. Quem é tratado em uma sessão tem menos dor de curta duração depois da obturação.\n\n**Critério para obturar.** Depois da limpeza e modelagem, quando o canal pode ser **mantido seco** e o paciente não tem dor significativa nem edema. **Não se obtura com exsudato presente ou que persiste vindo do canal.** Obturação de canal que não pode ser mantido seco é contraindicada (p. 302).\n\n**Entre sessões.** Quando não dá para terminar em uma sessão, o capítulo diz que o hidróxido de cálcio continua sendo o melhor medicamento disponível para reduzir a microbiota residual, embora sua capacidade de eliminar as bactérias por completo seja questionada. O capítulo não dá o tempo de permanência da medicação, que tem tema próprio.\n\n**Atenção:** casos difíceis, ou pacientes que precisam de sessões curtas por saúde, estado psicológico ou fadiga, podem ser tratados em várias sessões."
+    },
+    {
+      "id": "limite-apical",
+      "titulo": "Até onde obturar: o limite apical",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305",
+      "texto": "**O que o capítulo diz.** O limite apical do preparo e da obturação é uma controvérsia ainda não resolvida. A junção cementodentinária, proposta antes como limite, não pode ser determinada clinicamente e é irregular dentro do canal. Ela também não coincide com a constrição apical, a parte mais estreita do canal.\n\n**Referência prática.** Tradicionalmente o limite apical fica a cerca de **1 mm do ápice radiográfico**. O capítulo mantém essa diretriz quando se usam radiografias, mas diz que o limite \"ainda é um valor empírico\". O localizador apical, junto com a radiografia e o raciocínio clínico, torna a decisão mais lógica.\n\n**Por que não obturar até o ápice radiográfico.** O forame não costuma coincidir com o ápice. Por isso o capítulo diz que um canal obturado até o ápice radiográfico reflete **sobre-extensão** do material. Instrumentação e obturação não devem passar do forame, e a ausência de sobre-extensão aparece nos estudos citados como fator prognóstico. Os autores de um deles ligam a perda tardia do dente com sobre-extensão de guta-percha a trincas criadas por força excessiva na condensação.\n\n**Ficar muito aquém também pesa.** Em um estudo citado de dentes com necrose e lesão periapical, os obturados a 2 mm aquém do ápice se saíram melhor que os sobre-estendidos e que os obturados a mais de 2 mm aquém do ápice.\n\n**Como evitar a sobre-extensão:** compactar a guta-percha e o cimento contra um **batente apical**.\n\n**Remissão:** os estudos do limite apical e a comparação com o que o cap. 7 e o cap. 8 dizem estão no tema de comprimento de trabalho. O livro não harmoniza as três referências; aqui fica só o cap. 9."
+    },
+    {
+      "id": "smear",
+      "titulo": "Smear layer: remover antes de obturar",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Preparo para obturação, pp. 305–307",
+      "texto": "**O que é.** A limpeza e modelagem deixa na parede do canal uma camada amorfa e irregular de restos orgânicos da polpa e resíduos inorgânicos da dentina: a **smear layer** (Fig. 9.9). Tem 1 a 5 µm de espessura e pode se acumular dentro dos túbulos dentinários.\n\n**Por que importa.** Ela não é barreira completa contra bactérias, mas funciona como barreira física que reduz a penetração bacteriana. Em compensação, atrapalha: interfere na ação dos irrigantes e no contato do cimento com a parede, e a penetração do cimento nos túbulos não ocorre com ela presente. Num estudo citado, com a camada removida os cimentos penetraram nos túbulos; com ela, todos foram bloqueados.\n\n**Remover ou não?** O capítulo diz que não há consenso e que as vantagens e desvantagens da remoção seguem inconclusivas. Mas há evidências crescentes a favor de remover antes da obturação.\n\n**Como se remove (procedimento usual):** irrigar com **EDTA 17%** e **hipoclorito de sódio 5,25%** (Fig. 9.10). O EDTA, um quelante, remove os componentes inorgânicos e deixa os orgânicos intactos; o hipoclorito é necessário para remover os orgânicos. O capítulo recomenda o EDTA em combinação com o hipoclorito, e diz que a combinação pode limpar e desinfetar mais que cada um isolado. O cap. 8 (p. 274) diz que, quando os dois são misturados, o hipoclorito perde a capacidade de dissolver tecido, e conclui que devem ser usados separadamente (veja o tema de irrigação). Ácido cítrico também é citado como método eficaz.\n\n**Tempo, dois capítulos do mesmo livro.** O cap. 9 diz que o tempo recomendado para remover a smear layer é de **1 a 5 minutos** (p. 306). O cap. 8 (p. 274) fala em contato do EDTA com a parede por **menos de 1 minuto** e, depois de concluída a modelagem, em cerca de um minuto. O Cohen não reconcilia os dois; cada número vale com o capítulo de origem.\n\n**Cuidados.** O EDTA sozinho não erode a dentina da parede; o uso do hipoclorito como coadjuvante do EDTA pode causar erosão, conforme o momento e as concentrações. A extrusão de hipoclorito ou de EDTA deve ser evitada. A ação de quelantes e ácidos é maior nos terços coronário e médio e menor no terço apical.\n\n**Atenção:** a irrigação em si (volume, sequência) tem tema próprio; este capítulo só trata da remoção da smear layer."
+    },
+    {
+      "id": "criterios",
+      "titulo": "Critérios radiográficos: duas listas do Cohen",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares (Figura 9.1), pp. 299–300; Materiais ideais para a obturação dos canais radiculares (Figura 9.12), pp. 306–308",
+      "texto": "O cap. 9 traz **duas listas** de critérios para avaliar a obturação na radiografia, em páginas diferentes. Elas não são idênticas e o livro não escolhe uma nem hierarquiza os critérios. Aprenda as duas, com a página de cada uma.\n\n| Lista | Onde | Critérios |\n|---|---|---|\n| 1 | pp. 299–300 (Fig. 9.1) | comprimento; conicidade; condensação; nível da obturação em guta-percha; selamento coronário (restauração provisória ou definitiva) |\n| 2 | pp. 306–308 (Fig. 9.12) | limite; conicidade; densidade; remoção da guta-percha e do cimento até a junção amelocementária (dentes anteriores) ou até o orifício de entrada dos canais (posteriores); restauração provisória ou definitiva adequada |\n\n**O que se repete:** conicidade e a restauração (provisória ou definitiva). **Só na lista 1:** comprimento, condensação, nível da obturação em guta-percha. **Só na lista 2:** limite, densidade, remoção da guta-percha e do cimento até a junção amelocementária ou o orifício de entrada. O capítulo não explica a relação entre as palavras de uma lista e as da outra, e não dá números para cada critério.\n\n**Como reconhecer na Fig. 9.1 (obturações inadequadas).** A: canino com comprimento adequado, mas sem densidade e sem selamento coronário; incisivo central com comprimento adequado e espaços vazios. B: incisivos centrais; o direito sem densidade e sem conicidade, o esquerdo com espaços vazios e uma parte do canal não preenchida. C: molar com obturação adequada, mas restauração provisória mal adaptada na distal, por falha na remoção da cárie.\n\n**Na Fig. 9.12 (obturações adequadas):** A, molar superior com limite, densidade e conicidade adequados; B, molar inferior com obturação adequada."
+    },
+    {
+      "id": "leitura-radiografica",
+      "titulo": "O que a radiografia mostra e o que esconde; erros de preparo e de obturação",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais para a obturação dos canais radiculares (avaliação radiográfica e controle de qualidade), pp. 306–308; Importância de selar, pp. 299–301",
+      "texto": "A radiografia é a base da avaliação da obturação, mas o capítulo aponta limites dela.\n\n**Densidade no terço apical.** O livro diz que a densidade do preenchimento apical é frequentemente negligenciada. Pode haver pouco cimento e um cone único mal compactado no terço apical. Na radiografia, esse terço parece menos radiopaco, com o contorno da parede do canal mal definido e com bolhas ou lacunas no material ou na adaptação.\n\n**Cimento muito radiopaco engana.** Se o cimento é muito radiopaco, ele pode preencher só a porção apical e dar ao clínico a \"falsa impressão\" de uma obturação densa e tridimensional de guta-percha. A radiopacidade também pode mascarar espaços vazios. Alguns cimentos têm partículas de prata ou sulfato de bário para aumentar a radiopacidade; isso melhora a visualização de canais laterais, mas não aumenta o selamento nem a qualidade da obturação. O capítulo chama de infundada a ideia de que cimento muito radiopaco dá obturação melhor, e diz que o cimento não precisa ser altamente radiopaco para ser efetivo.\n\n**Aparência não é qualidade.** A aparência radiográfica ou estética fica em segundo plano diante da limpeza e modelagem meticulosas.\n\n**Por que dois clínicos leem a mesma radiografia de forma diferente.** O capítulo cita diferenças de radiopacidade dos cimentos, componentes de marcas específicas de guta-percha, interpretação de bolhas, estruturas ósseas sobrejacentes, angulação radiográfica e a visão bidimensional limitada do canal.\n\n**Selamento e infiltração.** A radiografia não avalia a qualidade do selamento e não identifica bem a infiltração.\n\n**Controle de qualidade.** O capítulo trata o controle de qualidade como avaliação cuidadosa dos procedimentos: só assim as deficiências podem ser identificadas e corrigidas. Mesmo com a anatomia variando muito, o canal obturado deve refletir o formato original.\n\n**Erros de preparo (podem não ser corrigíveis):** perda de comprimento, degraus, desvios, perfuração apical, perfuração por desgaste excessivo e instrumentos fraturados.\n\n**Erros de obturação (podem ser corrigíveis):** problemas de comprimento, bolhas, desobturação inadequada e falha da restauração provisória.\n\n**Atenção:** uma obturação com boa aparência radiográfica não prova selamento. Confira densidade e vazios no terço apical, não só o comprimento. O capítulo não numera os erros nem diz qual é o mais frequente."
+    },
+    {
+      "id": "cimento-funcao",
+      "titulo": "Cimento obturador: função, inserção e o que o livro não recomenda",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais para a obturação dos canais radiculares e Tipos de cimentos, pp. 306–309; Cimentos medicamentosos e Inserção do cimento, pp. 313–315",
+      "texto": "**Cimento em toda técnica.** A maioria das técnicas usa um núcleo sólido mais um cimento obturador. Qualquer que seja o núcleo, o livro diz que o cimento é essencial em todas as técnicas e ajuda a obter selamento hermético contra fluidos.\n\n**O que o cimento faz.** Veda o espaço entre a parede do canal e o núcleo sólido; preenche espaços vazios, irregularidades, canais laterais e acessórios e os espaços entre os cones de guta-percha na condensação lateral; e lubrifica durante a obturação.\n\n**Cimento ideal (Grossman, Boxe 9.1).** O capítulo lista 11 propriedades. As mais ligadas à bancada: adere à parede quando toma presa; veda de forma hermética; é radiopaco; não se contrai ao endurecer; não mancha o dente; é bacteriostático ou ao menos não estimula bactérias; tem presa lenta; é insolúvel nos fluidos teciduais; é tolerado pelos tecidos perirradiculares; e pode ser removido com um solvente comum, se for preciso. O texto diz que nenhum cimento preenche todos os critérios.\n\n**Toxicidade e extravasamento.** Todos os cimentos são tóxicos quando recém-misturados e perdem muito da toxicidade depois da presa. Por isso o livro diz que não devem ser colocados de rotina nos tecidos perirradiculares como parte da técnica, e que o extravasamento deve ser evitado (Fig. 9.13: cimento no seio maxilar, cuja correção por técnica não cirúrgica não é possível).\n\n**Não há cimento comprovadamente melhor.** Apesar do que dizem os fabricantes, não há dados de ensaios clínicos randomizados que mostrem a superioridade de um cimento sobre os demais.\n\n**Como colocar o cimento.** O capítulo lista vários métodos: o cone principal coberto de cimento, o lentulo (Fig. 9.21), lima ou alargador e instrumentos ultrassônicos. Nenhuma técnica de inserção ou de obturação deu distribuição uniforme do cimento em todo o comprimento do núcleo, e a remoção da smear layer melhora a penetração do cimento nos túbulos.\n\n**Segurança: paraformaldeído.** O Guide to Clinical Endodontics, da Associação Americana de Endodontia (AAE, dos EUA), citado pelo livro, diz que os cimentos são usados com um material obturador sólido ou semissólido biologicamente aceitável e que obturar com material que contém paraformaldeído está abaixo do padrão de cuidados (Fig. 9.11: pasta de Sargenti). O Cohen considera os cimentos medicamentosos com paraformaldeído **fortemente contraindicados** e inaceitáveis em qualquer circunstância clínica, pelos efeitos tóxicos graves e permanentes nos tecidos perirradiculares (Fig. 9.20). Colocados com lentulo, a extrusão pelo forame resulta em osteomielite e parestesia, com neurotoxicidade irreversível. O livro diz que não são aprovados pela FDA, agência dos EUA."
+    },
+    {
+      "id": "cimento-tipos",
+      "titulo": "Tipos de cimento",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Tipos de cimentos, pp. 309–313",
+      "texto": "O capítulo agrupa os cimentos mais populares, por classe.\n\n- **Óxido de zinco e eugenol:** longa história de uso. Desvantagens: endurecimento lento, contração na presa, solubilidade e possível mancha no dente. Vantagem: atividade antimicrobiana.\n- **Com hidróxido de cálcio:** esperava-se atividade antimicrobiana e potencial de formar osso e cemento, \"infelizmente\" não demonstrados. Para liberar o hidróxido de cálcio o cimento precisa ser solúvel, o que o livro diz ser inconsistente com a função de cimento obturador.\n- **Sem eugenol:** feitos sem os efeitos irritantes do eugenol.\n- **Ionômero de vidro:** une-se à dentina. Dificuldades: condicionar as paredes dos terços apical e médio e removê-lo se for preciso retratar. Atividade antimicrobiana mínima.\n- **Resinosos (epóxica ou metacrilato):** longo histórico, adesão e ausência de eugenol. A resina epóxica em dois tubos é a formulação modificada de uma resina mais antiga que liberava formaldeído; a atual não libera. Os de metacrilato vêm em quatro gerações; os mais recentes (autocondicionantes e autoadesivos) foram divulgados pela ideia de formar um \"monobloco\" no canal.\n- **Silicone:** usado com um cone principal único. O tempo de presa é inconsistente e pode ser retardado pela irrigação final com hipoclorito.\n- **Cimentos de silicato de cálcio (biocerâmicos):** os de silicato tricálcico e dicálcico são o grupo mais recente, bioativo, derivado dos materiais tipo MTA. Escoamento, película, solubilidade, estabilidade dimensional e radiopacidade atendem à norma ISO 6876 (Tabela 9.3, p. 313); a solubilidade é maior e a radiopacidade menor que a do cimento resinoso epóxico. Nenhum estudo clínico humano revisado por pares estabeleceu o benefício do pó de silicato tricálcico nesses cimentos; os relatos são in vitro e em animais.\n\n**Película delgada:** o livro diz que, como os outros cimentos, o de silicato tricálcico/dicálcico deve ser usado em película delgada, não em bloco, tanto no cone único quanto na condensação lateral. Os biocerâmicos e as técnicas termoplásticas têm também o tema de inovações."
+    },
+    {
+      "id": "guta-percha",
+      "titulo": "Núcleo sólido: guta-percha e cone de prata",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316",
+      "texto": "**Núcleo sólido** é o material que, junto com o cimento, enche o canal. O método mais comum usa a **guta-percha**. O capítulo repete que, seja qual for a técnica, a ênfase fica na limpeza e modelagem, e que nenhum material ou técnica cria rotineiramente um selamento impermeável.\n\n**Guta-percha.** É o material sólido mais popular. Vantagens: plasticidade, facilidade de manipulação, toxicidade mínima, radiopacidade e remoção fácil com calor ou solventes. Desvantagens: não adere à dentina e se contrai ao esfriar depois de aquecida.\n\n**Composição dos cones:** cerca de 20% de guta-percha, 65% de óxido de zinco, 10% de radiopacificantes e 5% de plastificantes. Tentativas de torná-la antimicrobiana não tiveram efetividade clínica demonstrada.\n\n**Não se compacta fria.** À temperatura ambiente, a guta-percha não pode ser compactada nem tornada fluida. A condensação transmite as forças ao material e à parede do canal por igual, e isso pode resultar em fratura radicular (Fig. 9.30). Calor ou solventes como o clorofórmio a deixam fluida e adaptável às irregularidades.\n\n**Cone de prata: abaixo do padrão de cuidado.** Foi comum porque a rigidez facilitava a inserção e dava controle de comprimento previsível. Mas não preenche canais de formato irregular, o que permite infiltração, e se corrói em contato com fluidos teciduais ou saliva; a corrosão é citotóxica e impede a reparação periapical (Fig. 9.22). Por ser fácil de posicionar, levava a limpeza e modelagem inadequadas. O livro diz que a ideia de que a prata destruía microrganismos no canal não era verdadeira, e considera o uso atual abaixo do padrão de cuidado."
+    },
+    {
+      "id": "cones",
+      "titulo": "Cones: tamanhos, desinfecção e cone personalizado",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Núcleos sólidos (guta-percha: tamanhos e desinfecção; cones personalizados), pp. 316–318",
+      "texto": "**Padronizados e não padronizados.** Os padronizados seguem as normas ISO ou ADA ANSI e combinam com a conicidade dos instrumentos de aço inoxidável e de níquel-titânio. Exemplo do livro: um cone 40/0,04 tem ponta de 0,4 mm e conicidade de 0,04 mm por milímetro. As normas permitem tolerâncias, então o tamanho real varia, assim como a ponta e a conicidade da lima apical principal. Os não padronizados são nomeados pelas dimensões da ponta e do corpo (Fig. 9.23): um cone fino médio tem ponta fina e corpo médio.\n\n**Desinfecção.** A guta-percha não pode ser esterilizada por calor; o livro cita um estudo em que os cones foram esterilizados em hipoclorito de sódio a 5,25% por 1 minuto.\n\n**Cone personalizado.** Quando o forame apical é excessivamente grande ou o canal preparado é volumoso, o cone personalizado adapta o cone às paredes, reduz a chance de extrusão e pode melhorar o vedamento (Fig. 9.26). Passos do livro:\n1. Escolha um cone principal e adapte-o 2 a 4 mm aquém do comprimento preparado, com resistência friccional.\n2. Prenda-o com pinça com trava, para recolocá-lo sempre na mesma posição.\n3. Amoleça só a superfície externa da ponta por 1 a 2 segundos em clorofórmio, eucaliptol ou halotano, mantendo o núcleo semirrígido. Pode-se usar calor no lugar do solvente.\n4. Recoloque o cone no canal até o comprimento de trabalho e repita até moldar o canal em todo o comprimento preparado.\n5. Faça radiografia para verificar posição e adaptação.\n\n**Canal muito volumoso:** aqueça dois ou mais cones grandes de guta-percha e role a massa entre duas placas de vidro até o tamanho adequado (Fig. 9.27)."
+    },
+    {
+      "id": "prova-do-cone",
+      "titulo": "Escolher e provar o cone principal",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320",
+      "texto": "**Escolher.** Depois do preparo, escolha um cone **padronizado** com ponta e conicidade equivalentes ao diâmetro do canal preparado, no **comprimento de trabalho definido pela lima apical principal**. Os padronizados costumam ter menos conicidade que os não padronizados, o que deixa o espaçador penetrar mais fundo e dá vedamento final de melhor qualidade (Fig. 9.28E). Alternativa: adaptar um cone não padronizado de conicidade adequada, cortando pequenos segmentos da ponta.\n\n**Medir.** Segure o cone com a pinça de modo que a distância da ponta até o ponto de referência na pinça seja igual ao limite de preparo. Você pode marcar o ponto de referência no cone com uma ranhura (Fig. 9.28D: cones com marcas da referência coronária).\n\n**Provar.** Coloque o cone no canal. Se o tamanho está adequado, há **resistência à retirada**: o livro chama isso de \"travamento\". Quando não está adequado:\n- **cone solto:** corte pequenos segmentos da ponta para adaptá-lo;\n- **cone que não chega ao limite de preparo:** escolha um cone menor;\n- **cone que passa do limite de preparo:** use um cone maior ou encurte o existente até haver resistência à retirada no comprimento de trabalho.\n\nHá dispositivos para cortar cones com precisão num comprimento predeterminado.\n\n**Confirmar.** A seleção do cone principal é confirmada com **radiografia** (Fig. 9.28F).\n\n**Atenção:** o livro descreve a prova do cone por medida, resistência à retirada e radiografia. O capítulo não dá número para a resistência."
+    },
+    {
+      "id": "lateral",
+      "titulo": "Condensação lateral: passo a passo e cuidados",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral, pp. 318–320; evidências sobre os métodos de obturação, pp. 317–320",
+      "texto": "A condensação lateral é um método comum de obturação (Figs. 9.28 e 9.29). Serve na maioria das situações clínicas, dá controle previsível do limite durante a condensação e pode ser feita com qualquer cimento endodôntico aceitável.\n\n**Sequência (Cohen):**\n1. Confirme o cone principal com radiografia.\n2. Irrigue o canal e seque com cones de papel.\n3. Aplique o cimento nas paredes.\n4. Escolha e pré-adapte um espaçador que entre a 1 a 2 mm do comprimento de trabalho. Com o cone principal em posição, ele deve parar a 2 mm do comprimento de trabalho (são duas medidas do livro, ditas em frases separadas).\n5. Retire o espaçador com movimentos suaves para a esquerda e para a direita e coloque um cone acessório no espaço criado. Escolha cones acessórios que se adaptem ao espaçador; a correspondência entre espaçador e cones não padronizados varia.\n6. Repita até o espaçador não avançar além do terço cervical do canal.\n7. Remova o excesso de guta-percha com calor e compacte a massa cervical com calcador frio.\n8. Se quiser, faça uma radiografia intermediária para avaliar a obturação (Fig. 9.29E).\n\nO capítulo não diz quantos cones acessórios usar.\n\n**Segurança: use pressão leve.** Na condensação lateral a guta-percha não é condensada, por isso só é necessária pressão leve. O livro diz que uma pressão de apenas **1,5 kg** já pode fraturar a raiz (Fig. 9.30). Além da força, a ampliação excessiva do preparo é fator importante na fratura radicular.\n\n**Espaçador.** Os digitais podem dar melhor sensação tátil e têm menor probabilidade de induzir fratura que o espaçador manual tradicional. Os de níquel-titânio dão mais flexibilidade, menos tensão e penetração mais profunda que os de aço inoxidável. Espaçadores maiores induzem mais tensão. Parece haver relação entre vedamento de melhor qualidade e profundidade de penetração do espaçador.\n\n**O que a técnica não faz.** Ela não produz massa homogênea: cones acessórios e principais ficam laminados e separados, e se espera que o cimento preencha o espaço entre eles. Por isso pode não preencher as irregularidades do canal tão bem quanto a condensação vertical aquecida ou outras técnicas termoplásticas. A vantagem é o controle previsível do limite.\n\n**Corte do excesso.** Condense o remanescente verticalmente com calcador aquecido, na entrada do canal ou cerca de 1 mm abaixo dela nos dentes posteriores. Nos anteriores, o nível desejado é a junção amelocementária na face vestibular, para evitar problema estético se a dentina se pigmentar. Depois, o selamento coronário é feito com restauração provisória adequada.\n\n**Atenção:** o livro diz que há poucas evidências, pelas pesquisas de resultado, de que um método de obturação seja superior a outro. Os estudos prospectivos de Toronto sugeriram que a condensação vertical aquecida pode ser superior à lateral, sem evidência definitiva."
+    },
+    {
+      "id": "termoplastificadas",
+      "titulo": "Termoplastificadas e carreadores: o princípio",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação vertical aquecida, pp. 320–322; Técnica de condensação por ondas contínuas, pp. 322–323; Técnicas de injeção termoplástica, Carregadores com guta-percha, Compactação termomecânica, Técnicas com solventes e Pastas, pp. 323–328",
+      "texto": "**Ideia.** Schilder introduziu a condensação vertical aquecida como método tridimensional. O calor amolece a guta-percha, e a compactação a empurra para o interior do canal e das irregularidades. O uso crescente do preparo com rotatórios de NiTi e de cones padronizados de maior conicidade levou mais clínicos às técnicas termoplásticas. Cones que reproduzem o preparo permitem maior força hidráulica na condensação.\n\n**Preparo exigido.** Canal modelado como um cone que se estreita de modo contínuo, com o forame apical o menor possível. O cone principal é adaptado um pouco aquém do comprimento de trabalho, com resistência ao deslocamento, e o cimento vai no cone e nas paredes.\n\n**Vantagens:** preenche melhor as irregularidades do canal principal e dos acessórios que a lateral, criando massa mais homogênea.\n\n**Desvantagens (como o livro lista):** leve risco de fratura radicular vertical por força de condensação (as forças parecem iguais às da lateral); menos controle do comprimento que a lateral; possível extravasamento de material; dificuldade em canais mais curvos, onde calcadores rígidos podem não chegar à profundidade necessária.\n\n**Segurança: calor e osso.** O calcador aquecido em chama não tem controle de temperatura. Acredita-se que elevação de temperatura acima de 10 °C na superfície da raiz cause dano ósseo irreversível; por isso o capítulo pede cautela com fontes de calor sem controle.\n\n**Variações que o capítulo descreve (aqui só o essencial):**\n- **Ondas contínuas:** variação da condensação vertical aquecida, com a ponta aquecida a poucos milímetros da ponta da guta-percha; a porção apical funciona essencialmente como técnica de cone único.\n- **Injeção termoplástica:** a guta-percha é aquecida fora do dente e injetada no canal. Exige cimento. Dificuldade: falta de controle do comprimento, com sobreobturação e subobturação comuns.\n- **Carregadores com guta-percha:** haste rígida revestida de guta-percha aquecida, inserida no canal. O cimento é necessário. Vantagens: facilidade de aplicação e possibilidade de a guta-percha penetrar em canais acessórios e laterais. Desvantagem: extrusão além do limite apical.\n- **Compactação termomecânica:** instrumento em baixa rotação gera fricção que amolece a guta-percha. Desvantagens: possível extrusão, fratura do instrumento, desgaste das paredes, impossibilidade de uso em canais curvos e possível geração excessiva de calor.\n- **Solventes:** a guta-percha plastificada com clorofórmio, eucaliptol ou xilol contrai ao evaporar o solvente, forma bolhas, não tem comprimento controlável e irrita os tecidos perirradiculares. Foram abandonados.\n- **Pastas:** adaptam-se à anatomia complexa, mas a fluidez leva a extrusão ou obturação incompleta; se extruírem, só cirurgia corrige. Com paraformaldeído, a toxicidade é grave.\n\nOs equipamentos termoplásticos e os biocerâmicos ficam no tema de inovações."
+    },
+    {
+      "id": "selamento-coronario",
+      "titulo": "Selamento da entrada do canal",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330; Importância de selar efetivamente o sistema de canais radiculares, pp. 299–300; Condensação lateral (Fig. 9.29F), p. 320",
+      "texto": "**Por que selar a entrada.** Independentemente da técnica de obturação, pode haver microinfiltração coronária em pouco tempo, mesmo em canais aparentemente bem obturados, e ela pode causar infecção periapical. As pesquisas antigas olhavam o vedamento apical; hoje o livro dá importância ao vedamento coronário para prevenir a infiltração bacteriana.\n\n**Depois de obturar.** A guta-percha é removida até o nível da entrada dos canais e o selamento é feito com restauração provisória adequada. Um material de cor diferente da dentina pode ser usado para identificação, se for preciso colocar depois um retentor intrarradicular.\n\n**Outro método** para retardar a infiltração, caso a restauração coronária falhe: recobrir o assoalho da câmara com material adesivo, depois de remover o excesso de guta-percha e de cimento na entrada dos canais.\n\n**Restauração provisória e definitiva.** O livro sugere trocar a restauração provisória por uma definitiva logo, e diz que um estudo clínico citado mostrou que restaurações cimentadas melhoraram a sobrevida do dente em relação às provisórias. O cap. 9 também discute o dente que ficou muito tempo só com a restauração provisória (pp. 299–300); este tema não entra nesse ponto.\n\n**Atenção:** o capítulo não detalha o passo a passo do selamento provisório. E a radiografia não avalia a qualidade do selamento."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Em quais três direções o Cohen diz que o sistema de canais deve ser selado?",
+      "verso": "Apical, coronária e lateral.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Importância de selar efetivamente o sistema de canais radiculares, pp. 299–301"
+    },
+    {
+      "id": "f02",
+      "frente": "Quando se pode obturar, depois da limpeza e modelagem (cap. 9)?",
+      "verso": "Quando o canal pode ser mantido seco e o paciente não tem dor significativa nem edema. Com exsudato presente ou persistente, não se obtura. Canal que não pode ser mantido seco: obturação contraindicada.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Quando obturar, pp. 301–302"
+    },
+    {
+      "id": "f03",
+      "frente": "Com abscesso perirradicular agudo e sintomas, o que o cap. 9 diz sobre a obturação?",
+      "verso": "Normalmente é adiada até o paciente ficar sem sintomas.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Momento da obturação (tecido pulpar necrótico), pp. 301–302"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual é a referência tradicional do limite apical da obturação, e como o cap. 9 a qualifica?",
+      "verso": "Cerca de 1 mm do ápice radiográfico. O livro diz que o limite ainda é um valor empírico. Obturar até o ápice radiográfico reflete sobre-extensão.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305"
+    },
+    {
+      "id": "f05",
+      "frente": "Como compactar a guta-percha e o cimento para prevenir sobre-extensão?",
+      "verso": "Contra um batente apical.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305"
+    },
+    {
+      "id": "f06",
+      "frente": "Como se remove a smear layer antes de obturar, no procedimento usual do cap. 9?",
+      "verso": "Irrigação com EDTA 17% (remove o inorgânico) e hipoclorito de sódio 5,25% (remove o orgânico).",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+    },
+    {
+      "id": "f07",
+      "frente": "Por que o cap. 9 recomenda remover a smear layer antes de obturar?",
+      "verso": "Ela interfere na ação dos irrigantes e no contato do cimento com a parede, e a penetração do cimento nos túbulos não ocorre com ela presente. O livro diz que não há consenso, mas que há evidências crescentes a favor de remover.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais critérios radiográficos de obturação o Cohen lista nas pp. 299–300 (Fig. 9.1)?",
+      "verso": "Comprimento, conicidade, condensação, nível da obturação em guta-percha e selamento coronário. A lista das pp. 306–308 (Fig. 9.12) é outra: limite, conicidade, densidade, remoção da guta-percha e do cimento até a junção amelocementária ou o orifício, e restauração.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Importância de selar (Fig. 9.1), pp. 299–300; Materiais ideais (Fig. 9.12), pp. 306–308"
+    },
+    {
+      "id": "f09",
+      "frente": "Por que um cimento muito radiopaco engana na leitura da radiografia?",
+      "verso": "Pode dar a falsa impressão de obturação densa e mascarar espaços vazios. A radiopacidade não aumenta o selamento nem a qualidade da obturação.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais (avaliação radiográfica), pp. 306–308"
+    },
+    {
+      "id": "f10",
+      "frente": "Para que serve o cimento obturador, segundo o cap. 9?",
+      "verso": "Veda o espaço entre a parede do canal e o núcleo sólido, preenche irregularidades, canais laterais e acessórios e os espaços entre os cones na condensação lateral, e lubrifica durante a obturação.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais para a obturação dos canais radiculares, pp. 306–309"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual a posição do Cohen sobre cimentos com paraformaldeído?",
+      "verso": "Fortemente contraindicados e inaceitáveis em qualquer circunstância clínica, pela toxicidade grave e permanente nos tecidos perirradiculares.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual a composição aproximada de um cone de guta-percha, segundo o cap. 9?",
+      "verso": "Cerca de 20% de guta-percha, 65% de óxido de zinco, 10% de radiopacificantes e 5% de plastificantes.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Núcleos sólidos (guta-percha), pp. 315–316"
+    },
+    {
+      "id": "f13",
+      "frente": "Como o cap. 9 descreve a prova do cone principal?",
+      "verso": "Mede-se o cone na pinça até o limite de preparo; se o tamanho está certo, há resistência à retirada (\"travamento\"); a seleção é confirmada com radiografia.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320"
+    },
+    {
+      "id": "f14",
+      "frente": "Na condensação lateral, que pressão já pode fraturar a raiz?",
+      "verso": "Apenas 1,5 kg. Só é necessária pressão leve, porque a guta-percha não é condensada.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral, pp. 318–320"
+    },
+    {
+      "id": "f15",
+      "frente": "Por que o cap. 9 pede cautela com calcador aquecido em chama?",
+      "verso": "Ele não tem controle de temperatura. Acredita-se que elevação acima de 10 °C na superfície da raiz cause dano ósseo irreversível.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação vertical aquecida, pp. 320–323"
+    },
+    {
+      "id": "f16",
+      "frente": "Por que o selamento da entrada do canal importa, segundo o cap. 9?",
+      "verso": "Pode haver microinfiltração coronária em pouco tempo, mesmo em canal aparentemente bem obturado, causando infecção periapical.",
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Vedamento da entrada do canal, pp. 329–330"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Você terminou a limpeza e modelagem de um canal e, ao secar com cones de papel, ele volta a ficar úmido, com exsudato saindo do canal. O que o cap. 9 do Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Obturar assim mesmo, porque a sessão única tem a mesma reparação que várias sessões.",
+          "correta": false,
+          "justificativa": "O capítulo diz que não há diferença na reparação entre uma e várias sessões, mas isso não autoriza obturar com exsudato: com exsudato presente ou persistente, não se obtura.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Quando obturar, pp. 301–302"
+        },
+        {
+          "texto": "Obturar com condensação vertical aquecida, que fecha o canal com mais calor e controla o exsudato.",
+          "correta": false,
+          "justificativa": "O critério é o canal poder ser mantido seco; a técnica de obturação não o substitui.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Quando obturar, pp. 301–302"
+        },
+        {
+          "texto": "Não obturar nesse momento, porque a obturação de canal que não pode ser mantido seco é contraindicada.",
+          "correta": true,
+          "justificativa": "O critério do capítulo (p. 302) é o canal poder ser mantido seco, sem dor significativa nem edema; com exsudato presente ou persistente, não se obtura, e obturação de canal que não se mantém seco é contraindicada.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Quando obturar, pp. 301–302"
+        },
+        {
+          "texto": "Obturar, porque a ausência de dor e de edema já basta para o critério.",
+          "correta": false,
+          "justificativa": "Dor e edema ausentes são só parte do critério. Com exsudato, não se obtura, e canal que não pode ser mantido seco tem obturação contraindicada.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Quando obturar, pp. 301–302"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Quando obturar, pp. 301–302",
+      "secao": "momento",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Na radiografia de uma obturação, a guta-percha chega até o ápice radiográfico. Segundo o cap. 9 do Cohen, o que isso reflete?",
+      "alternativas": [
+        {
+          "texto": "Sobre-extensão do material, porque o forame costuma ficar afastado do ápice.",
+          "correta": true,
+          "justificativa": "O capítulo diz que o forame não costuma coincidir com o ápice e conclui que obturar até o ápice radiográfico reflete sobre-extensão.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–305"
+        },
+        {
+          "texto": "Obturação no limite correto, porque o ápice radiográfico é a referência padrão do capítulo.",
+          "correta": false,
+          "justificativa": "A referência tradicional do capítulo é cerca de 1 mm do ápice radiográfico, e não o próprio ápice.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–305"
+        },
+        {
+          "texto": "Obturação na junção cementodentinária, que é o limite apical ideal.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a junção cementodentinária não pode ser determinada clinicamente e é irregular dentro do canal.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–305"
+        },
+        {
+          "texto": "Obturação correta, porque o capítulo manda passar o forame para vedar a constrição.",
+          "correta": false,
+          "justificativa": "O capítulo diz que instrumentação e obturação não devem se estender além do forame apical.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Limite da obturação, pp. 302–305"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Limite da obturação, pp. 302–305",
+      "secao": "limite-apical",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Você vai remover a smear layer antes de obturar um dente na bancada. Segundo o cap. 9 do Cohen, qual é o procedimento usual?",
+      "alternativas": [
+        {
+          "texto": "EDTA 17% sozinho, para remover tudo.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o EDTA remove os componentes inorgânicos e deixa os orgânicos intactos; por isso o hipoclorito é necessário.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+        },
+        {
+          "texto": "Irrigar com EDTA 17% e hipoclorito de sódio 5,25%, usando os dois.",
+          "correta": true,
+          "justificativa": "É o procedimento usual do capítulo: o quelante remove o inorgânico, o hipoclorito remove o orgânico, e o capítulo recomenda o EDTA em combinação com o hipoclorito.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+        },
+        {
+          "texto": "Não remover, porque a smear layer é barreira completa contra bactérias.",
+          "correta": false,
+          "justificativa": "O capítulo diz que ela não é barreira completa, só barreira física que reduz a penetração bacteriana, e que evidências crescentes apoiam a remoção antes da obturação.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+        },
+        {
+          "texto": "Só hipoclorito de sódio, que remove as partes inorgânica e orgânica.",
+          "correta": false,
+          "justificativa": "O capítulo atribui a remoção do inorgânico ao quelante e a do orgânico ao hipoclorito, e recomenda usar os dois.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Preparo para obturação, pp. 305–307"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Preparo para obturação, pp. 305–307",
+      "secao": "smear",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Uma radiografia mostra molar com obturação de comprimento, densidade e conicidade adequados, mas com restauração provisória mal adaptada na distal, por falha na remoção da cárie. O que o cap. 9 do Cohen conclui?",
+      "alternativas": [
+        {
+          "texto": "A obturação é adequada, porque os critérios radiográficos avaliam só o canal.",
+          "correta": false,
+          "justificativa": "A restauração provisória ou definitiva adequada consta nas duas listas de critérios do capítulo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Importância de selar (Figura 9.1), pp. 299–300; Materiais ideais (Figura 9.12), pp. 306–308"
+        },
+        {
+          "texto": "A obturação é inadequada pelo selamento coronário, mesmo com o canal bem obturado.",
+          "correta": true,
+          "justificativa": "É o caso da Fig. 9.1C: obturação adequada, mas restauração provisória mal adaptada, e o selamento coronário é critério do capítulo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Importância de selar (Figura 9.1), pp. 299–300"
+        },
+        {
+          "texto": "A obturação é inadequada por falta de conicidade.",
+          "correta": false,
+          "justificativa": "No caso descrito a conicidade está adequada; o defeito está na restauração provisória.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Importância de selar (Figura 9.1), pp. 299–300"
+        },
+        {
+          "texto": "É um erro de preparo, que pode não ser corrigível.",
+          "correta": false,
+          "justificativa": "A falha da restauração provisória está entre os erros de obturação, que podem ser corrigíveis.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais (controle de qualidade), pp. 306–308"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Importância de selar (Figura 9.1), pp. 299–300; Materiais ideais (Figura 9.12), pp. 306–308",
+      "secao": "criterios",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Uma radiografia mostra obturação aparentemente densa, com cimento muito radiopaco, mas o terço apical tem o contorno da parede mal definido e pequenas lacunas. O que o cap. 9 do Cohen diz sobre isso?",
+      "alternativas": [
+        {
+          "texto": "Quanto mais radiopaco o cimento, melhor a obturação.",
+          "correta": false,
+          "justificativa": "O capítulo chama de infundada a ideia de que cimento muito radiopaco dá obturação melhor.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais (avaliação radiográfica), pp. 306–308"
+        },
+        {
+          "texto": "A densidade do terço apical raramente é um problema na leitura.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a densidade do preenchimento apical é frequentemente negligenciada, e os sinais descritos (contorno mal definido, lacunas) apontam justamente para o terço apical.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais (avaliação radiográfica), pp. 306–308"
+        },
+        {
+          "texto": "Pode ser uma falsa impressão: o cimento pode preencher só o ápice e mascarar vazios.",
+          "correta": true,
+          "justificativa": "O capítulo diz que cimento muito radiopaco pode dar falsa impressão de obturação densa e que a radiopacidade pode mascarar espaços vazios.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais (avaliação radiográfica), pp. 306–308"
+        },
+        {
+          "texto": "A radiografia basta para avaliar a qualidade do selamento.",
+          "correta": false,
+          "justificativa": "O capítulo diz que uma radiografia não avalia a qualidade do selamento.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Importância de selar, pp. 299–301"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais (avaliação radiográfica), pp. 306–308",
+      "secao": "leitura-radiografica",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Um colega diz que, com um cone único bem ajustado, dá para obturar sem cimento. O que o cap. 9 do Cohen responde?",
+      "alternativas": [
+        {
+          "texto": "O cimento é essencial em todas as técnicas, seja qual for o núcleo sólido.",
+          "correta": true,
+          "justificativa": "O capítulo diz que, qualquer que seja o núcleo sólido, o cimento obturador é essencial em todas as técnicas.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais e Tipos de cimentos, pp. 306–309"
+        },
+        {
+          "texto": "Só a condensação lateral precisa de cimento, para preencher entre os cones.",
+          "correta": false,
+          "justificativa": "O cimento preenche os espaços entre os cones na condensação lateral, mas o capítulo o chama de essencial em todas as técnicas.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais e Tipos de cimentos, pp. 306–309"
+        },
+        {
+          "texto": "O cimento serve só para lubrificar na hora da obturação.",
+          "correta": false,
+          "justificativa": "Lubrificar é uma das funções; o cimento também veda o espaço entre parede e núcleo e preenche irregularidades e canais laterais e acessórios.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais e Tipos de cimentos, pp. 306–309"
+        },
+        {
+          "texto": "Só as técnicas termoplásticas exigem cimento.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o cimento é essencial em todas as técnicas, não só nas termoplásticas.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Materiais ideais e Tipos de cimentos, pp. 306–309"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Materiais ideais e Tipos de cimentos, pp. 306–309",
+      "secao": "cimento-funcao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Alguém sugere obturar com uma pasta que contém paraformaldeído, como a de Sargenti. Segundo o cap. 9 do Cohen, o que se faz?",
+      "alternativas": [
+        {
+          "texto": "Usar, desde que a pasta seja levada ao canal com o lentulo.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, colocados com lentulo, a extrusão resulta em osteomielite e parestesia.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315"
+        },
+        {
+          "texto": "Usar em sessão única, para limitar o tempo de contato com os tecidos.",
+          "correta": false,
+          "justificativa": "O capítulo diz que são inaceitáveis em qualquer circunstância clínica.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315"
+        },
+        {
+          "texto": "Usar, porque estão aprovados pela FDA, agência dos EUA.",
+          "correta": false,
+          "justificativa": "O capítulo diz que esses cimentos não são aprovados pela FDA.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315"
+        },
+        {
+          "texto": "Não usar: o livro os considera fortemente contraindicados pela toxicidade grave e permanente.",
+          "correta": true,
+          "justificativa": "É a posição do capítulo: fortemente contraindicados, inaceitáveis em qualquer circunstância clínica, por seus efeitos tóxicos nos tecidos perirradiculares.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Cimentos medicamentosos, pp. 313–315",
+      "secao": "cimento-funcao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Você acha um dente com obturação feita com cone de prata. Por que o cap. 9 do Cohen considera o uso atual desse cone abaixo do padrão de cuidado?",
+      "alternativas": [
+        {
+          "texto": "Porque é difícil de inserir e dá pouco controle do comprimento.",
+          "correta": false,
+          "justificativa": "O capítulo diz o contrário: a rigidez facilitava a inserção e dava controle de comprimento previsível.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316"
+        },
+        {
+          "texto": "Porque se corrói em contato com fluidos teciduais ou saliva, e a corrosão é citotóxica e impede a reparação periapical.",
+          "correta": true,
+          "justificativa": "É o que o capítulo diz da corrosão do cone de prata; ele também não preenche canais de formato irregular, o que permite infiltração.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316"
+        },
+        {
+          "texto": "Porque destruía microrganismos em excesso e irritava o periápice.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a ideia de que a prata destruía microrganismos no canal não era verdadeira.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316"
+        },
+        {
+          "texto": "Porque se contrai ao esfriar depois de aquecido.",
+          "correta": false,
+          "justificativa": "A contração ao esfriar depois de aquecida é desvantagem da guta-percha, não do cone de prata.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Núcleos sólidos (cones de prata e guta-percha), pp. 315–316",
+      "secao": "guta-percha",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Você mediu o cone principal na pinça até o limite de preparo e, na prova, ele não chega a esse limite. O que o cap. 9 do Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Cortar pequenos segmentos da ponta, como se faz com o cone solto.",
+          "correta": false,
+          "justificativa": "O capítulo indica cortar pequenos segmentos da ponta para o cone solto, e não para o que não chega ao limite.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320"
+        },
+        {
+          "texto": "Aceitar o cone, porque a radiografia confirma a posição depois.",
+          "correta": false,
+          "justificativa": "A radiografia confirma a seleção do cone, mas o capítulo manda ajustar o cone até o limite de preparo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320"
+        },
+        {
+          "texto": "Escolher um cone menor.",
+          "correta": true,
+          "justificativa": "É o que o capítulo diz para o cone que não chega ao limite de preparo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320"
+        },
+        {
+          "texto": "Usar um cone maior ou encurtar o existente.",
+          "correta": false,
+          "justificativa": "Essa é a indicação do capítulo para o cone que passa do limite de preparo.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral (seleção e prova do cone principal), pp. 318–320",
+      "secao": "prova-do-cone",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Na condensação lateral, o espaçador ainda está no terço médio do canal e os cones acessórios não entram mais com facilidade; você pensa em aumentar a pressão no espaçador. Segundo o cap. 9 do Cohen, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Manter pressão leve: uma pressão de apenas 1,5 kg já pode fraturar uma raiz.",
+          "correta": true,
+          "justificativa": "O capítulo diz que só é necessária pressão leve, porque a guta-percha não é condensada, e que 1,5 kg já pode fraturar uma raiz.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, pp. 318–320"
+        },
+        {
+          "texto": "Aumentar a pressão, porque a guta-percha precisa ser condensada para se adaptar.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, na condensação lateral, a guta-percha não é condensada, e por isso só se precisa de pressão leve.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, pp. 318–320"
+        },
+        {
+          "texto": "Trocar por um espaçador maior, que penetra mais.",
+          "correta": false,
+          "justificativa": "O capítulo diz que espaçadores maiores induzem mais tensão.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, pp. 318–320"
+        },
+        {
+          "texto": "Trocar o espaçador digital pelo espaçador manual tradicional, que tem melhor sensação tátil.",
+          "correta": false,
+          "justificativa": "O capítulo diz que os digitais podem dar melhor sensação tátil e têm menor probabilidade de induzir fratura que o espaçador manual tradicional.",
+          "fonte": "cohen12-cap09",
+          "onde": "cap. 9, Condensação lateral, pp. 318–320"
+        }
+      ],
+      "fonte": "cohen12-cap09",
+      "onde": "cap. 9, Condensação lateral, pp. 318–320",
+      "secao": "lateral",
+      "figura": null
+    }
+  ]
+}

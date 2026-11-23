@@ -1,0 +1,536 @@
+{
+  "slug": "tumores-benignos-de-tecidos-moles",
+  "titulo": "Tumores benignos de tecidos moles: fibroma, papiloma, lipoma e hemangioma",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 10 e 12",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap12",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 12, Neoplasias de Tecidos Moles, p. 501–563.",
+      "curta": "Neville 5ª ed., cap. 12"
+    },
+    {
+      "id": "neville5-cap10",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 10, Patologia Epitelial, p. 344–447.",
+      "curta": "Neville 5ª ed., cap. 10"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "neoplasia-ou-reacional",
+      "titulo": "Neoplasia ou hiperplasia reacional: por que a distinção muda a conduta",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Introdução do capítulo; Fibroma, abertura e Tratamento e prognóstico, p. 501–503; Hemangioma e malformações vasculares, abertura, p. 533–537; Granuloma piogênico, abertura, p. 512–514",
+      "texto": "O capítulo 12 abre com um aviso: as lesões de tecido mole de origem mesenquimal (do tecido conjuntivo) da boca incluem **proliferações reacionais que imitam tumores** e **neoplasias verdadeiras**. Quase todo tipo de tecido conjuntivo pode originar neoplasias benignas e malignas; nas neoplasias, o livro liga o crescimento a mutações que dirigem as células para um tipo de tecido.\n\n**Hiperplasia reacional** é o tecido crescendo em resposta a irritação ou trauma local. O fibroma é o exemplo da dúvida: é chamado de \"neoplasia\" mais comum da boca, mas o livro questiona se, na maioria dos casos, não seria uma hiperplasia reacional do tecido fibroso. O fibroma de células gigantes, ao contrário, não parece ligado à irritação crônica.\n\n**Por que isso muda o que você faz:**\n- Lesão diagnosticada só pela clínica e inócua, como a hiperplasia do freio labial, geralmente não precisa de tratamento.\n- Nódulo com cara de fibroma é removido e **sempre vai para exame microscópico**, porque outras neoplasias, benignas e malignas, podem ter o mesmo aspecto.\n- Nas lesões vasculares, o livro separa o **hemangioma** (tumor, com proliferação do endotélio, que na infância tende a regredir) da **malformação vascular** (defeito estrutural dos vasos, que persiste a vida toda). Um se acompanha; o outro não some sozinho.\n\nHiperplasia fibrosa inflamatória, hiperplasia papilar inflamatória, granuloma piogênico (cujo subtipo de padrão lobular, o hemangioma capilar lobular, hoje é classificado entre os tumores vasculares; Boxe 12.2), lesão periférica de células gigantes e fibroma ossificante periférico são estudados no tema Lesões reacionais."
+    },
+    {
+      "id": "fibroma",
+      "titulo": "Fibroma",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 501–503",
+      "texto": "**O que é:** um nódulo de tecido conjuntivo fibroso recoberto por epitélio. O livro o trata como a \"neoplasia\" mais comum da boca, mas considera que muitos casos podem ser hiperplasia reacional a trauma ou irritação. Outros nomes: fibroma de irritação, fibroma traumático, hiperplasia fibrosa focal.\n\n**Onde:** o local mais comum é a **mucosa jugal, ao longo da linha de oclusão**, provavelmente pela mordida na bochecha. Mucosa labial, língua e gengiva também são comuns. Muitos fibromas gengivais devem ser a maturação fibrosa de um granuloma piogênico antigo.\n\n**Como é:**\n- Nódulo de **superfície lisa**, rosado, da mesma cor da mucosa vizinha. Em pacientes negros pode ser cinza-acastanhado.\n- A superfície pode ficar **branca** por hiperqueratose, quando a irritação continua.\n- Muitos são **sésseis** (de base larga); alguns são **pediculados** (presos por um pedículo).\n- A maioria tem **1,5 cm ou menos**.\n- Não dói, a menos que a superfície ulcere por trauma.\n\n**Em quem:** mais comum da 4ª à 6ª década de vida; entre os casos biopsiados, a proporção homem:mulher é de 1:2.\n\n**Histopatologia:** massa nodular de tecido conjuntivo fibroso, em geral denso e rico em colágeno, **sem cápsula**, que se mistura ao conjuntivo vizinho.\n\n**Conduta:** excisão cirúrgica conservadora. A recidiva é extremamente rara. A peça **deve ir para exame microscópico**, porque outras neoplasias benignas e malignas podem simular um fibroma.\n\n**Hiperplasia do freio:** pequeno crescimento exofítico, sem sintomas, preso ao freio, mais no freio labial superior. Num estudo com crianças de 5 a 13 anos, a prevalência foi de 17,1%. Como se reconhece pela clínica e é inócua, geralmente não se trata."
+    },
+    {
+      "id": "papiloma",
+      "titulo": "Papiloma escamoso e as outras lesões verrucosas por HPV",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Lesões epiteliais benignas associadas ao papilomavírus humano: Papiloma; Verruga vulgar; Condiloma acuminado, p. 344–353",
+      "texto": "**O que é:** proliferação benigna do **epitélio** pavimentoso estratificado, que forma uma lesão papilar ou verruciforme. Atenção: o tecido de origem é epitelial, não conjuntivo. É considerada induzida pelo HPV (tipos 6 e 11 os mais encontrados), mas o vírus só é demonstrado numa minoria dos casos orais. O teste de HPV não é necessário para diagnosticar e tratar.\n\n**Frequência:** cerca de 3% de todas as lesões orais biopsiadas; de 7 a 8% das lesões orais em crianças.\n\n**Onde e em quem:** palato, língua e lábios, mas qualquer ponto da mucosa. É a **lesão de tecido mole mais comum do palato mole**. Aparece em qualquer idade, mais diagnosticada dos 30 aos 50 anos; sem predileção clara por sexo.\n\n**Como é:** nódulo exofítico (cresce para fora), mole, sem sintomas, **geralmente pediculado**, com muitas projeções em forma de dedo que dão aspecto de **\"couve-flor\"**. As projeções podem ser pontiagudas ou rombas. A cor vai de branca a levemente vermelha ou normal, conforme a queratina. Em geral é **solitário**, cresce rápido até cerca de **0,5 cm** e depois quase não muda.\n\n**Histopatologia:** projeções de epitélio em forma de dedo, cada uma com um eixo de conjuntivo com vasos.\n\n**Conduta:** excisão cirúrgica conservadora **incluindo a base**; recidiva improvável. Lesões deixadas sem tratamento por anos, em geral, não mostraram transformação maligna nem aumento contínuo.\n\n**Como separar das parecidas:**\n- **Verruga vulgar:** rara na boca, muito comum na pele; mais em crianças; contagiosa por autoinoculação. Na boca aparece no vermelhão do lábio, mucosa labial ou parte anterior da língua, quase sempre **branca**, em geral menor que 5 mm, e **múltiplas lesões são comuns**.\n- **Condiloma acuminado:** infecção sexualmente transmissível; mais em adolescentes e adultos jovens; mucosa labial, freio lingual e palato mole. É **séssil**, rosa, com projeções curtas e rombas, **maior que o papiloma** (média de 1,0 a 1,5 cm) e costuma aparecer **junto com outros condilomas**. Deve ser tratado, porque é contagioso. Em criança pequena pode indicar abuso sexual.\n\nA clínica e até a microscopia dessas três lesões podem ser difíceis de separar."
+    },
+    {
+      "id": "lipoma",
+      "titulo": "Lipoma",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lipoma, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 517–518",
+      "texto": "**O que é:** neoplasia benigna de **gordura**. É a neoplasia mesenquimal mais comum do corpo, mas muitos ficam no tronco e na raiz dos membros: só **1 a 4%** dos lipomas aparecem na região oral e maxilofacial. Parece mais comum em obesos.\n\n**Um detalhe que ajuda a explicar ao paciente:** o metabolismo do lipoma é independente da gordura do corpo. Se a pessoa emagrece, o lipoma não diminui.\n\n**Como é:**\n- Nódulo de **superfície lisa** e **consistência macia**, séssil ou pediculado.\n- Cor **amarelada**; lesões profundas podem parecer rosadas.\n- Sem sintomas; costuma ser notado meses ou anos antes do diagnóstico.\n- Muitos medem **menos de 3 cm**.\n\n**Onde:** **mucosa jugal e vestíbulo** somam **50%** dos casos intraorais. Depois vêm língua, assoalho da boca e lábios.\n\n**Cuidado na mucosa jugal:** parte desses casos pode não ser neoplasia, e sim **herniação do coxim gorduroso** através do músculo bucinador, depois de trauma em criança ou de cirurgia de terceiros molares em adultos mais velhos.\n\n**Em quem:** a maioria tem **40 anos ou mais**; é incomum em criança. Distribuição equilibrada entre os sexos.\n\n**Histopatologia:** células de gordura maduras, quase iguais à gordura normal, em geral bem delimitadas e às vezes com uma fina cápsula fibrosa. A variante mais comum é o fibrolipoma, com mais tecido fibroso.\n\n**Conduta:** excisão local conservadora; recidivas raras. A exceção é o lipoma intramuscular, que se infiltra entre as fibras musculares e recidiva mais, mas é raro na boca."
+    },
+    {
+      "id": "hemangioma",
+      "titulo": "Hemangioma: o tumor vascular da infância",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, abertura, Boxe 12.2, Características clínicas e radiográficas (Hemangioma), Características histopatológicas e Tratamento e prognóstico, p. 533–537",
+      "texto": "**Tumor ou malformação?** Hoje o livro reserva o nome **hemangioma** para o tumor vascular benigno com **proliferação do endotélio**. **Malformação vascular** é uma anomalia estrutural dos vasos, com renovação normal das células endoteliais. Por serem parecidas, muitas malformações são chamadas erradamente de hemangioma.\n\n**Hemangioma infantil:** o tumor benigno mais comum da infância, em **4 a 5% das crianças**.\n- Raramente está presente ao nascer; surge nas primeiras semanas de vida.\n- Mais comum em meninas (de 3:1 a 5:1) e em pessoas brancas. **60%** ficam na cabeça e pescoço; 80% são únicos.\n- Cresce rápido, mais que a criança, por **6 a 12 meses**; depois passa a crescer na proporção da criança e regride devagar.\n- Superficial: aumento de volume vermelho-claro de superfície irregular (\"hemangioma em morango\"), **firme e borrachoso**; a pressão **não esvazia** o sangue. Profundo: pode ser só um aumento azulado.\n- Na regressão fica roxo-escuro e menos firme. Cerca de **metade se resolve até os 5 anos** e **90% até os 9 anos**. Mais de 40% deixam alteração permanente (atrofia, cicatriz, telangiectasia).\n\n**Hemangioma congênito:** raro, já pronto ao nascer; alguns regridem rápido, com involução completa entre 9 e 14 meses de vida; outros regridem em parte ou não regridem.\n\n**Complicações** em cerca de 20%: a mais comum é a **ulceração**. Perto do olho pode prejudicar a visão; no pescoço e laringe, obstruir a via aérea.\n\n**Conduta:** como a maioria regride, o manejo é a **\"negligência acompanhada\"**: observar e explicar aos pais que, apesar do crescimento rápido, a regressão virá. Para lesões complicadas ou que ameaçam a vida, o tratamento de primeira linha é o **propranolol** (betabloqueador). A cirurgia raramente se justifica; entra, por exemplo, em lesão pediculada que ulcera ou sangra repetidamente."
+    },
+    {
+      "id": "malformacoes",
+      "titulo": "Malformações vasculares e o risco das lesões intraósseas",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas (Malformações vasculares; Malformações vasculares intraósseas) e Tratamento e prognóstico, p. 533–537",
+      "texto": "**Regra geral:** a malformação vascular está presente ao nascer e **persiste a vida toda**, crescendo junto com o paciente. Classifica-se pelo tipo de vaso (capilar, venosa, arteriovenosa) e pelo fluxo (baixo ou alto).\n\n**Malformação capilar (mancha \"vinho do Porto\"):** mancha plana, rosa a roxa, em 0,3% dos recém-nascidos, mais na face, no território do trigêmeo. Com a idade escurece ou fica nodular. Tratamento possível com laser de corante pulsado.\n\n**Malformação venosa (baixo fluxo):** **azul** e **facilmente compressível**. Pode aumentar de volume em posição dependente (em declive) ou com o aumento da pressão venosa; pode formar trombos e flebólitos. Pequena e estável pode não precisar de tratamento; grande e problemática recebe **escleroterapia** (injeção de agente que induz fibrose), às vezes seguida de cirurgia.\n\n**Malformação arteriovenosa (alto fluxo):** comunicação direta entre artéria e veia. Pode só ser notada no fim da infância ou na vida adulta. Pelo fluxo rápido, costuma ter **trepidação palpável** e a pele por cima é **quente**; pode doer, sangrar e ulcerar. Quando precisa ser ressecada, faz-se embolização 24 a 48 horas antes, para reduzir o sangramento.\n\n**Malformação vascular intraóssea (\"hemangioma\" do osso):** mais comum nas três primeiras décadas e **três vezes mais na mandíbula** que na maxila. Pode haver mobilidade dentária, sangramento pelo sulco gengival e pulsação. Na radiografia é variável: radiolucidez multilocular em \"favo de mel\" ou \"bolhas de sabão\", ou imagem semelhante a cisto.\n\n**O que não fazer:** já houve hemorragias graves e até fatais após **biopsia incisional ou extração dentária** na área dessas lesões. Por isso, antes de biopsiar qualquer lesão intraóssea sem diagnóstico, faça **aspiração com agulha** para excluir malformação vascular."
+    },
+    {
+      "id": "outros",
+      "titulo": "Outros que entram no diferencial",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma de células gigantes, p. 503–504; Malformações linfáticas (linfangioma; higroma cístico), p. 539–541; Tumor de células granulares, Características clínicas, Características histopatológicas e Tratamento e prognóstico, p. 531–532",
+      "texto": "**Fibroma de células gigantes**\n- Neoplasia que, ao contrário do fibroma comum, não parece ligada à irritação crônica.\n- Nódulo sem sintomas, séssil ou pediculado, em geral **menor que 1 cm**, com superfície **papilar**: por isso pode ser confundido com papiloma.\n- Mais em jovens (cerca de 60% nas três primeiras décadas). Cerca de 50% na **gengiva**, a inferior duas vezes mais que a superior; língua e palato também.\n- O traço microscópico: fibroblastos grandes, estrelados, com vários núcleos, perto da superfície.\n- Conduta: excisão conservadora; recorrência rara.\n- **Papila retrocanina:** pápula rosa, menor que 5 mm, muitas vezes bilateral, na gengiva lingual do canino inferior. É variação anatômica normal, comum em jovens, que some com a idade. Reconheça: ela **não precisa ser removida**.\n\n**Malformação linfática (linfangioma)**\n- Cerca de metade é notada ao nascer e 90% aparecem até os 2 anos; 50 a 75% ficam na cabeça e pescoço.\n- Na boca, o local mais comum são os **dois terços anteriores da língua**, onde pode causar macroglossia (língua aumentada).\n- Superfície pedregosa, como um grupo de **vesículas translúcidas** (\"ovos de rã\"); algumas ficam arroxeadas por sangramento.\n- Lesão pequena sem prejuízo pode ser só acompanhada; a recorrência após cirurgia é comum nas microcísticas da boca.\n\n**Tumor de células granulares**\n- Neoplasia benigna incomum, mais na boca que na pele. A **língua** responde por um terço a metade dos casos, mais no dorso.\n- Nódulo séssil, sem sintomas, em geral até 2 cm, rosado ou às vezes amarelado. Mais da 4ª à 6ª década; mulheres 3:1.\n- **Alerta ao microscópio:** a **hiperplasia pseudoepiteliomatosa** do epitélio de superfície, relatada em mais de 50% dos casos, às vezes é tão marcante que leva a diagnóstico errôneo de carcinoma espinocelular e a cirurgia de câncer desnecessária; o patologista deve ter isso em mente, sobretudo em biópsia pequena e superficial ou do dorso da língua.\n- Conduta: excisão local conservadora; recidiva incomum."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, p. 501–503; Lipoma, p. 517–518; Hemangioma e malformações vasculares, p. 533–537; cap. 10, Papiloma, p. 344–353",
+      "texto": "| Lesão | Tecido de origem | Onde | Como é | Conduta |\n|---|---|---|---|---|\n| **Fibroma** | conjuntivo fibroso (muitas vezes reacional) | mucosa jugal na linha de oclusão; lábio, língua, gengiva | nódulo liso, cor da mucosa, séssil; maioria até 1,5 cm | excisão conservadora e exame microscópico; recidiva extremamente rara |\n| **Papiloma** | epitélio pavimentoso (HPV) | palato (o mais comum no palato mole), língua, lábios | pediculado, projeções em \"couve-flor\", branco a rosa; cerca de 0,5 cm | excisão incluindo a base; recidiva improvável |\n| **Lipoma** | gordura | mucosa jugal e vestíbulo (50%) | nódulo liso, macio, amarelado; muitos menores que 3 cm | excisão conservadora; recidiva rara |\n| **Hemangioma infantil** | endotélio (tumor vascular) | cabeça e pescoço (60%) | vermelho, firme, borrachoso; não esvazia à pressão; surge nas primeiras semanas | observar (regride); propranolol se complicado |\n| **Malformação venosa** | vasos (defeito estrutural) | por exemplo, língua | azul, facilmente compressível; presente desde o nascimento e persiste | pequena e estável: pode não tratar; grande: escleroterapia e cirurgia |\n\n**Pistas rápidas:**\n- Fibroma e lipoma têm superfície **lisa**; o papiloma tem projeções em **couve-flor**. Mas superfície papilar não garante papiloma: o fibroma de células gigantes também pode tê-la.\n- Cor **amarela** e consistência macia sugerem lipoma.\n- Lesão vascular em criança: surgiu nas primeiras semanas e cresce rápido, pense em hemangioma infantil; estava lá desde o nascimento e cresce com a criança, pense em malformação (o hemangioma congênito, raro, também já nasce pronto).\n- Fibroma removido vai sempre para exame microscópico, porque outras neoplasias podem ter o mesmo aspecto."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual é o local mais comum do fibroma na boca, e por quê?",
+      "verso": "Mucosa jugal ao longo da linha de oclusão, provavelmente pelo trauma da mordida na bochecha.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503"
+    },
+    {
+      "id": "f02",
+      "frente": "O fibroma é sempre uma neoplasia verdadeira?",
+      "verso": "Não necessariamente. O livro questiona se o fibroma é neoplasia verdadeira na maioria das situações: talvez seja hiperplasia reacional do tecido fibroso a irritação ou trauma local.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, abertura, p. 501–503"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que o fibroma removido deve ir para exame microscópico?",
+      "verso": "Porque outras neoplasias, benignas e malignas, podem simular a aparência clínica de um fibroma.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Tratamento e prognóstico, p. 501–503"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual o tamanho da maioria dos fibromas?",
+      "verso": "1,5 cm ou menos de diâmetro.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503"
+    },
+    {
+      "id": "f05",
+      "frente": "Qual é a lesão de tecido mole mais comum do palato mole?",
+      "verso": "O papiloma.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
+    },
+    {
+      "id": "f06",
+      "frente": "Como é o papiloma oral típico?",
+      "verso": "Nódulo exofítico, mole, sem sintomas, geralmente pediculado, com projeções em forma de dedo (\"couve-flor\"); solitário, chega a cerca de 0,5 cm.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual detalhe do tratamento o livro destaca na excisão do papiloma?",
+      "verso": "A excisão conservadora deve incluir a base da lesão. A recorrência é improvável.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Papiloma, Tratamento e prognóstico, p. 344–353"
+    },
+    {
+      "id": "f08",
+      "frente": "Condiloma acuminado oral: como se diferencia do papiloma na clínica?",
+      "verso": "É séssil, rosa, com projeções curtas e rombas, maior (média de 1,0 a 1,5 cm) e costuma aparecer junto com outros condilomas.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Condiloma acuminado, Características clínicas, p. 344–353"
+    },
+    {
+      "id": "f09",
+      "frente": "Onde ficam metade dos lipomas intraorais?",
+      "verso": "Na mucosa jugal e no vestíbulo bucal (50% dos casos).",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lipoma, Características clínicas, p. 517–518"
+    },
+    {
+      "id": "f10",
+      "frente": "O lipoma diminui se o paciente emagrecer?",
+      "verso": "Não. O metabolismo do lipoma é independente da gordura corporal normal.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lipoma, abertura, p. 517–518"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual a diferença entre hemangioma e malformação vascular, segundo o Neville?",
+      "verso": "Hemangioma é tumor vascular benigno com proliferação do endotélio. Malformação vascular é anomalia estrutural dos vasos, com renovação endotelial normal, que persiste a vida toda.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, abertura, p. 533–537"
+    },
+    {
+      "id": "f12",
+      "frente": "Quanto do hemangioma infantil regride, e até quando?",
+      "verso": "Cerca de metade se resolve até os 5 anos e 90% até os 9 anos.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Hemangioma, p. 533–537"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual o tratamento de primeira linha para hemangioma infantil complicado ou que ameaça a vida?",
+      "verso": "Propranolol, um betabloqueador.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+    },
+    {
+      "id": "f14",
+      "frente": "Como é a malformação venosa na clínica?",
+      "verso": "Azul e facilmente compressível; presente desde o nascimento, cresce com o paciente; pode formar trombos e flebólitos.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537"
+    },
+    {
+      "id": "f15",
+      "frente": "Que precaução tomar antes de biopsiar uma lesão intraóssea sem diagnóstico?",
+      "verso": "Aspiração com agulha, para excluir malformação vascular. Já houve hemorragias graves e até fatais após biopsia ou extração nessas lesões.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+    },
+    {
+      "id": "f16",
+      "frente": "Papila retrocanina: o que é e o que fazer?",
+      "verso": "Pápula rosa menor que 5 mm na gengiva lingual do canino inferior, muitas vezes bilateral; variação anatômica normal. Reconhecer; não precisa ser excisada.",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma de células gigantes, Características clínicas e Tratamento e prognóstico, p. 503–504"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Mulher de 45 anos tem um nódulo séssil, de superfície lisa e cor igual à da mucosa, com cerca de 1 cm, na mucosa jugal, bem na altura da linha de oclusão. Não dói. Qual a hipótese mais provável?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503",
+      "secao": "fibroma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Papiloma escamoso",
+          "correta": false,
+          "justificativa": "O papiloma é geralmente pediculado e tem superfície com projeções em \"couve-flor\", não lisa.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
+        },
+        {
+          "texto": "Fibroma",
+          "correta": true,
+          "justificativa": "Nódulo liso, da cor da mucosa, séssil, até 1,5 cm, na mucosa jugal ao longo da linha de oclusão, na faixa da 4ª à 6ª década: é o quadro típico do fibroma.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503"
+        },
+        {
+          "texto": "Hemangioma infantil",
+          "correta": false,
+          "justificativa": "O hemangioma infantil surge nas primeiras semanas de vida e é vermelho; não é a hipótese para um nódulo da cor da mucosa numa adulta.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Hemangioma, p. 533–537"
+        },
+        {
+          "texto": "Malformação venosa",
+          "correta": false,
+          "justificativa": "A malformação venosa é azul e facilmente compressível, não um nódulo da cor da mucosa.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537"
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "enunciado": "Você removeu um nódulo com aspecto clínico típico de fibroma. Qual a conduta correta com a peça, segundo o capítulo?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Fibroma, Tratamento e prognóstico, p. 501–503",
+      "secao": "fibroma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Descartar, porque o aspecto clínico já confirma o diagnóstico",
+          "correta": false,
+          "justificativa": "O livro pede exame microscópico justamente porque o aspecto clínico do fibroma pode ser simulado por outras neoplasias.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Tratamento e prognóstico, p. 501–503"
+        },
+        {
+          "texto": "Enviar só se houver recidiva nos meses seguintes",
+          "correta": false,
+          "justificativa": "A recidiva do fibroma é extremamente rara; esperar por ela não faz sentido, e o envio da peça é indicado desde a primeira excisão.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Tratamento e prognóstico, p. 501–503"
+        },
+        {
+          "texto": "Enviar para exame microscópico, porque outras neoplasias podem simular o fibroma",
+          "correta": true,
+          "justificativa": "O capítulo diz que o tecido excisado deve ir para exame microscópico, já que neoplasias benignas e malignas podem ter a mesma aparência clínica.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Tratamento e prognóstico, p. 501–503"
+        },
+        {
+          "texto": "Pedir teste de HPV na peça antes de qualquer outra análise",
+          "correta": false,
+          "justificativa": "Teste de HPV é discutido no papiloma, e mesmo ali o livro diz que não é necessário na rotina; não é a conduta para o fibroma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, abertura, p. 344–353"
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 38 anos tem no palato mole uma lesão pediculada, mole, de cerca de 0,5 cm, com várias projeções brancas em forma de dedo, como uma pequena couve-flor. É única e não dói. Qual a hipótese e a conduta?",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Papiloma, Características clínicas e Tratamento e prognóstico, p. 344–353",
+      "secao": "papiloma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Papiloma; excisão conservadora incluindo a base da lesão",
+          "correta": true,
+          "justificativa": "Lesão única, pediculada, em couve-flor, de cerca de 0,5 cm no palato mole (onde o papiloma é a lesão de tecido mole mais comum) é o papiloma; trata-se com excisão conservadora incluindo a base.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, Características clínicas e Tratamento e prognóstico, p. 344–353"
+        },
+        {
+          "texto": "Fibroma; excisão conservadora com exame microscópico",
+          "correta": false,
+          "justificativa": "O fibroma tem superfície lisa, não projeções em couve-flor.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503"
+        },
+        {
+          "texto": "Lipoma; excisão local conservadora",
+          "correta": false,
+          "justificativa": "O lipoma é um nódulo liso, macio e amarelado, mais na mucosa jugal e no vestíbulo.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, Características clínicas, p. 517–518"
+        },
+        {
+          "texto": "Malformação venosa; escleroterapia",
+          "correta": false,
+          "justificativa": "A malformação venosa é azul e compressível, sem projeções papilares.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537"
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "enunciado": "Jovem de 20 anos procura atendimento por lesões exofíticas na boca, sem dor. Você fica entre papiloma e condiloma acuminado. Qual conjunto de achados ao exame favorece o condiloma?",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Condiloma acuminado, Características clínicas, p. 344–353",
+      "secao": "papiloma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Serem brancas e ficarem no vermelhão do lábio",
+          "correta": false,
+          "justificativa": "Lesão quase sempre branca no vermelhão do lábio é o perfil da verruga vulgar oral. O condiloma é rosa e aparece mais na mucosa labial, no freio lingual e no palato mole.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Verruga vulgar, Características clínicas; Condiloma acuminado, Características clínicas, p. 344–353"
+        },
+        {
+          "texto": "Serem pediculadas e únicas, com cerca de 0,5 cm",
+          "correta": false,
+          "justificativa": "Pediculada, única e de cerca de 0,5 cm é o perfil do papiloma, não do condiloma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
+        },
+        {
+          "texto": "Terem superfície lisa e cor igual à da mucosa",
+          "correta": false,
+          "justificativa": "Superfície lisa e cor da mucosa é o perfil do fibroma; o condiloma tem projeções curtas e rombas na superfície.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Características clínicas, p. 501–503"
+        },
+        {
+          "texto": "Serem sésseis, maiores que o papiloma e múltiplas",
+          "correta": true,
+          "justificativa": "O condiloma é séssil, rosa, de projeções curtas e rombas, maior que o papiloma (média de 1,0 a 1,5 cm) e costuma aparecer junto com outros condilomas.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Condiloma acuminado, Características clínicas, p. 344–353"
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "enunciado": "Homem de 55 anos tem na mucosa jugal um nódulo liso, macio e amarelado, de 2 cm, que nota há anos. Pergunta se o nódulo vai diminuir com a dieta que começou. Qual resposta está de acordo com o livro?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lipoma, abertura e Características clínicas, p. 517–518",
+      "secao": "lipoma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Sim, porque o lipoma acompanha a perda da gordura corporal",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: com menos calorias, a gordura normal pode diminuir, mas o lipoma não.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, abertura, p. 517–518"
+        },
+        {
+          "texto": "Não, porque o metabolismo do lipoma é independente da gordura do corpo",
+          "correta": true,
+          "justificativa": "Nódulo liso, macio e amarelado na mucosa jugal, em paciente acima de 40 anos, sugere lipoma, cujo metabolismo é independente da gordura corporal normal.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, abertura e Características clínicas, p. 517–518"
+        },
+        {
+          "texto": "Sim, porque se trata de hemangioma, que regride com o tempo",
+          "correta": false,
+          "justificativa": "A regressão é do hemangioma infantil, que surge nas primeiras semanas de vida e é vermelho; não se aplica a um nódulo amarelado num adulto.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Hemangioma, p. 533–537"
+        },
+        {
+          "texto": "Não, porque é um fibroma, que só some com a retirada do trauma",
+          "correta": false,
+          "justificativa": "O fibroma tem cor da mucosa, não amarelada, e o tratamento descrito para ele é a excisão cirúrgica conservadora.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Fibroma, Características clínicas e Tratamento e prognóstico, p. 501–503"
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "enunciado": "Bebê de 3 meses tem no lábio um aumento de volume vermelho, firme e borrachoso, que não existia ao nascer e cresceu rápido nas últimas semanas. A pressão não esvazia o sangue. Não há ulceração nem prejuízo funcional. Qual a conduta indicada pelo livro?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas (Hemangioma) e Tratamento e prognóstico, p. 533–537",
+      "secao": "hemangioma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Excisão cirúrgica imediata, antes que cresça mais",
+          "correta": false,
+          "justificativa": "A cirurgia raramente se justifica no hemangioma infantil; fica para casos como lesão pediculada que ulcera ou sangra repetidamente.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        },
+        {
+          "texto": "Escleroterapia com etanol, como nas malformações venosas",
+          "correta": false,
+          "justificativa": "A escleroterapia é descrita para malformações venosas grandes e problemáticas, não para o hemangioma infantil sem complicação.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        },
+        {
+          "texto": "Observar e explicar aos pais que a lesão tende a regredir",
+          "correta": true,
+          "justificativa": "O quadro é de hemangioma infantil. Como a maioria regride, o manejo é a \"negligência acompanhada\", com orientação aos pais.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        },
+        {
+          "texto": "Biopsia incisional para confirmar o diagnóstico",
+          "correta": false,
+          "justificativa": "O manejo descrito pelo livro para o hemangioma infantil sem complicação é a negligência acompanhada: observar e orientar os pais, porque a maioria regride.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto de 30 anos tem na língua um aumento de volume azul, que existe desde que ele se lembra, cresceu junto com ele e é facilmente compressível. Qual a hipótese mais provável?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537",
+      "secao": "malformacoes",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Hemangioma infantil em fase de regressão",
+          "correta": false,
+          "justificativa": "O hemangioma infantil surge nas primeiras semanas de vida, cresce mais rápido que a criança e regride; 90% se resolvem até os 9 anos. Além disso, é firme e não esvazia à pressão.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Hemangioma, p. 533–537"
+        },
+        {
+          "texto": "Malformação venosa",
+          "correta": true,
+          "justificativa": "Lesão azul, facilmente compressível, presente desde cedo e que cresce proporcionalmente ao paciente é o quadro da malformação venosa.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537"
+        },
+        {
+          "texto": "Malformação arteriovenosa",
+          "correta": false,
+          "justificativa": "A malformação arteriovenosa é de alto fluxo, com trepidação palpável e pele quente; o caso não descreve esses sinais.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Características clínicas e radiográficas, Malformações vasculares, p. 533–537"
+        },
+        {
+          "texto": "Lipoma de localização profunda",
+          "correta": false,
+          "justificativa": "O lipoma é amarelado e, quando profundo, pode parecer rosado; não é azul.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, Características clínicas, p. 517–518"
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "enunciado": "Menina de 1 ano tem aumento de volume nos dois terços anteriores da língua, notado ao nascimento, com superfície pedregosa que lembra um grupo de vesículas translúcidas. Qual é o diagnóstico mais provável?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Malformações linfáticas (linfangioma; higroma cístico), Características clínicas, p. 539–541",
+      "secao": "outros",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Papiloma escamoso",
+          "correta": false,
+          "justificativa": "O papiloma é um nódulo exofítico, em geral solitário e pediculado, com projeções em forma de dedo que dão aspecto de couve-flor, e cresce em geral até cerca de 0,5 cm (há relatos de lesões de até 3,0 cm); o quadro descrito, de superfície pedregosa com vesículas translúcidas, é o que o livro descreve na malformação linfática.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Papiloma, Características clínicas, p. 344–353"
+        },
+        {
+          "texto": "Malformação linfática (linfangioma)",
+          "correta": true,
+          "justificativa": "Os dois terços anteriores da língua são o local mais comum na boca, e a superfície pedregosa, semelhante a um grupo de vesículas translúcidas (\"ovos de rã\"), é o aspecto descrito pelo livro; cerca de metade dos casos é notada ao nascimento.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Malformações linfáticas (linfangioma; higroma cístico), Características clínicas, p. 539–541"
+        },
+        {
+          "texto": "Lipoma",
+          "correta": false,
+          "justificativa": "O lipoma é um nódulo liso, macio e amarelado, e a maioria dos casos ocorre a partir dos 40 anos; o livro o descreve como incomum em criança.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, Características clínicas, p. 517–518"
+        },
+        {
+          "texto": "Tumor de células granulares",
+          "correta": false,
+          "justificativa": "O tumor de células granulares é um nódulo séssil, assintomático, rosado ou às vezes amarelado, mais da 4ª à 6ª década e raro em crianças.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Tumor de células granulares, Características clínicas, p. 531–532"
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "enunciado": "Mulher de 52 anos tem no vestíbulo bucal um nódulo séssil, liso, macio e amarelado, de 2,5 cm, que não dói e que ela nota há cerca de 2 anos. A hipótese é lipoma. Qual a conduta indicada pelo livro?",
+      "fonte": "neville5-cap12",
+      "onde": "cap. 12, Lipoma, Características clínicas e Tratamento e prognóstico, p. 517–518",
+      "secao": "lipoma",
+      "figura": null,
+      "alternativas": [
+        {
+          "texto": "Excisão local conservadora, pois as recidivas são raras",
+          "correta": true,
+          "justificativa": "O lipoma é tratado por excisão local conservadora, e a recidiva é rara. O quadro descrito (nódulo liso, macio, amarelado, assintomático, em vestíbulo, em adulto) é típico.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Lipoma, Características clínicas e Tratamento e prognóstico, p. 517–518"
+        },
+        {
+          "texto": "Escleroterapia com etanol, como nas malformações venosas",
+          "correta": false,
+          "justificativa": "A escleroterapia é descrita para malformações venosas, que são lesões vasculares. O lipoma é uma neoplasia de gordura e o tratamento é a excisão.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        },
+        {
+          "texto": "Propranolol, por ser o tratamento de primeira linha",
+          "correta": false,
+          "justificativa": "O propranolol é a primeira linha para hemangiomas infantis complicados ou que ameaçam a vida. O lipoma é uma neoplasia de gordura, e o livro indica para ele a excisão local conservadora.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        },
+        {
+          "texto": "Só observar e orientar, pois a lesão tende a regredir sozinha",
+          "correta": false,
+          "justificativa": "A conduta de observar e explicar que a lesão vai regredir vale para o hemangioma infantil. O lipoma é tratado por excisão local conservadora.",
+          "fonte": "neville5-cap12",
+          "onde": "cap. 12, Hemangioma e malformações vasculares, Tratamento e prognóstico, p. 533–537"
+        }
+      ]
+    }
+  ]
+}

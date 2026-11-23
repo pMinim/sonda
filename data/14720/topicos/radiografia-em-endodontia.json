@@ -1,0 +1,584 @@
+{
+  "slug": "radiografia-em-endodontia",
+  "titulo": "Radiografia em endodontia: paralaxe e regra do objeto vestibular (dissociação; técnica de Clark) e tomografia",
+  "area": "Radiologia",
+  "origem": "Cohen 12ª ed., caps. 2, 18 e 21; White e Pharoah 8ª ed., cap. 6",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap02",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 2, Interpretação Radiográfica, p. 32–76 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 2"
+    },
+    {
+      "id": "cohen12-cap18",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 18, Reabsorção Radicular, p. 703 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 18"
+    },
+    {
+      "id": "cohen12-cap21",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 21, Papel da Endodontia após Lesões Traumáticas ao Dente, p. 814 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 21"
+    },
+    {
+      "id": "wp8-cap06",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 6, Geometria de Projeção, p. 80–86 (numeração da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 6 (autores dos EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "para-que-serve",
+      "titulo": "Para que serve a radiografia em endodontia",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Interpretação radiográfica, p. 32; Sobreobturação, p. 50; Declaração conjunta AAE/AAOMR, pp. 68–70",
+      "texto": "Segundo o Cohen (*Caminhos da Polpa*, tradução da obra de Berman, Hargreaves e Rotstein), a radiografia entra em toda a sequência do tratamento: diagnóstico, tratamento dos canais, instrumentação, avaliação final da obturação e acompanhamento da cicatrização. As tarefas de rotina que o cap. 2 lista são ver a morfologia da raiz e do canal, medir o comprimento radiográfico do canal, diagnosticar lesões da raiz e da região perirradicular e avaliar o resultado depois do tratamento.\n\n**Radiografia intraoral em três momentos.** A declaração conjunta da Associação Americana de Endodontistas (AAE) e da Academia Americana de Radiologia Oral e Maxilofacial (AAOMR), atualização de 2015/2016, é uma **diretriz dos EUA** que o Cohen reproduz no fim do cap. 2. Ela indica a radiografia intraoral como modalidade de escolha:\n- **no diagnóstico:** na avaliação do paciente endodôntico (recomendação 1);\n- **no pós-operatório imediato** (recomendação 5). O capítulo diz que a periapical pós-operatória deve ser feita no dia em que o tratamento termina ou em que se suspeita de um evento iatrogênico;\n- **no controle:** quando não há sinais nem sintomas clínicos, para avaliar a cicatrização depois de tratamento não cirúrgico e cirúrgico (recomendação 13).\n\n**Como fazer a periapical:** as técnicas de paralelismo e de bissetriz ficam para o tema *Radiografia periapical e interproximal: técnica, erros e interpretação básica*, que aparece na lista desta disciplina como conteúdo em breve. Neste tema o assunto é o que a imagem mostra, o que ela não mostra e como localizar o que está sobreposto."
+    },
+    {
+      "id": "digital-e-dose",
+      "titulo": "Sensores digitais e dose de radiação",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Modalidades de imagem, pp. 32–35; Conclusões, pp. 66–67",
+      "texto": "**Três tecnologias de captura.** Dois sensores eletrônicos, CCD e CMOS, mostram a imagem na hora. A terceira é a placa de fósforo fotoestimulável (FFE): sem fio, ela guarda uma imagem latente que precisa ser lida depois por um leitor com laser. A placa se danifica fácil por arranhão e custa menos que os sensores; se o apagamento da imagem anterior for incompleto, pode aparecer imagem fantasma na reutilização. Nas conclusões, o capítulo recomenda CCD ou CMOS para a endodontia e diz que, mesmo onde a FFE é usada por ser mais econômica em grande volume, deve haver pelo menos um ou dois sistemas CCD ou CMOS para a aquisição mais rápida durante o tratamento.\n\n**Resolução.** Os sensores atuais têm resolução espacial igual ou melhor que a do filme intraoral (16 pares de linhas por mm). O pós-processamento muda o aspecto da imagem sem nova exposição, mas não salva uma imagem mal adquirida: ela precisa sair com bons parâmetros de exposição.\n\n**Dose.** Em qualquer modalidade, administra-se a menor dose possível em cada estudo. O Boxe 2.1 resume recomendações do Conselho Nacional de Proteção contra Radiação (NCRP), dos EUA (Relatório 145, de 2003): examinar o paciente antes de pedir a imagem e usar colimação retangular do feixe nas periapicais, para não expor área que o receptor não usa. O sensor digital direto dá dose significativamente menor que a do filme, com desempenho comparável.\n\n**Avental de chumbo: o capítulo traz dois trechos.**\n- **Boxe 2.1, item 2 (p. 33):** o avental não deve ser exigido se as demais recomendações forem seguidas rigorosamente.\n- **Conclusões (p. 67):** protetores de tireoide e aventais de chumbo são recomendados nas diretrizes do NCRP, desde que não interfiram na aquisição da imagem.\n\nO capítulo traz os dois trechos, um ao lado do outro. Sobre o protetor de tireoide, o item 3 do Boxe 2.1 diz que ele deve ser usado em crianças e deveria ser oferecido a adultos quando não interferir no exame, por exemplo em panorâmicas."
+    },
+    {
+      "id": "limite-da-2d",
+      "titulo": "O que a radiografia plana não mostra",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Imagem tridimensional, p. 36; Lesões de origem endodôntica, p. 43; Reabsorção radicular, pp. 58–59; Declaração conjunta, p. 68",
+      "texto": "**A periapical é uma imagem plana de uma estrutura em três dimensões.** O Cohen diz que imagens 2D em escala de cinza não representam com precisão a anatomia 3D do dente e das estruturas de suporte: subestimam o canal e muitas vezes não mostram a alteração periapical, principalmente com osso cortical espesso ou obstruções anatômicas (p. 36). Os limites da projeção 2D são a sobreposição de estruturas, a distorção geométrica e a representação incorreta (p. 58).\n\n**A lesão precisa de perda mineral para aparecer.** As lesões de origem endodôntica são radiolúcidas, por perda de mineralização do osso, e a perda necessária para serem visualizadas na radiografia convencional é de 30 a 40% do conteúdo mineral (p. 43). A espessura da cortical sobre a lesão também pode mudar o aspecto radiográfico.\n\n**Paralaxe intraoral.** Para localizar uma reabsorção, o capítulo lembra que as técnicas de paralaxe intraoral podem ser úteis: muda-se a angulação do feixe e observa-se o deslocamento da lesão na imagem (p. 58). A declaração conjunta AAE/AAOMR (diretriz dos EUA) diz, na mesma linha, que em casos mais complexos projeções com angulações diferentes do feixe podem permitir a localização em paralaxe (p. 68). Para separar reabsorção interna de externa, o método do paralaxe também pode ajudar, porque a lesão interna mantém a posição em relação ao canal (p. 59). O cap. 2 não enuncia o sentido do deslocamento; as seções seguintes trazem o que os caps. 18 e 21 e o White e Pharoah dizem a respeito.\n\n**O limite continua.** No texto sobre reabsorção, o capítulo diz que, mesmo com a paralaxe, só a TCFC dá o tamanho e a posição reais de todos os defeitos na região de interesse, e que a radiografia intraoral não é confiável com lesões pequenas nem nas superfícies labial ou lingual/palatina (p. 58)."
+    },
+    {
+      "id": "paralaxe-slob",
+      "titulo": "Radiografias em paralaxe e a sigla SLOB (cap. 18)",
+      "fonte": "cohen12-cap18",
+      "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704",
+      "texto": "No cap. 18 (reabsorção radicular, trecho sobre a reabsorção cervical externa) o Cohen usa o nome **radiografias em paralaxe** e a sigla **SLOB**.\n\n**Quando usar:** para saber mais sobre a natureza de uma reabsorção, o livro diz que as radiografias em paralaxe devem ser usadas sempre.\n\n**Como fazer:** além da periapical, faça outra com um desvio na angulação **horizontal** do tubo de raios X em relação ao receptor de imagem.\n\n**O que comparar:** a posição do defeito em relação ao canal radicular, nas duas imagens.\n- Defeito do lado **lingual ou palatino**: move-se **na mesma direção** do desvio do tubo.\n- Defeito do lado **vestibular**: move-se na **direção oposta** à do desvio do tubo.\n- Defeito de **reabsorção interna**: mantém a posição em relação ao canal, porque é uma extensão do sistema de canais.\n\nO livro diz que esse comportamento é, às vezes, chamado de regra *same lingual, opposite bucal* (SLOB), em inglês.\n\n**Contorno do canal (p. 703):** o livro também sugere traçar o contorno da parede do canal até o defeito. Na reabsorção externa, o contorno deve ficar visível e intacto ao passar pelo defeito; na interna, deve ser possível traçá-lo através do defeito. O cap. 21 (pp. 814–815) descreve a interna de outro modo; veja a seção seguinte.\n\n**Atenção:** as características radiográficas da reabsorção cervical externa e da interna são muito parecidas, e distinguir uma da outra pode ser difícil, sobretudo sem sinais clínicos."
+    },
+    {
+      "id": "objeto-vestibular",
+      "titulo": "Regra do objeto vestibular: lesão interna ou externa (cap. 21)",
+      "fonte": "cohen12-cap21",
+      "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815",
+      "texto": "No cap. 21 (lesões traumáticas ao dente) o Cohen usa o nome **regra do objeto vestibular**, na seção que distingue a reabsorção externa da interna.\n\n**O problema:** o livro diz que muitas vezes é muito difícil distinguir a reabsorção externa da interna, e que isso pode levar a diagnóstico e tratamento incorretos.\n\n**O que fazer:** mudar a angulação da radiografia. O livro diz que isso deve dar uma indicação razoavelmente boa de que o defeito é interno ou externo.\n- **Lesão de origem interna:** aparece perto do canal, qualquer que seja o ângulo da radiografia.\n- **Defeito no aspecto externo da raiz:** se afasta do canal conforme a angulação muda.\n\n**Vestibular ou lingual/palatino:** usando a regra do objeto vestibular, em geral é possível dizer se um defeito externo da raiz fica do lado vestibular ou do lado lingual-palatino.\n\n**Contorno do canal (pp. 814–815):** na reabsorção interna, a legenda da Fig. 21.40 (p. 814) diz que o contorno do canal não pode ser visto no defeito; o texto (p. 815) diz que ele em geral fica distorcido, com canal e defeito contíguos, e que na externa parece normal. O cap. 18 (p. 703) diz que na interna o contorno pode ser traçado através do defeito. Os dois capítulos não concordam; o tema mostra cada um e não escolhe.\n\n**Atenção:** esta página do cap. 21 não descreve para que lado a imagem se desloca; o livro dá o nome da regra e diz para que ela serve.\n\n**Resumo:** duas radiografias com angulações diferentes. Lesão que fica junto do canal nas duas: origem interna. Lesão que se afasta do canal: externa."
+    },
+    {
+      "id": "tcfc-o-que-e",
+      "titulo": "TCFC: o que é, campo de visão e dose",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Imagem tridimensional, p. 36; Princípios da TCFC, pp. 37–38; Declaração conjunta, p. 68; p. 42",
+      "texto": "**O que é.** A tomografia computadorizada de feixe cônico (TCFC) usa um feixe em forma de cone, em vez do feixe em leque da tomografia computadorizada multidetectores (TCMD), e adquire o volume todo enquanto gira em torno da anatomia (p. 36). O volume é examinado em cortes nos três planos: axial, sagital e coronal. Assim aparecem alterações periapicais e detalhes da raiz que a imagem 2D não mostrava. A resolução da TCFC não é tão alta quanto a da radiografia convencional, mas o livro a considera a modalidade de escolha em situações desafiadoras de localização e caracterização dos canais.\n\n**Voxel e campo de visão (FOV).** O pixel é o elemento 2D da imagem digital; o **voxel** é o elemento de volume (pp. 37–38), e voxel menor dá resolução espacial maior (pp. 42 e 68). O FOV é o tamanho da região incluída no volume, de uma pequena parte da arcada à cabeça inteira (p. 38). O que mais pesa na escolha é a tarefa diagnóstica. Para a maioria das finalidades endodônticas, o FOV limitado serve, se não há sinal ou sintoma de doença sistêmica. Em geral, quanto menor o FOV, menor a dose e maior a resolução (p. 68).\n\n**Dose.** Segundo o cap. 2, um exame típico de TCFC expõe o paciente a 20 a 500 µSv, enquanto um exame médico típico de cabeça chega perto de 2.100 µSv (p. 38). A declaração conjunta AAE/AAOMR (diretriz dos EUA) lembra que a dose de uma TCFC é maior que a de uma radiografia intraoral (p. 68), por isso a dose ao longo do tempo entra na decisão."
+    },
+    {
+      "id": "tcfc-quando-usar",
+      "titulo": "TCFC: quando a diretriz norte-americana indica",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, atualização de 2015/2016, pp. 67–70; Tarefas de imagem melhoradas pela TCFC, p. 43",
+      "texto": "**De onde vem.** No fim do cap. 2, o Cohen reproduz a declaração conjunta da AAE e da AAOMR sobre TCFC em endodontia, atualização de 2015/2016 (p. 67). É uma **diretriz de associações dos EUA** e não substitui o julgamento do clínico (p. 68).\n\n**Duas datas no capítulo.** O título da declaração diz atualização de 2015/2016. A introdução (p. 68) diz que ela reflete o que mudou desde a declaração de 2010, e a lista de referências da declaração (p. 70) traz a anterior em 2011. O capítulo não explica a diferença: as recomendações abaixo são as da atualização.\n\n**Regra geral (p. 68).** A TCFC fica para quando a história e o exame clínico indicam ganho maior que o risco e uma radiografia 2D de dose menor não resolve a necessidade de imagem.\n\n**Quando a declaração recomenda a TCFC com FOV limitado (modalidade de escolha nas recomendações 2, 7, 8, 9, 10, 11 e 12):**\n- **Diagnóstico:** sinais e sintomas contraditórios ou inespecíficos, em dente tratado ou não (recomendação 2).\n- **Antes do tratamento:** dentes com potencial para canais extras e suspeita de morfologia complexa, como anteriores inferiores, pré-molares, molares superiores e inferiores e anomalias dentárias (recomendação 3).\n- **Durante o tratamento:** localizar canal calcificado, se não houve TCFC antes (recomendação 4).\n- **Fratura radicular vertical:** quando o exame clínico e a radiografia intraoral não decidem (recomendação 6).\n- **Retratamento:** dente que não cicatrizou (recomendação 7); complicações como sobre-extensão do material obturador, instrumento fraturado e localização de perfurações (recomendação 8).\n- **Outros:** planejamento pré-cirúrgico (9), implantes (10), trauma dentoalveolar (11) e defeitos de reabsorção (12).\n\nA justificativa da recomendação 2 (p. 69) lembra que o sucesso, medido por critérios radiográficos, é maior quando o dente é tratado antes de a doença periapical aparecer na radiografia.\n\nO capítulo diz que o uso da TCFC deve ser decidido caso a caso: a lista de indicações não obriga a TCFC em todo caso de uma categoria (p. 43)."
+    },
+    {
+      "id": "tcfc-quando-nao",
+      "titulo": "TCFC: quando não usar e o que fica com a radiografia intraoral",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, atualização de 2015/2016, pp. 68–70; Campo de visão, p. 38; Trauma dentoalveolar, p. 58",
+      "texto": "**Não é rotina, nem triagem.** Segundo a declaração conjunta AAE/AAOMR, diretriz dos EUA (p. 68), a TCFC não é para uso rotineiro no diagnóstico endodôntico nem para triagem de paciente sem sinais e sintomas. O cap. 2 reforça que um estudo de triagem com FOV grande, sem sinais e sintomas que o justifiquem, não deve ser feito sob nenhuma circunstância (p. 38).\n\n**O que fica com a radiografia intraoral** (diretriz dos EUA, pp. 69–70):\n- na avaliação do paciente endodôntico: a intraoral é a modalidade de escolha (recomendação 1);\n- no pós-operatório imediato (recomendação 5);\n- no controle da cicatrização, quando não há sinais nem sintomas (recomendação 13).\n\nSe a TCFC com FOV limitado foi a modalidade usada na avaliação e no tratamento e não há sinais nem sintomas, ela pode ser usada também no acompanhamento (recomendação 14). Havendo sinais e sintomas, vale a recomendação 7.\n\n**Riscos da TCFC (p. 68):** dose possivelmente maior para o paciente, artefatos, altos níveis de dispersão e ruído, e variação da dose dentro do volume.\n\n**Para reduzir a exposição (p. 68):** seguir o princípio ALARA (em inglês, \"tão baixo quanto razoavelmente possível\", como o livro explica na p. 58); usar o menor FOV possível, o menor tamanho de voxel, mA mais baixo conforme o tamanho do paciente e tempo de exposição mais curto. FOV médio ou grande só caso a caso, por exemplo na suspeita de extensão da patologia além da região dos ápices ou de lesão multifocal com possível causa sistêmica ou não endodôntica.\n\n**Crianças:** a declaração tem preocupação especial com a superexposição até os 18 anos e apoia a campanha Image Gently.\n\n**Endodontia guiada** e outros usos da TCFC para especialista ficam para o tema *Inovações tecnológicas em endodontia*."
+    },
+    {
+      "id": "tcfc-no-tratamento",
+      "titulo": "TCFC no dente já tratado: canais perdidos, artefatos e perfuração",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Diagnóstico de falhas do tratamento endodôntico, p. 47; Perfurações, p. 52",
+      "texto": "**Canais perdidos e erros.** Em dente já tratado, a TCFC ajuda a ver canais perdidos, desvios de canal, reabsorção e erros de procedimento como a perfuração. Segundo o livro, é mais útil para detectar canais não instrumentados e não obturados, a extensão do canal e a perda óssea perirradicular (p. 47).\n\n**Artefatos.** Material obturador radiopaco pode produzir artefatos em listras que imitam linhas de fratura ou perfurações; parâmetros de exposição mais baixos e pinos de fibra não metálicos reduzem muito esses artefatos (p. 47). A obturação e os materiais restauradores (guta-percha, pinos, materiais de reparo de perfuração) também causam artefato de endurecimento do feixe, que dificulta interpretar a integridade da raiz (p. 52).\n\n**Perfuração.** É a comunicação mecânica ou patológica entre o sistema de canais e a superfície externa do dente. Em geral é iatrogênica; as causas citadas são preparo de pino, busca por canais calcificados, adelgaçamento da parede dentinária e tentativa de retirar instrumento fraturado. Na imagem convencional é difícil localizá-la, porque a radiografia não traz informação sobre a dimensão vestibulolingual (p. 52).\n\nO retratamento está no cap. 10 do Cohen e não faz parte deste tema."
+    },
+    {
+      "id": "wp-troca-de-tubo",
+      "titulo": "Técnica de troca de tubo: regra do objeto bucal e regra de Clark (White e Pharoah)",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), pp. 84–85",
+      "texto": "**Fonte desta seção: White e Pharoah** (Mallya e Lam, 8ª ed., autores dos EUA). O livro chama o princípio de **técnica de troca de tubo**, também conhecida como **regra do objeto bucal**, **regra de Clark** ou **técnica de Clark**. Clark a descreveu em 1910. A justificativa é que as posições relativas das imagens de dois objetos mudam quando muda o ângulo de projeção.\n\n**Como fazer:** tire duas periapicais da mesma região com o tubo em posições diferentes e compare o objeto com uma estrutura de referência, por exemplo o ápice de um pré-molar.\n\n**A regra:** o livro dá a sigla em inglês e a traduz como \"mesmo lingual, oposto bucal\".\n- Objeto **lingual** à referência: a imagem parece se mover **na direção do deslocamento do tubo**.\n- Objeto **bucal** à referência: a imagem parece se mover **na direção oposta** à do deslocamento do tubo.\n- Objeto que **não se move** em relação à referência: está na mesma profundidade (mesmo plano vertical).\n\nA regra vale também quando o tubo é deslocado na vertical; nesse caso se avalia o movimento da imagem para cima ou para baixo da referência.\n\n**Exemplo do livro:** um objeto se sobrepõe ao ápice do segundo pré-molar. O tubo é deslocado para mesial. Se o objeto é lingual, a imagem se move para mesial em relação ao ápice. Se é bucal, a imagem se move para distal."
+    },
+    {
+      "id": "wp-aplicacoes",
+      "titulo": "Localizar em três dimensões: aplicações da troca de tubo (White e Pharoah)",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Localização de objetos, Quadro 6.2 e aplicações da regra SLOB, pp. 83–85",
+      "texto": "**Fonte desta seção: White e Pharoah** (Mallya e Lam, 8ª ed., autores dos EUA).\n\n**A limitação.** A radiografia simples é bidimensional, e o dentista muitas vezes precisa de informação em três dimensões, por exemplo para localizar um dente impactado ou um corpo estranho.\n\n**Três abordagens (Quadro 6.2):**\n1. examinar duas imagens projetadas em ângulo reto entre si;\n2. usar a técnica de troca de tubo com periapicais convencionais;\n3. obter uma imagem tridimensional, por tomografia de feixe cônico ou por tomografia com múltiplos detectores.\n\nO livro diz que o dentista deve conhecer bem as duas primeiras, porque a tomografia pode não estar acessível nem ser necessária se já há várias periapicais da região (p. 83).\n\n**Duas imagens em ângulo reto.** Exemplo do livro: canino superior impactado. A periapical localiza o dente nas dimensões mesiodistal e superoinferior; a oclusal maxilar dá as dimensões mesiodistal e vestibulolingual. Juntas, dão as três dimensões (p. 84).\n\n**Aplicações da troca de tubo (p. 85):**\n- **Forame mentual sobre o ápice** de um pré-molar, que pode imitar uma radiotransparência periapical: em uma radiografia com outro ângulo, a imagem se afasta do ápice e dá para diferenciar de uma lesão periapical verdadeira. O mesmo vale para o forame incisivo sobre o ápice de um incisivo central superior.\n- **Posição de dentes impactados** e presença de objetos estranhos.\n- **Identificação de polpa com múltiplos canais.** O livro lista a aplicação sem detalhar o passo a passo.\n- **Figura 6.13:** um segundo pré-molar impactado se sobrepõe à furca do primeiro molar inferior. Com o tubo deslocado para mesial, a imagem se move para distal, e pela regra o pré-molar impactado fica do lado bucal das raízes do molar."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo a declaração AAE/AAOMR (diretriz dos EUA, cap. 2 do Cohen), qual é a modalidade de escolha na avaliação do paciente endodôntico?",
+      "verso": "A radiografia intraoral (recomendação 1). A TCFC com FOV limitado entra em situações específicas, como sinais e sintomas contraditórios ou inespecíficos (recomendação 2).",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69"
+    },
+    {
+      "id": "f02",
+      "frente": "Quando deve ser feita a periapical pós-operatória do tratamento, segundo o cap. 2?",
+      "verso": "No dia em que o tratamento endodôntico termina ou em que se suspeita de um evento iatrogênico.",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Sobreobturação, p. 50"
+    },
+    {
+      "id": "f03",
+      "frente": "Que perda mineral é necessária para uma lesão de origem endodôntica ser vista na radiografia convencional?",
+      "verso": "De 30 a 40% do conteúdo mineral do osso, segundo o cap. 2. Essas lesões são radiolúcidas.",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Lesões de origem endodôntica, p. 43"
+    },
+    {
+      "id": "f05",
+      "frente": "Que FOV a declaração conjunta AAE/AAOMR (diretriz dos EUA) prefere para a maioria das aplicações endodônticas?",
+      "verso": "O FOV limitado: menos dose, maior resolução espacial e volume mais curto para interpretar.",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, Tamanho do volume, p. 68"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Boxe 2.1 (NCRP, dos EUA), quem deve usar o protetor de tireoide?",
+      "verso": "Deve ser usado em crianças e deveria ser oferecido a adultos quando não interferir no exame, por exemplo em panorâmicas (item 3).",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Modalidades de imagem, Boxe 2.1, p. 33"
+    },
+    {
+      "id": "f08",
+      "frente": "Por que a perfuração é difícil de localizar na radiografia convencional?",
+      "verso": "Porque ela não traz informação sobre a dimensão vestibulolingual (cap. 2).",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Perfurações, p. 52"
+    },
+    {
+      "id": "f09",
+      "frente": "Quando a declaração AAE/AAOMR (diretriz dos EUA, cap. 2) diz que a TCFC não deve ser usada?",
+      "verso": "Não é para uso rotineiro no diagnóstico endodôntico nem para triagem sem sinais e sintomas; só quando os benefícios superam os riscos e uma radiografia 2D de dose menor não atende à necessidade de imagem.",
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+    },
+    {
+      "id": "f10",
+      "frente": "No cap. 18, o tubo é desviado na horizontal. Para onde se move o defeito lingual ou palatino, e o vestibular?",
+      "verso": "Lingual ou palatino: na mesma direção do desvio do tubo. Vestibular: na direção oposta. O livro chama isso, às vezes, de regra SLOB.",
+      "fonte": "cohen12-cap18",
+      "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+    },
+    {
+      "id": "f11",
+      "frente": "Em radiografias em paralaxe (cap. 18), como a reabsorção interna se comporta em relação ao canal?",
+      "verso": "Mantém a posição em relação ao canal, porque é uma extensão do sistema de canais.",
+      "fonte": "cohen12-cap18",
+      "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+    },
+    {
+      "id": "f12",
+      "frente": "Pela regra do objeto vestibular (cap. 21), como se comportam a lesão interna e a externa quando a angulação muda?",
+      "verso": "Interna: fica perto do canal em qualquer ângulo. Externa: se afasta do canal.",
+      "fonte": "cohen12-cap21",
+      "onde": "cap. 21, Características radiográficas, pp. 814–815"
+    },
+    {
+      "id": "f13",
+      "frente": "Segundo o White e Pharoah, para onde vai a imagem de um objeto lingual e a de um bucal quando o tubo é deslocado?",
+      "verso": "Lingual: na direção do deslocamento do tubo. Bucal: na direção oposta (mesmo lingual, oposto bucal).",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), p. 84"
+    },
+    {
+      "id": "f14",
+      "frente": "Que outros nomes o White e Pharoah dá à técnica de troca de tubo?",
+      "verso": "Regra do objeto bucal, regra de Clark ou técnica de Clark. Clark a descreveu em 1910.",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), p. 84"
+    },
+    {
+      "id": "f15",
+      "frente": "No White e Pharoah, o que quer dizer um objeto que não se move em relação à referência quando o tubo é deslocado?",
+      "verso": "Que ele está na mesma profundidade da referência (mesmo plano vertical).",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Regra SLOB, p. 85"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "O tratamento de um molar acabou de terminar, sem intercorrência, e o paciente não tem sinais nem sintomas. Pela declaração conjunta AAE/AAOMR (diretriz dos EUA que o Cohen traz no cap. 2), qual é a modalidade de escolha para a imagem do pós-operatório imediato?",
+      "alternativas": [
+        {
+          "texto": "Tomografia de feixe cônico com FOV limitado.",
+          "correta": false,
+          "justificativa": "A TCFC com FOV limitado é a modalidade de escolha nas outras situações listadas (sinais contraditórios, canal calcificado, complicações do retratamento). Para o pós-operatório imediato, a recomendação 5 indica a radiografia intraoral.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69"
+        },
+        {
+          "texto": "Radiografia intraoral.",
+          "correta": true,
+          "justificativa": "A recomendação 5 diz que as radiografias intraorais devem ser consideradas a modalidade de escolha para o pós-operatório imediato. O capítulo acrescenta que a periapical pós-operatória deve ser feita no dia do término do tratamento.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69; Sobreobturação, p. 50"
+        },
+        {
+          "texto": "Tomografia de feixe cônico com FOV grande.",
+          "correta": false,
+          "justificativa": "Para a maioria das aplicações endodônticas a declaração prefere o FOV limitado; o FOV maior fica para casos individuais, como suspeita de lesão multifocal ou de causa sistêmica, o que não ocorre aqui.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+        },
+        {
+          "texto": "Radiografia panorâmica.",
+          "correta": false,
+          "justificativa": "A recomendação 5 indica a radiografia intraoral como modalidade de escolha para o pós-operatório imediato, e o capítulo pede a periapical no dia do término do tratamento (p. 50).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69; Sobreobturação, p. 50"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Interpretação radiográfica, p. 32; Sobreobturação, p. 50; Declaração conjunta AAE/AAOMR, pp. 68–70",
+      "secao": "para-que-serve",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Uma criança vai fazer radiografias intraorais. Segundo o Boxe 2.1 do cap. 2 do Cohen (p. 33, recomendações do NCRP, dos EUA), o que se diz do protetor de tireoide nesse caso?",
+      "alternativas": [
+        {
+          "texto": "Deve ser usado.",
+          "correta": true,
+          "justificativa": "É o que diz o item 3 do Boxe 2.1: o protetor de tireoide deve ser usado em crianças.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Modalidades de imagem, Boxe 2.1, p. 33"
+        },
+        {
+          "texto": "Só deve ser oferecido, como se faz com adultos.",
+          "correta": false,
+          "justificativa": "A oferta, quando não interfere no exame, é o que o item 3 diz para adultos; em crianças ele diz que o protetor deve ser usado.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Modalidades de imagem, Boxe 2.1, p. 33"
+        },
+        {
+          "texto": "Não deve ser exigido, porque as demais recomendações foram seguidas.",
+          "correta": false,
+          "justificativa": "Essa frase é do item 2, sobre o avental de chumbo; para o protetor de tireoide em crianças, o item 3 diz que deve ser usado.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Modalidades de imagem, Boxe 2.1, p. 33"
+        },
+        {
+          "texto": "Só é indicado se o exame for uma panorâmica.",
+          "correta": false,
+          "justificativa": "A panorâmica aparece no item 3 como exemplo de exame em que o protetor deveria ser oferecido a adultos; para crianças ele deve ser usado, sem essa restrição.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Modalidades de imagem, Boxe 2.1, p. 33"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Modalidades de imagem, pp. 32–35",
+      "secao": "digital-e-dose",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente com dor em um dente posterior; a periapical parece normal na região do ápice. Segundo o cap. 2 do Cohen, por que a imagem pode não mostrar uma lesão de origem endodôntica que já existe?",
+      "alternativas": [
+        {
+          "texto": "Porque a lesão só é visualizada na radiografia convencional depois de uma perda de 30 a 40% do conteúdo mineral do osso.",
+          "correta": true,
+          "justificativa": "É o que diz o cap. 2: essa perda de conteúdo mineral é necessária para que as lesões de origem endodôntica sejam visualizadas na radiografia convencional.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Lesões de origem endodôntica, p. 43"
+        },
+        {
+          "texto": "Porque essas lesões são radiopacas e se confundem com o osso vizinho.",
+          "correta": false,
+          "justificativa": "O capítulo diz que as lesões de origem endodôntica são radiolúcidas, por perda de mineralização óssea.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Lesões de origem endodôntica, p. 43"
+        },
+        {
+          "texto": "Porque o sensor CCD ou CMOS tem resolução espacial menor que a do filme intraoral.",
+          "correta": false,
+          "justificativa": "O capítulo diz que os sensores da geração atual têm resolução espacial igual ou melhor que a do filme intraoral (16 pares de linhas por mm).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Características e processamento das imagens, p. 34"
+        },
+        {
+          "texto": "Porque a periapical nunca registra a região do ápice de dentes posteriores.",
+          "correta": false,
+          "justificativa": "A periapical registra a região; a limitação vem da perda mineral de 30 a 40% necessária para a lesão aparecer e do osso cortical espesso ou das obstruções anatômicas (pp. 36 e 43).",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Imagem tridimensional, p. 36; Lesões de origem endodôntica, p. 43"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Imagem tridimensional, p. 36; Lesões de origem endodôntica, p. 43; Reabsorção radicular, pp. 58–59; Declaração conjunta, p. 68",
+      "secao": "limite-da-2d",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Dente com reabsorção. Foram feitas duas radiografias, a segunda com o tubo desviado na angulação horizontal. Em relação ao canal, o defeito se moveu no mesmo sentido do desvio do tubo. Segundo o cap. 18 do Cohen, onde está o defeito?",
+      "alternativas": [
+        {
+          "texto": "Do lado vestibular.",
+          "correta": false,
+          "justificativa": "O defeito vestibular se move na direção oposta à do desvio do tubo.",
+          "fonte": "cohen12-cap18",
+          "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+        },
+        {
+          "texto": "Dentro do canal, como reabsorção interna.",
+          "correta": false,
+          "justificativa": "O defeito de reabsorção interna mantém a posição em relação ao canal; neste caso o defeito se moveu.",
+          "fonte": "cohen12-cap18",
+          "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+        },
+        {
+          "texto": "Do lado lingual ou palatino.",
+          "correta": true,
+          "justificativa": "Segundo o cap. 18, o defeito lingual ou palatino se move na mesma direção do desvio do tubo.",
+          "fonte": "cohen12-cap18",
+          "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+        },
+        {
+          "texto": "Não dá para dizer, porque o desvio do tubo teria de ser vertical.",
+          "correta": false,
+          "justificativa": "O capítulo descreve a radiografia em paralaxe com desvio na angulação horizontal do tubo em relação ao receptor.",
+          "fonte": "cohen12-cap18",
+          "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704"
+        }
+      ],
+      "fonte": "cohen12-cap18",
+      "onde": "cap. 18, Reabsorção cervical externa, Características radiográficas, pp. 703–704",
+      "secao": "paralaxe-slob",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Incisivo com reabsorção de classificação difícil. Em duas radiografias com angulações diferentes, a lesão fica junto do canal nas duas. Segundo o cap. 21 do Cohen, o que isso indica?",
+      "alternativas": [
+        {
+          "texto": "Defeito externo, do lado vestibular.",
+          "correta": false,
+          "justificativa": "O defeito no aspecto externo da raiz se afasta do canal quando a angulação muda; aqui a lesão ficou junto do canal.",
+          "fonte": "cohen12-cap21",
+          "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815"
+        },
+        {
+          "texto": "Lesão de origem interna.",
+          "correta": true,
+          "justificativa": "O cap. 21 diz que a lesão de origem interna aparece perto do canal, qualquer que seja o ângulo da radiografia.",
+          "fonte": "cohen12-cap21",
+          "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815"
+        },
+        {
+          "texto": "Defeito externo, do lado lingual ou palatino.",
+          "correta": false,
+          "justificativa": "Qualquer defeito externo se afasta do canal conforme a angulação muda; a lesão que fica junto do canal nas duas imagens não tem esse comportamento.",
+          "fonte": "cohen12-cap21",
+          "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815"
+        },
+        {
+          "texto": "Nada: mudar a angulação não ajuda a distinguir lesão interna de externa.",
+          "correta": false,
+          "justificativa": "O livro diz que a mudança de angulação deve dar uma indicação razoavelmente boa de que o defeito é interno ou externo.",
+          "fonte": "cohen12-cap21",
+          "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815"
+        }
+      ],
+      "fonte": "cohen12-cap21",
+      "onde": "cap. 21, Características diagnósticas da reabsorção radicular externa versus interna, Características radiográficas, pp. 814–815",
+      "secao": "objeto-vestibular",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente com queixa simples em dente sem tratamento prévio: o exame clínico e a periapical fecharam o diagnóstico. O dentista pensa em pedir TCFC. Segundo a declaração AAE/AAOMR (diretriz dos EUA, cap. 2), o que se aplica?",
+      "alternativas": [
+        {
+          "texto": "Pedir a TCFC com FOV grande, para aproveitar o exame.",
+          "correta": false,
+          "justificativa": "A regra geral da declaração só admite a TCFC quando a radiografia 2D de dose menor não resolve a necessidade de imagem; aqui a periapical fechou o diagnóstico, e o enunciado não traz razão para ampliar o campo.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+        },
+        {
+          "texto": "Pedir a TCFC, porque a periapical não atende a necessidade de imagem.",
+          "correta": false,
+          "justificativa": "O enunciado diz que a periapical e o exame clínico fecharam o diagnóstico, isto é, a necessidade de imagem foi atendida por uma radiografia 2D de dose menor.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+        },
+        {
+          "texto": "Pedir a TCFC, porque a declaração a indica em todo dente com potencial para canais extras.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o uso da TCFC é decidido caso a caso: a lista de indicações não obriga a TCFC em todo caso de uma categoria.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Tarefas de imagem melhoradas pela TCFC, p. 43"
+        },
+        {
+          "texto": "Não pedir: a TCFC fica para quando os benefícios superam os riscos e uma radiografia 2D de dose menor não resolve a necessidade de imagem.",
+          "correta": true,
+          "justificativa": "É a regra geral da declaração (p. 68), que não substitui o julgamento do clínico.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, atualização de 2015/2016, pp. 67–70; Tarefas de imagem melhoradas pela TCFC, p. 43",
+      "secao": "tcfc-quando-usar",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente sem sinais nem sintomas volta para avaliar a cicatrização depois de um tratamento não cirúrgico, avaliado e tratado com radiografias intraorais. Segundo a declaração conjunta AAE/AAOMR (diretriz dos EUA, cap. 2), qual é a modalidade de escolha?",
+      "alternativas": [
+        {
+          "texto": "Radiografia intraoral.",
+          "correta": true,
+          "justificativa": "A recomendação 13 diz que, sem sinais ou sintomas clínicos, a radiografia intraoral é a modalidade de escolha para avaliar a cicatrização depois do tratamento não cirúrgico e do cirúrgico.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 70"
+        },
+        {
+          "texto": "TCFC com FOV limitado, como em toda reavaliação.",
+          "correta": false,
+          "justificativa": "A recomendação 14 trata do acompanhamento com TCFC no caso em que ela já foi a modalidade usada na avaliação e no tratamento; aqui foram usadas radiografias intraorais, e a recomendação 13 indica a radiografia intraoral.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 70"
+        },
+        {
+          "texto": "TCFC com FOV grande, para cobrir toda a região.",
+          "correta": false,
+          "justificativa": "A declaração prefere o FOV limitado; o FOV maior fica para casos individuais, como suspeita de extensão da patologia além dos ápices ou de lesão multifocal.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68"
+        },
+        {
+          "texto": "Radiografia panorâmica.",
+          "correta": false,
+          "justificativa": "A recomendação 13 indica a radiografia intraoral como modalidade de escolha para avaliar a cicatrização sem sinais ou sintomas.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 70"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, atualização de 2015/2016, pp. 68–70; Campo de visão, p. 38; Trauma dentoalveolar, p. 58",
+      "secao": "tcfc-quando-nao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Molar superior sem tratamento prévio, com sinais e sintomas contraditórios. O exame clínico e a periapical não esclareceram o diagnóstico, e não há sinal de doença sistêmica. Segundo a declaração AAE/AAOMR (diretriz dos EUA, cap. 2), o que se deve considerar?",
+      "alternativas": [
+        {
+          "texto": "TCFC com FOV grande, para varrer toda a cabeça.",
+          "correta": false,
+          "justificativa": "Para a maioria das aplicações endodônticas a declaração prefere o FOV limitado, e o livro não admite triagem com FOV grande sem sinais que a justifiquem; aqui não há sinal de doença sistêmica.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 68; Campo de visão, p. 38"
+        },
+        {
+          "texto": "Aguardar a lesão aparecer na periapical antes de decidir.",
+          "correta": false,
+          "justificativa": "A justificativa da recomendação 2 diz que o sucesso, medido por critérios radiográficos, é maior quando o dente é tratado antes de a doença periapical aparecer na radiografia.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69"
+        },
+        {
+          "texto": "TCFC com FOV limitado.",
+          "correta": true,
+          "justificativa": "A recomendação 2 indica a TCFC com FOV limitado como modalidade de escolha no diagnóstico de pacientes com sinais e sintomas contraditórios ou inespecíficos, em dentes tratados ou não.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, p. 69"
+        },
+        {
+          "texto": "Nova radiografia panorâmica.",
+          "correta": false,
+          "justificativa": "Radiografias intraoral e panorâmica são imagens 2D de estruturas 3D; a recomendação 2 indica a TCFC com FOV limitado quando o quadro é contraditório.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Declaração conjunta AAE/AAOMR, pp. 68–69"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Declaração conjunta AAE/AAOMR, atualização de 2015/2016, pp. 67–70; Tarefas de imagem melhoradas pela TCFC, p. 43",
+      "secao": "tcfc-quando-usar",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o cap. 2 do Cohen, por que a perfuração é difícil de localizar na radiografia convencional?",
+      "alternativas": [
+        {
+          "texto": "Porque ela só se forma depois da obturação do canal.",
+          "correta": false,
+          "justificativa": "O capítulo cita causas do preparo, como preparo de pino, busca por canais calcificados e tentativa de retirar instrumento fraturado; a perfuração não depende da obturação.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Perfurações, p. 52"
+        },
+        {
+          "texto": "Porque a radiografia não traz informação sobre a dimensão vestibulolingual.",
+          "correta": true,
+          "justificativa": "É o que o capítulo diz sobre a imagem convencional.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Perfurações, p. 52"
+        },
+        {
+          "texto": "Porque a perfuração é uma comunicação com a superfície interna do dente.",
+          "correta": false,
+          "justificativa": "O capítulo define a perfuração como comunicação entre o sistema de canais e a superfície externa do dente.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Perfurações, p. 52"
+        },
+        {
+          "texto": "Porque o endurecimento do feixe apaga a imagem da raiz nas periapicais.",
+          "correta": false,
+          "justificativa": "O capítulo cita o endurecimento do feixe como artefato que dificulta interpretar a integridade da raiz na TCFC, não como razão da dificuldade na imagem convencional.",
+          "fonte": "cohen12-cap02",
+          "onde": "cap. 2, Perfurações, p. 52"
+        }
+      ],
+      "fonte": "cohen12-cap02",
+      "onde": "cap. 2, Diagnóstico de falhas do tratamento endodôntico, p. 47; Perfurações, p. 52",
+      "secao": "tcfc-no-tratamento",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Duas periapicais da região de pré-molares. Na primeira, um objeto se sobrepõe ao ápice do segundo pré-molar. Na segunda, o tubo foi deslocado para mesial, e a imagem do objeto passou a aparecer para distal do ápice. Segundo o White e Pharoah, onde está o objeto em relação ao ápice?",
+      "alternativas": [
+        {
+          "texto": "Do lado lingual, porque a imagem do objeto lingual se move para o lado oposto ao do tubo.",
+          "correta": false,
+          "justificativa": "O objeto lingual parece se mover na direção do deslocamento do tubo; aqui o tubo foi para mesial e a imagem foi para distal.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), pp. 84–85"
+        },
+        {
+          "texto": "Na mesma profundidade do ápice.",
+          "correta": false,
+          "justificativa": "O objeto que não se move em relação à referência está na mesma profundidade; aqui a imagem se moveu para distal.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Regra SLOB, p. 85"
+        },
+        {
+          "texto": "Não dá para localizar: só a tomografia localiza objetos.",
+          "correta": false,
+          "justificativa": "O livro lista a troca de tubo como uma das três abordagens (Quadro 6.2) e diz que a tomografia pode não estar acessível nem ser necessária se já há várias periapicais.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Localização de objetos, Quadro 6.2, pp. 83–84"
+        },
+        {
+          "texto": "Do lado bucal.",
+          "correta": true,
+          "justificativa": "Pela regra (mesmo lingual, oposto bucal), a imagem do objeto bucal parece se mover na direção oposta à do deslocamento do tubo; aqui o tubo foi para mesial e a imagem foi para distal.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), pp. 84–85"
+        }
+      ],
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo (regra do objeto bucal), pp. 84–85",
+      "secao": "wp-troca-de-tubo",
+      "figura": null
+    }
+  ]
+}

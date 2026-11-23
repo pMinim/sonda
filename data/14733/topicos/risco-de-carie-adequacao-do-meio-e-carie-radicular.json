@@ -1,0 +1,679 @@
+{
+  "slug": "risco-de-carie-adequacao-do-meio-e-carie-radicular",
+  "titulo": "Risco de cárie, adequação do meio e cárie radicular",
+  "area": "Dentística e reabilitação",
+  "origem": "Fejerskov e Nyvad 4ª ed., caps. 4, 10, 15, 16 e 19; Maltz et al. (Série Abeno) 2016, caps. 6 e 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "fejerskov4",
+      "ref": "Fejerskov O, Nyvad B (orgs.). Cárie Dentária: Fisiopatologia e Tratamento. 4ª ed. Rio de Janeiro: Guanabara Koogan (GEN), 2026 (tradução de Dental Caries: The Disease and its Clinical Management, 4th ed., John Wiley & Sons, 2025). Capítulos usados: 4 (pp. 65–66), 10 (pp. 207–209), 15 (Nyvad e Fejerskov, pp. 291–297), 16 (Nyvad e Kidd, pp. 299–307 e 313–316) e 19 (Hausen, pp. 353–365). Páginas conforme a edição digital.",
+      "curta": "Fejerskov e Nyvad, Cárie Dentária, 4ª ed."
+    },
+    {
+      "id": "maltz2016",
+      "ref": "Maltz M, Tenuta LMA, Groisman S, Cury JA. Cariologia: conceitos básicos, diagnóstico e tratamento não restaurador. Série Abeno. Artes Médicas, 2016. Capítulos usados: 6 (pp. 71–74; capítulo de Groisman, van der Veen, Jardim e Maltz) e 7 (pp. 75–93, 95 e 103–104). Livro de série didática (Série Abeno), usado como complemento ao Fejerskov; o exemplar não indica o número da edição.",
+      "curta": "Maltz et al., Cariologia (Série Abeno), 2016"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "risco-conceito",
+      "titulo": "Risco de cárie: o que é e quando a estratégia de alto risco funciona",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Introdução e O risco não pode ser observado diretamente, pp. 353–357",
+      "texto": "**Definição do capítulo.** Risco é a probabilidade de uma pessoa desenvolver uma ou mais lesões que atinjam certo estágio de progressão num período específico. \"Preditor\" é o termo coletivo para dois tipos de coisa: **fatores de risco** (com associação causal estabelecida) e **marcadores ou indicadores de risco** (só associação estatística, sem exigir causa).\n\n**O risco não se observa no paciente.** O dentista não enxerga o risco de uma pessoa: usa dados de grupos com níveis parecidos dos fatores de risco para estimar a probabilidade dela. A avaliação olha para o futuro e vale como declaração de probabilidade, útil para separar quem deve receber controle intensificado de quem provavelmente não se beneficiará.\n\n**Associação não é predição.** Experiência anterior de cárie, contagem de microrganismos e parâmetros salivares têm associação significativa com lesões. Isso não garante que sirvam para prever com precisão o que vai acontecer com uma pessoa (o livro compara com o tabagismo: muitos fumantes escapam do câncer de pulmão).\n\n**A cárie se concentra numa minoria.** Entre crianças de 12 anos de Kuopio e Jyväskylä (Finlândia, 1998), a quarta parte mais desfavorecida respondeu por cerca de 70 e 80% de todos os C3PO-S (superfícies cariadas, perdidas e obturadas, na grafia do livro) nas duas cidades. Daí a ideia da estratégia de alto risco: achar cedo quem está nessa minoria e dar a essas pessoas controle individual eficaz.\n\n**Três pré-requisitos para essa estratégia dar certo:**\n1. A ocorrência de lesões na população precisa ser baixa o bastante para justificar o esforço e o custo de identificar quem está em risco.\n2. É preciso ter métodos precisos, aceitáveis e viáveis para identificar quem tem alto risco.\n3. Têm de existir medidas eficazes e viáveis para controlar a cárie nessas pessoas.\n\nO capítulo 19 trata do segundo pré-requisito: dá para identificar com acurácia suficiente quem precisa de controle individualizado?"
+    },
+    {
+      "id": "risco-acuracia",
+      "titulo": "Medir uma predição: sensibilidade, especificidade e valores preditivos",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Curso de um estudo usual; Medidas de acurácia; Exemplo real; Interpretação, pp. 353–357",
+      "texto": "Para testar um preditor, o livro descreve um estudo de coorte: mede-se o preditor no início e, no fim do acompanhamento, registra-se o incremento real de cárie. Saem quatro grupos: **verdadeiros positivos** (alto risco predito e alto incremento), **falsos positivos** (alto predito, baixo incremento), **falsos negativos** (baixo predito, alto incremento) e **verdadeiros negativos** (baixo predito, baixo incremento).\n\n**Medidas:**\n- **Sensibilidade:** proporção dos que tiveram alto incremento e foram preditos como alto risco.\n- **Especificidade:** proporção dos que tiveram baixo incremento e foram preditos como baixo risco.\n- **Valores preditivos positivo e negativo:** dependem da sensibilidade e da especificidade e também de quanto a doença ocorre na população. Com cárie alta na população, o valor preditivo positivo sobe e o negativo cai.\n- Sensibilidade e especificidade **nunca valem isoladas**: um preditor que classificasse todos como alto risco teria sensibilidade de 100% e seria inútil.\n\n**Exemplo do livro.** Placa visível nas faces vestibulares dos quatro incisivos superiores aos 19 meses, para prever ao menos uma lesão aos 36 meses (91 crianças):\n\n| | Com lesão aos 36 meses | Sem lesão | Total |\n|---|---|---|---|\n| Placa presente | 10 | 6 | 16 |\n| Placa ausente | 2 | 73 | 75 |\n\nSensibilidade 10/12 = 83,3%. Especificidade 73/79 = 92,4%. Valor preditivo positivo 10/16 = 62,5%. Valor preditivo negativo 73/75 = 97,3%. Sem teste nenhum já se esperava lesão em 13,2% (12 de 91); com placa visível a probabilidade sobe a 62,5% e sem placa cai a 2,6%.\n\n**Mesmo preditor, outra população.** Em crianças de Estocolmo nascidas em 2000–2002, 6,0% tinham lesões cariosas não tratadas (5,8%) ou restaurações (0,2%). Com cárie bem menor, o mesmo preditor, com as mesmas razões de verossimilhança (que vêm da sensibilidade e da especificidade), daria cerca de 40% com placa e cerca de 1% sem placa: o que muda é a probabilidade antes do teste. O valor preditivo negativo do exemplo só vale para populações com experiência de cárie igual à do estudo."
+    },
+    {
+      "id": "risco-preditores",
+      "titulo": "O que predizem a experiência anterior, os testes de laboratório e a saliva",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Preditores únicos; Qual nível de acurácia pode ser alcançado?; Fatores sociais, pp. 357–365",
+      "texto": "**Experiência anterior de cárie.** O capítulo a chama de preditor individual mais potente do incremento futuro, e ainda assim modesto. Em 384 crianças de 13 anos (Vantaa, Finlândia), alto incremento foi mais de 4 novas lesões em 3 anos (27,1% das crianças). Com experiência inicial de 4 ou mais superfícies, a sensibilidade foi de 63% e a especificidade de 74%. O texto lembra que a experiência anterior é consequência da doença, não causa: se a cárie for bem controlada, ela perde o poder de predizer.\n\n**Lactobacilos.** Nível alto indica consumo elevado de açúcar e maior risco, mas como triagem o valor é limitado. Num estudo citado, sensibilidade de 55% e especificidade de 68%, com 38% das crianças classificadas como alto risco.\n\n**Streptococcus mutans na saliva.** Têm associação com lesões, mas poder preditivo \"consistentemente modesto\" e insuficiente para a avaliação de risco do dia a dia.\n\n**Fluxo e capacidade tampão.** Redução grave do fluxo predispõe à cárie, e quem tem salivação comprometida precisa de controle individualizado. Salvo hipossalivação verdadeira, o poder preditivo do fluxo é modesto; a capacidade tampão é tão pouco preditiva que não identifica alto risco.\n\n**Os quatro juntos.** Combinados por regressão (contagem inicial de lesões, lactobacilos, S. mutans e capacidade tampão), quase todo o poder veio da contagem inicial de lesões. Os outros três não acrescentaram nada, nem em conjunto.\n\n**Fatores sociais.** Renda, escolaridade e ambiente social se correlacionam com a cárie, mas o status social não é um preditor utilizável do risco. Ainda assim, a origem social entra naturalmente no histórico odontológico.\n\n**Hábitos autorrelatados.** O valor dos hábitos alimentares referidos pelo paciente para prever lesões não é claro. A relação entre placa e cárie é clara (a remoção profissional da placa reduz a ocorrência), mas a relação com a quantidade de placa e com a frequência de higiene referida é vaga.\n\n**Outra fonte:** o Cariologia trata dos mesmos parâmetros com outro enfoque; ver a seção «Cariologia: fatores etiológicos e testes salivares» (Maltz et al.)."
+    },
+    {
+      "id": "risco-veredito",
+      "titulo": "O veredito do capítulo 19 e o que ele propõe na prática",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Qual nível de acurácia seria suficiente na prática diária?; Avaliação clínica do risco de cárie: é possível?; Quão valiosas são as medidas propostas?; Conclusão, pp. 361–365",
+      "texto": "**Que acurácia bastaria?** O preditor perfeito teria sensibilidade e especificidade de 100%, e nenhum assim existe. O livro cita duas sugestões da literatura: soma de sensibilidade e especificidade de pelo menos 160%, para candidato a controle individualizado; e sensibilidade e especificidade de 80% como aceitáveis para uso na comunidade. A leitura do próprio livro: mesmo com 80% e 80%, 1 em cada 5 pessoas com verdadeiro alto risco não seria detectada, e 1 em cada 5 com verdadeiro baixo risco entraria no grupo de alto risco e receberia atenção especial de pouca ou nenhuma finalidade. O texto chama essa taxa de classificações erradas de lamentavelmente alta.\n\n**O que se alcança.** Na dentição permanente, as melhores medidas chegam a sensibilidade de 70 a 80% e especificidade de 80 a 90%, com taxa de erro \"intoleravelmente alta\". O capítulo conclui que nenhuma medida relatada é acurada o bastante para selecionar pacientes para controle intensificado.\n\n**Ferramentas de avaliação de risco.** As mais citadas são a da American Academy of Pediatric Dentistry, o CAMBRA (25 itens para adultos e 20 para crianças), os formulários da American Dental Association e o Cariogram (9 itens). Só para Cariogram e CAMBRA há evidência publicada de capacidade preditiva, e a evidência de validade das ferramentas foi considerada fraca. Os estudos de coorte prospectivos do Cariogram o apontam útil em idosos e, em menor grau, em crianças.\n\n**Por que a predição é limitada.** A etiologia é multifatorial; mesmo um teste perfeito só prevê se as condições se mantiverem; estilo de vida e comportamento mudam. O capítulo diz que não há algoritmo mecânico: o dentista decide caso a caso, e as fontes mais importantes são o exame clínico, um bom histórico odontológico e o julgamento do clínico experiente.\n\n**O que o livro propõe.** O controle da cárie deve se basear principalmente na estratégia de população total ou na estratégia populacional direcionada. Em vez de se preocupar demais em prever o futuro, o dentista deve dar atenção ao controle das lesões ativas que o paciente tem hoje. O tratamento adequado das lesões cavitadas, que tem o autocuidado como pré-requisito, também ajuda a prevenir novas cavidades."
+    },
+    {
+      "id": "atividade-fatores",
+      "titulo": "Risco no consultório: atividade da lesão e fatores de risco",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Avaliação da atividade e do risco; Identificação dos fatores de risco; Sistemas de avaliação de risco, pp. 299–307",
+      "texto": "**Duas fontes de informação** guiam o cuidado: (1) o exame visual e tátil, com a avaliação da atividade das lesões (estado atual e prognóstico); (2) o histórico médico e odontológico, com os fatores de risco para novas lesões. O paciente deve saber o risco relativo de novas lesões e de progressão das existentes, o que o motiva a participar.\n\n**Atividade é a evidência mais forte.** Sem intervenção, uma lesão ativa não cavitada tem mais risco de cavitar do que a inativa ou a superfície sadia. Conte e localize as lesões ativas e considere a atividade recente (lesões novas, em progressão ou restauradas nos últimos 2 a 3 anos). O livro diz que não há consenso sobre \"alta atividade\", que depende da prevalência; na maioria das populações, um incremento anual de **2 ou mais lesões ativas** detectadas clinicamente (cavitadas ou não) indica alta taxa de progressão. Várias lesões ativas em áreas de alto fluxo salivar, como os incisivos inferiores, sugerem alta atividade.\n\n**Onde olhar, por faixa etária:** em crianças, as oclusais de molares permanentes em erupção; em adolescentes, as proximais; em **adultos e idosos, as superfícies radiculares de difícil acesso podem ser os locais predominantes de risco**, embora a cárie coronária também seja muito importante.\n\n**Fatores de risco.** Cabe ao dentista descobrir quais atuam em cada paciente. Os biológicos e ambientais importantes são fluxo salivar, qualidade da higiene, alimentação e exposição ao flúor. Separe o que o paciente pode mudar do que não pode (boca seca por destruição das glândulas salivares é alto risco sempre). Se o desequilíbrio não for corrigido, o controle será ilusório.\n\n**Testes e programas.** Testes microbiológicos ou salivares de consultório, e também os alimentares, sozinhos ou somados a parâmetros clínicos, não são precisos o bastante em nível individual. Programas como Cariogram e CAMBRA dão falsa impressão de objetividade.\n\n**A melhor estratégia atual,** segundo o capítulo, é selecionar quem tem lesões ativas não cavitadas que podem ser impedidas de cavitar por intervenção não operatória. Abordagens direcionadas reduziram o risco relativo de incidência em 44% em 4 anos numa população de baixo índice de cárie."
+    },
+    {
+      "id": "historico-boca-seca",
+      "titulo": "Histórico médico e odontológico: boca seca, medicamentos e hábitos",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Histórico médico; Histórico odontológico; Fatores sociais e demográficos; Tabelas 16.1 e 16.2, pp. 299–307",
+      "texto": "**Hipofunção salivar** é comum, sobretudo em idosos. Se persistente, tende a causar cáries novas e recorrentes e é difícil de prevenir. O paciente pode não se queixar: um espelho que adere à mucosa e saliva espumosa sugerem boca seca. Meça o fluxo em repouso e estimulado.\n\n**Medicamento é a causa mais frequente.** O livro traz mais de 400 medicamentos com hipofunção das glândulas salivares como efeito colateral, e relata que 90% dos mais prescritos causam boca seca. A prevalência de xerostomia em adultos independentes e em lares de idosos varia de 16 a 72%. Medicamentos em xarope de açúcar, pastilhas e inaladores também contam: verifique a composição.\n\n**Condições que reduzem a saliva:** síndrome de Sjögren (primária ou secundária), diabetes mal controlado, HIV/AIDS (síndrome da imunodeficiência adquirida), doenças de Alzheimer e Parkinson, derrame, fibrose cística e desidratação, entre outras (Tabela 16.2). **Radioterapia de cabeça e pescoço** causa hipofunção permanente; a recuperação tardia só ocorre se a dose total nos tecidos salivares for inferior a 25 Gy. A quimioterapia dá disfunção salivar, de impacto de longo prazo incerto, e candidíase.\n\n**Histórico odontológico.** Muitas restaurações que precisam ser trocadas com frequência indicam alto risco. Há associação bem documentada entre alta experiência anterior de cárie e risco de cárie radicular. Uma mudança súbita (por exemplo, boca seca) pede investigação. Pergunte sobre frequência de limpeza, escovas, acessórios interdentais, dentifrício (confira o flúor na embalagem), enxaguante e alimentação: café ou chá açucarado, refrigerantes, pastilhas e também petiscos ricos em amido, como batata frita e salgadinhos.\n\n**Fatores sociais** (idade, escolaridade, trabalho, se o paciente está só, entre outros) não participam diretamente do processo, mas influenciam saúde e estilo de vida; evite conclusões precipitadas. Alguns fatores o paciente pode mudar (bebida açucarada, higiene); outros não (baixo fluxo por radioterapia ou Sjögren). Nos medicamentos só em xarope de açúcar, peça ao clínico geral uma formulação alternativa. Crianças pequenas, debilitados e idosos em lares podem precisar de um cuidador, e o custo de escova, fio e dentifrício também pesa."
+    },
+    {
+      "id": "semaforo",
+      "titulo": "O semáforo odontológico",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Semáforo odontológico; Fig. 16.2, pp. 299–307",
+      "texto": "O \"semáforo odontológico\" foi criado para montar um plano personalizado de controle da cárie. O foco é controlar a atividade em quem tem mais risco, isto é, **quem tem lesões ativas**; os procedimentos profissionais vão para quem tem doença ativa. O livro o considera potencialmente mais eficaz que os modelos tradicionais de avaliação de risco e, dada a incerteza do capítulo 19, mais racional: decide-se pelo exame cuidadoso, pela atividade da lesão e pelos históricos médico e odontológico.\n\n**Classificação (primeiro a atividade):**\n\n| Cor | Quem é | Fatores de risco |\n|---|---|---|\n| **Verde** | sem lesão ativa (inativas podem existir) e sem histórico de restaurações recentes | sob controle |\n| **Amarela** | com lesão ativa | os relevantes podem potencialmente ser mudados (placa, flúor, alimentação) |\n| **Vermelha** | com lesão ativa | algum não pode ser mudado (boca seca, certos medicamentos) ou não foi identificado |\n\nNa vermelha o risco é sempre alto, mas a cárie pode ser reduzida por controle rigoroso dos fatores, inclusive limpeza dentária profissional.\n\n**Fluxo da Fig. 16.2:** o paciente verde tem revisão da saúde bucal a cada 12 a 24 meses. A amarela passa por fase corretiva (tratamento não operatório e operatório) de 2 a 6 semanas e reavaliação depois de 6 a 9 meses. Para a vermelha, a figura mostra o mesmo desenho de fase corretiva e reavaliação, com prazos próprios que este tema não detalha.\n\n**Dois cuidados:**\n- **Todos, tenham ou não lesão ativa,** devem fazer diariamente o controle básico: escovação com dentifrício fluoretado e atenção à alimentação.\n- **Cavidades impossíveis de limpar** devem ser restauradas temporariamente, para deter a progressão e facilitar o controle da placa antes dos tratamentos não operatórios. Restaurar elimina sintomas, mas não cura a doença.\n\n**Uso.** O objetivo principal é motivar o paciente a converter amarelo (ou vermelho) em verde. Desde 2016 os dentistas dinamarqueses são obrigados a codificar os pacientes por cor. Variações da literatura que entram pelos fatores de risco, e não pela atividade, são menos eficazes: pedir mudança a quem já tem fatores equilibrados é inútil."
+    },
+    {
+      "id": "controle-conceito",
+      "titulo": "Controle não operatório da doença: o conceito do cap. 15",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Por que o conceito de controle deve substituir a prevenção; Conceito, pp. 291–298",
+      "texto": "**Sobre o termo.** Nos capítulos usados neste tema, nem o Fejerskov nem o Cariologia usam a expressão \"adequação do meio\", que dá título a este tema. As seções sobre controle, a partir desta, seguem os termos do Fejerskov: controle não operatório da doença.\n\n**Controle em vez de prevenção.** Por mais de 50 anos prevenção significou reduzir a incidência. O novo paradigma vê o flúor como agente terapêutico, que interfere nos processos de des e remineralização e trata as lesões ativas à medida que progridem. Análises citadas mostram que o flúor promove a detenção da lesão mais do que inibe seu início. Ele só age quando está presente nos períodos de doença ativa, com pH reduzido pelo metabolismo microbiano.\n\n**O conceito.** Os biofilmes estão sempre metabolicamente ativos, então a cárie é inevitável e provável ao longo da vida se esses processos não forem controlados. A cárie não pode ser prevenida, mas a taxa de incidência pode ser controlada. Isso exige diagnóstico para monitorar a progressão, com os critérios de atividade.\n\n**Três níveis (Fig. 15.1):**\n- **Prevenção primária:** manter o equilíbrio fisiológico.\n- **Prevenção secundária:** tratamento não operatório da lesão ativa não cavitada, que é o estágio inicial em que o clínico deve intervir.\n- **Prevenção terciária:** tratamento operatório. A restauração pode ser a única opção para deter lesão cavitada ativa por causa do acesso precário à limpeza, mas é tratamento sintomático e não cura a atividade nas margens sem melhor controle da placa.\n\n**Regra central:** tratamentos operatórios e não operatórios fazem parte do conceito, e **o operatório nunca deve ser o único tratamento oferecido a quem tem lesões ativas.**"
+    },
+    {
+      "id": "controle-limites",
+      "titulo": "Controle não operatório: alcance, limites e lesão cavitada ativa",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Benefícios e limitações; Detenção da cárie cavitada ativa, pp. 291–298",
+      "texto": "**Alcance e limites.** A abordagem não operatória pode ser aplicada a todos os tipos e estágios da cárie desde que a polpa esteja vital. Mesmo depois de restaurar, o cuidado não operatório é essencial para prevenir cárie secundária na margem. O livro rejeita a ideia de que a lesão não restaurada seja \"negligência supervisionada\": é tratamento biológico que exige resposta ativa do paciente. Alguns pacientes não conseguem cumprir as recomendações, e isso não invalida o conceito, que deve ser oferecido a quem é receptivo.\n\n**Lesão cavitada ativa.** No controle não operatório, o texto não recomenda remover a dentina amolecida por instrumento: a escova a remove aos poucos, e a camada superficial absorve mineral da saliva."
+    },
+    {
+      "id": "controle-placa",
+      "titulo": "Controle da placa e limpeza profissional",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Tratamentos não operatórios; Controle da placa; Tabela 16.3, pp. 299–307",
+      "texto": "O livro não traz protocolo único: a \"arte\" é combinar controle da placa, flúor e modificação da alimentação no equilíbrio certo para cada paciente, ajustando nos retornos. A equipe aconselha, informa e incentiva, e não tenta muitas mudanças de uma vez, porque as evidências de mudar comportamento em saúde bucal são fracas.\n\n**Escovação.** Escovar **ao menos 1 vez por dia** com dentifrício fluoretado: a escovação interfere no crescimento e na ecologia do biofilme e o flúor atrasa a progressão. O horário não é crucial. **A qualidade importa mais que a frequência:** uma vez ao dia bem feita é melhor que várias descuidadas. Mostre a lesão ao paciente (espelho, radiografia), dê instrução específica para cada local e estimule-o a sentir os dentes limpos com a língua. Escovas elétricas oscilatórias ou rotatórias removem mais placa e reduzem mais a gengivite que as manuais.\n\n**Limpeza interdental.** Indicada onde há lesões proximais ativas: fio ou fita para espaços estreitos em jovens, escovas interdentais para espaços maiores e para **superfícies radiculares**.\n\n**Limpeza dentária profissional** é para quem não domina o controle da placa e/ou tem secreção salivar muito diminuída. Procedimento (Tabela 16.3):\n1. Revelar a placa.\n2. Removê-la com pasta de polimento de baixo poder abrasivo com flúor (exemplo do livro: fluoreto de sódio (NaF) a 0,1% em dióxido de silício), em peça de mão até 5.000 rpm, com escova de cerdas pontiagudas nas fissuras, taça de borracha macia nas faces livres lisas e, nas proximais, pasta aplicada com palito ou escova interdental.\n3. Remover de novo e conferir.\n4. Aplicar flúor tópico (NaF a 2%) ou verniz com flúor, garantindo que chegue aos locais com cárie ativa.\n5. Retornos curtos no início (a cada 2 ou 3 semanas), estendendo quando a cooperação melhorar.\n\n**Outra fonte:** o Cariologia também trata da relação entre higiene e cárie; ver a seção «Cariologia: controle do biofilme» (Maltz et al.)."
+    },
+    {
+      "id": "controle-fluor",
+      "titulo": "Flúor no controle: dentifrício, limite do flúor e o que o livro não recomenda",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Uso do flúor; cap. 15, Papel do flúor, pp. 291–297 e 299–307",
+      "texto": "**Dentifrício.** Todos devem usar dentifrício com **1.000 a 1.500 ppm de F** como método básico (crianças menores de 7 a 8 anos, quantidade pequena, do tamanho de uma ervilha). **Adultos com lesões ativas e fatores de risco que não podem ser mudados** podem se beneficiar de dentifrício de alto teor, por exemplo **5.000 ppm de F**. Na cárie ativa, intensifique o flúor até controlar: dentifrício intensivo autoaplicado, enxaguantes domésticos, aplicações profissionais ou combinações; a escolha do veículo não é crucial se a higiene melhora e o paciente aceita.\n\n**Uso terapêutico do dentifrício:** aplicar direto nas lesões ativas limpas, com dedo ou escova, de preferência antes de dormir (menos saliva à noite). Não pedir enxágue vigoroso com água depois da escovação.\n\n**Gomas, pastilhas, palitos e fio fluoretados:** sem ensaios adequados; o autor não os recomenda como estratégia primária.\n\n**Limite do flúor.** Mesmo agressivo, pode não parar a cárie, só reduzir a velocidade de progressão da lesão. O controle máximo só é provável com flúor tópico combinado com medidas alimentares que reduzam o desafio acidogênico.\n\n**Fluoreto de diamina de prata (SDF).** Ficou popular para cárie radicular e dentinária. Revisões mostram que a aplicação repetida a 38% (44.800 ppm de flúor) pode reduzir a progressão e promover detenção, mas poucos estudos têm rigor de projeto, e o texto fala em efeitos colaterais toxicológicos inaceitáveis. **Os autores não recomendam o tratamento na prática clínica.** O fluoreto de diamina de prata também aparece, em outro contexto, no tema «Lesões cervicais não cariosas: diagnóstico e conduta».\n\nOs números de redução de cárie por veículo estão na seção seguinte."
+    },
+    {
+      "id": "controle-fluor-numeros",
+      "titulo": "Flúor no controle: números por veículo",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Uso do flúor, pp. 299–307",
+      "texto": "**Números do livro por veículo (cap. 16, Uso do flúor):**\n- Dentifrício fluoretado: revisão sistemática com 24% de redução de cárie na dentição permanente de crianças e adolescentes (ensaios de 2 a 3 anos).\n- Cada 500 ppm de F acima de 1.000 ppm reduz cerca de 6 a 8% da cárie; passar de 1 para 2 escovações por dia reduz 14%; a escovação supervisionada reduz 11% mais que a não supervisionada. O conselho é focar na frequência e na diligência, não só na concentração.\n- Enxaguante, para adultos com cárie ativa que não limpam bem ou têm mucosa sensível: NaF a 0,05% ou 0,1% por 1 minuto, 1 ou 2 vezes ao dia, ou NaF a 0,2% semanal.\n- Profissional (NaF aquoso a 2% ou verniz): em dentes levemente secos, por 2 a 5 minutos; repetir a cada 2 ou 3 meses até controlar a atividade. Revisão sistemática: verniz reduziu a cárie em 33% nos decíduos e 46% nos permanentes, contra placebo. É demorado e caro, e pode não ser custo-efetivo, exceto em alta atividade."
+    },
+    {
+      "id": "controle-alimentacao",
+      "titulo": "Alimentação no controle da lesão ativa",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Aconselhamento alimentar (início), pp. 299–307; boca seca e radioterapia, pp. 313–316",
+      "texto": "**A alimentação é crucial na cárie ativa.** Informe o paciente sobre o efeito dos açúcares na produção de ácido no biofilme. Depois do açúcar a placa fica ácida por cerca de 1 hora; o livro dá a explicação simples de que nove consumos de açúcar equivalem a 9 horas de placa ácida.\n\n**Cárie inativa:** nenhuma mudança alimentar deve ser sugerida. Alerte apenas que uma mudança (por exemplo, consumo frequente de açúcar) pode ser problema se a higiene for deficiente. Açúcar nas refeições ou petiscos aos sábados é razoável.\n\n**Quem precisa de análise.** Faça análise alimentar sempre que houver várias lesões ativas, às vezes só verbal. Os métodos citados são o rastreamento de 24 horas e o registro escrito de **3 a 4 dias**, ambos dependentes de cooperação e honestidade e possivelmente não representativos. O histórico alimentar é ferramenta não científica, para ler com cautela. Inclua medicamentos no registro e conte quantas vezes houve açúcar.\n\n**Detalhes a perguntar.** Café ou chá açucarado, refrigerantes, pastilhas. Petiscos salgados, como batata frita e salgadinhos, são cariogênicos segundo o livro. Mudanças de vida (mudança de casa, filho, desemprego, divórcio, luto) mexem na alimentação.\n\n**Na boca seca por radioterapia,** a análise e o aconselhamento continuam importantes: esses pacientes mudam a alimentação (alimentos secos são difíceis; bebidas e balas para lubrificar a boca). Água ou leite puros devem ser usados para isso.\n\n**Outra fonte:** o Cariologia dá valores diferentes para o registro alimentar e para o tempo de acidez do biofilme depois do açúcar; ver as seções «Cariologia: dieta e cariogenicidade» e «Cariologia: registro e aconselhamento alimentar» (Maltz et al.)."
+    },
+    {
+      "id": "raiz-aparencia",
+      "titulo": "Cárie radicular: como aparece e como saber se está ativa",
+      "fonte": "fejerskov4",
+      "onde": "cap. 10, Cárie na superfície radicular (aparência clínica; características histopatológicas), pp. 207–209; cap. 4, Cárie na superfície radicular, pp. 65–66",
+      "texto": "**Por que a raiz fica exposta.** A recessão da margem gengival vem da má higiene e da perda do periodonto de inserção com a idade; mesmo com higiene regular ela ocorre na maioria das pessoas, com padrão muito característico em idosos. Com a recessão, a junção amelocementária fica exposta, é irregular e retém bactérias: a maioria das lesões começa aí. O texto considera biologicamente improvável uma lesão \"dentro da bolsa\": o processo provavelmente começou na margem gengival, e a inflamação dá a impressão de lesão escondida.\n\n**Espectro clínico.** Vai de pequenas áreas levemente amolecidas, com mudança de cor, a extensas áreas amarelo-amarronzadas, moles ou duras, que podem circundar toda a raiz. Cavitadas ou não; mesmo extensas, a cavitação não envolve necessariamente a polpa.\n\n**Lesão ativa:** área bem definida e **amolecida**, amarelada ou marrom-clara, provavelmente coberta por placa visível, perto da margem gengival ou junto à junção amelocementária. Algumas avançam devagar e podem ser amarronzadas ou pretas, de consistência endurecida.\n\n**Lesão inativa (detida):** brilhante, relativamente lisa e **dura** à sondagem com pressão moderada, em geral a alguma distância da margem gengival, sem depósitos microbianos visíveis; pode ter cavidade, mas de margens lisas. Cor de amarela a amarronzada ou preta. Detida é um julgamento clínico de que não se espera mais progressão, desde que a higiene no local não piore.\n\n**Na dúvida, vale a textura, não a cor.** O cap. 4 também diz que a cor não foi útil para separar ativa de inativa. O cap. 4 propõe ainda nove categorias, que combinam atividade, cavitação (profundidade estimada até 1 mm, acima de 1 mm sem envolver a polpa, ou com suspeita de atingir a polpa) e restaurações.\n\n**Histopatologia, em uma frase.** A lesão costuma se desenvolver na dentina exposta, com perda mineral abaixo de uma zona superficial relativamente bem mineralizada.\n\n**Cuidados.** Evite sondar a zona superficial vulnerável. **Não faça raspagem vigorosa das raízes de pacientes com cárie ativa antes de confirmar que as lesões foram detidas.** Outras alterações de cor da raiz costumam ser disseminadas e mal definidas, o que facilita o diagnóstico diferencial."
+    },
+    {
+      "id": "raiz-detencao",
+      "titulo": "Cárie radicular: detenção, ensaio em idosos e SDF",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Detenção da cárie radicular ativa; Papel do flúor; cap. 10, Características histopatológicas (lesões detidas), pp. 207–209 e 291–297",
+      "texto": "**Higiene meticulosa e constante muda a lesão rápido.** Em todos os casos descritos, a lesão amarelada, mole e coberta por placa passa a mudar de cor, endurece e, a certa altura, parece brilhante, lisa e/ou com microcavidades. Exemplo de um canino superior (Fig. 15.3): lesão ativa e amolecida que, depois de 1 ano de escovação aprimorada com dentifrício fluoretado, ficou inativa, dura e brilhante, e continuava assim após 4 anos. Outra série (Fig. 15.4) acompanhou a raiz vestibular de um canino aos 3, 6 e 18 meses: de mole e amarelada a dura e escura, com mudança na gengiva marginal.\n\n**Por que dá certo na raiz.** Diferentemente do esmalte, bactérias invadem as camadas superficiais da dentina radicular cariada já no início. Mas, removendo repetidamente o biofilme superficial (a principal força motriz), a progressão cai pela mudança da ecologia microbiana. Em estudos experimentais, a perda mineral não aumentou durante a detenção, apesar das bactérias no tecido cariado. O texto conclui que nem tratamento antimicrobiano nem operatório são necessários para controlar os microrganismos da dentina radicular.\n\n**Lesões profundas e cavitadas.** Numa série de casos, o paciente aceitou tratar sem restaurar; sem pedido de restauração em 10 anos, as lesões endureceram e ficaram quase pretas, sem problema estético posterior. Aos 4 anos removeu-se a borda de esmalte sem suporte para facilitar a limpeza, com cuidado para não danificar a camada superficial da lesão.\n\n**Ensaio em idosos de casa de repouso.** Os dentes eram escovados profissionalmente 2 vezes ao dia pela equipe de enfermagem. Em **8 meses**, significativamente mais lesões radiculares ativas foram detidas no grupo com dentifrício de **5.000 ppm de flúor** do que no controle com **1.450 ppm**, sem diferença de placa nem de outros determinantes no fim. O texto diz que o resultado não surpreende, dado o mecanismo do flúor.\n\n**SDF.** Revisões mostram que a aplicação repetida a 38% pode reduzir a progressão da cárie dentinária, mas os autores do Fejerskov **não recomendam o tratamento na prática clínica** (veja a seção sobre flúor)."
+    },
+    {
+      "id": "raiz-risco",
+      "titulo": "Risco de cárie radicular e radioterapia",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Avaliação da atividade; Histórico odontológico; Radioterapia, pp. 299–307 e 313; cap. 19, Experiência anterior; Hábitos alimentares e higiene bucal, pp. 362–365",
+      "texto": "**Quem tem risco.** Em adultos e idosos, as raízes de difícil acesso podem ser o local predominante de risco. Há associação bem documentada entre alta experiência anterior de cárie e risco de cárie radicular, e correlação transversal bem documentada entre a experiência coronária e a radicular do indivíduo. Vários estudos longitudinais mostram correlação positiva entre a pontuação radicular inicial e a experiência radicular posterior, mas o texto não acha provável que só a experiência anterior seja preditor potente do incremento radicular.\n\n**Higiene.** No estudo de DePaola e colaboradores, a **higiene bucal isolada** foi o único preditor relevante do risco de novas lesões em adultos e idosos. Contagens de fungos foram preditor fraco para identificar adultos mais velhos com alto risco de cárie radicular.\n\n**Alerta.** Um CPO alto (índice de cariados, perdidos e obturados) já estabelecido continua alto. Quem o tem pode ter pouco risco de novas lesões se as condições bucais mudaram para melhor, e o oposto também vale.\n\n**Boca seca por radioterapia.** A radioterapia de cabeça e pescoço causa hipofunção salivar permanente. O padrão típico é o ataque às pontas de cúspide e às bordas incisais, onde o desgaste expõe a dentina. Abordagem eficaz: aplicações diárias, autoaplicadas, por **5 minutos, de gel de fluoreto de sódio a 1%** em moldeiras ajustadas individualmente, depois de remover toda a placa evidenciada com corante. O problema é a adesão. Alternativa mais fácil: **bochechos 2 vezes ao dia com NaF a 0,05%** ou NaF a 0,05% com gliconato de clorexidina a 0,2%. Sem bom controle da placa, limpeza profissional regular com flúor tópico.\n\n**Conforto na boca extremamente seca:** beber água ao longo do dia; goma ou pastilha sem açúcar só se houver atividade glandular conservada; evitar cigarro, cafeína, álcool e adstringentes (enxaguante com álcool, dentifrício muito forte de menta); pomada labial ou vaselina nos lábios."
+    },
+    {
+      "id": "idosos-debilitados",
+      "titulo": "Cárie em idosos debilitados",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Controle da cárie nos idosos debilitados; Insucesso, pp. 313–316",
+      "texto": "**O quadro.** Muitos idosos mantêm dentição funcional, o que se associa a melhor qualidade de vida. O lado negativo: quando ficam debilitados, muitos têm má higiene, cáries (radiculares) não tratadas, doença periodontal, infecções fúngicas e úlceras por prótese. Crescem as doenças crônicas e a polifarmácia (estima-se que, em lares dinamarqueses, idosos com mais de 75 anos tenham ao menos 5 condições crônicas e média de 8 medicamentos), com xerostomia e hipossalivação.\n\n**Boca seca no idoso.** Além da menor secreção, a perda de massa muscular reduz a capacidade de limpeza da boca. Há acúmulo de placa em locais retentivos, alimentos pastosos e açucarados mudam a microbiota para a associada à cárie, e a dentição pode colapsar em poucos meses.\n\n**Ajuda chega tarde.** O livro estima que **78% dos idosos em lares precisam de ajuda com a higiene bucal diária, mas só cerca de 7% a recebem.**\n\n**Plano no lar.** Exame médico e odontológico completo ao internar; equipes médica e odontológica compartilham observações; revisão dos medicamentos e da alimentação. O plano de cuidado é compartilhado com a enfermagem, e um profissional da odontologia examina a dentição pelo conceito de semáforo odontológico.\n- **Objetivo principal:** aliviar a dor e prolongar a sobrevida dos dentes remanescentes. O objetivo não é restaurar a dentição ao estado funcional anterior.\n- O tratamento atraumático da cárie pode ser a escolha realista.\n- Evite extração, salvo dor ou patologia manifesta: **raízes retidas preservam o osso alveolar** e ajudam a língua a controlar a maceração dos alimentos antes da deglutição.\n- Espera-se que a maioria dos idosos debilitados tenha lesões ativas e precise de **ajuda diária na escovação com dentifrício fluoretado**; em cárie ativa generalizada, pode ser indicado dentifrício com alto teor de flúor, como 5.000 ppm.\n- A escovação assistida é melhor com escova pequena circular, com o enfermeiro em pé à frente do idoso, mantendo contato visual.\n\n**Higiene e pneumonia.** Num estudo japonês, 5 minutos de escovação após cada refeição reduziram significativamente o risco de pneumonia.\n\n**Insucesso.** Na opinião dos autores, o fracasso costuma vir de fatores sociológicos, não biológicos. A abordagem não operatória exige cooperação do paciente, nem sempre possível."
+    },
+    {
+      "id": "maltz-saliva",
+      "titulo": "Cariologia: fatores etiológicos e testes salivares",
+      "fonte": "maltz2016",
+      "onde": "cap. 6, Avaliação de fatores etiológicos e determinantes; Condições salivares; Quadros 6.3 a 6.7, pp. 71–74",
+      "texto": "O Cariologia (Série Abeno) é livro de série didática; está aqui como complemento ao Fejerskov, que é a base do tema. Nos capítulos usados neste tema, o capítulo 6 não traz classificação de risco em baixo, moderado e alto: trata de **avaliar os fatores** que sustentam a doença em cada paciente.\n\n**Fatores.** O biofilme é o fator etiológico primário. Os determinantes são a composição do biofilme e da saliva, a dieta e o acesso a fluoretos; os fatores socioeconômicos e de comportamento são modificadores, pois influenciam os determinantes. **Testes salivares nunca devem ser considerados isolados do exame clínico**; ajudam a determinar os fatores ligados ao processo e a orientar o tratamento. Repetidos durante ou depois do tratamento, avaliam sua efetividade.\n\n**Fluxo salivar estimulado.** O paciente sentado mastiga 1 g de goma sem açúcar ou parafina por 1 minuto; despreza-se essa saliva e coleta-se toda a formada nos 5 minutos seguintes, em mL/min. O Quadro 6.3 classifica como **baixa** a secreção abaixo de 0,7 mL/min.\n\n**Capacidade tampão.** Adicionam-se 3 mL de ácido clorídrico a 1 mL de saliva estimulada e mede-se o pH depois de 2 minutos. Quadro 6.4: adequada, pH final acima de 6,0; reduzida, 4,5 a 5,5; baixa, abaixo de 4,0. Boa capacidade tampão por si só não indica resistência do esmalte, porque é fortemente influenciada pela frequência de consumo de sacarose.\n\n**Microbiologia.** Estreptococos do grupo mutans e lactobacilos são acidogênicos e acidúricos, bons indicadores de microflora cariogênica. Valores altos: mais de 10^6 UFC/mL de saliva (UFC: unidades formadoras de colônia) para os estreptococos e mais de 10^5 UFC/mL para os lactobacilos. Quando possível, prefira o teste de laboratório ao de cadeira. O teste do potencial cariogênico do biofilme serve para educar o paciente, mas a aplicação como preditor de atividade não foi confirmada.\n\n**Placa e sangramento.** O índice de placa visível e o índice de sangramento gengival (sondagem, 2 segundos, quatro sítios por dente) são repetidos nas sessões para verificar a colaboração do paciente.\n\n**Outra fonte:** o Fejerskov avalia parâmetros semelhantes como previsão de cárie futura; ver a seção «O que predizem a experiência anterior, os testes de laboratório e a saliva» (Fejerskov e Nyvad)."
+    },
+    {
+      "id": "maltz-dieta",
+      "titulo": "Cariologia: dieta e cariogenicidade",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.2 O papel da dieta/nutrição no controle da doença cárie, pp. 82–84 e 86–89",
+      "texto": "**A dieta é negligenciada.** O livro lembra que tratar a atividade da doença só com higiene é um equívoco comum. A cárie exige, além do biofilme retido, oferta de substratos fermentáveis. A avaliação dos hábitos alimentares deve ser feita para todos os pacientes com atividade de cárie.\n\n**Vipeholm** (hospital para doentes mentais, Suécia, 1946 a 1951, 436 adultos): comparou o consumo nas refeições ou entre elas e a consistência dos açucarados (líquido, pão, chocolate, caramelo). O consumo de sacarose aumenta a cárie, de modos diferentes conforme a forma de consumo, e **o fator mais importante não é a quantidade total, mas a frequência de consumo**. A consistência também pesa: quanto mais tempo o alimento fica na boca, mais cariogênico.\n\n**Turku** (125 adultos, 25 meses, sacarose, frutose ou xilitol): o grupo da sacarose teve experiência de cárie significativamente maior; frutose e xilitol tiveram incrementos 32% e 85% menores. Os autores ressalvam que a diferença da frutose veio da substituição total dos açúcares, o que não se transfere direto à clínica.\n\n**Curva de pH.** Depois de um consumo de açúcar, o pH do biofilme cai, chega ao mínimo em cerca de 10 minutos e volta aos valores basais em aproximadamente 30 minutos. Quanto mais frequente o consumo, mais tempo o pH fica abaixo do crítico e a desmineralização prevalece sobre a remineralização.\n\n**Sacarose.** É o açúcar mais cariogênico, não por baixar mais o pH (glicose, maltose, frutose e sacarose dão quedas semelhantes), mas porque é o único que serve de substrato para polissacarídeos extracelulares, que formam biofilme espesso e poroso. A lactose é menos cariogênica.\n\n**Amido.** Numa dieta com pouco açúcar tem baixo potencial cariogênico; o cozido é mais cariogênico que o cru; associado a açúcares, a retenção potencializa o efeito. **Quem tem raízes expostas deve cuidar do amido também**, porque os carboidratos podem baixar o pH o bastante para desmineralizar a dentina.\n\n**Protetores e adoçantes.** O leite tem fatores de proteção (cálcio, fosfato e caseína) e o queijo é considerado anticariogênico. Adoçantes não calóricos não são metabolizados pelas bactérias do biofilme; o xilitol, salvo raras exceções, não é metabolizado e tem efeito antibacteriano contra S. mutans.\n\n**Outra fonte:** o Fejerskov dá outro valor para o tempo de acidez do biofilme depois do açúcar e também trata dos petiscos salgados; ver a seção «Alimentação no controle da lesão ativa» (Fejerskov e Nyvad)."
+    },
+    {
+      "id": "maltz-dieta-conduta",
+      "titulo": "Cariologia: registro e aconselhamento alimentar",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.2 (Diagnóstico: como registrar as informações; Tratamento: como utilizar os dados), pp. 86 e 89–91",
+      "texto": "**Margem de segurança do flúor.** Em quem tem boa higiene e exposição regular a fluoretados, níveis mais altos de açúcar podem ser tolerados; por isso, na clínica, **não há necessidade de modificar hábitos alimentares de pacientes sem atividade de doença.** Esse raciocínio permissivo **não vale para quem tem atividade de cárie**: o flúor reduziu a prevalência, mas não eliminou a doença nem anula dieta e biofilme, e a restrição do açúcar continua justificada.\n\n**Como registrar.** Três instrumentos:\n- **Diário alimentar:** o paciente anota tudo o que consome por **3 a 7 dias**, com horário e porções, incluindo medicamentos, petiscos, lanches pequenos, cafezinhos, balas e gomas.\n- **Entrevista de 24 horas:** relato verbal do que consumiu nas últimas 24 horas; avise antes, para ele não modificar a dieta; em idosos pode prejudicar, porque esquecem. É a segunda alternativa para quem não preenche o diário.\n- **Questionário de frequência alimentar** específico para açúcar (94 itens), que precisa ser validado antes de uso clínico.\n\nO registro está indicado **apenas para pacientes cárie-ativos.**\n\n**Aconselhamento.** Começa pela etiologia da cárie e sua relação com a dieta; depois, com os dados do paciente, propõem-se mudanças para reduzir a frequência de consumo de açúcar e restringi-lo ao momento das refeições. Opções: trocar balas, gomas e refrigerantes por produtos dietéticos; trocar o açúcar por adoçante em sucos, chás e cafés ou reduzi-lo aos poucos até eliminar; se for difícil, consumir açucarados nas refeições principais. O aconselhamento deve ser individualizado, com nutricionista quando possível. Trocar refrigerante por água ou suco natural é mais interessante que por refrigerante diet, e retirar o açúcar é mais interessante que trocá-lo por adoçante.\n\n**Efeito.** O efeito do aconselhamento sobre a cárie é pouco avaliado; uma revisão sistemática (5 estudos) achou alguma evidência de que pode modificar hábitos.\n\n**Outra fonte:** o Fejerskov traz outro prazo de registro alimentar; ver a seção «Alimentação no controle da lesão ativa» (Fejerskov e Nyvad)."
+    },
+    {
+      "id": "maltz-biofilme",
+      "titulo": "Cariologia: controle do biofilme",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.1 O papel da higiene bucal no controle da doença cárie, pp. 75–81",
+      "texto": "O livro afirma que o controle mecânico caseiro é o meio mais simples e de melhor custo/benefício, mas que só funciona com paciente bem motivado, o que exige habilidade técnica e mudança de hábitos.\n\n**Evidência a favor.** Em estudos *in situ*, lesões artificiais de esmalte escovadas com dentifrício sem flúor pararam de progredir, e com dentifrício fluoretado a profundidade diminuiu: a remoção mecânica do biofilme é indispensável e pode ser potencializada pelo flúor. Em 14 crianças em tratamento ortodôntico, com banda mantida por 5 semanas de um lado e retirada toda semana do outro, todos tiveram lesão visível onde a placa ficou sem ser perturbada, e a remoção mecânica semanal, qualquer que fosse o método, preveniu a progressão.\n\n**Evidência difícil.** Em estudos clínicos e populacionais é difícil demonstrar a relação, pelo caráter multifatorial da doença. Num acompanhamento de 3 anos em escolares, as crianças com dentes limpos tiveram menor incremento, mas a diferença não foi significativa. Num programa semanal supervisionado de fio dental e escovação com dentifrício não fluoretado, houve queda da gengivite em 14 meses sem diferença significativa na cárie. Com flúor sempre presente (água, dentifrício), a associação entre higiene e cárie enfraquece. Também não há consenso sobre a frequência de escovação.\n\n**Controle profissional.** O programa de Karlstad, com limpeza profissional regular, aconselhamento dietético e dentifrício fluoretado em escolares, levou a alto nível de higiene, redução significativa da cárie e 30 anos de manutenção com baixa incidência de cárie, doença periodontal e perda dentária.\n\n**Limpeza interproximal.** O fio dental bem usado desorganiza a placa interproximal, que pode ser mais acidogênica. Revisão sistemática: sem evidência de efetividade do fio em adultos sob condições reais; em crianças com baixa exposição ao flúor, o fio usado pelo profissional reduziu a cárie interproximal. Motivação e instrução pesam mais que o recurso. Escovas interdentais limpam superfícies côncavas e **raízes expostas** em quem teve doença periodontal.\n\n**Outra fonte:** o Fejerskov também trata da frequência e da qualidade da escovação; ver a seção «Controle da placa e limpeza profissional» (Fejerskov e Nyvad)."
+    },
+    {
+      "id": "maltz-fluor",
+      "titulo": "Cariologia: flúor e estratégia de tratamento",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.3 Uso de fluoretos, pp. 92–93 e 95",
+      "texto": "**Como o flúor age.** O flúor presente na cavidade bucal tem enorme efeito físico-químico na des e remineralização e reduz a velocidade de progressão das lesões. Com o desafio cariogênico presente, a perda mineral total é menor; quando a saliva está livre do desafio, o flúor ativa a remineralização. Os termos do livro são \"diminuição da desmineralização\" e ativação da remineralização. O efeito é sempre positivo, seja evitando perda mineral significativa, seja ajudando a reverter lesões ativas quando o paciente controla a doença. **Independentemente do meio, o flúor age do mesmo modo**; os meios diferem em como disponibilizam o íon.\n\n**Meios (Quadro 7.3.1, sem concentrações):**\n\n| Meio | Abordagem | Como mantém o flúor na boca |\n|---|---|---|\n| Água fluoretada | coletiva | eleva a concentração salivar por até uma hora depois de alimentos e bebidas; retorna pela saliva depois da absorção |\n| Dentifrício | coletiva ou individual | eleva a concentração salivar por até 2 horas; retenção no biofilme não removido |\n| Soluções para bochecho | coletiva ou individual | eleva a concentração salivar por até 2 horas; retenção no biofilme presente na boca |\n| Géis, espumas e vernizes | profissional | reservatórios de fluoreto de cálcio, dissolvidos aos poucos por meses |\n| Materiais liberadores | profissional | liberação por meses, com recarga possível |\n\n**Indicação.** Água fluoretada e dentifrício estão indicados para todos. O uso profissional (produtos de aplicação e materiais restauradores) beneficia principalmente quem precisa de flúor adicional, por desafio cariogênico muito grande ou uso irregular do dentifrício. O livro pede conhecer também os fatores agravantes, como a redução drástica do fluxo salivar por doenças ou medicamentos. A decisão é do profissional, com base nas evidências."
+    },
+    {
+      "id": "maltz-estrategia",
+      "titulo": "Cariologia: profilaxia básica e conduta terapêutica",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.5 Estratégias de tratamento da doença cárie, pp. 103–104",
+      "texto": "**Duas condutas (7.5).** Por muitos anos o tratamento se baseou na cavidade, com medidas preventivas padronizadas para todos, o que levava a sobretratamento ou subtratamento. Hoje se avalia a presença da doença e os fatores causais de cada paciente:\n- **Profilaxia básica:** para quem **não tem lesões ativas**; informações sobre doenças bucais, instrução de higiene, informações sobre dieta e flúor (água e dentifrício fluoretado).\n- **Conduta terapêutica:** para quem **tem lesões ativas**. Identificar e tratar os fatores em desequilíbrio: controle mecânico e químico do biofilme, fluorterapia caseira e/ou profissional, eliminação de nichos retentivos por restauração ou selamento de cavidades, estímulo à secreção salivar, entre outros.\n\n**Outra fonte:** o Fejerskov trata do controle básico de todos e da divisão por atividade; ver a seção «O semáforo odontológico» (Fejerskov e Nyvad)."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como o cap. 19 do Fejerskov define risco de cárie?",
+      "verso": "A probabilidade de uma pessoa desenvolver uma ou mais lesões que atinjam certo estágio de progressão num período específico. Olha para o futuro e não é observável no paciente.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Introdução; O risco não pode ser observado diretamente, pp. 353–357"
+    },
+    {
+      "id": "f02",
+      "frente": "Por que sensibilidade e especificidade não valem isoladas?",
+      "verso": "Um preditor que classificasse todos como alto risco teria sensibilidade de 100% e seria inútil. É preciso olhar as duas, e os valores preditivos dependem também de quanto a doença ocorre na população.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Medidas de acurácia, pp. 353–357"
+    },
+    {
+      "id": "f03",
+      "frente": "Segundo o Cariologia (Vipeholm), qual é o fator mais importante na relação do açúcar com a cárie?",
+      "verso": "A **frequência** de consumo de açúcar, não a quantidade total ingerida. A consistência também importa: quanto mais tempo o alimento fica na boca, mais cariogênico.",
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.2, Vipeholm, p. 83"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual a melhor sensibilidade e especificidade dos preditores de cárie na dentição permanente, segundo o cap. 19?",
+      "verso": "Sensibilidade de 70 a 80% e especificidade de 80 a 90%. Mesmo assim a taxa de classificações erradas é intoleravelmente alta: nenhuma medida é acurada o bastante para selecionar pacientes para controle intensificado.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Quão valiosas são as medidas propostas?, pp. 361–365"
+    },
+    {
+      "id": "f05",
+      "frente": "O que o Fejerskov propõe em vez de se preocupar em prever o futuro?",
+      "verso": "Dar atenção ao controle das lesões ativas que o paciente tem hoje. O controle da cárie deve se basear sobretudo na estratégia populacional (população total ou direcionada).",
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Conclusão, pp. 361–365"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são as duas fontes de informação para avaliar atividade e risco no consultório (cap. 16)?",
+      "verso": "(1) Exame visual e tátil, com a atividade das lesões; (2) histórico médico e odontológico, com os fatores de risco para novas lesões.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Avaliação da atividade e do risco, pp. 299–307"
+    },
+    {
+      "id": "f07",
+      "frente": "Que incremento anual de lesões ativas indica alta taxa de progressão, segundo o cap. 16?",
+      "verso": "Na maioria das populações, 2 ou mais lesões ativas detectadas clinicamente (cavitadas ou não) por ano. O livro diz que não há consenso sobre \"alta atividade\".",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Atividade, pp. 299–307"
+    },
+    {
+      "id": "f08",
+      "frente": "O que define verde, amarelo e vermelho no semáforo odontológico?",
+      "verso": "Verde: sem lesão ativa. Amarelo: lesão ativa, com fatores de risco relevantes que podem potencialmente ser mudados. Vermelho: lesão ativa e algum fator que não pode ser mudado (como boca seca) ou não identificado.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Semáforo odontológico, pp. 299–307"
+    },
+    {
+      "id": "f09",
+      "frente": "Qual a regra central do cap. 15 para o tratamento operatório em quem tem lesões ativas?",
+      "verso": "O operatório nunca deve ser o único tratamento oferecido. Restaurar elimina sintomas, mas não cura a atividade da doença nas margens sem melhor controle da placa.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Conceito, pp. 291–298"
+    },
+    {
+      "id": "f10",
+      "frente": "Que dentifrício o cap. 16 indica como método básico e qual para adulto com lesão ativa e fatores imutáveis?",
+      "verso": "Básico para todos: 1.000 a 1.500 ppm de F. Adulto com lesões ativas e fatores de risco que não podem ser mudados pode se beneficiar de alto teor, por exemplo 5.000 ppm de F.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Uso do flúor, pp. 299–307"
+    },
+    {
+      "id": "f11",
+      "frente": "O que o Fejerskov diz do fluoreto de diamina de prata (SDF) na cárie radicular e dentinária?",
+      "verso": "Revisões mostram que a aplicação repetida pode reduzir a progressão, mas poucos estudos têm rigor, e o texto fala em efeitos toxicológicos inaceitáveis. Os autores não recomendam o tratamento na prática clínica.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Papel do flúor, pp. 291–297"
+    },
+    {
+      "id": "f12",
+      "frente": "Como distinguir lesão radicular ativa de inativa, e o que vale mais, textura ou cor?",
+      "verso": "Ativa: bem definida, amolecida, amarelada ou marrom-clara, com placa, perto da gengiva. Inativa: dura, lisa e brilhante, a alguma distância da gengiva. Na dúvida vale a textura, não a cor.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209"
+    },
+    {
+      "id": "f13",
+      "frente": "O que não fazer na raiz de paciente com cárie radicular ativa?",
+      "verso": "Raspagem vigorosa, antes de confirmar que as lesões ativas foram detidas. Evite também sondar a zona superficial vulnerável.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 10, Características histopatológicas, pp. 207–209"
+    },
+    {
+      "id": "f14",
+      "frente": "Como foi o ensaio de detenção da cárie radicular em idosos de casa de repouso?",
+      "verso": "Escovação profissional 2 vezes ao dia pela enfermagem: em 8 meses, mais lesões ativas foram detidas com dentifrício de 5.000 ppm de F do que com 1.450 ppm, sem diferença de placa.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Detenção da cárie radicular ativa, pp. 291–297"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual o objetivo principal do cuidado de cárie em idosos debilitados em lares?",
+      "verso": "Aliviar a dor e prolongar a sobrevida dos dentes remanescentes; não é restaurar a dentição ao estado funcional anterior. Evitar extração, salvo dor ou patologia manifesta.",
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Controle da cárie nos idosos debilitados, pp. 313–316"
+    },
+    {
+      "id": "f16",
+      "frente": "Como o Cariologia manda medir o fluxo salivar estimulado e qual o valor baixo?",
+      "verso": "Mastigar 1 g de goma sem açúcar ou parafina por 1 minuto, descartar, coletar a saliva dos 5 minutos seguintes. Baixo: abaixo de 0,7 mL/min.",
+      "fonte": "maltz2016",
+      "onde": "cap. 6, Condições salivares; Quadro 6.3, pp. 71–72"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o cap. 19 do Fejerskov, qual das definições descreve o risco de cárie de um indivíduo?",
+      "alternativas": [
+        {
+          "texto": "A quantidade de lesões ativas que ele apresenta no exame clínico de hoje, que mostra o estado atual.",
+          "correta": false,
+          "justificativa": "As lesões ativas de hoje são a evidência de atividade (cap. 16); o risco do cap. 19 é sobre o desenvolvimento futuro e não é observável no paciente.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, O risco não pode ser observado diretamente, pp. 353–357"
+        },
+        {
+          "texto": "O CPO (cariados, perdidos e obturados) que ele já acumulou ao longo da vida, como experiência anterior.",
+          "correta": false,
+          "justificativa": "A experiência anterior é um preditor, não a definição de risco; o texto lembra que a associação com lesões não garante poder preditivo individual.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Introdução, pp. 353–357"
+        },
+        {
+          "texto": "A probabilidade de desenvolver lesões que atinjam certo estágio num período específico.",
+          "correta": true,
+          "justificativa": "É a definição do capítulo: o risco olha para o futuro e vale como declaração de probabilidade.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, O risco não pode ser observado diretamente, pp. 353–357"
+        },
+        {
+          "texto": "A contagem de Streptococcus mutans na saliva, que mediria diretamente o risco no paciente.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o risco não pode ser observado diretamente; a contagem de S. mutans é um preditor de poder modesto.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, O risco não pode ser observado diretamente; Testes microbiológicos, pp. 353–365"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Introdução e O risco não pode ser observado diretamente, pp. 353–357",
+      "secao": "risco-conceito",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Num estudo, placa visível aos 19 meses previu lesão aos 36 meses com valor preditivo positivo de 62,5%. Aplicado a crianças de Estocolmo, com cárie bem mais baixa, o mesmo preditor dá cerca de 40% com placa. O que isso ilustra?",
+      "alternativas": [
+        {
+          "texto": "Os valores preditivos dependem da ocorrência da doença na população: com cárie baixa, o valor preditivo positivo cai.",
+          "correta": true,
+          "justificativa": "O livro diz que os valores preditivos dependem também da ocorrência da doença; em Estocolmo, com o mesmo preditor, a probabilidade com placa foi de cerca de 40%.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Medidas; Probabilidade pré e pós-teste, pp. 353–357"
+        },
+        {
+          "texto": "A sensibilidade do preditor aumentou, porque as crianças de Estocolmo têm menos lesões do que as do primeiro estudo.",
+          "correta": false,
+          "justificativa": "O exemplo mantém as razões de verossimilhança do preditor, que vêm da sensibilidade e da especificidade; o que muda é a probabilidade antes do teste.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Probabilidade pré-teste e pós-teste, pp. 353–357"
+        },
+        {
+          "texto": "Placa visível aos 19 meses deixa de ser sinal de risco em populações de cárie baixa, como a de Estocolmo.",
+          "correta": false,
+          "justificativa": "Mesmo em Estocolmo a probabilidade com placa (cerca de 40%) é muito maior que a sem placa (cerca de 1%).",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Probabilidade pré-teste e pós-teste, pp. 353–357"
+        },
+        {
+          "texto": "O valor preditivo negativo é a única medida confiável quando a cárie da população é baixa.",
+          "correta": false,
+          "justificativa": "O livro diz que o valor preditivo negativo do exemplo só vale para populações com experiência de cárie igual à do estudo.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Interpretação, pp. 353–357"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Exemplo real; Probabilidade pré-teste e pós-teste, pp. 353–357",
+      "secao": "risco-acuracia",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Em crianças de 13 anos acompanhadas por 3 anos, o cap. 19 comparou vários preditores. Qual deles o texto aponta como o preditor individual mais potente do incremento futuro, mesmo sendo modesto?",
+      "alternativas": [
+        {
+          "texto": "A contagem de lactobacilos na saliva.",
+          "correta": false,
+          "justificativa": "Como triagem, os lactobacilos têm valor limitado: em outro estudo citado, sensibilidade de 55% e especificidade de 68%, com 38% das crianças classificadas como alto risco.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Testes microbiológicos; Lactobacilos, pp. 362–365"
+        },
+        {
+          "texto": "A capacidade tampão da saliva.",
+          "correta": false,
+          "justificativa": "O texto diz que a capacidade tampão é tão pouco preditiva que não identifica alto risco.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Outros fatores salivares, pp. 362–365"
+        },
+        {
+          "texto": "O status social da família.",
+          "correta": false,
+          "justificativa": "Apesar da correlação com a cárie, o status social não é um preditor utilizável do risco; só entra no histórico.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Fatores sociais, pp. 362–365"
+        },
+        {
+          "texto": "A experiência anterior de cárie.",
+          "correta": true,
+          "justificativa": "O texto diz que a experiência passada continua sendo o preditor individual mais potente; na regressão com os quatro preditores quase todo o poder veio da contagem inicial de lesões.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Preditores únicos com múltiplos níveis; Regressão logística, pp. 357–362"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Preditores únicos; Outros fatores salivares; Fatores sociais, pp. 357–365",
+      "secao": "risco-preditores",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um dentista aceita como suficiente um preditor com sensibilidade de 80% e especificidade de 80% para selecionar pacientes para controle intensificado. Qual a leitura do próprio Fejerskov sobre esse nível?",
+      "alternativas": [
+        {
+          "texto": "É suficiente, porque os preditores atuais da dentição permanente já alcançam esse nível com folga e dispensam o julgamento do dentista.",
+          "correta": false,
+          "justificativa": "Os melhores preditores chegam a sensibilidade de 70 a 80% e especificidade de 80 a 90%, e mesmo assim a taxa de erro é intoleravelmente alta.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Quão valiosas são as medidas propostas?, pp. 362–365"
+        },
+        {
+          "texto": "Mesmo nele, 1 em 5 com alto risco real não seria detectado e 1 em 5 com baixo risco real receberia atenção sem finalidade.",
+          "correta": true,
+          "justificativa": "É a leitura clínica do capítulo, que chama a taxa de classificações incorretas de lamentavelmente alta.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Qual nível de acurácia seria suficiente na prática diária?, pp. 361–362"
+        },
+        {
+          "texto": "É suficiente para o Cariogram, que tem validade comprovada em todas as idades e dispensa o exame clínico do paciente.",
+          "correta": false,
+          "justificativa": "A evidência de validade das ferramentas foi considerada fraca; o Cariogram é apontado como útil em idosos e, em menor grau, em crianças.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Avaliação clínica do risco de cárie: é possível?, pp. 362–365"
+        },
+        {
+          "texto": "Os erros só ocorrem como falsos positivos, e estes são inofensivos porque só levam a mais atenção ao paciente.",
+          "correta": false,
+          "justificativa": "O texto fala em 1 em 5 não detectado (falso negativo) e 1 em 5 que recebe atenção desnecessária (falso positivo).",
+          "fonte": "fejerskov4",
+          "onde": "cap. 19, Qual nível de acurácia seria suficiente na prática diária?, pp. 361–362"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 19, Qual nível de acurácia seria suficiente; Quão valiosas são as medidas, pp. 361–365",
+      "secao": "risco-veredito",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Mulher de 68 anos com boca seca por síndrome de Sjögren e várias lesões radiculares ativas. Há também fatores que ela pode mudar (higiene e alimentação). Como o semáforo odontológico a classifica?",
+      "alternativas": [
+        {
+          "texto": "Amarela: tem lesão ativa, e a amarela é a que tem fatores de risco que podem ser mudados em parte.",
+          "correta": false,
+          "justificativa": "A amarela é a de lesão ativa com fatores de risco que podem potencialmente ser mudados; a boca seca por Sjögren é um fator que não pode ser mudado, o que leva à vermelha.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Semáforo odontológico, pp. 299–307"
+        },
+        {
+          "texto": "Verde: a doença se controla com escovação diária e flúor.",
+          "correta": false,
+          "justificativa": "O verde é para quem não tem lesão ativa; ela tem. O controle básico diário vale para todos, mas não define a cor.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Semáforo odontológico, pp. 299–307"
+        },
+        {
+          "texto": "Vermelha: tem lesão ativa e um fator de risco que não pode ser mudado (boca seca).",
+          "correta": true,
+          "justificativa": "A vermelha é a de lesão ativa com algum fator imutável, como boca seca ou certos medicamentos; o risco é sempre alto, mas a cárie pode ser reduzida com controle rigoroso.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Semáforo odontológico, pp. 299–307"
+        },
+        {
+          "texto": "Verde, porque lesões em raiz são inativas por definição em idosos.",
+          "correta": false,
+          "justificativa": "O verde é para quem não tem lesão ativa, e o enunciado diz que as lesões radiculares dela estão ativas; lesão ativa leva à amarela ou à vermelha, conforme os fatores de risco.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Semáforo odontológico, pp. 299–307"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Semáforo odontológico, pp. 299–307",
+      "secao": "semaforo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Adulto com lesões ativas e boca seca, fatores de risco que não podem ser mudados. Qual das condutas de flúor corresponde ao que o Fejerskov descreve?",
+      "alternativas": [
+        {
+          "texto": "Dentifrício de alto teor, por exemplo 5.000 ppm de F, além do controle diário da placa.",
+          "correta": true,
+          "justificativa": "Adultos com lesões ativas e fatores de risco imutáveis podem se beneficiar de dentifrício de alto teor; o básico para todos é 1.000 a 1.500 ppm.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Uso do flúor, pp. 299–307"
+        },
+        {
+          "texto": "Aplicações repetidas de fluoreto de diamina de prata a 38% como tratamento de rotina.",
+          "correta": false,
+          "justificativa": "Os autores não recomendam o SDF na prática clínica e falam em efeitos toxicológicos inaceitáveis.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 15, Papel do flúor, pp. 291–297"
+        },
+        {
+          "texto": "Apenas dentifrício de 1.000 a 1.500 ppm, sem outro flúor, pois é o método básico de todos.",
+          "correta": false,
+          "justificativa": "O básico vale para todos, mas na cárie ativa se intensifica o flúor até controlar; o alto teor é indicado a esse perfil.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Uso do flúor, pp. 299–307"
+        },
+        {
+          "texto": "Goma de mascar fluoretada como estratégia primária.",
+          "correta": false,
+          "justificativa": "Gomas, pastilhas, palitos e fio fluoretados não têm ensaios adequados, e o autor não os recomenda como estratégia primária.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 16, Uso do flúor, pp. 299–307"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 16, Uso do flúor; cap. 15, Papel do flúor, pp. 291–297 e 299–307",
+      "secao": "controle-fluor",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Idosa tem uma lesão na raiz do canino: marrom-escura, lisa, brilhante, dura à sondagem com pressão moderada e a alguma distância da gengiva, sem placa sobre ela. Qual é a leitura pelo critério do Fejerskov?",
+      "alternativas": [
+        {
+          "texto": "Lesão ativa, porque as lesões radiculares ativas são sempre escuras e a cor decide a atividade.",
+          "correta": false,
+          "justificativa": "A ativa é bem definida e amolecida, amarelada ou marrom-clara, geralmente com placa; algumas avançam devagar e podem ser escuras, mas a cor não foi útil para distinguir.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 4, Cárie na superfície radicular, pp. 65–66; cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209"
+        },
+        {
+          "texto": "Lesão detida (inativa): vale a textura, dura e lisa, não a cor.",
+          "correta": true,
+          "justificativa": "A detida é brilhante, relativamente lisa e dura, em geral a alguma distância da margem gengival, sem depósitos visíveis; a cor pode ser amarela a amarronzada ou preta.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209"
+        },
+        {
+          "texto": "Lesão ativa, porque está sobre a raiz, e não sobre o esmalte, e a localização radicular define atividade.",
+          "correta": false,
+          "justificativa": "O local radicular não define atividade; o critério é textura, aspecto e relação com a placa e a gengiva.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209"
+        },
+        {
+          "texto": "Não dá para classificar sem radiografia, pois a atividade só aparece na imagem radiográfica.",
+          "correta": false,
+          "justificativa": "O capítulo classifica pela textura à sondagem, pelo aspecto e pela relação com a placa e a gengiva; os dados do enunciado já permitem a leitura.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 10, Aparência clínica das lesões cariosas radiculares, pp. 207–209",
+      "secao": "raiz-aparencia",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "No ensaio descrito no cap. 15 em idosos de casa de repouso, que comparou dentifrício de 5.000 ppm de F com o de 1.450 ppm, com escovação profissional 2 vezes ao dia pela enfermagem, qual foi o resultado em 8 meses?",
+      "alternativas": [
+        {
+          "texto": "Os dois dentifrícios detiveram o mesmo número de lesões, o que mostra que só a placa importa no controle da cárie.",
+          "correta": false,
+          "justificativa": "O grupo de 5.000 ppm teve significativamente mais lesões ativas detidas.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 15, Detenção da cárie radicular ativa, pp. 291–297"
+        },
+        {
+          "texto": "O de 1.450 ppm foi melhor, porque a equipe de enfermagem escovava melhor os dentes desse grupo.",
+          "correta": false,
+          "justificativa": "Não houve diferença de placa nem de outros determinantes no fim do estudo, e o melhor resultado foi o do dentifrício de 5.000 ppm.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 15, Detenção da cárie radicular ativa, pp. 291–297"
+        },
+        {
+          "texto": "O resultado só apareceu depois da aplicação de fluoreto de diamina de prata, associado ao dentifrício.",
+          "correta": false,
+          "justificativa": "O enunciado diz que o ensaio comparou dois dentifrícios; o SDF não fez parte dele (e os autores não o recomendam na prática clínica).",
+          "fonte": "fejerskov4",
+          "onde": "cap. 15, Papel do flúor, pp. 291–297"
+        },
+        {
+          "texto": "Mais lesões radiculares ativas foram detidas com 5.000 ppm de F do que com 1.450 ppm, sem diferença de placa.",
+          "correta": true,
+          "justificativa": "Foi o que o ensaio mostrou; como a placa não diferiu, o texto atribui o resultado ao mecanismo do flúor.",
+          "fonte": "fejerskov4",
+          "onde": "cap. 15, Detenção da cárie radicular ativa, pp. 291–297"
+        }
+      ],
+      "fonte": "fejerskov4",
+      "onde": "cap. 15, Detenção da cárie radicular ativa, pp. 291–297",
+      "secao": "raiz-detencao",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o Cariologia, como se coleta a saliva para medir o fluxo estimulado, e o que se considera baixo?",
+      "alternativas": [
+        {
+          "texto": "Mastiga 1 g de goma sem açúcar ou parafina por 1 minuto, descarta, e coleta a saliva dos 5 minutos seguintes; baixo: abaixo de 0,7 mL/min.",
+          "correta": true,
+          "justificativa": "É o procedimento do cap. 6; o Quadro 6.3 classifica como baixa a secreção abaixo de 0,7 mL/min.",
+          "fonte": "maltz2016",
+          "onde": "cap. 6, Condições salivares; Quadro 6.3, pp. 71–72"
+        },
+        {
+          "texto": "Adicionam-se 3 mL de ácido clorídrico a 1 mL de saliva estimulada e mede-se o pH depois de 2 minutos; baixo é pH abaixo de 4,0.",
+          "correta": false,
+          "justificativa": "Esse é o teste da capacidade tampão, não o do fluxo; o pH abaixo de 4,0 é baixa capacidade tampão (Quadro 6.4).",
+          "fonte": "maltz2016",
+          "onde": "cap. 6, Capacidade tampão; Quadro 6.4, p. 72"
+        },
+        {
+          "texto": "Coleta-se toda a saliva formada no primeiro minuto de mastigação, sem descartar nada, em mL/min; baixo é menos de 0,7 mL/min.",
+          "correta": false,
+          "justificativa": "O procedimento manda desprezar a saliva do primeiro minuto e coletar a dos 5 minutos seguintes.",
+          "fonte": "maltz2016",
+          "onde": "cap. 6, Condições salivares, p. 71"
+        },
+        {
+          "texto": "Conta-se a UFC de lactobacilos e de estreptococos do grupo mutans na saliva; baixo é menos de 10^5 UFC/mL.",
+          "correta": false,
+          "justificativa": "A contagem de lactobacilos e de estreptococos do grupo mutans é um teste microbiológico, não de fluxo; para lactobacilos, mais de 10^5 UFC/mL é considerada alta.",
+          "fonte": "maltz2016",
+          "onde": "cap. 6, Testes microbiológicos, pp. 72–73"
+        }
+      ],
+      "fonte": "maltz2016",
+      "onde": "cap. 6, Condições salivares; Quadros 6.3 e 6.4, pp. 71–72",
+      "secao": "maltz-saliva",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "No estudo de Vipeholm descrito no Cariologia, qual conclusão sobre a relação entre sacarose e cárie?",
+      "alternativas": [
+        {
+          "texto": "O fator mais importante é a quantidade total de açúcar ingerida, e a frequência de consumo não muda o risco.",
+          "correta": false,
+          "justificativa": "O livro diz o oposto: o fator mais importante não é a quantidade total, mas a frequência.",
+          "fonte": "maltz2016",
+          "onde": "cap. 7, 7.2, Vipeholm, p. 83"
+        },
+        {
+          "texto": "Só o açúcar líquido causa cárie, porque o alimento sólido não fica na boca e é logo eliminado.",
+          "correta": false,
+          "justificativa": "O consumo de sacarose aumenta a cárie de modos diferentes conforme a forma de consumo (o estudo comparou líquido, pão, chocolate e caramelo), e a consistência importa porque quanto mais tempo o alimento fica na boca, mais cariogênico.",
+          "fonte": "maltz2016",
+          "onde": "cap. 7, 7.2, Vipeholm, p. 83"
+        },
+        {
+          "texto": "A frequência de consumo de açúcar é o fator mais importante, e não a quantidade total ingerida.",
+          "correta": true,
+          "justificativa": "É a conclusão do estudo descrita no cap. 7; a consistência do alimento também pesa.",
+          "fonte": "maltz2016",
+          "onde": "cap. 7, 7.2, Vipeholm, p. 83"
+        },
+        {
+          "texto": "Quanto menos tempo o alimento fica na boca, mais cariogênico ele é, seja líquido ou sólido.",
+          "correta": false,
+          "justificativa": "A conclusão é a inversa: quanto mais tempo o alimento fica na boca, mais cariogênico.",
+          "fonte": "maltz2016",
+          "onde": "cap. 7, 7.2, Vipeholm, p. 83"
+        }
+      ],
+      "fonte": "maltz2016",
+      "onde": "cap. 7, 7.2, Vipeholm, p. 83",
+      "secao": "maltz-dieta",
+      "figura": null
+    }
+  ]
+}

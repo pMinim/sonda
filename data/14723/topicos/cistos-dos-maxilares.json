@@ -1,0 +1,598 @@
+{
+  "slug": "cistos-dos-maxilares",
+  "titulo": "Cistos dos maxilares: dentígero, queratocisto, não odontogênicos e o diferencial das radiolucências",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., caps. 1, 8, 14 e 15",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap15",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 15, Cistos e Tumores Odontogênicos, p. 669–729.",
+      "curta": "Neville 5ª ed., cap. 15"
+    },
+    {
+      "id": "neville5-cap14",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 14, Patologia Óssea, p. 603–668.",
+      "curta": "Neville 5ª ed., cap. 14"
+    },
+    {
+      "id": "neville5-cap1",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 1, Defeitos do Desenvolvimento da Região Oral e Maxilofacial, p. 1–49.",
+      "curta": "Neville 5ª ed., cap. 1"
+    },
+    {
+      "id": "neville5-cap8",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 8, Lesões Físicas e Químicas, p. 265–312.",
+      "curta": "Neville 5ª ed., cap. 8"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "classificacao",
+      "titulo": "O que é um cisto odontogênico e como o capítulo os classifica",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cistos odontogênicos (introdução), Boxe 15.1, p. 669",
+      "texto": "Aqui, **cisto** é uma cavidade revestida por epitélio. No esqueleto, cistos com revestimento epitelial quase só existem nos ossos gnáticos (maxila e mandíbula). A maioria tem epitélio vindo do aparelho que forma o dente: são os **cistos odontogênicos**. Os poucos que não vêm do dente (não odontogênicos) e as lesões que imitam cisto, mas não têm epitélio, têm seções próprias mais adiante.\n\n**Duas famílias, pela origem:**\n- **De desenvolvimento:** o gatilho é desconhecido e não parece ser inflamação.\n- **Inflamatórios:** resultam de um processo inflamatório.\n\n| De desenvolvimento | Inflamatórios |\n|---|---|\n| Cisto dentígero | Cisto periapical (radicular) |\n| Cisto de erupção | Cisto periapical residual |\n| Queratocisto | Cisto da bifurcação vestibular |\n| Cisto odontogênico ortoqueratinizado | |\n| Cisto gengival do recém-nascido e do adulto | |\n| Cisto periodontal lateral | |\n| Cisto odontogênico calcificante | |\n| Cisto odontogênico glandular | |\n\nA lista segue a classificação da OMS de 2022, com ajustes dos autores. O queratocisto está entre os cistos na OMS 2022, mas há quem prefira chamá-lo de tumor (“tumor odontogênico queratocístico”).\n\n**Ponte:** o cisto radicular (periapical), de origem inflamatória, e o residual são tratados no tema **periapicopatias**. Aqui ficam os cistos de desenvolvimento, o cisto da bifurcação vestibular, os cistos não odontogênicos e as lesões que imitam cisto na radiografia."
+    },
+    {
+      "id": "dentigero",
+      "titulo": "Cisto dentígero e cisto de erupção",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), definição, Características clínicas e radiográficas e Tratamento e prognóstico, p. 669–672; Cisto de erupção, Características clínicas, p. 672–673",
+      "texto": "**Definição:** cisto formado pela separação do folículo em volta da coroa de um dente **não erupcionado**. Envolve a coroa e se prende ao dente na **junção amelocementária**. É o cisto odontogênico de desenvolvimento mais comum (cerca de **20%** dos cistos epiteliais dos maxilares).\n\n**Que dente:** **terceiro molar inferior** em cerca de **65%**. Outros sítios relativamente frequentes: caninos superiores, terceiros molares superiores e segundos pré-molares inferiores. Raro em decíduo.\n\n**Quem:** mais entre **10 e 30 anos**. O pequeno é assintomático, achado de radiografia. O grande pode expandir o osso com dor, mas é incomum; uma lesão que parece dentígero extenso na radiografia pode ser, na realidade, queratocisto ou ameloblastoma.\n\n**Imagem:** radiolucidez **unilocular** em torno da coroa de dente incluso, bem delimitada e em geral com margem radiopaca (se infectado, margem mal definida). O muito grande pode parecer multilocular. Pode deslocar o dente para longe e reabsorver raiz vizinha.\n\n**Relação cisto-coroa:**\n- **Central** (a mais comum): a coroa se projeta para dentro do cisto.\n- **Lateral:** típica do terceiro molar inferior mesioangulado parcialmente erupcionado; o cisto corre ao longo da raiz e abraça só parte da coroa.\n- **Circunferencial:** envolve a coroa e desce um trecho pela raiz.\n\n**Cisto ou folículo aumentado?** Para alguns autores, o espaço radiolúcido em volta da coroa precisa ter **pelo menos 3 a 4 mm**. Mas a imagem não fecha o diagnóstico: queratocisto e ameloblastoma unicístico podem ser idênticos, e o exame microscópico da peça é que os exclui.\n\n**Tratamento:** enucleação com remoção do dente incluso, ou só parte da parede se o dente puder erupcionar. Cisto grande pode ser **marsupializado** (aberto para descomprimir e encolher) antes da remoção. Recidiva rara.\n\n**Cisto de erupção:** versão em tecido mole. Aumento de volume pequeno, muitas vezes translúcido, na gengiva sobre dente em erupção, na maioria em criança com menos de 10 anos. Com sangue fica azulado a marrom-arroxeado (“hematoma de erupção”). Em geral rompe sozinho; se não, incisa-se o teto."
+    },
+    {
+      "id": "queratocisto",
+      "titulo": "Queratocisto odontogênico (com ortoqueratinizado e síndrome de Gorlin)",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto primordial; Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas e Tratamento e prognóstico, p. 673–676; Cisto odontogênico ortoqueratinizado, p. 676–678; Síndrome do carcinoma basocelular nevoide, p. 678–681",
+      "texto": "**Por que é diferente:** nasce dos restos da lâmina dentária e cresce de outro modo que o dentígero e o radicular. Merece atenção por três motivos: **crescimento maior**, **recidiva alta** e possível ligação com a **síndrome do carcinoma basocelular nevoide**.\n\n**Quem e onde:** cerca de 60% entre **10 e 40 anos**. **Mandíbula em 60 a 80%**, sobretudo **corpo posterior e ramo**.\n\n**Como cresce:** no sentido **anteroposterior**, pela medular, **sem expandir** o osso. Dentígero e radicular de tamanho parecido costumam expandir. Reabsorve menos raiz vizinha que eles.\n\n**Imagem:** radiolucidez de margens radiopacas lisas e bem definidas; a grande, no corpo posterior e ramo, pode ser multilocular. Em **25 a 40%** há dente incluso na lesão, e então ela parece um dentígero. Também imita cisto radicular, residual, periodontal lateral e, na linha média anterior da maxila, cisto do ducto nasopalatino.\n\n**Diagnóstico:** só a histopatologia fecha. Traço que define: epitélio fino e uniforme, superfície **paraqueratinizada ondulada** e camada basal **em paliçada**. A cápsula fina e friável dificulta tirar o cisto inteiro.\n\n**Tratamento:** enucleação e curetagem. Recidiva de **cerca de 21 a 30%** nas séries grandes (5 a 62% conforme o estudo), mais na mandíbula posterior, às vezes **10 anos ou mais** depois: acompanhamento longo. Entre as medidas que o livro cita para reduzi-la estão a ostectomia periférica, a solução de Carnoy e a descompressão com dreno.\n\n**Ortoqueratinizado:** superfície ortoqueratinizada, sem paliçada basal; é outra entidade. Recidiva em torno de **2%**; em regra, sem ligação com a síndrome.\n\n**Síndrome de Gorlin:** queratocistos em **90%** dos pacientes, em geral **múltiplos**, o primeiro, na maioria dos pacientes, removido antes dos 19 anos. Outros achados frequentes: múltiplos carcinomas basocelulares, depressões palmoplantares, calcificação da foice do cérebro. Investigue em queratocisto na 1ª ou 2ª década ou quando houver vários.\n\nO antigo “cisto primordial” (no lugar de um dente) quase sempre é queratocisto ao microscópio."
+    },
+    {
+      "id": "periodontal-lateral",
+      "titulo": "Cisto periodontal lateral e cisto gengival do adulto",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas e Tratamento e prognóstico, p. 683–684; Cisto gengival do adulto, Características clínicas, p. 682–683",
+      "texto": "**Definição:** cisto de desenvolvimento incomum (menos de 2% dos cistos epiteliais dos maxilares) que fica **ao lado da raiz** de um dente. Vem dos restos da lâmina dentária. O nome já serviu para qualquer cisto nessa posição; hoje é uma entidade com critérios próprios.\n\n**Quem e onde:** adultos da **5ª à 7ª década**, raro antes dos 30 anos. **75 a 80%** na região de **pré-molares, canino e incisivo lateral inferiores**; na maxila, a mesma região.\n\n**Imagem:** radiolucidez bem circunscrita lateral à raiz de dentes **com vitalidade**, na maioria **menor que 1,0 cm**. A maior pode afastar as raízes. Assintomático: é achado radiográfico.\n\n**Variante botrioide:** vários cistos pequenos agrupados em **cacho de uva**, multi ou unilocular na radiografia; nela foi relatada recidiva, que de resto é incomum neste cisto.\n\n**A imagem não basta:** um queratocisto entre raízes, um cisto radicular lateral (ligado a canal acessório) ou um cisto de origem periodontal inflamatória podem dar imagem idêntica.\n\n**Tratamento:** enucleação conservadora, em geral sem dano aos dentes vizinhos. Recidiva incomum.\n\n**Cisto gengival do adulto:** contraparte em tecido mole. Nódulo indolor em cúpula, em geral **menor que 0,5 cm**, muitas vezes **azulado ou cinza-azulado**, na gengiva vestibular ou mucosa alveolar; 60 a 75% na região de canino e pré-molares inferiores, em adultos da 5ª à 7ª década. Pode deixar uma “reabsorção em taça” no osso, que só aparece ao remover. Tratamento: excisão simples, prognóstico excelente."
+    },
+    {
+      "id": "outros-cistos",
+      "titulo": "Cisto da bifurcação vestibular, calcificante e glandular",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Características clínicas e radiográficas e Tratamento e prognóstico, p. 688–689; Cisto odontogênico calcificante, p. 684–687; Cisto odontogênico glandular, p. 687–688",
+      "texto": "**Cisto da bifurcação vestibular:** cisto **inflamatório** incomum na face **vestibular do primeiro molar inferior permanente** (às vezes o segundo).\n- **Quem:** crianças de **5 a 13 anos**; o molar pode estar erupcionando. Cerca de um terço é bilateral.\n- **Clínica:** sensibilidade leve a moderada, aumento de volume com secreção de gosto ruim e **bolsa vestibular** à sondagem.\n- **Imagem:** radiolucidez unilocular bem circunscrita sobre a bifurcação e as raízes, média de **1,2 cm**. A oclusal ou a TCFC mostram a posição vestibular; os ápices ficam voltados para a cortical lingual. A histologia não é específica.\n- **Tratamento:** enucleação **sem extrair o dente**; em cerca de 1 ano a sondagem e o osso se normalizam.\n\nO nome **cisto paradentário** já foi usado para ele e para a lesão inflamatória na distal ou vestibular do terceiro molar inferior semierupcionado com pericoronarite, que muitas vezes não se separa de um dentígero inflamado.\n\n**Cisto odontogênico calcificante:** maxila e mandíbula quase por igual, **65% em incisivos e caninos**, idade média de 30 anos. Radiolucidez bem definida, em geral unilocular, com **material radiopaco dentro** em um terço a metade dos casos; um terço se associa a dente incluso, mais o canino. Traço histológico: “células fantasma” no epitélio. Recidiva rara após enucleação.\n\n**Cisto odontogênico glandular:** raro e potencialmente agressivo. Adultos com média de **46 a 48 anos**, **68 a 75% na mandíbula**, preferência pela região **anterior**, muitas vezes **cruzando a linha média**. Uni ou multilocular, margens bem definidas e corticalizadas."
+    },
+    {
+      "id": "ameloblastoma",
+      "titulo": "O que parece cisto e não é (1): ameloblastoma",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma (introdução); Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas e Tratamento e prognóstico; Ameloblastoma unicístico, p. 691–699",
+      "texto": "O **ameloblastoma** é o tumor odontogênico mais comum. É de crescimento lento, **localmente invasivo** e, na maior parte dos casos, de curso benigno. Entra aqui porque imita cisto na radiografia. Três apresentações: sólido convencional ou multicístico (75 a 86%), unicístico (13 a 21%) e periférico, na gengiva (1 a 4%).\n\n**Convencional (sólido ou multicístico):**\n- **Quem:** ampla faixa etária, raro antes dos 10 anos; frequência parecida na 3ª e na 7ª década; sem predileção por sexo.\n- **Onde:** **80 a 85% na mandíbula**, mais em **corpo e ramo**; na maxila, região posterior.\n- **Clínica:** assintomático no início; depois aumento de volume **indolor** e expansão. Dor e parestesia são incomuns, mesmo nos grandes.\n- **Imagem:** a mais típica é **multilocular**, em “**bolhas de sabão**” (lojas grandes) ou “**favos de mel**” (lojas pequenas), mas a unilocular pode ser tão frequente quanto a multilocular. **Geralmente expande as corticais vestibular e lingual**, **reabsorve raízes** vizinhas com frequência e muitas vezes tem dente incluso associado, em geral terceiro molar inferior.\n- **Por que a conduta muda:** ele se infiltra entre as trabéculas além da margem que a radiografia mostra. Após curetagem, recidiva em **50 a 90%**; a ressecção marginal é o tratamento mais usado (recidiva de até 15%). A radioterapia raramente é usada, pela localização intraóssea e pelo risco de tumor induzido pela radiação em pacientes relativamente jovens. Cinco anos sem doença não significam cura.\n\n**Unicístico:** paciente mais jovem (metade na **2ª década**, média de 23 anos), **mais de 90% na mandíbula**, em geral posterior. Muitas vezes é uma radiolucidez em volta da coroa de **terceiro molar inferior incluso**, igual a um cisto dentígero; outras vezes lembra cisto radicular ou residual. Costuma ser enucleado como cisto, e o diagnóstico só sai no microscópio. Recidiva de cerca de 21% após enucleação numa revisão sistemática (10 a 20% nas séries antigas): acompanhamento longo.\n\n**Ponte:** o ameloblastoma é tratado também no tema **Tumores odontogênicos e tumores ósseos dos maxilares**, com as formas unicística, periférica e maligna e os demais tumores odontogênicos."
+    },
+    {
+      "id": "cisto-osseo-simples",
+      "titulo": "O que parece cisto e não é (2): cisto ósseo simples",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cisto ósseo simples (cisto ósseo traumático), parágrafo inicial, Características clínicas e radiográficas, Diagnóstico e Tratamento e prognóstico, p. 621–623",
+      "texto": "**Não é cisto verdadeiro.** O cisto ósseo simples (também chamado traumático ou hemorrágico) é uma cavidade no osso, vazia ou com líquido, **sem revestimento epitelial**: um **pseudocisto**. A causa é desconhecida; a teoria mais citada é a de trauma com hematoma que não se organiza, mas a história de trauma muitas vezes não confirma.\n\n**Quem e onde:** jovens, pico na **2ª década**, sem predileção por sexo nos maxilares. Forte predomínio na **mandíbula** (pré-molares, molares e sínfise); na maxila, região anterior.\n\n**Clínica:** em geral **sem sinais nem sintomas**, achado de radiografia feita por outro motivo. Cerca de 20% têm aumento de volume indolor.\n\n**Imagem:** radiolucidez unilocular bem delimitada, de 1 a 10 cm. Sinal **sugestivo, mas não diagnóstico**: projeções em cúpula que sobem **entre as raízes** (festonamento). Os dentes envolvidos costumam ser **vitais e não deslocados**; reabsorção radicular e expansão cortical são minoria. Em mulheres mais velhas pode surgir junto da displasia cemento-óssea florida.\n\n**Diagnóstico:** a imagem não é específica; é preciso **explorar cirurgicamente**. Em cerca de um terço dos casos a cavidade está **vazia, com paredes ósseas lisas e brilhantes**; em dois terços há pouco líquido serossanguinolento. Quase não sai tecido, então o diagnóstico se apoia na clínica, na imagem e no achado cirúrgico.\n\n**Conduta:** exploração e curetagem, com envio do pouco tecido obtido para exame, para descartar doença mais séria. A própria exploração costuma levar o osso a se refazer: a radiografia normaliza em **12 a 17 meses**. Recidiva em torno de 1 a 2% na maioria dos estudos (até 26% em alguns); prognóstico excelente."
+    },
+    {
+      "id": "nao-odontogenicos",
+      "titulo": "Cistos do desenvolvimento não odontogênicos",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Cistos do desenvolvimento, p. 25; Cisto nasolabial e \"Cisto globulomaxilar\", p. 25–26; Cisto do ducto nasopalatino, Características clínicas e radiográficas e Tratamento e prognóstico, p. 27–28; Cisto palatino (palatal) mediano, p. 29–30; \"Cisto mandibular mediano\", p. 29–30",
+      "texto": "Estes cistos não vêm do epitélio do dente. Muitos foram chamados de \"fissurais\" (epitélio preso em linhas de fusão embrionária), ideia hoje questionada.\n\n**Cisto do ducto nasopalatino (do canal incisivo):** o cisto não odontogênico mais comum da boca, em cerca de **1%** da população. Provavelmente vem de restos do ducto nasopalatino, que liga nariz e boca no canal incisivo.\n- **Quem:** mais da **4ª à 6ª década**; raro na 1ª. Na maioria dos estudos, mais em homens.\n- **Clínica:** muitos são assintomáticos, achados de rotina. Outros dão aumento de volume no palato anterior, drenagem e dor. Na papila incisiva (só tecido mole), fica **azulado**, sem envolver o osso.\n- **Imagem:** radiolucidez bem circunscrita, perto da linha média da maxila anterior, **entre os ápices dos incisivos centrais**; redonda ou oval, com borda esclerótica. Pode ter forma de **pera invertida** ou de **coração**. Reabsorção de raiz é rara.\n- **Tamanho:** a maioria mede **1,0 a 2,5 cm**. Radiolucência de **6 mm ou menos** ali é considerada forame incisivo normal, salvo se houver outros sinais e sintomas.\n- **Conduta:** enucleação cirúrgica, com **biópsia**, porque a radiografia não fecha o diagnóstico. Recidiva rara.\n\n**Cisto nasolabial:** raro, em **tecido mole**: aumento de volume do lábio superior ao lado da linha média, que ergue a asa do nariz. Em geral **sem alteração óssea** na radiografia. Remoção cirúrgica intraoral.\n\n**Cisto palatino mediano:** raro; tumefação firme ou flutuante na linha média do palato duro, **atrás da papila incisiva**, mais em adultos jovens. A maioria pode ser, na verdade, cisto do ducto nasopalatino posterior. Remoção cirúrgica; recidiva não é esperada.\n\n**Cistos palatinos do recém-nascido:** pápulas brancas de 1 a 3 mm, em 55 a 85% dos neonatos; inócuos, regridem sozinhos.\n\n**Entre aspas:** o livro diz que o \"cisto globulomaxilar\" (entre incisivo lateral e canino superiores) e o \"cisto mandibular mediano\" (linha média da mandíbula) provavelmente não existem como cistos fissurais: nessas regiões não há fusão com epitélio aprisionado. Quase todos são odontogênicos (radicular, queratocisto, periodontal lateral; na mandíbula, também glandular). Os termos não devem mais ser usados: pense primeiro em origem odontogênica."
+    },
+    {
+      "id": "pseudocistos",
+      "titulo": "O que parece cisto e não é (3): defeito de Stafne e pseudocisto antral",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Defeito de Stafne, Características clínicas e radiográficas e Tratamento e prognóstico, p. 23–24; cap. 8, Pseudocisto antral, p. 303–304",
+      "texto": "**Defeito de Stafne** (cap. 1): não é cisto. É uma **concavidade da cortical lingual da mandíbula**, que na maioria dos casos abriga um pedaço da glândula submandibular normal (às vezes está vazia ou tem músculo, gordura ou tecido fibroso). Há variantes anteriores (glândula sublingual) e no ramo (parótida).\n- **Imagem:** radiolucência assintomática, bem circunscrita, com borda esclerótica, **abaixo do canal mandibular**, na região posterior (entre molares e ângulo). Às vezes interrompe a borda inferior da mandíbula. Em geral unilateral. A variante anterior pode se sobrepor aos ápices de dentes anteriores ou pré-molares.\n- **Quem:** meia-idade e idosos; **80 a 90% em homens**. Aparece em 0,08 a 0,48% das panorâmicas. Na maior parte dos casos fica estável; poucos aumentam com o tempo.\n- **Conduta:** o diagnóstico vem da clínica e da localização típica na radiografia. Na dúvida, TC, TCFC, RM ou sialografia mostram a concavidade lingual ou tecido de glândula salivar. Em geral dispensa biópsia. **Não precisa de tratamento**; prognóstico excelente. A variante anterior pode ser difícil de reconhecer, e então a biópsia ajuda a excluir outras lesões.\n\n**Pseudocisto antral** (cap. 8): acúmulo de exsudato inflamatório (soro, não muco) **sob a mucosa** do seio maxilar, que forma um aumento de volume séssil, isto é, de base larga. Não é cavidade revestida por epitélio. Aparece em 1,5 a 14% da população e é comum em panorâmicas. O nome \"mucocele de seio\" ou \"cisto de retenção\" é usado de forma imprópria para ele.\n- **Imagem:** é discretamente **radiopaco**: área uniforme, em **cúpula**, que sobe do assoalho do seio maxilar. O assoalho ósseo do seio em geral não está elevado nem passa sobre a lesão.\n- **Clínica:** na maioria, assintomático. Dor de cabeça e nos seios da face, obstrução e secreção nasais podem ser de outra sinusopatia e não melhoram ao remover o pseudocisto.\n- **Conduta:** em geral inofensivo e **sem tratamento**. Avalie os dentes vizinhos e elimine qualquer foco de infecção. O livro indica remover quando há expansão ou sintomas claramente associados.\n\nOs dois entram no tema como **diagnóstico diferencial** do que parece cisto: o Stafne aparece como radiolucência, como os cistos, e o pseudocisto antral, ao contrário das outras lesões do tema, como área radiopaca em forma de cúpula.\n\nO **cisto ósseo simples**, outro \"cisto\" sem epitélio, tem a seção própria anterior."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação das radiolucências",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero, p. 669–672; Queratocisto, p. 673–676; Cisto periodontal lateral, p. 683–684; Cisto da bifurcação vestibular, p. 688–689; Ameloblastoma, p. 691–699; e cap. 14, Cisto ósseo simples, p. 621–623; cap. 1, Cisto do ducto nasopalatino, p. 27–28, e Defeito de Stafne, p. 23–24 (síntese das seções anteriores)",
+      "texto": "| Lesão | Relação com o dente e local | Quem | Imagem | Conduta |\n|---|---|---|---|---|\n| **Dentígero** | envolve a coroa de incluso, preso na JAC; 3º molar inferior | 10 a 30 anos | unilocular, margem radiopaca; expande se grande | enucleação + remoção do dente |\n| **Queratocisto** | às vezes com incluso (25 a 40%); corpo posterior e ramo da mandíbula | cerca de 60% entre 10 e 40 anos | margens lisas; cresce no sentido anteroposterior, pouca expansão | enucleação + medidas contra recidiva; seguimento longo |\n| **Periodontal lateral** | lateral à raiz de dente vital; pré-molares, canino e incisivo lateral inferiores | 5ª a 7ª década | bem circunscrita, na maioria < 1 cm | enucleação conservadora |\n| **Bifurcação vestibular** | vestibular à bifurcação do 1º molar inferior | 5 a 13 anos | unilocular, ~1,2 cm; bolsa vestibular à sondagem | enucleação sem extrair o dente |\n| **Ameloblastoma convencional** | reabsorve raízes, muitas vezes com incluso; corpo e ramo da mandíbula | ampla faixa; frequência parecida na 3ª e na 7ª década | multilocular (bolhas de sabão, favos de mel) ou unilocular; geralmente expande corticais | ressecção marginal (a mais usada) |\n| **Ameloblastoma unicístico** | em volta da coroa de 3º molar incluso; mandíbula posterior | metade na 2ª década (média 23 anos) | igual a dentígero | enucleação; seguimento longo |\n| **Ducto nasopalatino** | entre os ápices dos incisivos centrais | 4ª a 6ª década | oval ou em coração, borda esclerótica | enucleação com biópsia |\n| **Defeito de Stafne** | cortical lingual, abaixo do canal mandibular | meia-idade e idosos; em geral homens | borda esclerótica; em geral estável | sem tratamento; TC na dúvida |\n| **Cisto ósseo simples** | entre raízes de dentes vitais e não deslocados; mandíbula | 2ª década | festonamento entre raízes | exploração e curetagem |\n\n**O que ajuda a separar:**\n- **Dentígero, queratocisto, periodontal lateral e ameloblastomas:** a imagem pode ser idêntica; só o exame histopatológico fecha.\n- **Bifurcação vestibular:** quadro clínico (criança, 1º molar, bolsa vestibular) e posição vestibular na oclusal ou na TCFC; a histologia não é específica.\n- **Cisto ósseo simples:** achado da exploração cirúrgica (cavidade vazia ou com pouco líquido, sem revestimento).\n\n**Para levar:**\n- **Radiolucidez em volta da coroa de incluso:** dentígero é o mais comum, mas queratocisto, ortoqueratinizado e ameloblastoma unicístico dão a mesma imagem. Por isso o capítulo insiste no exame microscópico até das pequenas.\n- **Expansão:** pouca no queratocisto; presente no dentígero grande e frequente no ameloblastoma.\n- **Ao lado da raiz de dente vital, em adulto:** periodontal lateral, mas a imagem é igual à de queratocisto e de cisto inflamatório lateral.\n- **Em jovem, entre raízes, dentes vitais:** pense em cisto ósseo simples."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Onde o cisto dentígero se prende ao dente?",
+      "verso": "Na **junção amelocementária**, envolvendo a coroa de um dente não erupcionado.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), definição (parágrafo inicial), p. 669–672"
+    },
+    {
+      "id": "f02",
+      "frente": "Que dente o cisto dentígero mais envolve?",
+      "verso": "O **terceiro molar inferior**, em cerca de **65%** dos casos.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+    },
+    {
+      "id": "f03",
+      "frente": "Que tamanho de espaço pericoronário alguns autores exigem para chamar de cisto dentígero?",
+      "verso": "**Pelo menos 3 a 4 mm** de espaço radiolúcido em volta da coroa. Mesmo assim, a imagem não é diagnóstica.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+    },
+    {
+      "id": "f04",
+      "frente": "Três motivos para dar atenção ao queratocisto?",
+      "verso": "**Crescimento maior** que o de outros cistos, **recidiva alta** e possível ligação com a **síndrome do carcinoma basocelular nevoide**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), parágrafos iniciais, p. 673–676"
+    },
+    {
+      "id": "f05",
+      "frente": "Como o queratocisto cresce no osso?",
+      "verso": "No sentido **anteroposterior**, pela medular, **sem expandir** o osso, ao contrário de dentígero e radicular de tamanho parecido.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual é a recidiva do queratocisto e quando ela aparece?",
+      "verso": "Cerca de **21 a 30%** nas séries grandes; pode surgir **10 anos ou mais** após a cirurgia, por isso o acompanhamento é longo.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+    },
+    {
+      "id": "f07",
+      "frente": "Quando investigar a síndrome de Gorlin num paciente com queratocisto?",
+      "verso": "Quando ele está na **1ª ou 2ª década** de vida ou tem **múltiplos queratocistos**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+    },
+    {
+      "id": "f08",
+      "frente": "Cisto periodontal lateral: onde, em quem e como?",
+      "verso": "Lateral à raiz de dente **vital**, 75 a 80% em **pré-molares, canino e incisivo lateral inferiores**, adultos da **5ª à 7ª década**, na maioria **< 1,0 cm**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas, p. 683–684"
+    },
+    {
+      "id": "f09",
+      "frente": "Cisto da bifurcação vestibular: quem e qual a conduta?",
+      "verso": "Criança de **5 a 13 anos**, vestibular do **1º molar inferior**. Enucleação **sem extrair o dente**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Tratamento e prognóstico, p. 688–689"
+    },
+    {
+      "id": "f10",
+      "frente": "Como se descreve a imagem multilocular do ameloblastoma?",
+      "verso": "“**Bolhas de sabão**” quando as lojas são grandes; “**favos de mel**” quando são pequenas.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+    },
+    {
+      "id": "f11",
+      "frente": "Por que a curetagem falha no ameloblastoma convencional?",
+      "verso": "O tumor se infiltra entre as trabéculas além da margem radiográfica; a recidiva após curetagem é de **50 a 90%**.",
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+    },
+    {
+      "id": "f12",
+      "frente": "Por que o cisto ósseo simples é um pseudocisto?",
+      "verso": "Porque **não tem revestimento epitelial**: é uma cavidade óssea vazia ou com pouco líquido.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cisto ósseo simples, parágrafo inicial e Características histopatológicas, p. 621–623"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual sinal radiográfico sugere (sem confirmar) cisto ósseo simples?",
+      "verso": "Projeções em cúpula que sobem **entre as raízes** (festonamento), com dentes, em geral, **vitais e não deslocados**.",
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cisto ósseo simples, Características clínicas e radiográficas, p. 621–623"
+    },
+    {
+      "id": "f14",
+      "frente": "Onde fica e como é a imagem do cisto do ducto nasopalatino?",
+      "verso": "Radiolucência bem circunscrita na linha média da maxila anterior, **entre os ápices dos incisivos centrais**, às vezes em forma de coração. Tratamento: enucleação com biópsia.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Cisto do ducto nasopalatino, Características clínicas e radiográficas e Tratamento e prognóstico, p. 27–28"
+    },
+    {
+      "id": "f15",
+      "frente": "O que é o defeito de Stafne e qual a conduta?",
+      "verso": "Concavidade da cortical **lingual** da mandíbula, abaixo do canal mandibular, em geral com tecido da glândula submandibular. **Sem tratamento**; TC na dúvida.",
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Defeito de Stafne, Características clínicas e radiográficas e Tratamento e prognóstico, p. 23–24"
+    },
+    {
+      "id": "f16",
+      "frente": "Como se vê o pseudocisto antral na panorâmica?",
+      "verso": "Área discretamente **radiopaca**, uniforme, em **cúpula**, sobre o assoalho do seio maxilar. Em geral é inofensivo e não se trata.",
+      "fonte": "neville5-cap8",
+      "onde": "cap. 8, Pseudocisto antral, Características radiográficas e Tratamento e prognóstico, p. 303–304"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente de 22 anos, assintomático. A panorâmica de rotina mostra radiolucidez unilocular bem delimitada, com margem radiopaca, em torno da coroa do 38 incluso, aderida ao dente na junção amelocementária; o espaço pericoronário mede 6 mm. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Cisto dentígero.",
+          "correta": true,
+          "justificativa": "Correta: radiolucidez unilocular em volta da coroa de incluso, presa na junção amelocementária, no terceiro molar inferior (cerca de 65% dos casos) e na faixa de 10 a 30 anos. O diagnóstico final ainda depende da histopatologia.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+        },
+        {
+          "texto": "Cisto periodontal lateral.",
+          "correta": false,
+          "justificativa": "Errada: ele fica ao lado da raiz de dente vital erupcionado, na região de pré-molares e canino inferiores, em adultos da 5ª à 7ª década; não envolve coroa de incluso.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas, p. 683–684"
+        },
+        {
+          "texto": "Cisto da bifurcação vestibular.",
+          "correta": false,
+          "justificativa": "Errada: ocorre na vestibular da bifurcação do primeiro molar inferior, em crianças de 5 a 13 anos, com bolsa vestibular; não envolve coroa de terceiro molar incluso.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Características clínicas e radiográficas, p. 688–689"
+        },
+        {
+          "texto": "Cisto ósseo simples.",
+          "correta": false,
+          "justificativa": "Errada: é uma cavidade sem epitélio, típica da 2ª década, que se projeta entre as raízes de dentes vitais; não se prende à coroa de um incluso.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Cisto ósseo simples, Características clínicas e radiográficas, p. 621–623"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672",
+      "secao": "dentigero",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Uma radiolucidez pericoronária de 6 mm em torno de um terceiro molar inferior incluso tem aspecto típico de cisto dentígero. O que é indispensável para excluir queratocisto e ameloblastoma unicístico?",
+      "alternativas": [
+        {
+          "texto": "Uma tomografia que mostre a coroa projetada para dentro do cisto (relação central).",
+          "correta": false,
+          "justificativa": "Errada: a relação central é a mais comum no dentígero, mas queratocisto e ameloblastoma unicístico podem dar imagem essencialmente idêntica; nenhum aspecto de imagem exclui essas lesões.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+        },
+        {
+          "texto": "O exame microscópico da lesão removida.",
+          "correta": true,
+          "justificativa": "Correta: queratocisto e ameloblastoma unicístico podem ter imagem essencialmente idêntica à do dentígero; o exame microscópico da peça é que os exclui. Separar um dentígero pequeno de um folículo aumentado é difícil até ao microscópio, mas o que importa é afastar essas lesões.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas e Características histopatológicas, p. 669–672"
+        },
+        {
+          "texto": "A presença de margem radiopaca bem definida.",
+          "correta": false,
+          "justificativa": "Errada: margem bem definida e radiopaca é comum no dentígero, mas também no queratocisto; não exclui nenhuma das duas lesões.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+        },
+        {
+          "texto": "A ausência de dor e de expansão óssea.",
+          "correta": false,
+          "justificativa": "Errada: o dentígero pequeno é assintomático, mas o queratocisto pequeno também costuma ser e cresce sem expandir o osso; o achado não exclui as outras lesões.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672",
+      "secao": "dentigero",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Homem de 28 anos com radiolucidez extensa no corpo posterior e no ramo da mandíbula, de margens radiopacas lisas, levemente multilocular, que se estende no sentido anteroposterior quase sem expandir as corticais. Não há dente incluso. Qual é a hipótese principal?",
+      "alternativas": [
+        {
+          "texto": "Cisto dentígero.",
+          "correta": false,
+          "justificativa": "Errada: o dentígero se define pela relação com a coroa de um incluso, que aqui não existe; além disso, dentígero de tamanho parecido costuma expandir o osso.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+        },
+        {
+          "texto": "Ameloblastoma convencional.",
+          "correta": false,
+          "justificativa": "Errada: o ameloblastoma também é multilocular no corpo e ramo, mas costuma expandir as corticais vestibular e lingual e reabsorver raízes; a falta de expansão aponta para outra lesão.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+        },
+        {
+          "texto": "Queratocisto odontogênico.",
+          "correta": true,
+          "justificativa": "Correta: corpo posterior e ramo da mandíbula, faixa de 10 a 40 anos, crescimento anteroposterior pela medular sem expansão e lesões grandes multiloculares são o quadro descrito para o queratocisto.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+        },
+        {
+          "texto": "Cisto periodontal lateral.",
+          "correta": false,
+          "justificativa": "Errada: é lesão pequena (a maioria tem menos de 1,0 cm), ao lado da raiz de dente vital na região de pré-molares e canino, em adultos mais velhos.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas, p. 683–684"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676",
+      "secao": "comparacao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Um queratocisto da mandíbula posterior foi enucleado e curetado. Qual orientação de seguimento é a adequada?",
+      "alternativas": [
+        {
+          "texto": "Dispensar o exame da peça, porque a imagem já era típica.",
+          "correta": false,
+          "justificativa": "Errada: a imagem do queratocisto é sugestiva, mas não diagnóstica; a confirmação é histopatológica.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        },
+        {
+          "texto": "Dar alta após um ano sem lesão, porque a recidiva é rara.",
+          "correta": false,
+          "justificativa": "Errada: recidiva rara é do cisto dentígero. No queratocisto ela fica em torno de 21 a 30% e pode surgir 10 anos ou mais depois.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        },
+        {
+          "texto": "Encerrar o controle após 5 anos sem lesão.",
+          "correta": false,
+          "justificativa": "Errada: muitas recidivas aparecem nos primeiros 5 anos, mas um número importante só surge 10 anos ou mais após a cirurgia; o controle tem de ser mais longo.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        },
+        {
+          "texto": "Manter controle clínico e radiográfico por muitos anos.",
+          "correta": true,
+          "justificativa": "Correta: o queratocisto recidiva com frequência, mais na mandíbula posterior, e parte das recidivas aparece 10 anos ou mais após a cirurgia.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676",
+      "secao": "queratocisto",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Menino de 14 anos tem três lesões radiolúcidas nos maxilares, todas confirmadas como queratocisto na biópsia. Ao exame, notam-se pequenas depressões nas palmas das mãos. Qual é o próximo passo de raciocínio?",
+      "alternativas": [
+        {
+          "texto": "Investigar a síndrome do carcinoma basocelular nevoide (Gorlin).",
+          "correta": true,
+          "justificativa": "Correta: queratocistos múltiplos, na 2ª década, com depressões palmoplantares, são achados frequentes da síndrome; o capítulo manda investigá-la nessas situações.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Síndrome do carcinoma basocelular nevoide (síndrome de Gorlin), Características clínicas e radiográficas, Boxe 15.2, p. 678–681"
+        },
+        {
+          "texto": "Tratar como cistos dentígeros múltiplos, sem outra investigação.",
+          "correta": false,
+          "justificativa": "Errada: o diagnóstico histológico já é de queratocisto, e queratocisto múltiplo ou em jovem pede avaliação da síndrome de Gorlin.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        },
+        {
+          "texto": "Reclassificar as lesões como cistos ortoqueratinizados.",
+          "correta": false,
+          "justificativa": "Errada: o ortoqueratinizado é outra entidade, com recidiva em torno de 2%, e em regra não se associa à síndrome, mesmo quando múltiplo.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto odontogênico ortoqueratinizado, Tratamento e prognóstico, p. 676–678"
+        },
+        {
+          "texto": "Tratar as depressões palmares como achado sem relação com os cistos.",
+          "correta": false,
+          "justificativa": "Errada: depressões palmoplantares são achado frequente da síndrome de Gorlin; junto com queratocistos múltiplos em jovem, reforçam a investigação.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Síndrome do carcinoma basocelular nevoide (síndrome de Gorlin), Características clínicas e radiográficas, p. 678–681"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676",
+      "secao": "queratocisto",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Mulher de 55 anos, assintomática. A periapical mostra radiolucidez bem circunscrita de 7 mm entre as raízes do canino e do primeiro pré-molar inferiores, que respondem normalmente ao teste de vitalidade. Qual hipótese combina com esse perfil?",
+      "alternativas": [
+        {
+          "texto": "Cisto da bifurcação vestibular.",
+          "correta": false,
+          "justificativa": "Errada: ocorre em crianças de 5 a 13 anos, na vestibular do primeiro molar inferior, com bolsa vestibular e secreção.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Características clínicas e radiográficas, p. 688–689"
+        },
+        {
+          "texto": "Cisto periodontal lateral.",
+          "correta": true,
+          "justificativa": "Correta: lesão lateral à raiz de dentes vitais, menor que 1,0 cm, na região de canino e pré-molares inferiores, em adulto da 5ª à 7ª década. A confirmação é histopatológica, porque o queratocisto pode dar imagem igual.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas, p. 683–684"
+        },
+        {
+          "texto": "Cisto dentígero.",
+          "correta": false,
+          "justificativa": "Errada: o dentígero envolve a coroa de um dente não erupcionado; aqui os dentes estão erupcionados e a lesão fica entre as raízes.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+        },
+        {
+          "texto": "Cisto de erupção.",
+          "correta": false,
+          "justificativa": "Errada: é lesão de tecido mole sobre dente em erupção, na maioria em criança com menos de 10 anos; não aparece como radiolucidez intraóssea em adulto.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto de erupção (hematoma de erupção), Características clínicas, p. 672–673"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto periodontal lateral (cisto odontogênico botrioide), Características clínicas e radiográficas, p. 683–684",
+      "secao": "periodontal-lateral",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Criança de 8 anos com sensibilidade e aumento de volume na vestibular do 36, que está erupcionando, e saída de secreção de gosto ruim. A sondagem mostra bolsa vestibular, e a radiografia, radiolucidez unilocular bem circunscrita sobre a bifurcação. Qual é a conduta descrita para essa lesão?",
+      "alternativas": [
+        {
+          "texto": "Extração do 36 junto com a remoção da lesão.",
+          "correta": false,
+          "justificativa": "Errada: no cisto da bifurcação vestibular a extração do dente associado não é necessária.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Tratamento e prognóstico, p. 688–689"
+        },
+        {
+          "texto": "Ressecção marginal da mandíbula.",
+          "correta": false,
+          "justificativa": "Errada: ressecção marginal é o tratamento mais usado no ameloblastoma convencional, não neste cisto inflamatório.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Enucleação do cisto, mantendo o dente.",
+          "correta": true,
+          "justificativa": "Correta: o cisto da bifurcação vestibular é enucleado sem extrair o dente; em cerca de 1 ano a sondagem e o osso se normalizam.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Tratamento e prognóstico, p. 688–689"
+        },
+        {
+          "texto": "Enucleação com ostectomia periférica ou Carnoy e controle por muitos anos.",
+          "correta": false,
+          "justificativa": "Errada: essas medidas contra recidiva e o seguimento longo são do queratocisto. O cisto da bifurcação vestibular é inflamatório e se resolve com a enucleação; em cerca de 1 ano a sondagem e o osso se normalizam.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Tratamento e prognóstico, p. 673–676"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Cisto da bifurcação vestibular (cisto colateral inflamatório), Características clínicas e radiográficas, p. 688–689",
+      "secao": "comparacao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Homem de 45 anos com aumento de volume indolor na mandíbula posterior. A radiografia mostra lesão radiolúcida multilocular em “bolhas de sabão”, com expansão das corticais vestibular e lingual e reabsorção das raízes vizinhas; a biópsia confirma ameloblastoma convencional. Por que a curetagem simples não é a escolha?",
+      "alternativas": [
+        {
+          "texto": "Porque se trata de ameloblastoma unicístico, que exige ressecção.",
+          "correta": false,
+          "justificativa": "Errada: o caso é de ameloblastoma convencional multilocular, confirmado na biópsia; e o unicístico, ao contrário, costuma ser enucleado como cisto.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Porque o tumor é maligno e costuma dar metástase.",
+          "correta": false,
+          "justificativa": "Errada: o ameloblastoma convencional tem curso benigno na maioria dos casos; comportamento francamente maligno é raro.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Porque a radioterapia é mais eficaz que a cirurgia.",
+          "correta": false,
+          "justificativa": "Errada: a radioterapia raramente é usada, pela localização intraóssea e pelo risco de malignidade induzida em pacientes jovens.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        },
+        {
+          "texto": "Porque ele infiltra o osso além da margem radiográfica.",
+          "correta": true,
+          "justificativa": "Correta: o tumor se infiltra entre as trabéculas além do limite visto na imagem; após curetagem, a recidiva é de 50 a 90%.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699"
+        }
+      ],
+      "fonte": "neville5-cap15",
+      "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Tratamento e prognóstico, p. 691–699",
+      "secao": "ameloblastoma",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Adolescente de 15 anos, sem queixa. A panorâmica mostra radiolucidez unilocular bem delimitada no corpo da mandíbula, com projeções em cúpula que sobem entre as raízes dos pré-molares e molares. Os dentes respondem normalmente ao teste de vitalidade e não estão deslocados; não há dente incluso. Qual é a hipótese mais provável?",
+      "alternativas": [
+        {
+          "texto": "Queratocisto odontogênico.",
+          "correta": false,
+          "justificativa": "Errada: o queratocisto pode aparecer nessa idade, mas é uma cavidade revestida por epitélio, e o festonamento entre raízes de dentes vitais, em jovem, é o sinal sugestivo do cisto ósseo simples.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas e Características histopatológicas, p. 673–676"
+        },
+        {
+          "texto": "Cisto ósseo simples.",
+          "correta": true,
+          "justificativa": "Correta: pseudocisto sem revestimento epitelial, da 2ª década, com festonamento entre raízes de dentes vitais e não deslocados. A imagem só sugere; quem fecha é a exploração cirúrgica: em cerca de um terço dos casos a cavidade está vazia, de paredes lisas e brilhantes, e nos outros dois terços tem pouco líquido serossanguinolento.",
+          "fonte": "neville5-cap14",
+          "onde": "cap. 14, Cisto ósseo simples, Características clínicas e radiográficas e Diagnóstico, p. 621–623"
+        },
+        {
+          "texto": "Ameloblastoma unicístico.",
+          "correta": false,
+          "justificativa": "Errada: o ameloblastoma unicístico costuma envolver a coroa de um terceiro molar inferior incluso, que aqui não existe, e tem parede revestida por epitélio ameloblástico.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma unicístico, Características clínicas e radiográficas e Características histopatológicas, p. 691–699"
+        },
+        {
+          "texto": "Cisto dentígero.",
+          "correta": false,
+          "justificativa": "Errada: o dentígero tem revestimento epitelial e envolve a coroa de um dente não erupcionado; aqui não há dente incluso.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas e Características histopatológicas, p. 669–672"
+        }
+      ],
+      "fonte": "neville5-cap14",
+      "onde": "cap. 14, Cisto ósseo simples, Características clínicas e radiográficas e Diagnóstico, p. 621–623",
+      "secao": "cisto-osseo-simples",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Homem de 60 anos, assintomático. A panorâmica mostra radiolucidez bem circunscrita, com borda esclerótica, abaixo do canal mandibular, entre molares e ângulo, só do lado direito. A tomografia mostra uma concavidade bem definida na superfície lingual da mandíbula. Qual é a hipótese e a conduta descritas?",
+      "alternativas": [
+        {
+          "texto": "Defeito de Stafne; sem tratamento.",
+          "correta": true,
+          "justificativa": "Correta: radiolucência assintomática abaixo do canal mandibular, em homem de idade mais avançada, com concavidade da cortical lingual na tomografia. O diagnóstico é clínico e de imagem; não há necessidade de tratamento e o prognóstico é excelente.",
+          "fonte": "neville5-cap1",
+          "onde": "cap. 1, Defeito de Stafne, Características clínicas e radiográficas e Tratamento e prognóstico, p. 23–24"
+        },
+        {
+          "texto": "Queratocisto; enucleação e controle por muitos anos.",
+          "correta": false,
+          "justificativa": "Errada: o queratocisto é uma cavidade no interior do osso, que cresce pela medular; aqui a tomografia mostra concavidade da cortical lingual, achado do defeito de Stafne.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Queratocisto (tumor odontogênico queratocístico), Características clínicas e radiográficas, p. 673–676"
+        },
+        {
+          "texto": "Ameloblastoma convencional; ressecção marginal.",
+          "correta": false,
+          "justificativa": "Errada: o ameloblastoma é tumor intraósseo que geralmente expande as corticais e reabsorve raízes, e pede ressecção; a tomografia do caso mostra concavidade da cortical lingual, achado do defeito de Stafne, que não se trata.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Ameloblastoma intraósseo sólido convencional ou multicístico, Características clínicas e radiográficas, p. 691–699"
+        },
+        {
+          "texto": "Cisto dentígero; enucleação com remoção do dente.",
+          "correta": false,
+          "justificativa": "Errada: o dentígero envolve a coroa de um dente não erupcionado, preso na junção amelocementária; o caso não tem dente incluso.",
+          "fonte": "neville5-cap15",
+          "onde": "cap. 15, Cisto dentígero (cisto folicular), Características clínicas e radiográficas, p. 669–672"
+        }
+      ],
+      "fonte": "neville5-cap1",
+      "onde": "cap. 1, Defeito de Stafne, Características clínicas e radiográficas e Tratamento e prognóstico, p. 23–24",
+      "secao": "pseudocistos",
+      "figura": null
+    }
+  ]
+}

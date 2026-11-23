@@ -1,0 +1,510 @@
+{
+  "slug": "lesoes-fundamentais",
+  "titulo": "Lesões fundamentais: mácula, pápula, nódulo, vesícula, bolha, úlcera, placa",
+  "area": "Estomatologia",
+  "origem": "Marcucci 3ª ed., cap. 6",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "marcucci3-cap6",
+      "ref": "Gallo CB, Marcucci G, Silva SS. Lesões Fundamentais. In: Marcucci G (ed.). Fundamentos de Odontologia: Estomatologia. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2020. Cap. 6, p. 85–88.",
+      "curta": "Marcucci 3ª ed., cap. 6"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "porque",
+      "titulo": "Por que classificar e como descrever uma lesão",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Introdução, p. 85",
+      "texto": "**Lesão fundamental** (ou elementar) é a unidade básica com que se descreve uma lesão da mucosa. O conceito vem da dermatologia e foi levado à estomatologia por Grinspan, em 1970. A epígrafe do capítulo, de David Grinspan, compara as lesões fundamentais às letras de um alfabeto: indispensáveis para conhecer o idioma.\n\n**Para que serve:**\n- agrupar e comparar as lesões dos tecidos moles da boca;\n- facilitar a comunicação entre profissionais e o ensino;\n- ajudar a formular **hipóteses diagnósticas**, a pedir o exame complementar certo, quando necessário, e a escolher a terapêutica adequada.\n\nPara isso o profissional precisa de base em patologia oral e maxilofacial e em etiopatogenia (como a doença nasce e evolui). Sem essa base, não analisa nem dá valor aos dados do exame clínico.\n\n**O que observar além da lesão fundamental:** localização, formato, inserção, cor, aspecto da superfície, tamanho, limites e dados da palpação.\n\n**A mesma lesão pode ter aspectos diferentes.** O capítulo contrasta duas úlceras:\n- **afta comum:** única ou múltipla, pequena, de bordas rasas, halo vermelho (eritematoso) e centro caseoso; formato redondo ou oval, na mucosa de revestimento, dura 5 a 7 dias e dói muito nos primeiros dias;\n- **carcinoma espinocelular** (a neoplasia maligna mais comum da mucosa bucal): úlcera única, crônica, de bordas elevadas, nítidas e endurecidas, com centro necrótico e sem dor no início.\n\n**Padronização.** O tema é polêmico, e cada autor pode propor sua classificação. O capítulo adota a da disciplina de Estomatologia Clínica da FO-USP, consolidada desde 1992 (Quadro 6.1). As seções seguintes seguem esse quadro: alterações de cor, formações sólidas, coleções líquidas e perdas teciduais."
+    },
+    {
+      "id": "macula-vasculares",
+      "titulo": "Mancha ou mácula: alterações vasculares",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula, p. 85",
+      "texto": "**Mancha ou mácula** é uma alteração de cor da mucosa **sem elevação nem depressão** da superfície. A cor muda por pigmentação endógena (de dentro do corpo) ou exógena (de fora), ou por mudança na espessura do epitélio. As endógenas são vasculossanguíneas ou melânicas.\n\n**Vasculares com cor avermelhada** (pela hemoglobina, por vasodilatação ativa ou arterial):\n- **eritema:** na pele, quando generalizado, chama-se exantema; na mucosa, **enantema** (por exemplo, estomatites medicamentosas, alérgicas e inflamatórias);\n- **rubor:** vasocongestão ativa, com calor local; o oposto da cianose;\n- **mancha angiomatosa:** permanente, por neoformação de capilares, vista desde o nascimento; muitas vezes faz parte de síndrome, como a hemangiomatose trigeminal (síndrome de Sturge-Weber);\n- **telangiectasias:** aspecto em filetes ou pontilhado, por dilatação de capilares; exemplo, a telangiectasia hereditária (síndrome de Rendu-Osler-Weber).\n\n**Vasculares azuladas ou violáceas:**\n- **cianose:** mancha azul ou violácea por vasocongestão passiva (venosa), com queda da temperatura local; aparece em alterações cardiorrespiratórias e na intoxicação por monóxido de carbono;\n- **varicosidades:** cor azulada; na mucosa, sobretudo no ventre e nas bordas da língua e no assoalho da boca, mais intensas em idosos.\n\n**Teste que confirma:** todas as manchas acima são facilmente diagnosticadas: **desaparecem à vitropressão** (pressão com lâmina de vidro) ou à digitopressão e voltam ao aspecto inicial quando a pressão cessa."
+    },
+    {
+      "id": "macula-outras",
+      "titulo": "Mancha ou mácula: melânicas, exógenas, púrpuras e palidez",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula (continuação) e Quadro 6.1, p. 86–88",
+      "texto": "**Pigmentações melânicas.**\n- **Hipercrômicas** (mais escuras): acúmulo de melanina, do castanho ao enegrecido. O exemplo típico é a pigmentação gengival racial (melanoplasia). Também entram nevo pigmentado, mácula melanótica, melanose do tabagista e, menos comum e mais grave, o **melanoma**; há ainda as síndromes de Peutz-Jeghers e de McCune-Albright.\n- **Hipocrômicas** (mais claras): perda de pigmento por destruição dos grânulos de melanina e dos melanócitos, como no **vitiligo**, que pode atingir a semimucosa do lábio.\n\n**Pigmentações exógenas.** Vêm de pigmentos metálicos (tatuagem por amálgama) ou de contaminação sistêmica por metais pesados, com ou sem motivo medicamentoso (agirismo, plumbismo, hidrargirismo, platinismo, bismutismo). Antimaláricos, tetraciclinas e zidovudina também escurecem a mucosa, especialmente a palatina.\n\n**Púrpuras (extravasamento de sangue).** Manchas avermelhadas que **não desaparecem à vitropressão**, porque o sangue (hemácias) saiu do vaso. Variam por forma e tamanho:\n- **petéquias:** puntiformes ou lenticulares, até 1 cm de diâmetro;\n- **equimoses:** maiores;\n- **víbices:** lineares.\n\nSão típicas das púrpuras trombocitopênicas, de outras discrasias sanguíneas, da fragilidade capilar e das leucemias. Nas hepatites, o amarelado vem da decomposição da hemoglobina.\n\n**Hipocrômicas vasculares.** Palidez por **isquemia** (vasoconstrição de capilares), como após anestésico com vasoconstritor, ou palidez generalizada em anemias e leucemias, mais visível na gengiva.\n\n**Alteração da espessura do epitélio** (Quadro 6.1): a **hiperplasia** dá lesões **brancas**; a **atrofia** dá lesões **avermelhadas** ou eritematosas."
+    },
+    {
+      "id": "solidas",
+      "titulo": "Formações sólidas: pápula, placa e nódulo",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88",
+      "texto": "**Formações sólidas** são aumentos de volume da superfície da mucosa, de origem epitelial, conjuntiva ou mista, com conteúdo maciço, compacto. O capítulo as agrupa por tamanho.\n\n**Pápula.** Elevação circunscrita (bem delimitada) com **menos de 5 mm**.\n- **séssil**, como os grânulos de Fordyce;\n- **pedunculada**, como nos papilomas.\n\n**Placa.** Elevação da superfície cuja **altura é menor que a base**; pode se estender por vários centímetros.\n- vista classicamente em leucoplasias e queratoses irritativas, e na sífilis secundária;\n- pode ser um agregado de pápulas (**placa papulosa**), como na hiperplasia papilomatosa inflamatória causada por artefatos de prótese dentária.\n\n**Nódulo.** Elevação circunscrita com **mais de 5 mm**, superficial ou profunda. Representa processos proliferativos, não neoplásicos e neoplásicos.\n\n**Tumor ou nodosidade.** O Quadro 6.1 reserva esses termos para formações sólidas com **mais de 3 cm**, mas o texto desaconselha \"tumor\" para elas, porque o paciente entende como malignidade e isso pode causar abalo psicoemocional. Nesses casos, podem-se usar **nodosidade**, **massa nodal** ou simplesmente **nódulo**. O Quadro 6.1 diz que esses termos podem ser usados, embora estejam atualmente em desuso.\n\n**Atenção aos limites.** Na pápula e no nódulo o corte é 5 mm; na vesícula e na bolha (seção seguinte) é 3 mm."
+    },
+    {
+      "id": "liquidas",
+      "titulo": "Coleções líquidas: vesícula e bolha",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Coleções líquidas, p. 86–88",
+      "texto": "**Coleções líquidas** são aumentos de volume da superfície da mucosa com **conteúdo líquido**. O capítulo as agrupa por tamanho.\n\n**Vesícula.** Elevação circunscrita com **menos de 3 mm**. Habitual em infecções virais: herpes simples recorrente, varicela, herpangina, entre outras. Esse limite é o do Marcucci; no tema de infecções, o Neville chama de vesículas as de 1 a 3 mm (herpes) e as de 1 a 4 mm (zóster). As fontes medem diferente.\n\n**Bolha.** Igual à vesícula, mas com **mais de 3 mm**. Comum em doenças autoimunes, como os pênfigos e os penfigoides.\n\n**Conteúdo.** Conforme o que há dentro, a vesícula ou a bolha é:\n- **serosa**;\n- **sanguinolenta** (hemorrágica);\n- **pustulosa**, quando infectada secundariamente.\n\nO Quadro 6.1 ainda lista, como termos que podem ser usados, embora atualmente em desuso, **hematoma** (coleção com conteúdo sanguinolento) e **pústula** ou **abscesso** (conteúdo purulento).\n\n**Período fugaz.** Na boca, vesículas e bolhas duram pouco. Rompem logo depois de formadas, por causa dos traumatismos constantes da fala, da alimentação e da deglutição. O que sobra são lesões secundárias, as **úlceras ou ulcerações** (próxima seção).\n\n**Resumo do limite de tamanho:** menos de 3 mm é vesícula; mais de 3 mm é bolha."
+    },
+    {
+      "id": "perdas",
+      "titulo": "Perdas teciduais: erosão, úlcera e ulceração",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Perdas teciduais, p. 86–88",
+      "texto": "**Perdas teciduais** são diminuições de volume da superfície da mucosa. O capítulo as agrupa por extensão ou profundidade.\n\n**Erosão.** Perda **parcial do epitélio, sem atingir o tecido conjuntivo** vizinho. Exemplos do capítulo: líquen plano atrófico-erosivo e língua geográfica (eritema migratório benigno).\n\n**Úlcera ou ulceração.** Perda de substância do epitélio **com exposição do conjuntivo subjacente**. O capítulo diz que o termo pode variar conforme a lesão seja crônica ou aguda:\n- **úlcera**, quando é **crônica**; exemplo, o carcinoma espinocelular (epidermoide);\n- **ulceração**, quando é **aguda**; exemplos, as aftas recorrentes e as lesões traumáticas.\n\n**Exulceração.** O Quadro 6.1 cita o termo para placas ulceradas características de paracoccidioidomicose e de sífilis, e o classifica entre os usados atualmente em desuso.\n\n**Como se liga ao resto do capítulo.** A úlcera pode ser lesão secundária a vesícula ou bolha que se rompeu. A afta e o carcinoma espinocelular, descritos na introdução, são o par de contraste: ambos são perdas de substância, mas uma é aguda, curta e dolorosa; a outra, crônica, de bordas endurecidas e indolor no início.\n\n**Critérios do capítulo:** a profundidade separa erosão (só epitélio) de úlcera ou ulceração (conjuntivo exposto); o capítulo chama de úlcera a perda crônica e de ulceração a aguda."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação: as lesões fundamentais lado a lado",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Quadro 6.1 e subtítulos Mancha ou mácula, Formações sólidas, Coleções líquidas e Perdas teciduais, p. 85–88",
+      "texto": "| Lesão | Grupo | Definição | Limite de tamanho | Exemplo dado pelo livro |\n|---|---|---|---|---|\n| **Mácula** | Alteração de cor | muda a cor, sem elevação nem depressão | não se aplica | eritema, cianose, petéquia, pigmentação gengival racial |\n| **Pápula** | Formação sólida | elevação circunscrita, séssil ou pedunculada | menos de 5 mm | grânulos de Fordyce; papilomas |\n| **Placa** | Formação sólida | elevação com altura menor que a base | pode ter vários cm | leucoplasia; sífilis secundária |\n| **Nódulo** | Formação sólida | elevação circunscrita, superficial ou profunda | mais de 5 mm | processos proliferativos não neoplásicos e neoplásicos |\n| **Tumor ou nodosidade** | Formação sólida | aumento de volume sólido maior | mais de 3 cm (o livro desaconselha \"tumor\") | termos alternativos: nodosidade, massa nodal, nódulo |\n| **Vesícula** | Coleção líquida | elevação circunscrita com líquido | menos de 3 mm | herpes simples recorrente, varicela, herpangina |\n| **Bolha** | Coleção líquida | igual à vesícula, maior | mais de 3 mm | pênfigos e penfigoides |\n| **Erosão** | Perda tecidual | perda parcial do epitélio, sem atingir o conjuntivo | não se aplica | líquen plano atrófico-erosivo; língua geográfica |\n| **Úlcera** | Perda tecidual | perda do epitélio com exposição do conjuntivo, crônica | não se aplica | carcinoma espinocelular |\n| **Ulceração** | Perda tecidual | o mesmo, mas aguda | não se aplica | aftas recorrentes; lesões traumáticas |\n\n**Três pontos para fixar:**\n- a **vitropressão** separa as manchas: eritema, cianose e telangiectasia (vasodilatação ou vasocongestão) desaparecem; as púrpuras (extravasamento de sangue), não;\n- o corte de **5 mm** separa pápula de nódulo; o de **3 mm** separa vesícula de bolha;\n- úlcera é a perda **crônica**; ulceração, a **aguda**."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Para que serve o conceito de lesão fundamental?",
+      "verso": "Agrupar e comparar lesões dos tecidos moles, facilitar a comunicação entre profissionais e **formular hipóteses diagnósticas**, pedir o exame complementar certo e escolher a terapêutica.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Introdução, p. 85"
+    },
+    {
+      "id": "f02",
+      "frente": "Além da lesão fundamental, o que mais se observa na lesão?",
+      "verso": "Localização, formato, inserção, cor, aspecto da superfície, tamanho, limites e dados da palpação.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Introdução, p. 85"
+    },
+    {
+      "id": "f03",
+      "frente": "Como a úlcera da afta comum e a do carcinoma espinocelular se diferenciam?",
+      "verso": "Afta: bordas rasas, halo eritematoso, dura 5 a 7 dias, dói muito. Carcinoma espinocelular: única, crônica, bordas elevadas e endurecidas, centro necrótico, indolor no início.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Introdução, p. 85"
+    },
+    {
+      "id": "f04",
+      "frente": "O que define uma mancha ou mácula?",
+      "verso": "Alteração de cor da mucosa **sem elevação nem depressão** da superfície.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula, p. 85"
+    },
+    {
+      "id": "f05",
+      "frente": "Qual teste mostra que uma mancha é de vasodilatação ou vasocongestão (eritema, cianose, telangiectasia)?",
+      "verso": "**Vitropressão** (lâmina de vidro) ou digitopressão: a mancha desaparece e volta quando a pressão cessa. Na púrpura, que é extravasamento de sangue, a mancha não some.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula, p. 85"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que a púrpura não desaparece à vitropressão?",
+      "verso": "Porque há **extravasamento de sangue** (hemácias) para fora do vaso. Petéquias são puntiformes ou lenticulares (até 1 cm); equimoses são maiores; víbices são lineares.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula (continuação), p. 86–88"
+    },
+    {
+      "id": "f07",
+      "frente": "Qual a diferença entre rubor e cianose?",
+      "verso": "Rubor: vasocongestão **ativa**, com calor local. Cianose: mancha azul ou violácea por vasocongestão **passiva (venosa)**, com queda da temperatura local.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula, p. 85"
+    },
+    {
+      "id": "f08",
+      "frente": "Qual o limite de tamanho entre pápula e nódulo?",
+      "verso": "Pápula: menos de **5 mm**. Nódulo: mais de **5 mm**.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88"
+    },
+    {
+      "id": "f09",
+      "frente": "O que caracteriza a placa?",
+      "verso": "Elevação da superfície cuja **altura é menor que a base**, podendo se estender por vários centímetros. Exemplos: leucoplasia, queratose irritativa, sífilis secundária.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88"
+    },
+    {
+      "id": "f10",
+      "frente": "Que termo usar para uma formação sólida com mais de 3 cm?",
+      "verso": "O livro desaconselha \"tumor\" (o paciente entende como malignidade). Usar **nodosidade**, **massa nodal** ou simplesmente **nódulo**.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual o limite de tamanho entre vesícula e bolha?",
+      "verso": "Vesícula: menos de **3 mm** (infecções virais, como herpes simples). Bolha: mais de **3 mm** (pênfigos e penfigoides).",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Coleções líquidas, p. 86–88"
+    },
+    {
+      "id": "f12",
+      "frente": "Por que vesículas e bolhas duram pouco na boca?",
+      "verso": "Rompem logo após a formação, por causa dos traumatismos da fala, da alimentação e da deglutição, e deixam úlceras ou ulcerações.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Coleções líquidas, p. 86–88"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual a diferença entre erosão e úlcera?",
+      "verso": "**Erosão:** perda parcial do epitélio, sem atingir o conjuntivo. **Úlcera:** perda do epitélio com **exposição do conjuntivo** subjacente.",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Perdas teciduais, p. 86–88"
+    },
+    {
+      "id": "f14",
+      "frente": "Qual a diferença entre úlcera e ulceração, e um exemplo de cada?",
+      "verso": "Úlcera é a perda **crônica** (carcinoma espinocelular). Ulceração é a **aguda** (aftas recorrentes, lesões traumáticas).",
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Perdas teciduais, p. 86–88"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Ao exame, um paciente tem uma elevação circunscrita, sólida, de 4 mm, na mucosa jugal. Qual é a lesão fundamental?",
+      "alternativas": [
+        {
+          "texto": "Vesícula",
+          "correta": false,
+          "justificativa": "A vesícula tem conteúdo líquido; a lesão descrita é sólida.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Pápula",
+          "correta": true,
+          "justificativa": "Elevação circunscrita sólida com menos de 5 mm é pápula; pode ser séssil, como os grânulos de Fordyce.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Mácula",
+          "correta": false,
+          "justificativa": "A mácula é só mudança de cor, sem elevação nem depressão.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        },
+        {
+          "texto": "Nódulo",
+          "correta": false,
+          "justificativa": "O nódulo tem mais de 5 mm; a lesão tem 4 mm.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88",
+      "secao": "solidas",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um paciente com trombocitopenia tem pontos vermelhos de 2 mm no palato. A lâmina de vidro pressionada sobre eles não os faz desaparecer. Qual é a lesão fundamental?",
+      "alternativas": [
+        {
+          "texto": "Telangiectasia",
+          "correta": false,
+          "justificativa": "As telangiectasias são dilatações de capilares e desaparecem à vitropressão.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        },
+        {
+          "texto": "Eritema",
+          "correta": false,
+          "justificativa": "O eritema é vascular, por vasodilatação, e desaparece à vitropressão.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        },
+        {
+          "texto": "Cianose",
+          "correta": false,
+          "justificativa": "A cianose é azul ou violácea, por vasocongestão passiva, e também desaparece à vitropressão.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        },
+        {
+          "texto": "Mácula púrpura (petéquias)",
+          "correta": true,
+          "justificativa": "Manchas avermelhadas puntiformes que não somem à vitropressão indicam extravasamento de sangue, típico das púrpuras trombocitopênicas.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula (continuação), p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula (continuação), p. 86–88",
+      "secao": "macula-outras",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Uma elevação sólida e circunscrita de 8 mm, profunda, com altura maior que a base, é palpada no fundo de vestíbulo. Como se classifica?",
+      "alternativas": [
+        {
+          "texto": "Nódulo",
+          "correta": true,
+          "justificativa": "Elevação circunscrita sólida com mais de 5 mm, superficial ou profunda, é nódulo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Pápula",
+          "correta": false,
+          "justificativa": "A pápula tem menos de 5 mm.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Bolha",
+          "correta": false,
+          "justificativa": "A bolha é coleção líquida; a lesão é sólida.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Placa",
+          "correta": false,
+          "justificativa": "Na placa a altura é menor que a base; nesta lesão é maior.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88",
+      "secao": "solidas",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente com pênfigo apresenta elevação circunscrita de 6 mm, com conteúdo líquido claro, na mucosa jugal. Qual é a lesão fundamental?",
+      "alternativas": [
+        {
+          "texto": "Vesícula",
+          "correta": false,
+          "justificativa": "A vesícula tem menos de 3 mm; esta tem 6 mm.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Nódulo",
+          "correta": false,
+          "justificativa": "O nódulo é sólido; a lesão tem conteúdo líquido.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Bolha",
+          "correta": true,
+          "justificativa": "Coleção líquida com mais de 3 mm é bolha, comum em doenças autoimunes como os pênfigos.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Erosão",
+          "correta": false,
+          "justificativa": "A erosão é perda de epitélio, não elevação com líquido; a bolha, ao romper, deixa úlcera ou ulceração, segundo o capítulo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Coleções líquidas, p. 86–88",
+      "secao": "liquidas",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Uma formação sólida circunscrita de 4 cm, com altura maior que a base, é encontrada na mucosa. Para se referir a ela diante do paciente, qual termo o texto do capítulo recomenda?",
+      "alternativas": [
+        {
+          "texto": "Tumor, por ser maior que 3 cm",
+          "correta": false,
+          "justificativa": "O texto desaconselha \"tumor\" para formações sólidas acima de 3 cm, porque o paciente interpreta como malignidade, embora o Quadro 6.1 cite o termo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Nodosidade, massa nodal ou nódulo",
+          "correta": true,
+          "justificativa": "São os termos que o capítulo oferece para essas formações, evitando a ideia de malignidade.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Pápula, por ser sólida",
+          "correta": false,
+          "justificativa": "A pápula tem menos de 5 mm.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        },
+        {
+          "texto": "Placa, por ser extensa",
+          "correta": false,
+          "justificativa": "Na placa a altura é menor que a base; aqui é maior.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Formações sólidas, p. 86–88",
+      "secao": "solidas",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Uma lesão da mucosa mostra perda parcial do epitélio, sem exposição do conjuntivo, como na língua geográfica. Qual é a lesão fundamental?",
+      "alternativas": [
+        {
+          "texto": "Úlcera",
+          "correta": false,
+          "justificativa": "A úlcera expõe o conjuntivo subjacente e é crônica.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        },
+        {
+          "texto": "Ulceração",
+          "correta": false,
+          "justificativa": "A ulceração também expõe o conjuntivo; é a forma aguda da úlcera.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        },
+        {
+          "texto": "Vesícula",
+          "correta": false,
+          "justificativa": "A vesícula é elevação com líquido, não perda de epitélio.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Erosão",
+          "correta": true,
+          "justificativa": "Perda parcial do epitélio sem atingir o conjuntivo é erosão; o livro cita a língua geográfica como exemplo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Perdas teciduais, p. 86–88",
+      "secao": "perdas",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente de 25 anos tem lesão arredondada, dolorosa, de curso agudo e recorrente, que expõe o conjuntivo. Como se denomina, segundo o capítulo, esse tipo de perda tecidual?",
+      "alternativas": [
+        {
+          "texto": "Ulceração, por ser aguda",
+          "correta": true,
+          "justificativa": "Perda do epitélio com exposição do conjuntivo, de curso agudo (aftas recorrentes), chama-se ulceração.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        },
+        {
+          "texto": "Úlcera, por ser crônica",
+          "correta": false,
+          "justificativa": "A úlcera é a forma crônica, como no carcinoma espinocelular; aqui o curso é agudo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        },
+        {
+          "texto": "Erosão, por ser dolorosa",
+          "correta": false,
+          "justificativa": "Na erosão o conjuntivo não é atingido; aqui ele está exposto.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Perdas teciduais, p. 86–88"
+        },
+        {
+          "texto": "Bolha, por ser recorrente",
+          "correta": false,
+          "justificativa": "A bolha é elevação com líquido; a lesão descrita é perda de substância.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Perdas teciduais, p. 86–88",
+      "secao": "perdas",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente com estomatite medicamentosa tem mucosa avermelhada difusa, sem relevo. Ao pressionar uma lâmina de vidro, a cor some e volta ao soltar. Qual é a lesão fundamental?",
+      "alternativas": [
+        {
+          "texto": "Petéquia",
+          "correta": false,
+          "justificativa": "A petéquia não desaparece à vitropressão, pois há extravasamento de sangue.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula (continuação), p. 86–88"
+        },
+        {
+          "texto": "Melanose",
+          "correta": false,
+          "justificativa": "A melanose é pigmentação por melanina, do castanho ao enegrecido; não é a mancha vascular avermelhada descrita.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula (continuação), p. 86–88"
+        },
+        {
+          "texto": "Eritema (enantema)",
+          "correta": true,
+          "justificativa": "Mancha vermelha vascular que some à vitropressão é eritema; na mucosa chama-se enantema, como nas estomatites medicamentosas.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        },
+        {
+          "texto": "Pápula",
+          "correta": false,
+          "justificativa": "A pápula é uma elevação; a mucosa descrita não tem relevo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Formações sólidas, p. 86–88"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Mancha ou mácula, p. 85",
+      "secao": "macula-vasculares",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Um paciente com herpes simples recorrente chega ao consultório e mostra lesões já rompidas, em vez das vesículas que lembra ter visto no início. Por que isso é esperado, segundo o capítulo?",
+      "alternativas": [
+        {
+          "texto": "Porque a vesícula só surge na pele, nunca na mucosa",
+          "correta": false,
+          "justificativa": "O capítulo cita o herpes simples recorrente entre as infecções que causam vesículas.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Porque na boca as vesículas rompem logo, pelo trauma da fala, da alimentação e da deglutição, e viram ulcerações",
+          "correta": true,
+          "justificativa": "O período fugaz dessas lesões na mucosa bucal é causado por esses traumatismos constantes, que deixam lesões secundárias ulceradas.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Porque vesículas virais evoluem sempre para nódulos",
+          "correta": false,
+          "justificativa": "Ao se romper, a vesícula origina úlcera ou ulceração, segundo o capítulo.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Coleções líquidas, p. 86–88"
+        },
+        {
+          "texto": "Porque a vesícula desaparece por vitropressão",
+          "correta": false,
+          "justificativa": "A vitropressão é teste das manchas vasculares, não explica o desaparecimento da vesícula.",
+          "fonte": "marcucci3-cap6",
+          "onde": "cap. 6, Mancha ou mácula, p. 85"
+        }
+      ],
+      "fonte": "marcucci3-cap6",
+      "onde": "cap. 6, Coleções líquidas, p. 86–88",
+      "secao": "liquidas",
+      "figura": null
+    }
+  ]
+}

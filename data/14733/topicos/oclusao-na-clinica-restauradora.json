@@ -1,0 +1,670 @@
+{
+  "slug": "oclusao-na-clinica-restauradora",
+  "titulo": "Oclusão na clínica restauradora: contatos, guias e ajuste das restaurações",
+  "area": "Prótese",
+  "origem": "Okeson 8ª ed., caps. 5 e 20; Pegoraro 2ª ed., caps. 2 e 11; Shillingburg 4ª ed., caps. 2 e 21",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "okeson8",
+      "ref": "Okeson JP. Tratamento dos Distúrbios Temporomandibulares e Oclusão. 8ª ed. Guanabara Koogan (GEN), 2021. Cap. 5, Critérios para uma Oclusão Funcional Ideal (pp. 83–95); cap. 20, Considerações Restauradoras na Terapia Oclusal (pp. 470–481). Páginas conforme a edição digital.",
+      "curta": "Okeson 8ª ed., caps. 5 e 20"
+    },
+    {
+      "id": "pegoraro2013",
+      "ref": "Pegoraro LF et al. Prótese Fixa: bases para o planejamento em reabilitação oral. 2ª ed. Artes Médicas, 2013. Cap. 2, Patologias oclusais e disfunções temporomandibulares: considerações relacionadas a prótese fixa e reabilitação oral (Conti), pp. 51–71; cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), pp. 425–430 (ajustes oclusais).",
+      "curta": "Pegoraro 2ª ed., caps. 2 e 11"
+    },
+    {
+      "id": "shillingburg2012",
+      "ref": "Shillingburg HT et al. Fundamentals of Fixed Prosthodontics. 4ª ed. Quintessence, 2012 (edição original em inglês). Cap. 2, Fundamentals of Occlusion, pp. 13–24; cap. 21, Cementation and Bonding, pp. 392–394 (ajuste oclusal da restauração).",
+      "curta": "Shillingburg 4ª ed., caps. 2 e 21"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "mee-rc-okeson",
+      "titulo": "A posição da mandíbula: RC e posição musculoesquelética estável (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87",
+      "texto": "O Okeson avisa que o estudo da oclusão ainda não respondeu qual configuração é a melhor. Os critérios do capítulo são **metas de tratamento** para quando o clínico altera a oclusão (eliminar um distúrbio ou restaurar uma dentição mutilada). Não são exigência para que todo paciente seja saudável.\n\n**Onde a força cai.** Quando os elevadores (masseter, pterigóideo medial e temporal) fecham a mandíbula, a força chega ao crânio em três áreas: as duas articulações temporomandibulares (ATMs) e os dentes. As três precisam ser examinadas.\n\n**RC é a posição musculoesquelética estável (MEE).** Definições antigas de relação cêntrica (RC) falavam em côndilos na posição mais retruída. O livro descreve a MEE como côndilos na posição mais superoanterior nas fossas, apoiados nas vertentes posteriores das eminências, com os discos corretamente interpostos, e diz que \"a RC e a posição musculoesquelética estável (MEE) são as mesmas\".\n\n**Quem estabiliza a articulação** são os músculos elevadores, não o disco. O teto da fossa é fino atrás e espesso na frente, onde a eminência suporta carga.\n\n**Por que não forçar a mandíbula para trás:** a posição retruída leva força aos tecidos retrodiscais, muito vascularizados e inervados, e pode causar dor e dano. O livro aconselha não empurrar a mandíbula para posterior e preferir a orientação, bilateral ou pela própria musculatura.\n\n**Posições que o livro não aceita como ideais:**\n- côndilo para baixo e para a frente na eminência: exige contração dos pterigóideos laterais inferiores (posição que depende de músculo e não é a MEE);\n- posição de repouso obtida por estimulação elétrica dos elevadores (odontologia neuromuscular), por três razões: ela fica quase sempre para baixo e para a frente; a força máxima dos elevadores ocorre com os dentes separados 4 a 6 mm, e aumentar a dimensão vertical aumentaria as forças; e a posição da mandíbula muda com a posição da cabeça.\n\n**Conclusão do livro:** a posição mais superior e anterior do côndilo é a mais saudável ortopedicamente e é reprodutível. A controvérsia sobre qual posição é a mais fisiológica continua, mas o clínico deve tratar numa posição ortopédica estável."
+    },
+    {
+      "id": "contatos-axiais-okeson",
+      "titulo": "Contatos simultâneos e carga axial (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89",
+      "texto": "A MEE da articulação só se mantém em harmonia com uma **condição oclusal estável**. Se o fechamento é instável, o sistema neuromuscular age para achar outra posição. Os músculos aplicam nos dentes uma força muito maior que a necessária para a função.\n\n**Os três pacientes do livro:**\n1. Só os primeiros molares de um lado contatam. São os únicos stops, com cerca de 20 kg de força na função. A mandíbula gira usando esses dentes como fulcro: posição instável, com risco de colapso de articulações, dentes e suporte.\n2. Os quatro primeiros molares, dos dois lados: situação mais favorável, com os mesmos cerca de 20 kg divididos entre mais dentes (o livro dá cerca de 10 kg por dente).\n3. Os quatro primeiros molares e os quatro segundos pré-molares em contato simultâneo e uniforme: a força se reparte ainda mais (o livro conta por pares de dentes: cerca de 5 kg em cada dente).\n\n**Conclusão:** no fechamento, a oclusão ideal é o contato **simultâneo e homogêneo de todos os dentes possíveis**, com os côndilos na MEE. Nesse trecho o Okeson usa máxima intercuspidação habitual (MIH) para a posição dos dentes, diz que a MEE (RC) coincide com ela e chama isso de estabilidade ortopédica. Em outros trechos ele usa posição de intercuspidação (PIC).\n\n**Simultâneo não basta: conta a direção da força.**\n- O osso não tolera pressão. O ligamento periodontal converte a pressão em tração, que o osso aceita.\n- Força pelo longo eixo (vertical) é bem dissipada. Contato em **vertente** gera componente horizontal: inclina o dente, comprime e traciona áreas do ligamento e pode causar resposta patológica no osso ou um reflexo neuromuscular de evitar o contato.\n\n**Carga axial** se obtém de dois modos:\n- ponta de cúspide contra superfície plana perpendicular ao longo eixo (borda de crista marginal ou fundo de fossa);\n- tripoidização, ou tripoidismo (cap. 5, p. 89; o cap. 20 usa tripoidismo): cada cúspide se opõe a uma fossa e faz três contatos ao redor da ponta de cúspide."
+    },
+    {
+      "id": "guia-lateral-okeson",
+      "titulo": "Guia canina e função em grupo (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Quantidade de força aplicada aos dentes e Contatos funcionais laterotrusivos, pp. 89–91",
+      "texto": "Nos movimentos excêntricos os dentes contatam e surgem forças horizontais, mal aceitas pelas estruturas de suporte e pelo sistema neuromuscular. Qual dente deve recebê-las?\n\n**Analogia do quebra-nozes.** A noz dura fica perto do fulcro. No sistema mastigatório o fulcro é a ATM: a força é maior nos posteriores (perto dela) do que nos anteriores. Por isso o livro conclui que as forças horizontais prejudiciais devem ir para os **anteriores**, mais distantes do fulcro.\n\n**Caninos.** Têm raízes mais longas e largas (melhor proporção coroa/raiz), osso compacto denso ao redor e menor atividade dos músculos da mastigação quando contatam nos excêntricos. Na laterotrusão, canino superior e inferior contatam, dissipam a força horizontal e desocluem os posteriores: é a **guia canina** (guia de desoclusão nos caninos).\n\n**Função em grupo.** Segundo Panek et al., citados pelo livro, só cerca de 26% da população geral tem guia canina bilateral. A alternativa mais favorável é a função em grupo: vários dentes do lado de trabalho (laterotrusivo) em contato na laterotrusão. A mais desejável reúne o canino, os pré-molares e, às vezes, a cúspide mesiovestibular do primeiro molar. Contato laterotrusivo mais posterior que isso não é desejável, porque a força cresce perto do fulcro. O livro relata função em grupo em 41% das pessoas de 20 a 30 anos e em 68% das de 50 a 60 anos, o que provavelmente reflete o desgaste dos caninos.\n\n**Quais cúspides.** Na laterotrusão, contatos entre cúspides vestibulares são mais desejáveis que entre linguais.\n\n**Condição das duas guias:** tanto a guia canina quanto a função em grupo devem **desocluir imediatamente o lado mediotrusivo** (lado de balanceio)."
+    },
+    {
+      "id": "mediotrusivo-protrusivo-okeson",
+      "titulo": "Contatos mediotrusivos e protrusivos (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92",
+      "texto": "**Contato mediotrusivo (lado de balanceio).** O livro diz que esses contatos podem ser destrutivos, pela quantidade e pela direção das forças sobre a articulação e os dentes. Em estudos de eletromiografia, contatos dentários são inibitórios por natureza, mas os contatos mediotrusivos posteriores aumentam a atividade muscular (o motivo não está esclarecido; o livro remete ao cap. 7).\n\n**A razão principal contra o contato mediotrusivo** é a estabilidade da articulação. Com a guia do lado de trabalho, o côndilo do lado oposto fica bem apoiado. Se existe um contato mediotrusivo forte o bastante para desocluir a guia do lado de trabalho, a relação mandibular fica muito instável: o contato mediotrusivo passa a ser o fulcro, e a musculatura pode deslocar (luxar) o côndilo do lado de trabalho. Nem todo contato mediotrusivo causa essa preocupação. Preocupam os que desocluem a guia do lado de trabalho, sobretudo em bruxismo intenso.\n\n**Protrusão.** Os anteriores devem contatar e desocluir os posteriores. Contatos posteriores na protrusão impõem forças desfavoráveis, pela quantidade e pela direção.\n\n**Anteriores no fechamento.** Os anteriores superiores são vestibularizados em relação à direção de fechamento e não suportam carga axial. Contatos anteriores pesados no fechamento empurram os dentes para vestibular, em leque, e abrem diastemas. Isso é comum quando se perde o suporte posterior (colapso posterior da mordida)."
+    },
+    {
+      "id": "mutuamente-protegida-okeson",
+      "titulo": "Oclusão mutuamente protegida, postura e os cinco critérios (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Oclusão mutuamente protegida, Considerações posturais e Resumo da oclusão funcional ideal, pp. 92–93",
+      "texto": "**Oclusão mutuamente protegida.** Os posteriores funcionam melhor para **parar** a mandíbula no fechamento, e os anteriores funcionam melhor para **guiá-la** nos excêntricos. Quando os dentes estão em intercuspidação, os posteriores devem ter contato ligeiramente mais forte que os anteriores.\n\n**Postura e posição da cabeça.** A posição postural é a mantida na inatividade, geralmente 2 a 4 mm abaixo da posição de intercuspidação, e depende da posição da cabeça.\n- Cabeça ereta ou na posição alerta de alimentação (cabeça para a frente, cerca de 30°): os posteriores devem contatar mais forte que os anteriores.\n- Paciente reclinado na cadeira: a mandíbula assume postura ligeiramente posterior. Avalie os contatos também na posição alerta de alimentação.\n- Se nessa posição a mandíbula assume postura ligeiramente anterior, surgem contatos anteriores pesados. Os anteriores devem ter contatos reduzidos até os posteriores contatarem mais forte (o \"envelope anterior de função\"). Em coroas de porcelana anteriores, não reconhecer isso pode levar à fratura.\n\n**Resumo do capítulo: a oclusão funcional ideal em cinco critérios**\n1. Boca fechada: côndilos na MEE, com contatos homogêneos e simultâneos de todos os posteriores. Os anteriores também contatam, mais leve que os posteriores.\n2. Todos os contatos exercem carga axial.\n3. Na laterotrusão, guias adequadas no lado de trabalho desocluem imediatamente o lado mediotrusivo. A guia mais desejável é a dos caninos.\n4. Na protrusão, guias adequadas nos anteriores desocluem imediatamente todos os posteriores.\n5. Em cabeça ereta e posição alerta de alimentação, os contatos posteriores são mais fortes que os anteriores.\n\nO livro diz que são as condições mais favoráveis à estabilidade ortopédica e menos patogênicas para o maior número de pacientes, por um período longo."
+    },
+    {
+      "id": "restauracao-principios-okeson",
+      "titulo": "Restaurar é mexer na oclusão: objetivos (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Considerações Restauradoras na Terapia Oclusal, abertura, Objetivos do tratamento e Alcance dos objetivos, pp. 470–471",
+      "texto": "**Quase todo procedimento restaurador mexe na oclusão.** Até uma restauração de amálgama com excesso ou falta de material pode ter efeito significativo. Mudanças pequenas e lentas desestabilizam a oclusão sem o paciente perceber, até surgirem interferências importantes. Mudanças abruptas são sentidas logo e resolvidas cedo. Como restaurar acrescenta e subtrai superfície, o livro diz que se pode obter mais mudança oclusal restaurando do que com o desgaste seletivo.\n\n**Dois tipos de restauração:** operatórias (feitas e acabadas na boca, como amálgama e resina composta) e protéticas fixas (feitas fora da boca e cimentadas: inlays, onlays, coroas, prótese parcial fixa, PPF). Os objetivos são de dois grupos: **contatos dentários** e **posição mandibular**.\n\n**Contatos nos posteriores**\n- dar estabilidade aos antagonistas e aos dentes adjacentes, sem migração nem erupção;\n- ocluir de modo simultâneo e harmonioso com os contatos posteriores existentes;\n- dirigir as forças pelo longo eixo.\nEsculpir vertentes recíprocas é difícil, e sem reciprocidade pode haver instabilidade. O livro prefere esculpir ponta de cúspide contra superfície plana.\n\n**Contatos nos anteriores**\n- no fechamento, menos força que nos posteriores;\n- nos excêntricos, guiar a mandíbula e desocluir os posteriores;\n- na posição alerta de alimentação, sem contato proeminente.\n\n**Posição mandibular.** Sem distúrbio funcional, as restaurações operatórias costumam ser feitas em máxima intercuspidação (PIC, no texto do livro). Com distúrbio funcional, o melhor costuma ser resolvê-lo antes. Se a condição oclusal é o fator etiológico principal, conclua antes o desgaste seletivo, quando viável, para restaurar sobre uma relação oclusal sólida.\n\n**Antes de começar,** registre os contatos existentes: modelos de estudo ou o paciente mordendo papel-carbono. Saber onde estão os contatos ajuda a restabelecê-los."
+    },
+    {
+      "id": "restauracao-direta-okeson",
+      "titulo": "Amálgama, resina posterior e resina anterior (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472",
+      "texto": "**Posteriores (amálgama e resina composta).** Acertar o contato por tentativa e erro é difícil. Amálgama muito alto tende a fraturar e ser trocado, por isso há tendência de remover um pouco mais na escultura. O resultado imediato pode parecer bom, mas a condição costuma ser instável: o dente antagonista migra ou erupciona até achar novos contatos, e podem surgir relações indesejáveis, como um contato mediotrusivo (Fig. 20.1).\n\n**A restauração deve ser esculpida em oclusão, e não fora dela.**\n1. Antes do preparo, o paciente morde suavemente papel-carbono, o que mostra a localização e a extensão dos contatos.\n2. A área de amálgama oposta a uma ponta de cúspide cêntrica é esculpida **plana** (crista marginal ou fossa central, conforme o local).\n3. Quando a restauração contata suave e simultaneamente (ponta de cúspide e superfícies planas), avaliam-se os excêntricos com papel-carbono de **outra cor**.\n4. Na maioria dos casos o amálgama não guia movimentos mandibulares, então o contato excêntrico é eliminado por completo. Os mesmos princípios valem para resina composta posterior.\n\n**Resina anterior: sequência de ajuste**\n1. Esculpa e polia no contorno original (a morfologia do dente é a guia inicial).\n2. **Fechamento:** contatos pesados são detectados com os dedos nas faces vestibulares enquanto o paciente fecha: se o dente vibra, há frêmito. Desgaste até os dedos não perceberem deslocamento.\n3. **Excêntricos:** protrusão, laterotrusão e lateroprotrusões. O movimento deve ser suave e sem restrição, com a superfície lisa. Se a escultura ou o polimento em excesso deixou fragmento ou falha na margem, substitua a restauração.\n4. **Posição alerta de alimentação:** desgaste os contatos pesados dos anteriores até os posteriores ficarem mais proeminentes.\n\n**Nota do livro sobre o fechamento:** se a posição desejada é a PIC, um movimento posterior a ela geralmente é possível. A nova restauração não deve criar interferência no limite posterior. Se o primeiro contato ao fechar em RC cair na restauração, desgaste-a para não alterar o padrão original de RC. Sem problema funcional, esse padrão é aceitável e não deve ser alterado."
+    },
+    {
+      "id": "ppf-posicao-okeson",
+      "titulo": "Prótese fixa: em que posição mandibular restaurar (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473",
+      "texto": "Na prótese fixa a restauração é feita fora da boca, o que evita as limitações de visão, acesso e saliva. Com articulador bem usado ela sai precisa, e os ajustes finais são feitos na boca.\n\n**A posição mandibular depende de duas coisas:** haver ou não distúrbio funcional e a extensão do tratamento.\n\n**Com distúrbio funcional.** Examine com detalhe antes de qualquer procedimento protético e resolva o distúrbio primeiro. Se, pela terapia oclusal reversível, a condição oclusal é fator etiológico, faz-se desgaste seletivo para obter condição oclusal estável na posição desejada (RC). Depois, as próteses fixas estabilizam essa condição.\n\n**Sem distúrbio funcional, a extensão manda:**\n- **restauração pequena** (por exemplo, uma coroa unitária): faça em harmonia com a oclusão existente, em PIC e com as guias de desoclusão que já existem. O livro acha difícil justificar trocar toda a oclusão por outra considerada mais favorável quando o sistema funciona sem dificuldade;\n- **PPF extensa:** use a **RC**, independentemente da aparente tolerância à PIC.\n\n**Duas razões para a RC na PPF extensa**\n1. A PIC é determinada pelos contatos dentários. No preparo esses contatos são eliminados e a PIC original se perde. Pode-se criar uma nova, mas não há evidência de que seja tolerada do mesmo modo. Perdida a PIC, o mais aceitável é tomar a posição musculoesquelética estável do côndilo como referência.\n2. A RC é reprodutível, o que ajuda a obter uma condição oclusal precisa.\n\n**Sobre a disfunção temporomandibular (DTM).** A prevenção de DTM não está documentada (cap. 17). Como não se pode prever quem a desenvolverá, com alteração oclusal grande e perda do contato original parece lógico usar a posição mandibular mais estável.\n\n**Visão da boca toda.** Mesmo com uma só restauração indicada, considere a saúde geral da boca. Se ela vai precisar de PPF mais extensas, comece já a primeira na RC, para que todas as seguintes sejam feitas na mesma posição."
+    },
+    {
+      "id": "ppf-guia-anterior-okeson",
+      "titulo": "Prótese fixa: primeiro a guia anterior (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475",
+      "texto": "**Sequência do planejamento:** desenvolva primeiro os **contatos anteriores**. Quando os anteriores dão uma guia aceitável nos excêntricos, os posteriores são feitos em harmonia com ela. Antes de iniciar, avalie se a guia anterior é adequada, isto é, se desocluiria os posteriores.\n\n**Guia adequada.** Mesmo com indicação de restaurar, os anteriores muitas vezes têm morfologia e função adequadas. O preparo desgasta os dentes e a guia se desfaz. Uma guia nova e arbitrária costuma ser menos tolerada: com ângulo menos inclinado pode não desocluir durante todo o movimento, e muito inclinado restringe o movimento e compromete a função muscular. A solução é preservar as características exatas da guia e registrá-la numa **mesa incisal personalizada** no articulador semiajustável:\n1. com os modelos de estudo montados, levante o pino incisal cerca de 1 mm da mesa e coloque um pouco de resina acrílica autopolimerizável na mesa;\n2. oclua o modelo inferior e mova-o lentamente, enquanto a resina polimeriza, em trabalho direito, trabalho esquerdo e protrusão;\n3. confira se o pino contata a resina em todos os movimentos com os anteriores em contato. Se faltar contato, reembase com resina nova.\nCom os troquéis montados e movidos pelas excursões, o pino reproduz a guia original nas novas restaurações.\n\n**Guia inadequada** (dentes ausentes, desalinhados ou destruídos). Os anteriores precisam ser alterados. A mesa feita dos modelos originais só duplicaria a guia inadequada. Use restaurações provisórias para dar estética e guia, observe o paciente por semanas ou meses e, quando a guia for aceita, faça a mesa com os contornos da provisória. Outro método é o enceramento diagnóstico nos modelos montados. Nem toda guia inadequada se resolve só com prótese fixa: ortodontia ou cirurgia ortognática podem ser consideradas."
+    },
+    {
+      "id": "ppf-posteriores-okeson",
+      "titulo": "Prótese fixa: contatos dos posteriores, tripoidismo e ponta de cúspide (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos posteriores, pp. 473–476",
+      "texto": "**Posteriores, com a guia anterior adequada.** Eles só contatam no fechamento, não nos excêntricos, e devem dar estabilidade dirigindo as forças pelo longo eixo. Dois métodos, ambos de carga axial:\n- **tripoidismo:** cada cúspide cêntrica com três contatos ao redor da ponta, igualmente distribuídos (10 a 12 contatos por restauração de molar). É difícil obter e manter na confecção e na cimentação: se faltar um ou dois contatos, a reciprocidade se perde e a estabilidade do dente pode ficar ameaçada. É mais indicado quando a guia é imediata e os antagonistas podem ser controlados, como na reconstrução total;\n- **ponta de cúspide contra superfície plana:** mais fácil. Se um contato se perde, os restantes ainda dão estabilidade, e a fossa pode ser alargada para eliminar contato excêntrico.\nO livro conclui que o segundo método é mais prático e amplamente aplicável e que os dois podem ser usados no mesmo dente."
+    },
+    {
+      "id": "ajuste-boca-okeson",
+      "titulo": "Ajuste da restauração protética na boca (Okeson)",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481",
+      "texto": "O padrão oclusal é construído no articulador, que **não reproduz o paciente com exatidão**. Esteja preparado para ajustar na boca.\n\n**Sequência**\n1. **Proximais e margens primeiro,** depois a oclusão.\n2. O paciente fecha na posição desejada e você observa os dentes adjacentes. Se há espaço grande demais entre a restauração e os vizinhos em oclusão, provavelmente haverá desgaste extenso.\n3. Papel-carbono **vermelho** entre os dentes secos. Desgaste as áreas de contato mais fortes, mantendo a forma desejada (superfície plana e ponta de cúspide). O ajuste em máxima intercuspidação está pronto quando um carbono de 0,0127 mm de espessura (valor do livro) fica preso entre os dentes adjacentes ao fechar. O paciente dá informação valiosa sobre o contato, sobretudo quando a anestesia está bem dosada. Outra fonte trata do papel do paciente neste ajuste: ver a seção «Ajuste oclusal da prótese em MIH (Pegoraro)».\n4. **Deslize RC–PIC.** Se a restauração foi feita em PIC, leve a mandíbula à RC e avalie o deslize. A nova restauração não deve alterar o deslize que já existia. Se criou contatos em RC, elimine-os. Se foi feita em RC, só restam refinamentos.\n5. **Excêntricos.** Depois de ajustada a posição de fechamento, avalie laterotrusão direita, esquerda e protrusão pura com papel-carbono **azul** entre dentes secos, partindo do fechamento em PIC. Para os contatos mediotrusivos aparecerem, guie a mandíbula com força extraoral no lado mediotrusivo, para o reflexo protetor não impedi-los. Depois use o vermelho e feche de novo em PIC. Quando a guia anterior está presente, as marcas azuis são eliminadas. Se for preciso guia lateral em certos posteriores, identifique os contatos de guia desejados e elimine as demais marcas azuis.\n\n**Nem toda DTM se resolve restaurando.** Antes, confirme que a condição oclusal contribui ou que a oclusão precisa mudar para restaurar a função. Em caso de dúvida, use modelos e enceramento diagnóstico. Se o alinhamento dos dentes impede o sucesso, considere ortodontia ou cirurgia ortognática. Com mais dentes ausentes, prótese removível ou implantes."
+    },
+    {
+      "id": "posicoes-pegoraro",
+      "titulo": "Posições maxilomandibulares, oclusão ideal e contato prematuro (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 2, Patologias oclusais e disfunções temporomandibulares (Conti), pp. 52, 54 e 55",
+      "texto": "**RC, MIH e ORC (os termos do Pegoraro)**\n- **RC** (relação cêntrica, também chamada posição de estabilidade ortopédica): côndilos centralizados nas fossas, apoiados nas vertentes posteriores das eminências, com discos interpostos. É posição condilar e não depende dos dentes.\n- **MIH** (máxima intercuspidação habitual): o maior número de contatos entre superiores e inferiores, qualquer que seja a posição condilar. Também é chamada posição de oclusão cêntrica ou de intercuspidação. Muda quando se restaura.\n- RC e MIH costumam não coincidir: em RC restam em geral um ou dois contatos, os **contatos deflectivos**. Quando coincidem, tem-se a **ORC** (oclusão em relação cêntrica).\nOutra fonte usa outros nomes para as mesmas ideias: ver a seção «A posição da mandíbula: RC e posição musculoesquelética estável (Okeson)».\n\n**Oclusão ideal na reconstrução.** O livro aceita a \"oclusão fisiológica\", que tolera pequenos desvios sem tratamento profilático. A reconstrução oclusal extensa, porém, deve incorporar as características da oclusão ideal: forças no longo eixo dos posteriores, contatos posteriores bilaterais e simultâneos no fechamento final, dimensão vertical adequada e guias lateral e anterior que tirem os posteriores de contato nos excursivos. A maioria dos autores aconselha incorporar a oclusão mutuamente protegida em PPF. RC coincidente com MIH é necessária quando não há estabilidade oclusal entre os remanescentes, e a RC serve de ponto de partida para a posição intermaxilar. Procedimentos irreversíveis com fim preventivo na dentição natural são contraindicados."
+    },
+    {
+      "id": "contato-prematuro-pegoraro",
+      "titulo": "Contato prematuro × interferência e limites do ajuste (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 2, Patologias oclusais e disfunções temporomandibulares (Conti), pp. 55 e 71",
+      "texto": "**Contato prematuro × interferência**\n- **Contato prematuro** é um termo genérico para qualquer contato que impede prematuramente o fechamento na MIH ou na RC ou nos excursivos. Cerca de 90% da população é livre de sinal ou sintoma de trauma oclusal e apresenta contatos prematuros em RC, que não devem ser considerados interferências.\n- **Interferência** é o contato que interfere na função ou na parafunção. Para tratar, é preciso alguma evidência de dano ao sistema.\n- Causas do contato prematuro: naturais (crescimento, erupção), adquiridas (restaurações, prótese, ortodontia) ou disfuncionais (patologia muscular da ATM). Ele pode ser consequência de DTM, e o ajuste oclusal não é indicado na fase aguda.\n\n**Limites do ajuste.** O livro pede considerar que a interferência pode ser consequência, e não causa, da DTM; procedimentos irreversíveis não devem fazer parte da terapia de grande parte das DTM. Aumentam o risco de DTM (sem garanti-la): diferença MIH–RC maior que 4 mm, mordida aberta anterior, sobressaliência horizontal maior que 6 a 7 mm, mordida cruzada unilateral e cinco ou mais dentes posteriores ausentes."
+    },
+    {
+      "id": "guias-pegoraro",
+      "titulo": "Guia canino, função em grupo e protrusiva (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 2, Patologias oclusais e disfunções temporomandibulares (Conti), pp. 52, 54 e 55; cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, pp. 427–429",
+      "texto": "Na lateralidade, os posteriores podem ser desocluídos só pelo canino (**guia canino**; o livro situa a desoclusão pelos caninos na oclusão mutuamente protegida) ou pelo canino com os posteriores de modo uniforme (**função em grupo**). Lado de trabalho e lado de balanceio (não trabalho) são definidos pelo lado para onde a mandíbula se move.\n\n| | Guia canino | Função em grupo |\n|---|---|---|\n| Início da lateral | só os caninos se tocam (sobre os demais dentes, ver abaixo) | contatos entre as cúspides vestibulares de pré-molares e molares do mesmo lado, com ou sem o canino |\n| Lado de balanceio | sem contato | sem contato |\n| Dificuldade | mais simples de executar e de ajustar | mais difícil de ajustar |\n| Quando | preferida sempre que possível; melhor opção para PPF pela facilidade técnica | canino mal posicionado ou periodonto que desaconselha a guia canino |\n\n**Contato dos demais dentes no início da lateral.** O texto do cap. 11 (p. 428) diz que outros anteriores podem manter contato, mas nenhum posterior. A legenda da Fig. 2.2 (cap. 2, p. 54) diz que não deve haver contato entre os demais dentes anteriores e posteriores.\n\nO canino é o dente mais indicado para a desoclusão (posição anterior, raiz volumosa e grande ligamento periodontal). A desoclusão pelos caninos é um dos pilares da gnatologia, pode ser aplicada nos diferentes tipos de reconstrução (total, removível, fixa, sobre implantes e placas) e é o tipo mais comum na dentição natural. Ao ajustar, a desoclusão mínima é de **1 a 2 mm** nos movimentos laterais. O livro chama de \"levantamento pelos caninos\" a separação exagerada entre os posteriores (como em alguns movimentos ortodônticos ou na Classe II divisão 2), com danos ao disco discutíveis, mas possíveis."
+    },
+    {
+      "id": "protrusiva-pegoraro",
+      "titulo": "Protrusiva: guia dos anteriores (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade e protrusiva, pp. 429–430",
+      "texto": "Na protrusiva:\n- os anteriores desocluem os posteriores;\n- distribua os esforços pelo maior número possível de anteriores, no mínimo os dois incisivos centrais superiores (mais longos). Os laterais devem ser poupados de cargas acentuadas em lateral e protrusão;\n- ao fim do movimento, contatos uniformes e simultâneos nas bordas incisais;\n- o incisivo superior sofre com mais frequência os efeitos de uma protrusiva mal distribuída, principalmente pela inclinação muito acentuada no alvéolo (20 a 30°), comparada à do inferior (5 a 10°), que recebe os esforços mais axialmente;\n- se todo o segmento anterior é reconstruído, a concavidade palatina superior deve ter inclinação igual ou até 10° maior que a vertente posterior da eminência. Para transferir isso ao articulador, usa-se o guia incisal personalizado;\n- incisivo com coroa sobre dente tratado endodonticamente tem mais risco de fratura quando a protrusiva está mal distribuída."
+    },
+    {
+      "id": "ajuste-pegoraro",
+      "titulo": "Ajuste oclusal da prótese em MIH (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426",
+      "texto": "**1. Escolha a posição de escultura:** MIH ou ORC.\n\n**2. Em MIH**\n- isole com roletes e observe o grau de separação dos dentes naturais;\n- ajuste dente a dente com fita articular de cerca de 1 cm, fina o bastante para detectar contato leve. Evite fita que cubra só um hemiarco, porque o paciente \"ajuda\" a morder;\n- use um dente de contato como referência. Os contatos mais intensos são desgastados primeiro;\n- o fim do ajuste são contatos **estáveis, uniformes e simultâneos**, idealmente puntiformes, distribuídos para transmissão axial. O livro diz que falta de cuidado aqui é a principal causa de fratura da cerâmica algum tempo depois da instalação.\n\n**3. Nas fases finais, em MIH,** verifique a RC por manipulação bilateral e elimine os contatos prematuros da prótese. Contatos que levam de RC para MIH e que o paciente já tolera não causaram distúrbio até agora.\n\n**4. O paciente não é a pessoa mais apropriada para julgar o ajuste.** Os limiares de tolerância variam, e pressa e cansaço levam a aceitar um ajuste aquém do ideal. Outra fonte trata do papel do paciente neste ajuste: ver a seção «Ajuste da restauração protética na boca (Okeson)».\n\n**5. Paciente que se queixa de contato prematuro ao mastigar depois de um ajuste bem feito** (o livro diz que é mais raro): a mastigação é predominantemente unilateral e lateroprotrusiva, posição diferente da usada no ajuste. Marque os contatos de MIH na coroa em **preto** e procure o contato interferente em **vermelho**; o ponto a desgastar é o que tem apenas a marca vermelha. Depois do ajuste pode ser preciso esculpir de novo a anatomia oclusal, com pontas diamantadas finas."
+    },
+    {
+      "id": "ajuste-pegoraro-excursoes",
+      "titulo": "Ajuste em ORC, lateralidade, balanceio e protrusiva (Pegoraro)",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), ORC, Ajustes em lateralidade, Desoclusão canina, balanceio, protrusiva e ajuste fonético, pp. 427–430",
+      "texto": "**6. Em ORC:** ajuste com fitas, como em MIH. Em PPF extensa ou reabilitação oral, mantenha a dimensão vertical de oclusão com as provisórias de um hemiarco como parâmetro e ajuste a prótese na mesma posição de ORC em que o paciente já funciona.\n\n**7. Lateralidade.** Deve haver desoclusão mínima de 1 a 2 mm, com desgaste preferencialmente nas vertentes triturantes das cúspides não funcionais (vestibulares superiores e linguais inferiores), para não eliminar os contatos de MIH.\n\n**8. Balanceio.** O contato de balanceio fica em cúspides de contenção cêntrica. Desgaste a cúspide mal posicionada. Se as duas estão bem posicionadas, desgaste a palatina, pois a vestibular é a mais importante no ciclo mastigatório. Para não deixar contatos de balanceio indesejáveis, confie na fita evidenciadora e não no paciente.\n\n**9. Protrusiva.** Os anteriores desocluem os posteriores, com os esforços divididos entre os dois incisivos centrais superiores, no mínimo.\n\n**10. Ajuste fonético.** O ajuste feito a partir das provisórias raramente exige grandes mudanças. Observe se as bordas dos centrais repousam na linha seco-molhada nos sons \"f\" e \"v\" e se há pelo menos 1 a 2 mm de borda incisal visível em pessoas jovens, com os lábios em repouso.\n\n**Alerta:** deixar a prótese em infraoclusão à espera de que o antagonista extruia é descrito como prática, mas, em implantes ou sem extrusão, a mastigação não é efetiva e há sobrecarga.\n\nOutra fonte descreve o ajuste da coroa com outras marcações: ver a seção «Ajuste da coroa na boca: shim stock, desvio e supercorreção (Shillingburg)»."
+    },
+    {
+      "id": "oclusao-shillingburg",
+      "titulo": "Relação cêntrica, interferências e guia dos anteriores (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 2, Fundamentals of Occlusion, Centric relation e Occlusal interferences, pp. 13 e 17–18",
+      "texto": "Esta seção traz o que a edição em inglês do Shillingburg diz no capítulo de fundamentos.\n\n**Relação cêntrica (centric relation).** Na restauração, os contatos posteriores devem estabilizar a mandíbula, e não criar contatos deflectivos. A relação cêntrica é a posição com os côndilos contra a eminência, superior e anteriormente, com o disco interposto: a mais estável do ponto de vista ortopédico. Idealmente coincide com a máxima intercuspidação. O livro descreve conceitos antigos, com o côndilo forçado ao ponto mais retruído, e diz que hoje se pensa que essa posição é frequentemente anormal e forçada.\n\n**Interferência** é um contato oclusal indesejado que pode desviar a mandíbula no fechamento até a máxima intercuspidação ou atrapalhar a passagem até ela e a volta. Quatro tipos:\n- **cêntrica:** contato prematuro no fechamento com os côndilos na posição ótima; desvia a mandíbula para posterior, anterior ou lateral;\n- **de trabalho:** contato entre posteriores do mesmo lado do movimento; é interferência se for pesado o bastante para desocluir os anteriores;\n- **de não trabalho:** contato no lado oposto ao do movimento lateral;\n- **protrusiva:** vertentes distais dos posteriores superiores contra as mesiais dos inferiores na protrusão.\nO livro descreve a de não trabalho como particularmente destrutiva: muda a alavanca mandibular, tira as forças do longo eixo e altera a função muscular. Na protrusiva, o contato entre posteriores é potencialmente destrutivo pela proximidade dos músculos e pelo vetor oblíquo da força, e atrapalha o corte do alimento.\n\n**Guia dos anteriores.** Os anteriores (de canino a canino) ajudam a guiar a mandíbula na lateralidade e na protrusão. Os caninos têm as raízes mais longas e mais fortes da arcada; a carga nos anteriores é reduzida pela distância ao fulcro e por reflexos proprioceptivos."
+    },
+    {
+      "id": "esquemas-shillingburg",
+      "titulo": "Esquemas de oclusão (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20",
+      "texto": "Esta seção continua o capítulo de fundamentos do Shillingburg (edição em inglês).\n\n**Três esquemas de organização da oclusão**\n- **oclusão balanceada bilateral:** máximo de contatos em todas as excursões; hoje usada com menos frequência, mais em prótese total;\n- **oclusão balanceada unilateral, também conhecida como função em grupo:** todos os dentes do lado de trabalho contatam, e o lado de não trabalho fica livre;\n- **oclusão mutuamente protegida** (também protegida pelo canino): os posteriores são desocluídos pelos anteriores em todos os movimentos. A máxima intercuspidação coincide com a posição condilar ótima, todos os posteriores contatam com as forças pelo longo eixo, e os anteriores contatam de leve ou ficam com folga mínima (cerca de 25 µm).\n\nO livro diz que a mutuamente protegida é provavelmente a mais aceita pela facilidade de confecção e pela tolerância dos pacientes, mas exige anteriores periodontalmente sadios. Com perda óssea anterior ou canino ausente, a boca deve provavelmente ser restaurada em função em grupo. Na Classe II e na Classe III de Angle os anteriores não guiam a mandíbula, e o esquema também não serve à mordida cruzada, em que as cúspides vestibulares superiores e inferiores se interferem na excursão do lado de trabalho.\n\nO mesmo livro dá outro valor para a folga dos anteriores no cap. 21 (p. 392): 13 µm, a espessura do shim; ver a seção «Ajuste da coroa na boca: shim stock, desvio e supercorreção (Shillingburg)»."
+    },
+    {
+      "id": "ajuste-shillingburg",
+      "titulo": "Ajuste da coroa na boca: shim stock, desvio e supercorreção (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, ajuste oclusal da restauração, pp. 392–394",
+      "texto": "O passo a passo do Shillingburg está no capítulo de cimentação e descreve o ajuste de restauração de ouro ou metal. A ordem é esta.\n\n**1. Só depois do assentamento completo (p. 392).** Com a restauração removida, o paciente fecha na posição habitual de máxima intercuspidação, e localiza-se um par de dentes vizinhos em que ele segura uma lâmina de **shim stock de 13 µm**. Insere-se a restauração: se ele não consegue mais segurar o shim entre o mesmo par, a coroa está alta na posição intercuspídea.\n\n**2. Desvio mandibular (p. 392; Figs. 21-21 a 21-23 na p. 393).** O paciente fecha com força, tentando fazer todos os dentes se tocarem. Se a mandíbula desvia para o lado da restauração, ajuste a vertente vestibular da cúspide palatina superior ou a vertente lingual da cúspide vestibular inferior (Fig. 21-21). Se desvia para o lado oposto, o livro aponta duas correções possíveis: contato pesado entre a vertente palatina da cúspide vestibular superior e a vertente vestibular da cúspide vestibular inferior (Fig. 21-22), ou contato excessivo entre a vertente palatina da cúspide palatina superior e a vertente vestibular da cúspide lingual inferior (Fig. 21-23).\n\n**3. Papel articular** com a largura da restauração, entre ela e o antagonista. Remova da restauração só as marcas de carbono e repita até não haver desvio e o shim ser segurado entre pares de dentes vizinhos.\n\n**4. Evite a supercorreção.** Uma tira estreita de shim sobre a restauração deve oferecer a mesma resistência ao ser puxada de lado que entre os dentes vizinhos (Fig. 21-24); se segura nos vizinhos e não na peça, ela foi ajustada demais. O livro diz que, idealmente, os anteriores não se tocam na posição cêntrica: ficam sem tocar por uma folga igual à espessura do shim, 13 µm (p. 392). No cap. 2 (p. 20), o mesmo livro dá a folga mínima da oclusão mutuamente protegida como cerca de 25 µm; ver a seção «Esquemas de oclusão (Shillingburg)»."
+    },
+    {
+      "id": "ajuste-shillingburg-excursoes",
+      "titulo": "Ajuste da coroa nas excursões e marcação (Shillingburg)",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, ajuste oclusal da restauração (excursões, protrusiva e marcação), p. 394",
+      "texto": "Continuação do passo a passo do Shillingburg (restauração de ouro ou metal).\n\n**5. Excursões (p. 394).** Com o shim entre a restauração e o antagonista, o paciente fecha e vai ao movimento de não trabalho: o shim deve sair com facilidade; se não sair, troque-o por papel articular e localize o contato.\n- **não trabalho:** elimine as marcas nas vertentes vestibulares das cúspides palatinas superiores e nas vertentes linguais das cúspides vestibulares inferiores;\n- **trabalho** (lado da restauração): elimine os contatos nas vertentes palatinas das cúspides palatinas superiores e nas vertentes vestibulares das cúspides linguais inferiores;\n- **contatos entre a vertente palatina da cúspide vestibular superior e a vertente vestibular da cúspide vestibular inferior** (o texto os traz logo após o lado de trabalho): dependem do esquema. Se a meta é guia canina ou oclusão mutuamente protegida, elimine; se é função em grupo, são desejáveis e se reduzem só até deixarem de desocluir os caninos.\n\n**6. Protrusiva (p. 394).** O paciente fecha sobre o shim em posição retruída e leva a mandíbula à frente; as interferências protrusivas se aliviam nas vertentes distais dos superiores e mesiais dos inferiores. Os anteriores devem mostrar contato nos excursivos, porque ajudam a desocluir os posteriores; sempre que possível, a guia anterior é compartilhada por dois ou mais pares de dentes.\n\n**7. Marcação.** Cera indicadora de oclusão serve para contatos em superfícies lisas (pontos brilhantes, sem cera, indicam contato excessivo). Em dente móvel, apoie a unha no dente vizinho durante as excursões para sentir o movimento.\n\nOutra fonte descreve o ajuste com outras marcações para MIH e balanceio: ver a seção «Ajuste oclusal da prótese em MIH (Pegoraro)»."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Para o Okeson, qual a relação entre RC e posição musculoesquelética estável (MEE)?",
+      "verso": "Ele diz que são a mesma posição: côndilos na posição mais superoanterior nas fossas, apoiados nas vertentes posteriores das eminências, com os discos corretamente interpostos.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+    },
+    {
+      "id": "f02",
+      "frente": "Por que o Okeson não aceita empurrar a mandíbula para a posição mais retruída?",
+      "verso": "A posição retruída leva força aos tecidos retrodiscais, muito vascularizados e inervados, e pode causar dor e dano.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+    },
+    {
+      "id": "f03",
+      "frente": "Como o ligamento periodontal lida com a força de contato, segundo o Okeson?",
+      "verso": "O osso não tolera pressão. O ligamento converte a pressão em tração, que o osso aceita. Força pelo longo eixo é bem dissipada; contato em vertente gera componente horizontal.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+    },
+    {
+      "id": "f04",
+      "frente": "Quais são os dois modos de obter carga axial citados pelo Okeson?",
+      "verso": "Ponta de cúspide contra superfície plana (crista marginal ou fundo de fossa) e tripoidização, ou tripoidismo (cap. 5, p. 89; o cap. 20 usa só tripoidismo): três contatos ao redor da ponta de cúspide.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+    },
+    {
+      "id": "f05",
+      "frente": "Pela analogia do quebra-nozes, por que as forças horizontais devem ir para os anteriores?",
+      "verso": "A força é maior nos dentes perto do fulcro (a ATM), isto é, nos posteriores. Os anteriores ficam mais longe e a chance de dano é menor.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Quantidade de força aplicada aos dentes e Contatos funcionais laterotrusivos, pp. 89–91"
+    },
+    {
+      "id": "f06",
+      "frente": "Que parcela da população tem guia canina bilateral, segundo Panek et al. citados pelo Okeson?",
+      "verso": "Só cerca de 26% da população geral. A alternativa mais favorável, diz o livro, é a função em grupo.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Quantidade de força aplicada aos dentes e Contatos funcionais laterotrusivos, pp. 89–91"
+    },
+    {
+      "id": "f07",
+      "frente": "Por que um contato mediotrusivo forte preocupa o Okeson?",
+      "verso": "Se ele desocluir a guia do lado de trabalho, o contato vira fulcro e a musculatura pode luxar o côndilo do lado de trabalho, sobretudo em bruxismo intenso.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92"
+    },
+    {
+      "id": "f08",
+      "frente": "Onde fica a posição postural da mandíbula e de que ela depende, segundo o Okeson?",
+      "verso": "Geralmente 2 a 4 mm abaixo da posição de intercuspidação, e depende da posição da cabeça.",
+      "fonte": "okeson8",
+      "onde": "cap. 5, Oclusão mutuamente protegida, Considerações posturais e Resumo da oclusão funcional ideal, pp. 92–93"
+    },
+    {
+      "id": "f09",
+      "frente": "Como detectar contato pesado em restauração anterior de resina, segundo o Okeson?",
+      "verso": "Com os dedos nas faces vestibulares enquanto o paciente fecha: se o dente vibra (frêmito), desgaste até não haver deslocamento.",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+    },
+    {
+      "id": "f10",
+      "frente": "O que significa esculpir o amálgama \"em oclusão\"?",
+      "verso": "Usar papel-carbono antes do preparo e esculpir plana a área do amálgama oposta a uma ponta de cúspide cêntrica (crista marginal ou fossa central). Depois, checar os excêntricos com carbono de outra cor.",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+    },
+    {
+      "id": "f11",
+      "frente": "Em qual posição o Okeson manda fazer uma PPF extensa, e por quê?",
+      "verso": "Em RC, independentemente da aparente tolerância à PIC: a PIC se perde com o preparo e não há evidência de que uma nova seja tolerada igualmente; a RC é reprodutível.",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual a ordem do ajuste da prótese na boca, segundo o Okeson?",
+      "verso": "Proximais e margens primeiro; depois a oclusão em PIC (carbono vermelho); depois os excêntricos (carbono azul, partindo da PIC) e de novo o vermelho em PIC.",
+      "fonte": "okeson8",
+      "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481"
+    },
+    {
+      "id": "f13",
+      "frente": "Que parcela da população é livre de sinal de trauma oclusal e apresenta contatos prematuros em RC, segundo o Pegoraro?",
+      "verso": "Aproximadamente 90%. Esses contatos não devem ser considerados interferências.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 2, Patologias oclusais e disfunções temporomandibulares (Conti), p. 55"
+    },
+    {
+      "id": "f14",
+      "frente": "Como o Pegoraro distingue contato prematuro de interferência?",
+      "verso": "Contato prematuro é termo genérico, para qualquer contato que impede o fechamento. Interferência é o que atrapalha a função ou a parafunção, e tratá-la exige alguma evidência de dano ao sistema.",
+      "fonte": "pegoraro2013",
+      "onde": "cap. 2, Patologias oclusais e disfunções temporomandibulares (Conti), p. 55"
+    },
+    {
+      "id": "f15",
+      "frente": "Quais são os quatro tipos de interferência do Shillingburg?",
+      "verso": "Cêntrica, de trabalho, de não trabalho e protrusiva.",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 2, Fundamentals of Occlusion, Centric relation e Occlusal interferences, pp. 13 e 17–18"
+    },
+    {
+      "id": "f16",
+      "frente": "Como o Shillingburg usa o shim stock de 13 µm no ajuste da coroa?",
+      "verso": "Com a restauração removida, o paciente segura o shim entre dois dentes vizinhos em máxima intercuspidação. Se ele já não o segura com a peça no lugar, a coroa está alta.",
+      "fonte": "shillingburg2012",
+      "onde": "cap. 21, Cementation and Bonding, ajuste oclusal da restauração, pp. 392–394"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o Okeson, qual posição do côndilo é a mais saudável do ponto de vista ortopédico e reprodutível?",
+      "alternativas": [
+        {
+          "texto": "A posição mais retruída dos côndilos nas fossas (a posição ligamentar).",
+          "correta": false,
+          "justificativa": "A posição retruída leva força aos tecidos retrodiscais, muito vascularizados e inervados, e pode causar dor e dano; o livro aconselha não forçar a mandíbula para posterior.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+        },
+        {
+          "texto": "Para baixo e para a frente na eminência, com os pterigóideos laterais inferiores contraídos.",
+          "correta": false,
+          "justificativa": "O livro rejeita essa posição como ideal: ela é estabilizada por músculo e não é a posição musculoesquelética estável.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+        },
+        {
+          "texto": "A posição mais superior e anterior nas fossas, com os discos interpostos (MEE, a mesma RC).",
+          "correta": true,
+          "justificativa": "É a conclusão do livro: a posição mais superoanterior é a mais saudável ortopedicamente e reprodutível, e ele diz que RC e MEE são as mesmas.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+        },
+        {
+          "texto": "A posição de repouso obtida por estimulação elétrica dos músculos elevadores.",
+          "correta": false,
+          "justificativa": "O livro critica essa técnica por três razões: a posição fica quase sempre para baixo e para a frente, a força máxima dos elevadores ocorre com os dentes separados 4 a 6 mm e a posição da mandíbula muda com a posição da cabeça.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 5, Critérios para uma Oclusão Funcional Ideal, Posição ideal ortopedicamente estável da articulação, pp. 83–87",
+      "secao": "mee-rc-okeson",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "No raciocínio do Okeson com três pacientes, um deles só tem os primeiros molares de um lado em contato no fechamento. O que o livro prevê?",
+      "alternativas": [
+        {
+          "texto": "Posição mandibular estável, porque molares aceitam bem a força vertical que recebem.",
+          "correta": false,
+          "justificativa": "A força vertical é bem aceita, mas o livro diz que contato só de um lado deixa a posição instável.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+        },
+        {
+          "texto": "Posição instável: a mandíbula gira sobre esses dentes como fulcro, com risco de colapso.",
+          "correta": true,
+          "justificativa": "É a previsão do livro para esse paciente: só os primeiros molares de um lado são stops, e a mandíbula gira usando esses dentes como fulcro.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+        },
+        {
+          "texto": "Estabilidade garantida pelos músculos elevadores, e a oclusão deixa de importar.",
+          "correta": false,
+          "justificativa": "O livro diz que a MEE da articulação só se mantém em harmonia com uma condição oclusal estável.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+        },
+        {
+          "texto": "Situação equivalente à de oito dentes em contato, porque os molares recebem a maior parte da força.",
+          "correta": false,
+          "justificativa": "O livro mostra o oposto: quanto mais dentes em contato simultâneo e uniforme, mais a força se reparte e maior a estabilidade.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos funcionais ideais dos dentes e Direção das forças aplicadas aos dentes, pp. 87–89",
+      "secao": "contatos-axiais-okeson",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um colega descreve a oclusão em que os posteriores contatam de modo axial no fechamento, os anteriores contatam de leve ou ficam com uma folga mínima (cerca de 25 µm) e, nos movimentos, os anteriores desocluem os posteriores. Segundo o Shillingburg, qual é esse esquema?",
+      "alternativas": [
+        {
+          "texto": "Oclusão balanceada bilateral, com o máximo de contatos em todas as excursões.",
+          "correta": false,
+          "justificativa": "Esse esquema busca o máximo de contatos em todas as excursões; o livro o descreve como hoje menos usado e mais ligado à prótese total.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20"
+        },
+        {
+          "texto": "Oclusão balanceada unilateral (função em grupo), com todos os dentes do lado de trabalho em contato.",
+          "correta": false,
+          "justificativa": "Na função em grupo os dentes do lado de trabalho contatam; no esquema descrito os posteriores são desocluídos pelos anteriores.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20"
+        },
+        {
+          "texto": "Oclusão com anteriores em contato mais forte que os posteriores no fechamento.",
+          "correta": false,
+          "justificativa": "No esquema do livro os posteriores contatam com as forças pelo longo eixo, e os anteriores contatam de leve ou ficam com folga mínima (cerca de 25 µm).",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20"
+        },
+        {
+          "texto": "Oclusão mutuamente protegida (protegida pelo canino).",
+          "correta": true,
+          "justificativa": "O livro a define assim: posteriores desocluídos pelos anteriores em todos os movimentos, máxima intercuspidação coincidente com a posição condilar ótima e anteriores em contato leve ou com folga mínima.",
+          "fonte": "shillingburg2012",
+          "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20"
+        }
+      ],
+      "fonte": "shillingburg2012",
+      "onde": "cap. 2, Fundamentals of Occlusion, Organization of the Occlusion, p. 20",
+      "secao": "esquemas-shillingburg",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente com canino superior de periodonto muito comprometido vai receber PPF. Qual esquema lateral o Pegoraro admite quando o periodonto desaconselha a guia canino?",
+      "alternativas": [
+        {
+          "texto": "Manter a guia canino mesmo assim, pois ela deve ser preferida sempre que possível, em qualquer periodonto.",
+          "correta": false,
+          "justificativa": "O livro prefere a guia canino sempre que possível, mas indica a função em grupo quando o periodonto a desaconselha.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, p. 428"
+        },
+        {
+          "texto": "Contato no lado de balanceio, para aliviar o canino e distribuir a carga.",
+          "correta": false,
+          "justificativa": "O livro descreve o lado de balanceio sem contato, tanto na guia canino quanto na função em grupo.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, p. 428"
+        },
+        {
+          "texto": "Função em grupo, com contatos nas cúspides vestibulares dos posteriores do mesmo lado.",
+          "correta": true,
+          "justificativa": "É o esquema que o livro indica quando o canino está mal posicionado ou o periodonto desaconselha a guia canino, lembrando que é mais difícil de ajustar.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, p. 428"
+        },
+        {
+          "texto": "Levantamento pelos caninos, com separação exagerada dos posteriores nos laterais.",
+          "correta": false,
+          "justificativa": "O livro usa \"levantamento pelos caninos\" para a separação exagerada entre os posteriores (como em alguns movimentos ortodônticos ou na Classe II divisão 2), com danos ao disco discutíveis, mas possíveis; para o periodonto que desaconselha a guia canino, ele indica a função em grupo.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, pp. 427–429"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes em lateralidade, p. 428",
+      "secao": "guias-pegoraro",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Qual é, segundo o Okeson, a razão principal para evitar um contato mediotrusivo forte o bastante para desocluir a guia do lado de trabalho?",
+      "alternativas": [
+        {
+          "texto": "Ele aumenta a carga axial sobre os posteriores do lado de trabalho e do lado oposto.",
+          "correta": false,
+          "justificativa": "A razão principal dada pelo livro é a estabilidade da articulação: o contato mediotrusivo vira fulcro e a musculatura pode luxar o côndilo do lado de trabalho.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92"
+        },
+        {
+          "texto": "Ele reduz a atividade dos músculos elevadores, o que enfraquece a mastigação.",
+          "correta": false,
+          "justificativa": "Nos estudos de eletromiografia citados, os contatos mediotrusivos posteriores aumentam a atividade muscular.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92"
+        },
+        {
+          "texto": "Ele deixa a relação mandibular instável: o contato vira fulcro e o côndilo de trabalho pode luxar.",
+          "correta": true,
+          "justificativa": "É a razão principal dada pelo livro, sobretudo em bruxismo intenso.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92"
+        },
+        {
+          "texto": "Todo contato mediotrusivo é igualmente preocupante, esteja ou não a guia do lado de trabalho preservada.",
+          "correta": false,
+          "justificativa": "O livro diz que nem todo contato mediotrusivo causa essa preocupação: preocupam os que desocluem a guia do lado de trabalho.",
+          "fonte": "okeson8",
+          "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 5, Contatos mediotrusivos (de não trabalho) e Contatos protrusivos, pp. 91–92",
+      "secao": "mediotrusivo-protrusivo-okeson",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Ao restaurar um molar com amálgama, qual conduta de escultura o Okeson recomenda?",
+      "alternativas": [
+        {
+          "texto": "Esculpir fora de oclusão, sem marcar os contatos antes do preparo, e deixar o antagonista erupcionar até achar o contato.",
+          "correta": false,
+          "justificativa": "O livro diz que, assim, a condição costuma ser instável: o dente migra ou erupciona até novos contatos e podem surgir relações indesejáveis.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+        },
+        {
+          "texto": "Esculpir uma guia lateral no amálgama, para que ele conduza os movimentos excêntricos e alivie os posteriores vizinhos.",
+          "correta": false,
+          "justificativa": "Na maioria dos casos o amálgama não guia movimentos mandibulares, então o contato excêntrico é eliminado por completo.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+        },
+        {
+          "texto": "Marcar contatos com carbono antes do preparo, esculpir plana a área oposta à cúspide cêntrica e checar excêntricos com outra cor.",
+          "correta": true,
+          "justificativa": "É a sequência descrita pelo livro, que vale também para resina composta posterior.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+        },
+        {
+          "texto": "Deixar o amálgama muito alto, porque o alto sempre se ajusta com o uso e dispensa conferir os excêntricos depois.",
+          "correta": false,
+          "justificativa": "O livro diz que amálgama muito alto tende a fraturar e a ser trocado, e a sequência que descreve inclui avaliar os excêntricos com papel-carbono de outra cor depois que a restauração contata de forma suave e simultânea.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 20, Contatos posteriores e Contatos anteriores (restaurações operatórias), pp. 470–472",
+      "secao": "restauracao-direta-okeson",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente sem distúrbio funcional precisa de PPF extensa. Em que posição mandibular o Okeson manda fazer o tratamento?",
+      "alternativas": [
+        {
+          "texto": "Na PIC que o paciente já usa, porque ele a tolera bem.",
+          "correta": false,
+          "justificativa": "Para restauração pequena o livro aceita a PIC existente; na PPF extensa manda usar a RC independentemente da aparente tolerância à PIC.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473"
+        },
+        {
+          "texto": "Na PIC, porque a posição da RC comprovadamente previne a DTM e a PIC não.",
+          "correta": false,
+          "justificativa": "O livro diz que a prevenção da DTM não está documentada; a RC é indicada porque é a posição mais estável e reprodutível.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473"
+        },
+        {
+          "texto": "Em uma nova PIC criada após o preparo, pois ela é igualmente tolerada.",
+          "correta": false,
+          "justificativa": "O livro diz que não há evidência de que uma nova PIC seja tolerada do mesmo modo que a original, que se perde com os preparos.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473"
+        },
+        {
+          "texto": "Em RC, porque a PIC se perde com o preparo e a RC é reprodutível.",
+          "correta": true,
+          "justificativa": "São as duas razões do livro para usar a RC na PPF extensa, independentemente da aparente tolerância à PIC.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 20, Considerações sobre prótese fixa, Posição mandibular, pp. 472–473",
+      "secao": "ppf-posicao-okeson",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "A guia anterior de um paciente é adequada, mas os preparos vão desgastar os anteriores. O que o Okeson recomenda?",
+      "alternativas": [
+        {
+          "texto": "Criar uma guia nova, mais inclinada, para garantir a desoclusão dos posteriores.",
+          "correta": false,
+          "justificativa": "O livro diz que guia nova e arbitrária costuma ser menos tolerada: muito inclinada, restringe o movimento e compromete a função muscular.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475"
+        },
+        {
+          "texto": "Fazer primeiro os posteriores e ajustar a guia anterior no final, conforme a oclusão que resultar.",
+          "correta": false,
+          "justificativa": "A sequência do livro é a inversa: desenvolver primeiro os contatos anteriores e fazer os posteriores em harmonia com a guia.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475"
+        },
+        {
+          "texto": "Registrar a guia original numa mesa incisal personalizada e refazer as restaurações conforme ela.",
+          "correta": true,
+          "justificativa": "É a conduta do livro para guia adequada: preservar as características exatas da guia, registradas com resina na mesa incisal do articulador.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475"
+        },
+        {
+          "texto": "Montar a mesa incisal a partir de um enceramento diagnóstico, com guia nova.",
+          "correta": false,
+          "justificativa": "O enceramento diagnóstico e a guia nova são o método do livro para guia inadequada, não para guia adequada.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 20, Alcance dos objetivos (prótese fixa), Contatos anteriores, pp. 473–475",
+      "secao": "ppf-guia-anterior-okeson",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Ao ajustar uma coroa recém-chegada do laboratório, qual a ordem descrita pelo Okeson?",
+      "alternativas": [
+        {
+          "texto": "Oclusão em PIC primeiro e, depois, contatos proximais e margens da restauração.",
+          "correta": false,
+          "justificativa": "O livro manda ajustar contatos proximais e margens primeiro, e só depois a oclusão.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481"
+        },
+        {
+          "texto": "Proximais e margens, depois a oclusão em PIC com carbono vermelho e, por fim, os excêntricos.",
+          "correta": true,
+          "justificativa": "É a ordem do livro: avaliam-se os movimentos excêntricos quando a restauração já está ajustada à posição de fechamento.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481"
+        },
+        {
+          "texto": "Excêntricos com carbono azul primeiro, para só depois fechar em PIC e ajustar a oclusão.",
+          "correta": false,
+          "justificativa": "O livro avalia os excêntricos depois de ajustada a posição de fechamento.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481"
+        },
+        {
+          "texto": "Nenhum ajuste na boca, porque o articulador reproduz o paciente com exatidão e a cimentação basta.",
+          "correta": false,
+          "justificativa": "O livro diz que o articulador não reproduz o paciente exatamente e que o dentista deve estar preparado para ajustes na boca.",
+          "fonte": "okeson8",
+          "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481"
+        }
+      ],
+      "fonte": "okeson8",
+      "onde": "cap. 20, Ajuste da restauração na boca, pp. 480–481",
+      "secao": "ajuste-boca-okeson",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Depois de um ajuste bem feito de uma PPF em MIH, o paciente se queixa de contato prematuro ao mastigar, e o contato interferente só aparece em lateroprotrusão. O que o Pegoraro manda fazer?",
+      "alternativas": [
+        {
+          "texto": "Desgastar todos os pontos marcados, tanto os pretos quanto os vermelhos.",
+          "correta": false,
+          "justificativa": "O livro manda marcar os contatos de MIH em preto e desgastar só o ponto que tem apenas a marca vermelha.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426"
+        },
+        {
+          "texto": "Perguntar ao paciente qual ponto o incomoda mais e desgastar exatamente esse ponto, sem conferir as marcas.",
+          "correta": false,
+          "justificativa": "O livro diz que o paciente não é a pessoa mais apropriada para julgar o ajuste: os limiares de tolerância variam, e pressa e cansaço levam a aceitar um ajuste aquém do ideal.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426"
+        },
+        {
+          "texto": "Marcar MIH em preto e o interferente em vermelho; desgastar só o ponto com a marca vermelha.",
+          "correta": true,
+          "justificativa": "É o procedimento descrito pelo livro para essa queixa.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426"
+        },
+        {
+          "texto": "Desgastar só os pontos pretos, que são os contatos de MIH marcados.",
+          "correta": false,
+          "justificativa": "Os pontos pretos são os contatos de MIH, que o ajuste procura preservar como contatos estáveis e uniformes.",
+          "fonte": "pegoraro2013",
+          "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426"
+        }
+      ],
+      "fonte": "pegoraro2013",
+      "onde": "cap. 11, Seleção de cor e ajuste funcional e estético (Bonfante), Ajustes oclusais, pp. 425–426",
+      "secao": "ajuste-pegoraro",
+      "figura": null
+    }
+  ]
+}

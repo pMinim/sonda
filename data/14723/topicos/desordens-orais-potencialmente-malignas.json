@@ -1,0 +1,531 @@
+{
+  "slug": "desordens-orais-potencialmente-malignas",
+  "titulo": "Desordens orais potencialmente malignas: leucoplasia, eritroplasia e queilite actínica",
+  "area": "Estomatologia",
+  "origem": "Neville 5ª ed., cap. 10",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "neville5-cap10",
+      "ref": "Neville BW, Damm DD, Allen CM, Chi AC. Patologia Oral e Maxilofacial. 5ª ed. Rio de Janeiro: Guanabara Koogan; 2025. Cap. 10, Patologia Epitelial, p. 344–447.",
+      "curta": "Neville 5ª ed., cap. 10"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "conceito",
+      "titulo": "O que é uma desordem oral potencialmente maligna",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, Boxes 10.3 e 10.4, p. 370–371",
+      "texto": "**Definição da OMS:** um grupo heterogêneo de condições definidas pela clínica, com risco variável de evoluir para carcinoma espinocelular oral. Uma metanálise citada no capítulo estima a prevalência mundial em **4,5%**.\n\n**Potencialmente maligno quer dizer risco aumentado, não destino.** A maioria dos pacientes não desenvolve câncer. Alguns desenvolvem depois, e alguns já têm câncer quando a lesão é vista pela primeira vez. Por isso o **potencial de transformação maligna** (Boxe 10.4) conta as duas situações: câncer presente no diagnóstico inicial ou no futuro.\n\n**A lista da OMS (Boxe 10.3):**\n- leucoplasia e leucoplasia verrucosa proliferativa;\n- eritroplasia e eritroleucoplasia;\n- fibrose submucosa oral;\n- queilite actínica;\n- lesões palatinas do tabagismo invertido;\n- queratose do tabaco sem fumaça;\n- patologias liquenoides orais (líquen plano oral, lesões liquenoides orais, lúpus eritematoso oral, doença do enxerto contra o hospedeiro oral);\n- condições hereditárias com predisposição ao câncer (p. ex., anemia de Fanconi, disqueratose congênita, xeroderma pigmentoso).\n\n**Quanto se transformam:** em média, cerca de **8%** (metanálise). A taxa muda muito com o tipo:\n\n| Condição | Transformação maligna estimada (o livro não diz o período) |\n|---|---|\n| Leucoplasia verrucosa proliferativa | 44 a 100% |\n| Leucoplasia | 4 a 22% |\n| Fibrose submucosa oral | 4 a 6% |\n| Eritroplasia | pelo menos metade já é carcinoma ao diagnóstico; no restante, principalmente displasia de alto grau, com transformação estimada principalmente de 14 a 50% |\n\nA **leucoplasia** é a mais conhecida (prevalência mundial estimada de **4,1%**). A **eritroplasia** é rara (menos de 1%), mas tem risco muito alto de já ser ou de virar carcinoma."
+    },
+    {
+      "id": "leucoplasia",
+      "titulo": "Leucoplasia: definição, quem tem e o que a causa",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, introdução, Prevalência e Etiologia, p. 371–379",
+      "texto": "**Definição (OMS):** placa branca com risco discutível de virar câncer oral, diagnosticada só depois de excluídas outras doenças conhecidas. É um **termo clínico**: não indica nenhuma alteração específica do tecido. Por isso é um **diagnóstico por exclusão**.\n\n**Por que é branca:** a queratina espessada fica branca quando úmida, ou a camada espinhosa espessada (acantose) esconde o vermelho dos vasos do conjuntivo.\n\n**O que excluir antes:** líquen plano, mordiscamento crônico da bochecha (morsicatio buccarum), queratose friccional, queratose do tabaco sem fumaça, estomatite nicotínica, leucoedema e nevo esponjoso branco.\n\n**Prevalência mundial:** 1,5 a 4,3% (dados agrupados); 4,1% numa metanálise com confirmação histopatológica.\n\n**Causa:** desconhecida. O capítulo associa:\n- **Tabaco fumado**, o fator mais ligado a **ter** leucoplasia: mais de **80%** dos pacientes são fumantes; quem fuma muito tem lesões maiores e mais numerosas; muitas somem ou diminuem no primeiro ano sem tabaco.\n- **Betel quid**, hábito de partes da Ásia: associado à leucoplasia verdadeira (com ou sem tabaco sem fumaça).\n- **Sanguinária** (erva em creme dental ou enxaguante): leucoplasia verdadeira no vestíbulo ou na mucosa alveolar da maxila, que pode persistir anos depois de parar o produto.\n- **Radiação UV:** leucoplasia do vermelhão do lábio inferior, que em geral é queilite actínica.\n- **Candida albicans:** placa espessa, granular, vermelha e branca; algumas regridem ou ficam menos displásicas com antifúngico.\n- **Álcool sozinho:** evidência conflitante.\n\n**Queratose do tabaco sem fumaça:** está na lista das desordens potencialmente malignas (com risco muito baixo), mas não é considerada leucoplasia verdadeira.\n\n**Também não são leucoplasia verdadeira:** as placas acinzentadas do uso excessivo de enxaguante com mais de 25% de álcool, a estomatite nicotínica e a queratose friccional (inclusive a do rebordo alveolar). A friccional é uma resposta normal ao atrito, como um calo, e regride quando o trauma é eliminado."
+    },
+    {
+      "id": "aspecto",
+      "titulo": "Leucoplasia: como aparece e onde preocupa mais",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas, Figuras 10.60 a 10.69, p. 371–379",
+      "texto": "**Em quem:** **60 a 80%** em homens (inverte onde as mulheres usam mais tabaco); em geral acima de **40 anos**, idade média de **60 anos**.\n\n**Sinal-chave:** placa branca que **não sai à raspagem**. Isso ajuda a distingui-la, por exemplo, da candidíase pseudomembranosa, das queimaduras químicas ou térmicas e da estomatite alérgica de contato ao dentifrício. Outras placas brancas (líquen plano, queratose friccional, queratose do tabaco sem fumaça e outras) também precisam ser excluídas antes de chamar a lesão de leucoplasia.\n\n**Onde:** cerca de **70%** ficam no vermelhão do lábio, na mucosa jugal e na gengiva. Mas **língua, vermelhão do lábio e assoalho de boca** respondem por **mais de 90%** das que têm displasia ou carcinoma.\n\n**Os aspectos clínicos, do menor para o maior risco:**\n- **Homogênea delgada:** mácula ou placa branca a cinza-esbranquiçada, fina, às vezes translúcida, fissurada ou enrugada; macia, de limites nítidos. Raramente mostra displasia.\n- **Homogênea espessa:** placa espessa, bem branca, com fissuras profundas. Em fumantes que não reduzem o hábito, até dois terços das delgadas chegam a ela.\n- **Não homogênea:** com componente granular, nodular, verrucoso, ulcerado ou vermelho. Risco bem maior de transformação ou de já ser maligna.\n- **Eritroleucoplasia (leucoplasia salpicada):** mistura de áreas vermelhas e brancas. As vermelhas tendem a ter displasia de alto grau ou carcinoma microinvasivo.\n- Quando a lesão fica **toda vermelha**, passa a se chamar eritroplasia.\n\nUma mesma lesão pode misturar várias fases e mudar com o tempo.\n\n**Leucoplasia verrucosa proliferativa (LVP):** forma especial de alto risco. Várias placas queratóticas, de crescimento lento, com projeções rugosas; a **gengiva** é acometida com frequência. Começa plana, igual à homogênea comum, mas cresce sem parar e fica exofítica e verrucosa. Pode passar por uma fase igual ao carcinoma verrucoso e costuma virar carcinoma espinocelular, muitas vezes em até **8 anos**. Raramente regride com tratamento. É incomum, predomina em **mulheres (1 homem para 4 mulheres)** e tem pouca relação com tabaco."
+    },
+    {
+      "id": "biopsia",
+      "titulo": "Leucoplasia: biópsia e graus de displasia",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas (último parágrafo), Características histopatológicas e Tratamento e prognóstico, p. 371–379",
+      "texto": "**Leucoplasia é termo clínico, então precisa de biópsia** para ter o diagnóstico histopatológico e orientar a conduta. Biopsie as áreas de **aspecto mais grave** (granulares, verrucosas, vermelhas). As áreas vermelhas tendem a ter displasia de alto grau ou carcinoma microinvasivo. Lesões grandes ou multifocais podem pedir várias biópsias.\n\n**Exames auxiliares** (corantes vitais, citologia esfoliativa, quimioluminescência, autofluorescência, biomarcadores salivares, microscopia in vivo): não há evidência suficiente para uso de rotina. O padrão-ouro continua sendo o **exame clínico cuidadoso com biópsia**.\n\n**O que o microscópio mostra:** espessamento da queratina (**hiperqueratose**), com ou sem espessamento da camada espinhosa (**acantose**); às vezes epitélio atrófico sob a queratina.\n\n**Displasia epitelial:** alterações das células e da arquitetura do epitélio associadas a risco de carcinoma espinocelular. Estudos antigos acharam displasia ou carcinoma em **5 a 25%** das leucoplasias; análises recentes, com definição cuidadosa, em até **40 a 46%**.\n\n**Graus no sistema tradicional de três níveis:**\n\n| Grau | Até onde vão as alterações |\n|---|---|\n| Leve | camadas basal e parabasal |\n| Moderada | da basal até a porção média da camada espinhosa |\n| Intensa | da basal até acima do terço médio do epitélio |\n\n**A regra por trás da tabela:** as alterações começam na camada basal; quanto mais alto no epitélio elas chegam, maior o grau. Para a moderada, o texto do livro diz \"porção média da camada espinhosa\" e a legenda da Figura 10.73 diz \"terço médio do epitélio\"; o livro ainda ressalva que essa definição tradicional não reflete toda a complexidade da graduação. O sistema simplifica: atipia muito marcante limitada ao terço basal pode ser displasia grave.\n\n**Carcinoma in situ:** displasia em **toda a espessura** do epitélio, da camada basal à superfície, **sem invasão**. Sem invasão, não há metástase.\n\n**O que prevê o risco:** apesar das pesquisas com biomarcadores, o método padrão ainda é o **grau de displasia**, somado às características clínicas."
+    },
+    {
+      "id": "conduta",
+      "titulo": "Leucoplasia: conduta, risco de transformação e acompanhamento",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379",
+      "texto": "**A conduta segue o laudo e a clínica.**\n\n| Achado | Conduta |\n|---|---|\n| Displasia moderada ou intensa | remoção completa, se possível, e controle rigoroso (p. ex., a cada 1, 3 ou 6 meses) |\n| Sem displasia ou displasia leve, sem fator clínico adverso | conservadora: modificar fatores de risco (aconselhar sobre tabaco) e reavaliar a cada 6 a 12 meses |\n| Displasia leve com fator clínico adverso | considerar excisão e/ou intervalos menores |\n\n**Como remover:** excisão cirúrgica, eletrocautério, criocirurgia ou laser, com eficácia igual. A excisão tem a vantagem de **preservar o tecido para exame**. Se o aspecto clínico piorar no controle, pode-se repetir a biópsia. A leucoplasia **não homogênea** deve ser removida por completo, se possível.\n\n**Fatores clínicos de maior risco de transformação maligna** (risco de a lesão malignizar, não de surgir): sexo feminino, idade avançada, **não fumante**, lesão que persiste por anos, lesão grande, doença multifocal (como a LVP), aspecto não homogêneo, região **ventrolateral da língua ou assoalho de boca**, câncer oral prévio. Atenção ao contraste: o tabaco é o fator mais ligado a **ter** leucoplasia, mas, na lesão que já existe, ser **não fumante** e ser **mulher** estão entre os fatores de maior risco de **malignizar**.\n\n**Taxas de transformação maligna que ajudam a decidir** (proporção de lesões que viraram câncer nos estudos, salvo quando diz \"ao ano\"):\n- ventrolateral da língua e assoalho: **16 a 39%** (em mulheres, **47%**);\n- não homogênea **14,5%** x homogênea **3%** (revisão sistemática);\n- eritroleucoplasia **18 a 47%**; granular ou verrucosa 4 a 15%; homogênea espessa 1 a 7%;\n- LVP: **mais de 9% ao ano** (taxa anual), com controle rigoroso e biópsias seriadas;\n- por grau de displasia (estudos das desordens potencialmente malignas em geral): leve 4 a 12%, moderada 9 a 18%, intensa **27 a 39%**;\n- leucoplasia em geral: cerca de **1 a 3% ao ano** (taxa anual; não confundir com os 4 a 22% de transformação estimada, para os quais o livro não diz o período); a transformação costuma aparecer **1 a 4 anos** após o diagnóstico, mas pode vir em meses ou décadas.\n\n**Recidiva:** 7 a 38% após a remoção; bem maior nas verrucosas ou granulares. Novas lesões são comuns, e não há acordo sobre se a excisão reduz o risco de carcinoma. Por isso o **acompanhamento é de longo prazo**, mesmo depois de remover.\n\n**Quimioprevenção** (retinoides e outros agentes): experimental. Os retinoides reduziram algumas lesões em estudos curtos, mas a toxicidade dos retinoides sistêmicos é frequente e a lesão costuma voltar quando o tratamento para. Não há evidência suficiente de que esses agentes evitem o câncer."
+    },
+    {
+      "id": "eritroplasia",
+      "titulo": "Eritroplasia",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas (introdução), p. 370–371; Eritroplasia (introdução, Características clínicas, Características histopatológicas, Tratamento e prognóstico), p. 379–380",
+      "texto": "**Definição:** mancha vermelha que não pode ser caracterizada, clínica ou histologicamente, como nenhuma outra lesão. Como a leucoplasia, é diagnóstico por exclusão.\n\n**Por que importa:** quase todas as eritroplasias verdadeiras têm **displasia epitelial significativa, carcinoma in situ ou carcinoma espinocelular invasivo**. É menos comum que a leucoplasia, mas de risco muito maior.\n\n**Quanto aparece:** é rara (prevalência mundial abaixo de 1%). As causas presumidas são as mesmas do carcinoma espinocelular oral.\n\n**Em quem:** meia-idade a idosos, **sem predileção por sexo**.\n\n**Onde:** assoalho de boca, língua, palato mole e mucosa jugal estão entre os locais mais descritos. Pode haver várias lesões.\n\n**Como é:** mancha ou placa **vermelha, bem delimitada**, macia, de textura **aveludada ou granular**, em geral **sem sintomas**. Às vezes fica um pouco rebaixada em relação à mucosa vizinha. Pode vir junto de leucoplasia (eritroleucoplasia).\n\n**Por que é vermelha:** o epitélio deixa de produzir queratina e muitas vezes é atrófico, o que deixa ver os vasos.\n\n**Diferencial:** mucosite inespecífica, candidíase, psoríase e lesões vasculares. Em geral só a biópsia separa.\n\n**Conduta:**\n- lesão vermelha da mucosa, sobretudo no **assoalho de boca e na região ventrolateral da língua**, é suspeita e vai para biópsia;\n- se houver irritante identificável, remova-o e **adie a biópsia por 2 semanas**, tempo para uma lesão inflamatória parecida regredir (prazo do Neville para a lesão vermelha; o prazo para úlcera que não cicatriza é de outras fontes, no Marcucci e na NICE, nos temas Biópsia e exames complementares e Carcinoma espinocelular);\n- displasia moderada ou intensa: excisão total ou ablação; a **excisão é preferível**, porque permite descartar carcinoma invasivo;\n- recidiva e lesões multifocais são comuns: **acompanhamento de longo prazo**.\n\nSíntese do professor: úlcera que não cicatriza em 10 a 21 dias deve ser investigada. O intervalo junta o prazo do Marcucci para a biópsia (10 a 20 dias) e o da diretriz inglesa NICE para o encaminhamento (mais de 3 semanas)."
+    },
+    {
+      "id": "queilite",
+      "titulo": "Queilite actínica",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Queilite actínica (introdução, Características clínicas, Características histopatológicas, Tratamento e prognóstico), p. 384–385",
+      "texto": "**O que é:** alteração potencialmente maligna comum do **vermelhão do lábio inferior**, causada pela exposição crônica à luz UV. A origem é parecida com a da queratose actínica da pele.\n\n**Em quem:** meia-idade a idosos, **homens, pele clara**, trabalho ao ar livre (daí os nomes populares lábio de agricultor e lábio de marinheiro). Mais frequente perto do equador. Rara **antes dos 45 anos**. Proporção homem:mulher de **10:1**, por mais trabalho ao sol e menos protetor labial. Mais suscetíveis: xeroderma pigmentoso, albinismo e porfiria cutânea tardia. Imunossupressão e tabagismo podem aumentar a chance de progressão.\n\n**Como aparece** (evolução tão lenta que o paciente muitas vezes não nota):\n1. Início: **atrofia** (áreas lisas, manchadas e pálidas), secura e fissuras, com **perda da nitidez do limite entre vermelhão e pele**.\n2. Depois: áreas **ásperas e descamativas**, que podem parecer leucoplasia, sobretudo quando chegam à parte úmida do lábio. O paciente consegue remover a descamação, com alguma dificuldade.\n3. Mais tarde: **úlcera crônica**, que pode durar meses e sugere progressão para carcinoma espinocelular.\n\n**Microscopia:** graus variáveis de displasia; no conjuntivo, sempre a **elastose solar**, uma faixa acelular e amorfa de fibras alteradas pela UV.\n\n**Conduta:**\n- muitas alterações são provavelmente irreversíveis, mas oriente **menos sol, chapéu de abas largas e protetor solar**;\n- **biopsie** áreas de endurecimento, espessamento, ulceração ou leucoplasia, para descartar carcinoma;\n- casos graves sem malignidade óbvia: **vermelhectomia** (remoção da mucosa do vermelhão), que fornece tecido para exame; há alternativas como laser, eletrodissecção, crioterapia, terapia fotodinâmica e medicamentos tópicos (5-fluoruracila, imiquimode, diclofenaco);\n- **acompanhamento de longo prazo**.\n\n**Risco:** difícil de medir, mas estima-se que **mais que duplique** o risco de carcinoma espinocelular de lábio. A transformação costuma levar **várias décadas**, e o carcinoma que surge é, em geral, bem diferenciado."
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Comparação e as outras condições da lista",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371; Leucoplasia, p. 371–379; Eritroplasia, p. 379–380; Queilite actínica, p. 384–385; Uso do tabaco sem fumaça e queratose do tabaco sem fumaça, p. 380–382; Fibrose submucosa oral, p. 382–384; Estomatite nicotínica, p. 386–387",
+      "texto": "| | Leucoplasia | Eritroplasia | Queilite actínica |\n|---|---|---|---|\n| Como é | placa branca que não sai à raspagem | mancha vermelha bem delimitada, aveludada | lábio atrófico, seco, descamativo, limite com a pele apagado |\n| Onde preocupa | língua, assoalho, vermelhão | assoalho, ventrolateral da língua | vermelhão do lábio inferior |\n| Em quem | mais comum em homens (60 a 80%), acima de 40 anos; a maioria fuma (o tabaco é o fator mais ligado a ter a lesão) | meia-idade a idosos, ambos os sexos | homens de pele clara, sol crônico, rara antes dos 45 |\n| Risco | 4 a 22% de transformação estimada, sem período no livro (1 a 3% ao ano é outra medida); depende do aspecto e da displasia; malignizar é mais provável em mulher e em não fumante | pelo menos metade já é carcinoma | mais que duplica o risco de câncer de lábio |\n| Conduta | biópsia; conduta pelo grau de displasia | biópsia; excisão preferível | proteção solar; biópsia de úlcera ou endurecimento |\n\n**As outras da lista, em uma linha:**\n- **Leucoplasia verrucosa proliferativa:** placas verrucosas múltiplas, gengiva, mulheres; transformação estimada de 44 a 100%, sem período no livro (mais de 9% ao ano é outra medida).\n- **Fibrose submucosa oral:** cicatrização progressiva da mucosa ligada ao betel quid (noz-de-areca); trismo e ardência; não regride ao parar o hábito; 4 a 6% de transformação maligna estimada, sem período no livro.\n- **Queratose do tabaco sem fumaça:** placa branca ou cinza, fina, onde o tabaco fica; risco muito baixo; sem tabaco, a mucosa volta ao normal, em geral em 2 semanas, em 98% das lesões não atípicas nem intensamente brancas; se persistir após 2 semanas, biópsia.\n- **Tabagismo invertido** (ponta acesa dentro da boca): queratose palatina com potencial significativo de displasia ou carcinoma.\n- **Patologias liquenoides:** inclusão na lista é debatida; risco baixo, abaixo de 1 a 3% no líquen plano, um pouco maior nas lesões liquenoides; a forma erosiva talvez tenha mais risco.\n- **Condições hereditárias** com predisposição ao câncer (anemia de Fanconi, disqueratose congênita e outras).\n\n**Fora da lista:** a estomatite nicotínica (reversível em 1 a 2 semanas sem fumar; placa palatina que persiste após 1 mês é tratada como leucoplasia) e a queratose friccional."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Como a OMS define desordem oral potencialmente maligna?",
+      "verso": "Grupo heterogêneo de condições **definidas pela clínica**, com **risco variável** de evoluir para carcinoma espinocelular oral. Risco aumentado, não inevitável.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, Boxe 10.4, p. 370–371"
+    },
+    {
+      "id": "f02",
+      "frente": "Por que a leucoplasia é um diagnóstico por exclusão?",
+      "verso": "Porque é um **termo clínico**: placa branca que só recebe esse nome depois de excluídas outras doenças (líquen plano, queratose friccional, leucoedema etc.). Não indica alteração específica do tecido.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, introdução, p. 371–379"
+    },
+    {
+      "id": "f03",
+      "frente": "Que achado ao exame separa a leucoplasia da candidíase pseudomembranosa?",
+      "verso": "A leucoplasia **não sai à raspagem**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+    },
+    {
+      "id": "f04",
+      "frente": "Quais locais concentram mais de 90% das leucoplasias com displasia ou carcinoma?",
+      "verso": "**Língua, vermelhão do lábio e assoalho de boca.** (As leucoplasias em geral ficam mais no vermelhão, mucosa jugal e gengiva: cerca de 70%.)",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+    },
+    {
+      "id": "f05",
+      "frente": "Perfil da leucoplasia verrucosa proliferativa?",
+      "verso": "Várias placas rugosas, crescimento lento e persistente, **gengiva** frequente; **mulheres** (1:4); pouca relação com tabaco; risco de câncer **acima de 9% ao ano**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas; Tratamento e prognóstico, p. 371–379"
+    },
+    {
+      "id": "f06",
+      "frente": "O que é eritroleucoplasia e qual sua taxa de transformação?",
+      "verso": "Leucoplasia não homogênea com áreas **vermelhas e brancas** (leucoplasia salpicada). Câncer em **18 a 47%** das lesões, segundo alguns estudos.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas; Tratamento e prognóstico, p. 371–379"
+    },
+    {
+      "id": "f07",
+      "frente": "Displasia leve, moderada e intensa: até onde vão as alterações?",
+      "verso": "**Leve:** basal e parabasal. **Moderada:** até a porção média da camada espinhosa. **Intensa:** acima do terço médio do epitélio.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+    },
+    {
+      "id": "f08",
+      "frente": "O que define o carcinoma in situ?",
+      "verso": "Displasia em **toda a espessura** do epitélio, da basal à superfície, **sem invasão**. Sem invasão, não há metástase.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+    },
+    {
+      "id": "f09",
+      "frente": "Leucoplasia com displasia moderada ou intensa: qual a conduta?",
+      "verso": "**Remoção completa**, se possível, e controle rigoroso (p. ex., a cada 1, 3 ou 6 meses). A excisão preserva o tecido para exame.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+    },
+    {
+      "id": "f10",
+      "frente": "Cite fatores clínicos que aumentam o risco de a leucoplasia malignizar (não de surgir).",
+      "verso": "Sexo feminino, idade avançada, **não fumante**, persistência por anos, lesão grande, multifocal, não homogênea, ventrolateral da língua ou assoalho, câncer oral prévio. Contraste: o tabaco é o fator mais ligado a **ter** leucoplasia; ser não fumante e mulher pesa no risco de **malignizar**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+    },
+    {
+      "id": "f11",
+      "frente": "Taxa de recidiva da leucoplasia após remoção?",
+      "verso": "**7 a 38%**, e bem mais nas verrucosas ou granulares. Novas lesões são comuns. Por isso o acompanhamento é de longo prazo.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+    },
+    {
+      "id": "f12",
+      "frente": "Que proporção das eritroplasias já é carcinoma na primeira consulta?",
+      "verso": "**Pelo menos metade.** No restante, predomina displasia de alto grau, com transformação estimada principalmente de 14 a 50%.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+    },
+    {
+      "id": "f13",
+      "frente": "Lesão vermelha com irritante local identificável: quando biopsiar?",
+      "verso": "Remova o irritante e **adie a biópsia por 2 semanas**: tempo para uma lesão inflamatória parecida regredir. Se persistir, biópsia.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Eritroplasia, Tratamento e prognóstico, p. 379–380"
+    },
+    {
+      "id": "f14",
+      "frente": "Primeiros sinais da queilite actínica?",
+      "verso": "**Atrofia** (áreas lisas, manchadas e pálidas), secura e fissuras do vermelhão do lábio inferior, com **perda da nitidez do limite vermelhão-pele**.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Queilite actínica, Características clínicas, p. 384–385"
+    },
+    {
+      "id": "f15",
+      "frente": "Que achado do conjuntivo aparece sempre na queilite actínica?",
+      "verso": "**Elastose solar:** faixa acelular e amorfa, alteração das fibras colágenas e elásticas induzida pela luz UV.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Queilite actínica, Características histopatológicas, p. 384–385"
+    },
+    {
+      "id": "f16",
+      "frente": "Na queilite actínica, o que biopsiar e o que é a vermelhectomia?",
+      "verso": "Biopsie **endurecimento, espessamento, ulceração ou leucoplasia**. Vermelhectomia é a remoção da mucosa do vermelhão em casos graves sem malignidade óbvia; fornece tecido para exame.",
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Queilite actínica, Tratamento e prognóstico, p. 384–385"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o Neville, o que significa dizer que uma desordem oral é potencialmente maligna?",
+      "alternativas": [
+        {
+          "texto": "Que a lesão sempre evolui para carcinoma se não for removida.",
+          "correta": false,
+          "justificativa": "Errada: o capítulo afirma que a maioria dos pacientes com essas desordens não progride para malignidade.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        },
+        {
+          "texto": "Que o risco de câncer é aumentado, mas não inevitável.",
+          "correta": true,
+          "justificativa": "Certa: é o sentido do termo. A maioria não progride, embora alguns desenvolvam câncer ou já o tenham na primeira consulta.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        },
+        {
+          "texto": "Que a lesão já é um carcinoma in situ ao diagnóstico.",
+          "correta": false,
+          "justificativa": "Errada: o termo é clínico e define risco variável, não um diagnóstico histológico. Algumas lesões já têm câncer, mas isso não é a definição.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, Boxe 10.4, p. 370–371"
+        },
+        {
+          "texto": "Que a lesão só indica o hábito, sem risco próprio de câncer.",
+          "correta": false,
+          "justificativa": "Errada: há risco aumentado; a taxa média de transformação estimada é de cerca de 8%.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371",
+      "secao": "conceito",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Homem de 55 anos, fumante, tem uma placa branca na mucosa jugal. Ao raspar com gaze, a placa permanece. Segundo o livro, esse achado ajuda a distinguir a leucoplasia de qual condição?",
+      "alternativas": [
+        {
+          "texto": "Candidíase pseudomembranosa.",
+          "correta": true,
+          "justificativa": "Certa: a leucoplasia não sai à raspagem, e o livro diz que esse achado ajuda a distingui-la da candidíase pseudomembranosa, das queimaduras e da estomatite de contato ao dentifrício.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Queratose friccional.",
+          "correta": false,
+          "justificativa": "Errada: o livro dá a candidíase pseudomembranosa, as queimaduras e a estomatite de contato como exemplos do que a raspagem ajuda a distinguir. A queratose friccional é outra placa branca a excluir antes de chamar a lesão de leucoplasia, não um desses exemplos.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, introdução; Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Líquen plano.",
+          "correta": false,
+          "justificativa": "Errada: o livro dá a candidíase pseudomembranosa, as queimaduras e a estomatite de contato como exemplos do que a raspagem ajuda a distinguir. O líquen plano é outra lesão branca a excluir antes de chamar a lesão de leucoplasia, não um desses exemplos.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, introdução; Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Queratose do tabaco sem fumaça.",
+          "correta": false,
+          "justificativa": "Errada: o livro dá a candidíase pseudomembranosa, as queimaduras e a estomatite de contato como exemplos do que a raspagem ajuda a distinguir. A queratose do tabaco sem fumaça é outra placa branca a excluir antes de chamar a lesão de leucoplasia, não um desses exemplos.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, introdução; Características clínicas, p. 371–379"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379",
+      "secao": "aspecto",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Qual paciente tem o perfil típico da leucoplasia verrucosa proliferativa?",
+      "alternativas": [
+        {
+          "texto": "Homem de 35 anos, fumante, com placa fina e única no ventre da língua.",
+          "correta": false,
+          "justificativa": "Errada: placa fina e única é o retrato da leucoplasia homogênea delgada; a LVP é multifocal, predomina em mulheres e tem pouca relação com tabaco.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Homem de 60 anos, fumante pesado, com placa única, espessa, bem branca e com fissuras profundas na mucosa jugal.",
+          "correta": false,
+          "justificativa": "Errada: placa única, espessa e fissurada em fumante que não reduz o hábito é a leucoplasia homogênea espessa; a LVP tem várias placas, predomina em mulheres e tem pouca relação com tabaco.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Mulher idosa, não fumante, com várias placas rugosas na gengiva que crescem devagar.",
+          "correta": true,
+          "justificativa": "Certa: a LVP tem várias placas queratóticas rugosas de crescimento lento, gengiva frequente, proporção homem:mulher de 1:4 e associação mínima com tabaco.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Homem de 58 anos, fumante, com uma placa única de áreas vermelhas e brancas na borda da língua.",
+          "correta": false,
+          "justificativa": "Errada: mistura de áreas vermelhas e brancas numa lesão é a eritroleucoplasia (leucoplasia salpicada), uma leucoplasia não homogênea; a LVP é multifocal, rugosa e verrucosa, com gengiva frequente.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379",
+      "secao": "aspecto",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Leucoplasia extensa na borda lateral da língua, quase toda branca e lisa, com uma área granular e avermelhada. Como proceder com a biópsia?",
+      "alternativas": [
+        {
+          "texto": "Biopsiar a parte branca e lisa, que é a mais representativa.",
+          "correta": false,
+          "justificativa": "Errada: a biópsia deve ser feita nas áreas de aspecto mais grave; a parte homogênea é a de menor risco.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        },
+        {
+          "texto": "Trocar a biópsia por autofluorescência e citologia esfoliativa.",
+          "correta": false,
+          "justificativa": "Errada: não há evidência suficiente para usar essas técnicas na rotina; exame clínico e biópsia seguem como padrão-ouro.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas, p. 371–379"
+        },
+        {
+          "texto": "Observar por 6 meses e biopsiar só se a lesão crescer.",
+          "correta": false,
+          "justificativa": "Errada: leucoplasia é termo clínico e precisa de biópsia para orientar a conduta; a área granular e vermelha aumenta a suspeita.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        },
+        {
+          "texto": "Biopsiar a área granular e avermelhada, a de aspecto mais grave.",
+          "correta": true,
+          "justificativa": "Certa: a biópsia vai para as áreas clinicamente mais graves; áreas vermelhas tendem a ter displasia de alto grau ou carcinoma microinvasivo.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características clínicas; Tratamento e prognóstico, p. 371–379"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379",
+      "secao": "biopsia",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Na graduação da displasia epitelial pelo sistema de três níveis, qual afirmação descreve o princípio usado?",
+      "alternativas": [
+        {
+          "texto": "Quanto mais espessa a camada de queratina na superfície, maior o grau.",
+          "correta": false,
+          "justificativa": "Errada: a hiperqueratose é o achado comum da leucoplasia e não define o grau; o grau depende de até onde vão as alterações displásicas no epitélio.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+        },
+        {
+          "texto": "As alterações partem da camada basal; quanto mais alto no epitélio elas chegam, maior o grau.",
+          "correta": true,
+          "justificativa": "Certa: leve fica nas camadas basal e parabasal, moderada chega à porção média da camada espinhosa e intensa passa do terço médio. O livro ressalva que atipia muito marcante só no terço basal pode ser grave.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+        },
+        {
+          "texto": "No carcinoma in situ, as alterações ficam na camada basal, mas já invadem o conjuntivo.",
+          "correta": false,
+          "justificativa": "Errada: o carcinoma in situ ocupa toda a espessura do epitélio, da basal à superfície, e não tem invasão; sem invasão, não há metástase.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+        },
+        {
+          "texto": "As alterações começam na superfície e descem em direção à camada basal.",
+          "correta": false,
+          "justificativa": "Errada: em todos os graus, as alterações começam na camada basal e sobem; o que muda é até que altura do epitélio elas chegam.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Características histopatológicas, p. 371–379",
+      "secao": "biopsia",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "A biópsia de uma leucoplasia no assoalho de boca mostra displasia epitelial intensa. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Remover toda a lesão, se possível, e manter controle rigoroso.",
+          "correta": true,
+          "justificativa": "Certa: displasia moderada ou intensa justifica remoção completa e acompanhamento clínico rigoroso (p. ex., a cada 1, 3 ou 6 meses).",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        },
+        {
+          "texto": "Aconselhar sobre tabaco e reavaliar a cada 6 a 12 meses.",
+          "correta": false,
+          "justificativa": "Errada: a conduta conservadora vale para lesões sem displasia ou com displasia leve, sem fator clínico adverso.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        },
+        {
+          "texto": "Tratar com retinoide sistêmico no lugar da remoção.",
+          "correta": false,
+          "justificativa": "Errada: a quimioprevenção é experimental; os retinoides sistêmicos têm toxicidade frequente, a lesão costuma voltar quando o tratamento para e não há evidência suficiente de eficácia.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        },
+        {
+          "texto": "Remover a lesão e dar alta, pois o risco termina com a excisão.",
+          "correta": false,
+          "justificativa": "Errada: a recidiva varia de 7 a 38%, novas lesões são comuns e o acompanhamento de longo prazo é necessário.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Leucoplasia, Tratamento e prognóstico, p. 371–379",
+      "secao": "conduta",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Mulher de 68 anos tem mancha vermelha bem delimitada, aveludada e indolor no assoalho de boca. Não há irritante local. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Prescrever antifúngico e rever em um mês.",
+          "correta": false,
+          "justificativa": "Errada: a candidíase está no diferencial, mas lesão vermelha no assoalho é suspeita e a biópsia é que distingue a eritroplasia.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Eritroplasia, Características clínicas; Tratamento e prognóstico, p. 379–380"
+        },
+        {
+          "texto": "Aguardar 2 semanas antes de qualquer exame.",
+          "correta": false,
+          "justificativa": "Errada: o adiamento de 2 semanas vale quando há irritante identificável que possa ser removido, e aqui não há irritante local.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Eritroplasia, Tratamento e prognóstico, p. 379–380"
+        },
+        {
+          "texto": "Fazer biópsia.",
+          "correta": true,
+          "justificativa": "Certa: lesões vermelhas, sobretudo no assoalho e na região ventrolateral da língua, devem ser vistas com suspeita e biopsiadas; quase todas as eritroplasias verdadeiras têm displasia significativa ou carcinoma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Eritroplasia, Tratamento e prognóstico, p. 379–380"
+        },
+        {
+          "texto": "Orientar higiene e rever no controle anual.",
+          "correta": false,
+          "justificativa": "Errada: a eritroplasia tem risco muito alto; pelo menos metade já é carcinoma ao diagnóstico.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371; Eritroplasia, p. 379–380"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Eritroplasia, Tratamento e prognóstico, p. 379–380",
+      "secao": "eritroplasia",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Pescador de 62 anos, pele clara, tem o lábio inferior seco e fissurado, com limite entre vermelhão e pele apagado, e uma úlcera que não cicatriza há 4 meses. Qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Indicar só protetor solar e chapéu, com retorno em um ano.",
+          "correta": false,
+          "justificativa": "Errada: a proteção solar deve ser orientada, mas a ulceração precisa de biópsia para descartar carcinoma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Queilite actínica, Tratamento e prognóstico, p. 384–385"
+        },
+        {
+          "texto": "Tratar com imiquimode tópico, sem exame do tecido.",
+          "correta": false,
+          "justificativa": "Errada: medicamentos tópicos são alternativas para a queilite; áreas de ulceração devem antes ser biopsiadas.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Queilite actínica, Tratamento e prognóstico, p. 384–385"
+        },
+        {
+          "texto": "Tranquilizar, porque a queilite leva décadas para virar câncer.",
+          "correta": false,
+          "justificativa": "Errada: a transformação costuma ser lenta, mas úlcera que dura meses sugere progressão para carcinoma espinocelular.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Queilite actínica, Características clínicas; Tratamento e prognóstico, p. 384–385"
+        },
+        {
+          "texto": "Biopsiar a úlcera para descartar carcinoma espinocelular.",
+          "correta": true,
+          "justificativa": "Certa: endurecimento, espessamento, ulceração ou leucoplasia na queilite actínica devem ser biopsiados para descartar carcinoma.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Queilite actínica, Tratamento e prognóstico, p. 384–385"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Queilite actínica, Tratamento e prognóstico, p. 384–385",
+      "secao": "queilite",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Entre as desordens abaixo, qual tem a maior taxa total estimada de transformação maligna segundo o capítulo?",
+      "alternativas": [
+        {
+          "texto": "Fibrose submucosa oral.",
+          "correta": false,
+          "justificativa": "Errada: cerca de 4 a 6% dos pacientes com fibrose submucosa desenvolvem câncer oral (taxa total).",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371; Fibrose submucosa oral, Tratamento e prognóstico, p. 382–384"
+        },
+        {
+          "texto": "Leucoplasia verrucosa proliferativa.",
+          "correta": true,
+          "justificativa": "Certa: a LVP tem transformação total estimada de 44 a 100% (mais de 9% ao ano).",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        },
+        {
+          "texto": "Leucoplasia, considerada em geral.",
+          "correta": false,
+          "justificativa": "Errada: a leucoplasia em geral tem transformação total estimada de 4 a 22% (cerca de 1 a 3% ao ano).",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        },
+        {
+          "texto": "Líquen plano oral.",
+          "correta": false,
+          "justificativa": "Errada: o risco do líquen plano parece baixo, com estimativas abaixo de 1 a 3%, e sua inclusão na lista é debatida.",
+          "fonte": "neville5-cap10",
+          "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371"
+        }
+      ],
+      "fonte": "neville5-cap10",
+      "onde": "cap. 10, Desordens orais potencialmente malignas, p. 370–371",
+      "secao": "comparacao",
+      "figura": null
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "slug": "deteccao-e-diagnostico-de-carie",
+  "titulo": "Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão",
+  "area": "Dentística",
+  "origem": "ORCA-EFCD 2024, Paper I e Paper II; Maltz et al. (Série Abeno) 2016, cap. 6",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "kuhnisch2024",
+      "ref": "Kühnisch J, Aps JKM, Splieth C, Lussi A, Jablonski-Momeni A, Mendes FM, et al. ORCA-EFCD consensus report on clinical recommendation for caries diagnosis. Paper I: caries lesion detection and depth assessment. Clin Oral Investig. 2024;28(4):227. doi:10.1007/s00784-024-05597-3. Relatório de consenso: o título diz \"consensus report\" e o próprio texto se chama \"consensus paper\" (resumo e introdução); o PMC o indexa com o tipo de artigo \"letter\".",
+      "curta": "ORCA-EFCD 2024, Paper I"
+    },
+    {
+      "id": "neuhaus2024",
+      "ref": "Neuhaus KW, Kühnisch J, Banerjee A, Martignon S, Ricketts D, Schwendicke F, et al. Organization for Caries Research-European Federation of Conservative Dentistry Consensus Report on Clinical Recommendations for Caries Diagnosis. Paper II: Caries Lesion Activity and Progression Assessment. Caries Res. 2024;58(5):511-520. doi:10.1159/000538619. Relatório de consenso.",
+      "curta": "ORCA-EFCD 2024, Paper II"
+    },
+    {
+      "id": "maltz2016",
+      "ref": "Maltz M, Tenuta LMA, Groisman S, Cury JA. Cariologia: conceitos básicos, diagnóstico e tratamento não restaurador. Série Abeno. Artes Médicas, 2016. Cap. 6, Diagnóstico da cárie dentária (capítulo de Groisman, van der Veen, Jardim e Maltz), pp. 64-74. Livro de série didática (Série Abeno).",
+      "curta": "Maltz et al., Cariologia (Série Abeno), 2016"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "inspecao-visual",
+      "titulo": "Inspeção visual-tátil: o primeiro método",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendações 1 a 3; seção Visual examination; Quality of the literature (visual examination)",
+      "texto": "O consenso europeu ORCA-EFCD (Organization for Caries Research e European Federation of Conservative Dentistry; Paper I, 2024, um relatório de consenso) **recomenda** a **inspeção visual-tátil com um sistema de classificação estruturado** como método de primeira escolha para detectar e estadiar lesões em superfícies acessíveis. Evidência alta; os 20 especialistas concordaram.\n\n**Antes de classificar, o consenso pede:**\n- documentar o biofilme e depois removê-lo;\n- secar a superfície com ar;\n- iluminar bem.\n\nO texto explica que isso separa a cárie de outros defeitos e permite registrar os parâmetros usados na avaliação de atividade. Lesões iniciais não cavitadas aparecem melhor depois de alguns segundos de ar comprimido (o texto liga isso ao ICDAS 1); lesões já estabelecidas podem ser registradas com a superfície úmida (ICDAS 2). O consenso não dá segundos nem valor de iluminação.\n\n**Outras recomendações do mesmo grupo:**\n- **Recomendação 2:** a inspeção visual-tátil **deve também ser usada** para colher informação sobre a **atividade** da lesão (evidência moderada; 90% de concordância). O Paper II trata do mesmo ponto com outra redação (recomendação geral 2, na seção \"Avaliar atividade: as recomendações gerais do Paper II\"); o tema mostra as duas e não escolhe.\n- **Recomendação 3:** a inspeção visual-tátil também é **recomendada** no diagnóstico diferencial de todos os outros defeitos duros do dente (sem nível de evidência; 95% de concordância). O texto cita como exemplos o desgaste erosivo, o desgaste por atrito, as manchas, a hipomineralização molar-incisivo e a fluorose.\n\n**Lupas:** a evidência para uso clínico é fraca, e o texto pede cautela porque podem levar a tratamento desnecessário.\n\n**Acurácia:** as revisões sistemáticas mais recentes, sobre lesões de esmalte e de dentina, observaram sensibilidade e especificidade boas ou ao menos aceitáveis. Na detecção de lesão proximal mais avançada a sensibilidade foi baixa, provavelmente pela crista marginal íntegra. Só uma minoria dos estudos incluídos era clínica."
+    },
+    {
+      "id": "icdas-estadiamento",
+      "titulo": "ICDAS no consenso: três categorias de estadiamento",
+      "fonte": "kuhnisch2024",
+      "onde": "Seção Visual examination (ICDAS, UniViSS e CAST)",
+      "texto": "O consenso cita o **ICDAS**, o UniViSS e o CAST como sistemas visuais. Para estadiar a lesão depois de detectada, diz que o ICDAS é provavelmente o método contemporâneo mais usado.\n\nPara o clínico, o artigo diz que três categorias podem ser as de maior relevância:\n\n| Categoria | Códigos ICDAS | O que se vê |\n|---|---|---|\n| **Inicial, não cavitada** | 1 e 2 | o 1 é detectado melhor depois de alguns segundos de ar comprimido; o 2 é a lesão estabelecida, registrável com a superfície úmida |\n| **Moderada, não cavitada** | 3 e 4 | quebra da superfície do esmalte (3) ou sombra de dentina por baixo (4); provavelmente há desmineralização até a dentina externa |\n| **Extensa, cavitada** | 5 e 6 | cavidades distintas e extensas, com dentina exposta na base e, se mais profundas, nas paredes laterais |\n\nNeste artigo o ICDAS entra como **método de estadiamento**: diz o quanto a lesão avançou. O consenso não reproduz o ICDAS inteiro. Como o código se relaciona com a **atividade** está no Paper II, na seção seguinte.\n\n**Sistema do Cariologia:** o livro da Série Abeno, que aparece nas últimas seções, não usa o ICDAS. Ele classifica por textura, brilho, cor e atividade. Os dois sistemas são mostrados cada um com a sua fonte; este tema não converte um no outro."
+    },
+    {
+      "id": "tabela-icdas-atividade",
+      "titulo": "Tabela 1 do Paper II: código ICDAS e atividade",
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 1, seção Recommendations (esmalte e dentina); Recomendação 8",
+      "texto": "O Paper II traz uma tabela que põe lado a lado o código ICDAS e os critérios de lesão **ativa** e **inativa**. Ela é baseada no ICDAS Committee, em Banerjee e Watson e em Drancourt et al. Leia por linha:\n\n| Código ICDAS | Ativa | Inativa |\n|---|---|---|\n| **0** (sem ou pouca mudança de translucidez do esmalte após secagem prolongada, 5 s) | sem critério na tabela | sem critério na tabela |\n| **1, 2 e 3** (1: primeira mudança visual, só após secagem prolongada ou dentro de cava ou fissura; 2: mudança distinta; 3: quebra localizada do esmalte, sem sinal visual de dentina) | esmalte branco-amarelado, opaco, sem brilho; áspero quando a ponta esférica da sonda passa de leve; em área de estagnação de placa | esmalte branco, marrom ou preto; pode ser brilhante, duro e liso à sonda |\n| **4** (sombra escura de dentina sob o esmalte) | **provavelmente ativa** | a tabela não traz critério |\n| **5 e 6** (5: cavidade distinta com dentina visível; 6: cavidade extensa com dentina visível, mais da metade da superfície) | dentina mole ou de couro ao sondar com suavidade | pode ser brilhante e dura ao sondar com suavidade |\n\n**Atenção:** o rótulo \"provavelmente ativa\" está só na linha do código 4. Os códigos 1 a 3 compartilham uma célula de critérios, e os códigos 5 e 6 compartilham outra.\n\n**Esmalte, Recomendação 8 do Paper II** (evidência moderada; 95% de concordância): biofilme e aspecto branco-opaco, giz ou fosco do esmalte **devem ser considerados** indicadores de lesão **ativa**; esmalte sem biofilme e brilhante, característica de provável lesão de esmalte não cavitada **inativa**. Não confundir com a Recomendação 8 do Paper I, sobre fotografia (seção de métodos adjuntos)."
+    },
+    {
+      "id": "atividade-principios",
+      "titulo": "Avaliar atividade: as recomendações gerais do Paper II",
+      "fonte": "neuhaus2024",
+      "onde": "Recommendations > General recommendations (recomendações gerais 1 a 7)",
+      "texto": "O consenso ORCA-EFCD (Paper II, 2024) reúne sete recomendações gerais sobre atividade:\n\n- **Recomendação geral 1.** Lesões progredidas e recém-desenvolvidas **devem ser consideradas ativas** (evidência moderada; 100%).\n- **Recomendação geral 2.** A inspeção visual-tátil **deve ser** o método de escolha para avaliar a atividade da lesão; outros métodos auxiliares **não são recomendados** para essa finalidade (evidência moderada; 80% de concordância, um especialista discordou).\n- **Recomendação geral 3.** A avaliação **deve pesar várias características clínicas**, porque nenhuma isolada indica atividade (evidência moderada; 100%).\n- **Recomendação geral 4.** Lesão cavitada que **não pode ser limpa** deve ser considerada ativa, a menos que haja sinais claros de inatividade (evidência baixa; 95%).\n- **Recomendação geral 5.** Lesão não cavitada de atividade **incerta** deve ser considerada ativa até a reavaliação (sem nível de evidência; 85%).\n- **Recomendação geral 6.** A avaliação deve incluir **quantidade e qualidade do biofilme antes de removê-lo**, sobretudo em áreas de estagnação (90%).\n- **Recomendação geral 7.** No registro do caso, **documentar o estado de atividade**, sobretudo nas lesões tratadas com medidas preventivas não operatórias (80%).\n\n**Lesão mista:** pode ter traços de atividade e de inatividade; não é necessariamente profunda e larga.\n\n**Incerteza depois de profilaxia:** se a avaliação vier logo depois de profilaxia ou de polimento a jato de ar, a superfície limpa e polida, sem placa, e a gengiva que sangra pelo jato geram incerteza.\n\n**O mesmo ponto no Paper I:** a recomendação 2 do Paper I tem outra redação: a inspeção visual-tátil deve também ser usada para colher informação sobre a atividade (evidência moderada; 90%). Ela está na seção \"Inspeção visual-tátil: o primeiro método\". O tema mostra as duas, cada uma com a sua fonte, e não escolhe."
+    },
+    {
+      "id": "atividade-dentina",
+      "titulo": "Atividade em dentina, em lesão proximal e em lesão secundária",
+      "fonte": "neuhaus2024",
+      "onde": "Recomendações 9 a 12; seção Recommendations (dentina e cárie secundária)",
+      "texto": "**Dentina e superfícies com dentina exposta (Recomendação 9;** evidência moderada; 90%): biofilme e dentina exposta **mole ou \"de couro\"** devem ser considerados indicadores de lesão ativa. Dentina exposta **brilhante, dura e sem biofilme** deve ser considerada indicadora de lesão arrestada ou inativa. Em raiz, a proximidade da margem gengival também conta.\n\n**Como sondar:**\n- **Recomendação 10:** a dureza da dentina deve ser avaliada com **explorador de ponta arredondada** (85%).\n- O texto explica que sonda de ponta afiada usada com força pode danificar a dentina ou a lesão de esmalte. Serve também a sonda periodontal ou a de ponta esférica.\n\n**Lesão proximal (Recomendação 11;** evidência baixa; 75%, um especialista discordou): **sangramento gengival localizado**, provocado por sondagem suave do sulco, deve ser considerado indicador de atividade.\n\n**Lesão secundária, na margem de restauração (Recomendação 12;** 90%): a atividade é avaliada **como nas lesões primárias**. O texto acrescenta:\n- em áreas de difícil acesso, como margem cervical e de coroa, a avaliação **tátil** tende a ser mais relevante que a visual **para detectar a lesão**;\n- o texto diz que uma fenda existente e o seu tamanho, sozinhos, parecem não indicar desmineralização em curso nem a longevidade do conjunto dente-restauração; a fenda deve ser vista como um entre vários fatores de risco ou como local predisposto."
+    },
+    {
+      "id": "raiz-orca",
+      "titulo": "Cárie radicular: Tabela 2 do Paper II",
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 2, Recommendations > cárie radicular; Recomendação 9",
+      "texto": "A Tabela 2 do Paper II reúne os critérios de **atividade da lesão radicular** encontrados na literatura (Nyvad et al., Ekstrand et al., Pitts et al. e outros):\n\n| Característica | Inativa | Ativa |\n|---|---|---|\n| Aparência visual | brilhante | opaca ou fosca |\n| Biofilme | em geral sem biofilme | em geral coberta por biofilme |\n| Distância da margem gengival | longe da margem | perto da margem |\n| Cor | marrom ou preta | amarelada, marrom-clara ou marrom |\n| Tátil, superfície | lisa | áspera |\n| Tátil, consistência | dura | mole ou pegajosa (\"de couro\") |\n\nA tabela traz ainda linhas de fluorescência (cortes diferentes entre estudos, sem valor na tabela), de QLF (sem valor) e de imagem térmica (efeito de resfriamento abaixo de 30 s na inativa e acima de 30 s na ativa, um único estudo).\n\n**Texto de apoio:** alguns autores usam a **cor** como apoio, mas o texto diz que a cor avaliada de forma subjetiva se sobrepõe entre examinadores, e que Lynch e Beighton não a encontraram preditiva de atividade na raiz. Lesão radicular brilhante é considerada inativa, e a opaca, fosca ou rugosa, ativa; biofilme denso indica ativa, e ausência de biofilme, inativa. Uma lesão arrestada pode ter camada superficial remineralizada, vista na histologia de um estudo citado.\n\nA Recomendação 9 vale também para a raiz: dentina exposta **mole ou de couro**, com biofilme, deve ser considerada indicadora de lesão ativa, e dentina brilhante, dura e sem biofilme, de lesão arrestada ou inativa. Para a raiz, a recomendação acrescenta a proximidade da margem gengival, que a Tabela 2 associa à lesão ativa."
+    },
+    {
+      "id": "radiografia-indicacao",
+      "titulo": "Radiografia: quando o consenso a recomenda",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendações 4 a 6; subseção Radiation protection aspects",
+      "texto": "O consenso ORCA-EFCD (Paper I) trata a radiografia como **método adicional** à inspeção visual:\n\n- **Recomendação 4.** A radiografia intraoral, de preferência a **interproximal (bitewing)**, é **recomendada** como método adicional à inspeção visual para detectar e estadiar lesões (evidência moderada; 100% de concordância).\n- **Recomendação 5.** A interproximal **extraoral**, feita em equipamento panorâmico, **só pode ser considerada** quando a interproximal convencional não for viável (evidência baixa; 80%).\n- **Recomendação 6.** Outras radiografias (panorâmica convencional, tomografia (CBCT)) **não devem ser feitas só para detectar e estadiar cárie**. As feitas por outro motivo devem ser examinadas em busca de achados incidentais de cárie (90%).\n\n**Justificação individual:** a radiografia se justifica depois de histórico e exame clínico, e só se a acurácia do clínico for maior com ela do que sem. Também conta a otimização: técnica, posicionamento, parâmetros de exposição, campo mínimo e controle de qualidade. O texto lembra que crianças têm risco de radiação de cerca de 2 a 3 vezes o de um adulto de 30 anos.\n\n**Radiografia periapical:** a evidência é limitada. O texto diz que a acurácia deve ser parecida com a da interproximal se a técnica for paralela, e que qualquer angulação vertical a reduz.\n\n**Limite:** o Paper I não dá intervalo de repetição de radiografia. Os prazos em meses citados na série estão no Paper II (seção \"Intervalos de reavaliação e de radiografia\"), tirados de outras diretrizes e não decididos pelo painel."
+    },
+    {
+      "id": "radiografia-desempenho",
+      "titulo": "O que a radiografia acerta e onde erra (Paper I)",
+      "fonte": "kuhnisch2024",
+      "onde": "Tabela 2 do Paper I; subseção Quality of the literature",
+      "texto": "**Desempenho, segundo as revisões sistemáticas resumidas no Paper I:**\n- radiografia intraoral: sensibilidade típica de cerca de **0,40 a 0,60** e especificidade de cerca de **0,80 a 0,90**;\n- sensibilidade maior em lesão proximal e em lesão mais avançada ou de dentina; menor em lesão inicial;\n- vale para dentição decídua e permanente, analógica e digital.\n\nO texto diz que as revisões têm, em geral, alto risco de viés.\n\n**Interproximal intraoral (Tabela 2 do Paper I):**\n- geometria boa para a face proximal e para o nível ósseo; maxila e mandíbula na mesma imagem; dose de cerca de **1 a 5 µSv**; custo baixo;\n- desvantagens: pode incomodar; só duas dimensões; em apinhamento a face proximal pode ficar sobreposta;\n- **oclusal:** sem valor diagnóstico para lesão só de esmalte; sensibilidade moderada e especificidade alta para lesão de dentina;\n- **proximal:** em lesões iniciais, sensibilidade baixa a moderada e especificidade alta; a sensibilidade é maior em lesões mais profundas;\n- **raiz:** evidência baixa e risco de confundir o *burn-out* cervical com cárie;\n- **recorrente:** risco de confundir cárie residual proposital ou falha de restauração com recidiva.\n\n**Outras técnicas:** a panorâmica convencional tem dose média de cerca de 24 µSv e sensibilidade menor para lesão proximal. A interproximal extraoral tem cerca de 15 µSv. A **CBCT** tem dose de cerca de 10 a 1100 µSv, artefatos que causam falso positivo e sensibilidade e especificidade resumidas de 0,68 e 0,90 (proximal) e 0,76 e 0,54 (oclusal). Para a oclusal o texto considera a taxa de falso positivo inaceitável."
+    },
+    {
+      "id": "intervalos",
+      "titulo": "Intervalos de reavaliação e de radiografia (Paper II)",
+      "fonte": "neuhaus2024",
+      "onde": "Recomendação 13 e texto de apoio (seção Caries Lesion Activity and Monitoring of Progression); Introdução (validação)",
+      "texto": "**Recomendação 13** (evidência baixa; 100% de concordância): os intervalos de **retorno** para exame **visual** e **radiográfico** **precisam ser ajustados** à presença de **lesões ativas** e à **velocidade recente de progressão**, com modificações baseadas nas características individuais do paciente.\n\nOs números abaixo **não são decisão do painel**: o texto do artigo, fora das recomendações, não passou pela votação. São intervalos **entre radiografias interproximais** que o Paper II traz de outras fontes (refs. 41 e 42 do artigo):\n- risco alto ou paciente suscetível: **6 a 18 meses**, propostos por várias diretrizes que o texto não nomeia;\n- risco moderado a baixo: **12/24–48 meses**, como está escrito no texto, que cita a revisão sistemática de diretrizes sobre o momento e a frequência das interproximais (Goodwin e colaboradores, 2017, ref. 41);\n- diretriz europeia de odontopediatria (EAPD, ref. 42, Kühnisch e colaboradores, 2020), para crianças e adolescentes: define o intervalo pela presença e pela profundidade da lesão, e não pelo risco. Lesão na junção amelo-dentinária ou mais profunda, **1 a 2 anos**; só em esmalte, **2 a 3 anos**; sem lesão, **5 a 10 anos**.\n\nSão números de diretrizes citadas por um consenso europeu: não são norma brasileira nem decisão deste tema.\n\n**Cautela:** com prevalência baixa de cárie, decidir pela radiografia interproximal aumenta, em nível de coorte, o risco de tratamento excessivo por falso positivo.\n\n**Fatores para decidir sobre a radiografia (texto):** idade, avaliação de atividade, presença de dentina cariada, contatos proximais e disposição do paciente para a higiene. Pode haver radiografia ou retorno por outro motivo (implante, saúde periodontal).\n\n**Validação:** o consenso diz que a melhor validação da atividade é a reavaliação repetida ao longo do tempo, requisito central das consultas de retorno, e que ela também ajuda a validar o efeito das medidas preventivas não operatórias."
+    },
+    {
+      "id": "adjuntos",
+      "titulo": "Métodos adjuntos e fotografia",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendações 7 e 8; subseções Non-radiographical caries diagnostic methods e Quality of the literature",
+      "texto": "**Recomendação 7** (evidência moderada; 85%): métodos adjuntos **sem radiação ionizante**, para detectar ou estadiar lesões (sobretudo em superfícies não acessíveis), **podem ser preferidos** quando a radiografia não for viável ou não for considerada adequada na situação individual.\n\n**Métodos citados, por tipo de luz ou corrente:**\n- fluorescência vermelha (DIAGNOdent, Canary System);\n- fluorescência verde e azul (VistaCam iX, QLF e outros);\n- infravermelho próximo, por transiluminação ou excitação (DIAGNOcam/CariVu, iTero);\n- resistência elétrica e espectroscopia de impedância.\n\n**Evidência e uso:**\n- o DIAGNOdent é o mais estudado, com acurácia boa a aceitável em proximal e oclusal; limpeza, secagem e manchas podem elevar a leitura e gerar falso positivo; leituras altas pedem cautela e confirmação por outro método;\n- a transiluminação infravermelha tem revisões divergentes;\n- o texto indica os adjuntos para pacientes com atividade ou risco aumentados, superfícies não acessíveis e acompanhamento de lesões iniciais não cavitadas; detectar cavidade tem pouco significado porque a inspeção visual já a mostra.\n\n**Comparação:** segundo o texto, a radiografia interproximal atende à maioria dos requisitos de um método ideal, e nenhum adjunto chegou a esse nível por completo. A inteligência artificial é vista como cedo demais para orientar o uso clínico.\n\n**Recomendação 8** (85%): fotografia ou escaneamento intraoral **podem ser usados** para registrar e comparar o estado da cárie ao longo do tempo."
+    },
+    {
+      "id": "maltz-coronaria",
+      "titulo": "Cariologia: atividade da lesão em esmalte e dentina",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, Características clínicas das lesões de cárie, pp. 64–66 (Quadro 6.1, p. 66)",
+      "texto": "O Cariologia (Série Abeno; o cap. 6 traz como autores Groisman, van der Veen, Jardim e Maltz) **não usa o ICDAS**. Para o livro, diagnosticar a doença é detectar **perda mineral atual**, isto é, lesão **ativa**, e não apenas a cavidade. Depois, investigam-se os fatores etiológicos.\n\n**Preparo (p. 65):** remover o biofilme profissionalmente; superfície limpa, seca e bem iluminada. A secagem troca a água das porosidades por ar e deixa a lesão mais visível; lesões iniciais pedem mais tempo de secagem.\n\n**Sem cavidade (p. 65):**\n- **ativa:** esbranquiçada, fosca ou opaca, **rugosa** ao explorador; fica sob biofilme (junto à gengiva, abaixo do contato proximal, oclusal sem autolimpeza);\n- **inativa:** superfície **lisa e brilhante** ao explorador de ponta arredondada.\n\n**Com cavidade em dentina (pp. 65–66):** ativa, **amarelada, amolecida e úmida**; inativa, **endurecida e seca**, na maioria das vezes escurecida.\n\n**Quadro 6.1 (p. 66):** textura (hígido: esmalte liso e dentina dura; ativa: rugosa no esmalte; amolecida, coriácea e úmida na dentina; inativa: lisa ou dura e seca), brilho (ativa: opaca; inativa: brilhante) e cor (hígido: esmalte translúcido; ativa: branca ou amarelada; inativa: branca, amarelada ou marrom escurecido a preto). **Textura e brilho são os critérios determinantes; a cor é só um indicador.**\n\n**Sondagem (pp. 65–66):** usar pressão mínima e, de preferência, ponta arredondada, porque a camada superficial porosa pode romper e criar cavidade. A sonda ficar ou não retida não indica presença ou ausência de lesão. Com cavitação visível, o explorador serve só para remover biofilme e resíduos antes do exame visual."
+    },
+    {
+      "id": "maltz-raiz",
+      "titulo": "Cariologia: lesão radicular",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, p. 66 (cárie radicular) e Quadro 6.2",
+      "texto": "O Cariologia não tem capítulo próprio sobre cárie radicular. O que o capítulo 6 traz sobre detecção está na p. 66.\n\n**Localização:** lesões **ativas** ficam junto à margem gengival; as **inativas** ficam a alguma distância dela.\n\n**Quadro 6.2, características visuais e táteis:**\n\n| | Cor | Dureza |\n|---|---|---|\n| **Ativa** | amarelada ou amarronzada | amolecida, com aspecto de couro |\n| **Inativa** | amarronzada ou preta | endurecida |\n\nO quadro marca a **cor** como de valor preditivo precário. O texto repete que, como nas lesões coronárias, a cor da lesão radicular é um preditor precário de atividade.\n\n**Outra fonte:** o consenso ORCA-EFCD traz uma tabela própria de critérios da lesão radicular; ver a seção «Cárie radicular: Tabela 2 do Paper II» (ORCA-EFCD, Paper II). O livro e o consenso têm cada um a sua tabela; este tema não os funde."
+    },
+    {
+      "id": "maltz-radiografia",
+      "titulo": "Cariologia: radiografia interproximal e métodos auxiliares",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, pp. 67–70 (radiografia, auxiliares, considerações)",
+      "texto": "**Radiografia interproximal (p. 67):** o exame com sonda e espelho segue o mais usado, mas não revela pequenas lesões em superfícies proximais e oclusais. O livro diz que a interproximal **deve ser associada** ao exame clínico para suprir essa deficiência e ajudar a avaliar a profundidade da lesão e processos periapicais. Uma imagem radiolúcida em dentina indica **progressão da lesão em dentina mesmo antes da cavidade clínica**, em lesão proximal e oclusal. A fragilidade é a **variabilidade entre observadores**.\n\n**Auxiliares (pp. 67–69):** o livro descreve eletrocondutividade, transiluminação por fibra óptica (FOTI e DIFOTI) e fluorescência (QLF, DIAGNOdent, Vista Proof e outros). Em lesão proximal em dentina, FOTI e radiografia interproximal têm especificidade semelhante, e a radiografia tem sensibilidade superior. No estudo citado, o DIFOTI não mediu a profundidade da lesão proximal em nenhuma amostra.\n\n**Atividade (p. 69):** o livro destaca que a inspeção visual é o único método de detecção que permite avaliar a atividade pelas características clínicas. Os auxiliares só dizem se há perda mineral e devem ser **adjuntos** à inspeção visual e tátil. O livro afirma que não existe método ideal quanto a fidedignidade, aceitação pelo paciente e disponibilidade para o profissional.\n\n**Auxiliares e decisão (pp. 69–70):** no estudo de Pereira e colaboradores, os auxiliares somados ao exame visual em superfície oclusal **aumentaram a sensibilidade**, com **queda significativa da especificidade**: mais falsos positivos e mais superfícies indicadas para tratamento operatório. O livro conclui que o limiar antigo, a extensão radiográfica em dentina, **não é mais aceito** para decidir restaurar, pela impossibilidade de controlar o biofilme em lesão com cavidade. Os auxiliares devem ser usados com cautela na decisão de tratamento."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Qual método o consenso ORCA-EFCD recomenda como primeira escolha para detectar e estadiar lesões em superfícies acessíveis?",
+      "verso": "**Inspeção visual-tátil** com sistema de classificação estruturado (evidência alta; 100% de concordância).",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 1"
+    },
+    {
+      "id": "f02",
+      "frente": "Que preparo o consenso pede antes da inspeção visual?",
+      "verso": "Documentar e depois **remover o biofilme**, **secar com ar** e **iluminar bem**. Lesão inicial não cavitada aparece melhor após alguns segundos de ar.",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 1; seção Visual examination"
+    },
+    {
+      "id": "f03",
+      "frente": "Como o consenso ORCA-EFCD agrupa o ICDAS para o clínico?",
+      "verso": "**1 e 2:** inicial, não cavitada. **3 e 4:** moderada, não cavitada. **5 e 6:** extensa, cavitada (dentina exposta).",
+      "fonte": "kuhnisch2024",
+      "onde": "Seção Visual examination"
+    },
+    {
+      "id": "f04",
+      "frente": "Na Tabela 1 do Paper II, qual código ICDAS recebe o rótulo \"provavelmente ativa\"?",
+      "verso": "Só o **código 4** (sombra escura de dentina sob o esmalte). A coluna de inativa fica sem critério nessa linha.",
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 1"
+    },
+    {
+      "id": "f05",
+      "frente": "Códigos ICDAS 1 a 3 na Tabela 1: como é a lesão ativa e como é a inativa?",
+      "verso": "**Ativa:** esmalte branco-amarelado, opaco, sem brilho, áspero à ponta esférica, em área de estagnação de placa. **Inativa:** branco, marrom ou preto, pode ser brilhante, duro e liso.",
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 1, códigos 1 a 3"
+    },
+    {
+      "id": "f06",
+      "frente": "Códigos ICDAS 5 e 6 na Tabela 1: critério de atividade?",
+      "verso": "**Ativa:** dentina mole ou de couro ao sondar com suavidade. **Inativa:** pode ser brilhante e dura ao sondar com suavidade.",
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 1, códigos 5 e 6"
+    },
+    {
+      "id": "f07",
+      "frente": "O que diz o Paper II sobre o método de avaliar atividade e sobre auxiliares?",
+      "verso": "A inspeção visual-tátil **deve ser** o método de escolha; auxiliares **não são recomendados** para essa finalidade. Nenhuma característica isolada indica atividade.",
+      "fonte": "neuhaus2024",
+      "onde": "Recomendações gerais 2 e 3"
+    },
+    {
+      "id": "f08",
+      "frente": "Lesão cavitada que não pode ser limpa, e lesão não cavitada de atividade incerta: como o Paper II manda considerá-las?",
+      "verso": "Cavitada que não pode ser limpa: **ativa**, salvo sinais claros de inatividade (recomendação geral 4). Não cavitada incerta: **considerada ativa** até a reavaliação (recomendação geral 5).",
+      "fonte": "neuhaus2024",
+      "onde": "Recomendações gerais 4 e 5"
+    },
+    {
+      "id": "f09",
+      "frente": "Qual radiografia o consenso recomenda como adicional à inspeção visual, e quando a extraoral pode ser considerada?",
+      "verso": "A intraoral, de preferência a **interproximal** (recomendação 4). A extraoral em panorâmico **só pode ser considerada** se a convencional não for viável (recomendação 5).",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendações 4 e 5"
+    },
+    {
+      "id": "f10",
+      "frente": "O consenso recomenda panorâmica ou tomografia (CBCT) para detectar cárie?",
+      "verso": "**Não.** Não devem ser feitas só para detectar e estadiar cárie; as feitas por outro motivo devem ser examinadas para achados incidentais de cárie.",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 6"
+    },
+    {
+      "id": "f11",
+      "frente": "Quando o consenso diz que adjuntos sem radiação ionizante podem ser preferidos?",
+      "verso": "Quando a radiografia **não for viável** ou não for considerada adequada na situação individual, sobretudo em superfícies não acessíveis (recomendação 7).",
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 7"
+    },
+    {
+      "id": "f12",
+      "frente": "Em que o Paper II diz para basear os intervalos de exame visual e radiográfico?",
+      "verso": "Na presença de **lesões ativas** e na **velocidade recente de progressão**, com ajuste individual (recomendação 13). Os prazos em meses são intervalos entre interproximais, tirados de diretrizes que o artigo cita.",
+      "fonte": "neuhaus2024",
+      "onde": "Recomendação 13"
+    },
+    {
+      "id": "f13",
+      "frente": "Pelo Cariologia, como se distinguem lesão ativa e inativa sem cavidade?",
+      "verso": "**Ativa:** esbranquiçada, fosca ou opaca, rugosa ao explorador, sob biofilme. **Inativa:** lisa e brilhante.",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, p. 65"
+    },
+    {
+      "id": "f14",
+      "frente": "No Quadro 6.1 do Cariologia, quais critérios são determinantes e qual é só indicador?",
+      "verso": "**Textura e brilho** são determinantes. A **cor** é só um indicador, não um critério definitivo.",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, Quadro 6.1, p. 66"
+    },
+    {
+      "id": "f15",
+      "frente": "Lesão radicular ativa e inativa na p. 66 e no Quadro 6.2 do Cariologia?",
+      "verso": "**Ativa:** junto à margem gengival, amarelada ou amarronzada, amolecida (couro). **Inativa:** a alguma distância, amarronzada ou preta, endurecida. Cor: valor preditivo precário.",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, p. 66, Quadro 6.2"
+    },
+    {
+      "id": "f16",
+      "frente": "O que o Cariologia diz sobre os métodos auxiliares e a atividade da lesão?",
+      "verso": "A inspeção visual é o **único método** que avalia a atividade pelas características clínicas; os auxiliares só dizem se há perda mineral e são adjuntos.",
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, p. 69"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente adulto, sem queixa, com dentes bem iluminados e secos após remoção do biofilme. Qual método o consenso ORCA-EFCD (Paper I) recomenda como primeira escolha para detectar e estadiar lesões nas superfícies acessíveis?",
+      "alternativas": [
+        {
+          "texto": "Radiografia panorâmica, para ver todos os dentes de uma vez.",
+          "correta": false,
+          "justificativa": "A panorâmica não deve ser feita só para detectar e estadiar cárie (recomendação 6).",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 6"
+        },
+        {
+          "texto": "Fluorescência a laser, por detectar perda mineral antes da inspeção.",
+          "correta": false,
+          "justificativa": "Os adjuntos sem radiação podem ser preferidos se a radiografia não for viável ou não for considerada adequada (recomendação 7); em superfície acessível, a primeira escolha é a inspeção visual-tátil (recomendação 1).",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendações 1 e 7"
+        },
+        {
+          "texto": "Inspeção visual-tátil com sistema de classificação estruturado.",
+          "correta": true,
+          "justificativa": "É a recomendação 1: método de primeira escolha em superfícies acessíveis, com evidência alta e 100% de concordância.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 1"
+        },
+        {
+          "texto": "Radiografia interproximal isolada, sem exame visual.",
+          "correta": false,
+          "justificativa": "A radiografia é recomendada como método adicional à inspeção visual (recomendação 4), não no lugar dela.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 4"
+        }
+      ],
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendações 1 e 4",
+      "secao": "inspecao-visual",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Uma lesão mostra sombra escura de dentina visível por baixo do esmalte (código ICDAS 4). O que a Tabela 1 do Paper II traz para a atividade desse código?",
+      "alternativas": [
+        {
+          "texto": "Inativa, quando a lesão for brilhante e lisa à sonda.",
+          "correta": false,
+          "justificativa": "Para o código 4 a coluna de inativa fica sem critério na tabela; brilho e lisura à sonda são critérios das linhas dos códigos 1 a 3.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 1, códigos 1 a 4"
+        },
+        {
+          "texto": "Provavelmente ativa.",
+          "correta": true,
+          "justificativa": "É o único código da tabela com o rótulo \"provavelmente ativa\".",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 1, código 4"
+        },
+        {
+          "texto": "Ativa, se a dentina ao sondar for mole ou de couro.",
+          "correta": false,
+          "justificativa": "Dentina mole ou de couro é o critério dos códigos 5 e 6, com cavidade distinta e dentina visível.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 1, códigos 5 e 6"
+        },
+        {
+          "texto": "Sem critério de atividade, como o código 0.",
+          "correta": false,
+          "justificativa": "O código 0 é o que fica sem critério nas colunas; o código 4 traz o rótulo na coluna de ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 1, códigos 0 e 4"
+        }
+      ],
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 1, código 4",
+      "secao": "tabela-icdas-atividade",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo o Cariologia (Série Abeno), uma lesão no esmalte junto à margem gengival vestibular de um molar, sem cavidade, esbranquiçada e opaca à luz angulada, rugosa ao explorador de ponta arredondada e coberta por biofilme, é classificada como:",
+      "alternativas": [
+        {
+          "texto": "Lesão inativa, porque não há cavidade.",
+          "correta": false,
+          "justificativa": "A ausência de cavidade não define inatividade: a inativa sem cavidade é lisa e brilhante.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 65"
+        },
+        {
+          "texto": "Superfície hígida, pois o esmalte está íntegro.",
+          "correta": false,
+          "justificativa": "No Quadro 6.1 o esmalte hígido é liso e translúcido; aqui a superfície é opaca e rugosa.",
+          "fonte": "maltz2016",
+          "onde": "Quadro 6.1, p. 66"
+        },
+        {
+          "texto": "Lesão inativa, por estar na região cervical.",
+          "correta": false,
+          "justificativa": "As lesões ativas ficam justamente sob acúmulo de biofilme, como junto à margem gengival.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 65"
+        },
+        {
+          "texto": "Lesão ativa.",
+          "correta": true,
+          "justificativa": "Esbranquiçada, fosca ou opaca, rugosa ao explorador e sob biofilme: é a descrição da lesão ativa sem cavidade.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 65"
+        }
+      ],
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, p. 65 e Quadro 6.1, p. 66",
+      "secao": "maltz-coronaria",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Ao examinar uma lesão sem cavidade, o aluno pretende usar uma sonda de ponta afiada com bastante pressão para \"confirmar\" a aspereza. Qual orientação do Cariologia se aplica?",
+      "alternativas": [
+        {
+          "texto": "Usar a sonda com força, porque a retenção da sonda indica lesão.",
+          "correta": false,
+          "justificativa": "O livro diz que a sonda ficar ou não retida não indica presença ou ausência de lesão.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 66"
+        },
+        {
+          "texto": "Usar explorador, de preferência de ponta arredondada, com pressão mínima, porque a camada superficial porosa pode romper e criar cavidade.",
+          "correta": true,
+          "justificativa": "É a orientação do quadro \"Atenção\" da p. 65.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 65"
+        },
+        {
+          "texto": "Não passar nenhum instrumento sobre lesões com cavidade ou sem cavidade.",
+          "correta": false,
+          "justificativa": "Sem cavidade, a sondagem é feita com cuidado; com cavitação, o explorador serve para remover biofilme e resíduos antes do exame visual.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 66"
+        },
+        {
+          "texto": "Substituir o exame tátil pela cor, que é o critério determinante.",
+          "correta": false,
+          "justificativa": "Textura e brilho são os critérios determinantes; a cor é só um indicador.",
+          "fonte": "maltz2016",
+          "onde": "Quadro 6.1, p. 66"
+        }
+      ],
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, pp. 65–66",
+      "secao": "maltz-coronaria",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um paciente fez uma radiografia panorâmica para planejar um tratamento ortodôntico. Que conduta o consenso ORCA-EFCD (Paper I) recomenda quanto à cárie?",
+      "alternativas": [
+        {
+          "texto": "Pedir tomografia (CBCT) para estadiar as lesões encontradas.",
+          "correta": false,
+          "justificativa": "O consenso diz que a CBCT não deve ser feita só para detectar e estadiar cárie.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 6"
+        },
+        {
+          "texto": "Dispensar a interproximal, pois a panorâmica a substitui.",
+          "correta": false,
+          "justificativa": "A recomendação 4 indica a interproximal como método adicional à inspeção visual. Na Tabela 2 do Paper I, a panorâmica convencional tem sensibilidade menor para lesão proximal, e a recomendação 6 diz que ela não deve ser feita só para detectar e estadiar cárie.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendações 4 e 6; Tabela 2 do Paper I (seção «O que a radiografia acerta e onde erra (Paper I)»)"
+        },
+        {
+          "texto": "Ignorar a imagem, porque a panorâmica não serve para cárie.",
+          "correta": false,
+          "justificativa": "O consenso manda examiná-la para achados incidentais, não ignorá-la.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 6"
+        },
+        {
+          "texto": "Examinar a imagem em busca de achados incidentais de cárie, sem pedir panorâmica ou CBCT só para esse fim.",
+          "correta": true,
+          "justificativa": "É a recomendação 6: as radiografias feitas por outro motivo devem ser examinadas para achados incidentais de cárie.",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 6"
+        }
+      ],
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 6",
+      "secao": "radiografia-indicacao",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Uma lesão cavitada em dentina, em face oclusal, tem cavidade que o paciente não consegue limpar, e o exame não mostra sinais claros de inatividade. Como o Paper II manda considerá-la?",
+      "alternativas": [
+        {
+          "texto": "Como ativa.",
+          "correta": true,
+          "justificativa": "É a recomendação geral 4: cavitada que não pode ser limpa e sem sinais claros de inatividade é considerada ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação geral 4"
+        },
+        {
+          "texto": "Como inativa, pois já está cavitada.",
+          "correta": false,
+          "justificativa": "A recomendação geral 4 diz o contrário: lesão cavitada que não pode ser limpa é considerada ativa, salvo sinais claros de inatividade.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação geral 4"
+        },
+        {
+          "texto": "Como de atividade indefinida até um exame de fluorescência.",
+          "correta": false,
+          "justificativa": "A recomendação geral 2 não recomenda métodos auxiliares para avaliar atividade.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação geral 2"
+        },
+        {
+          "texto": "Como ativa somente se houver dor espontânea.",
+          "correta": false,
+          "justificativa": "A recomendação geral 4 usa duas condições: cavidade que não pode ser limpa e ausência de sinais claros de inatividade; com as duas, a lesão é considerada ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação geral 4"
+        }
+      ],
+      "fonte": "neuhaus2024",
+      "onde": "Recomendação geral 4",
+      "secao": "atividade-principios",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Na avaliação de uma lesão radicular, qual conjunto de achados indica lesão ativa segundo a Tabela 2 do Paper II?",
+      "alternativas": [
+        {
+          "texto": "Superfície brilhante, dura, longe da margem gengival e sem biofilme.",
+          "correta": false,
+          "justificativa": "Brilhante, dura, sem biofilme e longe da margem são todos achados da lesão inativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 2"
+        },
+        {
+          "texto": "Superfície brilhante e lisa, marrom ou preta, perto da margem gengival.",
+          "correta": false,
+          "justificativa": "Brilhante, lisa e marrom ou preta são achados da lesão inativa; só a proximidade da margem aponta para ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 2"
+        },
+        {
+          "texto": "Superfície opaca, áspera, coberta por biofilme e perto da margem gengival.",
+          "correta": true,
+          "justificativa": "Opaca ou fosca, áspera, com biofilme e perto da margem gengival são achados de lesão ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 2"
+        },
+        {
+          "texto": "Superfície opaca, mas dura e marrom ou preta, longe da margem.",
+          "correta": false,
+          "justificativa": "Dura, marrom ou preta e longe da margem são achados da lesão inativa; só a aparência opaca aponta para ativa.",
+          "fonte": "neuhaus2024",
+          "onde": "Tabela 2"
+        }
+      ],
+      "fonte": "neuhaus2024",
+      "onde": "Tabela 2",
+      "secao": "raiz-orca",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o Paper II (recomendação 13), em que se deve basear o intervalo entre exames visuais e radiográficos de acompanhamento?",
+      "alternativas": [
+        {
+          "texto": "Em um prazo único para todos os pacientes.",
+          "correta": false,
+          "justificativa": "A recomendação 13 pede ajuste individual.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação 13"
+        },
+        {
+          "texto": "Apenas na idade do paciente.",
+          "correta": false,
+          "justificativa": "A idade é um dos fatores citados para decidir sobre radiografia, mas a recomendação 13 vincula o intervalo à atividade e à progressão.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação 13 e texto de apoio"
+        },
+        {
+          "texto": "Só quando o paciente voltar com queixa.",
+          "correta": false,
+          "justificativa": "A recomendação 13 trata de intervalos planejados de exame, ajustados à atividade e à progressão.",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação 13"
+        },
+        {
+          "texto": "Na presença de lesões ativas e na velocidade recente de progressão, com ajuste individual.",
+          "correta": true,
+          "justificativa": "É a redação da recomendação 13 (evidência baixa; 100% de concordância).",
+          "fonte": "neuhaus2024",
+          "onde": "Recomendação 13"
+        }
+      ],
+      "fonte": "neuhaus2024",
+      "onde": "Recomendação 13",
+      "secao": "intervalos",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "O consenso ORCA-EFCD (Paper I) diz que métodos adjuntos sem radiação ionizante podem ser preferidos. Em que situação?",
+      "alternativas": [
+        {
+          "texto": "Para avaliar a atividade da lesão no lugar da inspeção visual-tátil.",
+          "correta": false,
+          "justificativa": "O Paper II recomenda a inspeção visual-tátil como método de escolha para a atividade e não recomenda auxiliares para isso (recomendação geral 2).",
+          "fonte": "neuhaus2024",
+          "onde": "Paper II, recomendação geral 2"
+        },
+        {
+          "texto": "Para detectar cavidades, que a inspeção visual não mostra.",
+          "correta": false,
+          "justificativa": "O Paper I diz que detectar cavidade tem pouco significado com os adjuntos, porque a inspeção visual já a mostra.",
+          "fonte": "kuhnisch2024",
+          "onde": "Seção Non-radiographical caries diagnostic methods"
+        },
+        {
+          "texto": "Sempre antes da radiografia, em todo paciente.",
+          "correta": false,
+          "justificativa": "A recomendação 7 os coloca como alternativa se a radiografia não for viável ou adequada; a radiografia interproximal é a adicional recomendada (recomendação 4).",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendações 4 e 7"
+        },
+        {
+          "texto": "Quando a radiografia não for viável ou não for considerada adequada na situação individual.",
+          "correta": true,
+          "justificativa": "É a redação da recomendação 7 (evidência moderada; 85%).",
+          "fonte": "kuhnisch2024",
+          "onde": "Recomendação 7"
+        }
+      ],
+      "fonte": "kuhnisch2024",
+      "onde": "Recomendação 7; seção Non-radiographical caries diagnostic methods",
+      "secao": "adjuntos",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Numa interproximal aparece imagem radiolúcida em dentina numa face proximal, ainda sem cavidade clínica. O que o Cariologia diz?",
+      "alternativas": [
+        {
+          "texto": "Indica restaurar de imediato, porque a extensão radiográfica em dentina é o limiar de decisão.",
+          "correta": false,
+          "justificativa": "Esse limiar foi usado por muito tempo, e o livro diz que não é mais aceito.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 70"
+        },
+        {
+          "texto": "Indica progressão da lesão em dentina mesmo antes da cavidade, mas a extensão radiográfica em dentina não é mais aceita como limiar para restaurar.",
+          "correta": true,
+          "justificativa": "A p. 67 liga a imagem radiolúcida em dentina à progressão antes da cavidade; a p. 70 diz que o limiar radiográfico para a decisão restauradora não é mais aceito.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, pp. 67 e 70"
+        },
+        {
+          "texto": "Não indica nada, porque a radiografia só vale com cavidade clínica.",
+          "correta": false,
+          "justificativa": "O livro diz que a imagem radiolúcida em dentina indica progressão mesmo antes da cavidade.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 67"
+        },
+        {
+          "texto": "Indica lesão inativa, por não haver cavidade.",
+          "correta": false,
+          "justificativa": "A radiografia não avalia atividade; o livro destaca que só a inspeção visual a avalia pelas características clínicas.",
+          "fonte": "maltz2016",
+          "onde": "Cap. 6, p. 69"
+        }
+      ],
+      "fonte": "maltz2016",
+      "onde": "Cap. 6, pp. 67 e 70",
+      "secao": "maltz-radiografia",
+      "figura": null
+    }
+  ]
+}

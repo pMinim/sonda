@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" width="720" height="980">
+<rect width="720" height="980" fill="#FFFFFF"/>
+<title>Fases do tratamento periodontal na ordem de execução</title>
+<desc>Fluxograma vertical, de cima para baixo. Sequência correta: Fase I, reavaliação, e logo depois a Fase IV (manutenção). Dentro da manutenção, lado a lado e em paralelo, a Fase II (cirurgia) e a Fase III (restauradora). Abaixo, a sequência incorreta: manutenção só depois da cirurgia e da restauração. A ordem de execução difere da numeração das fases.</desc>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+<text x="360" y="48" font-size="32" font-weight="700" fill="#1F4D4F">Sequência correta</text>
+<rect x="160" y="75" width="400" height="90" rx="18" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="4"/>
+<text x="360" y="135" font-size="34" font-weight="700" fill="#1F4D4F">Fase I</text>
+<line x1="360" y1="165" x2="360" y2="200" stroke="#1F4D4F" stroke-width="4"/>
+<polygon points="360,215 349,195 371,195" fill="#1F4D4F"/>
+<rect x="160" y="215" width="400" height="90" rx="18" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="4"/>
+<text x="360" y="275" font-size="34" font-weight="700" fill="#1F4D4F">Reavaliação</text>
+<line x1="360" y1="305" x2="360" y2="340" stroke="#1F4D4F" stroke-width="4"/>
+<polygon points="360,355 349,335 371,335" fill="#1F4D4F"/>
+<rect x="30" y="355" width="660" height="375" rx="24" fill="#E6EEEC" stroke="#1F4D4F" stroke-width="4"/>
+<text x="360" y="406" font-size="34" font-weight="700" fill="#1F4D4F">Fase IV · manutenção</text>
+<text x="360" y="444" font-size="26" fill="#4A5B5C">começa logo após a reavaliação</text>
+<text x="360" y="500" font-size="26" fill="#B86A3C" font-weight="700">II e III em paralelo, dentro dela</text>
+<rect x="60" y="525" width="285" height="170" rx="18" fill="#FFFFFF" stroke="#B86A3C" stroke-width="4"/>
+<text x="202" y="598" font-size="34" font-weight="700" fill="#1F4D4F">Fase II</text>
+<text x="202" y="644" font-size="30" fill="#1F4D4F">cirurgia</text>
+<rect x="375" y="525" width="285" height="170" rx="18" fill="#FFFFFF" stroke="#B86A3C" stroke-width="4"/>
+<text x="517" y="598" font-size="34" font-weight="700" fill="#1F4D4F">Fase III</text>
+<text x="517" y="644" font-size="30" fill="#1F4D4F">restauradora</text>
+<rect x="30" y="775" width="660" height="175" rx="24" fill="#FFFFFF" stroke="#B86A3C" stroke-width="4" stroke-dasharray="14 8"/>
+<text x="360" y="830" font-size="32" font-weight="700" fill="#B86A3C">Sequência incorreta</text>
+<text x="360" y="880" font-size="28" fill="#1F4D4F">a manutenção só começa depois</text>
+<text x="360" y="918" font-size="28" fill="#1F4D4F">da cirurgia e da restauração</text>
+</g>
+</svg>

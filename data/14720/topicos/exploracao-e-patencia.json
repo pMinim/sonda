@@ -1,0 +1,548 @@
+{
+  "slug": "exploracao-e-patencia",
+  "titulo": "Exploração e patência do canal (cateterismo e patência foraminal)",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 8",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap08",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 8, Limpeza e Modelagem do Sistema de Canais Radiculares, p. 232–298 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 8"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "limas-k-e-h",
+      "titulo": "Limas K e H: o que cada uma faz",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos endodônticos, Instrumentos operados manualmente, pp. 244–245",
+      "texto": "O Cohen (tradução da obra de Berman, Hargreaves e Rotstein) descreve duas famílias de limas manuais: tipo K e tipo H (Hedström).\n\n**Lima K.** O nome vem da Kerr, fábrica que a produziu em larga escala no começo dos anos 1900. É feita **torcendo** um fio metálico de três ou quatro lados em torno do eixo, o que dá um instrumento cônico em espiral. Com três lados e poucas espirais ela serve mais para alargar; com mais espirais por comprimento, mais para limar. Três lados são mais flexíveis que quatro.\n\n- **Limagem** é o movimento de introdução e retrocesso (vai e vem). **Alargamento** é a rotação constante.\n- O alargamento causa mais transporte do que a limagem. Transporte, no cap. 8, é o movimento que se afasta do eixo inicial do canal.\n- A seção da lima K é simétrica e ela corta bem nos dois sentidos de giro.\n\n**Pré-curvar** a lima K de aço é possível, mas a deixa sob tensão: faça com cuidado. Hélice torcida mais firme ou aberta mais larga é deformação permanente, e **instrumento deformado não deve mais ser usado**. Depois da deformação, a fratura é provável no giro horário. A força para fraturar é a mesma nos dois sentidos, mas a falha anti-horária ocorre com metade das rotações; por isso, tenha mais cuidado quando houver pressão no sentido anti-horário.\n\n**Lima H (Hedström).** É **usinada** de uma haste de aço, com uma hélice contínua única. É muito eficiente em movimento de vai e vem, porque o ângulo de inclinação é positivo e a lâmina corta. Movimento de **rotação** é desencorajado pelo risco de fratura, e as bordas agudas tendem a rosquear no canal.\n\n- Hedström até #25 podem localizar os orifícios de entrada dos canais e remover saliências.\n- Limagem excessiva adelgaça muito a parede e pode causar perfurações em fita.\n- Pré-curvar uma H concentra mais tensão que na K. A fratura por fadiga pode ocorrer sem sinal visível de deformação."
+    },
+    {
+      "id": "iso",
+      "titulo": "Tamanho da lima: a norma ISO",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos endodônticos, Características gerais, Normas da ISO, pp. 241–242",
+      "texto": "O número no cabo da lima segue a norma ISO. Segundo o Cohen, \"instrumentos que seguem a norma ISO\" é, com frequência, sinônimo de limas K.\n\n**O que a norma define para limas manuais K e H:**\n\n| Característica | Valor ISO |\n|---|---|\n| Comprimentos | 21, 25 e 31 mm |\n| Parte ativa | 16 mm, em todas |\n| Conicidade | 0,02: aumento de 0,02 mm de diâmetro por milímetro da parte ativa (0,32 mm ao longo dos 16 mm) |\n| Aumento entre tamanhos da ponta | 0,05 mm até #60; 0,1 mm a partir de #70 |\n\nO **nome numérico da lima é o diâmetro na ponta**, chamado D0. D1 é o diâmetro a 1 mm da ponta, D2 a 2 mm, e assim até D16, o maior da parte ativa. Cada tamanho tem seu código de cor.\n\n**Exemplo do livro:** a lima #25 de conicidade 0,02 mede 0,27 mm a 1 mm da ponta, 0,29 mm a 2 mm e 0,31 mm a 3 mm. Saber o diâmetro num ponto ajuda a estimar o tamanho da lima na curvatura do canal.\n\n**Onde o desenho ISO atrapalha na exploração:** passar de #10 para #15 é um salto de cerca de 50% no diâmetro da ponta, e o livro diz que ampliar o canal de #10 para #15 é mais difícil do que de #55 para #60.\n\n**Descarte:** a maior parte dos instrumentos manuais é de aço inoxidável e barata. O livro lembra que as limas até #60 têm sido consideradas descartáveis, e que o clínico cuidadoso as descarta depois de poucos usos."
+    },
+    {
+      "id": "acesso",
+      "titulo": "Acesso: o que o cap. 8 acrescenta",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Etapas da limpeza e modelagem, Acesso | princípios, Figura 8.32, pp. 255–256",
+      "texto": "O preparo da cavidade de acesso é essencial e o cap. 8 remete o assunto ao cap. 7 (temas de acesso). O que o cap. 8 acrescenta sobre o acesso:\n\n**Erro no acesso cobra caro depois.** Perfuração e outras intercorrências afetam muito a evolução a longo prazo. **Ampliar ou alargar demais** reduz bastante a resistência estrutural do dente, pode levar à fratura radicular e a uma condição impossível de restaurar.\n\n**Brocas, na ordem que o livro recomenda:**\n\n1. Broca **diamantada cilíndrica**.\n2. Broca **cônica de ponta inativa**.\n3. Talvez uma broca **esférica pequena**.\n\n**Fig. 8.32 (incisivo), passo a passo:**\n\n- Broca de lados paralelos remove o esmalte formando 90° com a superfície do esmalte.\n- Inclina-se a broca na vertical para que o acesso aos canais fique em **linha reta**.\n- Broca de ponta inativa refina o acesso.\n- Broca esférica, em movimento de escavação ou tração, limpa os cornos pulpares preenchidos com tecido mole.\n\nO livro mostra orifícios alcançados em linha reta (Fig. 8.32) e alerta que ampliar demais o acesso reduz a resistência estrutural do dente (p. 255)."
+    },
+    {
+      "id": "modificacao",
+      "titulo": "Modificação coronária: abrir a entrada antes de explorar fundo",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Etapas da limpeza e modelagem, Modificação coronária, pp. 255–257",
+      "texto": "Estender o acesso para a porção mais coronária do canal já foi chamado de \"preparo cervical\". O Cohen prefere dizer **modificação do orifício de acesso**.\n\n**Quando fazer.** Se o canal for atresiado (estreito), mineralizado ou de acesso difícil, vale ampliar direto a porção cervical **antes** de entrar mais fundo.\n\n**Antes, analise.** A modificação deve ser precedida de uma etapa de análise: uma lima K (por exemplo, #10) é introduzida **passivamente** por vários milímetros no canal.\n\n**Com que instrumentos.** O livro cita as brocas de Gates-Glidden e instrumentos de NiTi específicos para pré-alargamento.\n\n**Dois pontos do capítulo sobre os rotatórios cervicais, lado a lado.** No texto (p. 255), os rotatórios feitos para o preparo cervical são usados como instrumentos únicos, não em sequência. Na legenda da Fig. 8.34 (p. 256), para um molar superior com canal mesiovestibular estreito, o livro descreve uma sequência de orifice shapers, do OS3 ao OS1, depois de um glide path cervical com lima K. O livro traz os dois. A mesma legenda diz que irrigação copiosa com NaOCl e garantia de glide path com lima K #10 são pré-requisitos para os NiTi.\n\n**Para que serve (pp. 256–257):**\n\n- Livre acesso das limas ao terço apical.\n- Melhor controle tátil ao dirigir as limas de exploração pré-curvadas.\n- Benefício documentado: menos alterações no comprimento de trabalho durante o preparo.\n- Benefício esperado e **não confirmado** em experimentos: irrigante chegando mais cedo e menos resíduos coronários contaminados.\n\n**Exemplo de degrau (p. 255), no sentido do cap. 8.** O segundo canal mesiovestibular do molar superior sai da câmara em direção à medial, abaixo da saliência de dentina, e depois curva em direção distal. Essa curva, em canal estreito, leva com frequência à formação de um **degrau**, que impede preparar o canal em toda a extensão. O livro dá esse exemplo ao tratar da modelagem da entrada, que remove a saliência de dentina. O degrau e o bloqueio têm tema próprio (acidentes de procedimento)."
+    },
+    {
+      "id": "patencia",
+      "titulo": "Patência: a lima que passa pelo forame",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Etapas da limpeza e modelagem, Patência e preparo do glide path, pp. 256–257",
+      "texto": "**O que é.** Limas de patência são limas do tipo K pequenas, geralmente #10 ou #15, \"estendidas passivamente através do forame apical\".\n\n**Por que se faz.** O livro apresenta a demonstração de patência apical como passo sugerido para a maioria das técnicas com instrumentos rotatórios. Acredita-se que a patência:\n\n- remova resíduos acumulados;\n- ajude a manter o comprimento de trabalho;\n- se traduza em maior sucesso clínico.\n\n**A preocupação.** A lima poderia empurrar resíduos contaminados para além do forame. O livro responde com o que tem:\n\n- um estudo in vitro sugeriu risco de extravasamento mínimo quando os canais estão preenchidos com NaOCl;\n- manter a patência durante todo o procedimento não aumentou os sintomas pós-operatórios, num estudo citado;\n- existem evidências clínicas iniciais favoráveis.\n\n**Conclusão do livro.** Pelo que o livro relata, o risco é pequeno e há benefício, **desde que se usem limas finas, com cuidado**. O capítulo não diz quantos milímetros a lima pode passar além do forame; por isso este tema não traz esse número.\n\n**Na bancada.** Use uma lima K #10 ou #15 e deixe-a atravessar o forame sem forçar. O que se faz depois da patência, o glide path, está na seção seguinte.\n\nO comprimento de trabalho e o localizador apical têm tema próprio (comprimento de trabalho); aqui eles não se repetem."
+    },
+    {
+      "id": "glide-path",
+      "titulo": "Glide path: o trajeto livre até o fim do canal",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Etapas da limpeza e modelagem, Patência e preparo do glide path, pp. 256–257",
+      "texto": "**O que é.** Quando uma lima alcança o forame apical, ela já criou o **glide path**, termo usado há mais de uma década. É a garantia de um trajeto livre até a porção terminal do canal, que os instrumentos movidos a motor vão seguir.\n\n**Por que importa antes dos rotatórios.** Um glide path presente é essencial para o uso previsível dos rotatórios:\n\n- minimiza o efeito de aparafusamento e o risco de fratura por torção;\n- alerta do livro: pode haver travamento se a secção do canal for menor que a ponta do instrumento;\n- reduz a área de contato entre o instrumento e a parede, com cargas torcionais menores.\n\n**Como saber que está bom.** O sinal do livro é uma lima K reta #15 que se move **passivamente e com suavidade** até o comprimento de trabalho, em movimentos longos de vai e vem.\n\n**Como criar:**\n\n- Classicamente, com limas K #10 e #15, em movimento de força balanceada ou de \"dar corda em um relógio\".\n- Mais recentemente, com rotatórios de NiTi de ponta fina, projetados para simplificar o processo depois que uma lima K #10 atinge o comprimento de trabalho.\n- Alguns autores defendem explorar e preparar o canal pelo menos até uma #15 antes de usar o NiTi rotatório até o comprimento de trabalho total.\n\n**Se o canal resiste.** Irrigação copiosa e recapitulações frequentes com a lima menor até o comprimento de trabalho podem ser necessárias. Em canais muito mineralizados, o livro cita sequências de limas pequenas em coroa-ápice e/ou step back."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Por que a lima K se chama assim e como é feita?",
+      "verso": "Pelo nome da Kerr, que a produziu em larga escala no começo dos anos 1900. É feita por torção de um fio metálico de três ou quatro lados.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos operados manualmente, Instrumentos tipo K, pp. 244–245"
+    },
+    {
+      "id": "f02",
+      "frente": "Qual movimento a lima Hedström faz bem, e qual o livro desencoraja?",
+      "verso": "Faz bem o vai e vem (translacional), pelo ângulo de inclinação positivo e pela lâmina de corte. A rotação é desencorajada pelo risco de fratura.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos operados manualmente, Instrumentos tipo H, pp. 244–245"
+    },
+    {
+      "id": "f03",
+      "frente": "O que fazer com uma lima K de aço de hélice deformada?",
+      "verso": "Não usar mais: instrumento deformado não deve ser reutilizado. A fratura é provável no giro horário depois da deformação.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos operados manualmente, Instrumentos tipo K, pp. 244–245"
+    },
+    {
+      "id": "f04",
+      "frente": "O que o número da lima ISO indica?",
+      "verso": "O diâmetro na ponta (D0). D1 é o diâmetro a 1 mm da ponta, D2 a 2 mm, até D16.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+    },
+    {
+      "id": "f05",
+      "frente": "Medidas padrão ISO das limas K e H manuais?",
+      "verso": "Comprimentos de 21, 25 e 31 mm; parte ativa de 16 mm; conicidade 0,02 (0,02 mm a mais de diâmetro por milímetro da parte ativa).",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que passar de #10 para #15 é um passo difícil?",
+      "verso": "O aumento de diâmetro da ponta é de cerca de 50%, e o livro diz que ampliar de #10 para #15 é mais difícil que de #55 para #60.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Limitações do desenho ISO, pp. 241–242"
+    },
+    {
+      "id": "f07",
+      "frente": "Que brocas o livro recomenda, em ordem, para o acesso?",
+      "verso": "Diamantada cilíndrica, depois cônica de ponta inativa e talvez uma esférica pequena.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+    },
+    {
+      "id": "f08",
+      "frente": "O que acontece se o acesso for ampliado demais?",
+      "verso": "A resistência estrutural cai bastante. Isso pode levar à fratura radicular e a uma condição impossível de restaurar.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+    },
+    {
+      "id": "f09",
+      "frente": "Canal atresiado ou mineralizado: o que o livro diz ser benéfico fazer antes de entrar mais fundo?",
+      "verso": "Ampliar direto a porção cervical (modificação do orifício de acesso), depois de uma etapa de análise com lima K (por exemplo, #10) introduzida passivamente por vários milímetros.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Modificação coronária, pp. 255–256"
+    },
+    {
+      "id": "f10",
+      "frente": "Qual benefício da modificação coronária é documentado e qual não foi confirmado?",
+      "verso": "Documentado: menos alterações no comprimento de trabalho durante o preparo. Não confirmado: irrigante chegando mais cedo e menos resíduos coronários contaminados.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Modificação coronária (benefícios), pp. 256–257"
+    },
+    {
+      "id": "f11",
+      "frente": "O que é uma lima de patência?",
+      "verso": "Lima K pequena, geralmente #10 ou #15, estendida passivamente através do forame apical.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+    },
+    {
+      "id": "f12",
+      "frente": "Por que se mantém a patência, segundo o livro?",
+      "verso": "Acredita-se que remova resíduos acumulados, ajude a manter o comprimento de trabalho e leve a maior sucesso clínico.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+    },
+    {
+      "id": "f13",
+      "frente": "A lima de patência pode empurrar resíduos para fora do forame? O que o livro diz?",
+      "verso": "Estudo in vitro sugeriu risco de extravasamento mínimo com canais preenchidos com NaOCl; manter patência não aumentou sintomas pós-operatórios. Vale se as limas forem de pequeno diâmetro e usadas com cuidado.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+    },
+    {
+      "id": "f14",
+      "frente": "Qual sinal indica glide path adequado?",
+      "verso": "Uma lima K reta #15 se move passivamente e com suavidade até o comprimento de trabalho, em movimentos longos de vai e vem.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+    },
+    {
+      "id": "f15",
+      "frente": "Por que o glide path é essencial antes dos rotatórios de NiTi?",
+      "verso": "Minimiza o aparafusamento e o risco de fratura por torção, e reduz a área de contato com a parede, com cargas torcionais menores.",
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Em dente extraído, você vai trabalhar o canal com uma lima Hedström. Segundo o cap. 8 do Cohen, qual uso combina com ela?",
+      "alternativas": [
+        {
+          "texto": "Rotação contínua no canal, porque as bordas agudas a mantêm centrada.",
+          "correta": false,
+          "justificativa": "O livro desencoraja os movimentos rotacionais de trabalho da Hedström pelo risco de fratura; as bordas agudas tendem a rosquear no canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Movimentos de vai e vem, nos quais ela é muito eficiente.",
+          "correta": true,
+          "justificativa": "O livro diz que a H é muito eficiente em movimentos translacionais (vai e vem), pelo ângulo de inclinação positivo e pela lâmina de corte.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Rotação anti-horária contínua, que evita rosquear.",
+          "correta": false,
+          "justificativa": "O livro não indica rotação para a Hedström: desencoraja os movimentos rotacionais de trabalho pelo risco de fratura.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Tanto vai e vem como rotação, pois o corte dela é simétrico, como o da K.",
+          "correta": false,
+          "justificativa": "A seção simétrica, com corte nos dois sentidos, é descrita para a lima K. Para a H, o livro desencoraja a rotação.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245",
+      "secao": "limas-k-e-h",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Você pré-curvou uma lima K de aço e, ao olhar, vê que as hélices ficaram abertas mais largas em um trecho. Segundo o cap. 8 do Cohen, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Endireitar a lima e continuar a exploração com pouca pressão.",
+          "correta": false,
+          "justificativa": "Hélice aberta mais larga é deformação permanente, e o livro diz que um instrumento deformado não deve mais ser usado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Usar a lima só em giro horário, que é o mais seguro depois da deformação.",
+          "correta": false,
+          "justificativa": "O livro diz que, depois da deformação plástica, a fratura é provável justamente em movimentos no sentido horário.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Não usar mais a lima: instrumento deformado não deve mais ser usado.",
+          "correta": true,
+          "justificativa": "O livro diz que a deformação permanente ocorre quando as hélices ficam mais firmes ou mais abertas e que um instrumento deformado não deve mais ser usado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Usar a lima só em giro anti-horário, que exige mais rotações para fraturar.",
+          "correta": false,
+          "justificativa": "O livro diz que a falha anti-horária ocorre com metade das rotações necessárias no sentido horário, ou seja, é o sentido que pede mais cuidado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Instrumentos operados manualmente, pp. 244–245",
+      "secao": "limas-k-e-h",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Numa raiz estreita, a lima manual ISO #10 passa, mas a #15 entra apertada. Segundo o cap. 8 do Cohen, o que explica essa dificuldade?",
+      "alternativas": [
+        {
+          "texto": "A diferença percentual de diâmetro da ponta entre #10 e #15 é grande, cerca de 50%.",
+          "correta": true,
+          "justificativa": "O livro mostra, na Fig. 8.16, um aumento de cerca de 50% da #10 para a #15 e diz que ampliar o canal nesse passo é mais difícil que de #55 para #60.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Limitações do desenho ISO, pp. 241–242"
+        },
+        {
+          "texto": "A #15 tem conicidade maior que a #10.",
+          "correta": false,
+          "justificativa": "A conicidade padrão ISO é 0,02 nas limas manuais K e H; o que muda entre tamanhos é o diâmetro da ponta.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+        },
+        {
+          "texto": "A #15 tem parte ativa mais longa que a #10.",
+          "correta": false,
+          "justificativa": "Na norma ISO, a parte ativa é de 16 mm em todas as limas, e o comprimento total é de 21, 25 ou 31 mm.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+        },
+        {
+          "texto": "A #15 tem aumento de 0,1 mm na ponta, e a #10 de 0,05 mm.",
+          "correta": false,
+          "justificativa": "O aumento absoluto entre tamanhos é de 0,05 mm até a #60 e de 0,1 mm a partir da #70; o salto percentual grande vem do diâmetro pequeno da #10.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO e Figura 8.16, pp. 241–242"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242",
+      "secao": "iso",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Na bancada, você tem uma lima manual K ISO #25. Do cabo à ponta ela mede 25 mm, e o trecho com espirais é mais curto que isso. Com o paquímetro você mede o diâmetro: 0,27 mm a 1 mm da ponta, 0,29 mm a 2 mm e 0,31 mm a 3 mm. Segundo o cap. 8 do Cohen, qual descreve a conicidade e a parte ativa dessa lima?",
+      "alternativas": [
+        {
+          "texto": "Conicidade 0,2; parte ativa de 16 mm.",
+          "correta": false,
+          "justificativa": "Os diâmetros medidos aumentam 0,02 mm a cada milímetro, que é a conicidade padrão do livro (0,32 mm ao longo dos 16 mm), e não 0,2.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+        },
+        {
+          "texto": "Conicidade 0,02; parte ativa de 25 mm.",
+          "correta": false,
+          "justificativa": "25 mm é o comprimento total (a norma traz 21, 25 e 31 mm); a parte ativa é de 16 mm em todas as limas ISO.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+        },
+        {
+          "texto": "Conicidade 0,05; parte ativa de 16 mm.",
+          "correta": false,
+          "justificativa": "0,05 mm é o aumento do diâmetro da ponta entre tamanhos até #60 (Fig. 8.16), e não a conicidade, que é 0,02.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO e Figura 8.16, pp. 241–242"
+        },
+        {
+          "texto": "Conicidade 0,02; parte ativa de 16 mm.",
+          "correta": true,
+          "justificativa": "O livro traz parte ativa de 16 mm em todas as limas K e H ISO e conicidade padrão de 0,02, como no exemplo da #25 (0,27, 0,29 e 0,31 mm).",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Características gerais, Normas da ISO, pp. 241–242",
+      "secao": "iso",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Em dente extraído, um colega amplia a cavidade de acesso bem além do necessário \"para enxergar melhor\". Segundo o cap. 8 do Cohen, qual é o risco?",
+      "alternativas": [
+        {
+          "texto": "Nenhum para a raiz: o efeito é só sobre a restauração da coroa.",
+          "correta": false,
+          "justificativa": "O livro diz que a ampliação excessiva pode levar à fratura radicular, e não só a problema na coroa.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+        },
+        {
+          "texto": "Redução importante da resistência estrutural, com possível fratura radicular e dente irrestaurável.",
+          "correta": true,
+          "justificativa": "O livro diz que ampliar ou alargar em excesso reduz significativamente a resistência estrutural e pode levar à fratura radicular e a condições impossíveis de restaurar.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+        },
+        {
+          "texto": "Aumento da resistência à fratura, porque se remove dentina enfraquecida.",
+          "correta": false,
+          "justificativa": "O livro diz que ampliar ou alargar em excesso reduz significativamente a resistência estrutural do dente.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+        },
+        {
+          "texto": "Prejuízo só quando a ampliação chega a perfurar o dente.",
+          "correta": false,
+          "justificativa": "O livro cita a perfuração como uma intercorrência do acesso e, à parte, diz que a ampliação excessiva reduz significativamente a resistência estrutural.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Acesso | princípios, pp. 255–256"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Acesso | princípios, pp. 255–256",
+      "secao": "acesso",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Num molar superior extraído, o canal mesiovestibular é estreito e sai da câmara em ângulo. O que o cap. 8 do Cohen diz ser benéfico fazer antes de aprofundar a exploração?",
+      "alternativas": [
+        {
+          "texto": "Ampliar direto a porção cervical, depois de testar o canal com lima K #10 introduzida passivamente.",
+          "correta": true,
+          "justificativa": "O livro recomenda a ampliação direta da porção cervical em canal atresiado, mineralizado ou de difícil acesso, precedida de análise com lima K (por exemplo, #10) introduzida passivamente por vários milímetros.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256"
+        },
+        {
+          "texto": "Empurrar a lima #10 com pressão até o ápice para abrir o caminho.",
+          "correta": false,
+          "justificativa": "A análise do livro introduz a lima K passivamente, por vários milímetros.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256"
+        },
+        {
+          "texto": "Iniciar uma sequência de NiTi rotatórios até o ápice sem glide path.",
+          "correta": false,
+          "justificativa": "O livro diz que irrigação copiosa e glide path com lima K #10 são pré-requisitos para os NiTi na modificação coronária (Fig. 8.34), e que o glide path é essencial para os rotatórios.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256; Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Dispensar a modificação, porque ela só serve para o irrigante chegar mais cedo.",
+          "correta": false,
+          "justificativa": "O livro diz que o acesso precoce do irrigante não foi confirmado, mas cita o livre acesso das limas ao terço apical, o melhor controle tátil e a redução das alterações no comprimento de trabalho.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária (benefícios), pp. 256–257"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Modificação coronária, pp. 255–257",
+      "secao": "modificacao",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "No segundo canal mesiovestibular de um molar superior, o canal sai da câmara em direção à medial, sob a saliência de dentina, e depois curva para distal. Segundo o cap. 8 do Cohen, o que essa curva, em canal estreito, costuma formar?",
+      "alternativas": [
+        {
+          "texto": "Um acesso em linha reta até o terço apical, que facilita a instrumentação.",
+          "correta": false,
+          "justificativa": "No exemplo do livro, a curva em direção distal, em canal estreito, frequentemente forma um degrau que impede o preparo em toda a extensão do canal.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256"
+        },
+        {
+          "texto": "Uma perfuração da raiz na altura da saliência de dentina.",
+          "correta": false,
+          "justificativa": "O exemplo do livro termina no degrau: a curva, em canal estreito, frequentemente leva à formação de um degrau.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256"
+        },
+        {
+          "texto": "Um degrau, que impede o preparo em toda a extensão do canal.",
+          "correta": true,
+          "justificativa": "É o exemplo do livro: a curva em direção distal, em canal estreito, frequentemente forma um degrau que impede o preparo em toda a extensão; a modelagem da entrada remove a saliência de dentina.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–256"
+        },
+        {
+          "texto": "Um canal mais largo, em que o irrigante chega mais cedo ao terço apical.",
+          "correta": false,
+          "justificativa": "Segundo o livro, o benefício de o irrigante chegar mais cedo não foi confirmado em experimentos (p. 257); no exemplo, a curva em canal estreito leva a um degrau.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Modificação coronária, pp. 255–257"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Modificação coronária, pp. 255–256",
+      "secao": "modificacao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Você vai demonstrar a patência de um canal. Segundo o cap. 8 do Cohen, qual lima e qual manobra?",
+      "alternativas": [
+        {
+          "texto": "Lima K #40 levada até o forame, para o preparo terminar nele.",
+          "correta": false,
+          "justificativa": "A lima de patência é uma K pequena, geralmente #10 ou #15, e não uma lima calibrosa.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Lima K #10 ou #15 empurrada com pressão através do forame para alargá-lo.",
+          "correta": false,
+          "justificativa": "O livro descreve a lima de patência como estendida passivamente através do forame apical.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Lima Hedström #25 em rotação, para limpar o forame.",
+          "correta": false,
+          "justificativa": "A lima de patência, segundo o livro, é do tipo K pequena; a rotação de trabalho da Hedström é desencorajada pelo risco de fratura.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257; Instrumentos operados manualmente, pp. 244–245"
+        },
+        {
+          "texto": "Lima K #10 ou #15 estendida passivamente através do forame apical.",
+          "correta": true,
+          "justificativa": "É a definição do livro: limas de patência são K pequenas, geralmente #10 ou #15, estendidas passivamente através do forame apical.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257",
+      "secao": "patencia",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Um colega teme que a lima de patência empurre resíduos contaminados para além do forame. Segundo o cap. 8 do Cohen, o que se pode responder?",
+      "alternativas": [
+        {
+          "texto": "Que o livro proíbe a patência, porque ela aumenta os sintomas pós-operatórios.",
+          "correta": false,
+          "justificativa": "O livro cita um estudo em que manter a patência durante todo o procedimento não levou a aumento de sintomas pós-operatórios.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Que um estudo in vitro sugeriu risco mínimo de extravasamento com o canal cheio de NaOCl, e que o livro vê pouco risco com limas finas usadas com cuidado.",
+          "correta": true,
+          "justificativa": "É o que o livro traz: um estudo in vitro sugeriu risco de extravasamento mínimo com canais preenchidos com NaOCl, e a experiência sugere pouco risco e benefícios com limas de pequeno diâmetro usadas com cuidado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Que o risco é nulo e dispensa cuidado com o calibre da lima.",
+          "correta": false,
+          "justificativa": "O livro fala em risco mínimo e em relativamente pouco risco, e condiciona isso ao uso cuidadoso de limas de pequeno diâmetro.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Que o risco só desaparece se o canal estiver seco antes de passar a lima.",
+          "correta": false,
+          "justificativa": "O estudo in vitro citado pelo livro sugeriu risco mínimo justamente com os canais preenchidos com NaOCl.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257",
+      "secao": "patencia",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Antes de pegar o rotatório de NiTi, você quer saber se o glide path está bom. Segundo o cap. 8 do Cohen, qual é o sinal?",
+      "alternativas": [
+        {
+          "texto": "A lima #10 só chega ao terço médio, mas o rotatório vai abrindo o resto.",
+          "correta": false,
+          "justificativa": "O livro diz que o glide path é essencial para o uso previsível dos rotatórios, e alguns autores defendem explorar e preparar pelo menos até uma #15 antes do NiTi.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Uma lima #15 só chega ao comprimento de trabalho com pressão e fica travada.",
+          "correta": false,
+          "justificativa": "O sinal do livro é o movimento passivo e suave até o comprimento de trabalho; o travamento aparece como risco quando a secção do canal é menor que a ponta do instrumento.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Uma lima K reta #15 vai passivamente e com suavidade até o comprimento de trabalho, em vai e vem longos.",
+          "correta": true,
+          "justificativa": "É o indicador do livro de um glide path adequado.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        },
+        {
+          "texto": "Uma lima K #25 pré-curvada gira inteira no canal, sem resistência.",
+          "correta": false,
+          "justificativa": "O indicador do livro é uma lima K reta #15 em movimentos longos de vai e vem; o glide path clássico é criado com limas K #10 e #15.",
+          "fonte": "cohen12-cap08",
+          "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257"
+        }
+      ],
+      "fonte": "cohen12-cap08",
+      "onde": "cap. 8, Patência e preparo do glide path, pp. 256–257",
+      "secao": "glide-path",
+      "figura": null
+    }
+  ]
+}

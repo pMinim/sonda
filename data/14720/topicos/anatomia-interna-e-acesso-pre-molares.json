@@ -1,0 +1,548 @@
+{
+  "slug": "anatomia-interna-e-acesso-pre-molares",
+  "titulo": "Anatomia interna e acesso de pré-molares: número de canais e raiz mais larga no sentido vestibulolingual (achatamento)",
+  "area": "Endodontia",
+  "origem": "Cohen 12ª ed., cap. 7",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "cohen12-cap07",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I. Cohen, Caminhos da Polpa. 12ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2021. Cap. 7, Morfologia Dental e Acesso Cavitário, p. 189–231 (numeração do contador da edição digital).",
+      "curta": "Cohen 12ª ed., cap. 7"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "vertucci",
+      "titulo": "Configurações de canal de Vertucci",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193",
+      "texto": "Esta seção e as seguintes vêm do cap. 7 do Cohen (*Caminhos da Polpa*, tradução da obra de Berman, Hargreaves e Rotstein). O capítulo mostra a variação dos canais com as **configurações de Vertucci** (Fig. 7.10, reproduzida de Vertucci, Seelig e Gillis, 1974).\n\n**O livro agrupa as oito configurações pelo número de canais no ápice:**\n\n| Canais no ápice | Tipos de Vertucci |\n|---|---|\n| Um | I, II e III |\n| Dois | IV, V, VI e VII |\n| Três | VIII |\n\nO **segundo pré-molar superior** foi o único dente que apresentou todas as oito configurações (texto, p. 192; Fig. 7.10, p. 193).\n\n**Por que isso importa na bancada:** segundo o capítulo, as variações anatômicas influenciaram mais as alterações ocorridas no preparo do que a técnica de instrumentação. Antes de instrumentar, você precisa saber o que o dente pode ter por dentro.\n\n**Etnia:** o capítulo diz que diferenças entre estudos podem vir de variação étnica. Um exemplo é o canal em forma de C, mais frequente em segundos molares inferiores unirradiculares de populações asiáticas e ameríndias. O capítulo acrescenta que ele também é visto em pré-molares inferiores e em alguns molares superiores.\n\n**O que esta seção não traz:** a frequência de cada tipo de Vertucci nos pré-molares. O que fica é a regra de leitura: um, dois ou três canais no ápice, e o segundo pré-molar superior foi o único dente com as oito configurações (p. 192)."
+    },
+    {
+      "id": "orificios",
+      "titulo": "Como saber se falta um canal: o que os orifícios mostram",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194",
+      "texto": "Depois de abrir o acesso, o **assoalho da câmara** mostra onde estão os orifícios e que tipo de sistema de canais o dente tem. Leia o assoalho antes de instrumentar.\n\n**Regras de leitura do capítulo:**\n- Se há **um só canal**, ele geralmente fica no **centro** da cavidade de acesso.\n- Se você achou **uma só entrada** e ela **não está no centro da raiz**, provavelmente há outro orifício do **lado oposto**. Procure lá.\n- **Distância entre dois orifícios:** quanto mais próximos, maior a chance de os canais se **unirem** em algum ponto da raiz. Quanto mais afastados, maior a chance de **permanecerem separados**. Quanto maior a separação, menor a curvatura do canal.\n\n**Entrada oval:** a Fig. 7.13 mostra um dente com entrada de canal oval (vestibular e palatina). A entrada oval deve ser explorada com **instrumentos de pequeno diâmetro, com a ponta curvada**. Para o canal vestibular, a ponta curva da lima aponta para vestibular. Para o palatino, aponta para palatina.\n\n**Sinal para reconhecer o erro:** um orifício único fora do centro da raiz. O canal que falta provavelmente está do lado oposto.\n\n**Limite desta seção:** o capítulo não dá, nesta parte, uma sequência de buscas por dente. O que ele dá é a leitura do assoalho acima. Para cada pré-molar, veja a seção do dente."
+    },
+    {
+      "id": "istmos",
+      "titulo": "Istmos e divisões do canal",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195",
+      "texto": "No **terço médio** da raiz o canal pode ter muitas variações: confluências, reticulados, fundos de saco e **istmos**. O capítulo diz que istmos também são chamados de anastomoses. Um istmo é uma **comunicação estreita, em fita, com tecido pulpar, entre dois canais**.\n\n**Frequência em pré-molares superiores (segundo o capítulo):** istmos em **16% a 1 mm do ápice** e em **52% a 6 mm do ápice**, sobretudo no terço médio (Fig. 7.15). Nos dentes anteriores o número citado é 15%.\n\nO capítulo traz também uma classificação de istmos em cortes axiais (Fig. 7.15), com istmos completos e incompletos entre dois ou mais canais.\n\n**Divisão de um canal:** é frequente um canal único se dividir em dois ou mais no terço médio, e canais se unirem ali. Quando uma raiz tem dois canais que se unem, o canal **lingual ou palatino** costuma ser o de acesso direto ao ápice. Quando um canal se divide em dois, a divisão é vestibulopalatina ou vestibulolingual, e o canal lingual em geral sai do principal em **ângulo agudo**, às vezes quase reto.\n\n**O ponto que mais preocupa o capítulo:** um canal muito estreito que se divide em ângulo de quase 90° e **não é achado nem pelo tato nem com ampliação**. Alguns saem em forames independentes. O capítulo diz que isso não é raro nos **primeiros pré-molares inferiores** (veja a seção dos pré-molares inferiores)."
+    },
+    {
+      "id": "pre-molares-superiores",
+      "titulo": "Pré-molares superiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213",
+      "texto": "**Primeiro pré-molar superior**\n- **Canais:** a maioria tem **dois canais**, **independentemente do número de raízes**. O dente pode ter uma, duas ou três raízes e canais, mais frequentemente duas.\n- **Etnia:** pessoas de origem asiática têm maior incidência de **um só canal** do que as de outros grupos.\n- **Câmara:** muito mais ampla no sentido **vestibulolingual** do que no mesiodistal. Há um corno pulpar vestibular e um palatino, e o **vestibular costuma ser mais volumoso**.\n- **Sulco de bifurcação** (depressão de desenvolvimento) na face palatina da raiz vestibular: prevalência relatada de **62 a 100%**. No ponto mais fundo da depressão, a espessura média de dentina é de **0,81 mm**.\n- **Comprimento médio:** 20,6 mm (legenda da Fig. 7.54).\n- A Fig. 7.55 (microTC) mostra o dente comum com duas raízes, um com **um só canal** e um com **três raízes**.\n\n**Segundo pré-molar superior**\n- O sistema de canais é mais amplo no sentido **vestibulolingual** do que no mesiodistal.\n- Pode ter uma, duas ou três raízes e canais, e podem ocorrer **dois ou três canais dentro de uma única raiz**.\n- É o único dente com as **oito configurações de Vertucci** (veja a primeira seção).\n- **Comprimento médio:** 21,5 mm. Curvatura da raiz, da mais para a menos comum: distal, baioneta, vestibular, reta (Fig. 7.56).\n- A Fig. 7.57 mostra um com um canal, um com dois canais e delta apical, e um com três raízes ou canais que se dividem na junção dos terços médio e apical.\n\n**Atenção:** não conclua que um dente de **uma raiz** tem **um canal**. No primeiro pré-molar superior, a maioria tem dois canais, qualquer que seja o número de raízes."
+    },
+    {
+      "id": "pre-molares-inferiores",
+      "titulo": "Pré-molares inferiores",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195",
+      "texto": "O capítulo diz que os pré-molares inferiores, como grupo, trazem **desafios anatômicos significativos**, por variações extremas na morfologia dos canais.\n\n**Primeiro pré-molar inferior**\n- O sistema é mais amplo no sentido **vestibulolingual** do que no mesiodistal.\n- Há **dois cornos pulpares**: um grande, voltado para vestibular, e um pequeno e arredondado, lingual.\n- Na altura cervical a raiz e o canal são **ovais**; o formato tende a ficar **arredondado** perto do terço médio. Se há dois canais, tendem a ser arredondados da câmara ao forame.\n- O **acesso direto ao canal vestibular** geralmente é possível. O **lingual pode ser bem difícil de localizar**; para achá-lo, a **parede lingual da cavidade de acesso pode precisar ser estendida para lingual** (Fig. 7.16B, com ampliação).\n- Às vezes há **três raízes e três canais**, e vários estudos relatam **canal em C**.\n- O capítulo diz que é **não raro** o canal lingual sair em forame independente, partindo do principal em ângulo quase reto (Fig. 7.16A, configuração tipo V de Vertucci).\n- Comprimento médio: 21,6 mm; curvatura da raiz, da mais para a menos comum: reta, distal, vestibular (Fig. 7.69).\n\n**Segundo pré-molar inferior** é parecido com o primeiro, com estas diferenças:\n- o **corno pulpar lingual geralmente é maior**;\n- raiz e canal são mais frequentemente **ovais** do que arredondados;\n- a câmara é mais ampla no sentido vestibulolingual;\n- a separação entre câmara e canal é **facilmente distinguível**, enquanto no primeiro o formato é mais cônico e regular.\n\nA morfologia do canal é parecida (dois, três e quatro canais e coroa inclinada para lingual), mas as variações são **menos frequentes** no segundo. Comprimento médio: 22,3 mm (Fig. 7.71)."
+    },
+    {
+      "id": "acesso-contorno",
+      "titulo": "Acesso em pré-molares: ponto de eleição e contorno",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204; expansão da sigla JAC, p. 197",
+      "texto": "Os objetivos gerais e os passos do acesso estão no tema **Acesso em incisivos e caninos** (`acesso-incisivos-e-caninos`). Aqui ficam só as particularidades dos pré-molares, segundo o cap. 7.\n\n**Ponto de eleição** (onde a broca entra):\n- **Pré-molares superiores:** no **sulco central**, entre as pontas das cúspides (Fig. 7.30).\n- **Pré-molares inferiores:** a coroa é **inclinada para lingual** em relação à raiz (Fig. 7.31), então o ponto é ajustado para compensar (Fig. 7.32).\n- **Primeiro pré-molar inferior:** na **metade da aresta transversal da cúspide vestibular**, sobre a linha que liga as pontas das cúspides.\n- **Segundo pré-molar inferior:** precisa de menos ajuste, porque a inclinação lingual é menor. O ponto fica na aresta transversal da cúspide vestibular, a **um terço da distância** entre o sulco central e a ponta da cúspide vestibular.\n\n**Penetração do esmalte até a dentina (cerca de 1 mm):** ponta diamantada esférica nº 2 ou nº 4 para pré-molares. Uma broca cônica de fissura pode substituir as esféricas. A broca fica **perpendicular à face oclusal**, e a forma de contorno inicial tem de **metade a três quartos** do tamanho final planejado.\n\n**Forma de contorno:** nos pré-molares é **oval, mais ampla no sentido vestibulolingual**. No pré-molar superior, a forma final projetada é um retângulo alongado nesse sentido (Fig. 7.30).\n\n**Penetração do teto da câmara:** a profundidade é limitada pela distância medida na **radiografia inicial**. Se você **não sentir a queda** ao atingir a câmara, **reavalie a direção da trepanação**. Atingida a câmara, o resto do teto sai com ponta diamantada ou broca esférica, contra o remanescente do teto, com movimentos de tração em direção oclusal.\n\n**Ponto de partida:** em dente de posterior, remover cárie e restauração costuma dar uma forma aceitável, com a câmara no centro do dente, na altura da junção amelocementária (JAC). Dente muito restaurado dá acesso mais difícil; com cárie extensa, mais fácil."
+    },
+    {
+      "id": "acesso-orificios",
+      "titulo": "Acesso em posteriores: orifícios, saliências e inspeção",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, pp. 205–206",
+      "texto": "Depois da forma de contorno, o cap. 7 pede quatro cuidados nos dentes posteriores, entre eles os pré-molares.\n\n**1. Identifique todos os orifícios de entrada.** Eles ajudam a definir a forma final do acesso. Idealmente ficam **nos cantos** do desenho final, para facilitar as etapas seguintes (Fig. 7.35, sonda exploradora endodôntica).\n\n**2. Remova as saliências de dentina cervical e amplie a entrada.** Os obstáculos internos a um bom acesso são as **saliências (protuberâncias) de dentina cervical** e a constrição natural dos canais no terço cervical. As saliências são camadas de dentina que muitas vezes **cobrem os orifícios**, restringem o acesso aos canais e **acentuam as curvaturas** que o canal já tem (Fig. 7.36).\n\n**3. Confira o acesso direto.** Nos posteriores ele é fundamental para o preparo, por causa da complexidade dos canais. As limas devem chegar **livres, sem obstáculo, ao forame apical ou ao primeiro ponto de curvatura**. O capítulo diz que isso não é possível quando se faz acesso minimamente invasivo.\n\n**4. Inspecione o assoalho e as paredes da câmara** com **ampliação e iluminação adequadas**, para ter certeza de que os orifícios de todos os canais estão visíveis e de que **não sobrou teto** (Fig. 7.37).\n\n**Como reconhecer o erro:** orifício encoberto por dentina ou pedaço de teto ainda no lugar. O capítulo pede remover as saliências cervicais e conferir que a lima chega livre, sem obstáculo, ao forame apical ou ao primeiro ponto de curvatura."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Em qual dente o Cohen diz ter aparecido as oito configurações de Vertucci?",
+      "verso": "No segundo pré-molar superior, o único dente com as oito.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193"
+    },
+    {
+      "id": "f02",
+      "frente": "Como o Cohen agrupa os tipos de Vertucci pelo número de canais no ápice?",
+      "verso": "Um canal: I, II e III. Dois canais: IV, V, VI e VII. Três canais: VIII.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193"
+    },
+    {
+      "id": "f03",
+      "frente": "Achou um só orifício e ele está fora do centro da raiz. O que o Cohen indica?",
+      "verso": "Provavelmente há outro orifício do lado oposto. Procure lá.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+    },
+    {
+      "id": "f04",
+      "frente": "Dois orifícios próximos no assoalho: o que isso sugere sobre os canais?",
+      "verso": "Quanto mais próximos, maior a chance de se unirem em algum ponto da raiz. Quanto mais afastados, maior a chance de ficarem separados.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+    },
+    {
+      "id": "f05",
+      "frente": "Como explorar uma entrada de canal oval, segundo o Cohen?",
+      "verso": "Com instrumentos de pequeno diâmetro, de ponta curvada. Para o canal vestibular, a ponta aponta para vestibular; para o palatino, para palatina.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+    },
+    {
+      "id": "f06",
+      "frente": "O que é um istmo, segundo o Cohen?",
+      "verso": "Comunicação estreita, em fita, com tecido pulpar, entre dois canais.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+    },
+    {
+      "id": "f07",
+      "frente": "Em pré-molares superiores, quanto vale a frequência de istmos a 1 mm e a 6 mm do ápice?",
+      "verso": "16% a 1 mm do ápice e 52% a 6 mm do ápice, segundo o cap. 7 do Cohen.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+    },
+    {
+      "id": "f08",
+      "frente": "Quantos canais tem a maioria dos primeiros pré-molares superiores?",
+      "verso": "Dois, independentemente do número de raízes. O dente pode ter uma, duas ou três raízes, mais frequentemente duas.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+    },
+    {
+      "id": "f09",
+      "frente": "No primeiro pré-molar superior, qual corno pulpar costuma ser mais volumoso?",
+      "verso": "O vestibular. A câmara é bem mais ampla no sentido vestibulolingual do que no mesiodistal.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+    },
+    {
+      "id": "f10",
+      "frente": "Como achar o canal lingual difícil de localizar no primeiro pré-molar inferior?",
+      "verso": "A parede lingual da cavidade de acesso pode precisar ser estendida para lingual.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+    },
+    {
+      "id": "f11",
+      "frente": "Que diferenças o Cohen aponta entre o segundo e o primeiro pré-molar inferior?",
+      "verso": "Corno lingual geralmente maior, raiz e canal mais ovais, separação câmara-canal facilmente distinguível e variações menos frequentes.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+    },
+    {
+      "id": "f12",
+      "frente": "Onde fica o ponto de eleição dos pré-molares superiores?",
+      "verso": "No sulco central, entre as pontas das cúspides.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+    },
+    {
+      "id": "f13",
+      "frente": "Onde fica o ponto de eleição do primeiro pré-molar inferior?",
+      "verso": "Na metade da aresta transversal da cúspide vestibular, sobre a linha que liga as pontas das cúspides.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+    },
+    {
+      "id": "f14",
+      "frente": "Que obstáculo interno, em camada, muitas vezes cobre os orifícios e acentua as curvaturas nos posteriores?",
+      "verso": "As saliências de dentina cervical.",
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, pp. 205–206"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o cap. 7 do Cohen, qual pré-molar foi o único a apresentar todas as oito configurações de Vertucci?",
+      "alternativas": [
+        {
+          "texto": "Primeiro pré-molar inferior.",
+          "correta": false,
+          "justificativa": "O capítulo dá as oito configurações ao segundo pré-molar superior, único dente que as apresentou; no primeiro inferior ele descreve variações extremas (p. 217).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193; Primeiro pré-molar inferior, p. 217"
+        },
+        {
+          "texto": "Primeiro pré-molar superior.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a maioria dos primeiros superiores tem dois canais e atribui as oito configurações a outro dente.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193"
+        },
+        {
+          "texto": "Segundo pré-molar superior.",
+          "correta": true,
+          "justificativa": "Correto: o capítulo diz que o segundo pré-molar superior foi o único dente com as oito configurações de Vertucci.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193"
+        },
+        {
+          "texto": "Segundo pré-molar inferior.",
+          "correta": false,
+          "justificativa": "O capítulo atribui as oito configurações ao segundo superior, o único dente que as apresentou.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Anatomia do canal radicular, pp. 192–193; Fig. 7.10, p. 193",
+      "secao": "vertucci",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Num pré-molar aberto, você achou um só orifício e ele não está no centro da raiz. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Há um canal único, que pode ser instrumentado como está.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o canal único geralmente fica no centro da cavidade de acesso; aqui o orifício está fora do centro da raiz.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "Provavelmente há outro orifício do lado oposto, e vale procurá-lo.",
+          "correta": true,
+          "justificativa": "Correto: se só há uma entrada e ela não está no centro da raiz, provavelmente há outro orifício do lado oposto (cap. 7, p. 194).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "O orifício está certo, pois o canal único fica sempre na linha do contorno.",
+          "correta": false,
+          "justificativa": "O capítulo coloca o canal único geralmente no centro da cavidade de acesso, não na linha do contorno.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "O dente tem canal em C e deve ser tratado como tal.",
+          "correta": false,
+          "justificativa": "A conduta que o capítulo dá para um orifício único fora do centro é procurar outro orifício do lado oposto (p. 194).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194",
+      "secao": "orificios",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Você vê, no assoalho, dois orifícios muito próximos entre si. O que o Cohen diz sobre esses canais?",
+      "alternativas": [
+        {
+          "texto": "Têm maior chance de se unir em algum ponto da raiz.",
+          "correta": true,
+          "justificativa": "Correto: quanto mais próximos os orifícios, maior a chance de os canais se unirem em algum ponto da raiz (p. 194).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "Têm maior chance de permanecer separados até o ápice.",
+          "correta": false,
+          "justificativa": "O capítulo diz que quanto maior a distância entre os orifícios, maior a chance de permanecerem separados; aqui eles estão próximos.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "São sempre dois canais com forames independentes.",
+          "correta": false,
+          "justificativa": "O capítulo fala em chance, não em certeza: quanto mais próximos os orifícios, maior a chance de os canais se unirem (p. 194).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        },
+        {
+          "texto": "Têm menor curvatura quanto menor a distância entre os orifícios.",
+          "correta": false,
+          "justificativa": "O capítulo diz que quanto maior a separação entre os orifícios, menor a curvatura do canal; a relação é a oposta da afirmada aqui (p. 194).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terço cervical, pp. 194–195; Fig. 7.13, p. 194",
+      "secao": "orificios",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Num pré-molar superior, a raiz tem dois canais, um vestibular e um palatino, que se unem num só no terço médio. Segundo o cap. 7 do Cohen, qual deles costuma ser o de acesso direto ao ápice?",
+      "alternativas": [
+        {
+          "texto": "O canal vestibular.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, quando dois canais se unem, o de acesso direto ao ápice costuma ser o lingual ou palatino, e aqui o outro canal é o vestibular (p. 195).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+        },
+        {
+          "texto": "O canal mesial.",
+          "correta": false,
+          "justificativa": "Os dois canais do enunciado ficam no sentido vestibulopalatino, sem canal mesial; o capítulo dá o palatino como o de acesso direto (p. 195).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+        },
+        {
+          "texto": "O canal distal.",
+          "correta": false,
+          "justificativa": "Os dois canais do enunciado ficam no sentido vestibulopalatino, sem canal distal; o capítulo dá o palatino como o de acesso direto (p. 195).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+        },
+        {
+          "texto": "O canal palatino.",
+          "correta": true,
+          "justificativa": "Correto: quando uma raiz tem dois canais que se unem, o canal lingual ou palatino costuma ser o de acesso direto ao ápice (p. 195).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Determinação clínica da configuração do canal radicular, terços médio e apical, pp. 195–196; Figs. 7.15 e 7.16, p. 195",
+      "secao": "istmos",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Primeiro pré-molar superior extraído, com uma única raiz visível. O que o Cohen diz sobre o número de canais desse dente?",
+      "alternativas": [
+        {
+          "texto": "Tem um canal por raiz, então este tem um só.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a maioria tem dois canais, qualquer que seja o número de raízes (p. 211).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "Tem dois canais só quando há duas raízes.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a maioria tem dois canais independentemente do número de raízes, e não só quando há duas.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "A maioria tem dois canais, independentemente do número de raízes.",
+          "correta": true,
+          "justificativa": "Correto: a maioria dos primeiros pré-molares superiores tem dois canais, independentemente do número de raízes (p. 211).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "A maioria tem três canais, qualquer que seja o número de raízes.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o dente pode ter uma, duas ou três raízes e canais, mais frequentemente duas; três não é o mais comum.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213",
+      "secao": "pre-molares-superiores",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Ao abrir um primeiro pré-molar superior, você vai dimensionar a câmara. O que o Cohen descreve?",
+      "alternativas": [
+        {
+          "texto": "Mais ampla no sentido mesiodistal, com corno palatino mais volumoso.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a câmara é bem mais ampla no sentido vestibulolingual que no mesiodistal.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "Mais ampla no sentido vestibulolingual, com corno vestibular geralmente mais volumoso.",
+          "correta": true,
+          "justificativa": "Correto: câmara mais ampla no sentido vestibulolingual, com um corno vestibular e um palatino, o vestibular costumando ser mais volumoso (p. 211).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "Igual nos dois sentidos, com um único corno central.",
+          "correta": false,
+          "justificativa": "O capítulo descreve um corno vestibular e um palatino, e dimensões diferentes nos dois sentidos.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        },
+        {
+          "texto": "Mais ampla no sentido vestibulolingual, com corno palatino geralmente mais volumoso.",
+          "correta": false,
+          "justificativa": "O capítulo diz que, dos dois cornos, o vestibular costuma ser mais volumoso, não o palatino.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiro e segundo pré-molares superiores, pp. 211–213; Figs. 7.54 a 7.57, pp. 211–213",
+      "secao": "pre-molares-superiores",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Em um primeiro pré-molar inferior, você localiza o canal vestibular com facilidade, mas não acha o lingual. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Concluir que o dente tem um canal só, pois o vestibular foi achado direto.",
+          "correta": false,
+          "justificativa": "O capítulo diz que o canal lingual pode ser bem difícil de localizar e que o dente às vezes tem três raízes e três canais (p. 217).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "Estender a parede lingual da cavidade de acesso para lingual.",
+          "correta": true,
+          "justificativa": "Correto: para achar o canal lingual, a parede lingual da cavidade de acesso pode precisar ser estendida para lingual (p. 217; Fig. 7.16B).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "Estender a parede vestibular para vestibular até aparecer o lingual.",
+          "correta": false,
+          "justificativa": "O capítulo manda estender a parede lingual, na direção do canal lingual, não a vestibular.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "Aprofundar a trepanação no centro da câmara até a ponta da lima encontrar o canal.",
+          "correta": false,
+          "justificativa": "O capítulo indica estender a parede lingual da cavidade de acesso para lingual (p. 217; Fig. 7.16B).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195",
+      "secao": "pre-molares-inferiores",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Você compara um segundo pré-molar inferior com um primeiro. Qual diferença o Cohen aponta?",
+      "alternativas": [
+        {
+          "texto": "No segundo, o corno pulpar lingual geralmente é maior.",
+          "correta": true,
+          "justificativa": "Correto: no segundo pré-molar inferior o corno pulpar lingual geralmente é maior (p. 217).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "No segundo, o corno pulpar lingual é pequeno e arredondado.",
+          "correta": false,
+          "justificativa": "O capítulo atribui o corno lingual pequeno e arredondado ao primeiro pré-molar inferior.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "No segundo, as variações de canal são mais frequentes que no primeiro.",
+          "correta": false,
+          "justificativa": "O capítulo diz que as variações são menos frequentes no segundo pré-molar inferior.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        },
+        {
+          "texto": "No segundo, o formato câmara-canal é mais cônico e regular.",
+          "correta": false,
+          "justificativa": "O capítulo atribui o formato mais cônico e regular ao primeiro; no segundo a separação câmara-canal é facilmente distinguível.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Primeiros e segundos pré-molares inferiores, pp. 217–223 (texto em 217, Figs. 7.69 a 7.72 em 221–223); Fig. 7.16, p. 195",
+      "secao": "pre-molares-inferiores",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Primeiro pré-molar inferior, coroa inclinada para lingual em relação à raiz. Segundo o cap. 7 do Cohen, onde fica o ponto de eleição?",
+      "alternativas": [
+        {
+          "texto": "No sulco central, entre as pontas das cúspides.",
+          "correta": false,
+          "justificativa": "O sulco central é o ponto dos pré-molares superiores; nos inferiores a coroa inclinada para lingual pede ajuste.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "Na aresta transversal da cúspide vestibular, a um terço da distância entre o sulco central e a ponta vestibular.",
+          "correta": false,
+          "justificativa": "Esse é o ponto do segundo pré-molar inferior, que tem menos inclinação lingual; o primeiro usa a metade da aresta.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "No centro da cúspide lingual, para compensar a inclinação.",
+          "correta": false,
+          "justificativa": "O capítulo coloca o ponto na aresta transversal da cúspide vestibular (p. 203).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "Na metade da aresta transversal da cúspide vestibular, sobre a linha que liga as pontas das cúspides.",
+          "correta": true,
+          "justificativa": "Correto: no primeiro pré-molar inferior o ponto é a metade da aresta transversal da cúspide vestibular, sobre a linha que liga as pontas das cúspides (p. 203).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204",
+      "secao": "acesso-contorno",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Você já atravessou o esmalte até a dentina de um pré-molar e prossegue na trepanação. Não sente a queda ao atingir a câmara. O que o Cohen indica?",
+      "alternativas": [
+        {
+          "texto": "Reavaliar a direção da trepanação, tendo em mente a distância medida na radiografia inicial.",
+          "correta": true,
+          "justificativa": "Correto: a penetração do teto é limitada pela distância medida na radiografia inicial; se a queda não é sentida, reavalia-se a direção da trepanação (p. 204).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "Continuar na mesma direção até sentir a queda, ignorando a radiografia.",
+          "correta": false,
+          "justificativa": "O capítulo limita a profundidade à distância da radiografia inicial; manda reavaliar a direção, não insistir nela.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "Alargar a forma de contorno além do planejado antes de aprofundar.",
+          "correta": false,
+          "justificativa": "Sem a queda, o capítulo manda reavaliar a direção da trepanação (p. 204), e não aumentar a forma de contorno.",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        },
+        {
+          "texto": "Trocar para a broca cônica e seguir aprofundando até sentir a queda.",
+          "correta": false,
+          "justificativa": "O capítulo diz que a profundidade é limitada pela distância medida na radiografia inicial e, sem a queda, manda reavaliar a direção da trepanação (p. 204).",
+          "fonte": "cohen12-cap07",
+          "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204"
+        }
+      ],
+      "fonte": "cohen12-cap07",
+      "onde": "cap. 7, Acesso cavitário, dentes posteriores, forma de contorno e penetração do teto, pp. 203–204; Figs. 7.30 a 7.32, p. 204",
+      "secao": "acesso-contorno",
+      "figura": null
+    }
+  ]
+}
