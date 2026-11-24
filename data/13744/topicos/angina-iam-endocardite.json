@@ -152,6 +152,15 @@
   ],
   "figuras": [
     {
+      "src": "data/13744/img/aie-01.jpg",
+      "alt": "Silhueta de frente com a região atrás do esterno em laranja forte e, em laranja claro, o ombro e o braço esquerdos, o pescoço, a mandíbula e o epigástrio. Ao lado, um punho fechado sobre o peito.",
+      "legenda": "Ilustração. A dor da angina é subesternal (aperto, pressão, peso) e irradia para ombro e braço esquerdos, pescoço, mandíbula ou epigástrio. O punho fechado diante do peito é o sinal de Levine, indicação forte de origem isquêmica.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "angina-reconhecer",
+      "largura": 1045,
+      "altura": 1400
+    },
+    {
       "src": "data/13744/img/aie-02.jpg",
       "alt": "Fluxograma em três colunas. Angina conhecida com ataque típico: posição confortável, nitroglicerina sublingual ou spray, nova dose após 5 minutos até 3 doses em 15 minutos e chamar emergência se não aliviar. Angina com episódio diferente e dor sem história de angina: chamar a emergência na hora, com oxigênio, aspirina e monitoração.",
       "legenda": "Esquema do fluxo de dor torácica pelo Malamed. O diagnóstico de angina só vale com história de angina e dor igual à de sempre; nos outros cenários trata-se como infarto e chama-se o serviço de emergência de imediato.",

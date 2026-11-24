@@ -156,6 +156,15 @@
   ],
   "figuras": [
     {
+      "src": "data/13744/img/pul-01.jpg",
+      "alt": "Paciente sentado na cadeira odontológica com o encosto vertical, inclinado para a frente, inalando o broncodilatador por um inalador com espaçador transparente; uma auxiliar o acompanha e há uma cânula de oxigênio ao lado.",
+      "legenda": "Ilustração. Na crise de asma o paciente fica sentado na vertical, com os braços lançados para a frente, e usa o broncodilatador de resgate, de preferência o próprio, com espaçador. Só cerca de 1% da dose é de fato inalada; o espaçador aumenta a parte que chega aos brônquios.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "malamed-crise",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
       "src": "data/13744/img/pul-02.jpg",
       "alt": "Três cortes esquemáticos: via aérea normal, bronquite crônica com parede espessada e muco, e enfisema com alvéolos destruídos que formam grandes espaços.",
       "legenda": "Ilustração. Na bronquite crônica a parede do brônquio engrossa e a luz se estreita com muco; no enfisema os alvéolos se destroem. As duas formas compõem a DPOC.",

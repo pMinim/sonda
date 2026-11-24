@@ -111,7 +111,17 @@
       "texto": "Os valores abaixo vêm das **legendas** das figuras do capítulo. São comprimentos **médios** do dente, e a curvatura da raiz vem da **mais comum para a menos comum**.\n\n| Dente | Comprimento médio | Curvatura da raiz (da mais para a menos comum) | Figura |\n|---|---|---|---|\n| Incisivo central superior | 22,5 mm | reta, vestibular, distal | 7.47, p. 209 |\n| Incisivo lateral superior | 22 mm | distal, reta | 7.50, p. 210 |\n| Canino superior | 26,5 mm | distal, reta, vestibular | 7.52, p. 211 |\n| Incisivos central e lateral inferiores | 20,7 mm | reta, distal, vestibular | 7.64, p. 218 |\n| Canino inferior | 25,6 mm | reta, distal, vestibular | 7.67, p. 221 |\n\n**Como ler.** O canino é o mais longo dos dentes anteriores, tanto no superior (26,5 mm) quanto no inferior (25,6 mm). Os incisivos inferiores são os mais curtos (20,7 mm). Para o limite da penetração, o Cohen manda medir na radiografia inicial a distância da borda incisal ao teto da câmara (seção sobre penetração).\n\n**Raiz e canal: dois dados do capítulo.**\n- Legendas (curvatura da **raiz**): \"reta\" é a mais comum do incisivo central superior (Fig. 7.47, p. 209), dos incisivos inferiores (Fig. 7.64, p. 218) e do canino inferior (Fig. 7.67, p. 221).\n- Texto (curvatura do **canal**): quase todos os canais são curvos, principalmente no sentido vestibulolingual, e a periapical não mostra essa curva (p. 190).\n\n**Outros dados** (irrupção e calcificação) constam das mesmas legendas, mas não são usados aqui."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/ai-01a.jpg",
+      "alt": "Ilustração. Do ponto de eleição à remoção do teto: ponto no centro da coroa anatômica (face palatina); contorno triangular; broca perpendicular ao esmalte; broca paralela ao longo eixo para entrar na câmara; esférica sob o teto, cortando na retirada.",
+      "legenda": "Ilustração. Do ponto de eleição à remoção do teto: ponto no centro da coroa anatômica (face palatina); contorno triangular; broca perpendicular ao esmalte; broca paralela ao longo eixo para entrar na câmara; esférica sob o teto, cortando na retirada.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "contorno",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

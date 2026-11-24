@@ -112,7 +112,17 @@
       "texto": "**Fonte desta seção:** o **manual prático organizado por Maria Lucia Zarvos Varellis** (Guanabara Koogan, 3ª ed., 2017), de organizadora; o clássico ao lado é o Little e Falace. Os números são do manual.\n\n**Risco:** a hipertensão é o mais importante risco isolado de coronariopatia e AVC; eventos cardiovasculares ocorrem de 2 a 6 vezes mais que nos normotensos. No consultório, o livro aponta como riscos o sangramento excessivo em cirurgias, os anestésicos locais, o estresse da dor e as bacteriemias de procedimentos cruentos.\n\n**Conduta no atendimento:**\n- Interação entre dentista e cardiologista; evitar sessões longas e dolorosas e o estresse; monitorar a pressão; cuidado com anestesia com epinefrina e com retratores gengivais.\n- Anestésico: **prilocaína com vasoconstritor** é a primeira escolha. O uso de vasoconstritor é controverso, mas recomendado: melhora e prolonga o efeito, e a dose pequena de vasopressor é benéfica para controlar a dor e a epinefrina endógena.\n- Anti-inflamatório: quanto maior o efeito anti-inflamatório, maior a retenção de água e a pressão; evitar **diclofenaco, piroxicam e corticosteroide**. Primeira escolha: benzidamina 50 mg de 6/6 h ou ácido mefenâmico 500 mg de 8/8 h. Se o paciente usa anticoagulante, evitar analgésicos à base de ácido acetilsalicílico.\n- Anti-hipertensivos reduzem o fluxo salivar (mais cárie e doença periodontal); atenção à hipotensão ortostática ao mudar a posição na cadeira.\n- Se o paciente chega sem condições gerais favoráveis, adiar e, se preciso, encaminhar ao médico ou ao pronto-socorro. Dor odontológica pode elevar a pressão: analise a causa, intervenha o mínimo e alivie o sintoma.\n- A nifedipina, anti-hipertensivo, pode causar hiperplasia gengival (caso clínico do livro, junto com a fenitoína); o livro sugere informar o médico para avaliar fármaco alternativo, e trata a lesão com excisão e terapia periodontal básica.\n\nO capítulo não traz um valor de pressão para adiar ou encerrar o atendimento."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/has-01.jpg",
+      "alt": "Paciente sentado com o braço apoiado na altura do coração e o manguito de pressão colocado, ligado ao manômetro, com o estetoscópio na dobra do cotovelo.",
+      "legenda": "Ilustração. Medida da pressão: paciente confortável, cerca de 5 minutos na mesma posição, sentado, com o braço na altura do coração e o manguito de tamanho adequado (cobrindo cerca de dois terços do braço, segundo o manual do Varellis).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "varellis-medida",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

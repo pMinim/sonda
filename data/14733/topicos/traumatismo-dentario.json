@@ -111,6 +111,15 @@
   ],
   "figuras": [
     {
+      "src": "data/14733/img/tra-03.jpg",
+      "alt": "Quatro quadros: mão segurando o dente pela coroa, lavagem do dente, reimplante no alvéolo e paciente mordendo uma gaze.",
+      "legenda": "Ilustração. Na avulsão de dente permanente, o reimplante imediato no local do acidente é o melhor tratamento: segurar o dente pela coroa, sem tocar a raiz; lavar com leite, soro ou saliva se estiver sujo; reimplantar; morder uma gaze. Se não for possível, meio de armazenamento na ordem leite, HBSS, saliva, soro; a água é ruim, mas melhor que o seco. Dente decíduo avulsionado não se reimplanta (IADT, 2020).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "av-socorros",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
       "src": "data/14733/img/tra-02.svg",
       "alt": "Linha do tempo da avulsão com três grupos: reimplante imediato ou em cerca de 15 minutos, meio de armazenamento por menos de 60 minutos, e mais de 60 minutos, com marca de cerca de 30 minutos ao seco.",
       "legenda": "Ilustração. Segundo a IADT, o tempo extra-alveolar orienta o prognóstico: provavelmente viáveis (reimplante imediato ou em cerca de 15 min, no local), possivelmente viáveis mas comprometidas (meio de armazenamento, menos de 60 min) e provavelmente inviáveis (mais de 60 min). Depois de cerca de 30 min ao seco, a maioria das células do ligamento fica inviável. A classificação orienta a decisão e não altera o tratamento.",

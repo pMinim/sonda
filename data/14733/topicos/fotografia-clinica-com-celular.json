@@ -156,6 +156,15 @@
       "altura": 1045
     },
     {
+      "src": "data/14733/img/fot-01.jpg",
+      "alt": "Corte lateral da cabeça com espelho atrás dos molares inferiores tocando os incisivos superiores, e câmera acima apontada perpendicularmente para a imagem refletida do arco inferior.",
+      "legenda": "Ilustração. Oclusal de mandíbula: o espelho fica distal aos últimos molares inferiores, com a face refletora voltada para o arco inferior, e a parte de cima toca os incisivos centrais superiores; a objetiva fica o mais perpendicular possível à imagem refletida. A imagem sai invertida no espelho e deve ser reinvertida (Rocha e Trigueiro).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "cordon-tomadas-intrabucais-2",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
       "src": "data/14733/img/fot-02.svg",
       "alt": "Gráfico de barras da largura do dente 15: escaneamento 0,25 cm, DSLR 0,24, celular a 16 cm 0,17, a 20 cm 0,20, a 24 cm 0,22, a 28 cm 0,23 e a 32 cm 0,23.",
       "legenda": "Gráfico com a linha do dente 15 da Tabela 1 de Moussa et al. (2021), em modelos de gesso: média e desvio-padrão da largura (cm). Nos quatro pré-molares, o celular a 16 e a 20 cm difere do escaneamento; nos dentes anteriores nenhuma distância diferiu. O texto do artigo é incoerente sobre quais distâncias diferem (ver a seção). Dados: Moussa et al., 2021 (CC BY).",

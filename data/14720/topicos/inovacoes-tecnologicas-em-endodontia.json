@@ -112,7 +112,26 @@
       "texto": "O Cohen chama o tratamento endodôntico guiado em 3D, cirúrgico e não cirúrgico, de \"uma aplicação emergente\".\n\n**Como funciona.** A TCFC é combinada com a digitalização intraoral da área de interesse. As duas imagens são sobrepostas num modelo, com mangas posicionadas nas imagens. A partir disso se imprime em 3D um guia com manga, que direciona o instrumento. Na maioria das vezes se usa o software de planejamento de implantes.\n\n**Para que se usa hoje.** Em dentes com canais calcificados e em dentes com variações anatômicas do sistema de canais. O livro cita estudo recente do acesso em dentes com canal calcificado: com a abordagem guiada, mais canais foram detectados e houve perda significativamente menor de estrutura dentária.\n\n**Nível de evidência.** O livro diz que faltam estudos de alto nível de evidência: há vários estudos in vitro e relatos de caso.\n\nO capítulo trata também de guias na cirurgia perirradicular, que não faz parte desta disciplina."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14720/img/in-01.jpg",
+      "alt": "Ilustração. Ativação do irrigante: manual, sônica (1.500 a 6.000 Hz) e ultrassônica (acima de 20.000 Hz).",
+      "legenda": "Ilustração. Ativação do irrigante: manual, sônica (1.500 a 6.000 Hz) e ultrassônica (acima de 20.000 Hz).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "ativacao-sonica-ultrassonica",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
+      "src": "data/14720/img/in-02.jpg",
+      "alt": "Ilustração. Pressão apical negativa: o irrigante é levado à câmara e aspirado pela microcânula perto do ápice.",
+      "legenda": "Ilustração. Pressão apical negativa: o irrigante é levado à câmara e aspirado pela microcânula perto do ápice.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "pressao-negativa-multissonica",
+      "largura": 1045,
+      "altura": 1400
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

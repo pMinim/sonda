@@ -111,6 +111,15 @@
   ],
   "figuras": [
     {
+      "src": "data/14733/img/cim-01.jpg",
+      "alt": "Quatro quadros de uma coroa cerâmica em corte: jateamento da face interna, ácido fluorídrico só na face interna, aplicação de silano e aplicação de adesivo.",
+      "legenda": "Ilustração. Cerâmica com sílica (feldspática, de leucita, dissilicato), na ordem do Pegoraro e sempre conforme o fabricante: jateamento com óxido de alumínio, ácido fluorídrico só na face interna, silano e adesivo. Cerâmica sem sílica (muita alumina ou zircônia) não reage ao ácido fluorídrico.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "peca-pegoraro",
+      "largura": 1400,
+      "altura": 781
+    },
+    {
       "src": "data/14733/img/cim-02.jpg",
       "alt": "Dois quadros: coroa sendo assentada com pressão do dedo e cimento escoando na margem cervical; e remoção do excesso de cimento com sonda e fio dental na proximal.",
       "legenda": "Ilustração. A: pressão digital firme e uniforme, de cerca de 4 kg, por 1 minuto, olhando se o cimento escoa em todo o contorno cervical. B: depois da presa, remoção do excesso com a sonda e fio dental nas proximais (Pegoraro). Com cimento resinoso, o livro mostra pré-fotoativação de 10 s antes de remover o excesso nas proximais.",

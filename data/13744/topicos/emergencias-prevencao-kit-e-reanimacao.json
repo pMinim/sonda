@@ -110,7 +110,26 @@
       "texto": "**Parte 4 da AHA 2025 (EUA), Sistemas de Cuidado.** Só a **cadeia de sobrevivência** foi lida desta parte; diretriz norte-americana de 2025, lida em 17/11/2026. A lista dos seis elos da figura está na seção do SBV pediátrico (Parte 6, Fig. 1).\n\nA AHA volta a uma **cadeia única** para toda parada cardíaca (adulto ou criança, dentro ou fora do hospital), pela simplicidade; os detalhes de aplicação variam. O símbolo da RCP de alta qualidade passou a mostrar compressões e também respirações, pela importância da respiração na parada pediátrica e em parte das paradas de adulto (afogamento, intoxicação por opioide).\n\nO texto lido da Parte 4 nomeia o elo de **reconhecimento e acionamento** de emergência, o de **RCP de alta qualidade** e o de **prevenção e preparação**, deixado de fora de propósito: a AHA o considera crucial e adiou incluí-lo até haver uma declaração científica dedicada a ele.\n\nAs recomendações específicas de acionamento por telefone e de resposta do leigo estão em tabelas da Parte 4 que não foram lidas para este tema."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/epr-02.jpg",
+      "alt": "Socorrista ajoelhado ao lado de um adulto deitado, com os braços esticados e os ombros sobre as mãos sobrepostas na metade inferior do esterno, em vista lateral e vista de cima.",
+      "legenda": "Ilustração. Mãos sobrepostas na metade inferior do esterno, braços esticados e ombros sobre as mãos. A AHA 2025 pede compressões de pelo menos 5 cm (sem passar de 6 cm), a 100 a 120 por minuto, deixando o tórax voltar por completo.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aha-p7-rcp",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/13744/img/epr-03.jpg",
+      "alt": "Dois quadros: socorrista dando um golpe nas costas entre as escápulas de um adulto inclinado para a frente, e o mesmo socorrista com os braços em volta do abdome fazendo uma compressão abdominal.",
+      "legenda": "Ilustração. Obstrução grave em adulto consciente (tosse fraca ou ausente, não fala, cianose): ciclos de 5 golpes nas costas seguidos de 5 compressões abdominais, até expelir o objeto ou perder a resposta; então inicia-se a RCP. Se não for possível abraçar o abdome, ou na gestação avançada, usam-se 5 compressões torácicas no lugar das abdominais (AHA 2025, EUA).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aha-p7-fbao",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

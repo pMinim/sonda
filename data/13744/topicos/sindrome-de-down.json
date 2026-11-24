@@ -79,7 +79,17 @@
       "texto": "**Fonte desta seção:** Little e Falace, 9ª ed. (autores dos EUA). O livro não tem capítulo nem seção sobre a síndrome de Down: ela aparece de passagem em quatro páginas, sem manejo odontológico.\n\n- **Leucemia (cap. 23, pp. 404 e 406):** a síndrome de Down está entre as doenças genéticas que aumentam o risco de leucemia mieloide aguda; a leucemia linfoblástica aguda é 18 a 20 vezes mais comum em pacientes com síndrome de Down (trissomia do 21), segundo o livro.\n- **Alzheimer (cap. 27, p. 527):** adultos com trissomia do 21 desenvolvem de modo consistente as marcas neuropatológicas da doença de Alzheimer se sobrevivem além dos 40 anos.\n- **Epilepsia (cap. 27, p. 533):** crises epilépticas ocorrem em condições genéticas como a síndrome de Down, a esclerose tuberosa e a neurofibromatose.\n\nO manual do Varellis dá outro dado sobre o Alzheimer; ver a seção de manifestações sistêmicas. São dados de fontes diferentes, e o tema não os iguala."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/dow-01.jpg",
+      "alt": "Paciente sentado no meio da cadeira odontológica, com os braços junto ao corpo e as pernas estendidas, dique de borracha em um dente e uma auxiliar apoiando a cabeça.",
+      "legenda": "Ilustração. Cuidados do consultório para o paciente com síndrome de Down: menor tempo possível na cadeira, dique de borracha sempre que possível, paciente na linha mediana da cadeira com braços junto ao corpo e pernas estendidas, e estabilização da cabeça e do corpo quando necessário (Varellis).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "consultorio",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

@@ -159,6 +159,24 @@
       "apos": "m-sincope-conduta",
       "largura": 1400,
       "altura": 1045
+    },
+    {
+      "src": "data/13744/img/sca-02.jpg",
+      "alt": "Paciente reclinado na cadeira odontológica durante uma convulsão, com um membro da equipe protegendo a cabeça e os braços sem segurá-los, outro ao lado dos pés, sugador entre os dentes e a bochecha e o equipamento afastado.",
+      "legenda": "Ilustração, segundo o Malamed. Na convulsão tônico-clônica, deixe o paciente reclinado em supina, afaste o equipamento, proteja cabeça e braços sem segurar os membros, aspire entre dentes e bochecha e nunca ponha objeto ou dedos entre os dentes. O Andrade e Ranali, na seção dele, vira o paciente de lado.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "m-convulsao-conduta",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/13744/img/sca-03.jpg",
+      "alt": "Coxa em vista lateral com o ponto da injeção circulado e, ao lado, corte transversal da coxa com fêmur, vasos, nervo ciático, faixa iliotibial e o músculo vasto lateral recebendo a agulha.",
+      "legenda": "Ilustração. Na anafilaxia a adrenalina é aplicada por via intramuscular, o mais rápido possível, no vasto lateral da coxa (1:1.000: 0,3 mL acima de 30 kg; 0,15 mL de 15 a 30 kg; 0,075 mL abaixo de 15 kg; repetir em 5 minutos se não melhorar). Soalho da boca e língua não são mais recomendados (Malamed).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "m-anafilaxia",
+      "largura": 1400,
+      "altura": 1045
     }
   ],
   "flashcards": [

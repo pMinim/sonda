@@ -74,6 +74,24 @@
       "apos": "como-determinar",
       "largura": 1400,
       "altura": 1045
+    },
+    {
+      "src": "data/14720/img/od-01.jpg",
+      "alt": "Ilustração. Terço apical: a constrição apical (menor diâmetro) se acredita coincidir com a junção cementodentinária, e o forame apical é a abertura, em geral aquém do ápice radiográfico. A posição da junção varia e não se vê na radiografia.",
+      "legenda": "Ilustração. Terço apical: a constrição apical (menor diâmetro) se acredita coincidir com a junção cementodentinária, e o forame apical é a abertura, em geral aquém do ápice radiográfico. A posição da junção varia e não se vê na radiografia.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "apice-cap7",
+      "largura": 1045,
+      "altura": 1400
+    },
+    {
+      "src": "data/14720/img/od-03.jpg",
+      "alt": "Ilustração. Limite da obturação em relação ao forame e à constrição: aquém, no limite e além.",
+      "legenda": "Ilustração. Limite da obturação em relação ao forame e à constrição: aquém, no limite e além.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "limite-cap9",
+      "largura": 1400,
+      "altura": 781
     }
   ],
   "flashcards": [
