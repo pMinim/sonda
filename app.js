@@ -157,6 +157,10 @@
       return codigosDo(String(est.rgm)).then(function (a) {
         if (!a) { apagarRgm(); return null; }
         guardarAcesso(a); return ctx.codigos;
+      }, function () {
+        // sem internet ou limite do servidor: não trava o app na tela de erro;
+        // apaga o RGM antigo e manda para a tela de entrada, onde o aluno digita de novo
+        apagarRgm(); return null;
       });
     });
   }
