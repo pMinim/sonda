@@ -123,6 +123,15 @@
       "apos": "objeto-vestibular",
       "largura": 1400,
       "altura": 1045
+    },
+    {
+      "src": "data/14720/img/rx-02.jpg",
+      "alt": "Ilustração. Regra de Clark (técnica da troca de tubo): o objeto lingual acompanha o tubo (mesmo lingual) e o bucal se desloca no sentido oposto (oposto bucal).",
+      "legenda": "Ilustração. Regra de Clark (técnica da troca de tubo): o objeto lingual acompanha o tubo (mesmo lingual) e o bucal se desloca no sentido oposto (oposto bucal).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "wp-troca-de-tubo",
+      "largura": 1400,
+      "altura": 1045
     }
   ],
   "flashcards": [

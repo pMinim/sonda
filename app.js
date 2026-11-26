@@ -916,7 +916,7 @@
   }
   function fraseFimRevisao(e, a) {
     var pe = e === 1 ? 'A que você errou volta amanhã.' : 'As ' + e + ' que você errou voltam amanhã.';
-    var pa = a === 1 ? 'A que acertou volta mais tarde ou sai da fila.' : 'As ' + a + ' que acertou voltam mais tarde ou saem da fila.';
+    var pa = a === 1 ? 'A que você acertou volta mais tarde ou sai da fila.' : 'As ' + a + ' que você acertou voltam mais tarde ou saem da fila.';
     return (e ? pe : '') + (e && a ? ' ' : '') + (a ? pa : '');
   }
   function placarRevisao(box, s, voltar) {

@@ -74,7 +74,10 @@
       "turmas": [
         {
           "nome": "Liberdade · sexta noite",
-          "proximaProva": null
+          "proximaProva": {
+            "nome": "A1",
+            "data": "2026-11-27"
+          }
         }
       ]
     },
