@@ -78,6 +78,42 @@
       "apos": "aspecto",
       "largura": 1400,
       "altura": 781
+    },
+    {
+      "src": "data/14723/img/dp-02-2.jpg",
+      "alt": "Foto clínica. Leucoplasia não homogênea, com nódulos, na comissura labial. A biópsia mostrou displasia epitelial intensa.",
+      "legenda": "Foto clínica. Leucoplasia não homogênea, com nódulos, na comissura labial. A biópsia mostrou displasia epitelial intensa.",
+      "credito": "Foto: “NIH DOC 18 Nodularleukoplakia”, NIH/NIDCR, Detecting Oral Cancer: A Guide for Health Care Professionals, 2013, Wikimedia Commons. Domínio público.",
+      "apos": "aspecto",
+      "largura": 400,
+      "altura": 367
+    },
+    {
+      "src": "data/14723/img/dp-03.jpg",
+      "alt": "Foto clínica. Eritroleucoplasia (leucoplasia salpicada) na comissura e na mucosa jugal esquerdas. A biópsia mostrou displasia leve e infecção por *Candida*.",
+      "legenda": "Foto clínica. Eritroleucoplasia (leucoplasia salpicada) na comissura e na mucosa jugal esquerdas. A biópsia mostrou displasia leve e infecção por *Candida*.",
+      "credito": "Foto: “NIH DOC 19 Erythroleukoplakia”, NIH/NIDCR, Detecting Oral Cancer: A Guide for Health Care Professionals, 2013, Wikimedia Commons. Domínio público.",
+      "apos": "aspecto",
+      "largura": 325,
+      "altura": 400
+    },
+    {
+      "src": "data/14723/img/ery-pmc01-2.jpg",
+      "alt": "Foto clínica. Eritroplasia na borda lateral esquerda da língua, demarcada para a cirurgia. Segundo os autores, a lesão mistura eritroplasia e carcinoma espinocelular.",
+      "legenda": "Foto clínica. Eritroplasia na borda lateral esquerda da língua, demarcada para a cirurgia. Segundo os autores, a lesão mistura eritroplasia e carcinoma espinocelular.",
+      "credito": "Foto: Jeong et al., PMC13187112, 2026 (Figura 15, painel da esquerda, recortado). CC BY 4.0.",
+      "apos": "eritroplasia",
+      "largura": 371,
+      "altura": 281
+    },
+    {
+      "src": "data/14723/img/dp-04-1.jpg",
+      "alt": "Foto clínica. Queilite actínica no lábio inferior, associada à exposição solar crônica.",
+      "legenda": "Foto clínica. Queilite actínica no lábio inferior, associada à exposição solar crônica.",
+      "credito": "Foto: Rodrigues et al., Case Reports in Dentistry, 2026 (Figura 1, painel A, recortado). CC BY 4.0.",
+      "apos": "queilite",
+      "largura": 245,
+      "altura": 163
     }
   ],
   "flashcards": [

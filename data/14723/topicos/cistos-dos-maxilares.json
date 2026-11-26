@@ -98,7 +98,26 @@
       "texto": "| Lesão | Relação com o dente e local | Quem | Imagem | Conduta |\n|---|---|---|---|---|\n| **Dentígero** | envolve a coroa de incluso, preso na JAC; 3º molar inferior | 10 a 30 anos | unilocular, margem radiopaca; expande se grande | enucleação + remoção do dente |\n| **Queratocisto** | às vezes com incluso (25 a 40%); corpo posterior e ramo da mandíbula | cerca de 60% entre 10 e 40 anos | margens lisas; cresce no sentido anteroposterior, pouca expansão | enucleação + medidas contra recidiva; seguimento longo |\n| **Periodontal lateral** | lateral à raiz de dente vital; pré-molares, canino e incisivo lateral inferiores | 5ª a 7ª década | bem circunscrita, na maioria < 1 cm | enucleação conservadora |\n| **Bifurcação vestibular** | vestibular à bifurcação do 1º molar inferior | 5 a 13 anos | unilocular, ~1,2 cm; bolsa vestibular à sondagem | enucleação sem extrair o dente |\n| **Ameloblastoma convencional** | reabsorve raízes, muitas vezes com incluso; corpo e ramo da mandíbula | ampla faixa; frequência parecida na 3ª e na 7ª década | multilocular (bolhas de sabão, favos de mel) ou unilocular; geralmente expande corticais | ressecção marginal (a mais usada) |\n| **Ameloblastoma unicístico** | em volta da coroa de 3º molar incluso; mandíbula posterior | metade na 2ª década (média 23 anos) | igual a dentígero | enucleação; seguimento longo |\n| **Ducto nasopalatino** | entre os ápices dos incisivos centrais | 4ª a 6ª década | oval ou em coração, borda esclerótica | enucleação com biópsia |\n| **Defeito de Stafne** | cortical lingual, abaixo do canal mandibular | meia-idade e idosos; em geral homens | borda esclerótica; em geral estável | sem tratamento; TC na dúvida |\n| **Cisto ósseo simples** | entre raízes de dentes vitais e não deslocados; mandíbula | 2ª década | festonamento entre raízes | exploração e curetagem |\n\n**O que ajuda a separar:**\n- **Dentígero, queratocisto, periodontal lateral e ameloblastomas:** a imagem pode ser idêntica; só o exame histopatológico fecha.\n- **Bifurcação vestibular:** quadro clínico (criança, 1º molar, bolsa vestibular) e posição vestibular na oclusal ou na TCFC; a histologia não é específica.\n- **Cisto ósseo simples:** achado da exploração cirúrgica (cavidade vazia ou com pouco líquido, sem revestimento).\n\n**Para levar:**\n- **Radiolucidez em volta da coroa de incluso:** dentígero é o mais comum, mas queratocisto, ortoqueratinizado e ameloblastoma unicístico dão a mesma imagem. Por isso o capítulo insiste no exame microscópico até das pequenas.\n- **Expansão:** pouca no queratocisto; presente no dentígero grande e frequente no ameloblastoma.\n- **Ao lado da raiz de dente vital, em adulto:** periodontal lateral, mas a imagem é igual à de queratocisto e de cisto inflamatório lateral.\n- **Em jovem, entre raízes, dentes vitais:** pense em cisto ósseo simples."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/cm-02.jpg",
+      "alt": "Radiografia. Cisto dentígero em volta de um dente incluso na mandíbula. A imagem não fecha o diagnóstico: queratocisto e ameloblastoma unicístico podem ser idênticos.",
+      "legenda": "Radiografia. Cisto dentígero em volta de um dente incluso na mandíbula. A imagem não fecha o diagnóstico: queratocisto e ameloblastoma unicístico podem ser idênticos.",
+      "credito": "Radiografia: “JawCyst”, Coronation Dental Specialty Group, Wikimedia Commons. Licença CC BY 3.0.",
+      "apos": "dentigero",
+      "largura": 960,
+      "altura": 382
+    },
+    {
+      "src": "data/14723/img/cm-03.jpg",
+      "alt": "Radiografia. Queratocisto odontogênico na mandíbula direita, achado de panorâmica. Não se distingue com segurança do dentígero ou do ameloblastoma pela imagem.",
+      "legenda": "Radiografia. Queratocisto odontogênico na mandíbula direita, achado de panorâmica. Não se distingue com segurança do dentígero ou do ameloblastoma pela imagem.",
+      "credito": "Radiografia: “Classic keratocystic odontogenic tumour”, Coronation Dental Specialty Group, Wikimedia Commons (redimensionada). Licença CC BY 3.0.",
+      "apos": "queratocisto",
+      "largura": 1280,
+      "altura": 635
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

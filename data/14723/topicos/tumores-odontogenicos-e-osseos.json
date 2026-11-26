@@ -95,7 +95,53 @@
       "texto": "Síntese das seções anteriores.\n\n| Lesão benigna | Idade e local | Imagem | Conduta |\n|---|---|---|---|\n| **Ameloblastoma convencional** | ampla faixa; mandíbula (80 a 85%) | multi ou unilocular; expande | ressecção marginal (curetagem: recidiva 50 a 90%) |\n| **Ameloblastoma unicístico** | média de 23 anos; mandíbula posterior | em volta de 3º molar incluso | enucleação; acompanhamento longo |\n| **Odontoma** | 2 primeiras décadas; composto na maxila anterior, complexo em molares | estruturas de dente ou massa calcificada | excisão local simples |\n| **Adenomatoide** | 10 a 19 anos; maxila anterior | unilocular em volta de coroa de incluso | enucleação |\n| **Pindborg** | 30 a 50 anos; mandíbula, em geral posterior | uni ou multilocular; calcificações | ressecção conservadora |\n| **Mixoma** | média de 25 a 30 anos; mandíbula | uni ou multilocular | curetagem ou ressecção; recidiva ~25% |\n| **Fibroma ameloblástico** | média de 15 anos; mandíbula posterior | uni ou multilocular | conservadora; acompanhamento longo |\n| **Fibro-odontoma ameloblástico** | média de 10 anos; mandíbula posterior | radiolucência com material calcificado | curetagem conservadora |\n| **Displasia cemento-óssea** | mulheres; focal em ápices ou extração | radiolúcida, depois mista, depois radiopaca | em geral sem remoção |\n| **Cementoblastoma** | média de 24 anos; mandíbula (80%), molares e pré-molares | massa radiopaca fundida à raiz | extração do dente com a massa |\n| **Osteoma** | adultos; corpo e côndilo | massa esclerótica circunscrita | observar; excisão se grande e sintomático |\n\n| Lesão maligna | Imagem descrita | Conduta |\n|---|---|---|\n| **Osteossarcoma** | mista ou radiolúcida mal definida; raios de sol, Codman | ressecção cirúrgica |\n| **Condrossarcoma** | radiolúcida mal definida, focos radiopacos | ressecção cirúrgica |\n| **Sarcoma de Ewing** | radiolúcida mal definida, às vezes mista | quimioterapia e cirurgia e/ou radioterapia |\n| **Metástase** | radiolúcida mal definida, \"roído de traça\" | frequentemente paliativa |\n\n**A imagem pode enganar (o livro avisa):** o mixoma grande pode imitar ameloblastoma ou osteossarcoma; o condrossarcoma lobulado, lesão benigna multilocular; o odontoma complexo, osteoma; o Ewing, infecção odontogênica ou osteomielite."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/amb-pmc01.jpg",
+      "alt": "Panorâmica: lesão multilocular de corpo e ramo da mandíbula (ameloblastoma).",
+      "legenda": "Panorâmica: lesão multilocular de corpo e ramo da mandíbula (ameloblastoma).",
+      "credito": "Radiografia: Ali et al., International Journal of Surgery Case Reports, 2024 (Figura 1). CC BY 4.0.",
+      "apos": "ameloblastoma",
+      "largura": 790,
+      "altura": 481
+    },
+    {
+      "src": "data/14723/img/to-01-1.jpg",
+      "alt": "Radiografia panorâmica. Odontoma complexo: massa radiopaca no corpo e no ramo da mandíbula, junto a molares inclusos.",
+      "legenda": "Radiografia panorâmica. Odontoma complexo: massa radiopaca no corpo e no ramo da mandíbula, junto a molares inclusos.",
+      "credito": "Radiografia: Babadi et al., Journal of Medical Case Reports, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "odontoma",
+      "largura": 892,
+      "altura": 436
+    },
+    {
+      "src": "data/14723/img/to-01-2.jpg",
+      "alt": "Radiografia panorâmica. Odontoma composto na região anterior da mandíbula (seta), com canino incluso.",
+      "legenda": "Radiografia panorâmica. Odontoma composto na região anterior da mandíbula (seta), com canino incluso.",
+      "credito": "Radiografia: Binzamil et al., Cureus, 2023 (Figura 1). CC BY 4.0.",
+      "apos": "odontoma",
+      "largura": 750,
+      "altura": 366
+    },
+    {
+      "src": "data/14723/img/to-02.jpg",
+      "alt": "Imagem. Displasia cemento-óssea: lesões radiopacas em volta dos ápices, em panorâmica e em tomografia de feixe cônico.",
+      "legenda": "Imagem. Displasia cemento-óssea: lesões radiopacas em volta dos ápices, em panorâmica e em tomografia de feixe cônico.",
+      "credito": "Imagens: “Periapical radiopaque-hyperdense jaw lesions 2”, Brunno Santos Freitas Silva, Wikimedia Commons. Licença CC BY 4.0.",
+      "apos": "displasia-cemento-ossea",
+      "largura": 900,
+      "altura": 1313
+    },
+    {
+      "src": "data/14723/img/to-03.jpg",
+      "alt": "Tomografia de feixe cônico. Cementoblastoma: massa radiopaca fundida à raiz do dente.",
+      "legenda": "Tomografia de feixe cônico. Cementoblastoma: massa radiopaca fundida à raiz do dente.",
+      "credito": "Tomografia: “Jaw lesions - Cementoblastoma - Cone beam CT”, Silva BSF, Bueno MR, Yamamoto-Silva FP, Gomez RSS, Peters OA, Estrela C, Wikimedia Commons. Licença CC BY 4.0.",
+      "apos": "cementoblastoma-osteoma",
+      "largura": 340,
+      "altura": 559
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

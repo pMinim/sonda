@@ -55,7 +55,17 @@
       "texto": "**Desinfecção da cavidade** (recomendação 11, fraca): o grupo não encontra evidência de benefício ao paciente que a justifique.\n\n**Forramento** (recomendação 12, fraca): não é necessário para controlar a lesão selada. Pode ajudar a impedir a penetração de monômero e a fratura da dentina remanescente quando o material é resina composta. O texto diz que a evidência é esparsa e a relevância clínica, incerta.\n\n**Escolha do material** (recomendação 13, fraca): considera local, extensão, risco de cárie, atividade e condições do paciente. Não há evidência definitiva de que um material seja superior após remoção seletiva até dentina amolecida ou firme.\n\n**O que o texto diz de cada material:**\n- **Amálgama:** boa longevidade, sobretudo em pacientes de alto risco. Muitos países se comprometeram a reduzir o uso por razões ambientais (Convenção de Minamata, 2013).\n- **Resina composta:** longevidade hoje próxima à do amálgama, mas mais suscetível a lesão secundária em pacientes de alto risco. A força de adesão imediata à dentina cariada é menor, o que não parece problema clínico se pouca dentina cariada fica sob a restauração. Por isso, a dentina deixada deve ficar restrita à região sobre a polpa, com uma periferia que sustente a restauração e permita selamento firme.\n- **Ionômero de vidro:** libera flúor e se une quimicamente ao dente. Menos estético. O de alta viscosidade é alternativa valiosa em decíduos e em cavidades de uma face em permanentes.\n- **Restauração indireta:** preparo mais invasivo, com sacrifício de tecido sadio, e mais cara.\n\n**Retratamento** (recomendação 14, forte): reparar (selar de novo, recondicionar a superfície (refurbishing) ou polir de novo) quando possível; substituir é o último recurso. Radiolucência sob restauração com selamento íntegro e sem sintomas não justifica a substituição; o texto diz que monitorar é mais adequado."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/rem-02.jpg",
+      "alt": "Três cortes de molar: primeira sessão com dentina amolecida sobre a polpa e restauração provisória; espera com formação de dentina terciária; segunda sessão removendo até dentina coriácea.",
+      "legenda": "Ilustração. Em permanentes com lesão profunda, a remoção em etapas é uma opção: na 1ª sessão deixa-se tecido amolecido sobre a polpa, prepara-se a periferia até dentina dura e sela-se com restauração provisória (até 12 meses); espera-se dentina terciária, remineralização e menos bactérias viáveis. Na 2ª sessão, reavalia-se cor e dureza e remove-se tecido só até restar dentina coriácea. O texto lembra que a 2ª etapa pode ser dispensada e aumenta o risco de exposição (ICCC, 2016).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "etapas",
+      "largura": 1400,
+      "altura": 781
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

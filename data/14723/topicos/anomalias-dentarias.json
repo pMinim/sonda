@@ -69,7 +69,44 @@
       "texto": "| Anomalia | O que se une ou o que falha | Como se reconhece | Radiografia | Conduta |\n|---|---|---|---|---|\n| **Geminação** | dente duplo (dentina unida) | contagem da arcada normal com o duplo valendo por um; coroa bífida; mais na maxila | um canal comum em muitos casos, não em todos | acompanhar; hemissecção se polpas separadas; selar sulcos |\n| **Fusão** | dente duplo (dentina unida) | contagem com um dente a menos, o duplo valendo por um; mais na mandíbula | canais separados em muitos casos, não em todos | acompanhar; extrair o decíduo se atrapalhar o permanente |\n| **Concrescência** | dois dentes unidos só pelo cemento (não é dente duplo) | região posterior superior; dentina separada | raízes coladas, às vezes após inflamação | sem tratamento; cuidado na exodontia |\n| **Amelogênese imperfeita** | esmalte | esmalte fino, mole ou quebradiço; cor de branco-opaca a marrom | esmalte fino ou com radiopacidade parecida com a da dentina | estética, sensibilidade; cobertura protética precoce na hipoplásica |\n| **Dentinogênese imperfeita** | dentina | dentes translúcidos, amarelo-marrom a azul-acinzentado; esmalte se solta | coroas bulbosas, constrição cervical, raízes finas, polpa obliterada (forma moderada) | proteger do desgaste; coroa total mal indicada |\n\n**O que separa:** entre os dentes duplos, a **contagem** (geminação normal, fusão com um a menos). A concrescência não é dente duplo: une só pelo **cemento**, com a dentina separada. Na estrutura, o **esmalte** perdido de um dente de dentina normal aponta para a AI; a **cor translúcida com coroa bulbosa e polpa obliterada** aponta para a DGI. Na displasia dentinária radicular as coroas são normais e o problema está nas raízes curtas."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/ad-01.jpg",
+      "alt": "Foto clínica. Hipodontia dos incisivos laterais superiores: faltam os dois laterais e os dentes vizinhos ocupam o espaço.",
+      "legenda": "Foto clínica. Hipodontia dos incisivos laterais superiores: faltam os dois laterais e os dentes vizinhos ocupam o espaço.",
+      "credito": "Foto: “Hypotontie der seitlichen Schneidezähne 20100119 001”, Sterilgutassistentin, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "falta-e-tamanho",
+      "largura": 1280,
+      "altura": 853
+    },
+    {
+      "src": "data/14723/img/ad-02.jpg",
+      "alt": "Foto clínica. Dois incisivos decíduos superiores unidos: dente duplo, aqui descrito como fusão.",
+      "legenda": "Foto clínica. Dois incisivos decíduos superiores unidos: dente duplo, aqui descrito como fusão.",
+      "credito": "Foto: “Milk.teeth.fusion”, Sarefo, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "duplos",
+      "largura": 1280,
+      "altura": 960
+    },
+    {
+      "src": "data/14723/img/ad-03.png",
+      "alt": "Esquema. Os três tipos de dente invaginado conforme a profundidade da invaginação (classificação de Oehlers).",
+      "legenda": "Esquema. Os três tipos de dente invaginado conforme a profundidade da invaginação (classificação de Oehlers).",
+      "credito": "Esquema: “Dens invaginatus - Typen nach Oehlers 1957”, SM Meghana e P Thejokrishna, espelhado e com legenda corrigida por Hellerhoff, Wikimedia Commons. Licença CC BY 3.0.",
+      "apos": "cuspides-e-invaginado",
+      "largura": 800,
+      "altura": 548
+    },
+    {
+      "src": "data/14723/img/ad-04.jpg",
+      "alt": "Foto clínica. Amelogênese imperfeita do tipo hipoplásico: esmalte fino, com depressões e sulcos.",
+      "legenda": "Foto clínica. Amelogênese imperfeita do tipo hipoplásico: esmalte fino, com depressões e sulcos.",
+      "credito": "Foto: “A amelogenesis imperfecta”, Crawford PJM, Aldred M, Bloch-Zupan A (Orphanet J Rare Dis, 2007), Wikimedia Commons. Licença CC BY 2.0.",
+      "apos": "estrutura",
+      "largura": 360,
+      "altura": 260
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

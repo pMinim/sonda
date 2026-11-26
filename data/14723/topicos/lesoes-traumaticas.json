@@ -69,7 +69,44 @@
       "texto": "| Lesão | Causa | Onde | Como é | Conduta |\n|---|---|---|---|---|\n| **Morsicatio buccarum** | mordiscar a mucosa (hábito) | mucosa jugal anterior, no plano oclusal; em geral bilateral | áreas brancas espessas e dilaceradas; tira fragmentos; margem se mistura | sem tratamento; biópsia só se a clínica não fecha |\n| **Úlcera traumática simples** | irritação local, como dente cortante | língua, lábios, mucosa jugal | eritema, centro amarelado, às vezes borda branca | remover a causa; biópsia se causa obscura ou sem resposta |\n| **Úlcera eosinofílica** | provável trauma crônico | língua, sobretudo; homens | como a simples; pode durar até 8 meses; às vezes elevada | biópsia se a causa é obscura ou não há resposta; cicatriza rápido depois |\n| **Doença de Riga-Fede** | dente natal ou neonatal | ventre da língua do bebê, nos incisivos inferiores | úlcera no bebê; variação da eosinofílica | manter dentes bem implantados; desgastar, cobrir ou proteger |\n| **Queimadura elétrica por arco** | morder fio elétrico | lábios e comissura; crianças, a maioria com menos de 4 anos | carbonizada, amarelada, indolor | tétano; aparelho intraoral contra microstomia |\n| **Queimadura térmica** | alimento ou bebida quente | palato, mucosa jugal posterior | eritema, úlcera, epitélio necrótico | em geral sem tratamento; vigiar a via aérea |\n| **Lesão química** | AAS, peróxido de hidrogênio, fenol e outros | onde o agente ficou em contato | branca e pregueada; depois descama e fica vermelha | prevenir; proteção e anestésico tópico |\n\n**O que separa as principais:** o **hábito** e a **superfície dilacerada** apontam para o morsicatio; a **fonte de irritação ao lado** aponta para a úlcera traumática; a **idade do bebê** e o **dente natal** apontam para Riga-Fede; a **história de um agente cáustico** aponta para a queimadura química. Nas úlceras, a que **não tem causa clara** ou **não melhora** vai para biópsia, para excluir carcinoma espinocelular."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/mor-pmc01.jpg",
+      "alt": "Morsicatio buccarum na mucosa jugal.",
+      "legenda": "Morsicatio buccarum na mucosa jugal.",
+      "credito": "Foto: Nautiyal et al., Cureus, 2024 (Figura 3). CC BY 4.0.",
+      "apos": "morsicatio",
+      "largura": 750,
+      "altura": 561
+    },
+    {
+      "src": "data/14723/img/ulc-pmc01.jpg",
+      "alt": "Úlcera traumática.",
+      "legenda": "Úlcera traumática.",
+      "credito": "Foto: Sonar et al., Cureus, 2024 (Figura 1). CC BY 4.0.",
+      "apos": "ulcera",
+      "largura": 750,
+      "altura": 750
+    },
+    {
+      "src": "data/14723/img/lt-01.jpg",
+      "alt": "Foto clínica. Doença de Riga-Fede: úlcera na face ventral da língua de um recém-nascido, por atrito com dente natal.",
+      "legenda": "Foto clínica. Doença de Riga-Fede: úlcera na face ventral da língua de um recém-nascido, por atrito com dente natal.",
+      "credito": "Foto: “Riga-Fede”, DRosenbach, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "eosinofilica",
+      "largura": 1280,
+      "altura": 960
+    },
+    {
+      "src": "data/14723/img/qui-pmc01.jpg",
+      "alt": "Queimadura química no palato.",
+      "legenda": "Queimadura química no palato.",
+      "credito": "Foto: Raman, Cureus, 2021 (Figura 1). CC BY.",
+      "apos": "quimicos-conduta",
+      "largura": 750,
+      "altura": 795
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

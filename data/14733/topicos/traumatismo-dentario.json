@@ -111,6 +111,15 @@
   ],
   "figuras": [
     {
+      "src": "data/14733/img/fce-pmc01.jpg",
+      "alt": "Fratura coronária de esmalte e dentina do incisivo central superior direito, sem exposição pulpar.",
+      "legenda": "Fratura coronária de esmalte e dentina do incisivo central superior direito, sem exposição pulpar.",
+      "credito": "Foto: Sudrik et al., Cureus, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "esmalte-dentina",
+      "largura": 750,
+      "altura": 450
+    },
+    {
       "src": "data/14733/img/tra-03.jpg",
       "alt": "Quatro quadros: mão segurando o dente pela coroa, lavagem do dente, reimplante no alvéolo e paciente mordendo uma gaze.",
       "legenda": "Ilustração. Na avulsão de dente permanente, o reimplante imediato no local do acidente é o melhor tratamento: segurar o dente pela coroa, sem tocar a raiz; lavar com leite, soro ou saliva se estiver sujo; reimplantar; morder uma gaze. Se não for possível, meio de armazenamento na ordem leite, HBSS, saliva, soro; a água é ruim, mas melhor que o seco. Dente decíduo avulsionado não se reimplanta (IADT, 2020).",

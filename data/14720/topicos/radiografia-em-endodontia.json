@@ -114,6 +114,15 @@
       "apos": "limite-da-2d",
       "largura": 1400,
       "altura": 1045
+    },
+    {
+      "src": "data/14720/img/rx-01.jpg",
+      "alt": "Ilustração. Regra do objeto vestibular: ao mudar o ângulo horizontal do tubo, o objeto vestibular se desloca em direção oposta e o lingual acompanha o tubo. Uma lesão interna não sai dos limites do canal; a externa, sim.",
+      "legenda": "Ilustração. Regra do objeto vestibular: ao mudar o ângulo horizontal do tubo, o objeto vestibular se desloca em direção oposta e o lingual acompanha o tubo. Uma lesão interna não sai dos limites do canal; a externa, sim.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "objeto-vestibular",
+      "largura": 1400,
+      "altura": 1045
     }
   ],
   "flashcards": [

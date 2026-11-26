@@ -123,6 +123,24 @@
       "apos": "termos",
       "largura": 1400,
       "altura": 1045
+    },
+    {
+      "src": "data/14733/img/lcn-03-1.webp",
+      "alt": "Foto clínica. Lesão cervical não cariosa na face vestibular de um pré-molar.",
+      "legenda": "Foto clínica. Lesão cervical não cariosa na face vestibular de um pré-molar.",
+      "credito": "Foto: Lowenstein et al., Dentistry Journal, 2026 (Figura 2, painel A, recortado). CC BY 4.0.",
+      "apos": "aspecto",
+      "largura": 388,
+      "altura": 495
+    },
+    {
+      "src": "data/14733/img/lcn-01.jpg",
+      "alt": "Dois cortes cervicais de pré-molar: à esquerda lesão em cunha com ângulos nítidos (abfração); à direita lesão ampla em pires com ângulos obtusos (erosão e abrasão).",
+      "legenda": "Ilustração. Abfração: lesões em cunha ou em V nas superfícies vestibulares, com ângulos interno e externo bem definidos. Erosão e abrasão: ângulos menos nítidos e contorno mais amplo, em forma de pires (Nascimento et al., 2016). A etiologia é multifatorial; a forma ajuda, mas não define sozinha o mecanismo.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "aspecto",
+      "largura": 1400,
+      "altura": 1045
     }
   ],
   "flashcards": [

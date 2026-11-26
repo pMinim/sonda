@@ -170,7 +170,17 @@
       "texto": "Continuação do passo a passo do Shillingburg (restauração de ouro ou metal).\n\n**5. Excursões (p. 394).** Com o shim entre a restauração e o antagonista, o paciente fecha e vai ao movimento de não trabalho: o shim deve sair com facilidade; se não sair, troque-o por papel articular e localize o contato.\n- **não trabalho:** elimine as marcas nas vertentes vestibulares das cúspides palatinas superiores e nas vertentes linguais das cúspides vestibulares inferiores;\n- **trabalho** (lado da restauração): elimine os contatos nas vertentes palatinas das cúspides palatinas superiores e nas vertentes vestibulares das cúspides linguais inferiores;\n- **contatos entre a vertente palatina da cúspide vestibular superior e a vertente vestibular da cúspide vestibular inferior** (o texto os traz logo após o lado de trabalho): dependem do esquema. Se a meta é guia canina ou oclusão mutuamente protegida, elimine; se é função em grupo, são desejáveis e se reduzem só até deixarem de desocluir os caninos.\n\n**6. Protrusiva (p. 394).** O paciente fecha sobre o shim em posição retruída e leva a mandíbula à frente; as interferências protrusivas se aliviam nas vertentes distais dos superiores e mesiais dos inferiores. Os anteriores devem mostrar contato nos excursivos, porque ajudam a desocluir os posteriores; sempre que possível, a guia anterior é compartilhada por dois ou mais pares de dentes.\n\n**7. Marcação.** Cera indicadora de oclusão serve para contatos em superfícies lisas (pontos brilhantes, sem cera, indicam contato excessivo). Em dente móvel, apoie a unha no dente vizinho durante as excursões para sentir o movimento.\n\nOutra fonte descreve o ajuste com outras marcações para MIH e balanceio: ver a seção «Ajuste oclusal da prótese em MIH (Pegoraro)»."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/ocl-01.jpg",
+      "alt": "Dois quadros do lado de trabalho em laterotrusão: à esquerda só os caninos em contato (guia canina); à direita canino, pré-molares e parte do primeiro molar em contato (função em grupo).",
+      "legenda": "Ilustração. Na laterotrusão, a guia canina deixa só os caninos em contato; a função em grupo reúne canino, pré-molares e, às vezes, a cúspide mesiovestibular do primeiro molar. Nas duas, o lado de balanceio (mediotrusivo) deve desocluir imediatamente. A guia canina é a mais desejável, mas só cerca de 26% da população tem guia canina bilateral (Okeson).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "guia-lateral-okeson",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

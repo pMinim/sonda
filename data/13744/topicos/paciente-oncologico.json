@@ -95,7 +95,26 @@
       "texto": "**Fonte: Varellis (manual).**\n\n**Objetivos:** preparar a boca, reduzir complicações sistêmicas pós-tratamento, minimizar a dor e melhorar a qualidade de vida.\n\n**Passos descritos:**\n1. Planejar em conjunto com o médico, antes da quimioterapia ou radioterapia; perguntar a ele **quanto tempo há** para o tratamento odontológico.\n2. Remover todos os **focos infecciosos**. Dentes com grande perda de substância são extraídos antes; dentes sadios ficam, com medidas preventivas. Cárie profunda sem tratamento leva a necrose e infecção.\n3. Deixar o paciente sem cárie nem foco ou possibilidade de foco (o livro usa a expressão \"cárie zero\"); reforçar a higiene do paciente e do responsável; radiografias panorâmica e periapicais.\n4. Remover dentes não vitais com endodontia duvidosa, aparelhos ortodônticos e próteses removíveis; desgastar cúspides que possam traumatizar a mucosa; selante e flúor.\n5. Antes de transplante de medula: endodontia, exodontia dos dentes de tratamento duvidoso e remoção dos parcialmente erupcionados, todas com o prazo de 15 dias que o livro cita (endodontia \"até 15 dias antes\" do transplante; parcialmente erupcionados 15 dias antes; para a exodontia duvidosa o livro diz \"em 15 dias\"). O livro não esclarece se 15 dias é o mínimo ou o máximo de antecedência: combinar com o médico.\n\n**Mudança de postura.** A osteorradionecrose levou a se preconizar a extração de todos os dentes antes da terapia. Hoje o livro restringe a exodontia aos dentes comprometidos ou com focos.\n\n**Limites de atendimento:**\n- na **leucopenia acentuada**, todos os procedimentos odontológicos são contraindicados;\n- na **plaquetopenia**, o livro contraindica qualquer manipulação, pelo risco de hemorragia;\n- na **aplasia**, evitar todo procedimento odontológico;\n- a neutropenia (nível muito baixo de neutrófilos) ocorre em cerca de metade dos pacientes em quimioterapia e é comum na leucemia.\n\nO capítulo não traz valores de contagem de leucócitos, neutrófilos ou plaquetas para decidir o atendimento; a conduta é combinar com o médico.\n\n**Anestésico:** o livro não vê restrição quanto ao tipo de anestésico local por causa da neoplasia.\n\n**Depois da quimioterapia,** o paciente é tratado normalmente, com cuidado até as contagens sanguíneas se restabelecerem. Medidas contra a mucosite: higiene correta, bochechos fluorados e bicarbonatados e laserterapia."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/muc-pmc01.jpg",
+      "alt": "Mucosite oral grau III em paciente com leucemia.",
+      "legenda": "Mucosite oral grau III em paciente com leucemia.",
+      "credito": "Foto: Cheng et al., Medicine, 2026 (Figura 2). CC BY 4.0.",
+      "apos": "mucosite",
+      "largura": 800,
+      "altura": 616
+    },
+    {
+      "src": "data/13744/img/orn-pmc01.webp",
+      "alt": "Foto clínica. Osteorradionecrose da mandíbula.",
+      "legenda": "Foto clínica. Osteorradionecrose da mandíbula.",
+      "credito": "Foto: Rigby et al., British Dental Journal, 2026 (Figura 2, painel A, recortado). CC BY 4.0.",
+      "apos": "orn",
+      "largura": 917,
+      "altura": 615
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

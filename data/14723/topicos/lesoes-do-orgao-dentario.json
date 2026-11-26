@@ -83,6 +83,33 @@
   ],
   "figuras": [
     {
+      "src": "data/14723/img/od-03-3.jpg",
+      "alt": "Foto clínica. Desgaste dos dentes anteriores por bruxismo, com bordas incisais achatadas (atrição).",
+      "legenda": "Foto clínica. Desgaste dos dentes anteriores por bruxismo, com bordas incisais achatadas (atrição).",
+      "credito": "Foto: “Bruxismo”, Pilar Moles Julio, Wikimedia Commons (redimensionada). Licença CC BY-SA 4.0; esta versão segue a mesma licença.",
+      "apos": "desgaste",
+      "largura": 960,
+      "altura": 731
+    },
+    {
+      "src": "data/14723/img/od-03-6.jpg",
+      "alt": "Foto clínica. Desgaste acentuado dos dentes anteriores, por erosão e atrição, em paciente com bruxismo.",
+      "legenda": "Foto clínica. Desgaste acentuado dos dentes anteriores, por erosão e atrição, em paciente com bruxismo.",
+      "credito": "Foto: Monteiro et al., Case Reports in Dentistry, 2026 (Figura 1, painel C, recortado). CC BY 4.0.",
+      "apos": "desgaste",
+      "largura": 288,
+      "altura": 140
+    },
+    {
+      "src": "data/14723/img/od-02.jpg",
+      "alt": "Radiografia. Reabsorção radicular externa depois de trauma, no incisivo central superior esquerdo.",
+      "legenda": "Radiografia. Reabsorção radicular externa depois de trauma, no incisivo central superior esquerdo.",
+      "credito": "Radiografia: “Tooth resorption x Ray 9”, Bobjgalindo, Wikimedia Commons (redimensionada). Licença CC BY-SA 4.0; esta versão segue a mesma licença.",
+      "apos": "reab-externa",
+      "largura": 1280,
+      "altura": 1707
+    },
+    {
       "src": "data/14723/img/od-01.jpg",
       "alt": "Dois cortes de dente: na reabsorção interna a polpa se alarga em balão dentro da raiz; na externa o defeito entra pela superfície da raiz e o canal passa intacto.",
       "legenda": "Ilustração. Interna: origem na polpa, canal alargado em balão. Externa: origem no ligamento periodontal, canal não alargado, que se vê passando pelo defeito.",

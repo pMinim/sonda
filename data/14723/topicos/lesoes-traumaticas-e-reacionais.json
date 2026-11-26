@@ -62,7 +62,35 @@
       "texto": "| Lesão | Cor e superfície | Onde | Em quem | Histopatologia | Conduta e recidiva |\n|---|---|---|---|---|---|\n| **Granuloma piogênico** | do rosa ao vermelho e ao roxo, conforme a idade (antiga: rosa); em geral ulcerado; sangra fácil | gengiva em 75 a 85%; anterior e vestibular | crianças e adultos jovens; mulheres; grávidas | tecido muito vascular, tipo granulação | excisão (subperiosteal na gengiva) e raspagem; 3 a 15%; na gravidez, adiar |\n| **Lesão periférica de células gigantes** | vermelho-azulada a azul-arroxeada; ulcerada ou não; < 2 cm | só gengiva ou rebordo; mandíbula 3:2 | média de 31 a 46 anos; 55% mulheres | células gigantes multinucleadas e hemorragia; às vezes reabsorção em taça na radiografia | excisão local (o livro: \"abaixo do osso subjacente\") e raspagem; 10 a 18%; lembrar hiperparatireoidismo |\n| **Fibroma ossificante periférico** | vermelho e ulcerado ou rosa e íntegro; muitas com < 2 cm | só gengiva, papila interdental; > 50% em incisivos e caninos | pico de 10 a 19 anos; 2/3 mulheres | fibroblastos com material mineralizado | excisão subperiosteal e raspagem; 8 a 16% |\n\n**O que separa as três na clínica:** a cor sozinha separa mal, porque as três podem ser vermelhas e ulceradas; o tom azul-arroxeado é só uma tendência da lesão de células gigantes. Dão pistas a idade (fibroma ossificante periférico no adolescente), a região (incisivos e caninos, com discreta predileção pela maxila, no fibroma ossificante periférico; mandíbula na lesão periférica de células gigantes), esse tom azul-arroxeado e a gestação no granuloma piogênico.\n\n**O exame do tecido:** o livro manda examinar ao microscópio o tecido removido do granuloma piogênico (para afastar lesões mais graves) e do fibroma ossificante periférico; para a lesão periférica de células gigantes, não faz esse pedido de forma explícita. Cada uma tem um padrão próprio (coluna \"Histopatologia\"), mas há sobreposição: a lesão de células gigantes pode ter osso reacional e calcificações, e o fibroma ossificante periférico pode ter células gigantes.\n\n**O que elas têm em comum na conduta:** excisão local e **raspar os dentes vizinhos** para remover a irritação. Se a base ou a causa ficam, a recidiva é mais provável; o livro diz isso com todas as letras para a base do fibroma ossificante periférico.\n\n**As lesões da prótese:**\n- **hiperplasia fibrosa inflamatória:** pregas no **vestíbulo**, na borda da prótese; excisão com exame e prótese corrigida ou refeita;\n- **hiperplasia papilar inflamatória:** mucosa vermelha e **papilar no palato** sob a base da prótese; no início, tirar a prótese e, se preciso, antifúngico; avançada, excisão antes da prótese nova."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/lr-01.jpg",
+      "alt": "Foto clínica. Hiperplasia fibrosa inflamatória (epúlide fissurada): pregas de tecido onde a borda da prótese encaixa.",
+      "legenda": "Foto clínica. Hiperplasia fibrosa inflamatória (epúlide fissurada): pregas de tecido onde a borda da prótese encaixa.",
+      "credito": "Foto: “Epulis”, DentalSchoolProf, Wikimedia Commons. Licença CC BY-SA 3.0.",
+      "apos": "hfi",
+      "largura": 600,
+      "altura": 213
+    },
+    {
+      "src": "data/14723/img/hpi-pmc01.webp",
+      "alt": "Hiperplasia papilar inflamatória do palato duro.",
+      "legenda": "Hiperplasia papilar inflamatória do palato duro.",
+      "credito": "Foto: Rajaram Mohan et al., Cureus, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "hpi",
+      "largura": 1600,
+      "altura": 961
+    },
+    {
+      "src": "data/14723/img/lr-02-1.webp",
+      "alt": "Foto clínica. Granuloma piogênico: nódulo vermelho que sangra com facilidade.",
+      "legenda": "Foto clínica. Granuloma piogênico: nódulo vermelho que sangra com facilidade.",
+      "credito": "Foto: Pancharethinam et al., Cureus, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "granuloma",
+      "largura": 1600,
+      "altura": 1201
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

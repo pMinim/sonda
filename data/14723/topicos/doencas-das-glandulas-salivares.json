@@ -69,7 +69,44 @@
       "texto": "| Lesão | Onde | Como é | O que a identifica | Conduta |\n|---|---|---|---|---|\n| **Mucocele** | lábio inferior (81,9%) | nódulo flutuante, azulado | extravasamento de muco, sem revestimento epitelial | excisão com glândulas menores; exame microscópico |\n| **Cisto do ducto salivar** | parótida, assoalho, mucosa jugal, lábios | nódulo flutuante, às vezes azulado ou âmbar | cisto com revestimento epitelial | excisão conservadora |\n| **Rânula** | assoalho da boca, ao lado da linha média | grande, flutuante, azulada; pode mergulhar ao pescoço | origem na glândula sublingual | remover a glândula; marsupializar se pequena |\n| **Sialolitíase** | submandibular (80%) | dor e aumento nas refeições; massa dura | massa radiopaca; oclusal mostra melhor | massagem e sialendoscopia; cirurgia se grande |\n| **Sjögren** | glândulas salivares e lacrimais | boca e olho secos; parótida aumentada | anti-SS-A, anti-SS-B; biópsia labial com focos | suporte; vigiar linfoma |\n| **Adenoma pleomórfico** | parótida; palato lateral posterior | nódulo firme, indolor, lento | tumor geralmente encapsulado, mais comum | excisão; evitar enucleação |\n| **Tumor de Warthin** | cauda da parótida | nódulo indolor; às vezes bilateral | idoso fumante; estroma linfoide | cirurgia ou acompanhamento |\n| **Carcinoma mucoepidermoide** | parótida; palato | azulado ou vermelho; lembra mucocele | maligno; células mucosas e epidermoides | cirurgia conforme o grau |\n\n**O que separa as principais:** a mucocele é **flutuante e azulada, no lábio inferior**; o tumor salivar é **firme** e, no palato, **não móvel**. Dor e edema da glândula **nas refeições** apontam para o cálculo. **Boca e olho secos** em mulher de meia-idade apontam para Sjögren. Lesão que parece mucocele **no palato**, onde a mucocele é rara, pode ser carcinoma mucoepidermoide; todo tecido excisado vai ao exame microscópico."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/gs-01-1.jpg",
+      "alt": "Foto clínica. Mucocele (fenômeno de extravasamento de muco) no lábio inferior: nódulo de cor azulada.",
+      "legenda": "Foto clínica. Mucocele (fenômeno de extravasamento de muco) no lábio inferior: nódulo de cor azulada.",
+      "credito": "Foto: “Mucocele02-17-06cropped”, Michael Gaither (enviada por Dozenist), Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "mucocele",
+      "largura": 960,
+      "altura": 773
+    },
+    {
+      "src": "data/14723/img/gs-02.jpg",
+      "alt": "Foto clínica. Rânula: aumento de volume macio no assoalho da boca, de um lado.",
+      "legenda": "Foto clínica. Rânula: aumento de volume macio no assoalho da boca, de um lado.",
+      "credito": "Foto: “Ranula large”, Dikkisherpa5, Wikimedia Commons (redimensionada). Licença CC0 (domínio público).",
+      "apos": "ranula",
+      "largura": 1280,
+      "altura": 946
+    },
+    {
+      "src": "data/14723/img/gs-03.jpg",
+      "alt": "Foto clínica. Sialolito no orifício do ducto submandibular (ducto de Wharton).",
+      "legenda": "Foto clínica. Sialolito no orifício do ducto submandibular (ducto de Wharton).",
+      "credito": "Foto: “Salivary stone in submandibular salivary duct”, James Heilman, MD, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "sialolitiase",
+      "largura": 1280,
+      "altura": 1400
+    },
+    {
+      "src": "data/14723/img/apl-pmc01.webp",
+      "alt": "Adenoma pleomórfico do palato.",
+      "legenda": "Adenoma pleomórfico do palato.",
+      "credito": "Foto: Sreesha et al., Cureus, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "tumores",
+      "largura": 1600,
+      "altura": 1058
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

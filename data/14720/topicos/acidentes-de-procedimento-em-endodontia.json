@@ -102,6 +102,15 @@
   ],
   "figuras": [
     {
+      "src": "data/14720/img/ad-03.jpg",
+      "alt": "Ilustração. Bloqueio: tampão de raspas de dentina no terço apical que impede a lima de chegar ao comprimento.",
+      "legenda": "Ilustração. Bloqueio: tampão de raspas de dentina no terço apical que impede a lima de chegar ao comprimento.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "perfuracao-bloqueio-cap8",
+      "largura": 1045,
+      "altura": 1400
+    },
+    {
       "src": "data/14720/img/ad-04.jpg",
       "alt": "Ilustração. Duas causas de fratura de instrumento: torção, com a ponta presa, e fadiga por flexão na curva.",
       "legenda": "Ilustração. Duas causas de fratura de instrumento: torção, com a ponta presa, e fadiga por flexão na curva.",

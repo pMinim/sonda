@@ -71,6 +71,42 @@
   ],
   "figuras": [
     {
+      "src": "data/14723/img/au-02.jpg",
+      "alt": "Foto clínica. Líquen plano reticular na mucosa jugal esquerda: estrias brancas entrelaçadas, sem erosão.",
+      "legenda": "Foto clínica. Líquen plano reticular na mucosa jugal esquerda: estrias brancas entrelaçadas, sem erosão.",
+      "credito": "Foto: “Lichen planus”, Ian Furst, Wikimedia Commons (redimensionada). Licença CC BY-SA 4.0; esta versão segue a mesma licença.",
+      "apos": "lp-formas",
+      "largura": 1280,
+      "altura": 853
+    },
+    {
+      "src": "data/14723/img/au-03-1.jpg",
+      "alt": "Foto clínica. Líquen plano erosivo: área erosiva central com estrias brancas na periferia.",
+      "legenda": "Foto clínica. Líquen plano erosivo: área erosiva central com estrias brancas na periferia.",
+      "credito": "Foto: “Lichen planus-intra oral lesion”, Syed Wali Peeran, Wikimedia Commons (recortada). Licença CC BY-SA 4.0; esta versão segue a mesma licença.",
+      "apos": "lp-formas",
+      "largura": 960,
+      "altura": 950
+    },
+    {
+      "src": "data/14723/img/pv-pmc01.webp",
+      "alt": "Pênfigo vulgar com envolvimento oral antes do diagnóstico.",
+      "legenda": "Pênfigo vulgar com envolvimento oral antes do diagnóstico.",
+      "credito": "Fotos: Abuzahra et al., Case Reports in Dermatological Medicine, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "penfigo",
+      "largura": 600,
+      "altura": 271
+    },
+    {
+      "src": "data/14723/img/mmp-pmc01.webp",
+      "alt": "Gengivite descamativa em paciente com penfigoide das membranas mucosas.",
+      "legenda": "Gengivite descamativa em paciente com penfigoide das membranas mucosas.",
+      "credito": "Foto: Mortazavi et al., International Journal of Dentistry, 2026 (Figura 5). CC BY 4.0.",
+      "apos": "penfigoide",
+      "largura": 600,
+      "altura": 570
+    },
+    {
       "src": "data/14723/img/au-01.jpg",
       "alt": "Corte da mucosa com epitélio, camada basal, membrana basal e conjuntivo, e três setas: pênfigo vulgar dentro do epitélio, penfigoide abaixo do epitélio, líquen plano e lúpus na interface epitélio-conjuntivo.",
       "legenda": "Ilustração. Onde cada doença ataca. Pênfigo vulgar: fenda dentro do epitélio (desmogleína). Penfigoide das membranas mucosas: fenda abaixo do epitélio, na membrana basal. Líquen plano e lúpus: infiltrado de linfócitos na interface, sem fenda.",

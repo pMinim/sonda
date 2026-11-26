@@ -93,7 +93,80 @@
       "texto": "| Lesão | Aspecto | O sinal que separa | O que confirma | Conduta |\n|---|---|---|---|---|\n| **Candidíase pseudomembranosa** | placas branco-creme, mucosa normal ou vermelha embaixo | **sai à raspagem** | clínica e citologia (hifas) | antifúngico; tratar o fator predisponente |\n| **Candidíase eritematosa** | mancha vermelha: língua, palato, comissura, sob prótese | sem placa branca; na prótese, limitada à área coberta | clínica e citologia | antifúngico; higienizar a prótese |\n| **Candidíase hiperplásica** | placa branca na mucosa jugal anterior | **não sai à raspagem** | resolve com antifúngico | biópsia se persistir |\n| **Leucoplasia pilosa oral** | estrias ou placa corrugada na borda da língua | não sai; paciente com HIV | clínica; EBV | em geral nenhuma |\n| **Gengivoestomatite herpética** | vesículas que viram úlceras; gengiva vermelha e aumentada; febre | criança pequena; mucosa móvel e aderida | clínica; citologia ou PCR | aciclovir cedo; analgesia |\n| **Herpes recorrente** | vesículas agrupadas no lábio, ou de 1 a 3 mm dentro da boca | intraoral só em **mucosa queratinizada** (gengiva inserida, palato duro) | clínica; citologia ou PCR | antiviral no pródromo; muitas vezes nada |\n| **Herpes-zóster** | cachos de vesículas, dor antes | **unilateral**, para na linha média | clínica; PCR | antiviral em até 72 h; vacina |\n| **Sífilis** | cancro indolor; depois placas mucosas múltiplas | sem vesícula: úlcera indolor de base limpa; placas em trilha de caracol | campo escuro ou biópsia mais sorologia | penicilina G |\n| **Sarcoma de Kaposi** | mácula vermelho-púrpura em palato ou gengiva | mácula, não placa branca; paciente com HIV | biópsia | TARV; terapia local |\n| **Tuberculose** | úlcera crônica (língua, sobretudo) ou aumento de volume; linfonodos palpáveis | pode lembrar carcinoma espinocelular; pensar sobretudo em jovem ou área de alta prevalência | biópsia (granuloma com necrose caseosa), coloração ácido-resistente e cultura | vários antimicrobianos por meses |\n| **Sarampo (manchas de Koplik)** | manchas branco-azuladas com halo vermelho em mucosa jugal e labial, com coriza, tosse e conjuntivite | só no início, antes da erupção; somem quando ela surge | clínica em surto; IgM em casos isolados ou atípicos | sintomática; vacina previne |\n\n**Regras de bolso:** placa branca, tente raspar. Vesícula que vira úlcera, pense em herpes (e em zóster se for unilateral com dor). Úlcera indolor de base limpa, pense em sífilis e peça confirmação. Várias dessas lesões em um paciente sem causa aparente: pense em HIV."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/ic-01.jpg",
+      "alt": "Foto clínica. Candidíase pseudomembranosa: placas brancas que se destacam e deixam a mucosa avermelhada.",
+      "legenda": "Foto clínica. Candidíase pseudomembranosa: placas brancas que se destacam e deixam a mucosa avermelhada.",
+      "credito": "Foto: “Oral thrush Aphthae Candida albicans. PHIL 1217 lores”, CDC (PHIL 1217), Wikimedia Commons (redimensionada). Domínio público.",
+      "apos": "candida-formas",
+      "largura": 1280,
+      "altura": 864
+    },
+    {
+      "src": "data/14723/img/ic-02.jpg",
+      "alt": "Foto clínica. Gengivoestomatite herpética primária: gengiva eritematosa com úlceras.",
+      "legenda": "Foto clínica. Gengivoestomatite herpética primária: gengiva eritematosa com úlceras.",
+      "credito": "Foto: “Herpesgingiva”, James Heilman, MD, Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "herpes-primario",
+      "largura": 1280,
+      "altura": 981
+    },
+    {
+      "src": "data/14723/img/ic-03.jpg",
+      "alt": "Foto clínica. Herpes labial recorrente no lábio inferior.",
+      "legenda": "Foto clínica. Herpes labial recorrente no lábio inferior.",
+      "credito": "Foto: “Herpes labialis”, Metju12, Wikimedia Commons. Domínio público.",
+      "apos": "herpes-recorrente",
+      "largura": 793,
+      "altura": 592
+    },
+    {
+      "src": "data/14723/img/hz-pmc01-1.jpg",
+      "alt": "Foto clínica. Herpes-zóster: úlceras no palato, só do lado esquerdo, e crostas no lábio superior do mesmo lado.",
+      "legenda": "Foto clínica. Herpes-zóster: úlceras no palato, só do lado esquerdo, e crostas no lábio superior do mesmo lado.",
+      "credito": "Foto: Adjei et al., Clinical Case Reports, 2024 (Figura 1, painel B, recortado). CC BY 4.0.",
+      "apos": "zoster",
+      "largura": 362,
+      "altura": 383
+    },
+    {
+      "src": "data/14723/img/sif-pmc01.webp",
+      "alt": "Sífilis primária oral: úlceras da língua.",
+      "legenda": "Sífilis primária oral: úlceras da língua.",
+      "credito": "Foto: Barry, Case Reports in Dentistry, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "sifilis",
+      "largura": 600,
+      "altura": 522
+    },
+    {
+      "src": "data/14723/img/hiv-pmc01.jpg",
+      "alt": "Leucoplasia pilosa oral na borda lateral da língua.",
+      "legenda": "Leucoplasia pilosa oral na borda lateral da língua.",
+      "credito": "Fotos: Moura et al., Journal of Clinical and Experimental Dentistry, 2025 (Figura 1, painéis A e B, recortado). CC BY.",
+      "apos": "hiv",
+      "largura": 677,
+      "altura": 296
+    },
+    {
+      "src": "data/14723/img/hiv-pmc02.jpg",
+      "alt": "Sarcoma de Kaposi oral associado à aids: nódulos na gengiva.",
+      "legenda": "Sarcoma de Kaposi oral associado à aids: nódulos na gengiva.",
+      "credito": "Foto: Martins-de-Barros et al., Revista da Sociedade Brasileira de Medicina Tropical, 2023 (Figura 1). CC BY 4.0.",
+      "apos": "hiv",
+      "largura": 524,
+      "altura": 403
+    },
+    {
+      "src": "data/14723/img/ic-04.jpg",
+      "alt": "Foto clínica. Manchas de Koplik no sarampo, no terceiro dia antes do exantema.",
+      "legenda": "Foto clínica. Manchas de Koplik no sarampo, no terceiro dia antes do exantema.",
+      "credito": "Foto: “Koplik spots, measles 6111 lores”, CDC (PHIL 6111), Wikimedia Commons. Domínio público.",
+      "apos": "sarampo",
+      "largura": 490,
+      "altura": 338
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

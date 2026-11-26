@@ -78,6 +78,15 @@
       "apos": "polpa-ao-apice",
       "largura": 1400,
       "altura": 781
+    },
+    {
+      "src": "data/14723/img/pa-02.jpg",
+      "alt": "Radiografia periapical. Radiolucidez no ápice de dois dentes anteriores, por infecção. A imagem não distingue granuloma de cisto: só o exame microscópico distingue.",
+      "legenda": "Radiografia periapical. Radiolucidez no ápice de dois dentes anteriores, por infecção. A imagem não distingue granuloma de cisto: só o exame microscópico distingue.",
+      "credito": "Radiografia: “Periapical radiolucency”, Shaimaa Abdellatif, Wikimedia Commons. Licença CC BY-SA 4.0.",
+      "apos": "granuloma",
+      "largura": 668,
+      "altura": 1000
     }
   ],
   "flashcards": [

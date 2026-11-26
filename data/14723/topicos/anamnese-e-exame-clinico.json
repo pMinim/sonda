@@ -97,7 +97,26 @@
       "texto": "O livro divide o exame em anamnese, exame físico geral, locorregional extraoral e locorregional intraoral. Nas estruturas pares, palpe os dois lados e compare.\n\n| Região | Manobra | O que observar |\n|---|---|---|\n| ATM | palpação bilateral à frente do trago, boca fechada e aberta; abrir e fechar várias vezes; medir a abertura com paquímetro | crepitação, clique ou estalo; desvio lateral; limitação; dor; edema; assimetria |\n| Músculos mastigatórios | palpação bilateral; masseter por compressão digital ou bidigital | sensibilidade aumentada (bruxismo, parafunções) |\n| Parótida | palpar contra o ramo da mandíbula; secar a carúncula e observar a saliva | consistência e volume; saliva clara ou com pus, muco viscoso ou partículas |\n| Submandibulares | pela pele e pelo assoalho; bidigital, ou com uma mão no assoalho e outra na pele | flácidas e móveis, ou mais fibrosas; cálculo; fluxo salivar |\n| Linfonodos | indicador e médio, examinador atrás do paciente sentado; cadeia por cadeia, dos dois lados | aumento de volume, superfície, mobilidade, consistência, sensibilidade, temperatura |\n| Lábios e vestíbulo | boca fechada, depois entreaberta; everter os lábios; inspeção e palpação bidigital | simetria, cor, textura, consistência; frênulos, bridas laterais, fundos de sulco |\n| Assoalho oral | língua elevada; indicador de cada lado, do frênulo até a região mais posterior; palpação digitopalmar | cor, consistência, sensibilidade; carúnculas e ductos; sialólitos; toros |\n| Língua | em repouso, elevada e tracionada para os lados, apreendida com gaze; ventre, ápice, bordas e dorso | lesões; frênulo e pregas sublinguais; papilas; terços posteriores |\n| Mucosas das bochechas | inspeção, palpação bidigital e digitopalmar, tração para anterolateral; secar a carúncula parotídea | carúncula e retorno da saliva; linha alba; grânulos de Fordyce |\n| Rebordos alveolares | afastar as bochechas, com o paciente em oclusão; inspeção e palpação | expansão que sugere aumento dos ossos gnáticos |\n| Palatos | inspeção e palpação; pedir o “A” prolongado para ver o limite entre palato duro e mole | consistência, superfície, cor e mobilidade; crepitação, depressão, choque de retorno; toro |\n| Orofaringe | abaixar a língua, se necessário | fauces, úvula, pilares tonsilares, região tonsilar |"
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/ae-01.jpg",
+      "alt": "Cabeça e pescoço em vista lateral com seis grupos de linfonodos marcados: submentuais, submandibulares, pré-auriculares, mastóideos, occipitais e cervicais anteriores profundos.",
+      "legenda": "Ilustração. Cadeias linfonodais da cabeça e do pescoço que o exame palpa, dos dois lados. Gânglios normais não são palpáveis: descreve-se o que se palpa.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "linfonodos",
+      "largura": 1045,
+      "altura": 1400
+    },
+    {
+      "src": "data/14723/img/ae-02.jpg",
+      "alt": "Dois quadros de um examinador atrás do paciente sentado: à esquerda a palpação dos linfonodos submentuais, à direita a dos submandibulares, com a cabeça inclinada.",
+      "legenda": "Ilustração. Examinador atrás do paciente, com indicador e médio. Submentuais: uma mão leva a cabeça para a frente, sem sair do plano sagital. Submandibulares: cabeça inclinada para o lado palpado, para relaxar a musculatura.",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "linfonodos",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

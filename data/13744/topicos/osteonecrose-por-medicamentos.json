@@ -116,7 +116,17 @@
       "texto": "**Neville 5ª ed. (cap. 8).** Os prazos abaixo são do livro; a seção da AAOMS traz os dela.\n\n**Suspensão do medicamento.** Por causa da meia-vida longa dos bisfosfonatos, o livro diz que parar não traz benefício a curto prazo. Em relatos de casos refratários isolados, a suspensão por 6 a 12 meses foi, às vezes, ligada a sequestro e resolução. Segundo o livro, na atualização de 2022 da AAOMS o grupo se dividiu entre suspensão temporária e risco de suspender maior que o benefício.\n\n**Agendar pela data da dose (osteoporose), sem suspender**\n- Ácido zoledrônico IV **anual:** adiar os procedimentos cirúrgicos por **2 meses** depois da infusão, com 10 meses de cicatrização antes da próxima.\n- Denosumabe **a cada 6 meses:** planejar o procedimento para **2 meses depois** da injeção, com 4 meses de cicatrização antes da próxima.\n- A pior abordagem, diz o livro, é ignorar as datas: cirurgia perto da infusão ou da injeção maximiza efeitos adversos sobre a cicatrização.\n\n**Outros procedimentos na osteoporose:** restauradores, protéticos, endodônticos convencionais e periodontais de rotina podem ser feitos. A ortodontia não é contraindicada; avaliar o progresso depois de 2 a 3 meses de terapia ativa. Evitar técnicas invasivas, como cirurgia ortognática, extração dos quatro pré-molares e mini-implantes.\n\n**Consentimento:** antes de procedimento ósseo, alertar o paciente das complicações e do risco de MRONJ. O livro recomenda muito o termo de consentimento impresso e o registro da discussão de benefícios, riscos e alternativas.\n\n**Osteoporose × câncer:** a osteonecrose da osteoporose tende a ser menos extensa e mais responsiva ao tratamento conservador. Se o medicamento puder ser suspenso, muitos casos se resolvem sem cirurgia, de forma lenta ao longo de meses.\n\n**Risco × benefício:** os benefícios da terapia antirreabsortiva parecem superar muito o risco de MRONJ. **Nenhum paciente deve suspender o medicamento sem recomendação médica.** O livro cita que 75% dos pacientes com fratura de quadril por osteoporose nunca se recuperam por completo, com mortalidade de 20% em mulheres e 30% em homens; os antirreabsortivos reduzem as fraturas de quadril em cerca de 50%.\n\n**Em casa:** todos devem manter excelente higiene oral. Os bisfosfonatos orais são cáusticos: o paciente deve minimizar o contato com a mucosa e engolir a medicação por completo."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/13744/img/mron-01.jpg",
+      "alt": "Foto clínica de osso necrótico exposto na maxila, em paciente com osteonecrose da mandíbula e da maxila associada a medicamento (MRONJ). Osso exposto, ou fístula que sonda até o osso, é o achado dos estágios 1 a 3.",
+      "legenda": "Foto clínica de osso necrótico exposto na maxila, em paciente com osteonecrose da mandíbula e da maxila associada a medicamento (MRONJ). Osso exposto, ou fístula que sonda até o osso, é o achado dos estágios 1 a 3.",
+      "credito": "Foto: “Stage 2 MRONJ”, Coronation Dental Specialty Group (Ian Furst), Wikimedia Commons (redimensionada). Licença CC BY-SA 4.0; esta versão segue a mesma licença.",
+      "apos": "estadiamento",
+      "largura": 1280,
+      "altura": 866
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

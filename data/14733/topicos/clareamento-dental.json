@@ -118,7 +118,26 @@
       "texto": "**Dieta branca:** estudos recentes mostram que evitar pigmentos durante o clareamento não influencia o resultado. A diferença é só na duração: com dieta pigmentante, a cor dura menos.\n\n**Duração da cor:** em média cerca de 2 anos; depende de dieta, higiene, hábitos nocivos, genética e envelhecimento.\n\n**Câncer:** estudos com micronúcleos mostram que o clareamento não altera o DNA de forma permanente e, portanto, não transforma células normais em cancerígenas. O peróxido de hidrogênio é um metabólito endógeno, rapidamente metabolizado por enzimas e vitaminas, como a peroxidase salivar.\n\n**Fumantes:** podem clarear, com respostas muito parecidas com as dos não fumantes. O escurecimento volta mais rápido, porque a nicotina pigmenta a superfície externa e a interna. Mantêm-se higiene e profilaxia periódica.\n\n**Grávidas e lactantes:** não há estudos que comprovem com segurança que possam ou não clarear sem afetar o bebê; elas são excluídas dos estudos, e não está claro se o peróxido de hidrogênio tem efeito teratogênico. Por precaução, e por ser procedimento eletivo, o livro recomenda evitar nesse período.\n\n**Idade:** normalmente se recomenda iniciar a partir de 15 anos, evitando procedimentos eletivos em crianças; casos especiais (amelogênese e dentinogênese imperfeitas, traumas) permitem antecipar. Não há idade mínima fixa nem máxima estabelecida, mas a pessoa mais velha tem mais dentina depositada e calcificações no esmalte, o que dificulta.\n\n**Dentifrício de carvão ativado:** o livro diz que não há evidência de efeito clareador, e alerta para risco de cárie (a maioria não tem flúor) e alta abrasividade."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14733/img/cla-01.jpg",
+      "alt": "Dois cortes de incisivo: antes, cadeias longas na dentina absorvem a luz; depois, o peróxido atravessa o esmalte e quebra as cadeias, e a luz é refletida.",
+      "legenda": "Ilustração. A cor amarelada vem de cadeias carbônicas longas (cromóforos) na dentina. O peróxido, de baixo peso molecular, atravessa o esmalte pelas microporosidades e, por oxidação, quebra essas cadeias em moléculas menores; a luz passa a ser refletida e o dente clareia de modo uniforme (Mondelli).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "agentes",
+      "largura": 1400,
+      "altura": 1045
+    },
+    {
+      "src": "data/14733/img/cla-02.jpg",
+      "alt": "Dois cortes de incisivo despolpado com tampão cervical: à esquerda, gel na câmara e restauração provisória (walking bleach); à direita, cavidade aberta e moldeira com gel (inside/outside).",
+      "legenda": "Ilustração. Nas duas técnicas faz-se o tampão cervical: desobtura-se 2,0 a 3,0 mm abaixo da junção amelocementária (JAC) e sela-se com ionômero de vidro ou adesivo e resina fluida, para reduzir o risco de reabsorção radicular externa. Walking bleach: agente na câmara, restauração provisória, troca no consultório. Inside/outside: cavidade aberta e gel também na moldeira (Mondelli).",
+      "credito": "Ilustração do professor, gerada com IA e revisada.",
+      "apos": "despolpados-tecnicas",
+      "largura": 1400,
+      "altura": 1045
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

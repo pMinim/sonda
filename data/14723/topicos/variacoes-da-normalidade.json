@@ -88,6 +88,60 @@
       "apos": "fordyce-leucoedema",
       "largura": 1400,
       "altura": 781
+    },
+    {
+      "src": "data/14723/img/for-pmc01.jpg",
+      "alt": "Grânulos de Fordyce.",
+      "legenda": "Grânulos de Fordyce.",
+      "credito": "Foto: Souza et al., Anais Brasileiros de Dermatologia, 2023 (Figura 1, painel A, recortado). CC BY 4.0.",
+      "apos": "fordyce-leucoedema",
+      "largura": 354,
+      "altura": 324
+    },
+    {
+      "src": "data/14723/img/lal-pmc01-1.jpg",
+      "alt": "Foto clínica. Linha alba: faixa esbranquiçada na mucosa jugal, na altura do plano oclusal.",
+      "legenda": "Foto clínica. Linha alba: faixa esbranquiçada na mucosa jugal, na altura do plano oclusal.",
+      "credito": "Fotos: Agabiti et al., Dentistry Journal, 2024 (Figura 6). CC BY 4.0.",
+      "apos": "linha-alba",
+      "largura": 796,
+      "altura": 251
+    },
+    {
+      "src": "data/14723/img/vn-02.jpg",
+      "alt": "Foto clínica. Língua fissurada: sulcos no dorso da língua, uma variação da normalidade.",
+      "legenda": "Foto clínica. Língua fissurada: sulcos no dorso da língua, uma variação da normalidade.",
+      "credito": "Foto: “Lingua Plicata”, Evcimik, Wikimedia Commons (redimensionada). Licença CC0 (domínio público).",
+      "apos": "lingua-fissurada",
+      "largura": 1280,
+      "altura": 1707
+    },
+    {
+      "src": "data/14723/img/vn-01.jpg",
+      "alt": "Foto clínica. Língua geográfica (eritema migratório): áreas vermelhas de borda sinuosa, que mudam de lugar com o tempo.",
+      "legenda": "Foto clínica. Língua geográfica (eritema migratório): áreas vermelhas de borda sinuosa, que mudam de lugar com o tempo.",
+      "credito": "Foto: “Geographic tongue 01”, Dimitrios Malamos, Wikimedia Commons (redimensionada). Licença CC BY 4.0.",
+      "apos": "lingua-geografica",
+      "largura": 1280,
+      "altura": 836
+    },
+    {
+      "src": "data/14723/img/vn-03.jpg",
+      "alt": "Foto clínica. Tórus palatino: exostose óssea benigna na linha média do palato duro.",
+      "legenda": "Foto clínica. Tórus palatino: exostose óssea benigna na linha média do palato duro.",
+      "credito": "Foto: “Maxillary tori”, Kozlovsk (autoria assumida pelo Commons), Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "exostoses-torus",
+      "largura": 1280,
+      "altura": 1016
+    },
+    {
+      "src": "data/14723/img/vn-04.jpg",
+      "alt": "Foto clínica. Tórus mandibulares bilaterais na face lingual, na altura dos pré-molares: exostoses benignas.",
+      "legenda": "Foto clínica. Tórus mandibulares bilaterais na face lingual, na altura dos pré-molares: exostoses benignas.",
+      "credito": "Foto: “Mandibulartori02-04-06”, Dozenist (autoria assumida pelo Commons), Wikimedia Commons (redimensionada). Licença CC BY-SA 3.0; esta versão segue a mesma licença.",
+      "apos": "exostoses-torus",
+      "largura": 960,
+      "altura": 687
     }
   ],
   "flashcards": [

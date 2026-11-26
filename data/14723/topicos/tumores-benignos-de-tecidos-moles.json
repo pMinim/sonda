@@ -74,7 +74,44 @@
       "texto": "| Lesão | Tecido de origem | Onde | Como é | Conduta |\n|---|---|---|---|---|\n| **Fibroma** | conjuntivo fibroso (muitas vezes reacional) | mucosa jugal na linha de oclusão; lábio, língua, gengiva | nódulo liso, cor da mucosa, séssil; maioria até 1,5 cm | excisão conservadora e exame microscópico; recidiva extremamente rara |\n| **Papiloma** | epitélio pavimentoso (HPV) | palato (o mais comum no palato mole), língua, lábios | pediculado, projeções em \"couve-flor\", branco a rosa; cerca de 0,5 cm | excisão incluindo a base; recidiva improvável |\n| **Lipoma** | gordura | mucosa jugal e vestíbulo (50%) | nódulo liso, macio, amarelado; muitos menores que 3 cm | excisão conservadora; recidiva rara |\n| **Hemangioma infantil** | endotélio (tumor vascular) | cabeça e pescoço (60%) | vermelho, firme, borrachoso; não esvazia à pressão; surge nas primeiras semanas | observar (regride); propranolol se complicado |\n| **Malformação venosa** | vasos (defeito estrutural) | por exemplo, língua | azul, facilmente compressível; presente desde o nascimento e persiste | pequena e estável: pode não tratar; grande: escleroterapia e cirurgia |\n\n**Pistas rápidas:**\n- Fibroma e lipoma têm superfície **lisa**; o papiloma tem projeções em **couve-flor**. Mas superfície papilar não garante papiloma: o fibroma de células gigantes também pode tê-la.\n- Cor **amarela** e consistência macia sugerem lipoma.\n- Lesão vascular em criança: surgiu nas primeiras semanas e cresce rápido, pense em hemangioma infantil; estava lá desde o nascimento e cresce com a criança, pense em malformação (o hemangioma congênito, raro, também já nasce pronto).\n- Fibroma removido vai sempre para exame microscópico, porque outras neoplasias podem ter o mesmo aspecto."
     }
   ],
-  "figuras": [],
+  "figuras": [
+    {
+      "src": "data/14723/img/tb-01.jpg",
+      "alt": "Foto clínica. Fibroma: nódulo rosado e firme na mucosa jugal, na altura da linha de oclusão.",
+      "legenda": "Foto clínica. Fibroma: nódulo rosado e firme na mucosa jugal, na altura da linha de oclusão.",
+      "credito": "Foto: “Fibroma”, Klaus D. Peter, Wikimedia Commons (redimensionada). Licença CC BY 3.0 DE.",
+      "apos": "fibroma",
+      "largura": 1280,
+      "altura": 960
+    },
+    {
+      "src": "data/14723/img/pap-pmc01.jpg",
+      "alt": "Papiloma escamoso do palato duro.",
+      "legenda": "Papiloma escamoso do palato duro.",
+      "credito": "Foto: Rajaram Mohan et al., Cureus, 2023 (Figura 1). CC BY.",
+      "apos": "papiloma",
+      "largura": 750,
+      "altura": 618
+    },
+    {
+      "src": "data/14723/img/lip-pmc01.jpg",
+      "alt": "Lipoma da mucosa jugal e do vestíbulo.",
+      "legenda": "Lipoma da mucosa jugal e do vestíbulo.",
+      "credito": "Foto: Stazić et al., Case Reports in Dentistry, 2026 (Figura 1). CC BY 4.0.",
+      "apos": "lipoma",
+      "largura": 600,
+      "altura": 620
+    },
+    {
+      "src": "data/14723/img/hem-pmc01.jpg",
+      "alt": "Hemangioma da língua.",
+      "legenda": "Hemangioma da língua.",
+      "credito": "Fotos: Kharkate et al., Cureus, 2024 (Figura 1). CC BY 4.0.",
+      "apos": "hemangioma",
+      "largura": 750,
+      "altura": 275
+    }
+  ],
   "flashcards": [
     {
       "id": "f01",

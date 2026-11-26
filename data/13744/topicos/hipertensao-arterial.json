@@ -114,6 +114,15 @@
   ],
   "figuras": [
     {
+      "src": "data/13744/img/has-03.png",
+      "alt": "Foto clínica de crescimento gengival associado ao anlodipino, um bloqueador de canal de cálcio. É um dos efeitos orais listados para a classe.",
+      "legenda": "Foto clínica de crescimento gengival associado ao anlodipino, um bloqueador de canal de cálcio. É um dos efeitos orais listados para a classe.",
+      "credito": "Foto: “Amlodipine side effect”, Pavlic V, Zubovic N, Ilic S, Adamovic T, Wikimedia Commons. Licença CC BY 3.0.",
+      "apos": "lf-farmacos",
+      "largura": 512,
+      "altura": 313
+    },
+    {
       "src": "data/13744/img/has-01.jpg",
       "alt": "Paciente sentado com o braço apoiado na altura do coração e o manguito de pressão colocado, ligado ao manômetro, com o estetoscópio na dobra do cotovelo.",
       "legenda": "Ilustração. Medida da pressão: paciente confortável, cerca de 5 minutos na mesma posição, sentado, com o braço na altura do coração e o manguito de tamanho adequado (cobrindo cerca de dois terços do braço, segundo o manual do Varellis).",
