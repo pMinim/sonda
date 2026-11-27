@@ -179,6 +179,114 @@
       "status": "em-revisao",
       "origem": "Okeson 8ª ed., caps. 5 e 20; Pegoraro 2ª ed., caps. 2 e 11; Shillingburg 4ª ed., caps. 2 e 21",
       "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "saude-e-gengivite-2018",
+      "titulo": "Saúde periodontal e doenças gengivais (classificação de 2018)",
+      "area": "Periodontia",
+      "resumoCurto": "O corte de 10% de sangramento, periodonto íntegro × reduzido, periodontite estável e as três formas de gengivite.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Chapple, Murakami, Holmstrup, Trombelli) e Carranza 13ª ed.",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "lesoes-periodontais-agudas-e-endo-perio",
+      "titulo": "Lesões periodontais agudas e lesão endo-periodontal",
+      "area": "Periodontia",
+      "resumoCurto": "A escada das necrosantes e o abscesso periodontal × lesão endo-periodontal: o teste de vitalidade decide.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Herrera, Tonetti, Chapple), Carranza 13ª ed. e Cohen 12ª ed., cap. 25",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "recessao-e-condicoes-mucogengivais",
+      "titulo": "Recessão gengival e condições mucogengivais",
+      "area": "Periodontia",
+      "resumoCurto": "Fenótipo fino × espesso, o teto de recobrimento de Cairo e por que margem intrasulcular em fenótipo fino é receita de recessão.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Cortellini & Bissada, Jepsen, Caton, Tonetti, Chapple, Murakami, Herrera, Fan & Caton)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "trauma-oclusal",
+      "titulo": "Forças oclusais traumáticas",
+      "area": "Periodontia",
+      "resumoCurto": "Trauma primário × secundário: não inicia periodontite, acelera onde ela já existe, e ajuste oclusal não a trata.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Fan & Caton, Jepsen, Tonetti, Murakami, Herrera)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "doencas-peri-implantares",
+      "titulo": "Saúde, mucosite e peri-implantite",
+      "area": "Periodontia",
+      "resumoCurto": "O paralelo com a gengivite e a periodontite, os critérios sem radiografia de base, o risco de quem teve periodontite e o rebordo deficiente.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Renvert, Hämmerle & Tarnow, Berglundh, Caton, Chapple, Tonetti)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "tratamento-periodontal-basico",
+      "titulo": "Tratamento periodontal básico: fases, reavaliação e manutenção",
+      "area": "Periodontia",
+      "resumoCurto": "Fases da terapia, instrumentação subgengival, reavaliação e terapia de suporte.",
+      "status": "em-revisao",
+      "origem": "Lindhe 7ª ed. (caps. 30, 48) e Carranza 13ª ed. (caps. 50–51, 72)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "urgencias-endodonticas",
+      "titulo": "Urgências endodônticas",
+      "area": "Endodontia",
+      "resumoCurto": "As cinco urgências legítimas, drenagem pelo canal e trefinação, dente aberto ou fechado, antibiótico, analgésico e flare-up.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., caps. 19 e 1",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "qualidade-do-tratamento-endodontico",
+      "titulo": "Controle radiográfico de qualidade da obturação e selamento coronário",
+      "area": "Endodontia",
+      "resumoCurto": "O que a radiografia mostra e não mostra da obturação, os números de limite apical lado a lado, o selamento coronário e o que a metanálise de Gillen mediu.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., caps. 9 e 10; Gillen et al. 2011",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "risco-de-carie-adequacao-do-meio-e-carie-radicular",
+      "titulo": "Risco de cárie, adequação do meio e cárie radicular",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "O que a avaliação de risco consegue prever, o semáforo odontológico, o controle não operatório da doença com flúor, a cárie radicular e os idosos debilitados, segundo o Fejerskov, com o Cariologia (Série Abeno) ao lado.",
+      "status": "em-revisao",
+      "origem": "Fejerskov e Nyvad 4ª ed., caps. 4, 10, 15, 16 e 19; Maltz et al. (Série Abeno) 2016, caps. 6 e 7",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "dente-tratado-endodonticamente-como-restaurar",
+      "titulo": "Dente tratado endodonticamente: como restaurar",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Quando a coroa precisa de endo, por que o pino retém e não reforça, a férula e o dente já tratado.",
+      "status": "em-revisao",
+      "origem": "Pegoraro 2013, Mondelli 2ª ed., Shillingburg 4ª ed., Cohen 12ª ed. (cap. 10) e artigos (Morimoto 2016, Michaud & Dort 2024, Prott 2025, de Kuijper 2023/2026)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "clareamento-dental",
+      "titulo": "Clareamento caseiro e de consultório; dente desvitalizado",
+      "area": "Dentística",
+      "resumoCurto": "Clareamento caseiro, de consultório e combinado: agentes e concentrações, proteção dos tecidos, sensibilidade e dente despolpado (tampão cervical, walking bleach, inside/outside), segundo o Mondelli.",
+      "status": "em-revisao",
+      "origem": "Mondelli, Dentística Operatória e Restauradora, 1ª ed., cap. 38",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "interface-restauracao-periodonto",
+      "titulo": "Interface restauração–periodonto",
+      "area": "Integrado",
+      "resumoCurto": "Onde a margem pode morar: inserção de tecido supracrestal, margem como fator retentivo e fenótipo.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Ercoli & Caton, Jepsen, Chapple, Murakami, Herrera), Carranza 13ª ed. (cap. 69) e Pegoraro 2013",
+      "compartilhadoDe": "14733"
     }
   ]
 }
