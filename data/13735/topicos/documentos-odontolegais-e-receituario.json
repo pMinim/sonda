@@ -1,0 +1,828 @@
+{
+  "slug": "documentos-odontolegais-e-receituario",
+  "titulo": "Documentos odontolegais, receituário e erro odontológico",
+  "area": "Clínica Integrada",
+  "origem": "Vanrell 3ª ed., caps. 19, 21 e 22; Daruge 1ª ed., caps. 8, 12 (receituário, pp. 181–189) e 13; CFO-118/2012; Portaria 344/1998; RDC 1.000/2025; RDC 471/2021; IN 360/2025; Lei 5.081/1966; Código Penal (1940)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "vanrell3-cap19",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 19, Documentos Odontolegais, p. 128–137 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 19"
+    },
+    {
+      "id": "vanrell3-cap21",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 21, Perícia Documental em Atestados (Fernandes MM), p. 146–151 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 21"
+    },
+    {
+      "id": "vanrell3-cap22",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 22, Aspectos Clínicos do Erro Odontológico (Borborema ML), p. 152–154 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 22"
+    },
+    {
+      "id": "daruge1-cap08",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 8, Documentos Odontolegais, p. 91–100 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 8"
+    },
+    {
+      "id": "daruge1-cap12",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 12, Prontuário Odontológico, p. 178–202 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 12"
+    },
+    {
+      "id": "daruge1-cap13",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 13, Classificação Internacional de Doenças e Sigilo Profissional, p. 203–212 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 13"
+    },
+    {
+      "id": "cfo118",
+      "ref": "Conselho Federal de Odontologia. Resolução CFO-118, de 11 de maio de 2012: Código de Ética Odontológica. Em vigor desde 1º de janeiro de 2013. Texto lido do PDF institucional em 16/11/2026, numeração do rodapé do PDF; alterações posteriores não conferidas.",
+      "curta": "CFO-118/2012"
+    },
+    {
+      "id": "portaria344-1998",
+      "ref": "Brasil. Ministério da Saúde. Secretaria de Vigilância Sanitária. Portaria SVS/MS nº 344, de 12 de maio de 1998 (DOU nº 91, de 15/05/1998, seção 1, p. 3): regulamento técnico sobre substâncias e medicamentos sujeitos a controle especial. Texto consolidado, com as alterações posteriores, no AnvisaLegis (anvisalegis.datalegis.net; marcado \"vigente com alterações\"), lido em 27/11/2026.",
+      "curta": "Portaria 344/1998"
+    },
+    {
+      "id": "rdc1000-2025",
+      "ref": "Anvisa. Resolução da Diretoria Colegiada RDC nº 1.000, de 11 de dezembro de 2025 (DOU nº 238, de 15/12/2025, seção 1, p. 174; texto original lido no DOU, pp. 174 a 176, em 27/11/2026), alterada pela RDC nº 1.028, de 1º/06/2026 (DOU de 02/06/2026), e pela RDC nº 1.046, de 29/10/2026 (DOU de 03/11/2026); as duas alterações e o texto consolidado, no AnvisaLegis (anvisalegis.datalegis.net).",
+      "curta": "RDC 1.000/2025"
+    },
+    {
+      "id": "rdc471-2021",
+      "ref": "Anvisa. Resolução da Diretoria Colegiada RDC nº 471, de 23 de fevereiro de 2021 (DOU nº 36, de 24/02/2021, seção 1, p. 85), com a redação dada pela RDC nº 973, de 23 de abril de 2025. Texto consolidado do AnvisaLegis (anvisalegis.datalegis.net), lido em 27/11/2026.",
+      "curta": "RDC 471/2021"
+    },
+    {
+      "id": "in360-2025",
+      "ref": "Anvisa. Instrução Normativa IN nº 360, de 23 de abril de 2025 (DOU de 24/04/2025, seção 1; retificada em 02/06/2025 no art. 2º, § 2º), que define as listas de substâncias de que trata a RDC 471/2021. Texto do AnvisaLegis (anvisalegis.datalegis.net, Normas Regulatórias da Anvisa; marcado \"vigente\", sem notas de alteração), lido em 27/11/2026.",
+      "curta": "IN 360/2025"
+    },
+    {
+      "id": "lei5081-1966",
+      "ref": "Brasil. Lei nº 5.081, de 24 de agosto de 1966 (regula o exercício da Odontologia). DOU de 26/08/1966, retificada em 1º/09/1966 e em 16/06/1977. Texto do Planalto (planalto.gov.br/ccivil_03/leis/l5081.htm), lido em 27/11/2026. Art. 6º, III, com a redação da Lei nº 6.215, de 1975.",
+      "curta": "Lei 5.081/1966"
+    },
+    {
+      "id": "cp1940",
+      "ref": "Brasil. Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal). Texto compilado, Presidência da República (planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm), lido em 27/11/2026; a página não traz data de compilação.",
+      "curta": "Código Penal (1940)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "vanrell-classificacao",
+      "titulo": "Documentos odontolegais: conceito e classificação (Vanrell, cap. 19)",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Classificação, pp. 128–129",
+      "texto": "Segundo o Vanrell (livro brasileiro, 3ª ed.), os documentos odontolegais são o conjunto das declarações, orais ou escritas, que o cirurgião-dentista firma no exercício da profissão para servir como prova e poder ser usado com finalidade jurídica. O livro os classifica por três critérios.\n\n**Quanto à procedência**\n- **Oficial:** vem de repartição ou dependência oficial (o livro cita Centro de Saúde e Instituto Médico-Legal) ou de profissional que, ao expedi-lo, está em cargo ou função pública.\n- **Oficioso:** vem de dentista em consultório particular, ou em qualquer local ou instituição, sem vínculo de cargo ou função pública.\n\n**Quanto à finalidade**\n- **Administrativo:** o que o dentista produz para apresentar a uma pessoa, empresa, instituição ou repartição, ainda que dependa, direta ou indiretamente, da Justiça, desde que venha a ser anexado a processo judicial.\n- **Judicial:** qualquer documento do dentista destinado aos autos de um processo. Exemplos do livro: atestado para justificar a ausência de testemunha em audiência; parecer para sustentar ação indenizatória.\n\n**Quanto ao conteúdo**\n- **Verdadeiro:** apenas expressa a verdade, com dados técnicos de fatos que de fato foram constatados no paciente.\n- **Falso:** o conteúdo não corresponde à realidade, e o autor fica sujeito às penas da lei.\n\n**Os tipos que o capítulo descreve:** notificação ou comunicação compulsória, atestado, relatório (que se chama laudo ou auto, conforme quem o redige), parecer, depoimento oral e consulta. Cada um tem seção neste tema."
+    },
+    {
+      "id": "vanrell-notificacao",
+      "titulo": "Notificação ou comunicação compulsória (Vanrell, cap. 19)",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Notificação ou comunicação compulsória; Notificação odontológica, pp. 128–129",
+      "texto": "Segundo o Vanrell, a notificação ou comunicação compulsória é o documento que relata fatos, de índole odontológica ou não, que você observou no exercício da profissão e que, por força de lei, tem obrigação de comunicar.\n\n**Como comunicar:** por escrito, à autoridade competente, para as providências sanitárias, judiciárias ou sociais cabíveis. A autoridade muda conforme o caso. Os destinos que o livro dá:\n- **Crime de ação pública** (o livro dá como exemplos os maus-tratos a crianças e as agressões): a notificação vai à Autoridade Policial, ao Ministério Público (na Promotoria da Infância, Adolescência e Juventude) ou ao Conselho Tutelar da região.\n- **Acidente de trabalho:** usa-se a CAT (Comunicação de Acidente de Trabalho), formulário próprio de seis vias; a primeira via vai logo à Agência local do Instituto Previdenciário.\n- **Moléstia infectocontagiosa de notificação compulsória:** a Autoridade Sanitária, que é o Diretor do Centro de Saúde I da jurisdição. Em toda localidade com ao menos um Centro de Saúde, ele será o Centro de Saúde I.\n\n**O que a notificação odontológica deve conter (lista do livro):**\n- identificação do paciente (nome, RG e endereço);\n- a informação sobre o ato profissional realizado ou a constatação feita no atendimento, escrita de modo a não cometer infração ética por revelação de segredo;\n- horário e data em que o paciente foi atendido, e local e data do atendimento;\n- assinatura do dentista que faz a notificação;\n- carimbo esclarecedor, com nome e número do CRO, mesmo quando se usa o impresso do receituário.\n\nO modelo do livro é um parágrafo curto, dirigido ao Diretor do Centro de Saúde I, em que o dentista notifica, para fins sanitários, que consultou o paciente naquele dia. Fecha com local, data, assinatura e carimbo."
+    },
+    {
+      "id": "vanrell-atestado",
+      "titulo": "Atestado odontológico: o que pode atestar e o que ele traz (Vanrell, cap. 19)",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Atestado odontológico, pp. 129–130",
+      "texto": "Segundo o Vanrell, o atestado odontológico é uma declaração particular, breve, que afirma como verdadeiro um fato odontológico e as consequências dele que pedem providências administrativas, judiciárias ou oficiosas relativas ao cliente.\n\n**O que você pode atestar:** só o que examinou ou verificou pessoalmente. O livro diz isso para atestar, certificar, testemunhar ou declarar, para qualquer fim.\n\n**O que o atestado deve conter (lista do livro):**\n- identificação do paciente: nome e RG; o endereço é opcional;\n- a finalidade do documento (trabalhista, escolar, desportiva etc.); o livro manda evitar o chavão \"para os devidos fins\";\n- data e horário do atendimento;\n- se foi recomendado repouso, o tempo indicado em horas (o livro dá como exemplos 24 horas e 48 horas);\n- local e data da expedição;\n- assinatura do dentista que responde pela declaração, com carimbo esclarecedor (nome e número do CRO), mesmo no impresso do receituário.\n\n**Modelo do livro:** o formulário traz a identificação do dentista; o título \"Atestado\"; uma frase que diz para que fim se atesta, que o paciente esteve sob seus cuidados naquele dia, o procedimento feito e o horário; o repouso recomendado; local e data; assinatura e carimbo do dentista; e, no fim, um campo \"De acordo\" para a assinatura do paciente.\n\n**Atestado falso:** o livro diz que ele avilta a classe odontológica e infringe o Código de Ética Odontológica.\n\nAtenção: a lista do atestado no Daruge (cap. 8, pp. 92–93) é organizada em cinco partes e não coincide item a item com esta; veja a seção dele. Cada livro fica como está."
+    },
+    {
+      "id": "vanrell-relatorio-parecer",
+      "titulo": "Relatório, laudo, auto, parecer, depoimento oral e consulta (Vanrell, cap. 19)",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Relatório; Parecer; Depoimento oral; Consulta, pp. 130–131 e 135–137",
+      "texto": "**Relatório.** Segundo o Vanrell, é um documento detalhado, que pede compromisso anterior do perito, segue certa formalidade e serve para esclarecer fatos de ordem odontológica. O odontolegista não precisa prestar esse compromisso, porque já o tem de modo permanente enquanto exerce a função, vinculado à Secretaria de Segurança Pública ou a órgão semelhante. O livro dá dois nomes:\n- **laudo**, quando o próprio perito escreve (exemplo: laudo de exame de corpo de delito);\n- **auto**, quando o perito dita ao escrivão (exemplo: ata de exumação).\n\n**Partes necessárias do relatório, na ordem do livro:**\n- **preâmbulo:** onde, quando e a que horas será a perícia, quem a requisitou, os peritos nomeados, quem será periciado, o exame a fazer e os quesitos a responder;\n- **histórico ou comemorativo:** relato breve do fato que motivou o pedido de perícia;\n- **descrição:** todos os detalhes e achados, objetivos e subjetivos, dos exames;\n- **discussão:** debate e confronto de hipóteses e controvérsias;\n- **conclusão:** o que se tira da análise dos dados descritos e discutidos;\n- **respostas aos quesitos:** permitem que as partes e o magistrado formem juízos de valor.\n\n**Parecer.** É a resposta escrita a uma consulta feita pela parte ou pelo advogado de uma das partes (o consulente), para esclarecer questões de interesse jurídico e interpretar dúvidas sobre um relatório odontolegal. Em geral vai a profissional de competência especial, que dá sua opinião pessoal, e pode ser juntado aos autos. O valor e a credibilidade dependem do prestígio e do renome científico e moral de quem o emite. É documento particular e unilateral, não exige compromisso legal do parecerista e, por isso, nunca se enquadra como falsa perícia. Não tem forma fixa; segue mais ou menos a sequência do relatório: preâmbulo; exposição de motivos (histórico do caso, motivos da consulta, quesitos se houver); discussão (a parte mais importante); conclusão; respostas aos quesitos.\n\n**Depoimento oral:** informação que o perito presta de viva voz perante a autoridade policial ou judiciária, que a registra por termo. **Consulta:** esclarecimento prestado à autoridade por dúvidas ou omissões de ordem odontológica.\n\nO livro traz um modelo de laudo (lesão corporal) e um de parecer; aqui não são reproduzidos."
+    },
+    {
+      "id": "vanrell-atestado-pericia",
+      "titulo": "Atestado: conteúdo, falsidade e diagnóstico no atestado de trabalho (Vanrell, cap. 21)",
+      "fonte": "vanrell3-cap21",
+      "onde": "cap. 21, Introdução; Aspectos legais e funcionais da justificativa dos afastamentos; Considerações sobre os atestados, pp. 146–150",
+      "texto": "O cap. 21 do Vanrell, de Mário Marques Fernandes, trata da análise de atestados médicos e odontológicos pedida por um promotor de justiça. O que serve ao clínico:\n\n**Documento odontológico pode ser falsificado**, e o perito precisa de habilidade para achar a adulteração, no conteúdo ou na forma.\n\n**O que o atestado deve ter (lista do livro):** registro legível; identificação do paciente; finalidade para a qual foi expedido; diagnóstico, quando o paciente autoriza; tempo de repouso concedido; identificação de quem emite, com assinatura e carimbo ou número do registro no Conselho Regional.\n\n**Parte do ato profissional:** para o livro, emitir o atestado faz parte do ato odontológico, ao lado de exame clínico, diagnóstico, prognóstico e prescrição. Dar atestado sem ter havido ato profissional que o justifique, ou com conteúdo que não corresponde à realidade, é infração ética grave.\n\n**O que é atestado falso:** segundo o livro, a falsidade pode estar em atestar doença que existe ou não existe, isto é, na inveracidade do que o atestado quer provar. Circunstâncias secundárias, como o número de dias de afastamento diante de uma doença real, ou um equívoco de diagnóstico, não tornam o atestado falso.\n\n**Diagnóstico e CID no atestado de trabalho:** o livro registra que muitas instituições consideram imprestável, para justificar falta, o atestado sem a doença incapacitante, dita de modo expresso ou codificado (CID). Um parecer de Ministério Público estadual que o capítulo cita (Rio Grande do Sul, 1997) concluiu que, autorizado pelo paciente, o profissional pode declinar o diagnóstico ou apontar a CID, e que exigir essa referência não viola a privacidade do servidor, porque o dever de sigilo passa à administração. Na conclusão do laudo que descreve, o livro diz que cabe às organizações e instituições pedir a CID no atestado de empregados e servidores, e que cabe ao servidor autorizar o médico ou o dentista a declarar a CID se houver a exigência.\n\nAtenção: o Daruge trata do diagnóstico e da CID no atestado por outro caminho (cap. 8, p. 94, e cap. 13, p. 203); veja as seções dele. Cada livro fica como está."
+    },
+    {
+      "id": "vanrell-erro-conceito",
+      "titulo": "Erro odontológico: o critério da Odontologia e o critério do Direito (Vanrell, cap. 22)",
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, O que é erro em Odontologia?; Critério meramente odontológico; Critério jurídico; Como caracterizar a culpa, pp. 152–153",
+      "texto": "O cap. 22 do Vanrell, de Maria de Lourdes Borborema, usa a expressão latina mala praxis e diz que ela tem dois conceitos. A autora afirma que é preciso ver qual deles se adota na prática.\n\n**Pela ciência odontológica**, é qualquer resultado adverso que surge durante um ato odontológico e decorre de ação ou de omissão do dentista. **Pelo Direito**, é o resultado adverso durante o ato odontológico que tem como causa imperícia, imprudência ou negligência do dentista.\n\n**Critério odontológico.** Na prática é um critério amplo e difuso: tudo o que ocorre ao paciente por ação do dentista pareceria mala praxis, e a autora diz que isso nem sempre é verdade. O julgamento varia com a linha de trabalho do dentista (a que intervém mais ou a que espera mais; a mais clínica ou a mais cirúrgica; a que respeita a evolução biológica ou a que quer resultado mais rápido). O livro lista fatos que dependem de acidente imprevisível: falha de fábrica na resistência dos materiais, reação idiossincrática a fármacos e sensibilidade pessoal exacerbada à presença de bimetais. São fatos escusáveis, desde que o profissional tenha usado correta e oportunamente os conhecimentos e as regras da ciência odontológica atual e só tenha havido um fato realmente imprevisível. Por isso muitos autores não os consideram erro profissional. O Conselho Regional de Odontologia, acionado pelo paciente, pode abrir procedimento administrativo contra o profissional, sempre com consequências nos antecedentes dele.\n\n**Critério jurídico.** É mais restrito e mais bem definido. Constatado o fato, a atenção vai ao animus (a intenção do profissional ao propor o trabalho), ao modus operandi (a qualidade pessoal do trabalho), à condição de prudens (respeitar com prudência os limites da ciência) e à constante cura et vigilantia no tratamento e nos resultados, imediatos e mediatos. Do ponto de vista jurídico, o fato só passa a ser mala praxis quando se prova, sem dúvida, que o dentista agiu com imperícia, imprudência ou negligência; basta um desses três comportamentos para caracterizar a culpa.\n\n**Por que caracterizar a culpa:** o mesmo fato é visto de ângulos diferentes. Para o Conselho (esfera administrativa), pesa mais a descrição das lesões; para o magistrado (esferas penal e civil), importa verificar se o ato traz indícios de imperícia, imprudência ou negligência. O livro pede evitar tanto o corporativismo protecionista quanto a perseguição sistemática.\n\nImperícia, imprudência e negligência, com exemplos, estão na seção do Vanrell (cap. 30) de Prontuário odontológico, termo de consentimento e responsabilidade legal."
+    },
+    {
+      "id": "vanrell-erro-passos",
+      "titulo": "Seis passos para caracterizar a culpa (Vanrell, cap. 22, Quadro 22.1)",
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, Como caracterizar a culpa; Quadro 22.1, pp. 153–154",
+      "texto": "O Vanrell propõe, no Quadro 22.1, seis passos para caracterizar a culpabilidade.\n\n1. **Exame clínico e radiográfico**, para verificar ao menos: se a queixa combina com o tratamento; se há lesões e sequelas, e a causa delas; que procedimentos foram feitos; se o quadro clínico é coerente com eles e se eles coincidem com os recomendados; a qualidade e a biocompatibilidade dos materiais; se os ajustes foram adequados; a relação custo-benefício; quanta informação o paciente recebeu antes do tratamento; e o grau de satisfação dele com o trabalho.\n2. **Erros de diagnóstico.** Por ação: semiologia com técnica defeituosa, com descaso ou imprudência; interpretação errada de dados bem obtidos. Por omissão: deixar de usar um recurso indispensável, como raios X ou isolamento absoluto.\n3. **Erros de planejamento.** Por ação: planejar errado; recomendar tratamento sem medir as consequências. Por omissão: não planejar quando é imprescindível; falta de comunicação ou discussão com especialistas ou com o paciente.\n4. **Erros de execução (de tratamento).** Por ação: escolher tratamento impróprio; usar instrumentos inadequados ou remédios contraindicados; má técnica. Por omissão: deixar de tratar quando é imprescindível; faltar conselho ou orientação indispensável.\n5. **Erros de prognóstico.** Por ação: avaliar mal a evolução esperada depois do tratamento; pedir exames complementares sem se importar com os resultados. Por omissão: abandonar o paciente; não orientar o paciente sobre as formas possíveis de evolução; desconhecer a evolução natural do processo patológico.\n6. **Relatório**, encaminhado à autoridade requerente ou diretamente ao magistrado, conforme os ritos processuais e a área em que o processo tramita.\n\nNos passos 2 a 5, o quadro separa os erros por ação e por omissão; o passo 1 lista o que verificar no exame, e o passo 6 é o relatório."
+    },
+    {
+      "id": "daruge8-classificacao",
+      "titulo": "Documentos odontolegais: conceito e classificação (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Introdução; Classificação, pp. 91–92",
+      "texto": "Segundo o Daruge (livro brasileiro, 1ª ed.), o dentista tem o dever de registrar tudo o que realiza, por exigência clínica, administrativa e legal: prontuário, receitas, encaminhamentos, radiografias, notificações compulsórias e outros. Esses documentos têm finalidade clínica, mas num processo servem como prova. O livro nota que cresce o número de processos contra dentistas.\n\n**Quando o documento é odontolegal:** quando o dentista o emprega para fazer uma declaração ou prestar esclarecimento à justiça sobre assunto de sua competência. O capítulo cita também o Vanrell (edição de 2009): são o conjunto das declarações, orais ou escritas, firmadas pelo dentista no exercício da profissão, para servir como prova e poder ser usadas com finalidade jurídica; os autores do Daruge completam que não precisam ser escritos. Além dos documentos clínicos, há os feitos especificamente para servir de prova, os verdadeiramente odontolegais: **atestados, relatórios e pareceres**.\n\n**Classificação, como o Daruge a traz (citando o Vanrell, 2009):**\n- **Procedência:** oficial (de órgão oficial, como o Instituto Médico-Legal, ou de profissional no uso de cargo ou função pública) e oficioso (de dentista em consultório particular ou instituição afim, sem vínculo com cargo ou função pública).\n- **Finalidade:** administrativo (apresentado a qualquer pessoa, empresa, instituição ou repartição, com a condição de que venha a fazer parte de processo judicial) e judicial (destinado aos autos de processo judicial; exemplo: atestado para justificar a ausência de testemunha em audiência).\n- **Conteúdo:** verdadeiro (traz informações e fatos reais, comprovados no paciente) e falso (o texto não corresponde à realidade e traz informações ou fatos que não são verídicos ou que não aconteceram).\n\nAs classificações podem se combinar: um documento pode ser oficioso e judicial ao mesmo tempo."
+    },
+    {
+      "id": "daruge8-atestado",
+      "titulo": "Atestado: as cinco partes (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados; Elementos essenciais do atestado, pp. 92–93",
+      "texto": "Segundo o Daruge, o atestado é o documento odontolegal mais produzido. O livro o define como a afirmação simples e por escrito de um fato odontológico e de suas consequências, e diz que ele deve ter forma definida, em cinco partes, para cumprir a finalidade legal e resguardar a responsabilidade de quem o emite.\n\n1. **Identificação do profissional ou da entidade:** nome e sobrenome do dentista responsável, profissão e número de inscrição no Conselho; podem constar o endereço profissional e a especialidade. Faz parte do impresso ou do receituário. Para entidade prestadora, vão a denominação da clínica, o nome do dentista responsável e o número de inscrição de ambos no CRO.\n2. **Identificação do paciente:** nome e sobrenome, com a qualificação que evite confusão com homônimo; documento de identidade, com número e tipo (RG civil ou militar, ou passaporte se for estrangeiro). Paciente menor de 18 anos: escreva \"menor\" antes do primeiro nome e identifique o representante legal. O endereço pode constar.\n3. **Finalidade:** o motivo da emissão, escrito com clareza: faltar ao trabalho, à escola, a atividade esportiva, à justiça ou ao serviço militar, ou comprovar sanidade bucal (normalidade física e funcional do sistema estomatognático). O livro desaconselha a fórmula \"para devidos fins\". Por causa do segredo profissional, escreva que o documento foi emitido a pedido do interessado ou do representante legal.\n4. **Fato ocorrido e consequências do tratamento:** data e horário do atendimento, sem dizer a natureza do atendimento; se preciso, uma conclusão breve das consequências, como repouso pós-operatório. Escreva o horário, em vez de \"manhã\", \"tarde\" ou \"noite\": o livro lembra que já houve dentistas chamados a depor sobre o que aconteceu com o paciente no momento atestado.\n5. **Local e data de expedição, assinatura e carimbo** do profissional. O carimbo personalizado traz nome, habilitação e número do CRO junto da assinatura.\n\nO Daruge trata de outros pontos do atestado no cap. 12, na seção de Prontuário odontológico, termo de consentimento e responsabilidade legal. Cada capítulo fica como está."
+    },
+    {
+      "id": "daruge8-atestado-falso",
+      "titulo": "Atestado falso, diagnóstico e assinatura (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados: falsificação; indicação do diagnóstico e da CID; assinatura; segredo, pp. 93–94",
+      "texto": "**Atestar só o que existiu.** O Daruge cita Silva et al. (2011) para dizer que não se atestam fatos inexistentes. O atestado pode descrever um procedimento da competência do dentista, desde que ele tenha mesmo acontecido e que você tenha participado dele. Ele passa a conter informação falsa quando o profissional age de má-fé ou abusa da atribuição para beneficiar irregularmente um paciente, por amizade ou para ter lucro com o documento.\n\n**Atestado falso e o Código Penal, segundo o Daruge.** O livro diz que o dentista não está previsto como sujeito do atestado falso. A explicação dele: o Código Penal é de 1940 e a lei que regula a Odontologia é de 1966. Segundo o livro, com isso o dentista fica sujeito a penas mais pesadas que as do médico por uma conduta igual. Os autores acrescentam que, pelos princípios da lei penal, se pode defender que o dentista que emite atestado falso responda pelo art. 302, aplicado por analogia em favor dele, e não pelo art. 299, que tem pena maior.\n\n**Diagnóstico no atestado, segundo o Daruge.** O dono do segredo do atendimento é o paciente. Se o paciente ou o representante legal não quer que o fato odontológico chegue a outras pessoas, o profissional deve guardar o segredo e pode omitir o código da CID no atestado. Dizer qual é a doença sem justa causa pode ser visto como revelação de segredo, com consequências penais, civis e administrativas (Código Penal, Código Civil e Código de Ética Odontológica). Com a autorização do paciente ou do representante legal, o livro não vê quebra de sigilo. O segredo profissional é tratado no cap. 5 do livro (seção própria em Prontuário odontológico, termo de consentimento e responsabilidade legal).\n\n**A CID e o sigilo, no cap. 8.** O livro diz que a CID foi criada para facilitar estudos epidemiológicos, e não \"para criptografar doenças\", e que em nada resguarda o sigilo profissional, porque qualquer pessoa pode ter acesso à codificação. Por isso recomenda a assinatura do paciente, anuindo com o uso do código.\n\n**Assinatura:** pode ser trocada pela impressão digital do polegar direito. Para isso, lembra o livro, o serviço precisa ter almofada de carimbo, álcool em gel e toalhas de papel.\n\nAtenção: o Vanrell também trata do atestado falso e do diagnóstico no atestado (cap. 19, p. 130, e cap. 21, pp. 146–150); veja as seções dele. Dentro do próprio Daruge, o cap. 13 (p. 203) diz o oposto sobre a CID e o sigilo; veja a seção dele. Cada trecho fica como está."
+    },
+    {
+      "id": "daruge8-declaracao",
+      "titulo": "Declaração de comparecimento do acompanhante e duas vias (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados: declaração de comparecimento do acompanhante; Figuras 8.1 e 8.2, pp. 95–96",
+      "texto": "Segundo o Daruge, quem acompanha menores ou idosos costuma pedir um papel que comprove o comparecimento ao consultório. O atestado afirma um fato odontológico e suas consequências, e o acompanhante não passou por nenhum fato odontológico. Por isso o livro, citando França (2007), indica emitir uma **declaração** de que a pessoa esteve no consultório, no horário referido, acompanhando um paciente para atendimento odontológico.\n\n**\"Atesto\" e \"declaro\":** o atestado começa pela palavra \"atesto\", e a declaração, por \"declaro\". Não use as duas no mesmo documento nem confunda a nomeação. Atestado e declaração são formais: sem cumprimentos nem mensagens pessoais (o livro dá como exemplos \"atenciosamente\", \"lembranças\" e \"um abraço\").\n\n**O que a declaração tem e não tem:**\n- o nome completo do paciente deve constar, para estabelecer o vínculo; o livro diz que isso não quebra o sigilo, porque sem o nome a emissão fica sem justificativa;\n- a declaração não leva as informações complementares do atestado (por exemplo, \"devendo permanecer em repouso absoluto\"), ainda que o acompanhante tenha de cuidar de um convalescente, porque ela não tem força para justificar falta a atividades imprescindíveis;\n- o endereço do acompanhante não é necessário;\n- dizer que o paciente é menor é facultativo; evite outras qualificações discriminatórias (\"idoso\", \"incapacitado\", \"com deficiência\");\n- o grau de relacionamento do acompanhante com o paciente é facultativo e reforça a necessidade do acompanhamento;\n- no fim vai a autorização do acompanhante, por assinatura, rubrica ou impressão digital do polegar direito.\n\n**Duas vias:** o livro recomenda fazer cópia carbonada do atestado e, se ele for impresso, em duas vias; ambas levam a assinatura do paciente (ou do representante legal) e do profissional: a primeira fica com o paciente e a segunda vai ao prontuário. Isso resguarda o dentista quanto ao ônus da prova. O livro diz que a autorização escrita do interessado tipifica esses documentos como prova absoluta, isto é, que não aceita contestação pelas autoridades judiciárias. Modelos prontos e recursos de informática facilitam: o livro traz um modelo de atestado (Fig. 8.1) e um de declaração (Fig. 8.2).\n\nAtenção: no cap. 12 (p. 181), o mesmo Daruge diz que, nas duas vias do atestado e da declaração, a segunda é rubricada pelo paciente; veja a seção dele. Aqui, as duas vias levam a assinatura do paciente ou do representante legal e a do profissional. O livro não concilia as duas passagens."
+    },
+    {
+      "id": "daruge8-relatorio",
+      "titulo": "Relatório: auto, laudo, partes e respostas aos quesitos (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Relatório; Partes do relatório; Respostas aos quesitos, pp. 96–98",
+      "texto": "Segundo o Daruge, o relatório é o documento escrito em que o perito expõe às autoridades o que fez; para que leigos o entendam, precisa seguir regras.\n\n**Auto e laudo:** se o perito, durante o exame e na frente de testemunhas, dita suas explicações a um escrivão, que as registra depois em termo, o relatório é um **auto** (o exemplo principal é o auto de exumação). Se é redigido pelo próprio perito, depois do exame e das consultas, é um **laudo**.\n\n**Partes do relatório odontolegal (sete, no livro):**\n- **Preâmbulo:** identificação dos peritos (nome, títulos, endereço) e do examinado, a autoridade que requisitou, a finalidade da perícia e a hora, a data e o local do exame.\n- **Quesitos:** as perguntas a responder. Na área criminal vêm formuladas antes (\"quesitos oficiais\"), sem impedir quesitos acessórios da autoridade; na cível, autoridade e partes podem formular. Aqui só se transcrevem.\n- **Histórico ou comemorativo:** relato do que importa sobre o ocorrido, para situar o fato no tempo e no espaço. As informações vêm do interessado ou de terceiros, sob responsabilidade deles; o perito não responde por esse conteúdo.\n- **Descrição:** a parte essencial. Reproduz de forma fiel, metódica e objetiva todos os elementos do exame, sem suposições; vale incluir esquemas, fotografias e gráficos.\n- **Discussão:** as hipóteses são confrontadas, e o perito dá sua opinião com justificativas racionais, baseadas na literatura atual.\n- **Conclusão:** síntese do ponto de vista do perito, com elementos objetivos e comprovados já descritos.\n- **Respostas aos quesitos:** cada quesito é transcrito com resposta sucinta, clara e no mínimo de palavras, limitada aos advérbios \"sim\" ou \"não\".\n\n**Tipos de resposta, na tabela do livro (atribuída a Galvão):**\n- **Sim:** tudo o que o quesito afirma é verdadeiro, até as relações entre os fatos.\n- **Não:** há algo falso, mesmo que seja só um nexo.\n- **Sem elementos:** não dá para responder sim nem não, nem no futuro nem com pesquisas e exames.\n- **Aguardar:** não dá para responder agora, mas talvez dê no futuro ou depois de pesquisas e exames.\n- **Prejudicado:** a pergunta não cabe no caso ou traz afirmação errada ou relação imprópria.\n- **Especificada:** a pergunta não pede resposta lógica de sim ou não; por exemplo, uma idade ou uma cor.\n\nTodos os quesitos devem ser respondidos, mesmo os redundantes ou os fora da competência. O relatório fecha com data e assinatura do perito.\n\nAtenção: o Vanrell lista as partes do relatório em seis, com os quesitos dentro do preâmbulo (cap. 19, p. 130, na seção dele). Cada livro fica como está."
+    },
+    {
+      "id": "daruge8-parecer",
+      "titulo": "Parecer (Daruge, cap. 8)",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Parecer; Considerações finais, pp. 98–99",
+      "texto": "Segundo o Daruge, o parecer é, na definição de Fávero (1975) que o capítulo cita, a resposta a uma consulta feita por interessado a profissional, comissão ou sociedade científica de competência especial, sobre fatos de uma questão a esclarecer. É documento particular, independe de compromisso legal e vale pelo renome de quem o assina. A definição foi pensada para o parecer médico; no odontológico, só muda o assunto a esclarecer, que passa a ser de natureza odontológica. O capítulo cita ainda o Vanrell (2009): resposta formulada para esclarecer questões de interesse jurídico, interpretando e elucidando dúvidas levantadas sobre um relatório odontolegal.\n\n**Forma:** o parecer não tem forma fixa. O livro recomenda a ordem preâmbulo, exposição de motivos, discussão, conclusão e resposta aos quesitos. Ele difere do relatório só por trocar o histórico e a descrição pela exposição de motivos, porque em regra não há exames. A exposição de motivos é um histórico do caso: relata os motivos da consulta e transcreve os quesitos, se houver. Se os quesitos são vários, a resposta pode ser discutida e dada isoladamente.\n\n**Veracidade:** o dever é meramente moral. Quem emite parecer e falta com a verdade não incorre em tipo penal, porque não há crime de \"falso parecer\". O valor e a idoneidade do parecer vêm só do conceito científico e do renome de quem o assina.\n\n**Fecho do capítulo:** a elaboração de documentos odontolegais exige idoneidade, ética, moralidade e responsabilidade.\n\nLado a lado: o Vanrell também diz que o parecer é documento particular, sem compromisso legal, que não se enquadra como falsa perícia (cap. 19, p. 135, na seção dele)."
+    },
+    {
+      "id": "daruge13-cid",
+      "titulo": "CID: o que é e como se lê o código (Daruge, cap. 13)",
+      "fonte": "daruge1-cap13",
+      "onde": "cap. 13, Introdução; Uso da Classificação Internacional de Doenças pelo cirurgião-dentista; Estrutura do código, pp. 203–204; Quadro 13.1, pp. 204–211",
+      "texto": "O cap. 13 do Daruge (Hebling, Daruge e Daruge Júnior) trata da Classificação Internacional de Doenças (CID), elaborada pela Organização Mundial da Saúde. Segundo o capítulo, é possível usar a CID para informar o diagnóstico no atestado: os códigos indicam o diagnóstico da doença ou da alteração, sem indicar o tratamento feito ou necessário, e é por isso que, para o livro, resguardam o sigilo profissional. Além das doenças, a CID descreve sinais, sintomas, aspectos anormais, queixas, circunstâncias sociais e causas externas de ferimentos ou doenças.\n\n**Como a CID-10 do livro se organiza:**\n- ela tem 21 capítulos; o que importa ao dentista é o Capítulo XI (Doenças do Sistema Digestivo), sobretudo o grupo que reúne cavidade oral, glândulas salivares e maxilares;\n- o primeiro caractere do código é uma letra que remete a um capítulo (o livro nota que algumas letras servem a mais de um capítulo e que alguns capítulos usam mais de uma letra); cada capítulo se divide em agrupamentos de categorias de três caracteres, e cada estado de saúde tem uma categoria única;\n- as categorias podem ter até dez subcategorias de quatro caracteres, e estas, até dez de cinco;\n- o código tem uma letra e números, com ponto decimal antes do quarto caractere. Exemplo do livro: K13 (outras doenças nos lábios e na mucosa oral), K13.0 (doenças dos lábios) e K13.00 (queilite angular).\n\n**Convenções do livro:** o uso de parênteses e colchetes e as siglas \"SOE\" (sem outra especificação) e \"NCOP\" (não classificado em outra parte). Os parênteses trazem palavras suplementares que podem completar o termo do diagnóstico sem mudar o código. Os colchetes trazem sinônimos, palavras alternativas ou frases explicativas, e remissões a notas e a códigos.\n\n**Quadro 13.1:** o livro traz a CID em Odontologia e Estomatologia (CID-OE), que cobre o Capítulo XI e as doenças da cavidade bucal, das glândulas salivares e dos maxilares. Os grupos vão de K00 a K14. Por exemplo: K02 (cárie dentária), K04 (doenças da polpa e dos tecidos periapicais) e K05 (gengivite e doenças periodontais).\n\nPara o que o paciente precisa autorizar antes de a CID entrar no atestado, veja a seção do Daruge, cap. 8, sobre atestado falso, diagnóstico e assinatura.\n\nAtenção: o cap. 8 do mesmo livro (p. 94) diz o oposto sobre o sigilo: que a CID não foi feita para criptografar doenças e em nada resguarda o sigilo profissional, porque qualquer pessoa pode ter acesso à codificação. Nas passagens lidas, o livro não concilia os dois capítulos; cada um fica na sua seção."
+    },
+    {
+      "id": "daruge12-receita-conceitos",
+      "titulo": "Receita: conceitos, tipos de medicamento e tipos de receita (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Receitas; Receita comum, pp. 181–182",
+      "texto": "Segundo o Daruge, receita é a prescrição escrita de fármaco ou medicamento, com orientação de uso, feita por profissional legalmente habilitado. O livro distingue:\n- **droga:** substância ou matéria-prima usada com fim medicamentoso ou sanitário;\n- **medicamento:** produto farmacêutico produzido com técnica, para prevenir, curar, aliviar ou diagnosticar.\n\n**Tipos de medicamento, como o livro os classifica:**\n- **de referência ou de marca:** o primeiro a ser comercializado, que tem patente;\n- **genérico:** tem a formulação, a forma e a dosagem do de referência e passa por testes de bioequivalência;\n- **similar:** tem a mesma formulação, mas pode mudar em tamanho, forma, validade, embalagem, rotulagem, excipientes e veículos; vem com nome comercial ou marca.\n\n**Competência:** o livro cita a Lei nº 5.081/1966 para dizer que o dentista pode prescrever e aplicar medicamentos (especialidades farmacêuticas) de uso interno e externo que sejam indicados em Odontologia.\n\n**Vias de administração:**\n- **uso interno:** o medicamento é engolido e percorre o tubo gastrointestinal (comprimidos, cápsulas, drágeas, soluções, suspensões e xaropes), por via oral, sublingual ou retal;\n- **uso externo:** os demais modos, como bochechos, pomadas, cremes e soluções injetáveis.\n\n**Três tipos de receita:** a **Receita Comum**, para a maioria dos fármacos (o livro cita analgésicos, anti-inflamatórios e antibióticos), com retenção da receita; a **Receita Magistral**, de farmácias de manipulação; e a **Receita de Controle Especial**, pouco usada por dentistas, que tem seção própria neste tema.\n\nO que a Receita Comum traz e como se emite está na seção seguinte."
+    },
+    {
+      "id": "daruge12-receita-comum",
+      "titulo": "Receita comum: dados essenciais, denominação e forma de emitir (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Receita comum; Receituário próprio, pp. 182–183",
+      "texto": "Segundo o Daruge, a receita é feita em receituário próprio do profissional ou da instituição. Os dados essenciais:\n- **identificação do profissional:** nome completo, profissão (ou especialidade) e número no CRO, mais o endereço e o telefone de onde trabalha;\n- **cabeçalho:** nome completo do paciente e a via de administração (\"uso interno\" ou \"uso externo\"); o endereço do paciente, que a lei recomenda, quase sempre fica de fora na prática;\n- **inscrição:** o nome do fármaco (o genérico, e o de referência se quiser), a concentração e a quantidade em algarismos arábicos e, por extenso, entre parênteses;\n- **orientação:** como usar, com doses, horários, duração do tratamento e precauções;\n- **data e assinatura** do profissional.\n\n**Dados facultativos:** idade, peso e altura quando fizerem diferença, endereço do paciente, CPF, e-mail do profissional ou da instituição e a assinatura de quem recebe (paciente ou responsável) na segunda via, que os autores recomendam expressamente.\n\n**Denominação genérica:** na mesma página (p. 182), o livro traz duas frases opostas e não as concilia. Uma diz que somente será aviada a receita comum que contiver a denominação genérica (o livro cita Brasil, 1973 e 1999b). A frase seguinte diz que o uso da denominação genérica é obrigatório somente nos Serviços Públicos de Saúde, e que na clínica privada se pode prescrever pelo nome genérico ou pela marca (o livro cita Andrade, 2006). Quem prescreve o medicamento de referência e não quer que seja trocado escreve, no fim da receita, que não autoriza a substituição por genéricos.\n\n**Forma:** talão próprio do profissional, sem cor específica, com letra legível ou digitada, sempre em duas vias (uma do profissional, outra do paciente), com data e assinatura no final.\n\n**Para que serve:** a receita orienta dose e posologia, reduz a automedicação, permite registrar precauções e cuidados pós-operatórios e é instrumento legal se o medicamento for usado indevidamente. Receitar protege o profissional de ocorrências e acidentes causados pelo paciente que não segue a prescrição, mas também o torna responsável por prescrever medicamento inadequado.\n\nO Vanrell também trata de receita no prontuário (cap. 31); veja a seção dele em Prontuário odontológico, termo de consentimento e responsabilidade legal."
+    },
+    {
+      "id": "daruge12-controle-especial",
+      "titulo": "Receita de Controle Especial (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Receita de controle especial; Preenchimento; Figura 12.2, pp. 183–186",
+      "texto": "O Daruge diz que a Receita de Controle Especial é pouco usada por dentistas. O livro, citando outro autor, dá exemplos do que o dentista pode prescrever e que a exige:\n- **ansiolíticos**, para ansiedade e sedação consciente: benzodiazepínicos (diazepam, lorazepam, alprazolam, midazolam e triazolam) em adultos; buspirona em adultos; e, em crianças, hidrato de cloral como hipnótico-sedativo e levomepromazina e periciazina como neurolépticos;\n- **analgésicos de ação central** para dor intensa: codeína, dextropropoxifeno e tramadol;\n- **antidepressivo tricíclico** para dor crônica da ATM: amitriptilina.\n\n**Vias.** A Receita de Controle Especial é preenchida em duas vias, com os dizeres em destaque \"1ª via, retenção da farmácia ou drogaria\" e \"2ª via, orientação ao paciente\". Embora não seja obrigatório, o livro recomenda emitir três vias, como prática clínica defensiva: duas ao paciente e uma assinada por ele ou pelo representante legal e arquivada no prontuário (1ª via, retenção da farmácia; 2ª via, orientação ao paciente; 3ª via, prontuário clínico).\n\n**Como preencher (instruções da Figura 12.2):**\n- **identificação do emitente:** já impressa no formulário do profissional ou da instituição (nome, endereço do consultório ou da residência e número do Conselho Regional);\n- **identificação do usuário:** nome e endereço completos do paciente;\n- **medicamento ou substância:** pela Denominação Comum Brasileira (DCB), com dosagem ou concentração, forma farmacêutica, quantidade (em algarismos arábicos e por extenso) e posologia;\n- **data da emissão** e **assinatura do prescritor**; se os dados já vêm impressos no cabeçalho, só a assinatura é necessária.\n\nO comprador, o fornecedor e o registro no verso são preenchidos pela farmácia.\n\n**Cuidados:** a Receita de Controle Especial e a Notificação de Receita são pessoais e não podem ser transferidas. A quantidade vai em algarismos e por extenso, sem emenda nem rasura, e a farmácia só avia quando todos os itens estão preenchidos. Com a Receita de Controle Especial, o paciente compra em todos os Estados os controlados que não exigem Notificação de Receita.\n\nAtenção: a seção reproduz o que o Daruge (1ª ed., 2017) traz. As normas de hoje estão em seções próprias deste tema: Receita de Controle Especial hoje (Portaria 344/1998) e Receituário eletrônico (RDC 1.000/2025). Cada texto fica como está."
+    },
+    {
+      "id": "daruge12-notificacao-receita",
+      "titulo": "Notificação de Receita: tipos, quem firma, internado e emergência (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Notificação de Receita; Tabela 12.1, pp. 183–184",
+      "texto": "Segundo o Daruge, a Notificação de Receita é um documento padronizado que, acompanhando a Receita de Controle Especial, permite que a farmácia dispense medicamentos de controle especial.\n\n**Três tipos, três cores:**\n- **\"A\", amarela:** entorpecentes;\n- **\"B\", azul:** psicotrópicos;\n- **a que o livro chama \"Especial\", branca:** retinoides de uso sistêmico e imunossupressores.\n\nCada uma é emitida junto com a Receita de Controle Especial. As dos dois primeiros grupos podem ser assinadas por quem tenha inscrição nos Conselhos Regionais de Medicina, Medicina Veterinária ou Odontologia; a do terceiro grupo, apenas por inscrito no de Medicina. A branca (a \"C\", como o livro a nomeia na p. 184) é de uso exclusivo da área médica, e o dentista não pode solicitá-la.\n\n**Na prática do dentista:** a azul é pouco usada. Serve para benzodiazepínicos no controle da ansiedade e na sedação consciente e para as substâncias das listas \"B1\" e \"B2\" (psicotrópicos).\n\n**Tabela 12.1 do livro (exemplos que o dentista pode prescrever):**\n- Notificação **A**: codeína, dextropropoxifeno e tramadol, para dor intensa.\n- Notificação **B**: diazepam, lorazepam, alprazolam, midazolam e triazolam, para ansiedade e sedação consciente.\n- **Não necessitam de notificação:** amitriptilina, buspirona, periciazina e hidrato de cloral.\n\nO texto do livro (p. 183) cita esses últimos entre os que exigem Receita de Controle Especial; a tabela os põe na coluna dos que não necessitam de notificação. Cada trecho fica como o livro o traz.\n\n**Paciente internado:** a notificação não é exigida em estabelecimento hospitalar, público ou privado. Nesse caso, a dispensação se faz por receita ou documento equivalente, a prescrição diária, em papel próprio do estabelecimento.\n\n**Emergência:** a receita de medicamento sujeito a notificação pode ser aviada em receituário comum, desde que justifique a emergência e traga data, inscrição no Conselho Regional e assinatura identificada. A farmácia ou drogaria registra quem comprou e a apresenta à Autoridade Sanitária local em 72 horas, para visto. Em caso de roubo, furto ou extravio do talonário, informe de imediato a Autoridade Sanitária local, com boletim de ocorrência policial.\n\nAtenção: a seção reproduz o que o Daruge (1ª ed., 2017) traz. As normas de hoje estão em seções próprias deste tema: Notificação de Receita hoje (Portaria 344/1998) e Receituário eletrônico (RDC 1.000/2025). Cada texto fica como está."
+    },
+    {
+      "id": "daruge12-notificacao-talonario",
+      "titulo": "Notificação de Receita: talonário, validade, limites e maleta de emergência (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Notificação de Receita; Maleta de emergência, pp. 184–185",
+      "texto": "**Talonário \"B\" (azul).** Para obter, solicite a numeração à Autoridade Sanitária da localidade (em geral, a Secretaria de Vigilância Sanitária da Prefeitura). Com a numeração, escolha uma gráfica, por conta do profissional. Não há padronização de dimensões, mas o talonário deve ter exatamente as informações da legislação vigente. O canhoto é facultativo, mas o livro o recomenda para controle.\n\n**Talonário \"A\" (amarela).** Menos usado; é fornecido sem custo a profissionais ou à instituição. Na entrega, leve o carimbo de identificação (nome e endereço completos e número no CRO; para instituição, CNPJ e inscrição no CRO), que a Autoridade Sanitária carimba em todas as folhas, no campo \"Identificação do Emitente\".\n\n**Validade e limites, segundo o Daruge:**\n- **A (amarela):** vale por 30 dias contados da emissão, em todo o território nacional. Para comprar em outro Estado, acompanhe com receita que justifique o uso. Até 5 ampolas e, nas demais formas farmacêuticas, quantidade para no máximo 30 dias de tratamento.\n- **B (azul):** vale 30 dias a contar da emissão e só dentro do Estado que concedeu a numeração. No máximo cinco ampolas; nas outras formas, o suficiente para até 60 dias de tratamento.\n- Acima das quantidades previstas, o prescritor redige uma justificativa com CID, diagnóstico, posologia, data e assinatura e a entrega ao paciente junto com a notificação.\n\n**Antirretrovirais:** o livro diz que é vedada a prescrição por médico veterinário e por cirurgião-dentista.\n\n**Maleta de emergência.** Para ter medicamento de controle especial na maleta de emergência da clínica, o profissional procura a Autoridade Sanitária competente e preenche uma Notificação de Receita para cada medicamento, escrevendo \"Maleta de Emergência\" no campo do nome do paciente e o endereço profissional no do endereço, além do nome do medicamento, concentração, data, carimbo, assinatura e quantidade a comprar. A Autoridade avalia o pedido e, se achar pertinente, autoriza a compra na farmácia ou drogaria, com visto no verso de cada notificação. Para repor, preenche-se nova notificação com a quantidade usada na emergência e o nome e o endereço completos do paciente. A maleta pode ter até três ampolas de entorpecentes e até cinco de psicotrópicos, e o profissional ou a instituição responde por guardá-los e armazená-los.\n\nAtenção: a seção reproduz o que o Daruge (1ª ed., 2017) traz. As normas de hoje estão em seções próprias deste tema: Notificação de Receita hoje (Portaria 344/1998) e Receituário eletrônico (RDC 1.000/2025). Cada texto fica como está."
+    },
+    {
+      "id": "daruge12-encaminhamento-carimbo",
+      "titulo": "Encaminhamento, duas vias do atestado, carimbo e assinatura digital (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Encaminhamentos e Atestado (duas vias), p. 181; Carimbo, pp. 187–188",
+      "texto": "**Encaminhamento.** Segundo o Daruge, quando o paciente precisa de especialidade que você não executa, faça uma carta objetiva, em linguagem simples, sem rasuras e com o nome dos dentes a remover ou tratar. Encaminhe sempre a dois profissionais e deixe a escolha ao paciente. Nas especialidades em que a indicação é necessária para o tratamento dar certo, quem indicou fica responsável por acompanhar e dar continuidade, pedindo e cobrando do paciente os procedimentos; sem isso, o tratamento pode ser interrompido. As cartas também podem ir a médicos, fonoaudiólogos, fisioterapeutas e outros. Como prática clínica defensiva, faça em duas vias, com cópia no prontuário rubricada ou assinada pelo paciente.\n\n**Atestado e declaração em duas vias.** Segundo o Daruge, os dois documentos devem ser emitidos em duas vias, e a segunda é rubricada pelo paciente e arquivada no prontuário. Lado a lado: no cap. 8 (p. 95), o mesmo livro diz que as duas vias levam a assinatura do paciente ou do representante legal e a do profissional (na seção dele, sobre a declaração).\n\n**Carimbo.** O livro conta que, com mais denúncias de falsos profissionais de saúde e de venda de receitas de medicamentos controlados, o carimbo passou a ser visto como \"vilão\", porque pode facilitar delitos na área da saúde. Para o livro, hoje ele não deveria ter o valor que se lhe dá, porque não é prova de autenticidade de atestado ou receita. Serve apenas para agilizar o trabalho, com nome, número do Conselho e especialidade em letra legível. Algumas instituições ainda o exigem, e a falta dele pode levar à anulação do procedimento e ao questionamento do ato profissional. Criminosos coletam dados de profissionais em livretos de convênios e em sites e fazem carimbos, receituários e identidade profissional. O uso indevido gera problemas judiciais, e o profissional muitas vezes responde por delitos praticados em seu nome.\n\n**Assinatura digital.** Para o livro, a assinatura digital (chave criptográfica e senha privativa) autentica arquivos eletrônicos e deve aparecer cada vez mais, em breve, em prescrições, atestados e até prontuários, o que tornaria o carimbo inútil.\n\nLado a lado: o Vanrell pede carimbo esclarecedor, com nome e número do CRO, na notificação e no atestado, mesmo quando se usa o impresso do receituário (cap. 19, pp. 129–130, na seção dele)."
+    },
+    {
+      "id": "cfo118-documentos",
+      "titulo": "CFO-118/2012: formulário público, laudo de imagem e informações para benefícios (arts. 18 e 10)",
+      "fonte": "cfo118",
+      "onde": "art. 18, V e VI, p. 8; art. 10, V, p. 4",
+      "texto": "O Código de Ética Odontológica (Resolução CFO-118/2012, em vigor desde 1º de janeiro de 2013) é norma ética do Conselho. O texto não define atestado: descreve condutas e infrações. Os incisos I a IV e VII do art. 18 e o dever de manter prontuário (art. 17) estão em Prontuário odontológico, termo de consentimento e responsabilidade legal. Aqui entram os incisos V e VI do art. 18 e o art. 10, V.\n\n**Art. 18, constitui infração ética:**\n- **inciso V:** servir-se de formulário de instituição pública para prescrever, encaminhar ou atestar o que foi verificado na clínica privada;\n- **inciso VI:** não emitir laudo de exames de imagem feitos em clínica de radiologia.\n\n**Perícia e auditoria (art. 10, V):** é infração negar, como assistente, as informações odontológicas de que o paciente precisa para pedir benefício previdenciário ou outra concessão legal (a lista do artigo inclui atestados, declarações, relatórios, exames e pareceres), desde que o paciente ou o responsável legal autorize."
+    },
+    {
+      "id": "portaria344-rce",
+      "titulo": "Receita de Controle Especial hoje (Portaria 344/1998): vias, validade e dados",
+      "fonte": "portaria344-1998",
+      "onde": "art. 52, caput e §§ 1º e 2º; art. 53; art. 55, caput e alíneas a a e",
+      "texto": "Esta seção traz a Portaria SVS/MS 344/1998 como está hoje no texto consolidado da Anvisa, com as alterações feitas até a RDC 1.000/2025. O Daruge (1ª ed., 2017) é anterior a essas alterações.\n\n**Vias e dizeres (art. 52, caput):** a Receita de Controle Especial é preenchida em 2 vias, manuscrita, datilografada ou informatizada, com os dizeres \"1ª via - Retenção da Farmácia ou Drogaria\" e \"2ª via - Orientação ao Paciente\" em destaque em cada via. A farmácia dispensa mediante a receita: a 1ª via fica retida e a 2ª volta ao paciente, com o carimbo do atendimento (art. 53).\n\n**Validade e cuidados (art. 52, §§ 1º e 2º):** para as listas C1 e C5, vale 30 dias a contar da emissão. A receita é legível, com a quantidade em algarismos arábicos e por extenso, sem emenda nem rasura. A farmácia só avia quando todos os itens estão preenchidos.\n\n**O que ela traz (art. 55, caput, para as listas C1 e C5 e os adendos das listas A1, A2 e B1):**\n- emitente: nome com inscrição no Conselho Regional e a UF, ou nome da instituição com CNPJ ou CNES, endereço completo e telefone (alínea a, redação da RDC 1.000/2025);\n- paciente: nome e CPF, ou passaporte se estrangeiro (alínea b, redação da RDC 1.000/2025);\n- medicamento ou substância pela Denominação Comum Brasileira, com dosagem ou concentração, forma farmacêutica, quantidade (em algarismos arábicos e por extenso) e posologia;\n- data da emissão e assinatura do prescritor; se os dados já vêm impressos no cabeçalho, basta assinar.\n\n**Lado a lado com o Daruge:** o livro traz as 2 vias com os mesmos dizeres e recomenda uma 3ª via, para o prontuário, dizendo que não é obrigatória (cap. 12, pp. 183 e 185). Para o paciente, o livro pede nome e endereço completos (instruções da Figura 12.2, cap. 12, pp. 185–186); o art. 55, b, pede nome e CPF ou passaporte. Cada texto fica como está."
+    },
+    {
+      "id": "portaria344-rce-limites",
+      "titulo": "Receita de Controle Especial hoje (Portaria 344/1998): quem prescreve, limites e emergência",
+      "fonte": "portaria344-1998",
+      "onde": "art. 54, parágrafo único; art. 55, §§ 1º a 3º; arts. 57, 59 e 60",
+      "texto": "**Quem prescreve:** o dentista só prescreve para uso odontológico (art. 55, § 1º) e não prescreve antirretrovirais, da lista C4 (art. 54, parágrafo único).\n\n**Quanto pode constar:**\n- no máximo 3 substâncias da lista C1 por receita (art. 57);\n- para cada substância de C1 ou C5, até 5 ampolas e, nas outras formas farmacêuticas, quantidade para no máximo 60 dias de tratamento (art. 59);\n- acima desses limites, o prescritor apresenta justificativa com CID ou diagnóstico e posologia, datada e assinada nas duas vias (art. 60).\n\n**Emergência (art. 55, § 2º):** a receita de medicamento da lista C1 pode ser aviada em papel não privativo do profissional ou da instituição, desde que traga o diagnóstico ou CID, a justificativa do caráter emergencial do atendimento, a data, a inscrição no Conselho Regional e a assinatura identificada. O estabelecimento anota quem comprou e apresenta a receita à Autoridade Sanitária em até 72 horas, para visto. Esse § 2º não vale para a Receita de Controle Especial eletrônica (§ 3º, incluído pela RDC 1.000/2025).\n\n**Lado a lado com o Daruge:** o livro diz que a Receita de Controle Especial tem no máximo três substâncias da lista C1 e cinco da lista C4, segundo a Portaria 344/1998 (cap. 12, p. 183), e que o dentista não pode prescrever antirretrovirais (cap. 12, p. 185). O texto do livro sobre emergência fala da receita de medicamento sujeito a Notificação de Receita, não da lista C1; está na seção da Notificação de Receita hoje."
+    },
+    {
+      "id": "portaria344-notificacao",
+      "titulo": "Notificação de Receita hoje (Portaria 344/1998): tipos, validade e limites",
+      "fonte": "portaria344-1998",
+      "onde": "art. 35, caput; art. 38; art. 40, caput; art. 41; art. 43, caput e § 1º; art. 45; art. 46, caput e § 1º; art. 50, caput",
+      "texto": "A Notificação de Receita é o documento que, acompanhado de receita, autoriza a dispensação de medicamentos das listas A1 e A2 (entorpecentes), A3, B1 e B2 (psicotrópicas) e C2 (retinoides de uso sistêmico) (art. 35, caput, na redação da RDC 1.000/2025). O dentista só prescreve para uso odontológico (art. 38). Texto da Portaria consolidado pela Anvisa.\n\n- **A, amarela (art. 40):** listas A1, A2 e A3; impressa em gráfica pelo profissional ou pela instituição cadastrados, no modelo do site da Anvisa. Vale 30 dias a contar da emissão, em todo o território nacional (art. 41). Até 5 ampolas; nas outras formas, quantidade para no máximo 30 dias de tratamento (art. 43).\n- **B, azul (art. 45):** impressa em gráfica, às expensas do profissional ou da instituição, no modelo do site da Anvisa. Vale 30 dias a contar da emissão, em todo o território nacional (redação da RDC 1.000/2025). Até 5 ampolas; nas outras formas, no máximo 60 dias de tratamento (art. 46).\n- **Especial, branca (art. 50):** retinoides de uso sistêmico (lista C2); vale 30 dias, em todo o território nacional. O artigo fala em impressão às expensas do \"médico prescritor\" ou da instituição a que ele se filia.\n- **Acima das quantidades:** justificativa com CID ou diagnóstico e posologia, datada e assinada, entregue ao paciente junto com a notificação (arts. 43, § 1º, e 46, § 1º).\n\n**Lado a lado com o Daruge (1ª ed., 2017), anterior à redação atual:**\n- Cores, validade de 30 dias de A e B, 5 ampolas e 30 ou 60 dias de tratamento: o livro e a Portaria dizem o mesmo (cap. 12, pp. 183–185).\n- Território da B: o livro diz que vale só no Estado que deu a numeração (cap. 12, p. 185); o art. 45 diz todo o território nacional.\n- Talonário A: o livro diz que é fornecido sem custo (cap. 12, p. 184); o art. 40 diz que o profissional ou a instituição o imprimem em gráfica.\n- Modelo da B: o livro diz que não há padronização de dimensões, só das informações (cap. 12, p. 184); os arts. 40 e 45 mandam seguir o modelo do site da Anvisa.\n- Especial branca: o livro diz que é de uso exclusivo da área médica e que o dentista não pode solicitá-la (cap. 12, p. 184); o art. 50 diz \"médico prescritor\".\n\nCada texto fica como está."
+    },
+    {
+      "id": "portaria344-notificacao-emergencia",
+      "titulo": "Notificação de Receita hoje (Portaria 344/1998): extravio e emergência",
+      "fonte": "portaria344-1998",
+      "onde": "art. 39; art. 36, §§ 2º e 4º",
+      "texto": "**Roubo, furto ou extravio (art. 39):** se parte ou todo o talonário da Notificação de Receita for roubado, furtado ou extraviado, o responsável informa de imediato a Autoridade Sanitária local, com o boletim de ocorrência policial.\n\n**Emergência (art. 36, § 2º):** em caso de emergência, a receita de medicamento sujeito a Notificação de Receita pode ser aviada em papel não oficial, desde que traga obrigatoriamente o diagnóstico ou CID, a justificativa do caráter emergencial do atendimento, a data, a inscrição no Conselho Regional e a assinatura identificada. O estabelecimento anota quem comprou e apresenta a receita à Autoridade Sanitária local em até 72 horas, para visto. Esse § 2º não vale para a Notificação de Receita eletrônica, que deve atender integralmente à RDC 1.000/2025 (§ 4º, incluído por ela).\n\n**Lado a lado com o Daruge (1ª ed., 2017):** sobre roubo, furto ou extravio, o livro diz o mesmo (cap. 12, pp. 183–184). Sobre emergência, o livro lista como obrigatórios a justificativa do caráter emergencial, a data, a inscrição no Conselho Regional e a assinatura identificada, sem citar diagnóstico ou CID (cap. 12, pp. 183–184); o art. 36, § 2º, inclui diagnóstico ou CID. Cada texto fica como está.\n\nA RDC 1.000/2025, que trata da emissão eletrônica, está nas seções seguintes."
+    },
+    {
+      "id": "rdc1000-eletronica",
+      "titulo": "Receituário eletrônico: o que a RDC 1.000/2025 estabelece",
+      "fonte": "rdc1000-2025",
+      "onde": "art. 1º; art. 2º, caput e parágrafo único; art. 3º, II, VII e VIII; arts. 4º a 12; art. 15; art. 27",
+      "texto": "A RDC 1.000, de 11 de dezembro de 2025, foi publicada no DOU de 15/12/2025. Ela fixa os requisitos de controle das Notificações de Receita, das Receitas de Controle Especial e das receitas sujeitas à retenção (as da RDC 471/2021, listadas em Instrução Normativa) quando emitidas em meio eletrônico (art. 1º e art. 3º, VI). Entra em vigor 60 dias depois da publicação (art. 27).\n\n**O que é receituário eletrônico (art. 2º, parágrafo único, e art. 3º, VII):** o elaborado e assinado originalmente em formato eletrônico. Documento feito em papel, com assinatura manual ou imagem da assinatura, não é receituário eletrônico, mesmo digitalizado; também não é o feito em papel, digitalizado e depois assinado eletronicamente.\n\n**Como se emite (arts. 4º a 8º, 11 e 12):** só em serviço de prescrição eletrônica integrado ao Sistema Nacional de Controle de Receituários (SNCR). A emissão é de responsabilidade exclusiva do prescritor; instituição ou terceiro não pode emitir em nome dele. Cada receituário leva a numeração individual do SNCR e segue o modelo do portal da Anvisa. A Notificação de Receita e a Receita de Controle Especial eletrônicas levam assinatura eletrônica qualificada (certificado ICP-Brasil) e só podem ser solicitadas e emitidas pelos prescritores que a Portaria 344/1998 e a Portaria 6/1999 preveem (art. 8º). A receita sujeita à retenção leva assinatura eletrônica avançada ou qualificada (art. 11). A data da assinatura é a data de emissão (art. 12).\n\n**Vias e receita:** a Notificação de Receita eletrônica não precisa vir acompanhada da receita do art. 35 da Portaria 344 (art. 9º). A Receita de Controle Especial e a receita sujeita à retenção eletrônicas não estão sujeitas à emissão em duas vias (art. 10). Cada receituário eletrônico é usado uma única vez, depois do registro de uso no SNCR (art. 15).\n\nLado a lado: o Daruge (2017) diz que a assinatura digital pode estar mais presente, em breve, em prescrições, atestados e prontuários (cap. 12, p. 188). A transição e o papel estão na seção seguinte."
+    },
+    {
+      "id": "rdc1000-papel-transicao",
+      "titulo": "RDC 1.000/2025: o papel e os prazos da transição",
+      "fonte": "rdc1000-2025",
+      "onde": "art. 16 (RDC 1.028/2026); art. 17; art. 18, caput e §§ 1º e 2º (RDC 1.046/2026); art. 19; art. 20; arts. 21 e 22; art. 25, I; art. 26",
+      "texto": "**Papel:** a resolução trata do meio eletrônico, mas os arts. 21 e 22 alteram a Portaria 344/1998 e a Portaria 6/1999 também em pontos do receituário em papel (ver as seções da Portaria 344). As Notificações de Receita impressas pela autoridade sanitária até a data de vigência da resolução podem ser distribuídas e usadas por prazo indeterminado (art. 19). O art. 25, I revoga os anexos IX, X, XI e XII da Portaria 344. O art. 20 diz que a resolução não afasta, no que couber, os demais requisitos da Portaria 344, da Portaria 6/1999, da RDC 11/2011, da RDC 471/2021 e da RDC 873/2024.\n\n**Prazos da transição:**\n- A Anvisa deve disponibilizar o SNCR para pedir numeração e registrar o uso dos receituários eletrônicos até 30 de setembro de 2026 (art. 16, na redação da RDC 1.028, de 1º/06/2026).\n- A Receita de Controle Especial e a receita sujeita à retenção podem ser emitidas eletronicamente sem a numeração do SNCR até 3 de março de 2027; os receituários assim emitidos podem ser aceitos nas farmácias durante o prazo de validade. A partir de 4 de março de 2027, eles têm de trazer a numeração do SNCR (art. 18, caput e §§ 1º e 2º, na redação da RDC 1.046, de 29/10/2026, publicada no DOU de 03/11/2026).\n\n**Descumprimento:** quem descumpre os requisitos para usar o SNCR tem o acesso do serviço de prescrição eletrônica suspenso de imediato (art. 17), e o descumprimento da resolução é infração sanitária (art. 26)."
+    },
+    {
+      "id": "rdc471-receita",
+      "titulo": "RDC 471/2021: receita sujeita à retenção, em duas vias, com retenção da 2ª via",
+      "fonte": "rdc471-2021",
+      "onde": "art. 1º; art. 4º, XIV; art. 6º, caput e parágrafo único; art. 7º; art. 8º; art. 9º, caput e § 1º; art. 10, caput e §§ 1º a 3º; art. 13; art. 26",
+      "texto": "A RDC 471/2021 da Anvisa dispõe sobre prescrição, dispensação, controle, embalagem e rotulagem dos medicamentos de uso sob prescrição e retenção da receita, que uma Instrução Normativa lista (art. 1º). A IN 360/2025 lista os antimicrobianos (seção seguinte). O texto abaixo é o consolidado, com a redação dada pela RDC 973/2025.\n\n**Receituário (art. 6º, caput):** a receita é feita em receituário privativo do prescritor ou do estabelecimento de saúde; não há modelo de receita específico.\n\n**Como preencher (art. 6º, parágrafo único):** de forma legível, sem rasuras, em 2 vias, com:\n- paciente: nome completo, idade e sexo;\n- medicamento ou substância pela Denominação Comum Brasileira, dose ou concentração, forma farmacêutica, posologia e quantidade (em algarismos arábicos);\n- emitente: nome com inscrição no Conselho Regional (ou nome da instituição), endereço completo, telefone, assinatura e marcação gráfica (carimbo);\n- data da emissão.\n\n**Retenção (art. 10):** a farmácia retém a 2ª via e devolve a 1ª ao paciente. O farmacêutico não pode aceitar receita depois do prazo de validade (§ 1º) nem receita ilegível ou com rasura (§ 2º). Na dispensação, registra nas duas vias a data, a quantidade aviada, o lote e a rubrica (§ 3º).\n\n**Validade e reuso:** o prazo de validade vem da Instrução Normativa (art. 7º; seção seguinte). A receita é aviada uma única vez (art. 13), salvo no tratamento prolongado, o de mais de 30 dias (art. 4º, XIV): ela pode ser usada para compras posteriores em até 90 dias da emissão, com indicação de uso contínuo e a quantidade para cada 30 dias (art. 9º).\n\n**Itens:** a receita pode trazer outros medicamentos, desde que não sejam de controle especial (art. 8º, caput), e não há limite de itens dos medicamentos abrangidos pela norma (art. 8º, parágrafo único).\n\n**Revogação (art. 26):** a RDC 471 revogou a RDC 20/2011, a RDC 68/2014 e a RDC 174/2017."
+    },
+    {
+      "id": "in360-antimicrobianos",
+      "titulo": "Receita de antimicrobiano: a lista e a validade de 10 dias (IN 360/2025)",
+      "fonte": "in360-2025",
+      "onde": "art. 1º, caput, § 1º e § 2º; art. 2º, § 1º; art. 4º",
+      "texto": "A Instrução Normativa 360/2025 da Anvisa é a que a RDC 471/2021 manda consultar para saber quais substâncias exigem retenção da receita e por quanto tempo a receita vale. Entrou em vigor 60 dias depois da publicação, de 24/04/2025 (art. 4º).\n\n**Lista (art. 1º, caput):** substâncias classificadas como antimicrobianos de uso sob prescrição, isoladas ou em associação. Na lista estão, por exemplo, amoxicilina, ácido clavulânico, azitromicina, clindamicina, cefalexina e metronidazol. A lista não se aplica aos antimicrobianos de uso exclusivo hospitalar (§ 1º).\n\n**Validade (art. 1º, § 2º):** a receita desses medicamentos é válida por 10 dias, a contar da data de sua emissão. A contagem começa na emissão; o texto não fala em data de cirurgia nem de outro procedimento. A mesma IN dá 90 dias à receita de outra lista, a dos agonistas do receptor de GLP-1 (art. 2º, § 1º), que não é de antimicrobianos.\n\n**Com a RDC 471/2021:** a receita é feita em 2 vias, a farmácia retém a 2ª e não aceita receita fora do prazo (seção da RDC 471).\n\n**Lado a lado com o Daruge (1ª ed., 2017):** no trecho em que trata da RDC nº 44/2010 e da RDC nº 20/2011 (esta, revogada pela RDC 471/2021, art. 26), o livro diz que o art. 6º \"dessa resolução\" fixa validade de 10 dias a contar da emissão e, para a profilaxia pré-operatória, recomenda emitir a receita com até 10 dias de antecedência do agendamento do procedimento cirúrgico (cap. 12, p. 183). A IN fixa os 10 dias a contar da emissão e não traz regra sobre o agendamento nem sobre a data do procedimento."
+    },
+    {
+      "id": "lei5081-art6",
+      "titulo": "Lei 5.081/1966, art. 6º: prescrever e atestar (incisos II e III)",
+      "fonte": "lei5081-1966",
+      "onde": "art. 1º; art. 6º, II e III (redação da Lei nº 6.215/1975)",
+      "texto": "A Lei nº 5.081, de 24 de agosto de 1966, regula o exercício da Odontologia (art. 1º). O art. 6º diz o que compete ao cirurgião-dentista. Dois incisos interessam à receita e ao atestado, em outras palavras:\n\n- **Inciso II:** prescrever e aplicar especialidades farmacêuticas de uso interno e externo, indicadas em Odontologia.\n- **Inciso III:** atestar, no setor de sua atividade profissional, estados mórbidos e outros. Na redação da Lei nº 6.215, de 1975, o inciso acrescenta \"inclusive, para justificação de faltas ao emprego\". A página do Planalto mostra as duas redações do inciso III, a original e a de 1975.\n\n**Datas:** a lei é de 24/08/1966 (publicada no DOU de 26/08/1966, retificada em 01/09/1966 e em 16/06/1977). A alteração do inciso III é da Lei nº 6.215, de 1975. No texto do Planalto, o art. 6º não traz outra nota de alteração.\n\n**Lado a lado nos livros:**\n- **Data da Lei 5.081:** o Vanrell a escreve como de 24.08.66 (cap. 21, p. 146 e nota 5, p. 151; cap. 30, p. 209) e como de 24.08.68 (cap. 19, p. 130; cap. 21, p. 149). O Daruge a escreve como de 24 de agosto de 1966 (cap. 8, p. 92; cap. 12, p. 180).\n- **Lei que alterou o inciso III:** o Vanrell escreve \"Lei Federal nº 26.215, de 30.06.75\" (cap. 19, p. 130) e \"Lei federal nº 6.215, de 30.06.75\" (cap. 21, p. 149); o Daruge, \"Lei nº 6.215, de 30 de junho de 1975\" (cap. 8, p. 92) e \"Lei Complementar nº 6.215/75\" (cap. 12, p. 180). No Planalto, é a Lei nº 6.215, de 1975.\n- **Onde está a alteração:** o Vanrell fala no \"item III do art. 62\" (cap. 19, p. 130; cap. 21, p. 149); na lei, é o art. 6º, III.\n- **Fim do atestado:** o Vanrell escreve \"justificação de faltas às tarefas habituais\" (cap. 19, p. 130) e \"justificativa de faltas às tarefas habituais\" (cap. 21, p. 149); o Daruge, \"justificar faltas ao emprego\" (cap. 8, p. 92). O inciso III diz \"faltas ao emprego\".\n\nCada livro fica como está."
+    },
+    {
+      "id": "cp-falsidade",
+      "titulo": "Código Penal, arts. 299, 301 e 302: o que a lei diz",
+      "fonte": "cp1940",
+      "onde": "art. 299, caput e parágrafo único; art. 301, caput e §§ 1º e 2º; art. 302, caput e parágrafo único",
+      "texto": "O Código Penal (Decreto-Lei nº 2.848/1940), no texto compilado do Planalto, traz três artigos sobre documento e atestado falsos, no capítulo da falsidade documental. Em outras palavras:\n\n- **Art. 299, falsidade ideológica:** deixar de registrar em documento, público ou particular, declaração que devia constar, ou registrar (ou fazer registrar) declaração falsa ou diversa da que devia ser escrita, para prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. Pena: reclusão de 1 a 5 anos e multa, se o documento é público; reclusão de 1 a 3 anos e multa, se é particular. A pena aumenta de sexta parte se o agente é funcionário público e age prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil (parágrafo único).\n- **Art. 301, certidão ou atestado ideologicamente falso:** atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que permita a alguém obter cargo público, isenção de ônus ou de serviço de caráter público, ou outra vantagem. Pena: detenção de 2 meses a 1 ano. O § 1º pune falsificar, no todo ou em parte, ou alterar o teor de atestado ou certidão verdadeiro para esse fim (detenção de 3 meses a 2 anos); o § 2º soma multa se há fim de lucro.\n- **Art. 302, falsidade de atestado médico:** o médico que, no exercício da profissão, dá atestado falso. Pena: detenção de 1 mês a 1 ano; também multa, se há fim de lucro (parágrafo único).\n\nO art. 302 fala em \"o médico\", e o art. 301 exige \"função pública\". Nenhum dos três artigos cita o cirurgião-dentista.\n\n**Lado a lado nos livros, sobre atestado falso de dentista:**\n- **Daruge:** o art. 302 só se aplica ao médico, e o dentista se enquadra no art. 299 (cap. 8, p. 93; cap. 12, p. 180). Os autores acrescentam que se pode sustentar que o dentista responda pelo art. 302, por analogia em favor dele (cap. 8, pp. 93–94).\n- **Vanrell:** quem fornece atestado odontológico falso pratica o crime do art. 301 ou 302; se a Odontologia não fosse considerada ciência médica, aplicar-se-ia o art. 299 (cap. 19, p. 130). No cap. 21, a falsidade ideológica do art. 299 aparece como a em que podem ser enquadrados os dentistas (p. 146), e o atestado falso, como art. 302 ou falsidade ideológica (p. 149).\n\nEste tema não diz qual artigo alcança o dentista: o texto da lei não o diz, e os livros divergem. Cada fonte fica como está."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quanto à procedência, como o Vanrell classifica os documentos odontolegais?",
+      "verso": "Oficial: de repartição oficial (Centro de Saúde, Instituto Médico-Legal) ou de profissional em cargo ou função pública. Oficioso: de dentista em consultório particular ou instituição, sem vínculo com cargo ou função pública.",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Classificação, pp. 128–129"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo o Vanrell, para onde vai a notificação de moléstia infectocontagiosa de notificação compulsória?",
+      "verso": "À Autoridade Sanitária, que é o Diretor do Centro de Saúde I da jurisdição. Em localidade com ao menos um Centro de Saúde, ele será o Centro de Saúde I.",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129"
+    },
+    {
+      "id": "f03",
+      "frente": "O que o Vanrell diz que o dentista pode atestar?",
+      "verso": "Só o que examinou ou verificou pessoalmente. O limite vale para atestar, certificar, testemunhar ou declarar, para qualquer fim.",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Atestado odontológico, pp. 129–130"
+    },
+    {
+      "id": "f04",
+      "frente": "Laudo ou auto, segundo o Vanrell?",
+      "verso": "São nomes do relatório. Laudo: o próprio perito escreve (exemplo: laudo de exame de corpo de delito). Auto: o perito dita ao escrivão (exemplo: ata de exumação).",
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Relatório, pp. 130–131"
+    },
+    {
+      "id": "f05",
+      "frente": "No cap. 21 do Vanrell, o que faz um atestado ser falso, e o que não faz?",
+      "verso": "Segundo o livro, a falsidade pode estar na inveracidade do que o atestado quer provar, isto é, na existência ou não da doença. O número de dias de afastamento diante de doença real, ou um equívoco de diagnóstico, não faz o atestado falso.",
+      "fonte": "vanrell3-cap21",
+      "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são os dois conceitos de mala praxis no cap. 22 do Vanrell?",
+      "verso": "Pela ciência odontológica: qualquer resultado adverso durante um ato odontológico, decorrente de ação ou omissão do dentista. Pelo Direito: o resultado adverso causado por imperícia, imprudência ou negligência.",
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, O que é erro em Odontologia?, pp. 152–153"
+    },
+    {
+      "id": "f07",
+      "frente": "Quais são os seis passos do Quadro 22.1 do Vanrell?",
+      "verso": "1) exame clínico e radiográfico; 2) erros de diagnóstico; 3) erros de planejamento; 4) erros de execução; 5) erros de prognóstico; 6) relatório à autoridade requerente ou ao magistrado.",
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, Quadro 22.1, pp. 153–154"
+    },
+    {
+      "id": "f08",
+      "frente": "Quais são as cinco partes do atestado, segundo o Daruge (cap. 8)?",
+      "verso": "1) identificação do profissional ou da entidade; 2) identificação do paciente; 3) finalidade; 4) fato ocorrido e consequências, com data e horário; 5) local, data da expedição, assinatura e carimbo.",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados; Elementos essenciais do atestado, pp. 92–93"
+    },
+    {
+      "id": "f09",
+      "frente": "Como o Daruge manda escrever o horário no atestado, e por quê?",
+      "verso": "Escreva o horário, em vez de \"manhã\", \"tarde\" ou \"noite\". O livro cita dentistas chamados a depor sobre fatos ocorridos com o paciente no momento atestado.",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados; Elementos essenciais do atestado, pp. 92–93"
+    },
+    {
+      "id": "f10",
+      "frente": "Quando o Daruge manda usar \"declaro\" em vez de \"atesto\"?",
+      "verso": "Na declaração de comparecimento do acompanhante: o acompanhante não passou por fato odontológico. O atestado começa por \"atesto\", a declaração por \"declaro\"; não se usam as duas no mesmo documento.",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Atestados: declaração de comparecimento do acompanhante, pp. 95–96"
+    },
+    {
+      "id": "f11",
+      "frente": "Na tabela de respostas aos quesitos do Daruge, qual a diferença entre \"aguardar\" e \"sem elementos\"?",
+      "verso": "Aguardar: não dá para responder agora, mas talvez dê no futuro ou depois de pesquisas e exames. Sem elementos: não dá para responder sim nem não, nem no futuro nem com pesquisas e exames.",
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Respostas aos quesitos, pp. 97–98"
+    },
+    {
+      "id": "f12",
+      "frente": "Que capítulo da CID-10 interessa ao dentista, segundo o Daruge, e como é o código?",
+      "verso": "O Capítulo XI (Doenças do Sistema Digestivo), em especial as doenças da cavidade oral, das glândulas salivares e dos maxilares. O código tem uma letra e números, com ponto antes do quarto caractere (exemplo do livro: K13.00, queilite angular).",
+      "fonte": "daruge1-cap13",
+      "onde": "cap. 13, Uso da Classificação Internacional de Doenças pelo cirurgião-dentista; Estrutura do código, pp. 203–204"
+    },
+    {
+      "id": "f13",
+      "frente": "Quais são os dados essenciais de uma receita no receituário próprio, segundo o Daruge?",
+      "verso": "Identificação do profissional; cabeçalho com nome do paciente e via de administração (uso interno ou externo); inscrição com fármaco, concentração e quantidade; orientação de uso; data e assinatura.",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Receita comum; Receituário próprio, pp. 182–183"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Daruge, o carimbo do dentista é prova de autenticidade de um atestado ou de uma receita?",
+      "verso": "Não. Para o livro, o carimbo não prova autenticidade; serve só para agilizar o trabalho, com nome, número do Conselho e especialidade em letra legível. Algumas instituições ainda o exigem.",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Carimbo, pp. 187–188"
+    },
+    {
+      "id": "f15",
+      "frente": "Quais são as cores da Notificação de Receita no Daruge (1ª ed., 2017), e a qual grupo corresponde cada uma?",
+      "verso": "A, amarela: entorpecentes. B, azul: psicotrópicos. A que o livro chama \"Especial\", branca: retinoides de uso sistêmico e imunossupressores. A branca é exclusiva da área médica.",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Notificação de Receita, p. 184"
+    },
+    {
+      "id": "f16",
+      "frente": "O que o art. 18, V e VI, do CFO-118/2012 diz que constitui infração ética?",
+      "verso": "V: servir-se de formulário de instituição pública para prescrever, encaminhar ou atestar o que foi verificado na clínica privada. VI: não emitir laudo de exames de imagem feitos em clínica de radiologia.",
+      "fonte": "cfo118",
+      "onde": "art. 18, V e VI, p. 8"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Um paciente chega ao consultório com uma moléstia infectocontagiosa de notificação compulsória. Não houve acidente de trabalho nem há suspeita de crime. Segundo o Vanrell, a quem vai a notificação?",
+      "alternativas": [
+        {
+          "texto": "Ao Conselho Tutelar da região, por escrito.",
+          "correta": false,
+          "justificativa": "O livro põe o Conselho Tutelar entre os destinos da notificação de crime de ação pública, como maus-tratos infantis. O enunciado diz que não há suspeita de crime.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129"
+        },
+        {
+          "texto": "À Autoridade Sanitária, que é o Diretor do Centro de Saúde I da jurisdição.",
+          "correta": true,
+          "justificativa": "É o destino que o livro dá à moléstia infectocontagiosa de notificação compulsória. Em localidade com ao menos um Centro de Saúde, ele será o Centro de Saúde I.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129"
+        },
+        {
+          "texto": "À Agência local do Instituto Previdenciário, por meio da CAT.",
+          "correta": false,
+          "justificativa": "A CAT (Comunicação de Acidente de Trabalho), em seis vias, é o documento do acidente de trabalho. O enunciado diz que não houve acidente.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129"
+        },
+        {
+          "texto": "À Autoridade Policial ou ao Ministério Público.",
+          "correta": false,
+          "justificativa": "São destinos que o livro dá à notificação de crime de ação pública. O enunciado exclui a suspeita de crime.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129"
+        }
+      ],
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Notificação ou comunicação compulsória, pp. 128–129",
+      "secao": "vanrell-notificacao",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um paciente pede que você ateste que ele foi atendido ontem por outro dentista, em outro consultório, e traz a receita do colega como prova. Segundo o Vanrell (cap. 19), o que você pode atestar?",
+      "alternativas": [
+        {
+          "texto": "O atendimento do colega, porque a receita comprova o fato.",
+          "correta": false,
+          "justificativa": "O livro só permite atestar, certificar, testemunhar ou declarar o que o dentista examinou ou verificou pessoalmente. A receita de outro profissional não muda esse limite.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Atestado odontológico, pp. 129–130"
+        },
+        {
+          "texto": "O atendimento do colega, desde que o atestado diga que a informação veio do paciente.",
+          "correta": false,
+          "justificativa": "O limite do livro vale para atestar, certificar, testemunhar ou declarar, para qualquer fim. O atendimento foi de outro dentista.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Atestado odontológico, pp. 129–130"
+        },
+        {
+          "texto": "Só o que você mesmo examinou ou verificou pessoalmente; o atendimento do colega não entra.",
+          "correta": true,
+          "justificativa": "É o limite que o livro dá: o dentista só atesta o que examinou ou verificou pessoalmente. O atendimento de ontem foi de outro profissional.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Atestado odontológico, pp. 129–130"
+        },
+        {
+          "texto": "O atendimento do colega, se o paciente assinar no campo \"De acordo\" do modelo.",
+          "correta": false,
+          "justificativa": "No modelo do livro, o campo \"De acordo\" é para a assinatura do paciente. Ele não amplia o que o dentista pode atestar, que fica no que ele mesmo examinou ou verificou.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Atestado odontológico, pp. 129–130"
+        }
+      ],
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Atestado odontológico, pp. 129–130",
+      "secao": "vanrell-atestado",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Um advogado, em nome de uma das partes de um processo, pede que você escreva sua opinião sobre um relatório odontolegal feito por outro perito. Você não examinará ninguém. Segundo o Vanrell, o documento que você vai produzir é:",
+      "alternativas": [
+        {
+          "texto": "Um parecer: resposta escrita a uma consulta, que pode ser juntada aos autos.",
+          "correta": true,
+          "justificativa": "Para o livro, parecer é a resposta escrita à consulta da parte ou do advogado, para interpretar dúvidas sobre um relatório odontolegal, e pode ser juntado aos autos.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Relatório; Parecer; Depoimento oral, pp. 130–131 e 135–137"
+        },
+        {
+          "texto": "Um laudo, porque quem escreve é você.",
+          "correta": false,
+          "justificativa": "O livro chama de laudo o relatório que o próprio perito escreve; o relatório exige compromisso prévio e certa formalidade. Aqui você responde, por escrito, a uma consulta do advogado e não faz perícia.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Relatório; Parecer; Depoimento oral, pp. 130–131 e 135–137"
+        },
+        {
+          "texto": "Um auto, porque o assunto vai ao processo.",
+          "correta": false,
+          "justificativa": "O auto é o relatório que o perito dita ao escrivão. Não é o caso: você escreve uma opinião a pedido do advogado.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Relatório; Parecer; Depoimento oral, pp. 130–131 e 135–137"
+        },
+        {
+          "texto": "Um depoimento oral, registrado por termo.",
+          "correta": false,
+          "justificativa": "O depoimento oral é a informação prestada de viva voz perante a autoridade, que a registra por termo. O enunciado fala em opinião escrita.",
+          "fonte": "vanrell3-cap19",
+          "onde": "cap. 19, Relatório; Parecer; Depoimento oral, pp. 130–131 e 135–137"
+        }
+      ],
+      "fonte": "vanrell3-cap19",
+      "onde": "cap. 19, Relatório; Parecer; Depoimento oral, pp. 130–131 e 135–137",
+      "secao": "vanrell-relatorio-parecer",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Você atestou dois dias de repouso para uma doença que o paciente de fato tinha. Numa perícia, alegam que um dia bastaria. Segundo o Vanrell (cap. 21), esse atestado é falso?",
+      "alternativas": [
+        {
+          "texto": "Sim, porque o tempo de repouso não corresponde ao que seria necessário.",
+          "correta": false,
+          "justificativa": "Para o livro, circunstâncias secundárias, como o tempo de afastamento diante de doença real, não constituem atestado falso.",
+          "fonte": "vanrell3-cap21",
+          "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150"
+        },
+        {
+          "texto": "Sim, porque faltou o diagnóstico escrito no atestado.",
+          "correta": false,
+          "justificativa": "Na lista do livro, o diagnóstico entra no atestado quando o paciente autoriza. O que o livro aponta como falsidade é a inveracidade sobre a existência da doença, e aqui a doença era real.",
+          "fonte": "vanrell3-cap21",
+          "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150"
+        },
+        {
+          "texto": "Sim, porque o dentista não pode fixar o tempo de repouso.",
+          "correta": false,
+          "justificativa": "O tempo de repouso concedido está entre os itens que o livro lista para o atestado.",
+          "fonte": "vanrell3-cap21",
+          "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150"
+        },
+        {
+          "texto": "Não: a falsidade pode estar em atestar doença que existe ou não, e dias a mais com doença real são circunstância secundária.",
+          "correta": true,
+          "justificativa": "É o que o livro diz: a falsidade pode estar na existência ou não da doença; o tempo de afastamento, diante de doença real, não faz o atestado falso.",
+          "fonte": "vanrell3-cap21",
+          "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150"
+        }
+      ],
+      "fonte": "vanrell3-cap21",
+      "onde": "cap. 21, Considerações sobre os atestados, pp. 149–150",
+      "secao": "vanrell-atestado-pericia",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Um perito analisa um caso em que o dentista firmou o diagnóstico sem pedir a radiografia, recurso indispensável naquele quadro. No Quadro 22.1 do Vanrell (cap. 22), como o perito classifica o erro?",
+      "alternativas": [
+        {
+          "texto": "Erro de planejamento, por ação.",
+          "correta": false,
+          "justificativa": "No quadro, erro de planejamento por ação é planejar errado ou recomendar tratamento sem medir as consequências. O enunciado fala do momento do diagnóstico.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Quadro 22.1, 3º passo, p. 154"
+        },
+        {
+          "texto": "Erro de diagnóstico, por omissão.",
+          "correta": true,
+          "justificativa": "No quadro, o erro de diagnóstico por omissão é deixar de usar um recurso indispensável, como raios X ou isolamento absoluto.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Quadro 22.1, 2º passo, p. 154"
+        },
+        {
+          "texto": "Erro de execução, por omissão.",
+          "correta": false,
+          "justificativa": "No quadro, erro de execução por omissão é deixar de tratar quando é imprescindível, ou faltar conselho ou orientação. Aqui o recurso omitido era para o diagnóstico.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Quadro 22.1, 4º passo, p. 154"
+        },
+        {
+          "texto": "Erro de prognóstico, por ação.",
+          "correta": false,
+          "justificativa": "No quadro, erro de prognóstico por ação é avaliar mal a evolução ou pedir exames sem se importar com os resultados. Aqui o exame não foi pedido.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Quadro 22.1, 5º passo, p. 154"
+        }
+      ],
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, Como caracterizar a culpa; Quadro 22.1, pp. 153–154",
+      "secao": "vanrell-erro-passos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Um paciente tem reação idiossincrática a um fármaco que você prescreveu de forma correta e oportuna, com as regras da ciência odontológica atual. A reação não podia ser prevista. Segundo o Vanrell (cap. 22), como o livro trata esse fato?",
+      "alternativas": [
+        {
+          "texto": "Como imperícia, porque o resultado adverso veio de uma ação do dentista.",
+          "correta": false,
+          "justificativa": "Juridicamente, o fato só vira mala praxis quando fica comprovado que o dentista agiu com imperícia, imprudência ou negligência. O enunciado diz que a prescrição foi correta e oportuna.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Critério meramente odontológico; Critério jurídico, pp. 152–153"
+        },
+        {
+          "texto": "Como mala praxis, porque tudo o que acontece ao paciente por obra do dentista é mala praxis.",
+          "correta": false,
+          "justificativa": "O livro diz que essa leitura, ampla e difusa, nem sempre é verdadeira.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Critério meramente odontológico; Critério jurídico, pp. 152–153"
+        },
+        {
+          "texto": "Como fato escusável, que muitos autores não consideram erro profissional, por depender de acidente imprevisível.",
+          "correta": true,
+          "justificativa": "O livro lista a reação idiossincrática a fármacos entre os fatos que dependem de acidente imprevisível, escusáveis quando o dentista usou correta e oportunamente os conhecimentos e as regras atuais.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Critério meramente odontológico; Critério jurídico, pp. 152–153"
+        },
+        {
+          "texto": "Como mala praxis nos dois critérios, o odontológico e o jurídico, porque houve resultado adverso depois do ato.",
+          "correta": false,
+          "justificativa": "No critério jurídico, o fato só vira mala praxis com imperícia, imprudência ou negligência comprovadas, e o enunciado diz que a prescrição foi correta e oportuna. No critério odontológico, o livro trata a reação idiossincrática como fato escusável, desde que o profissional tenha usado correta e oportunamente as regras da ciência atual.",
+          "fonte": "vanrell3-cap22",
+          "onde": "cap. 22, Critério meramente odontológico; Critério jurídico, pp. 152–153"
+        }
+      ],
+      "fonte": "vanrell3-cap22",
+      "onde": "cap. 22, Critério meramente odontológico; Critério jurídico, pp. 152–153",
+      "secao": "vanrell-erro-conceito",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Você atende em consultório particular e também numa unidade pública. Para prescrever a um paciente do consultório, usa o receituário da unidade pública, preenchido e assinado por você, com letra legível e seu número do CRO. Segundo o art. 18 do CFO-118/2012, essa conduta:",
+      "alternativas": [
+        {
+          "texto": "Não é infração, porque o receituário está legível e com seu número do CRO.",
+          "correta": false,
+          "justificativa": "Legibilidade e identificação não afastam a infração: o inciso V trata de outra conduta, o uso de formulário de instituição pública para fato da clínica privada.",
+          "fonte": "cfo118",
+          "onde": "art. 18, V, p. 8"
+        },
+        {
+          "texto": "Só é infração se o receituário estiver assinado em branco.",
+          "correta": false,
+          "justificativa": "O inciso V não depende de o receituário estar em branco: o enunciado diz que você o preencheu, e a infração é o uso do formulário público para fato da clínica privada.",
+          "fonte": "cfo118",
+          "onde": "art. 18, V, p. 8"
+        },
+        {
+          "texto": "Não é infração, porque o código só trata de atestado e não de receita.",
+          "correta": false,
+          "justificativa": "O inciso V cita prescrever, encaminhar e atestar.",
+          "fonte": "cfo118",
+          "onde": "art. 18, V, p. 8"
+        },
+        {
+          "texto": "Constitui infração ética: o inciso V trata do uso de formulário de instituição pública para fato verificado na clínica privada.",
+          "correta": true,
+          "justificativa": "É o inciso V do art. 18: é infração servir-se de formulário de instituição pública para prescrever, encaminhar ou atestar o que foi verificado na clínica privada.",
+          "fonte": "cfo118",
+          "onde": "art. 18, V, p. 8"
+        }
+      ],
+      "fonte": "cfo118",
+      "onde": "art. 18, V, p. 8",
+      "secao": "cfo118-documentos",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Num laudo, um quesito pergunta se a paciente recuperará a função mastigatória. A pergunta se aplica ao caso e está bem formulada, mas hoje o perito não consegue responder; um exame que será feito depois pode permitir a resposta. Pela tabela de respostas aos quesitos do Daruge (cap. 8), qual é a resposta do caso?",
+      "alternativas": [
+        {
+          "texto": "Aguardar.",
+          "correta": true,
+          "justificativa": "Na tabela, \"aguardar\" é a resposta quando não dá para responder agora, mas talvez dê no futuro ou depois de pesquisas e exames.",
+          "fonte": "daruge1-cap08",
+          "onde": "cap. 8, Respostas aos quesitos, pp. 97–98"
+        },
+        {
+          "texto": "Sem elementos.",
+          "correta": false,
+          "justificativa": "Na tabela, \"sem elementos\" é para o caso em que não dá para responder sim nem não, nem no futuro nem com pesquisas e exames. Aqui um exame posterior pode permitir a resposta.",
+          "fonte": "daruge1-cap08",
+          "onde": "cap. 8, Respostas aos quesitos, pp. 97–98"
+        },
+        {
+          "texto": "Prejudicado.",
+          "correta": false,
+          "justificativa": "Na tabela, \"prejudicado\" é para a pergunta que não cabe no caso ou traz afirmação errada. O enunciado diz que a pergunta se aplica e está bem formulada.",
+          "fonte": "daruge1-cap08",
+          "onde": "cap. 8, Respostas aos quesitos, pp. 97–98"
+        },
+        {
+          "texto": "Especificada.",
+          "correta": false,
+          "justificativa": "Na tabela, \"especificada\" é para a pergunta que não pede resposta lógica de sim ou não, como uma idade ou uma cor. A pergunta do caso é de sim ou não.",
+          "fonte": "daruge1-cap08",
+          "onde": "cap. 8, Respostas aos quesitos, pp. 97–98"
+        }
+      ],
+      "fonte": "daruge1-cap08",
+      "onde": "cap. 8, Respostas aos quesitos, pp. 97–98",
+      "secao": "daruge8-relatorio",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Um paciente internado em hospital precisa de medicamento de controle especial, e o dentista da equipe vai prescrevê-lo. Segundo o Daruge (1ª ed., 2017, cap. 12), o que vale para a Notificação de Receita?",
+      "alternativas": [
+        {
+          "texto": "É exigida a Notificação \"A\", amarela, em qualquer paciente.",
+          "correta": false,
+          "justificativa": "O livro diz que a notificação não é exigida para paciente internado em estabelecimento hospitalar, público ou privado.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Notificação de Receita, p. 184"
+        },
+        {
+          "texto": "Não é exigida; a dispensação é por receita ou documento equivalente (a prescrição diária), em papel próprio do estabelecimento.",
+          "correta": true,
+          "justificativa": "É o que o livro diz para o paciente internado em estabelecimento hospitalar, público ou privado.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Notificação de Receita, p. 184"
+        },
+        {
+          "texto": "É exigida a Notificação branca, que o dentista pode solicitar.",
+          "correta": false,
+          "justificativa": "No livro, a branca é de uso exclusivo da área médica, e o dentista não pode solicitá-la. Além disso, para internado a notificação não é exigida.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Notificação de Receita, p. 184"
+        },
+        {
+          "texto": "É exigida a Notificação \"B\", azul, porque o dentista pode firmá-la.",
+          "correta": false,
+          "justificativa": "O livro diz que a azul pode ser firmada por dentista, mas que, em estabelecimento hospitalar, a notificação não é exigida para o paciente internado.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Notificação de Receita, p. 184"
+        }
+      ],
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Notificação de Receita, p. 184",
+      "secao": "daruge12-notificacao-receita",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo o Daruge (1ª ed., 2017, cap. 12), como a Receita de Controle Especial é preenchida, e o que o livro recomenda em acréscimo?",
+      "alternativas": [
+        {
+          "texto": "Em três vias obrigatórias, a terceira para o prontuário.",
+          "correta": false,
+          "justificativa": "O livro diz que a terceira via não é obrigatória; ele a recomenda como prática clínica defensiva.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Receita de controle especial, pp. 183–185"
+        },
+        {
+          "texto": "Em duas vias, ambas retidas pela farmácia, porque o paciente não precisa de orientação escrita.",
+          "correta": false,
+          "justificativa": "A 2ª via traz o dizer \"orientação ao paciente\"; só a 1ª via fica retida pela farmácia ou drogaria.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Receita de controle especial, p. 185"
+        },
+        {
+          "texto": "Em duas vias (a 1ª retida pela farmácia e a 2ª de orientação ao paciente); como prática clínica defensiva, o livro recomenda uma terceira via, assinada pelo paciente, para o prontuário.",
+          "correta": true,
+          "justificativa": "É o que o livro diz: duas vias com os dizeres \"retenção da farmácia ou drogaria\" e \"orientação ao paciente\", e a terceira via recomendada, não obrigatória, para o prontuário.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Receita de controle especial, pp. 183–185"
+        },
+        {
+          "texto": "Em uma única via, que fica com a farmácia.",
+          "correta": false,
+          "justificativa": "A receita é preenchida em duas vias, cada uma com seu dizer em destaque, e a 2ª orienta o paciente.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Receita de controle especial, p. 185"
+        }
+      ],
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Receita de controle especial, pp. 183–185",
+      "secao": "daruge12-controle-especial",
+      "figura": null
+    },
+    {
+      "id": "q11",
+      "enunciado": "Você emite hoje uma receita de amoxicilina para um paciente que fará uma extração na semana que vem. Segundo a IN 360/2025 da Anvisa, por quanto tempo essa receita vale?",
+      "alternativas": [
+        {
+          "texto": "10 dias, a contar da data da extração.",
+          "correta": false,
+          "justificativa": "A IN conta o prazo a partir da data de emissão da receita; o texto não fala em data de cirurgia nem de outro procedimento.",
+          "fonte": "in360-2025",
+          "onde": "art. 1º, § 2º"
+        },
+        {
+          "texto": "10 dias, a contar da data de emissão.",
+          "correta": true,
+          "justificativa": "O art. 1º, § 2º diz que a receita dos medicamentos à base das substâncias da lista, entre elas a amoxicilina, é válida por 10 dias, a contar da data de sua emissão.",
+          "fonte": "in360-2025",
+          "onde": "art. 1º, caput e § 2º"
+        },
+        {
+          "texto": "30 dias, a contar da data de emissão.",
+          "correta": false,
+          "justificativa": "A IN fixa 10 dias para a receita dos medicamentos da lista de antimicrobianos, e não 30.",
+          "fonte": "in360-2025",
+          "onde": "art. 1º, § 2º"
+        },
+        {
+          "texto": "90 dias, a contar da data de emissão.",
+          "correta": false,
+          "justificativa": "Os 90 dias são o prazo que a mesma IN dá à receita dos agonistas de GLP-1 (art. 2º, § 1º), outra lista; não valem para antimicrobianos.",
+          "fonte": "in360-2025",
+          "onde": "art. 2º, § 1º"
+        }
+      ],
+      "fonte": "in360-2025",
+      "onde": "art. 1º, caput e § 2º; art. 2º, § 1º",
+      "secao": "in360-antimicrobianos",
+      "figura": null
+    }
+  ]
+}

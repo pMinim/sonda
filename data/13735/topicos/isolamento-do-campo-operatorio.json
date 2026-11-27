@@ -1,0 +1,630 @@
+{
+  "slug": "isolamento-do-campo-operatorio",
+  "titulo": "Isolamento do campo operatório: absoluto e relativo, grampos e colocação do dique",
+  "area": "Dentística",
+  "origem": "Baratieri, Vol. 1, cap. 4 (pp. 71–96); Mondelli, 1ª ed., cap. 4 (pp. 37–50, numeração do contador)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "baratieri-v1-cap04",
+      "ref": "Baratieri LN, et al. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed. São Paulo: Santos; 2010 (7ª reimpressão, 2018). Cap. 4, Isolamento do campo operatório, p. 71–96 (numeração impressa).",
+      "curta": "Baratieri, Vol. 1, cap. 4"
+    },
+    {
+      "id": "mondelli1-cap04",
+      "ref": "Mondelli J, Mondelli AL, Mondelli RFL. Dentística Operatória e Restauradora. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2026. Cap. 4, Isolamento do Campo Operatório, p. 37–50 (numeração do contador da edição digital).",
+      "curta": "Mondelli 1ª ed., cap. 4"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "b-conceito",
+      "titulo": "O que é isolar e quando usar o dique (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72",
+      "texto": "Segundo o Baratieri, isolar o campo operatório é **obter e manter um campo limpo, seco e com acesso adequado**. Campo limpo, seco e com acesso são, segundo o livro, aspectos essenciais ao sucesso de qualquer procedimento clínico. Com **dique (lençol) de borracha** o isolamento é **absoluto**; sem dique, **relativo**.\n\n**O que o dique dá, segundo o livro:**\n- controle da contaminação e da umidade, de que depende o desempenho dos materiais restauradores;\n- mais visibilidade e acesso, o que ajuda o preparo com instrumento rotatório a remover menos estrutura sadia;\n- proteção do paciente contra deglutição ou aspiração acidental de objetos e resíduos, e contra lesão acidental de tecido mole;\n- proteção do operador contra infecções da cavidade bucal;\n- menos tempo clínico, porque o paciente não fala nem expectora.\n\nO livro recomenda o absoluto sempre que possível.\n\n**Situações em que o livro recomenda o dique:**\n1. remoção de tecido cariado, em especial em cavidade profunda;\n2. remoção de restauração insatisfatória;\n3. todo procedimento com amálgama, para reduzir a aspiração ou a deglutição de mercúrio;\n4. todo procedimento adesivo, direto ou indireto, porque ausência de contaminação e controle da umidade são críticos para a adesão;\n5. quando o acesso depende do afastamento gengival feito por grampos retratores;\n6. paciente com necessidades especiais ou dificuldade motora, para reduzir o risco de aspirar ou engolir instrumentos e objetos.\n\n**Contraindicações, segundo o livro:**\n- asma ou dificuldade respiratória, porque o dique impede a respiração bucal;\n- dente com erupção incompleta, porque pode ser difícil ou impossível invaginar a borracha;\n- alergia ao látex (o livro lembra que é possível usar dique livre de látex).\n\n**Veja também:** a contaminação e a adesão estão no tema Restauração direta em resina composta em posteriores; o isolamento com grampo retrator na Classe V, no tema Lesões cervicais não cariosas: diagnóstico e conduta."
+    },
+    {
+      "id": "b-instrumentos",
+      "titulo": "Lençol, arco de Young, perfurador e pinça (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85; segmento anterior, p. 92",
+      "texto": "Segundo o Baratieri, deixe tudo à mão antes de começar: faltar o modelo de grampo certo no meio do procedimento atrapalha. O livro descreve quatro itens.\n\n**Lençol de borracha (dique):** folha impermeável, de espessuras variadas. Os **mais espessos** resistem mais e dão melhor afastamento gengival e melhor vedamento entre a borracha e o dente. A cor deve contrastar com os dentes, por exemplo verde ou azul. Para paciente alérgico há lençol **livre de látex, de vinil**.\n\n**Arco de Young:** U metálico que estica e prende o lençol. Pequenas garras na haste mantêm o dique sob leve tensão. A curvatura da região central mostra como usar: a **parte côncava fica voltada para o lençol**.\n\n**Perfurador:** faz um orifício para cada dente isolado. O mais usado é o de **Ainsworth**, com parte giratória de **cinco orifícios de diâmetros diferentes**. O maior é reservado ao dente que recebe o grampo. Depois, segundo o livro: o 2º para molares, o 3º para pré-molares e caninos, o 4º para incisivos superiores e o 5º, o menor, para incisivos inferiores. Fure com movimentos firmes, para não dilacerar a borracha.\n\n**Pinça porta-grampos:** apreende e abre o grampo para posicioná-lo no dente e, no fim, apreende e retira o grampo. As pontas ativas precisam prender o grampo com firmeza e soltá-lo com facilidade.\n\n**Atenção:** sem grampo (segmento anterior), os orifícios dos dois extremos não levam o maior diâmetro do perfurador. Veja a seção do segmento anterior."
+    },
+    {
+      "id": "b-auxiliares",
+      "titulo": "Lubrificante, caneta, fio dental e outros materiais (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78",
+      "texto": "Segundo o Baratieri, além do lençol e dos instrumentos, separe estes materiais.\n\n- **Lubrificante hidrossolúvel:** vai na face interna do dique, sobre as perfurações, para facilitar a passagem pelos pontos de contato. Tem de ser hidrossolúvel, para sair por completo antes do procedimento restaurador. O livro aceita o creme de barbear (fácil de aplicar e removido com spray de ar e água). **A vaselina é \"totalmente contraindicada\"**: não é hidrossolúvel, age como contaminante e pode prejudicar as interações adesivas.\n- **Caneta:** marca onde o dique será perfurado, uma marca por dente. As mais eficientes são as de **ponta úmida**, que marcam mesmo com contato leve ou pela lateral da ponta. Marque com o dique já assentado sobre os dentes, dentro da boca. A esferográfica não é indicada: a marca depende da pressão da ponta e falha em angulação acentuada.\n- **Fio dental:** antes do isolamento, avalia a pressão dos contatos proximais. Contato excessivamente justo é ajustado antes de instalar o dique. Também acusa bordos cortantes e excesso de material em restauração deficiente ou cárie proximal. Se o fio **rompe ou desfia**, ajuste a superfície proximal antes de colocar o dique, para não rasgar o lençol. O ajuste vai de leve desgaste com tira de lixa até a remoção total do material em restauração proximal deficiente. O fio ainda ajuda a passar o lençol pelas regiões interproximais, a invaginar nos sulcos e a fazer amarrias. Fio de boa qualidade, com superfície encerada, facilita.\n- **Tiras de lixa:** ajustam as superfícies proximais para o lençol passar.\n- **Espátula de ponta romba:** ajuda a invaginar o dique e a instalar amarrias.\n- **Tesoura:** essencial na remoção do isolamento absoluto: corta o lençol e facilita a retirada.\n\n**Para comparar:** o Mondelli (cap. 4, pp. 40–42) cita a caneta esferográfica na marcação do lençol."
+    },
+    {
+      "id": "b-grampos",
+      "titulo": "Grampos: série, escolha e asas (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85; Inserção simultânea do grampo e do dique, p. 90",
+      "texto": "Segundo o Baratieri, a **função primária do grampo é manter e estabilizar o lençol**. Ele também pode retrair a gengiva. Use o modelo que serve ao dente e à situação.\n\n**Série mais usada em dentística restauradora:**\n- **200 a 205:** molares;\n- **206 a 209:** pré-molares;\n- **210 e 211:** incisivos e caninos.\n\n**Também muito usados:** o **W8A** e o **26**, ambos para dentes posteriores, sobretudo de **coroa curta ou expulsiva**, em que o grampo convencional é bem difícil de usar. O **26 pode ser a primeira escolha para molares, ao menos quando o grampo é posicionado antes do dique**. Na p. 85 o livro repete: o 26, sem asas laterais, é o mais utilizado quando se opta por colocar o grampo antes do lençol.\n\n**Para retrair a gengiva:** o **212** e as variantes **212L** e **212R**, úteis quando é preciso retrair dois dentes contíguos ao mesmo tempo. Às vezes é preciso modificar a curvatura das garras para obter mais retração de uma face sem traumatizar o periodonto da face oposta. Para **mais retração na face vestibular**, curve a garra vestibular para apical e a lingual ou palatina para incisal; para mais retração na outra face, faz-se o contrário.\n\n**Com asas e sem asas:** são dois grandes grupos, e a diferença importa para a técnica. A **inserção simultânea do grampo e do dique exige grampo com asas laterais** (o livro usa o 200 nas fotos).\n\n**O que o capítulo não traz:** tabela de grampo por dente além dessa série numérica.\n\n**Para comparar:** o Mondelli (cap. 4, Grampos, pp. 37–39) traz a mesma série numérica e indica o 26, sem asas, para molares, em especial inferiores com pouca retenção. Também cita o 14A e imobiliza o 212 com godiva. Veja a seção dele sobre grampos."
+    },
+    {
+      "id": "b-posterior-1",
+      "titulo": "Segmento posterior: marcar, furar e adaptar o grampo (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 82–85",
+      "texto": "O livro demonstra com uma lesão oclusal no primeiro molar inferior esquerdo. Segundo o Baratieri, os fundamentos se repetem de um caso para outro, embora cada situação possa pedir adaptações.\n\n**Grampo:** evite adaptá-lo no dente a restaurar, para facilitar o preparo e a restauração. No exemplo, o grampo vai no **segundo molar**.\n\n**Passos:**\n1. Prenda o dique no arco de Young, levemente esticado nas garras.\n2. Leve o conjunto à boca e pressione o dique contra os dentes até os contornos aparecerem através da borracha.\n3. Marque cada dente com a **caneta de ponta úmida**. O lençol precisa ficar estável da primeira à última marca, porque as marcas definem onde se fura e a distância entre os orifícios. O ideal, segundo o livro, é começar pelo **último dente do hemiarco** (aqui o segundo molar) e seguir para a linha média.\n4. Confira as marcas: devem ir do segundo molar ao canino do hemiarco oposto. O livro diz que estender o isolamento até o hemiarco oposto parece desnecessário à primeira vista, mas melhora muito o acesso e a visualização, e o considera altamente indicado.\n5. **Fure**, um orifício por dente (os cinco orifícios estão na seção dos instrumentos).\n6. Antes de colocar o lençol, **confira os contatos com fio dental** e ajuste com tira de lixa o que for necessário.\n7. Posicione o grampo escolhido de forma estável sobre o dente, com cuidado para não comprimir a gengiva sem querer.\n\n**Para comparar:** o exemplo do livro isola do segundo molar ao canino oposto para restaurar o primeiro molar, ou seja, com um só dente a distal dele. O Mondelli (cap. 4, pp. 40–42) dá como regra geral ao menos dois dentes a distal, se o caso permitir."
+    },
+    {
+      "id": "b-posterior-2",
+      "titulo": "Segmento posterior: passar o lençol, estabilizar e invaginar (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89",
+      "texto": "Com o grampo no segundo molar, siga assim, segundo o Baratieri.\n\n1. **Lubrifique** levemente a face interna do dique com agente hidrossolúvel. O creme de barbear é, nas palavras do livro, \"perfeito para esse fim\".\n2. Leve o conjunto arco e lençol à posição e, com **leve tensão** da borracha, passe o dique sobre o grampo. Faça com cuidado, para minimizar o risco de ruptura do lençol.\n3. **Estabilize o dente mais anterior** do isolamento (no exemplo, o canino direito): calce entre o canino e o lençol um pedaço do próprio dique, ou faça uma amarria com fio dental. Com os dois extremos estabilizados, os orifícios assumem a posição sobre cada dente, se a marcação foi cuidadosa.\n4. **Passe o lençol pelos contatos** com leve tensão. Resistência é normal, mesmo com contatos ajustados com lixa; o fio dental é imprescindível. Posicione o fio **sobre o dente** e deslize-o para a região proximal, levando **um lado do festão de borracha de cada vez**. Com o fio no centro do festão, a passagem fica bem mais difícil e o risco de rasgar é maior. Se o lençol rasgar nas áreas interproximais, é preciso reiniciar desde a marcação dos pontos de perfuração.\n5. **Invagine** o dique no sulco gengival para melhorar o vedamento: aperte o fio dental ao redor do dente, tensionando para cervical, e use ao mesmo tempo a espátula de ponta romba na face oposta. Repita em todos os dentes."
+    },
+    {
+      "id": "b-remocao",
+      "titulo": "Remover o dique e inserir grampo e dique juntos (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Remoção do isolamento absoluto; Inserção simultânea do grampo e do dique, p. 90",
+      "texto": "**Remoção, segundo o Baratieri:** retire o grampo, corte o lençol com a tesoura nos espaços interdentais e estire a borracha para tirá-la. Depois, **confira se o dique saiu inteiro**. Um rasgo pode indicar que ficou um pedaço de borracha preso entre os dentes, que ainda precisa ser retirado.\n\n**Alternativa: inserção simultânea do grampo e do dique.** Precisa de grampo **com asas laterais**, como o 200 das fotos do livro.\n1. Adapte o grampo ao lençol pelas asas, que ficam cobertas pela borracha.\n2. Leve dique, arco e grampo juntos aos dentes a isolar, segurando o grampo com a pinça porta-grampos.\n3. Com o grampo em posição, coloque a espátula de ponta romba sob a parte do lençol que ainda cobre as asas laterais e desloque o lençol para baixo das asas.\n4. Para garantir a boa adaptação do lençol na região cervical do dente, pode ser preciso usar fio dental.\n5. Adapte e invagine os demais dentes conforme o protocolo já descrito.\n\n**Para comparar:** na remoção, o Mondelli (cap. 4, pp. 44–50) estira a borracha do lado vestibular e secciona os septos, depois remove o grampo e, em seguida, o porta-dique e a borracha; o Baratieri tira o grampo primeiro."
+    },
+    {
+      "id": "b-anterior",
+      "titulo": "Segmento anterior: sem grampo e com amarrias (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95",
+      "texto": "Segundo o Baratieri, o princípio é o mesmo do posterior, com **duas diferenças**.\n\n1. Pela estética, muitas vezes convém **conduzir o preparo sob isolamento relativo**, para reduzir a desidratação do dente e a mudança de cor que a acompanha, e passar ao absoluto só com o preparo concluído. A vantagem principal é permitir o **ensaio restaurador**, aplicando o compósito escolhido direto sobre o dente.\n2. Na maioria dos casos o dique nos anteriores dispensa o grampo, **salvo quando é preciso retrair a gengiva**.\n\n**Sequência:** avalie a pressão dos contatos e a regularidade das superfícies proximais; contato muito justo ou irregularidade que atrapalhe a passagem se ajusta com tira de lixa interproximal. Adapte o lençol ao arco e marque os orifícios com caneta de ponta úmida. Fure: como não há grampo, **os orifícios dos dois extremos não levam o maior diâmetro** do perfurador. Leve o conjunto aos dentes, passe os festões pelos contatos com fio dental e invagine o dique na região cervical.\n\n**Estabilizar sem grampo:** amarrias de fio dental nos dois extremos. Podem ser feitas fora da boca, com nós corrediços. Já no dente, ao apertar o nó, empurre o fio para cervical com a espátula romba, do lado oposto. Corte o fio rente ao nó, para não atrapalhar o campo. Alternativas: cunhas de madeira, fios de borracha especiais ou, preferência dos autores, pequenas secções do próprio dique, recortadas de um canto do lençol e enroladas entre os dedos. O livro diz que todas funcionam bem se bem empregadas e que a escolha é do profissional.\n\n**Quando o grampo volta:** os grampos podem ser necessários em certas situações, e cada caso se avalia. No exemplo do livro, se houvesse diastemas entre os caninos e os pré-molares, nenhuma das alternativas estabilizaria bem o lençol.\n\n**Para comparar:** o Mondelli (cap. 4, pp. 37–39) indica o grampo para todos os casos, em especial coroa clínica curta e retração gengival, e o dispensa em coroa alta."
+    },
+    {
+      "id": "b-relativo",
+      "titulo": "Isolamento relativo e como escolher entre os dois (Baratieri)",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento relativo do campo operatório, pp. 79–80; Isolamento absoluto e isolamento relativo, p. 81",
+      "texto": "Segundo o Baratieri, \"absoluto\" e \"relativo\" sugerem que o dique é sempre vantajoso, mas isso **não é necessariamente verdade**.\n\n**Quando o relativo cabe:**\n- no **exame clínico** (isolar a arcada toma tempo e limita a visão da região dentogengival);\n- em procedimento **rápido e simples**, como a aplicação tópica de flúor;\n- quando o lençol atrapalha, porque ver o complexo dentogengival importa para o resultado estético.\n\nBem indicado e feito com diligência, o relativo é compatível com trabalho de alta qualidade. Se ele **não isolar de fato** o campo, está contraindicado: passe ao absoluto.\n\n**Materiais do relativo:**\n- **sugadores:** mantêm o campo seco e poupam tempo. Há os descartáveis convencionais e modelos metálicos de menor calibre, como os da endodontia, úteis em restauração adesiva para aspirar a água acumulada dentro da cavidade;\n- **afastadores labiais:** imprescindíveis; retraem lábios e bochechas. Os laterais servem à região posterior; os verticais, à anterior;\n- **compressas de gaze:** na região anterior ficam sobre a língua, ajudam a controlar a umidade e protegem o paciente de deglutir ou aspirar resíduos;\n- **roletes de algodão:** de alto poder de absorção; posicione na saída das glândulas salivares e no fundo de sulco vestibular;\n- **fios retratores:** retraem a gengiva e barram o fluido crevicular. Nem todo caso se beneficia; não os use indiscriminadamente.\n\n**Absoluto ou relativo?** O absoluto leva poucos minutos nas mãos de quem é treinado e economiza tempo clínico. O relativo depende muito da colaboração do paciente e exige vigilância constante; em procedimento de média e longa duração, manter condição ideal é virtualmente impossível em certas regiões. O livro manda **priorizar o absoluto**: restaurações adesivas em dentes posteriores devem \"sempre\" ser feitas sob isolamento absoluto, porque há alto risco de contaminação por saliva e nenhuma vantagem real no relativo. No exemplo de dente anterior que ele mostra, o relativo mantém o campo sob controle.\n\n**Para comparar:** o Mondelli (cap. 4, pp. 37–39) diz que o absoluto deve sempre ser empregado e só se dispensa em total impraticabilidade."
+    },
+    {
+      "id": "m-absoluto",
+      "titulo": "Dique, lençol, porta-dique, perfurador e pinça (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Isolamento absoluto (dique de borracha); Pinça porta-grampo, pp. 37–42",
+      "texto": "Segundo o Mondelli, todo material restaurador exige campo **isolado, seco e limpo** antes de ser inserido ou condensado. O isolamento pode ser **absoluto ou relativo**.\n\n**Dique de borracha:** o livro o chama de único meio de campo totalmente livre de umidade e diz que **deve sempre ser empregado**, sendo preterido apenas em total impraticabilidade. O livro lista: afasta e protege os tecidos moles e dá acesso; melhora a visão; deixa o campo em condição de receber e condensar o material; **protege o paciente contra aspirar ou engolir** instrumentos, restos de material e outros corpos estranhos.\n\n**Lençol:** látex natural, em várias cores e espessuras de **0,15 a 0,35 mm**. A borracha espessa resiste ao rompimento e dá o máximo de vedamento, afastamento e proteção dos tecidos moles. O lençol escuro (preto) era o tradicionalmente indicado, por contrastar com o dente e refletir menos luz. Há também verde, azul, rosa e a cor natural do látex, conforme a preferência do operador. Vem em rolo ou já cortado em quadrado.\n\n**Porta-dique:** o mais usado é o **arco de Young** (U com pinos metálicos que prendem a borracha sob tensão). O de Ostby é de plástico, em arco fechado, com projeções pontiagudas por todos os lados.\n\n**Perfurador:** precisa de número suficiente de furos de diâmetros variados e de **bordas cortantes bem afiadas e uniformes**. Se o furo não corta, fica uma rodela de borracha presa ao lençol; ao sair, ela pode rasgá-lo, e a vedação se perde com passagem de saliva junto ao colo do dente. O mais difundido é o de Ainsworth, de plataforma giratória com geralmente cinco orifícios de diâmetros variados, cada um para um grupo de dentes.\n\n**Pinça porta-grampo:** um dos tipos mais eficientes é o de Palmer. Todo porta-grampo deve ter mola entre os cabos e alça corrediça para manter o grampo distendido entre as pontas enquanto é adaptado. Alguns modelos, de intermediário longo e curvo, soltam mal o grampo em dente posterior inclinado para mesial: tenha uma pinça útil para todos os casos."
+    },
+    {
+      "id": "m-grampos",
+      "titulo": "Grampos (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Grampos, pp. 37–39",
+      "texto": "Segundo o Mondelli, o grampo mantém o lençol estável junto aos dentes e é **indicado para todos os casos**, em especial com **coroa clínica curta** e quando é preciso **retrair a gengiva**. Em coroa mais alta, que segura a borracha em posição, pode ser dispensado ou trocado por amarrias de fio dental ou elásticos ortodônticos.\n\n**Série clássica:** 200 a 205 (molares); 206 a 209 (pré-molares); 210 e 211 (anteriores).\n\n**Grampos que servem a muitos dentes:** o **W8A** e o **14A** (de Schultz) servem, com pequenas adaptações, para quase todos os posteriores. O W8A não tem asas laterais; o 14A tem.\n\n**Nº 212, de Ferrier:** indicado para retração gengival, por exemplo para ver e instrumentar lesão de Classe V. Às vezes precisa ser modificado: curve a garra lingual para incisal e a vestibular para apical, aquecendo as garras ao rubro. Esse grampo é imobilizado com **godiva**: o texto do livro manda fazê-lo sempre, e a legenda da Fig. 4.4D diz \"sempre que possível\". Para a godiva aderir melhor, aplique **verniz cavitário** antes, nos dentes e nas alças do grampo. Para ganhar acesso, ou para trabalhar em dois dentes ao mesmo tempo, pode-se remover a alça de um dos lados, além das garras de preensão.\n\n**Nº 26, sem asas:** indicado para molares, em especial inferiores com pouca retenção, e para as técnicas de colocação que usam grampo sem projeções laterais.\n\n**Posição:** o grampo de dente posterior vai na **perfuração mais distal** do lençol.\n\n**O que o capítulo não traz:** tabela de grampo por dente além dessa série numérica.\n\n**Para comparar:** o Baratieri (cap. 4, p. 76) diz que o 26 pode ser a primeira escolha para molares quando o grampo é posicionado antes do dique. Nos anteriores, o Baratieri (cap. 4, p. 92) diz que na maioria dos casos o dique dispensa o grampo, salvo quando é preciso retrair a gengiva."
+    },
+    {
+      "id": "m-extensao",
+      "titulo": "Quantos dentes isolar, posição dos orifícios e marcação (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Preparação do lençol; Posição do orifício; Métodos de perfuração, pp. 40–42",
+      "texto": "**Extensão, segundo o Mondelli:** na clínica restauradora, vale incluir o maior número possível de dentes. Para **dente posterior**, inclua pelo menos **dois dentes distais** ao que será tratado, quando o caso permitir, e vá **para mesial até o canino do lado oposto**. Para **dentes anteriores**: de **pré-molar a pré-molar** do lado oposto. Se só um dente foi preparado, pode-se isolar menos, desde que isso não atrapalhe o acesso para a instrumentação, a inserção do material e o contorno da restauração.\n\n**Posição dos orifícios:** em geral, a distância entre eles é a distância entre os **eixos longitudinais** dos dentes, seguindo a disposição do arco. O que muda essa relação: tamanho dos dentes (maiores, orifícios mais espaçados); contorno (ovoides e cônicos pedem mais espaço que quadrangulares); altura da papila interdental (papila mais baixa, distância menor); espaços entre dentes ou falta de dente; dente mal posicionado (o orifício segue a posição de cada dente); posição da cavidade.\n\nQuando a cavidade é de **Classe V subgengival vestibular** e se usa grampo cervical para retrair, desloque o orifício do dente envolvido cerca de **2,0 mm para vestibular**, para sobrar borracha para invaginar e retrair. Nos anteriores inferiores, os orifícios ficam um pouco mais espaçados que os eixos, para dar mais borracha para invaginar e vedar.\n\n**Marcação:** o livro descreve vários métodos para marcar o lençol. Um deles é a marcação na boca: com a borracha presa ao arco, marque com caneta esferográfica a posição dos dentes e depois perfure. O Baratieri (cap. 4, p. 78) não indica a esferográfica e usa a de ponta úmida.\n\n**Para comparar:** o exemplo do Baratieri (cap. 4, pp. 82–85) isola do segundo molar ao canino oposto para restaurar o primeiro molar, com um só dente a distal."
+    },
+    {
+      "id": "m-colocacao",
+      "titulo": "Preparar os dentes e escolher a técnica de colocação (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Preparo dos dentes, pp. 40–42; Técnicas de colocação, pp. 42–44",
+      "texto": "**Preparo dos dentes, segundo o Mondelli:**\n- passe fio dental por toda a área dos pontos de contato; se o fio dilacerar, a borracha interproximal vai romper;\n- regularize cristas marginais e contatos com tira de lixa fina, depois da separação mecânica; tiras de aço também servem e muitas vezes evitam a separação prévia;\n- se o dente a preparar tem contato cortante por cárie, defina a forma de contorno da caixa proximal **antes** do dique, cuidando da extensão gengival do preparo para eliminar o contato com o dente vizinho, que dificultaria a passagem da borracha;\n- faça limpeza e polimento da coroa e lubrifique os lábios.\n\n**Quatro técnicas de colocação:**\n1. **grampo, depois a borracha, depois o porta-dique;**\n2. **técnica de Ingraham:** grampo sem asas com a borracha e, a seguir, o porta-dique;\n3. **conjunto borracha e arco, depois o grampo;**\n4. **conjunto grampo, arco e borracha de uma vez.**\n\nAs duas primeiras exigem **grampo sem asas ou projeções laterais** (como os grampos 26, 28 ou W8A), porque a borracha é passada por cima dele já adaptado ao dente. Servem para isolar um hemiarco em dentística e quando há dificuldade com o conjunto grampo, borracha e porta-dique. A **terceira** é bastante usada em endodontia e para dentes isolados. A **quarta é a mais usada em dentística**; serve à região anterior e à posterior, em geral, é de execução fácil e dispensa grampo especial.\n\n**Escolha:** depende do caso e da preferência. O trabalho a quatro mãos facilita e agiliza qualquer técnica."
+    },
+    {
+      "id": "m-sequencia",
+      "titulo": "Sequência de colocação e amarrias (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Sequência de colocação; Confecção de amarrias, pp. 42–44",
+      "texto": "O Mondelli descreve a técnica 4 como uma das mais simples e aplicável à maioria dos casos. O exemplo é a intervenção no hemiarco inferior direito.\n\n1. Experimente os grampos da série 200 a 205 no 2º molar inferior direito e fique com o que melhor se adapta.\n2. Teste com fio dental os contatos dos dentes incluídos, do 2º molar inferior direito ao canino inferior esquerdo, eliminando arestas cortantes.\n3. Com a borracha presa ao porta-dique e posicionada na boca, marque os dentes a isolar.\n4. Fure com o perfurador de Ainsworth, no diâmetro de cada dente.\n5. Prenda o grampo pelas asas laterais na perfuração mais distal. Aplique lubrificante específico ou creme de barbear na face interna da borracha, na região dos furos. Com as pontas do porta-grampo nos orifícios do grampo, distenda o conjunto e leve-o à posição.\n6. Coloque com cuidado: deslize primeiro a garra lingual sobre o esmalte até uma posição estável e depois estabilize a garra vestibular. Retire o porta-grampo e, com instrumento rombo, passe a borracha por baixo das asas.\n7. Passe a borracha pelo dente do extremo oposto (aqui, o canino inferior esquerdo) e depois pelos demais, estirando a borracha entre os orifícios, uma porção por vez. Se não deslizar, movimente-a de vestibular para lingual, com pressão em direção à gengiva.\n8. Se falhar, use fio dental, forçado contra as faces mesial ou distal e **nunca em direção apical**, porque pode ferir a gengiva. O sugador de saliva entra pelo lado livre da boca, por trás do dique, ou por uma perfuração na borracha na região lingual.\n9. **Lave toda a área isolada** para eliminar o creme de barbear ou o lubrificante. Se ficar, a borracha não se estabiliza e fica difícil invaginá-la.\n10. **Invagine** a borracha nas áreas gengivais, em todos os dentes, com instrumento adequado e jatos de ar, para evitar a passagem de saliva, principalmente em intervenção prolongada.\n\n**Amarrias:** se a coroa é curta ou muito expulsiva e a borracha não invagina, passe fio dental pelos espaços interdentais de cada dente, dê um nó cirúrgico por vestibular sem apertar demais, leve o fio abaixo da borda gengival com instrumento rombo, aperte o nó e feche com um nó simples."
+    },
+    {
+      "id": "m-remocao",
+      "titulo": "Remoção, prótese fixa e casos especiais (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Remoção do dique; Isolamento absoluto sobre prótese parcial fixa; Tipos especiais de isolamento absoluto, pp. 44–50",
+      "texto": "**Remoção, segundo o Mondelli:** estire a borracha do lado vestibular e seccione com tesoura as porções interdentais. Remova o grampo e, em seguida, o porta-dique e a borracha. Passe o fio dental por todos os contatos para eliminar pedaço de borracha remanescente. Massageie a gengiva com a ponta dos dedos para reativar a circulação, principalmente onde o grampo apoiou.\n\n**Prótese parcial fixa ou elementos esplintados:** como a borracha não passa pelos pontos de contato, a técnica muda. O livro mostra em manequim, com prótese de três elementos:\n- **sem furo no pôntico:** a borracha é fixada sob os pontos de contato com agulha de sutura e fio dental, com nó cirúrgico por vestibular e nó simples;\n- **com furo no pôntico:** repete-se a passagem da agulha com fio, usando o orifício do pôntico;\n- **modificação que o livro diz simplificar as duas:** recortar a área do pôntico, fundindo em um só os dois furos vizinhos do lado lingual, e colar a aleta de borracha à base com cianoacrilato ou cola própria para borracha.\n\n**Tipos especiais:** o campo deve englobar o maior número possível de dentes, mas um **dente único** pode ser isolado em procedimento endodôntico ou restauração de Classe I. Outra exceção: restauração de Classe II em molares de paciente jovem, em que às vezes se prefere isolar só molares e pré-molares, porque dentes anteriores pouco irrompidos não prendem bem a borracha.\n\n**Grandes aberturas no lençol:** sugeridas para controlar o fluxo salivar por quadrante ou por segmento, por exemplo em cimentações adesivas e restaurações de várias cavidades contíguas. Na técnica de Wyse (1971), cortam-se os septos de borracha entre os orifícios da área. O livro registra a **restrição**: controla o fluxo salivar, não a umidade. Hoje pode ser associada a cianoacrilato, rolos de algodão e almofada absorvente adesiva.\n\n**Para comparar:** na remoção, o Baratieri (cap. 4, p. 90) retira o grampo primeiro, corta o lençol com a tesoura e só então estira a borracha."
+    },
+    {
+      "id": "m-relativo",
+      "titulo": "Isolamento relativo e substâncias sialopressoras (Mondelli)",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Isolamento relativo; Substâncias sialopressoras, pp. 44–50",
+      "texto": "**Isolamento relativo, segundo o Mondelli:** pode ser usado em restaurações provisórias ou quando o absoluto é totalmente impraticável. Usam-se rolos de algodão, guardanapos ou gazes. No arco superior, o material se mantém pela pressão da musculatura das bochechas e do lábio. No arco inferior, com dispositivos próprios (o livro mostra o autômato de Eggler, entre outros). Como complemento, ejetores de saliva, ligados ou não ao equipo, retiram por sucção a saliva acumulada.\n\n**Para comparar:** o Baratieri (cap. 4, pp. 79–81) lista outras situações em que o relativo cabe: exame clínico, procedimento rápido e simples e necessidade de ver o complexo dentogengival por estética.\n\n**Substâncias sialopressoras:** o livro as apresenta como complemento do isolamento absoluto e do relativo. Atuam no sistema parassimpático e diminuem o fluxo salivar. Os exemplos são derivados da atropina e da escopolamina, em pequenas doses, com bloqueio temporário do fluxo.\n- **Efeitos colaterais citados:** taquicardia, inibição da secreção gástrica, retenção urinária, dilatação da pupila e dificuldade de acomodação, menos suor e aumento da pressão intraocular. Se ocorrerem, a substância deve ser suprimida.\n- **Fluxo salivar intenso:** o livro aconselha dar 30 minutos antes do atendimento.\n- **Contraindicação:** portadores de **glaucoma**, porque aumentam a pressão intraocular.\n\n**Atenção:** o capítulo não dá dose."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Baratieri, o que é isolamento absoluto e o que é relativo?",
+      "verso": "Absoluto é o isolamento com dique (lençol) de borracha. Relativo é o que não envolve o dique. Os dois visam obter e manter campo limpo, seco e com acesso adequado.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72"
+    },
+    {
+      "id": "f02",
+      "frente": "Quais são as contraindicações do isolamento absoluto listadas pelo Baratieri?",
+      "verso": "Asma ou dificuldade respiratória (o dique impede a respiração bucal); dente com erupção incompleta (difícil invaginar a borracha); alergia ao látex (há dique livre de látex, de vinil).",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72; Instrumentos e materiais, p. 74"
+    },
+    {
+      "id": "f03",
+      "frente": "No perfurador de Ainsworth, para qual dente é o maior orifício? E o menor?",
+      "verso": "O maior é do dente que recebe o grampo. O quinto e menor é para incisivos inferiores. Entre eles: 2º para molares, 3º para pré-molares e caninos, 4º para incisivos superiores (Baratieri).",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo, perfuração do lençol, pp. 84–85"
+    },
+    {
+      "id": "f04",
+      "frente": "Qual a série de grampos que o Baratieri cita como mais usada?",
+      "verso": "200 a 205 para molares; 206 a 209 para pré-molares; 210 e 211 para incisivos e caninos. Também muito usados: W8A e 26 (posteriores de coroa curta ou expulsiva); 212 para retrair a gengiva.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Grampos, p. 76"
+    },
+    {
+      "id": "f05",
+      "frente": "Por que importa se o grampo tem ou não asas laterais (Baratieri)?",
+      "verso": "A inserção simultânea do grampo e do dique exige grampo com asas laterais, que prendem o grampo ao lençol. O 26 é sem asas e é usado quando o grampo vai antes do dique.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85; Inserção simultânea do grampo e do dique, p. 90"
+    },
+    {
+      "id": "f06",
+      "frente": "Qual lubrificante o Baratieri manda usar no dique, e qual ele contraindica?",
+      "verso": "Hidrossolúvel, como o creme de barbear (removido com spray de ar e água). A vaselina é totalmente contraindicada: não é hidrossolúvel e age como contaminante, podendo prejudicar a adesão.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78"
+    },
+    {
+      "id": "f07",
+      "frente": "Segundo o Baratieri, em qual dente se adapta o grampo no exemplo do primeiro molar inferior com lesão, e por quê?",
+      "verso": "No segundo molar. Evita-se adaptar o grampo no dente a restaurar, para facilitar o preparo e a restauração.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 82–85"
+    },
+    {
+      "id": "f08",
+      "frente": "Como passar o dique pelo contato interproximal sem rasgar (Baratieri)?",
+      "verso": "Posicione o fio dental sobre o dente e deslize-o para proximal, levando um lado do festão de borracha de cada vez. Com o fio no centro do festão a passagem é mais difícil e o risco de rasgar é maior.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89"
+    },
+    {
+      "id": "f09",
+      "frente": "Quando o Baratieri aceita o isolamento relativo, e o que ele diz das restaurações adesivas posteriores?",
+      "verso": "Aceita no exame clínico, em procedimento rápido e simples (como flúor tópico) e quando é preciso ver o complexo dentogengival por estética. Restaurações adesivas em dentes posteriores devem ser feitas sob isolamento absoluto.",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento relativo do campo operatório, pp. 79–80; Isolamento absoluto e isolamento relativo, p. 81"
+    },
+    {
+      "id": "f10",
+      "frente": "No isolamento do segmento anterior sem grampo, o que muda no perfurador e como se estabiliza o lençol (Baratieri)?",
+      "verso": "Os orifícios dos dois extremos não levam o maior diâmetro. Estabiliza-se com amarrias de fio dental nos extremos, ou com cunha de madeira, fio de borracha ou pequena secção do próprio dique (a preferência dos autores).",
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95"
+    },
+    {
+      "id": "f11",
+      "frente": "Qual a espessura do lençol de látex que o Mondelli cita?",
+      "verso": "De 0,15 a 0,35 mm. A borracha espessa resiste ao rompimento e dá o máximo de vedamento, afastamento e proteção dos tecidos moles.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Isolamento absoluto (dique de borracha), pp. 37–39"
+    },
+    {
+      "id": "f12",
+      "frente": "Quantos dentes isolar para restaurar um posterior, segundo o Mondelli?",
+      "verso": "Regra geral: no mínimo dois dentes a distal do que será tratado (se o caso permitir) e os demais para mesial até o canino do hemiarco oposto. Em anteriores, de pré-molar a pré-molar.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Preparação do lençol, pp. 40–42"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual das quatro técnicas de colocação do dique o Mondelli diz ser a mais usada em dentística?",
+      "verso": "A quarta: conjunto grampo, arco e borracha colocado de uma vez, pela facilidade operacional e por não precisar de grampos especiais.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Técnicas de colocação, pp. 42–44"
+    },
+    {
+      "id": "f14",
+      "frente": "Segundo o Mondelli, o que se usa para imobilizar o grampo 212 depois de modificado, e o que se aplica antes?",
+      "verso": "Godiva, com verniz cavitário aplicado antes nos dentes e nas alças do grampo. A modificação é curvar a garra lingual para incisal e a vestibular para apical.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Grampos, pp. 37–39"
+    },
+    {
+      "id": "f15",
+      "frente": "Qual o cuidado do Mondelli ao posicionar o orifício do dente com Classe V subgengival vestibular?",
+      "verso": "Quando se usa grampo cervical para retrair, desloca-se o orifício do dente envolvido cerca de 2,0 mm para vestibular, para dar borracha suficiente para invaginar e retrair.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Posição do orifício, pp. 40–42"
+    },
+    {
+      "id": "f16",
+      "frente": "Ao remover o dique, o que o Mondelli manda fazer depois de retirar a borracha?",
+      "verso": "Passar fio dental por todos os contatos, para eliminar pedaço de borracha remanescente, e massagear a gengiva com a ponta dos dedos, principalmente onde o grampo apoiou.",
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Remoção do dique, pp. 44–50"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Segundo o Baratieri, qual destes pacientes tem uma contraindicação ao isolamento absoluto?",
+      "alternativas": [
+        {
+          "texto": "Paciente que fará remoção de restauração insatisfatória.",
+          "correta": false,
+          "justificativa": "O livro lista a remoção de restauração insatisfatória entre as situações em que o dique é recomendado.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72"
+        },
+        {
+          "texto": "Paciente com necessidades especiais e dificuldade motora, com risco de engolir instrumentos.",
+          "correta": false,
+          "justificativa": "O livro lista paciente com necessidades especiais ou dificuldade motora entre as indicações do dique, para reduzir a possibilidade de aspiração ou deglutição de instrumentos e objetos.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72"
+        },
+        {
+          "texto": "Paciente com asma e dificuldade respiratória.",
+          "correta": true,
+          "justificativa": "O livro lista asma ou dificuldade respiratória entre as contraindicações do absoluto, porque o dique impede a respiração bucal.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72"
+        },
+        {
+          "texto": "Paciente que fará restauração de amálgama.",
+          "correta": false,
+          "justificativa": "O livro recomenda o dique em todos os procedimentos com amálgama, para reduzir a aspiração ou a deglutição de mercúrio.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento absoluto do campo operatório, p. 72",
+      "secao": "b-conceito",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "O aluno vai isolar do 2º molar inferior ao canino oposto, com o grampo no 2º molar e a restauração no 1º molar. Segundo o Baratieri, quais orifícios do perfurador de Ainsworth ele usa nesses dois dentes?",
+      "alternativas": [
+        {
+          "texto": "O maior orifício no 2º molar (grampo) e o segundo orifício no 1º molar.",
+          "correta": true,
+          "justificativa": "O livro reserva o maior orifício ao dente que recebe o grampo e indica o segundo orifício para molares.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85"
+        },
+        {
+          "texto": "O segundo orifício nos dois molares.",
+          "correta": false,
+          "justificativa": "O maior orifício é reservado ao dente que recebe o grampo; o segundo, para molares. O 2º molar do enunciado é o dente do grampo.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85"
+        },
+        {
+          "texto": "O maior orifício no 1º molar a restaurar e o segundo no 2º molar do grampo.",
+          "correta": false,
+          "justificativa": "O livro reserva o maior orifício ao dente que recebe o grampo, e este é o 2º molar do enunciado, não o 1º molar a restaurar.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85"
+        },
+        {
+          "texto": "O terceiro orifício nos dois molares.",
+          "correta": false,
+          "justificativa": "O terceiro orifício é indicado, no livro, para pré-molares e caninos, não para molares.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Instrumentos e materiais, p. 74; Passo a passo, perfuração do lençol, pp. 84–85",
+      "secao": "b-instrumentos",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Molar inferior de coroa curta e expulsiva, sem necessidade de retrair a gengiva. O aluno vai posicionar o grampo antes de levar o dique. Segundo o Baratieri, qual grampo pode ser a primeira escolha?",
+      "alternativas": [
+        {
+          "texto": "O 212, que retrai a gengiva.",
+          "correta": false,
+          "justificativa": "O livro indica o 212 e suas variantes quando é necessário retrair os tecidos gengivais, o que o enunciado exclui.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85"
+        },
+        {
+          "texto": "O 206, da série dos pré-molares.",
+          "correta": false,
+          "justificativa": "O livro coloca a série 206 a 209 nos pré-molares; o dente do enunciado é molar.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85"
+        },
+        {
+          "texto": "O 210, da série dos incisivos e caninos.",
+          "correta": false,
+          "justificativa": "O livro coloca o 210 e o 211 nos incisivos e caninos; o dente do enunciado é molar.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85"
+        },
+        {
+          "texto": "O 26, sem asas laterais.",
+          "correta": true,
+          "justificativa": "O livro diz que o 26 pode ser a primeira escolha para molares, ao menos quando o grampo é posicionado antes do dique, e o recomenda para posteriores de coroa curta ou expulsiva.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Grampos, p. 76; Passo a passo, p. 85",
+      "secao": "b-grampos",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Antes de levar o lençol ao grampo, o aluno quer lubrificar a face interna do dique para facilitar a passagem pelos contatos. Há vaselina e creme de barbear na bancada. Segundo o Baratieri, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Usar a vaselina, que lubrifica melhor e sai com spray de ar e água.",
+          "correta": false,
+          "justificativa": "O livro diz que a vaselina é totalmente contraindicada: não é hidrossolúvel e age como contaminante, podendo prejudicar as interações adesivas.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78; Passo a passo, p. 86"
+        },
+        {
+          "texto": "Usar o creme de barbear, que o livro aceita como lubrificante e que sai com spray de ar e água.",
+          "correta": true,
+          "justificativa": "O livro pede lubrificante hidrossolúvel, para ser removido por completo antes do procedimento restaurador, e cita o creme de barbear como alternativa, removido com spray de ar e água.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78; Passo a passo, p. 86"
+        },
+        {
+          "texto": "Não lubrificar, porque qualquer lubrificante contamina e o fio dental basta.",
+          "correta": false,
+          "justificativa": "O livro manda lubrificar levemente a face interna do dique com agente hidrossolúvel antes de passá-lo pelo grampo e pelos contatos; o fio dental entra na passagem pelos contatos, não no lugar do lubrificante.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78; Passo a passo, p. 86"
+        },
+        {
+          "texto": "Passar o lubrificante na face externa do dique, voltada para o operador.",
+          "correta": false,
+          "justificativa": "O livro manda aplicar o lubrificante na face interna do dique, diretamente sobre as perfurações.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78; Passo a passo, p. 86"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Lubrificante, caneta, fio dental, tiras de lixa, espátula, tesoura, p. 78; Passo a passo, p. 86",
+      "secao": "b-auxiliares",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Na passagem do lençol pelo contato entre dois molares, o aluno pressiona o fio dental no centro do festão de borracha e o lençol resiste. Segundo o Baratieri, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Insistir com mais pressão no centro do festão, porque a resistência indica contato justo.",
+          "correta": false,
+          "justificativa": "O livro diz que, com o fio pressionado sobre o festão, a passagem fica mais difícil e o risco de ruptura do lençol é maior.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89"
+        },
+        {
+          "texto": "Dispensar o fio dental e passar o lençol só com os dedos.",
+          "correta": false,
+          "justificativa": "O livro diz que o fio (ou fita) dental é imprescindível para permitir a passagem do lençol pelos contatos.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89"
+        },
+        {
+          "texto": "Posicionar o fio sobre o dente e deslizá-lo para a região proximal, levando um lado do festão de cada vez.",
+          "correta": true,
+          "justificativa": "É a manobra descrita pelo livro, para agilizar o isolamento e minimizar o risco de ruptura do lençol nas áreas interproximais.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89"
+        },
+        {
+          "texto": "Desistir do dique e trocar por roletes de algodão.",
+          "correta": false,
+          "justificativa": "O livro trata a resistência como normal, mesmo com os contatos ajustados, e dá o fio dental como solução; só o rompimento do lençol obriga a reiniciar o isolamento desde a marcação.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento posterior, pp. 86–89",
+      "secao": "b-posterior-2",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "O aluno vai restaurar a face proximal de um incisivo central superior e isolar de canino a canino, sem necessidade de retrair a gengiva e sem diastemas. Segundo o Baratieri, como estabilizar o lençol?",
+      "alternativas": [
+        {
+          "texto": "Com grampo 212 nos dois caninos, para retrair a gengiva.",
+          "correta": false,
+          "justificativa": "O livro diz que, na maioria dos casos, o dique nos anteriores dispensa o grampo, salvo quando é preciso retrair a gengiva, o que o enunciado exclui.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95"
+        },
+        {
+          "texto": "Furando os orifícios dos extremos com o maior diâmetro do perfurador, para o lençol assentar sem grampo.",
+          "correta": false,
+          "justificativa": "O livro diz que, sem grampos, os orifícios dos dois extremos não devem ser feitos com o maior diâmetro do perfurador.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95"
+        },
+        {
+          "texto": "Deixando os extremos sem estabilização, porque os orifícios assumem a posição sozinhos.",
+          "correta": false,
+          "justificativa": "No segmento anterior sem grampo, o livro estabiliza o lençol com amarrias nos dois extremos (ou com as alternativas que lista); os extremos não ficam sem estabilização.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95"
+        },
+        {
+          "texto": "Com amarrias de fio dental nos dois extremos, ou com pequena secção do próprio dique.",
+          "correta": true,
+          "justificativa": "O livro descreve as amarrias de fio dental como forma extremamente prática de estabilizar o dique sem grampos nesse isolamento de canino a canino, e cita a secção do próprio dique como a preferência dos autores.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Passo a passo: isolamento absoluto no segmento anterior, pp. 92–95",
+      "secao": "b-anterior",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente colaborador vai receber restauração adesiva em molar, procedimento de duração média a longa. O aluno quer usar roletes de algodão e sugador no lugar do dique. Segundo o Baratieri, qual a orientação?",
+      "alternativas": [
+        {
+          "texto": "Os roletes bem posicionados na saída das glândulas salivares dão o mesmo controle do dique, se o paciente colabora.",
+          "correta": false,
+          "justificativa": "O livro diz que o relativo depende muito da colaboração e exige vigilância constante, e que em procedimento de média e longa duração obter e manter condições ideais pode ser virtualmente impossível.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento relativo do campo operatório, p. 79; Isolamento absoluto e isolamento relativo, p. 81"
+        },
+        {
+          "texto": "Fazer a restauração sob isolamento absoluto.",
+          "correta": true,
+          "justificativa": "O livro diz que restaurações adesivas em dentes posteriores devem ser feitas sob isolamento absoluto: há alto risco de contaminação por saliva e nenhuma vantagem real no relativo.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento relativo do campo operatório, p. 79; Isolamento absoluto e isolamento relativo, p. 81"
+        },
+        {
+          "texto": "Usar o relativo com fios retratores em todos os dentes, que barram o fluido crevicular.",
+          "correta": false,
+          "justificativa": "O livro diz que nem todas as situações se beneficiam de fios retratores e que não faz sentido usá-los indiscriminadamente; e o isolamento de escolha na restauração adesiva é o absoluto.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento relativo do campo operatório, p. 79; Isolamento absoluto e isolamento relativo, p. 81"
+        },
+        {
+          "texto": "Preparar sob isolamento relativo e passar ao absoluto só ao final.",
+          "correta": false,
+          "justificativa": "O livro limita o relativo a situações como a do dente anterior ilustrado; para restauração adesiva em dente posterior, manda isolamento absoluto.",
+          "fonte": "baratieri-v1-cap04",
+          "onde": "cap. 4, Isolamento relativo do campo operatório, p. 79; Isolamento absoluto e isolamento relativo, p. 81"
+        }
+      ],
+      "fonte": "baratieri-v1-cap04",
+      "onde": "cap. 4, Isolamento relativo do campo operatório, p. 79; Isolamento absoluto e isolamento relativo, p. 81",
+      "secao": "b-relativo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "O aluno vai preparar vários dentes da arcada inferior, com o 1º molar inferior direito entre os que serão tratados. Segundo o Mondelli, qual a extensão geral do dique?",
+      "alternativas": [
+        {
+          "texto": "No mínimo dois dentes a distal do 1º molar (se o caso permitir) e, para mesial, até o canino do hemiarco oposto.",
+          "correta": true,
+          "justificativa": "É a regra geral do livro para dente posterior.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Preparação do lençol, pp. 40–42"
+        },
+        {
+          "texto": "Só o 1º molar e os vizinhos imediatos, para ganhar tempo.",
+          "correta": false,
+          "justificativa": "O livro diz que é sempre vantajoso incluir o maior número possível de dentes e admite isolar menos quando só um dente foi preparado, o que o enunciado exclui (vários dentes).",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Preparação do lençol, pp. 40–42"
+        },
+        {
+          "texto": "De pré-molar a pré-molar do lado oposto.",
+          "correta": false,
+          "justificativa": "Essa é a extensão que o livro dá para dentes anteriores, não para o molar do enunciado.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Preparação do lençol, pp. 40–42"
+        },
+        {
+          "texto": "Todo o arco inferior, do último molar de um lado ao último do outro, sempre.",
+          "correta": false,
+          "justificativa": "O livro dá como regra geral dois dentes a distal e os demais até o canino do hemiarco oposto, não o arco inteiro.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Preparação do lençol, pp. 40–42"
+        }
+      ],
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Preparação do lençol, pp. 40–42",
+      "secao": "m-extensao",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Para restaurar vários dentes de um hemiarco, o aluno não dispõe de grampo sem asas. Segundo o Mondelli, qual técnica de colocação é a mais usada em dentística, e por quê?",
+      "alternativas": [
+        {
+          "texto": "Grampo, depois a borracha, depois o porta-dique, porque a borracha passa por cima do grampo já adaptado.",
+          "correta": false,
+          "justificativa": "O livro diz que as duas primeiras técnicas exigem grampo sem asas ou projeções laterais, porque a borracha é passada por cima do grampo; o enunciado diz que não há esse grampo.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Técnicas de colocação, pp. 42–44"
+        },
+        {
+          "texto": "Técnica de Ingraham, porque usa o grampo sem asas com a borracha e, depois, o porta-dique.",
+          "correta": false,
+          "justificativa": "A técnica de Ingraham usa grampo sem asas, que o enunciado diz não estar disponível.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Técnicas de colocação, pp. 42–44"
+        },
+        {
+          "texto": "Conjunto grampo, arco e borracha de uma vez, porque é de execução fácil e dispensa grampo especial.",
+          "correta": true,
+          "justificativa": "O livro dá a quarta técnica como a mais usada em dentística, em geral de execução fácil e sem grampo especial; as três outras ficam de fora pelos dados do enunciado.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Técnicas de colocação, pp. 42–44"
+        },
+        {
+          "texto": "Conjunto borracha e arco, depois o grampo, porque é bastante usada em endodontia e em dentes isolados.",
+          "correta": false,
+          "justificativa": "O livro dá a terceira técnica como bastante usada em endodontia e para dentes isolados; o enunciado fala em vários dentes de um hemiarco, e a mais usada em dentística, segundo ele, é a quarta.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Técnicas de colocação, pp. 42–44"
+        }
+      ],
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Técnicas de colocação, pp. 42–44",
+      "secao": "m-colocacao",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "O aluno vai restaurar uma Classe V subgengival vestibular e usará o grampo 212 modificado para retrair a gengiva. Segundo o Mondelli, o que fazer com o grampo?",
+      "alternativas": [
+        {
+          "texto": "Imobilizá-lo com godiva, aplicando verniz cavitário antes nos dentes e nas alças.",
+          "correta": true,
+          "justificativa": "O livro manda imobilizar o 212 com godiva e diz que o verniz cavitário, aplicado antes nos dentes e nas alças, melhora a aderência da godiva.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Grampos, pp. 37–39"
+        },
+        {
+          "texto": "Deixá-lo preso só pelo lençol, porque a retração se mantém sozinha.",
+          "correta": false,
+          "justificativa": "O livro manda imobilizar esse grampo com godiva; o lençol não o mantém sozinho.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Grampos, pp. 37–39"
+        },
+        {
+          "texto": "Prendê-lo só com amarrias de fio dental.",
+          "correta": false,
+          "justificativa": "No livro, as amarrias substituem o grampo em coroa clínica alta (pp. 37–39) e entram quando a invaginação no sulco é difícil (pp. 42–44); para o 212, o livro manda a godiva.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Grampos, pp. 37–39; Confecção de amarrias, pp. 42–44"
+        },
+        {
+          "texto": "Remover a alça de um dos lados, o que dispensa fixar o grampo.",
+          "correta": false,
+          "justificativa": "O livro cita a remoção da alça de um dos lados para ganhar acesso ou trabalhar em dois dentes ao mesmo tempo, e manda imobilizar esse grampo com godiva.",
+          "fonte": "mondelli1-cap04",
+          "onde": "cap. 4, Grampos, pp. 37–39"
+        }
+      ],
+      "fonte": "mondelli1-cap04",
+      "onde": "cap. 4, Grampos, pp. 37–39",
+      "secao": "m-grampos",
+      "figura": null
+    }
+  ]
+}

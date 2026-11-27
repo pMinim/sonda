@@ -83,27 +83,18 @@
     },
     {
       "codigo": "13735",
-      "nome": "Clínica Ampliada em Odontologia III",
-      "sigla": "Ampliada III",
-      "status": "em-breve",
-      "areas": [],
+      "nome": "Clínica Ampliada em Odontologia II e III",
+      "sigla": "Ampliada II e III",
+      "inclui": ["14816"],
+      "status": "ativa",
+      "areas": ["Endodontia", "Farmacologia", "Periodontia", "Clínica Integrada", "Integrado", "Radiologia", "Dentística", "Dentística e reabilitação", "Prótese"],
       "turmas": [
         {
           "nome": "Paulista · terça manhã",
-          "proximaProva": null
-        }
-      ]
-    },
-    {
-      "codigo": "14816",
-      "nome": "Clínica Ampliada em Odontologia II",
-      "sigla": "Ampliada II",
-      "status": "em-breve",
-      "areas": [],
-      "turmas": [
-        {
-          "nome": "Paulista · terça manhã",
-          "proximaProva": null
+          "proximaProva": {
+            "nome": "A1",
+            "data": "2026-12-01"
+          }
         }
       ]
     },

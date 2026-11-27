@@ -1,0 +1,633 @@
+{
+  "slug": "farmacologia-clinica-em-odontologia",
+  "titulo": "Analgésicos, anti-inflamatórios, antibióticos e antissépticos: escolha, dose e duração",
+  "area": "Farmacologia",
+  "origem": "Andrade, Terapêutica Medicamentosa em Odontologia, 3ª ed., cap. 6 (Prevenção e controle da dor) e cap. 7 (antibióticos no tratamento das infecções bucais), com remissões aos caps. 17 e 19",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "andrade3-cap06",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 6, Prevenção e Controle da Dor, p. 44–53 (numeração impressa).",
+      "curta": "Andrade 3ª ed., cap. 6"
+    },
+    {
+      "id": "andrade3-cap07",
+      "ref": "Groppo F, Del Fiol FS, Andrade ED. Uso de antibióticos no tratamento ou na prevenção das infecções bacterianas bucais. In: Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 7, p. 55–75 (numeração impressa).",
+      "curta": "Andrade 3ª ed., cap. 7"
+    },
+    {
+      "id": "andrade3-cap19",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 19, Antiagregantes e anticoagulantes, p. 196–204.",
+      "curta": "Andrade 3ª ed., cap. 19"
+    },
+    {
+      "id": "andrade3-cap17",
+      "ref": "Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 17, Gestantes ou lactantes, p. 164–174.",
+      "curta": "Andrade 3ª ed., cap. 17"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "dor-e-regimes",
+      "titulo": "Dor inflamatória e os três regimes analgésicos",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, abertura (contador 57), Mecanismos da dor inflamatória e Quadro 6.1, pp. 44–46",
+      "texto": "Segundo o Andrade (3ª ed., 2014), a dor da clínica odontológica é em geral inflamatória. A lesão do tecido leva à produção de prostaglandinas e leucotrienos, que deixam o nociceptor mais sensível a estímulos que já causavam dor: é a **hiperalgesia** (p. 44). As prostaglandinas também aumentam a permeabilidade vascular, e daí vem o edema (p. 45).\n\n**Onde o fármaco age, em uma frase:** os AINEs (anti-inflamatórios não esteroides) inibem a cicloxigenase (COX), enzima que forma as prostaglandinas. O livro classifica analgésicos e anti-inflamatórios pelo mecanismo de ação, que ele considera o critério mais importante (p. 46).\n\n**Prevenir a dor é mais inteligente do que tratá-la depois de instalada,** diz o livro. Em procedimento eletivo com trauma cirúrgico ou outra intervenção invasiva, ele descreve três regimes (Quadro 6.1, p. 46):\n\n| Regime | Quando começa |\n|---|---|\n| Analgesia preemptiva | Antes do estímulo nocivo, ou seja, antes do trauma tecidual. Usa fármacos que previnem a hiperalgesia e pode ser complementada por anestésico local de longa duração. |\n| Analgesia preventiva | Logo após a lesão tecidual, antes da dor. Começa assim que a lesão acontece e antes da dor: a 1ª dose sai ao final do procedimento, ainda com a anestesia local agindo, e a manutenção é curta. |\n| Analgesia perioperatória | Começa antes da lesão e segue no pós-operatório imediato, porque parar na fase aguda pode deixar a sensibilização central sem prevenção. |\n\nAs seções seguintes dizem qual fármaco o livro liga a cada regime. **Atenção:** a anestesia local não é tratada neste tema."
+    },
+    {
+      "id": "aines-uso",
+      "titulo": "AINEs: quando indicar, doses de adulto e por quanto tempo",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, AINEs, Tabelas 6.1 e 6.2, pp. 46–48",
+      "texto": "**Substância-padrão do grupo (p. 46):** o ácido acetilsalicílico (AAS). Em adultos, 500 a 650 mg dão ação analgésica e antitérmica; para ação anti-inflamatória são necessários 4 a 5 g por dia; em doses pequenas (40 a 100 mg) inibe a agregação plaquetária.\n\n**Quando indicar (pp. 47–48):** dor aguda de intensidade moderada a severa no pós-operatório de procedimentos eletivos, como exodontia de inclusos, cirurgias periodontais, vários implantes e enxertias ósseas. O regime mais eficaz é o da **analgesia preventiva**: primeira dose ao final do procedimento, com o paciente ainda sob anestesia local, e manutenção por curto período. Os AINEs também servem para dor já instalada por processo inflamatório agudo (o livro dá a pericementite como exemplo), sempre como complemento da remoção da causa.\n\n**Classificação (Tabela 6.1, p. 47):** não seletivos para COX-2: ibuprofeno, cetoprofeno, diclofenaco, cetorolaco, piroxicam e tenoxicam. Seletivos para COX-2: etoricoxibe, celecoxibe, meloxicam e nimesulida.\n\n**Doses de adulto e intervalos de manutenção (Tabela 6.2, p. 48):**\n\n| Fármaco | Dose | Intervalo |\n|---|---|---|\n| Cetorolaco (sublingual) | 10 mg | 8 h |\n| Diclofenaco potássico | 50 mg | 8 a 12 h |\n| Ibuprofeno | 400 a 600 mg | 8 a 12 h |\n| Nimesulida | 100 mg | 12 h |\n| Cetoprofeno | 150 mg | 24 h |\n| Piroxicam, tenoxicam | 20 mg | 24 h |\n| Meloxicam | 15 mg | 24 h |\n| Celecoxibe | 200 mg | 12 a 24 h |\n| Etoricoxibe | 60 a 90 mg | 24 h |\n\nO intervalo depende da intensidade do trauma tecidual e da meia-vida de cada fármaco (p. 48).\n\n**Crianças (p. 48):** segundo o livro (de 2014), o ibuprofeno era o único AINE aprovado para crianças nas recomendações do FDA (EUA) que ele cita; no Brasil, diz o livro, a Anvisa não recomendava mais diclofenaco e nimesulida para crianças.\n\n**Duração (p. 48):** a dor de cirurgia eletiva dura em geral 24 h, com pico entre 6 e 8 h do pós-operatório, e o edema chega ao ápice depois de 36 h. Por isso o AINE dura no máximo 48 a 72 h. Dor intensa e edema piorando depois desse prazo: suspeite de complicação local e marque nova consulta. O livro diz que não há evidência científica para AINE por 4, 5 dias ou mais."
+    },
+    {
+      "id": "aines-cuidados",
+      "titulo": "AINEs e coxibes: cuidados, interações e quando evitar",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Fármacos que inibem a síntese da COX e AINEs: precauções e contraindicações, pp. 47–49",
+      "texto": "**Coxibes (p. 47).** São os AINEs que inibem a COX-2 de forma seletiva. O livro relata eventos cardiovasculares sérios com vários deles, e alguns fármacos ou apresentações saíram do mercado. Como reduzem a prostaciclina, o uso crônico pode aumentar o risco de infarto do miocárdio, acidente vascular encefálico, hipertensão arterial e falência cardíaca. Evite coxibes em paciente com hipertensão arterial, doença cardíaca isquêmica ou história de acidente vascular encefálico; nos demais, use a menor dose eficaz pelo menor tempo possível.\n\n**Considerações da Anvisa que o livro (de 2014) resume (p. 48):**\n- a ação analgésica e anti-inflamatória dos seletivos para COX-2 não é superior à dos não seletivos;\n- coxibes (no Brasil, celecoxibe e etoricoxibe) só para quem tem risco aumentado de sangramento gastrintestinal e, ao mesmo tempo, nenhum risco cardiovascular;\n- não há estudos que demonstrem a segurança dos seletivos para COX-2 em menores de 18 anos;\n- com qualquer inibidor da COX-2, a menor dose efetiva pelo menor tempo necessário;\n- contraindicados em uso contínuo de antiagregantes plaquetários, como aspirina ou clopidogrel (o item termina na p. 49).\n\n**Interações e condições do paciente (p. 49):**\n- piroxicam e ibuprofeno (e provavelmente outros AINEs) com varfarina podem potencializar o efeito anticoagulante e causar hemorragia;\n- AINEs com certos anti-hipertensivos podem causar elevação brusca da pressão arterial;\n- evite inibidores da COX em quem teve infarto do miocárdio, angina ou tem stents nas coronárias, pelo risco de trombose, sobretudo em idosos;\n- em qualquer AINE, o livro lembra os efeitos sobre rim e pressão: retém sódio e água, reduz a filtração glomerular e pode elevar a pressão, sobretudo no idoso.\n\n**Conduta (p. 49):** com doença cardiovascular, disfunção hepática ou alteração renal, troque informações com o médico para avaliar risco e benefício antes de prescrever AINE. Em nota de rodapé, o livro registra a discussão sobre a toxicidade hepática da nimesulida no uso crônico."
+    },
+    {
+      "id": "corticosteroides",
+      "titulo": "Corticosteroides: regime, vantagens e contraindicações",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Corticosteroides, Tabela 6.3, pp. 49–51",
+      "texto": "**Como agem (pp. 49–50).** Reduzem, por via indireta, a produção de prostaglandinas e leucotrienos. Por isso a ação demora: a maioria dos efeitos anti-inflamatórios só aparece cerca de 1 a 2 h depois.\n\n**Quando e qual (p. 50).** Como os AINEs, servem para prevenir a hiperalgesia e controlar o edema em intervenções eletivas (exodontia de inclusos, cirurgias periodontais, vários implantes, enxertias ósseas). Para o livro, dexametasona e betametasona são as escolhas: agem com mais potência e por mais tempo (Tabela 6.3: potência de 25 a 30 vezes a da hidrocortisona), e por isso muitas vezes bastam uma dose única ou um uso por tempo muito restrito. Como precisam de tempo para agir, o regime mais adequado é a **analgesia preemptiva**, antes da lesão tecidual. Em crianças, nas intervenções mais invasivas, o livro traz a betametasona em gotas (0,5 mg/mL), pela regra prática de 1 gota por kg de peso, em dose única, 1 h antes do procedimento.\n\n**Vantagens sobre os AINEs, em dose única pré-operatória ou por tempo restrito (pp. 50–51):**\n- os efeitos adversos de que se fala (disseminar infecção, retardar cicatrização) só aparecem com uso crônico;\n- não interferem na hemostasia, ao contrário de alguns AINEs, cuja ação antiagregante aumenta o risco de hemorragia;\n- o livro os considera mais seguros em gestantes e lactantes e em hipertensos, diabéticos, nefropatas ou hepatopatas com a doença controlada.\n\n**Contraindicações absolutas (p. 51):** doenças fúngicas sistêmicas, herpes simples ocular, doenças psicóticas, tuberculose ativa ou história de alergia aos fármacos do grupo.\n\n**Atenção (p. 51):** o cortisol do próprio corpo é mais alto por volta das 8 h e mais baixo no início da noite. Quando o corticosteroide for medicação pré-operatória, agende a cirurgia de preferência no início da manhã, o que interfere menos no eixo hipotálamo-hipófise-adrenal."
+    },
+    {
+      "id": "dipirona-paracetamol",
+      "titulo": "Dipirona e paracetamol: indicação e cuidados",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Paracetamol e Uso clínico dos analgésicos, pp. 49–52",
+      "texto": "**Os de uso rotineiro (p. 51):** na clínica odontológica, os analgésicos de rotina são a dipirona e o paracetamol; como alternativa a ambos, o ibuprofeno. Costumam ser usados por períodos curtos, em torno de 24 a 48 h, para dor aguda de baixa intensidade (p. 52).\n\n**Dipirona (pp. 51–52).** É a substância-padrão dos fármacos que deprimem diretamente a atividade dos nociceptores já sensibilizados, boa opção para dor leve a moderada. O livro a considera analgésico eficaz e seguro em odontologia. Cuidados:\n- por via intramuscular ou intravenosa, cautela em condições circulatórias instáveis (pressão arterial sistólica menor que 100 mmHg); que ela baixe a pressão por via oral parece, segundo o livro, ainda não demonstrado em ensaios clínicos;\n- na gestação, o cap. 6 manda evitar a dipirona no 1º trimestre e nas seis últimas semanas; nas demais fases, só se for realmente necessária (p. 52). No cap. 17 do mesmo livro (gestantes, p. 170), a recomendação, atribuída às informações técnicas da indústria farmacêutica, é não usar nos três primeiros meses, usar no 2º trimestre só após avaliação do médico e evitar nos três últimos meses. O livro não relaciona as duas passagens;\n- contraindicada em hipersensibilidade aos derivados da pirazolona (alergia cruzada), em porfiria hepática e em deficiência congênita de glicose-6-fosfato-desidrogenase;\n- com história de anemia ou leucopenia, evitar, ainda que o livro estime o risco de agranulocitose e de anemia aplástica em, no máximo, 1 por milhão de expostos (estudo que ele cita).\n\n**Paracetamol (pp. 49 e 52).** Inibe fracamente a COX-1 e a COX-2 e quase não tem atividade anti-inflamatória: serve só como analgésico, em dor leve a moderada, e não interfere no edema. Cuidados:\n- seguro em gestantes e lactantes;\n- pode lesar o fígado; segundo o livro, de 2014, o FDA recomendou baixar a dose máxima diária do adulto de 4 g para 3,25 g;\n- evite junto com álcool ou outras substâncias hepatotóxicas, como o estolato de eritromicina;\n- contraindicado em uso contínuo de varfarina sódica (pode aumentar o efeito anticoagulante e causar hemorragia);\n- a solução em gotas contém metabissulfito de sódio: contraindicada em quem tem alergia ao medicamento ou aos sulfitos.\n\n**Atenção:** o diclofenaco também deprime os nociceptores sensibilizados, e o livro vê nisso uma explicação para sua boa eficácia na dor já estabelecida, como complemento do tratamento pré-operatório com corticosteroide (p. 51)."
+    },
+    {
+      "id": "ibuprofeno-opioides",
+      "titulo": "Ibuprofeno, opioides fracos, Tabela 6.4 e doses em gotas para crianças",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Considerações sobre o ibuprofeno, opioides fracos e Tabela 6.4, pp. 52–53",
+      "texto": "**Ibuprofeno como analgésico (p. 52).** Em dose menor (200 mg, em adultos) tem ação analgésica semelhante à da dipirona e praticamente não exerce atividade anti-inflamatória. É contraindicado em história de gastrite ou úlcera péptica, hipertensão arterial ou doença renal; evite em hipersensibilidade ao AAS, pelo risco de alergia cruzada. O próprio AAS, apesar da boa ação analgésica, é pouco usado: pela ação antiagregante plaquetária, em cirurgias pode causar maior sangramento.\n\n**Opioides fracos (pp. 52–53).** Para dores moderadas a intensas que não respondem a outros analgésicos, o cirurgião-dentista pode optar pela codeína (vendida associada ao paracetamol) ou pelo tramadol. O tramadol começa a agir em geral 1 h após dose de 50 mg e **não é indicado para menores de 16 anos**, por falta de estudos clínicos controlados (p. 53). Náuseas, constipação, vômito, alterações de humor, sonolência e depressão respiratória limitam o uso em larga escala; cautela em idosos, debilitados, com insuficiência hepática ou renal, hipertrofia prostática ou depressão respiratória (p. 53).\n\n**Doses usuais de adulto e intervalos (Tabela 6.4, p. 53):**\n\n| Fármaco | Dose usual | Intervalo |\n|---|---|---|\n| Dipirona | 500 mg a 1 g | 4 h |\n| Paracetamol | 500 a 750 mg | 6 h |\n| Ibuprofeno | 200 mg | 6 h |\n| Paracetamol com codeína | 500 mg de paracetamol e 30 mg de codeína | 6 h |\n| Tramadol | 50 mg | 8 h |\n\n**Crianças, regra prática com soluções orais em gotas (p. 53):**\n- dipirona (500 mg/mL): 0,5 a 1 gota por kg de peso;\n- paracetamol (200 mg/mL): 1 gota por kg;\n- ibuprofeno (50 mg/mL): 1 gota por kg;\n- codeína e tramadol: o livro não os recomenda em crianças."
+    },
+    {
+      "id": "antissepticos",
+      "titulo": "Antissepsia antes da intervenção: iodopovidona e clorexidina",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Antissépticos, pp. 55–56",
+      "texto": "**Quando (p. 55).** O livro diz que a antissepsia é imprescindível antes de toda intervenção odontológica, e lamenta que muitos profissionais só a façam antes de cirurgias. Ela pode reduzir de 75 a 99,9% os microrganismos da boca e diminui a contaminação pelo aerossol da alta rotação. Em todo procedimento com sangramento, as bactérias podem cair na corrente sanguínea e causar bacteremias transitórias.\n\n**Iodopovidona 10% (p. 55).** Solução aquosa com 1% de iodo ativo, menos alergênica e irritante que o iodo. Uso: antissepsia da pele do paciente (extrabucal) e degermação de mãos e braços da equipe cirúrgica; na pele, gaze estéril embebida, 10 min de contato, depois remove-se o excesso. Pode manchar dentes e tecidos bucais. O livro estima em cerca de 0,4% a população alérgica. Quem relata alergia a pólen, pó doméstico ou picadas de insetos deve ser investigado com mais cuidado; nesses casos, a alternativa mais viável é a solução aquosa de digluconato de clorexidina a 2%.\n\n**Clorexidina (pp. 55–56).** O digluconato é o sal mais usado na boca. É bactericida. A concentração mínima eficaz é 0,12%: concentrações menores não reduzem os estreptococos do grupo mutans na saliva. Um bochecho de 1 min reduz de 22 a 40% dos microrganismos viáveis após 1 h, e o número original volta entre 6 e 8 h. É hoje a substância química mais eficaz no controle da placa supragengival, em bochechos de 0,12 a 0,2%. Para preparar a pele, o livro cita 2% ou 4%. Em estudo com remoção de terceiros molares inclusos, um único bochecho pré-operatório com 0,12% reduziu em 60% a alveolite. Formulação de antissepsia intrabucal pré-operatória: digluconato de clorexidina 0,2% em água mentolada (p. 56).\n\n**Atenção (p. 56):** o lauril sulfato de sódio, detergente de cremes dentais, reduz o efeito da clorexidina; deixe mais de 30 min, de preferência 2 h, entre escovar com esse creme e bochechar. A clorexidina também é incompatível com concentrações relevantes de monofluorfosfato de sódio, mas compatível com o fluoreto de sódio dos géis. O timol com eucaliptol, salicilato de metila e mentol, e o cloreto de cetilperidínio, servem no pós-operatório, mas sem a mesma eficácia da clorexidina."
+    },
+    {
+      "id": "antibioticos-quando",
+      "titulo": "Antibiótico no tratamento: quando prescrever",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Como contribuir para minimizar a resistência bacteriana, p. 63, e Tratamento das infecções, pp. 67–68",
+      "texto": "**Primeiro, a causa.** As infecções bucais bacterianas agudas evoluem rápido e duram relativamente pouco (2 a 7 dias), sobretudo quando o foco é eliminado (p. 67). O livro dá à descontaminação local prioridade absoluta sobre qualquer medicamento (p. 63). O antibiótico entra como complemento dela, quando ela sozinha não resolve e há sinais de disseminação da infecção (pp. 67–68). Segundo o livro, o objetivo é ajudar o hospedeiro a controlar os microrganismos que, por ora, superaram suas defesas (p. 68).\n\n**O melhor critério (p. 68):** a presença ou não de sinais e sintomas de disseminação. O livro diz que hoje se aceita antibioticoterapia em odontologia apenas quando há sinais como:\n- edema pronunciado (celulite);\n- limitação da abertura bucal;\n- linfadenite;\n- febre e taquicardia;\n- falta de apetite;\n- disfagia;\n- mal-estar geral.\n\nEsses sinais indicam que as defesas do hospedeiro não controlam a infecção sozinhas.\n\n**Quando não prescrever (p. 68):** em processo infeccioso bacteriano localizado e delimitado, sem sinais locais de disseminação nem manifestações sistêmicas, o antibiótico como coadjuvante não é necessário. Isso vale para as infecções agudas de origem endodôntica ou periodontal. O livro cita estudo com penicilina em abscessos periapicais localizados: depois da drenagem, o tempo de cura foi o mesmo do grupo com placebo e do grupo sem medicamento.\n\n**Atenção:** antibiótico dado para prevenir infecção (profilaxia cirúrgica, infecções à distância, endocardite) não é tratado aqui; veja o tema *Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)*."
+    },
+    {
+      "id": "antibioticos-selecao",
+      "titulo": "Seleção do antibiótico: primeira escolha",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Seleção do antibiótico, p. 68",
+      "texto": "**Não existe antibiótico-padrão** para todas as infecções e todos os pacientes (p. 68). O sucesso depende da eficácia contra os microrganismos da infecção e da farmacocinética.\n\n**Primeira escolha: penicilinas (p. 68).** Penicilina V, ampicilina e amoxicilina seguem eficazes contra os cocos gram-positivos aeróbios e os bacilos gram-negativos anaeróbios que o livro isola nessas infecções (endodônticas e periodontais). Hoje se prefere a amoxicilina: absorção melhor e mais rápida, mesmo com alimento, e intervalo de 8 a 12 h. Ampicilina e penicilina V têm intervalo de no máximo 6 h (quatro tomadas em 24 h, dia e noite), o que diminui a adesão do paciente. Sempre que possível, penicilina por via oral, pela menor incidência de reações alérgicas.\n"
+    },
+    {
+      "id": "antibioticos-alternativas",
+      "titulo": "Seleção do antibiótico: alternativas e cuidados",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Seleção do antibiótico, pp. 68–69",
+      "texto": "**Cefalosporinas (pp. 68–69):** não devem ser primeira escolha em infecção odontológica ambulatorial; o livro as reserva para profilaxia cirúrgica em cirurgia ortognática ou infecção grave de cabeça e pescoço, em ambiente hospitalar.\n\n**Metronidazol (p. 69):** eficaz contra bacilos anaeróbios gram-negativos; útil em pericoronarite, abscesso periapical e gengivite ulcerativa necrosante, em geral associado a penicilina ou cefalosporina. Em infecções periodontais crônicas, como complemento da raspagem e do alisamento radicular, a associação de metronidazol e amoxicilina tem sinergismo contra o Aggregatibacter actinomycetemcomitans, que o livro liga às periodontites agressivas. O metronidazol isolado também é usado em periodontite crônica que não responde à instrumentação. Atenção: periodontite agressiva e periodontite crônica são os termos do livro, de 2014; a classificação de 2018 está no tema *Periodontite: estágio, grau e extensão*. Amoxicilina com inibidor de betalactamase não deve ser prática comum: reserve para infecção que não responde às penicilinas ou quando a cultura mostrar bactéria produtora de betalactamase.\n\n**Alérgico às penicilinas (p. 69):**\n- claritromicina e azitromicina são hoje os de escolha para abscesso periapical agudo, pelas concentrações elevadas e duradouras nos tecidos e por darem menos efeito gastrintestinal que a eritromicina;\n- eritromicina: só alternativa, em infecção leve a moderada e inicial, nunca primeira escolha;\n- clindamicina: em geral para infecções mais avançadas, com uso criterioso, e costuma ser usada isolada. O livro diz também que ela muitas vezes é a primeira alternativa nos alérgicos às penicilinas, em infecções graves ou na profilaxia da endocardite (para a profilaxia há diretriz posterior ao livro: veja o tema *Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)*); fica ao lado da claritromicina e da azitromicina, de escolha para abscesso periapical agudo, sem que o livro escolha entre elas;\n- tetraciclinas (a doxiciclina é a mais usada): restritas às periodontites, como alternativa a alérgicos às penicilinas ou a quem teve efeito adverso com metronidazol.\n\n**Atenção (p. 69):** segundo o livro (2014), o FDA avaliou relatos de arritmia, com risco de morte, em cinco dias de azitromicina em pacientes com certos distúrbios cardiovasculares (prolongamento do intervalo QT, insuficiência cardíaca congestiva não compensada, bradiarritmias). Com história de doença cardiovascular, troque informações com o cardiologista antes de prescrever azitromicina."
+    },
+    {
+      "id": "antibioticos-penicilinas-macrolideos",
+      "titulo": "Penicilinas, cefalosporinas e macrolídeos: efeitos adversos e interações",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Betalactâmicos, Cefalosporinas e Macrolídeos, pp. 64–66",
+      "texto": "**Alergia ou intolerância? (p. 64).** Tontura, dor abdominal, náuseas, vômito e diarreia são os efeitos adversos mais comuns das penicilinas e nada têm de hipersensibilidade. Muito paciente se rotula \"alérgico à penicilina\" por causa deles, e o livro diz que essa confusão contribui para o uso errôneo dos antibióticos. Segundo dados do Ministério da Saúde que o livro cita, a reação anafilática é rara (1 caso para cada 10 mil usuários); as reações graves ocorrem mais por via injetável e são raras ou discretas por via oral.\n\n**Penicilina V e amoxicilina (pp. 64–65).** A penicilina V tem espectro reduzido, mas age muito bem contra os estreptococos gram-positivos que em geral iniciam as infecções bucais. A amoxicilina, por ser mais bem absorvida e atingir concentrações maiores, pode ser dada de 8 em 8 h, em vez de 6 em 6 h. Embora a amoxicilina seja o antibiótico mais prescrito pelos dentistas, o livro ainda considera a penicilina V a penicilina mais segura, e muito eficaz nas infecções bucais em fase inicial (p. 65). Há bactérias que produzem betalactamases, mas raramente causam falha; o clavulanato de potássio, que inativa essas enzimas, é o inibidor de interesse odontológico (p. 65).\n\n**Cefalosporinas (p. 65).** São bactericidas e de espectro um pouco maior que o das penicilinas. São nefrotóxicas em altas doses e uso prolongado, e o uso prolongado das de terceira geração se associa à colite pseudomembranosa por Clostridium difficile, com diarreia que pode passar de 20 evacuações por dia.\n\n**Macrolídeos e azitromicina (pp. 65–66).** São bacteriostáticos. A eritromicina na forma de estolato pode causar icterícia colestática, sinal de toxicidade hepática; o livro recomenda o estearato. Eritromicina e claritromicina inibem enzimas do fígado e podem exacerbar o efeito de outros fármacos: bloqueadores dos canais de cálcio, digitálicos, anticonvulsivantes (principalmente carbamazepina), estatinas, ciclosporina, opioides, inibidores de protease, varfarina, cisaprida e midazolam (mesmo em dose única, pode causar depressão profunda do sistema nervoso central). Segundo o livro, aparentemente nenhuma interação de significância clínica ocorre entre esses fármacos e a azitromicina (p. 66). **Atenção, outro capítulo do mesmo livro:** o Quadro 19.1 (cap. 19, p. 200) põe a azitromicina, ao lado da eritromicina, entre os antibióticos que podem potencializar os efeitos da varfarina. O livro não relaciona as duas passagens."
+    },
+    {
+      "id": "antibioticos-clindamicina-outros",
+      "titulo": "Clindamicina, tetraciclinas, metronidazol e quinolonas: o que observar",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Clindamicina, Tetraciclinas, Metronidazol e Quinolonas, pp. 66–67, e Alterações fisiológicas do paciente, p. 72",
+      "texto": "**Clindamicina (p. 66).** Muito bem absorvida por via oral, penetra em macrófagos e leucócitos e por isso chega em alta concentração aos abscessos. É bacteriostática; seu espectro é semelhante ao das penicilinas, mas alcança Staphylococcus aureus e outras bactérias produtoras de penicilinases e também bacilos anaeróbios gram-negativos. É biotransformada no fígado e excretada na bile: avalie bem o risco e o benefício em pacientes com alteração hepática e biliar. A reação mais frequente é diarreia, em cerca de 10 a 15% dos tratados. A complicação gastrintestinal mais importante é a **colite pseudomembranosa** (diarreia com sangue) por Clostridium difficile, selecionado em geral após tratamentos prolongados.\n\n**Tetraciclinas (p. 66).** Só a doxiciclina e a minociclina têm interesse odontológico. São bacteriostáticas. Depositam-se em ossos e dentes em desenvolvimento e causam manchas marrons e hipoplasia de esmalte: **não podem ser dadas na gravidez** e devem ser evitadas em crianças na fase de desenvolvimento ósseo e dental. Outros pontos do livro: fotossensibilidade com queimadura pelo sol; precaução em doença hepática ou renal (na p. 72 o livro diz que as tetraciclinas são contraindicadas na disfunção renal; ver a seção sobre falhas e alterações do paciente); superinfecções por bactérias, fungos e leveduras; antiácidos de alumínio, cálcio ou magnésio, ferro, sais de bismuto, leite e derivados prejudicam a absorção.\n\n**Metronidazol (p. 67).** É bactericida e atinge praticamente todos os bacilos anaeróbios gram-negativos; não age contra bactérias aeróbias e microaerófilas. Muito bem absorvido por via oral. Reações: gosto metálico, dor estomacal, náuseas e vômitos; em doses largas e uso prolongado, neuropatia periférica; possível reação do tipo dissulfiram com álcool; pode potencializar o efeito dos anticoagulantes.\n\n**Quinolonas e carbapenêmicos (p. 67).** Para as quinolonas (ciprofloxacina e levofloxacina são as mais citadas em odontologia), o livro diz que os estudos de eficácia nas infecções bucais são conflitantes e que a indicação parece carecer de suporte científico. Os carbapenêmicos são último recurso para certas infecções, e o livro diz que não têm indicação odontológica."
+    },
+    {
+      "id": "antibioticos-dose",
+      "titulo": "Dose de ataque, doses de manutenção e intervalos",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Penicilina V, p. 64, e Dosagem e intervalos entre as doses e Quadro 7.1, pp. 69–70",
+      "texto": "**Dose de ataque (pp. 69–70).** A maioria das infecções bucais agudas começa muito rápido, o que não deixa tempo para determinar em laboratório a concentração inibitória mínima (CIM) do antibiótico. Por isso o livro recomenda começar com uma dose de ataque, no mínimo o dobro da dose de manutenção. Em geral ela só se indica quando a meia-vida do fármaco passa de 3 h; mas, como a infecção aguda exige nível adequado de sangue antes de 12 h, o livro considera apropriada uma dose inicial de 1 a 2 g de penicilina V ou de amoxicilina, seguida de doses de manutenção de 500 mg, em adultos.\n\n**Manutenção (p. 70).** A dose deve dar nos tecidos infectados nível acima da CIM do microrganismo; para isso a concentração no plasma deve passar de 2 a 8 vezes a CIM, conforme o fármaco. O livro defende doses maciças por curto período: elas dão níveis altos no sangue e nos tecidos e reduzem a toxicidade e a seleção de resistentes. Dose e intervalo dependem da gravidade da infecção e das condições gerais do paciente. Em infecções mais graves ainda tratáveis em ambulatório, o livro diz que se pode reduzir o intervalo das primeiras doses de manutenção: de 6 para 4 h na penicilina V e na ampicilina, de 8 para 6 h na amoxicilina e na clindamicina.\n\n**Quadro 7.1 (p. 70): antibióticos por via oral em adultos, dose de manutenção e intervalo usual**\n\n| Antibiótico | Dose de manutenção | Intervalo |\n|---|---|---|\n| Penicilina V | 500 mg | 6 h |\n| Ampicilina | 500 mg | 6 h |\n| Amoxicilina | 500 mg ou 875 mg | 8 h ou 12 h |\n| Metronidazol | 250 mg ou 400 mg | 8 h |\n| Amoxicilina com clavulanato de potássio | 500 mg com 125 mg | 8 h |\n| Cefalexina | 500 mg | 6 h |\n| Eritromicina | 500 mg | 6 h |\n| Claritromicina | 500 mg | 12 h |\n| Azitromicina | 500 mg | 24 h |\n| Clindamicina | 300 mg | 8 h |\n\n**Atenção, dois números do mesmo livro para a penicilina V:** na p. 64, o comprimido vendido no Brasil é de 500 mil UI, equivalente a 325 mg; no Quadro 7.1 (p. 70), a dose de manutenção é de 500 mg. O livro não relaciona os dois números; a p. 64 registra apenas que em outros países os comprimidos são de 500 mg.\n\n**CIM e teste in vitro (p. 70):** o livro diz que não se deve pedir CIM ou outros testes in vitro como guia de dose, porque não se mostrou correlação entre eles e o sucesso da resolução da infecção. O único critério verdadeiro de sucesso é a remissão da infecção."
+    },
+    {
+      "id": "antibioticos-duracao",
+      "titulo": "Duração do antibiótico: o que o livro diz do ciclo completo",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Seleção do antibiótico e Duração do tratamento, pp. 68–71",
+      "texto": "**O costume (p. 68).** Historicamente, na clínica odontológica o antibiótico era prescrito por 5 a 10 dias, com a instrução de não parar até \"completar\" o tratamento. O livro diz que a evidência atual dispensa o uso prolongado: ele desequilibra a microbiota bucal e favorece bactérias resistentes.\n\n**O que o livro contesta (pp. 70–71).** A ideia de que o antibiótico exige \"ciclo ou curso completo\", de cerca de 7 a 10 dias, para eliminar bactérias resistentes é, para o livro, contraditória: um antibacteriano não afeta bactérias resistentes a ele, e o uso prolongado só as seleciona. Ele também aponta que o uso prolongado de antibióticos de largo espectro pode causar superinfecção. Quanto à recidiva, segundo o livro as infecções bucais bacterianas dificilmente reincidem, sobretudo se a fonte é erradicada por meio mecânico (drenagem cirúrgica, instrumentação endodôntica, curetagem). E dose e duração não podem ser extrapoladas de uma infecção para outra.\n\n**A conduta que o livro propõe (p. 71).** Erradicada a fonte, a duração ideal é a menor possível, e o parâmetro prático é a remissão dos sintomas. Acompanhe o quadro agudo todos os dias; você pode interromper o antibiótico quando a anamnese e o exame físico mostrarem que as defesas imunológicas reassumiram o controle. Assim, o tratamento pode terminar após **3 a 5 dias**, e não somente depois dos 7 a 10 dias. Menor duração reduz efeitos adversos, dificulta a seleção de resistentes e reduz o custo.\n\n**Infecção crônica (p. 71).** Na periodontite crônica e na agressiva, a instrumentação mecânica, com ou sem cirurgia, basta na maioria dos casos. O antibiótico complementar fica para o paciente que continua perdendo inserção periodontal depois da terapia mecânica convencional. Nesses casos a duração é padronizada em 7 a 8 dias para o metronidazol (sozinho ou com amoxicilina) ou 14 a 21 dias para a doxiciclina."
+    },
+    {
+      "id": "resistencia-bacteriana",
+      "titulo": "Resistência bacteriana e o que o dentista pode fazer",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Resistência bacteriana e Como contribuir para minimizar a resistência bacteriana, pp. 61–63",
+      "texto": "**Por que importa na sua prescrição (p. 61).** Segundo o livro, a prescrição pode ter efeito negativo direto sobre o próprio paciente, e relatos de falha de profilaxia e de tratamento aumentam a cada ano.\n\n**Mais tempo não diminui a resistência (p. 61).** O livro diz que a ideia de que prolongar o tratamento diminui a resistência não tem respaldo científico: bactéria já resistente não responde ao antibiótico em dia nenhum do tratamento; prolongá-lo só a expõe mais ao fármaco.\n\n**Pressão seletiva (pp. 61–62).** O antibiótico não é agente mutagênico: não faz surgir a característica nova, ele seleciona as cepas que sobrevivem. O uso indiscriminado ou errôneo, terapêutico ou profilático, é apontado como um dos maiores agentes de pressão seletiva. O livro afirma que o dentista não deve ser mais um agente propagador da resistência e que um controle maior do uso em odontologia mereceria destaque.\n\n**Como contribuir (p. 63).**\n- Para o livro, o recurso principal do dentista é prescrever com bom senso e moderação.\n- Usar antibiótico, para prevenir ou para tratar, por medo ou insegurança é, no mínimo, irresponsável, segundo o livro.\n- Em imunocompetentes, antes de fazer profilaxia antibiótica, avalie se o benefício supera o risco de reação adversa e o custo.\n- Na infecção bacteriana bucal, veja com critério se a descontaminação local basta: ela tem prioridade absoluta sobre qualquer medicamento.\n- Decidido o antibiótico, o princípio é o mesmo: doses maciças pelo menor tempo possível, com contato direto com o paciente para acompanhar o curso da infecção a cada 24 ou 48 h.\n\nO livro conclui que quem ainda faz profilaxia antibiótica ou trata infecção bucal por 7 a 10 dias de forma indiscriminada, com fármacos de amplo espectro e \"de última geração\", faz um favor às bactérias e à indústria."
+    },
+    {
+      "id": "antibioticos-insucesso",
+      "titulo": "Por que o antibiótico falha e o que muda conforme o paciente",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Causas de insucessos da antibioticoterapia e Alterações fisiológicas do paciente, pp. 72–73, e Tetraciclinas, p. 66",
+      "texto": "**A causa mais comum de falha (p. 72):** não erradicar a fonte da infecção. O dentista pode intervir direto, por terapia endodôntica ou periodontal; incisão e drenagem de abscesso, ou até a exodontia do dente envolvido, removem barreiras físicas e facilitam a penetração do antibiótico (p. 73). Os antibióticos penetram muito pouco nos abscessos, e prescrever sem intervir não rompe a barreira de bactérias e produtos (p. 72).\n\n**Outros fatores de insucesso (p. 73):**\n- escolha inapropriada do fármaco (microrganismo não suscetível);\n- falha no cálculo da dose, com concentração muito baixa no sangue;\n- antagonismo, que pode ocorrer ao associar um bactericida a um bacteriostático;\n- emergência de microrganismos resistentes;\n- infecção de crescimento bacteriano muito lento (penicilinas e cefalosporinas precisam de microrganismos em divisão);\n- fatores locais desfavoráveis (pH baixo, pouco oxigênio no tecido);\n- vascularização limitada ou fluxo sanguíneo diminuído (corpos estranhos, implantes dentários, sequestros ósseos);\n- resistência do hospedeiro diminuída, por doença ou imunossupressores;\n- falta de adesão do paciente, em horários ou duração;\n- custo: o paciente que não consegue comprar o medicamento, embora diga que comprou.\n\n**Gravidez (p. 72):** penicilinas, cefalosporinas, estearato de eritromicina, azitromicina e clindamicina são considerados seguros em grávidas. Tetraciclinas e estolato de eritromicina são contraindicados em qualquer período da gestação. O metronidazol deve ser evitado apenas no primeiro trimestre.\n\n**Idade (p. 72):** em crianças, doses semelhantes às dos adultos, ajustadas pelo peso corporal. Idosos podem precisar de dose menor ou intervalo maior com antibióticos excretados sobretudo pelos rins, como penicilinas e cefalosporinas.\n\n**Fígado e rim (p. 72):** na doença hepática severa, reduza as doses de metronidazol e de eritromicina. Na disfunção renal, a dose pode ser reduzida ou o intervalo aumentado; use penicilinas, clindamicina e metronidazol com precaução, cefalosporinas só depois de conversar com o nefrologista, e as tetraciclinas são contraindicadas.\n\n**Atenção, duas formulações do mesmo livro para as tetraciclinas na doença renal:** na p. 66, \"precaução\" em histórico de doença hepática ou renal; na p. 72, \"contraindicadas\" na disfunção renal. O livro não explica a diferença."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Na analgesia preventiva, quando se dá a primeira dose?",
+      "verso": "Ao final do procedimento, com o paciente ainda sob efeito da anestesia local, e depois doses de manutenção por curto prazo. O regime começa logo após a lesão tecidual, antes da dor.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Quadro 6.1, p. 46"
+    },
+    {
+      "id": "f02",
+      "frente": "Por quanto tempo, no máximo, o Andrade aceita AINE após cirurgia eletiva? E se a dor e o edema pioram depois disso?",
+      "verso": "No máximo 48 a 72 h. Com dor intensa e piora do edema depois desse prazo, suspeite de complicação local e marque nova consulta.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Duração do tratamento, p. 48"
+    },
+    {
+      "id": "f03",
+      "frente": "Ibuprofeno como AINE em adultos, segundo a Tabela 6.2 do Andrade: dose e intervalo?",
+      "verso": "400 a 600 mg, a cada 8 a 12 h.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Tabela 6.2, p. 48"
+    },
+    {
+      "id": "f04",
+      "frente": "Em quais pacientes o Andrade manda evitar os coxibes?",
+      "verso": "Hipertensão arterial, doença cardíaca isquêmica ou história de acidente vascular encefálico. Motivo: eventos cardiovasculares sérios e menos prostaciclina no uso crônico.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Fármacos que inibem a síntese da COX, p. 47"
+    },
+    {
+      "id": "f05",
+      "frente": "Corticosteroide antes de cirurgia eletiva: qual regime e por quê?",
+      "verso": "Analgesia preemptiva, antes da lesão tecidual. A ação demora: a maioria dos efeitos anti-inflamatórios só aparece 1 a 2 h depois. Dexametasona e betametasona são os de escolha.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Corticosteroides, p. 50"
+    },
+    {
+      "id": "f06",
+      "frente": "Quais são as contraindicações absolutas de corticosteroide que o Andrade lista?",
+      "verso": "Doenças fúngicas sistêmicas, herpes simples ocular, doenças psicóticas, tuberculose ativa e história de alergia aos fármacos do grupo.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Usos com precaução e contraindicações dos corticosteroides, p. 51"
+    },
+    {
+      "id": "f07",
+      "frente": "Por que agendar a cirurgia no início da manhã quando se usa corticosteroide pré-operatório?",
+      "verso": "O cortisol do corpo é mais alto por volta das 8 h. Há menor interferência no eixo hipotálamo-hipófise-adrenal.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Usos com precaução e contraindicações dos corticosteroides, p. 51"
+    },
+    {
+      "id": "f08",
+      "frente": "Paracetamol: tem ação anti-inflamatória? Qual cuidado com a dose máxima diária do adulto?",
+      "verso": "Quase nenhuma: serve só como analgésico (dor leve a moderada) e não interfere no edema. Segundo o livro, de 2014, o FDA recomendou baixar a dose máxima diária do adulto de 4 g para 3,25 g.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Paracetamol e Considerações sobre o uso do paracetamol, pp. 49–52"
+    },
+    {
+      "id": "f09",
+      "frente": "Em que condições o Andrade contraindica a dipirona?",
+      "verso": "Hipersensibilidade aos derivados da pirazolona (alergia cruzada), porfiria hepática e deficiência congênita de glicose-6-fosfato-desidrogenase.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Considerações sobre o uso da dipirona, p. 52"
+    },
+    {
+      "id": "f10",
+      "frente": "Tramadol em adolescente de 14 anos: o que o Andrade diz?",
+      "verso": "Não é indicado para menores de 16 anos, por falta de estudos clínicos controlados. Codeína e tramadol não são recomendados em crianças.",
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Opioides fracos e doses pediátricas, p. 53"
+    },
+    {
+      "id": "f11",
+      "frente": "Paciente alérgico a pólen, pó doméstico ou picadas de insetos precisa de antissepsia da pele. Qual alternativa à iodopovidona?",
+      "verso": "Solução aquosa de digluconato de clorexidina a 2%. O livro manda investigar esse paciente com mais cuidado.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Soluções antissépticas, p. 55"
+    },
+    {
+      "id": "f12",
+      "frente": "Qual a concentração mínima eficaz de clorexidina, segundo o Andrade, e o que acontece abaixo dela?",
+      "verso": "0,12%. Concentrações menores falham em reduzir os estreptococos do grupo mutans na saliva.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Soluções antissépticas, p. 55"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual é o melhor critério do Andrade para prescrever antibiótico numa infecção bucal?",
+      "verso": "Sinais e sintomas de disseminação: edema pronunciado (celulite), limitação da abertura bucal, linfadenite, febre, taquicardia, falta de apetite, disfagia ou mal-estar geral. O antibiótico complementa a descontaminação local.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Tratamento das infecções, p. 68"
+    },
+    {
+      "id": "f14",
+      "frente": "Primeira escolha nas infecções bucais bacterianas, e qual penicilina o livro prefere hoje?",
+      "verso": "As penicilinas (V, ampicilina ou amoxicilina). Prefere-se a amoxicilina, por absorção melhor e intervalo de 8 a 12 h; penicilina V e ampicilina têm intervalo de no máximo 6 h.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Seleção do antibiótico, p. 68"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Andrade, quanto tempo de antibiótico numa infecção bucal aguda cuja fonte foi eliminada?",
+      "verso": "A menor duração possível, guiada pela remissão dos sintomas, com acompanhamento diário. O tratamento pode terminar após 3 a 5 dias, não somente após 7 a 10 dias.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Duração do tratamento, p. 71"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Cirurgia eletiva de terceiro molar incluso. O dentista planeja dar a primeira dose do analgésico ao final do procedimento, com o paciente ainda sob anestesia local, e manter doses por curto prazo. Segundo o Andrade, como se chama esse regime?",
+      "alternativas": [
+        {
+          "texto": "Analgesia preemptiva, que começa antes do trauma tecidual.",
+          "correta": false,
+          "justificativa": "A preemptiva começa antes do estímulo nocivo, isto é, antes do trauma tecidual. Aqui a primeira dose vem depois da lesão.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quadro 6.1, p. 46"
+        },
+        {
+          "texto": "Analgesia perioperatória, iniciada antes da lesão e mantida no pós-operatório imediato.",
+          "correta": false,
+          "justificativa": "A perioperatória é iniciada antes da lesão tecidual e mantida no pós-operatório imediato. A primeira dose do caso só vem ao final do procedimento.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quadro 6.1, p. 46"
+        },
+        {
+          "texto": "Analgesia preventiva, que começa logo após a lesão e antes da dor.",
+          "correta": true,
+          "justificativa": "O livro descreve a analgesia preventiva como o regime que começa imediatamente após a lesão tecidual, antes da dor: primeira dose ao final do procedimento, ainda sob anestesia local, e manutenção por curto prazo.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quadro 6.1, p. 46"
+        },
+        {
+          "texto": "Analgesia preemptiva complementada por anestésico local de longa duração.",
+          "correta": false,
+          "justificativa": "O livro cita o anestésico de longa duração como complemento da analgesia preemptiva, que por definição começa antes do trauma tecidual. O caso descreve uma primeira dose depois da lesão.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quadro 6.1, p. 46"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Quadro 6.1, p. 46",
+      "secao": "dor-e-regimes",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente operado de terceiro molar incluso recebeu um AINE por 48 a 72 h. No quarto dia volta com dor intensa e edema piorando. Segundo o Andrade, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Estender o AINE por mais 4 ou 5 dias, porque o edema só atinge o ápice depois de 72 h.",
+          "correta": false,
+          "justificativa": "O livro diz que o edema atinge o ápice após 36 h e que não há evidência científica que justifique AINE por 4, 5 dias ou mais.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Duração do tratamento, p. 48"
+        },
+        {
+          "texto": "Suspeitar de complicação local e marcar nova consulta para reavaliar.",
+          "correta": true,
+          "justificativa": "O livro diz que, se o paciente refere dor intensa e piora do edema depois de 48 a 72 h, o profissional deve suspeitar de complicação local e marcar nova consulta.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Duração do tratamento, p. 48"
+        },
+        {
+          "texto": "Encurtar o intervalo entre as doses de manutenção, porque o intervalo depende da intensidade do trauma tecidual.",
+          "correta": false,
+          "justificativa": "O livro liga o intervalo à intensidade do trauma e à meia-vida do fármaco; para dor intensa e edema piorando depois de 48 a 72 h, ele manda suspeitar de complicação local e reavaliar.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quando e como empregar os AINEs e Duração do tratamento, p. 48"
+        },
+        {
+          "texto": "Manter a mesma prescrição e orientar o paciente a esperar, porque a dor dura em geral 24 h.",
+          "correta": false,
+          "justificativa": "A dor de cirurgia eletiva dura em geral 24 h, com pico entre 6 e 8 h. Dor intensa depois de 48 a 72 h foge desse curso e, segundo o livro, pede reavaliação.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Duração do tratamento, p. 48"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Duração do tratamento, p. 48",
+      "secao": "aines-uso",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente com história de infarto do miocárdio e stents nas coronárias precisa de medicação após uma cirurgia periodontal. Segundo o Andrade, qual orientação vale para os inibidores da COX?",
+      "alternativas": [
+        {
+          "texto": "Evitar os inibidores da COX, pelo risco aumentado de trombose, e trocar informações com o médico do paciente.",
+          "correta": true,
+          "justificativa": "O livro manda evitar inibidores da COX em pacientes com história de infarto, angina ou stents coronarianos, pelo risco aumentado de trombose, e recomenda trocar informações com o médico na doença cardiovascular.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, AINEs: precauções e contraindicações, p. 49"
+        },
+        {
+          "texto": "Trocar o AINE não seletivo por um coxibe, porque a inibição seletiva da COX-2 não aumenta o risco cardiovascular.",
+          "correta": false,
+          "justificativa": "O livro relata eventos cardiovasculares sérios com coxibes e manda evitá-los em doença cardíaca isquêmica e em quem teve acidente vascular encefálico.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Fármacos que inibem a síntese da COX, p. 47"
+        },
+        {
+          "texto": "Prescrever ibuprofeno na dose usual, porque o risco de trombose só existe no uso crônico.",
+          "correta": false,
+          "justificativa": "O ibuprofeno é um inibidor da COX (Tabela 6.1), e o livro manda evitar inibidores da COX em quem teve infarto, angina ou tem stents coronarianos, pelo risco aumentado de trombose.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, AINEs: precauções e contraindicações, p. 49"
+        },
+        {
+          "texto": "Prescrever o AINE em dose maior e por menos tempo, porque o risco de trombose depende da duração do uso.",
+          "correta": false,
+          "justificativa": "O livro manda evitar inibidores da COX em quem teve infarto, angina ou tem stents coronarianos, pelo risco aumentado de trombose.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, AINEs: precauções e contraindicações, p. 49"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, AINEs: precauções e contraindicações, p. 49",
+      "secao": "aines-cuidados",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Cirurgia eletiva de dois terceiros molares inclusos. O dentista escolheu dexametasona para controlar o edema. Segundo o Andrade, qual regime usar e por quê?",
+      "alternativas": [
+        {
+          "texto": "Preventivo, ao final da cirurgia, porque o paciente ainda está sob anestesia local.",
+          "correta": false,
+          "justificativa": "O livro indica o regime preventivo para os AINEs. Para os corticosteroides, que precisam de tempo para agir, o mais adequado é o preemptivo.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Quando e como empregar os AINEs, p. 47, e Uso dos corticosteroides, p. 50"
+        },
+        {
+          "texto": "Só quando a dor se instalar, porque os corticosteroides agem em minutos sobre o nociceptor.",
+          "correta": false,
+          "justificativa": "A ação dos corticosteroides é indireta e demorada: a maioria dos efeitos anti-inflamatórios só aparece cerca de 1 a 2 h depois, e por isso o livro os usa antes da lesão.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Como agem os corticosteroides, pp. 49–50"
+        },
+        {
+          "texto": "Perioperatório, mantido por 4 a 5 dias, para sustentar o efeito anti-inflamatório.",
+          "correta": false,
+          "justificativa": "O livro diz que dexametasona e betametasona, pela potência e pela duração, muitas vezes permitem dose única ou uso por tempo muito restrito. Os efeitos adversos de que se fala só aparecem com uso crônico.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Uso dos corticosteroides na clínica odontológica, p. 50"
+        },
+        {
+          "texto": "Preemptivo, antes da lesão tecidual, porque a maioria dos efeitos anti-inflamatórios só aparece 1 a 2 h depois.",
+          "correta": true,
+          "justificativa": "Os corticosteroides agem de forma indireta e demorada, e por isso o livro considera a analgesia preemptiva, introduzida antes da lesão tecidual, o regime mais adequado para eles.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Como agem os corticosteroides e Uso dos corticosteroides na clínica odontológica, p. 50"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Uso dos corticosteroides na clínica odontológica, p. 50",
+      "secao": "corticosteroides",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Antes de uma cirurgia, você vai fazer a antissepsia da pele do paciente com iodopovidona. Na anamnese, ele relata alergia a pólen, pó doméstico e picadas de insetos. Segundo o Andrade, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Manter a iodopovidona sem investigar, porque ela é menos alergênica que o iodo.",
+          "correta": false,
+          "justificativa": "O livro diz que ela é menos alergênica que o iodo, mas manda investigar com mais cuidado quem relata alergia a pólen, pó doméstico ou picadas de insetos e aponta, nesses casos, a clorexidina a 2%.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Soluções antissépticas, p. 55"
+        },
+        {
+          "texto": "Dispensar a antissepsia da pele, porque ela só é necessária antes de cirurgias de maior porte.",
+          "correta": false,
+          "justificativa": "O livro diz que a antissepsia é imprescindível antes de toda intervenção odontológica e lamenta que muitos a façam só antes de cirurgias.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Antissépticos, p. 55"
+        },
+        {
+          "texto": "Usar a solução aquosa de digluconato de clorexidina a 2%, alternativa mais viável nesses casos.",
+          "correta": true,
+          "justificativa": "Para quem relata alergia a pólen, pó doméstico ou picadas de insetos, o livro aponta como alternativa mais viável a solução aquosa de digluconato de clorexidina a 2%.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Soluções antissépticas, p. 55"
+        },
+        {
+          "texto": "Usar clorexidina em bochecho a 0,12%, que é a concentração mínima eficaz.",
+          "correta": false,
+          "justificativa": "A concentração de 0,12% é a mínima eficaz em bochecho. Para preparar a pele do paciente, o livro cita a clorexidina a 2% ou 4%.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Soluções antissépticas, pp. 55–56"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Soluções antissépticas, p. 55",
+      "secao": "antissepticos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente em uso contínuo de varfarina sódica, com dor leve a moderada depois de um procedimento. Segundo o Andrade, qual afirmação sobre os analgésicos de rotina está correta?",
+      "alternativas": [
+        {
+          "texto": "O paracetamol serve bem, porque tem ação anti-inflamatória e reduz o edema.",
+          "correta": false,
+          "justificativa": "O livro diz que o paracetamol quase não tem atividade anti-inflamatória, serve só como analgésico e não interfere no edema.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Paracetamol, p. 49"
+        },
+        {
+          "texto": "O paracetamol é contraindicado no uso contínuo de varfarina, pelo risco de aumentar o efeito anticoagulante e causar hemorragia.",
+          "correta": true,
+          "justificativa": "É a contraindicação que o livro traz para o paracetamol em quem usa varfarina sódica de forma contínua.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Considerações sobre o uso do paracetamol, p. 52"
+        },
+        {
+          "texto": "O livro contraindica a dipirona nesse caso, porque ela também potencializa a varfarina.",
+          "correta": false,
+          "justificativa": "As contraindicações da dipirona que o livro traz são hipersensibilidade às pirazolonas, porfiria hepática e deficiência de glicose-6-fosfato-desidrogenase; a contraindicação com varfarina é a do paracetamol.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Considerações sobre o uso da dipirona, p. 52"
+        },
+        {
+          "texto": "Os dois podem ser usados sem restrição, porque o livro os trata como os analgésicos de rotina da clínica odontológica.",
+          "correta": false,
+          "justificativa": "O livro os chama de analgésicos de rotina (p. 51), mas traz a contraindicação do paracetamol no uso contínuo de varfarina sódica (p. 52).",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Uso clínico dos analgésicos e Considerações sobre o uso do paracetamol, pp. 51–52"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Considerações sobre o uso do paracetamol, p. 52",
+      "secao": "dipirona-paracetamol",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adolescente de 14 anos com dor intensa depois de um procedimento, sem resposta aos analgésicos habituais. O dentista cogita tramadol 50 mg. O que o Andrade diz?",
+      "alternativas": [
+        {
+          "texto": "Pode usar, porque 50 mg é a dose usual de adulto e o efeito começa em cerca de 1 h.",
+          "correta": false,
+          "justificativa": "A dose de 50 mg e o início em cerca de 1 h são dados de adulto (Tabela 6.4 e p. 53). O livro diz que o tramadol não é indicado para menores de 16 anos.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Opioides fracos e Tabela 6.4, p. 53"
+        },
+        {
+          "texto": "Pode usar a regra prática de 1 gota por kg de peso, como nos analgésicos em solução oral.",
+          "correta": false,
+          "justificativa": "A regra prática de gotas por kg de peso que o livro traz é para dipirona, paracetamol e ibuprofeno. Para o tramadol, o limite que ele dá é de 16 anos.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Opioides fracos e doses em gotas, p. 53"
+        },
+        {
+          "texto": "Pode usar, porque o livro reserva o tramadol a dor intensa que não cede aos analgésicos habituais, como neste caso.",
+          "correta": false,
+          "justificativa": "Esse é o critério do livro para os opioides fracos (pp. 52–53), mas ele diz que o tramadol não é indicado para menores de 16 anos, e o paciente tem 14.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Opioides fracos, pp. 52–53"
+        },
+        {
+          "texto": "Não é indicado para menores de 16 anos, por falta de estudos clínicos controlados.",
+          "correta": true,
+          "justificativa": "O livro diz que o tramadol não é indicado para menores de 16 anos, por falta de estudos clínicos controlados.",
+          "fonte": "andrade3-cap06",
+          "onde": "cap. 6, Opioides fracos, p. 53"
+        }
+      ],
+      "fonte": "andrade3-cap06",
+      "onde": "cap. 6, Opioides fracos, p. 53",
+      "secao": "ibuprofeno-opioides",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente com abscesso periapical agudo localizado e delimitado. Sem febre, sem edema difuso, abertura bucal normal, sem linfadenite. Segundo o Andrade, qual a conduta?",
+      "alternativas": [
+        {
+          "texto": "Remover a causa e drenar, sem antibiótico, porque não há sinais de disseminação.",
+          "correta": true,
+          "justificativa": "Em processo bacteriano localizado, delimitado, sem sinais locais de disseminação nem manifestações sistêmicas, o livro diz que o antibiótico coadjuvante não é necessário; vale para as infecções agudas de origem endodôntica ou periodontal.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Tratamento das infecções, p. 68"
+        },
+        {
+          "texto": "Prescrever amoxicilina por 7 a 10 dias, para completar o ciclo.",
+          "correta": false,
+          "justificativa": "Sem sinais de disseminação o livro não indica o antibiótico, e ele contesta o ciclo completo de 7 a 10 dias.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Tratamento das infecções, p. 68, e Duração do tratamento, pp. 70–71"
+        },
+        {
+          "texto": "Prescrever só o antibiótico e dispensar a descontaminação local.",
+          "correta": false,
+          "justificativa": "O livro apresenta o antibiótico como complemento da descontaminação local, não como substituto dela.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Tratamento das infecções, pp. 67–68"
+        },
+        {
+          "texto": "Prescrever metronidazol isolado, porque o abscesso é causado por bacilos anaeróbios.",
+          "correta": false,
+          "justificativa": "O critério do livro para usar antibiótico é a presença de sinais de disseminação, que o caso não tem.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Tratamento das infecções, p. 68"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Tratamento das infecções, p. 68",
+      "secao": "antibioticos-quando",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com abscesso periapical agudo e história de alergia às penicilinas. Segundo o Andrade, qual antibiótico é hoje de escolha?",
+      "alternativas": [
+        {
+          "texto": "Eritromicina, como primeira escolha.",
+          "correta": false,
+          "justificativa": "O livro diz que a eritromicina só serve como alternativa, em infecção leve a moderada e em fase inicial, nunca como primeira escolha.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Seleção do antibiótico, p. 69"
+        },
+        {
+          "texto": "Doxiciclina.",
+          "correta": false,
+          "justificativa": "O livro restringe as tetraciclinas às periodontites, como alternativa a alérgicos às penicilinas ou a quem teve efeito adverso com metronidazol.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Seleção do antibiótico, p. 69"
+        },
+        {
+          "texto": "Claritromicina.",
+          "correta": true,
+          "justificativa": "Claritromicina e azitromicina são, segundo o livro, os antibióticos de escolha para abscessos periapicais agudos em quem tem história de alergia às penicilinas.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Seleção do antibiótico, p. 69"
+        },
+        {
+          "texto": "Cefalexina.",
+          "correta": false,
+          "justificativa": "O livro diz que as cefalosporinas não devem ser primeira escolha nas infecções odontológicas ambulatoriais.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Seleção do antibiótico, pp. 68–69"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Seleção do antibiótico, p. 69",
+      "secao": "antibioticos-alternativas",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Abscesso agudo drenado há 3 dias. O paciente está sem febre, sem dor e o edema regrediu, mas a receita era de 7 dias. Segundo o Andrade, qual a orientação?",
+      "alternativas": [
+        {
+          "texto": "Completar os 7 a 10 dias, porque o uso prolongado elimina as bactérias resistentes.",
+          "correta": false,
+          "justificativa": "Para o livro, um antibacteriano não afeta bactérias resistentes a ele; o uso prolongado só as seleciona.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Duração do tratamento, p. 71"
+        },
+        {
+          "texto": "Pode interromper quando a anamnese e o exame mostrarem que as defesas reassumiram o controle; 3 a 5 dias podem bastar.",
+          "correta": true,
+          "justificativa": "Com a fonte erradicada, o livro diz que a duração ideal é a menor possível, guiada pela remissão dos sintomas e pelo acompanhamento diário, e que o tratamento pode terminar após 3 a 5 dias.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Duração do tratamento, p. 71"
+        },
+        {
+          "texto": "Manter até o fim, porque o antibiótico só suprime os microrganismos e a infecção reincide.",
+          "correta": false,
+          "justificativa": "O livro contesta isso: as infecções bucais bacterianas dificilmente reincidem, sobretudo se a fonte é erradicada por meios mecânicos.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Duração do tratamento, p. 71"
+        },
+        {
+          "texto": "Manter até o fim, porque a duração de uma infecção bucal pode ser extrapolada da de outra.",
+          "correta": false,
+          "justificativa": "O livro diz que doses e duração não podem ser extrapoladas de uma infecção para outra, pela variabilidade das infecções.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Duração do tratamento, p. 71"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Duração do tratamento, p. 71",
+      "secao": "antibioticos-duracao",
+      "figura": null
+    }
+  ]
+}

@@ -3,61 +3,78 @@
   "topicos": [
     {
       "slug": "diagnostico-pulpar-e-periapical",
-      "titulo": "Diagnóstico pulpar e periapical",
+      "titulo": "Diagnóstico pulpar e periapical: testes e decisão",
       "area": "Endodontia",
-      "resumoCurto": "Decide urgência, endodontia ou exodontia na triagem",
-      "status": "em-breve",
-      "origem": "Cronograma da disciplina",
+      "resumoCurto": "Terminologia, testes de sensibilidade, percussão e palpação, e a correlação com a radiografia.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed., cap. 1",
       "compartilhadoDe": "14733"
     },
     {
       "slug": "farmacologia-clinica-em-odontologia",
-      "titulo": "Analgésicos, anti-inflamatórios e antibióticos: escolha, dose e duração",
+      "titulo": "Analgésicos, anti-inflamatórios, antibióticos e antissépticos: escolha, dose e duração",
       "area": "Farmacologia",
-      "resumoCurto": "O cronograma pede revisão de farmacologia; erro de antibiótico é o mais comum",
-      "status": "em-breve",
-      "origem": "Cronograma da disciplina"
+      "resumoCurto": "Analgésicos, anti-inflamatórios, corticosteroides, antissépticos e antibióticos na clínica, com dose e duração pelo Andrade.",
+      "status": "em-revisao",
+      "origem": "Andrade, Terapêutica Medicamentosa em Odontologia, 3ª ed., cap. 6 (Prevenção e controle da dor) e cap. 7 (antibióticos no tratamento das infecções bucais), com remissões aos caps. 17 e 19"
     },
     {
       "slug": "periodontite-estagio-grau",
-      "titulo": "Classificação periodontal 2018",
+      "titulo": "Periodontite: estágio, grau e extensão",
       "area": "Periodontia",
-      "resumoCurto": "Diagnóstico periodontal correto é exigido em todo prontuário de clínica",
-      "status": "em-breve",
-      "origem": "Aula — Prof. Pedro",
+      "resumoCurto": "Como fechar o diagnóstico pela classificação de 2018: critérios de caso, os quatro estágios, os três graus e a extensão.",
+      "status": "em-revisao",
+      "origem": "Consenso de 2018 (Tonetti, Papapanou, Caton, Chapple)",
       "compartilhadoDe": "14733"
     },
     {
       "slug": "profilaxia-antibiotica",
       "titulo": "Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)",
       "area": "Farmacologia",
-      "resumoCurto": "Prescrição desnecessária é comum; a diretriz encolheu as indicações",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Quem precisa e qual o regime pela AHA 2021; o que o Andrade e a ADA (2015 e 2026) dizem sobre endocardite e prótese articular.",
+      "status": "em-revisao",
+      "origem": "Andrade, 3ª ed., caps. 7 (pp. 73–75) e 18 (pp. 181–191); AHA 2021 (EUA); ADA 2015 (EUA); ADA 2026 (EUA)"
     },
     {
       "slug": "prontuario-e-consentimento",
       "titulo": "Prontuário odontológico, termo de consentimento e responsabilidade legal",
       "area": "Clínica Integrada",
-      "resumoCurto": "Documento que protege paciente e aluno.",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "O que o prontuário deve ter, consentimento, sigilo, guarda e responsabilidade civil, pelo Vanrell, pelo Daruge, pelo Código de Ética e pela lei.",
+      "status": "em-revisao",
+      "origem": "Vanrell 3ª ed., caps. 30, 31, 33 e 34; Daruge 1ª ed., caps. 5, 7, 12 e 17; CFO-118/2012; Código Civil (2002); CDC (1990); Stefanac e Nesbit 3ª ed., cap. 1 (EUA); Lei 13.787/2018; CFO-SEC-91/2009; Lei 15.378/2026"
+    },
+    {
+      "slug": "documentos-odontolegais-e-receituario",
+      "titulo": "Documentos odontolegais, receituário e erro odontológico",
+      "area": "Clínica Integrada",
+      "resumoCurto": "Atestado, declaração, notificação compulsória, relatório e parecer; receita comum, de controle especial e Notificação de Receita; CID no atestado; erro odontológico, pelo Vanrell, pelo Daruge e pelo Código de Ética.",
+      "status": "em-revisao",
+      "origem": "Vanrell 3ª ed., caps. 19, 21 e 22; Daruge 1ª ed., caps. 8, 12 (receituário, pp. 181–189) e 13; CFO-118/2012; Portaria 344/1998; RDC 1.000/2025; RDC 471/2021; IN 360/2025; Lei 5.081/1966; Código Penal (1940)"
     },
     {
       "slug": "raciocinio-diagnostico-e-lista-de-problemas",
-      "titulo": "Do caso ao diagnóstico: lista de problemas e diagnósticos por especialidade",
+      "titulo": "Do caso ao diagnóstico: lista de diagnósticos e problemas",
       "area": "Clínica Integrada",
-      "resumoCurto": "Treina o que as aulas de discussão de casos cobram",
-      "status": "em-breve",
-      "origem": "Cronograma da disciplina"
+      "resumoCurto": "Da história e do exame à lista de diagnósticos e problemas, com risco e prognóstico, pelo Stefanac.",
+      "status": "em-revisao",
+      "origem": "Stefanac e Nesbit 3ª ed., caps. 1 a 3; consenso de 2018 (Tonetti et al.); Cohen 12ª ed., cap. 1"
+    },
+    {
+      "slug": "plano-de-tratamento-integrado",
+      "titulo": "Plano de tratamento integrado: ordem das fases",
+      "area": "Integrado",
+      "resumoCurto": "As fases do plano e a ordem dentro de cada uma, pelo Stefanac e pelo Lindhe, com o Carranza e o Pegoraro ao lado.",
+      "status": "em-revisao",
+      "origem": "Stefanac 3ª ed., cap. 4; Newman e Carranza 13ª ed., caps. 69 e 72; Lindhe 7ª ed., cap. 25; Pegoraro 2ª ed., cap. 1",
+      "compartilhadoDe": "14733"
     },
     {
       "slug": "radiografias-intrabucais",
-      "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação básica",
+      "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação",
       "area": "Radiologia",
-      "resumoCurto": "Base de diagnóstico em todas as especialidades",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)"
+      "resumoCurto": "Paralelismo, bissetriz, interproximal e oclusal: técnica, erros, proteção e escolha do exame, pelo White e Pharoah.",
+      "status": "em-revisao",
+      "origem": "White e Pharoah, Radiologia Oral, 8ª ed., caps. 3, 4, 5, 6, 7, 17 e 18"
     },
     {
       "slug": "triagem-e-classificacao-de-necessidades",
@@ -66,6 +83,102 @@
       "resumoCurto": "É a porta de entrada da clínica ampliada",
       "status": "em-breve",
       "origem": "Cronograma da disciplina"
+    },
+    {
+      "slug": "radiografias-panoramica-e-tomografia",
+      "titulo": "Radiografia panorâmica e tomografia computadorizada de feixe cônico (TCFC): indicações, erros e interpretação",
+      "area": "Radiologia",
+      "resumoCurto": "Panorâmica (indicações, posicionamento, erros, anatomia) e TCFC (aquisição, dose, indicações), pelo White e Pharoah.",
+      "status": "em-revisao",
+      "origem": "White e Pharoah 8ª ed. (Mallya e Lam), caps. 9, 10, 11, 17 (parte) e 3 (parte)"
+    },
+    {
+      "slug": "isolamento-do-campo-operatorio",
+      "titulo": "Isolamento do campo operatório: absoluto e relativo, grampos e colocação do dique",
+      "area": "Dentística",
+      "resumoCurto": "Isolamento absoluto e relativo: grampos, dique, técnicas de colocação e remoção, pelo Baratieri e pelo Mondelli.",
+      "status": "em-revisao",
+      "origem": "Baratieri, Vol. 1, cap. 4 (pp. 71–96); Mondelli, 1ª ed., cap. 4 (pp. 37–50, numeração do contador)"
+    },
+    {
+      "slug": "procedimento-restaurador-na-clinica",
+      "titulo": "Procedimento restaurador na clínica: classificação, materiais e substituição",
+      "area": "Dentística",
+      "resumoCurto": "Nomenclatura e classificação das cavidades, resina e amálgama, Classe III e quando manter, reparar ou substituir (FDI 2023).",
+      "status": "em-revisao",
+      "origem": "Baratieri, Vol. 1, caps. 1, 6, 9 e 10; Mondelli 1ª ed., cap. 17; FDI 2023 (Hickel et al.)"
+    },
+    {
+      "slug": "deteccao-e-diagnostico-de-carie",
+      "titulo": "Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão",
+      "area": "Dentística",
+      "resumoCurto": "Como detectar e estadiar a lesão (inspeção visual com ICDAS, radiografia interproximal) e avaliar se está ativa: consenso ORCA-EFCD ao lado do Cariologia.",
+      "status": "em-revisao",
+      "origem": "ORCA-EFCD 2024, Paper I e Paper II; Maltz et al. (Série Abeno) 2016, cap. 6",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "remocao-seletiva-de-carie",
+      "titulo": "Remoção seletiva de tecido cariado: critérios e evidência",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Até onde remover na cárie profunda: remoção seletiva × completa, remoção em etapas e critérios para a dentina.",
+      "status": "em-revisao",
+      "origem": "Consenso ICCC, Schwendicke et al. 2016 (Adv Dent Res)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "carie-profunda-remocao-seletiva-e-protecao-pulpar",
+      "titulo": "Cárie profunda: proteção do complexo dentinopulpar",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Proteção pulpar na cárie profunda: capeamento indireto e direto, pulpotomia, hemostasia, materiais, forramento conforme a profundidade e acompanhamento.",
+      "status": "em-revisao",
+      "origem": "Cohen 12ª ed. (cap. 24) e Mondelli 2ª ed. (cap. 20)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "resina-direta-posterior",
+      "titulo": "Restauração direta em resina composta em posteriores",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Isolamento, sistemas adesivos, matriz e cunha, inserção incremental (técnica do Mondelli) e conferência.",
+      "status": "em-revisao",
+      "origem": "Mondelli 2ª ed. (cap. 20) e Baratieri (caps. 5, 17–18)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "resina-direta-anterior-classe-iv",
+      "titulo": "Restauração direta classe IV em anteriores",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Planejamento (cor, ensaio e mapa cromático), guia de silicone × mão livre, bisel, retenção, inserção e acabamento.",
+      "status": "em-revisao",
+      "origem": "Mondelli 2ª ed. (caps. 27–28) e Baratieri (cap. 11)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "lesoes-cervicais-nao-cariosas",
+      "titulo": "Lesões cervicais não cariosas: diagnóstico e conduta",
+      "area": "Dentística e reabilitação",
+      "resumoCurto": "Erosão (biocorrosão), abfração e outras lesões cervicais: etiologia, quando acompanhar, quando restaurar e a técnica em resina, segundo Nascimento, Goodacre (resumo) e Baratieri.",
+      "status": "em-revisao",
+      "origem": "Nascimento et al. 2016; Goodacre et al. 2023 (resumo); Baratieri vol. 1, caps. 1, 2 e 12",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "traumatismo-dentario",
+      "titulo": "Traumatismo dentário: fraturas coronárias e avulsão",
+      "area": "Endodontia",
+      "resumoCurto": "Fraturas de esmalte e dentina e a conduta na avulsão de dente permanente.",
+      "status": "em-revisao",
+      "origem": "IADT 2020, partes 1 e 2 (tradução oficial em português)",
+      "compartilhadoDe": "14733"
+    },
+    {
+      "slug": "oclusao-na-clinica-restauradora",
+      "titulo": "Oclusão na clínica restauradora: contatos, guias e ajuste das restaurações",
+      "area": "Prótese",
+      "resumoCurto": "Contatos, guias e posição mandibular ao restaurar: o que o Okeson, o Pegoraro e o Shillingburg pedem e como ajustar a restauração na boca.",
+      "status": "em-revisao",
+      "origem": "Okeson 8ª ed., caps. 5 e 20; Pegoraro 2ª ed., caps. 2 e 11; Shillingburg 4ª ed., caps. 2 e 21",
+      "compartilhadoDe": "14733"
     }
   ]
 }

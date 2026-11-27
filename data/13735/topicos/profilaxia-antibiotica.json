@@ -1,0 +1,596 @@
+{
+  "slug": "profilaxia-antibiotica",
+  "titulo": "Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)",
+  "area": "Farmacologia",
+  "origem": "Andrade, 3ª ed., caps. 7 (pp. 73–75) e 18 (pp. 181–191); AHA 2021 (EUA); ADA 2015 (EUA); ADA 2026 (EUA)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "andrade3-cap07",
+      "ref": "Groppo F, Del Fiol FS, Andrade ED. Uso de antibióticos no tratamento ou na prevenção das infecções bacterianas bucais. In: Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 7, p. 55–75 (numeração impressa).",
+      "curta": "Andrade 3ª ed., cap. 7"
+    },
+    {
+      "id": "andrade3-cap18",
+      "ref": "Andrade ED, Volpato MC. Portadores de doenças cardiovasculares. In: Andrade ED (org.). Terapêutica Medicamentosa em Odontologia. 3ª ed. Porto Alegre: Artes Médicas; 2014. Cap. 18, p. 181–191 (numeração impressa).",
+      "curta": "Andrade 3ª ed., cap. 18"
+    },
+    {
+      "id": "aha2021",
+      "ref": "Wilson WR, Gewitz M, Lockhart PB, et al. Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association. Circulation. 2021;143(20):e963–e978 (versão corrigida em 30/08/2021 e 25/04/2022; lida em 16/11/2026). DOI 10.1161/CIR.0000000000000969. Declaração dos EUA.",
+      "curta": "AHA 2021 (EUA)"
+    },
+    {
+      "id": "ada2015",
+      "ref": "Sollecito TP, Abt E, Lockhart PB, et al. The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: evidence-based clinical practice guideline for dental practitioners. J Am Dent Assoc. 2015;146(1):11–16.e8 (versão de janeiro de 2015; lida em 16/11/2026). Diretriz dos EUA (ADA Council on Scientific Affairs).",
+      "curta": "ADA 2015 (EUA)"
+    },
+    {
+      "id": "ada2026",
+      "ref": "American Dental Association, Council on Scientific Affairs. Shared decision making in oral health care for patients with prosthetic joint replacements: position statement. J Am Dent Assoc. 2026;157(6):667–669 (versão de junho de 2026; lida em 16/11/2026). Declaração de posição dos EUA.",
+      "curta": "ADA 2026 (EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "andrade-conceito",
+      "titulo": "O que é profilaxia antibiótica e quando o Andrade a considera na região operada",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, abertura (contador 68) e Prevenção das infecções, Profilaxia cirúrgica, pp. 73–74",
+      "texto": "Segundo o Andrade (livro brasileiro, de 2014), **profilaxia antibiótica** é o uso de antibiótico em quem **não tem evidência de infecção**, para evitar colonização bacteriana e complicações no pós-operatório. Não é o mesmo que tratar infecção instalada. O livro dá dois objetivos: prevenir infecção **na região operada** (profilaxia cirúrgica) e prevenir **infecção à distância** em paciente suscetível.\n\n**Quando não se faz.** Sem sinais de infecção, em paciente imunocompetente e sem risco de complicação à distância, o livro diz que a profilaxia **não é recomendada na maioria dos casos**. Para ele, dar antibiótico sem critério só para ‘prevenir’ a contaminação da ferida é prática, em geral, sem respaldo científico ou experimental, que foge dos princípios da profilaxia cirúrgica.\n\n**Infecção já instalada.** Remover a causa vem primeiro (cálculo grosseiro, canais radiculares contaminados, abscesso a drenar). Segundo o livro, o antibiótico sozinho, sem agir na fonte, é praticamente ineficaz: ele é auxiliar. O antibiótico no tratamento é assunto do tema Analgésicos, anti-inflamatórios, antibióticos e antissépticos: escolha, dose e duração.\n\n**Profilaxia cirúrgica (região operada).** O livro vê muita controvérsia (terceiros molares inclusos, cirurgia periodontal ou perirradicular, implantes).\n- **Terceiros molares inclusos:** o livro estima infecção pós-operatória de cerca de 1% quando o cirurgião é bucomaxilofacial. Com assepsia e antissepsia rigorosas, a profilaxia parece não estar indicada, salvo sistema imune comprometido, doença sistêmica ou outra condição de risco. Ele estima também que 6 a 7% dos pacientes medicados com antibiótico têm alguma reação adversa, o que pesa na relação risco/benefício.\n- **Quando parece efetiva**, com razoável relação risco/benefício: prevenir contaminação de área estéril; infecção remota, mas de alta morbidade; procedimentos com altas taxas de infecção; implantação de material protético.\n- **Nos EUA**, segundo o livro, só se recomenda em procedimento de alta incidência de infecção ou na implantação de peças protéticas ou corpos estranhos volumosos. Já se sugeriu que a cirurgia de implantes, em imunocompetente, talvez seja a única em que poderia estar indicada, e há opiniões contrárias. Terceiros molares e implantes são discutidos nos caps. 10 e 13 do livro.\n- **Duração:** profilaxia prolongada não dá proteção adicional e pode aumentar reações adversas e a seleção de resistentes. O livro cita que antibiótico por 12 a 16 h já foi efetivo em vários procedimentos.\n\n**Atenção:** o livro diz ‘maioria dos casos’, não todos. A prevenção de infecção à distância, em certos pacientes, está nas seções seguintes."
+    },
+    {
+      "id": "andrade-ei-protese",
+      "titulo": "Infecção à distância: endocardite e próteses ortopédicas (Andrade, cap. 7)",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Profilaxia de infecções à distância, Pacientes suscetíveis à endocardite infecciosa e Portadores de próteses ortopédicas, pp. 74–75",
+      "texto": "O Andrade considera consensual dar antibiótico a quem tem certas condições de risco quando a intervenção odontológica causa bacteremia transitória, para evitar **infecção à distância**, em outro local do corpo. Ele cita como candidatos alguns cardiopatas (**endocardite infecciosa**, EI), portadores de prótese ortopédica recente e pacientes imunossuprimidos ou com alteração metabólica importante.\n\n**Endocardite infecciosa.** É uma inflamação proliferativa do endocárdio por infecção microbiana, com mortalidade alta. Os estreptococos são os mais associados. O livro diz que cresce a EI por estafilococos (especialmente *Staphylococcus aureus*), abundantes na pele, o que põe usuários de drogas injetáveis entre os maiores grupos de risco.\n- Os estreptococos do grupo viridans são abundantes na boca, e até há pouco o dentista era visto como grande causador indireto. O livro diz que hoje se sabe que o tratamento odontológico responde por pequena percentagem dos casos, e que é mais provável a EI vir de hábitos de higiene como escovação e fio dental. Segundo Pallasch, citado pelo livro, a EI pode surgir quando as defesas do organismo falham diante de um dos milhares de episódios de bacteremia da vida.\n- Mesmo assim, o papel do dentista na prevenção segue muito importante. O livro cita a AHA, cuja comissão tem representantes da ADA, e deixa para o cap. 18 os regimes e as normas de conduta, pelas recomendações da AHA então atuais.\n\n**Próteses ortopédicas.** O livro cita uma comissão com membros da American Academy of Orthopaedic Surgeons e da ADA que avaliou a profilaxia contra infecção articular por via sanguínea em artroplastia total.\n- Primeira recomendação citada: a profilaxia **não é necessária** em paciente com pinos, placas ou parafusos ortopédicos, nem de rotina para a maioria dos portadores de prótese total articular.\n- Seriam candidatos os portadores de prótese total com uma destas condições: imunocomprometimento por artropatia inflamatória, artrite reumatoide, lúpus eritematoso sistêmico, irradiação ou imunossupressores; diabetes tipo I (insulino-dependente); subnutrição; hemofilia; primeiros dois anos após a colocação da prótese; história de infecção de prótese articular.\n- Os regimes para prótese ortopédica são os mesmos da profilaxia da EI, descritos no cap. 18.\n\n**Atenção:** o livro é de 2014. A diretriz da ADA de 2015 e a declaração da ADA de 2026 sobre prótese articular têm seção própria neste tema."
+    },
+    {
+      "id": "andrade-outros-grupos",
+      "titulo": "Renais crônicos, diabéticos, imunocomprometidos e HIV (Andrade, cap. 7)",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Pacientes renais crônicos, Diabéticos, Pacientes imunocomprometidos, p. 75",
+      "texto": "Nesta página o Andrade trata de outros grupos de infecção à distância: renais crônicos, diabéticos, imunocomprometidos e infectados pelo HIV.\n\n**Renais crônicos em diálise.** O livro diz que quase não há estudos bem controlados, com placebo, que mostrem eficácia da profilaxia nesses pacientes. Para a endocardite, ele a vê como discutível: a complicação, quando surge, vem sempre de bactérias da pele, pela fístula arteriovenosa, e não há casos documentados ligados a procedimento odontológico com bacteremia transitória. O cap. 23 do livro traz mais informações.\n\n**Diabéticos.** No diabetes não controlado as defesas caem (os leucócitos têm menos quimiotaxia e menos atividade fagocitária e bactericida) e o risco de infecção sobe. A profilaxia **de rotina não é indicada**: bastam assepsia e antissepsia locais. Só se considera no descompensado, com cetoacidose e cetonúria, e então o atendimento só é recomendado em urgência.\n\n**Imunocomprometidos.** Granulócitos baixos aumentam o risco de infecção por procedimento com bacteremia transitória. Segundo o livro, o limiar de quem recomenda a profilaxia é 3.500/mm³; *The Medical Letter on Drugs and Therapeutics* a defende abaixo de 1.000/mm³.\n- Os regimes da AHA dirigidos aos estreptococos viridans, embora não elaborados para isso, parecem apropriados em quem está imunocomprometido por quimioterapia do câncer ou por transplante de medula óssea, porque a complicação mais grave nesse grupo é o choque séptico por esses microrganismos.\n\n**Infectados pelo HIV.** O livro diz não recomendar a profilaxia, porque ela pode ser extremamente perigosa: superinfecção por fungos, como *Candida albicans*, e por outros patógenos resistentes em quem está muito imunocomprometido.\n\n**Atenção:** nos imunocomprometidos, o livro recomenda trocar informações com o médico do paciente."
+    },
+    {
+      "id": "andrade-endocardite",
+      "titulo": "Endocardite infecciosa: NICE, AHA 2007 e os quadros do Andrade (cap. 18)",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Endocardite infecciosa, Prevenção da endocardite infecciosa, Quadro 18.1 e Quadro 18.2, pp. 184–187",
+      "texto": "Segundo o Andrade (cap. 18, de 2014), a EI é infecção da superfície do endocárdio, em especial o valvar, e é a causa mais comum de deformidade das valvas cardíacas. É rara (estimativa de 1 caso por 100 mil pessoas), mas deixa sequelas graves, e a mortalidade segue elevada (o livro cita 25% nos últimos anos). Quem precisa de prótese valvar passa a ser de alto risco.\n\n**O debate que o livro apresenta.** A AHA, a British Society of Antimicrobial Chemotherapy, o NICE (Reino Unido) e a European Society of Cardiology publicaram diretrizes de prevenção. O livro lista pontos que pedem rever conceitos: a maioria dos pacientes com EI não passou por procedimento médico ou odontológico; o risco é maior em bacteremias recorrentes (má saúde bucal, higiene oral diária) do que em evento isolado; antissepsia e assepsia podem ser mais efetivas que a profilaxia.\n- O NICE decidiu em 2008 **não mais recomendar** a profilaxia em pacientes de risco. O livro chama essa diretriz de radical e relata um caso de paciente com prótese metálica de valva aórtica que teve EI 10 dias depois de intervenção sem profilaxia e morreu.\n- Para o livro, ainda não há segurança absoluta para não usar antibiótico. Ele cita que, no Brasil e em países menos desenvolvidos, a febre reumática e a doença de Chagas elevam a incidência de lesão valvar, e por isso a interação entre cardiologista e dentista é fundamental.\n- O livro diz que a base da profilaxia tem três pilares: identificar quem tem risco, conhecer os procedimentos que causam bacteremia e escolher o antimicrobiano adequado.\n\n**O que o livro adota.** A Área de Farmacologia da FOP/Unicamp segue as recomendações da **AHA de 2007**, como a maioria dos cardiologistas brasileiros, segundo o livro.\n- **Quadro 18.1:** profilaxia recomendada para valva protética ou material protético de reparo, EI prévia, valvopatia em transplantado cardíaco e certas cardiopatias congênitas, em procedimento que manipula gengiva ou região periapical ou perfura a mucosa. Não requerem: anestesia de rotina em tecido não infectado, radiografias, colocação ou ajuste de aparelhos, esfoliação de decíduos, sangramento da mucosa por trauma.\n- A princípio não se recomenda após revascularização do miocárdio nem em marca-passo ou desfibrilador, mas o cardiologista analisa e decide.\n- **Quadro 18.2:** traz a nota de que cefalosporinas não devem ser usadas em quem teve anafilaxia, angioedema ou urticária com penicilina. **Atenção:** esse quadro, por ser de 2007, ainda traz a clindamicina entre as alternativas para alérgicos às penicilinas, e a AHA 2021 não a recomenda mais. O regime deste tema é o da AHA 2021, na seção própria."
+    },
+    {
+      "id": "andrade-protocolo",
+      "titulo": "Protocolo de atendimento e stents segundo o Andrade (cap. 18)",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Protocolo de atendimento de pacientes com risco para a endocardite, Portadores de stents das artérias coronárias, pp. 188–190; protocolo de doença cardíaca isquêmica, p. 181",
+      "texto": "Esta seção traz o protocolo que o Andrade apresenta como adotado pela Área de Farmacologia, Anestesiologia e Terapêutica da FOP/Unicamp, apoiado em Mendes Filho.\n\n**Mecanismo.** O livro diz que o mecanismo pelo qual os antibióticos previnem a EI não é conhecido. Uma hipótese aceita é que eles impeçam a adesão das bactérias ao endocárdio lesado ou a multiplicação das já aderidas, e não que reduzam a bacteremia. **Piercing** bucal na mucosa labial, na língua ou no freio lingual é risco potencial para EI, e o dentista deve desencorajá-lo.\n\n**Protocolo (itens do livro, em resumo):**\n- encaminhar ao cardiologista informando o tipo de procedimento, e com ele classificar o risco para EI e **definir de comum acordo** se haverá profilaxia;\n- planejar o tratamento para fazer o maior número de procedimentos sob a mesma cobertura antibiótica;\n- não usar antimicrobianos fora dos regimes da AHA e **conferir que o paciente tomou** o medicamento antes de começar;\n- **a cada sessão, imediatamente antes do procedimento, bochecho com digluconato de clorexidina a 0,2%**, para reduzir a magnitude das bacteremias;\n- evitar traumatismo gengival desnecessário e reforçar a higiene bucal;\n- espaçar as sessões em **no mínimo 10 dias**; segundo o livro, isso pode ajudar a evitar a seleção de bactérias resistentes;\n- se prescrever clorexidina a 0,12% para uso contínuo, no máximo 3 dias, pela possível seleção de bactérias resistentes;\n- em urgência, ou se não for possível falar com o cardiologista, pesar risco e benefício: **em caso de dúvida, fazer a profilaxia**;\n- agendar consultas periódicas de avaliação da saúde bucal.\n\n**Stents coronarianos.** Os stents ficam recobertos por nova camada íntima em 72 h, e por volta de 28 a 30 dias estão completamente endotelizados. O livro registra a opinião de autores de que quem tem stent **não precisa** de profilaxia contra a endoarterite (não há endocárdio nas artérias). Mas manda ter cuidado nos **primeiros 30 dias**: o dentista contata o cardiologista para discutir a necessidade, usando os mesmos regimes da AHA para EI. O protocolo de cardiopatia isquêmica também cita candidatos até 30 dias após o stent.\n- A AHA 2021 trata os stents de outro modo; veja a seção AHA 2021 (EUA): em quem e em que procedimentos a profilaxia é sugerida.\n\n**Atenção:** a clorexidina antes da sessão, o intervalo de 10 dias e a conduta nos stents são pontos do protocolo do Andrade."
+    },
+    {
+      "id": "aha-condicoes",
+      "titulo": "AHA 2021 (EUA): em quem e em que procedimentos a profilaxia é sugerida",
+      "fonte": "aha2021",
+      "onde": "Tabela 3 e Tabela 4 (versão corrigida de 25/04/2022); resumo e conclusão",
+      "texto": "A AHA (American Heart Association, dos EUA) publicou em 2021 uma **declaração científica** sobre a prevenção da endocardite por estreptococos do grupo viridans (versão corrigida em 2021 e 2022). Ela **sugere** a profilaxia só para quem tem maior risco de desfecho ruim e diz que não há ensaio randomizado: a eficácia é **não comprovada**. O resumo conclui que **não há mudança recomendada** em relação às diretrizes de 2007, e dá ênfase à boa saúde bucal e ao acesso regular ao dentista para todos.\n\n**Tabela 3. Profilaxia sugerida** para procedimento odontológico em:\n- prótese ou material cardíaco: valva protética; implante transcateter de valva; reparo de valva com dispositivos (anuloplastia, anéis ou clipes); dispositivo de assistência ventricular esquerda ou coração implantável;\n- endocardite prévia, recidivante ou recorrente;\n- cardiopatia congênita: cianótica não reparada (inclui shunts e condutos paliativos); defeito completamente reparado com material protético ou dispositivo, por cirurgia ou cateter, **durante os primeiros 6 meses**; reparada com defeito residual no local ou ao lado de remendo ou dispositivo protético; colocação cirúrgica ou por cateter de valva ou conduto da artéria pulmonar;\n- receptor de transplante cardíaco que desenvolve valvulopatia.\n\n**Tabela 3. Profilaxia não sugerida:** dispositivos eletrônicos implantáveis (marca-passo e semelhantes); fechamento de defeito septal quando completo; enxertos e remendos vasculares periféricos, inclusive de hemodiálise; stents coronarianos ou outros stents vasculares; derivações ventrículo-atriais do SNC; filtros de veia cava; pledgets.\n\nO texto não sugere profilaxia para valvopatia reumática, estenose aórtica, valva aórtica bicúspide nem prolapso da valva mitral: a declaração examinou ampliar as categorias e manteve a posição.\n\n**Tabela 4. Procedimentos**, nos quatro grupos de maior risco:\n- **sugerida** em todo procedimento que manipula o tecido gengival ou a região periapical dos dentes, ou perfura a mucosa oral;\n- **não sugerida** em injeção anestésica por tecido não infectado, radiografias, colocação de aparelhos removíveis ou ortodônticos, ajuste de aparelho ortodôntico, colocação de braquetes, esfoliação de dente decíduo e sangramento por trauma de lábios ou mucosa oral.\n\n**Atenção:** prótese articular não é assunto desta declaração. A seção do Andrade mostra como o livro, anterior, trata os stents."
+    },
+    {
+      "id": "aha-regime",
+      "titulo": "AHA 2021 (EUA): regime de antibiótico (Tabela 5)",
+      "fonte": "aha2021",
+      "onde": "Tabela 5 (versão corrigida de 25/04/2022) e notas da tabela",
+      "texto": "Este é o regime do tema. Segundo a Tabela 5 da AHA 2021 (EUA, versão corrigida), o esquema é **dose única, 30 a 60 minutos antes do procedimento**.\n\n| Situação | Fármaco | Adulto | Criança |\n|---|---|---|---|\n| Via oral | Amoxicilina | 2 g | 50 mg/kg |\n| Sem condição de usar via oral | Ampicilina, ou | 2 g IM ou IV | 50 mg/kg IM ou IV |\n| | Cefazolina ou ceftriaxona | 1 g IM ou IV | 50 mg/kg IM ou IV |\n| Alérgico a penicilina ou ampicilina e sem condição de usar via oral | Cefazolina ou ceftriaxona† | 1 g IM ou IV | 50 mg/kg IM ou IV |\n| Alérgico a penicilina ou ampicilina, via oral | Cefalexina*†, ou | 2 g | 50 mg/kg |\n| | Azitromicina ou claritromicina, ou | 500 mg | 15 mg/kg |\n| | Doxiciclina | 100 mg | menos de 45 kg: 2,2 mg/kg; mais de 45 kg: 100 mg |\n\nIM, intramuscular; IV, intravenoso.\n\n**Notas da tabela:**\n- **Clindamicina:** a AHA diz que ela **não é mais recomendada** na profilaxia para procedimento odontológico. O texto dá como razões as reações mais frequentes e mais graves e cita um estudo do Reino Unido que sugere que até uma dose única pode causar complicações por *Clostridioides difficile*. Esta declaração não traz regime com clindamicina.\n- \\* Cefalexina pode ser trocada por outra cefalosporina oral de primeira ou segunda geração, em dose equivalente.\n- † Quem já teve anafilaxia, angioedema ou urticária com penicilina ou ampicilina **não deve receber cefalosporina**. A nota vale para a cefalexina e também para a cefazolina ou ceftriaxona da linha do alérgico sem via oral. Esse sinal foi acrescentado na correção de 25/04/2022.\n- A dose de doxiciclina para criança com menos de 45 kg foi corrigida em 30/08/2021, de 4,4 para 2,2 mg/kg. Confira que a tabela que você consulta é a corrigida.\n\n**Atenção:** a declaração diz que, na maioria das circunstâncias que ficam fora das sugestões da Tabela 5, o julgamento clínico e a decisão compartilhada com o paciente são importantes (subseção Outras considerações, Other Considerations)."
+    },
+    {
+      "id": "aha-cuidados",
+      "titulo": "AHA 2021 (EUA): reações, resistência, atraso e decisão compartilhada",
+      "fonte": "aha2021",
+      "onde": "subseções Reações, Resistência e Outras considerações (Other Considerations) (texto da declaração; Tabela 5); a decisão compartilhada aparece em mais de um ponto do texto, e não numa subseção própria",
+      "texto": "O que a AHA 2021 (EUA) diz além da tabela de regimes:\n\n**Reações.** A declaração considera baixo o risco de reação grave (urticária, angioedema, anafilaxia) com uma dose única. A doxiciclina é a alternativa para quem não tolera penicilina, cefalosporina nem macrolídeo.\n- **Alergia à penicilina:** em quem tem esse rótulo, a declaração **sugere** fazer o teste cutâneo quando possível e colher uma história cuidadosa do tipo e da gravidade da reação.\n\n**Resistência.** Os estreptococos do grupo viridans resistem mais, *in vitro*, à azitromicina e à claritromicina que à penicilina; a AHA não alterou os antibióticos de 2007. Quem precisa de procedimentos repetidos alterna o antibiótico a cada vez ou espera **pelo menos 4 semanas** entre eles.\n\n**Se a profilaxia não foi dada antes:** esquecida, ela ainda pode ser dada **até 2 horas depois** do procedimento.\n\n**Quem já usa antibiótico.** Se o paciente fez curso curto de antibiótico oral (7 a 10 dias) antes do procedimento, escolha **outra classe** da Tabela 5. Sendo possível, deixe o procedimento eletivo para pelo menos **10 dias** depois do fim do curso; com várias consultas em sequência, a seguinte vai para 10 dias depois da última dose. Quem está com antibiótico parenteral para endocardite ou outra infecção pode seguir com o mesmo durante o procedimento.\n\n**Decisão compartilhada.** Profissional e paciente decidem juntos sobre o antibiótico; o paciente precisa saber que o **benefício não está comprovado** e que há riscos. A decisão é comunicada ao dentista de forma **documentada**, no prontuário ou por via do paciente (registro no tema Prontuário odontológico, termo de consentimento e responsabilidade legal).\n\n**Saúde bucal.** A declaração diz que a saúde bucal pesa muito na bacteremia por esses estreptococos nas atividades diárias, e idealmente o cuidado odontológico é **duas vezes ao ano**. Febre e sintomas gerais devem levar o paciente ao serviço de saúde, com **hemoculturas antes de começar antibiótico**."
+    },
+    {
+      "id": "ada2015",
+      "titulo": "ADA 2015 (EUA): prótese articular e antibiótico antes do procedimento",
+      "fonte": "ada2015",
+      "onde": "seções Pergunta e método, Recomendação e Considerações contra a profilaxia",
+      "texto": "A ADA (American Dental Association, dos EUA) publicou em 2015 uma **diretriz** de prática clínica baseada em evidência, feita por painel de especialistas do seu Council on Scientific Affairs. É a **mais antiga** das duas publicações da ADA deste tema; a de 2026 tem a seção seguinte.\n\n**Pergunta.** Em paciente com prótese articular, há associação entre procedimento odontológico e infecção da prótese articular, e portanto o antibiótico sistêmico deve ser dado antes do procedimento? A diretriz diz que **esclarece** a de 2012 da AAOS e da ADA, que gerou muitos pedidos de esclarecimento.\n\n**Base.** A diretriz parte da revisão de 2012 e supõe que o que se sabe de quadril e joelho vale para as demais articulações.\n\n**A recomendação.** Em geral, em paciente com prótese articular, antibióticos profiláticos **não são recomendados** antes de procedimentos odontológicos para prevenir infecção da prótese. A diretriz acrescenta que profissional e paciente devem considerar circunstâncias clínicas que possam sugerir **risco médico significativo** em prestar o cuidado sem profilaxia, e também os riscos conhecidos do uso frequente ou amplo de antibiótico. A recomendação se integra ao julgamento do profissional e às preferências do paciente, e o relatório **não define padrão de cuidado**.\n\n**Por que contra.** O texto lista: resistência bacteriana; reações adversas (a penicilina é a causa mais frequente de anafilaxia por medicamento nos EUA; náuseas, vômitos e diarreia; mais reações a partir dos 70 anos); infecção por *C. difficile*: a diretriz diz que uma dose única é improvável de causá-la, mas o cuidado odontológico completo tem várias consultas e o paciente pode já ter usado antibiótico antes (cita clindamicina, cefalosporinas e fluoroquinolonas como indutoras); e custo.\n\n**O que a diretriz não traz:** regime de antibiótico (fármaco, dose, via ou momento); a lista das circunstâncias de risco médico significativo; prótese que não seja articular.\n\n**Atenção:** diretriz dos EUA, dita com o verbo dela: ‘não recomendados’, em geral."
+    },
+    {
+      "id": "ada2026",
+      "titulo": "ADA 2026 (EUA): declaração de posição, a mais nova",
+      "fonte": "ada2026",
+      "onde": "seções Profilaxia antibiótica, Antissépticos tópicos, Atraso de 3 meses e Quadro de imunocomprometidos",
+      "texto": "A ADA (dos EUA) publicou em 2026 uma **declaração de posição** do Council on Scientific Affairs sobre decisão compartilhada em paciente com prótese articular (quadril e joelho). É a **mais nova** das duas da ADA neste tema. O texto **não diz que substitui** a de 2015: ele concorda com as recomendações centrais da atualização de 2024 da AAOS e da AAHKS, que se alinham às da ADA de 2015, e acrescenta pontos novos.\n\n**Profilaxia antibiótica.** A posição do Council é que, **em geral**, paciente **imunocompetente** com prótese articular **não precisa** de antibiótico antes de procedimento odontológico só para prevenir infecção da prótese, porque a evidência não mostra associação causal nem benefício protetor.\n- **Imunossupressão acentuada ou infecção prévia da prótese:** a AAOS e a AAHKS destacam que podem pedir decisão colaborativa entre dentista, ortopedista e paciente. A declaração acrescenta que não há evidência de risco maior de infecção da prótese por bacteremia de procedimento odontológico nesses pacientes, nem de benefício da profilaxia. Chama as recomendações de orientação (opções), não de padrão.\n- **Imunocomprometido** (no Quadro: por exemplo aids em estágio 3, câncer em quimioterapia com neutropenia, artrite reumatoide com biológicos, transplante de órgão sólido com imunossupressor): quando a equipe ortopédica determina que precisa de antibiótico, o Council recomenda que **o ortopedista prescreva o fármaco e a dose**. A declaração não traz fármaco, dose nem via.\n\n**Outros pontos.** Enxaguatório antisséptico antes do procedimento: não é necessário (o Council concorda com a AAOS e a AAHKS). Avaliação odontológica antes da artroplastia: o Council não a acha necessária, e lembra que boa saúde bucal é importante.\n\n**Atraso depois da prótese.** A AAOS e a AAHKS sugerem adiar 3 meses os procedimentos odontológicos não urgentes depois da artroplastia, exceto tratar infecção dentária ativa e exame sem sondagem. O Council discorda em parte e **desaconselha qualquer prazo-padrão** de atraso de cuidado não urgente; recomenda discussão coordenada entre dentistas, ortopedistas e paciente.\n\n**Atenção:** a declaração não traz tabela de procedimentos nem se aplica a prótese fora de quadril e joelho."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "O que é a AHA 2021 e qual verbo ela usa para a profilaxia da endocardite?",
+      "verso": "Declaração científica dos EUA. **Sugere** a profilaxia só para quem tem maior risco de desfecho ruim, diz que a eficácia não está comprovada e que não há mudança em relação a 2007.",
+      "fonte": "aha2021",
+      "onde": "resumo e conclusão; Tabela 3 (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f02",
+      "frente": "Segundo a AHA 2021, quais são os quatro grupos em que a profilaxia odontológica é sugerida?",
+      "verso": "Prótese ou material cardíaco (valva protética, reparo com dispositivo, assistência ventricular); endocardite prévia; certas cardiopatias congênitas; transplante cardíaco com valvulopatia.",
+      "fonte": "aha2021",
+      "onde": "Tabela 3 (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f03",
+      "frente": "AHA 2021: cardiopatia congênita completamente reparada com material protético. Até quando a profilaxia é sugerida?",
+      "verso": "Durante os primeiros 6 meses depois do procedimento (cirurgia ou cateter).",
+      "fonte": "aha2021",
+      "onde": "Tabela 3, cardiopatia congênita (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f04",
+      "frente": "Segundo a AHA 2021, em paciente dos grupos de maior risco, quais procedimentos NÃO têm profilaxia sugerida?",
+      "verso": "Injeção anestésica por tecido não infectado, radiografias, colocação ou ajuste de aparelhos removíveis ou ortodônticos (e braquetes), esfoliação de decíduo e sangramento por trauma de lábio ou mucosa.",
+      "fonte": "aha2021",
+      "onde": "Tabela 4 (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f05",
+      "frente": "Regime padrão da AHA 2021 para procedimento odontológico (via oral)?",
+      "verso": "Amoxicilina, adulto 2 g, criança 50 mg/kg, em **dose única 30 a 60 min antes** do procedimento.",
+      "fonte": "aha2021",
+      "onde": "Tabela 5 (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f06",
+      "frente": "AHA 2021: paciente sem condição de usar via oral. Que fármacos a tabela traz?",
+      "verso": "Ampicilina 2 g IM ou IV, ou cefazolina ou ceftriaxona 1 g IM ou IV (criança, 50 mg/kg IM ou IV), 30 a 60 min antes. Se também for alérgico a penicilina ou ampicilina, a linha própria traz só cefazolina ou ceftriaxona, nas mesmas doses, com a ressalva do †: não usar em quem teve anafilaxia, angioedema ou urticária com penicilina ou ampicilina.",
+      "fonte": "aha2021",
+      "onde": "Tabela 5 (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f07",
+      "frente": "AHA 2021: alérgico a penicilina, via oral. Qual nota vale para a cefalexina?",
+      "verso": "Cefalosporinas não devem ser usadas em quem teve anafilaxia, angioedema ou urticária com penicilina ou ampicilina. As outras opções da tabela: azitromicina ou claritromicina, doxiciclina.",
+      "fonte": "aha2021",
+      "onde": "Tabela 5, nota † (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f08",
+      "frente": "O que a AHA 2021 diz da clindamicina na profilaxia odontológica, e por quê?",
+      "verso": "Não é mais recomendada: reações mais frequentes e graves, e o texto cita estudo que sugere risco de *C. difficile* até com dose única.",
+      "fonte": "aha2021",
+      "onde": "Tabela 5, notas da tabela; seção Reações (versão corrigida de 25/04/2022)"
+    },
+    {
+      "id": "f09",
+      "frente": "AHA 2021: esqueceu de dar a profilaxia antes do procedimento. E agora?",
+      "verso": "Pode ser dada até 2 horas depois do procedimento.",
+      "fonte": "aha2021",
+      "onde": "subseção Outras considerações (Other Considerations) (texto da declaração)"
+    },
+    {
+      "id": "f10",
+      "frente": "Para o Andrade, o que separa profilaxia antibiótica de tratamento, e quais os dois objetivos da profilaxia?",
+      "verso": "Profilaxia é dar antibiótico a quem não tem evidência de infecção. Objetivos: prevenir infecção na região operada (cirúrgica) e prevenir infecção à distância em paciente suscetível.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Prevenção das infecções, p. 73"
+    },
+    {
+      "id": "f11",
+      "frente": "De qual diretriz é o Quadro 18.2 do Andrade e o que ele traz para alérgicos às penicilinas?",
+      "verso": "É da AHA de 2007 (livro de 2014). Entre as alternativas para alérgicos às penicilinas traz a clindamicina; a mudança da AHA 2021 está na seção própria.",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Quadro 18.2, p. 187"
+    },
+    {
+      "id": "f12",
+      "frente": "Quais pontos do protocolo de endocardite são só do Andrade (não da AHA)?",
+      "verso": "Bochecho de clorexidina a 0,2% imediatamente antes de cada sessão; intervalo mínimo de 10 dias entre sessões (contra seleção de resistentes); conduta nos primeiros 30 dias após stent.",
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Protocolo de atendimento, itens 8 e 10, p. 189; stents, p. 190"
+    },
+    {
+      "id": "f13",
+      "frente": "Qual a recomendação da ADA 2015 (EUA) sobre antibiótico antes de procedimento odontológico em quem tem prótese articular?",
+      "verso": "Em geral, antibióticos profiláticos **não são recomendados** antes de procedimentos odontológicos. A diretriz não traz regime de antibiótico.",
+      "fonte": "ada2015",
+      "onde": "seção Recomendação"
+    },
+    {
+      "id": "f14",
+      "frente": "ADA 2026 × ADA 2015: qual é a mais nova e ela substitui a outra?",
+      "verso": "A de 2026 é a mais nova. O texto não diz que substitui a de 2015: concorda com as recomendações centrais da AAOS e da AAHKS (2024), alinhadas às da ADA de 2015, e acrescenta pontos novos. Imunocompetente em geral não precisa; no imunocomprometido, o ortopedista prescreve se houver necessidade.",
+      "fonte": "ada2026",
+      "onde": "seções Profilaxia antibiótica e Quadro de imunocomprometidos"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo o Andrade, quando se considera profilaxia no diabético?",
+      "verso": "De rotina não é indicada (basta assepsia e antissepsia). Só no descompensado, com cetoacidose e cetonúria, e então o atendimento só é recomendado em urgência.",
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Diabéticos, p. 75"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente com valva cardíaca protética, sem alergia a penicilina e com via oral disponível, fará exodontia. Segundo a AHA 2021 (EUA), qual é o regime da Tabela 5?",
+      "alternativas": [
+        {
+          "texto": "Clindamicina por via oral, 30 a 60 min antes do procedimento.",
+          "correta": false,
+          "justificativa": "A AHA 2021 diz que a clindamicina não é mais recomendada na profilaxia odontológica, e a tabela não traz regime com ela.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5, notas da tabela (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Amoxicilina 2 g por via oral, em dose única, 30 a 60 min antes do procedimento.",
+          "correta": true,
+          "justificativa": "É o regime padrão por via oral da Tabela 5 para adulto: dose única, 30 a 60 minutos antes.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5 (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Azitromicina 500 mg por via oral, 30 a 60 min antes do procedimento.",
+          "correta": false,
+          "justificativa": "A azitromicina está na tabela como opção para quem é alérgico a penicilina ou ampicilina, o que não é o caso do paciente.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5 (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Amoxicilina 2 g por via oral antes do procedimento, repetida em nova dose depois.",
+          "correta": false,
+          "justificativa": "A Tabela 5 traz o esquema em dose única, 30 a 60 minutos antes; não prevê segunda dose.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5 (versão corrigida de 25/04/2022)"
+        }
+      ],
+      "fonte": "aha2021",
+      "onde": "Tabela 5 (versão corrigida de 25/04/2022)",
+      "secao": "aha-regime",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Paciente com prótese valvar teve urticária com amoxicilina e vai receber um antibiótico oral da Tabela 5 da AHA 2021 (EUA). Qual opção a nota da tabela diz que não deve ser usada nesse caso?",
+      "alternativas": [
+        {
+          "texto": "Azitromicina.",
+          "correta": false,
+          "justificativa": "A azitromicina é opção da tabela para quem é alérgico a penicilina; a nota † não a atinge.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5, linha de alérgico a penicilina (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Doxiciclina.",
+          "correta": false,
+          "justificativa": "A doxiciclina também é opção para o alérgico, e a nota † fala só das cefalosporinas.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5, linha de alérgico a penicilina (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Cefalexina.",
+          "correta": true,
+          "justificativa": "A nota † é sobre cefalosporinas: quem teve anafilaxia, angioedema ou urticária com penicilina ou ampicilina não deve recebê-las, e a cefalexina é cefalosporina.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5, nota † (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Claritromicina.",
+          "correta": false,
+          "justificativa": "A claritromicina consta junto com a azitromicina como opção para o alérgico; a nota † não a atinge.",
+          "fonte": "aha2021",
+          "onde": "Tabela 5, linha de alérgico a penicilina (versão corrigida de 25/04/2022)"
+        }
+      ],
+      "fonte": "aha2021",
+      "onde": "Tabela 5, nota † (versão corrigida de 25/04/2022)",
+      "secao": "aha-regime",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Segundo a Tabela 3 da AHA 2021 (EUA), qual destes pacientes está entre os grupos em que a profilaxia para procedimento odontológico é sugerida?",
+      "alternativas": [
+        {
+          "texto": "Portador de marca-passo.",
+          "correta": false,
+          "justificativa": "Dispositivos eletrônicos implantáveis, como o marca-passo, estão na lista de profilaxia não sugerida.",
+          "fonte": "aha2021",
+          "onde": "Tabela 3, profilaxia não sugerida (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Portador de stent coronariano.",
+          "correta": false,
+          "justificativa": "Stents coronarianos ou outros stents vasculares estão na lista de profilaxia não sugerida.",
+          "fonte": "aha2021",
+          "onde": "Tabela 3, profilaxia não sugerida (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Paciente com história de endocardite infecciosa.",
+          "correta": true,
+          "justificativa": "Endocardite prévia, recidivante ou recorrente é um dos grupos em que a profilaxia é sugerida.",
+          "fonte": "aha2021",
+          "onde": "Tabela 3, profilaxia sugerida (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Paciente com filtro de veia cava.",
+          "correta": false,
+          "justificativa": "Filtros de veia cava estão na lista de profilaxia não sugerida da Tabela 3.",
+          "fonte": "aha2021",
+          "onde": "Tabela 3, profilaxia não sugerida (versão corrigida de 25/04/2022)"
+        }
+      ],
+      "fonte": "aha2021",
+      "onde": "Tabela 3 (versão corrigida de 25/04/2022)",
+      "secao": "aha-condicoes",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente com endocardite prévia fará, em consultas separadas, as etapas abaixo. Segundo a Tabela 4 da AHA 2021 (EUA), qual delas, isolada, não tem profilaxia sugerida?",
+      "alternativas": [
+        {
+          "texto": "Procedimento que manipula o tecido gengival.",
+          "correta": false,
+          "justificativa": "A Tabela 4 sugere profilaxia em todo procedimento que manipula o tecido gengival.",
+          "fonte": "aha2021",
+          "onde": "Tabela 4 (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Procedimento que perfura a mucosa oral.",
+          "correta": false,
+          "justificativa": "A Tabela 4 sugere profilaxia em procedimento que perfura a mucosa oral.",
+          "fonte": "aha2021",
+          "onde": "Tabela 4 (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Procedimento que manipula a região periapical do dente.",
+          "correta": false,
+          "justificativa": "A Tabela 4 sugere profilaxia em procedimento que manipula a região periapical dos dentes.",
+          "fonte": "aha2021",
+          "onde": "Tabela 4 (versão corrigida de 25/04/2022)"
+        },
+        {
+          "texto": "Tomada de radiografias odontológicas.",
+          "correta": true,
+          "justificativa": "Radiografias estão entre os itens da Tabela 4 com profilaxia não sugerida.",
+          "fonte": "aha2021",
+          "onde": "Tabela 4 (versão corrigida de 25/04/2022)"
+        }
+      ],
+      "fonte": "aha2021",
+      "onde": "Tabela 4 (versão corrigida de 25/04/2022)",
+      "secao": "aha-condicoes",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente de 55 anos, sem outra doença, colocou prótese total de quadril há 1 ano e fará uma exodontia. Segundo o Andrade (3ª ed., 2014), como o livro trata a profilaxia antibiótica nesse caso?",
+      "alternativas": [
+        {
+          "texto": "Não é candidato, porque o livro dispensa a profilaxia em todo portador de prótese total.",
+          "correta": false,
+          "justificativa": "O livro diz que a profilaxia não é necessária de rotina para a maioria dos portadores de prótese total, e lista condições que os tornam candidatos.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Portadores de próteses ortopédicas, p. 74"
+        },
+        {
+          "texto": "É candidato só se tiver diabetes tipo I.",
+          "correta": false,
+          "justificativa": "O diabetes tipo I é uma das condições da lista, mas não a única; basta uma delas, e os primeiros dois anos após a colocação da prótese estão na lista.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Portadores de próteses ortopédicas, pp. 74–75"
+        },
+        {
+          "texto": "É candidato, por estar nos primeiros dois anos da prótese, com os mesmos regimes da profilaxia da endocardite.",
+          "correta": true,
+          "justificativa": "Os primeiros dois anos após a colocação da prótese total estão entre as condições que tornam o portador candidato, e o livro diz que os regimes são os mesmos da endocardite (cap. 18).",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Portadores de próteses ortopédicas, p. 75"
+        },
+        {
+          "texto": "É candidato, mas com um regime próprio para prótese articular, diferente do da endocardite.",
+          "correta": false,
+          "justificativa": "O livro diz que os regimes para prótese ortopédica são os mesmos recomendados para a profilaxia da endocardite.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Portadores de próteses ortopédicas, p. 75"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Portadores de próteses ortopédicas, pp. 74–75",
+      "secao": "andrade-ei-protese",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Segundo o protocolo do Andrade (3ª ed., 2014) para paciente com risco de endocardite em várias sessões, por que manter intervalo mínimo de 10 dias entre as sessões?",
+      "alternativas": [
+        {
+          "texto": "Para reduzir a magnitude da bacteremia de cada sessão.",
+          "correta": false,
+          "justificativa": "No livro, essa é a razão do bochecho de clorexidina a 0,2% imediatamente antes do procedimento, não do intervalo.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, itens 8 e 10, p. 189"
+        },
+        {
+          "texto": "Porque os stents só ficam endotelizados depois desse prazo.",
+          "correta": false,
+          "justificativa": "A endotelização do stent em cerca de 28 a 30 dias é explicação do livro para os stents (p. 189); para o intervalo entre sessões o item 10 dá outra razão: evitar a seleção de bactérias resistentes.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Portadores de stents, p. 189"
+        },
+        {
+          "texto": "Porque o cardiologista precisa reavaliar o risco de endocardite a cada sessão.",
+          "correta": false,
+          "justificativa": "A avaliação do cardiologista (item 3) serve para classificar o risco antes de decidir a profilaxia; para o intervalo, o item 10 dá outra razão: evitar a seleção de bactérias resistentes.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, item 3, p. 189"
+        },
+        {
+          "texto": "Porque pode ajudar a evitar a seleção de bactérias resistentes.",
+          "correta": true,
+          "justificativa": "O item 10 do protocolo diz que o intervalo mínimo de 10 dias pode ajudar a evitar a seleção de bactérias resistentes.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Protocolo de atendimento, item 10, p. 189"
+        }
+      ],
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Protocolo de atendimento, item 10, p. 189",
+      "secao": "andrade-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Paciente coronariano colocou stent há 20 dias e precisa de uma exodontia. Segundo o Andrade (3ª ed., 2014), qual é a orientação do livro?",
+      "alternativas": [
+        {
+          "texto": "Dispensar a profilaxia em qualquer prazo, porque o livro diz que stent não é risco de endocardite.",
+          "correta": false,
+          "justificativa": "O livro registra a opinião de autores de que o stent não exige profilaxia, mas manda ter cuidado nos primeiros 30 dias depois da implantação.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Portadores de stents, p. 190"
+        },
+        {
+          "texto": "Contatar o cardiologista para discutir a profilaxia, que, se indicada, usa os regimes da AHA para endocardite.",
+          "correta": true,
+          "justificativa": "Nos primeiros 30 dias após o stent, o livro recomenda que o dentista contate o cardiologista sobre a necessidade, usando os mesmos regimes da AHA para endocardite.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Portadores de stents, p. 190"
+        },
+        {
+          "texto": "Dar sempre a profilaxia sem consultar o médico, porque o stent expõe o endocárdio.",
+          "correta": false,
+          "justificativa": "O livro diz que as paredes das artérias não têm endocárdio (fala em endoarterite) e manda discutir a necessidade com o cardiologista.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Portadores de stents, p. 190"
+        },
+        {
+          "texto": "Usar um regime próprio para endoarterite, diferente do da endocardite.",
+          "correta": false,
+          "justificativa": "O livro diz que se usam os mesmos regimes recomendados pela AHA para a prevenção da endocardite.",
+          "fonte": "andrade3-cap18",
+          "onde": "cap. 18, Portadores de stents, p. 190"
+        }
+      ],
+      "fonte": "andrade3-cap18",
+      "onde": "cap. 18, Portadores de stents, p. 190",
+      "secao": "andrade-protocolo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Paciente saudável, imunocompetente e sem doença sistêmica fará cirurgia de terceiro molar incluso, com assepsia e antissepsia rigorosas, sem sinais de infecção. Segundo o Andrade (3ª ed., 2014), o que o livro diz da profilaxia antibiótica?",
+      "alternativas": [
+        {
+          "texto": "Em geral parece não estar indicada, a menos que haja imunocomprometimento, doença sistêmica ou outra condição de risco.",
+          "correta": true,
+          "justificativa": "O livro diz que, seguidas à risca a assepsia e a antissepsia, a profilaxia parece não estar indicada nessas cirurgias, salvo sistema imune comprometido, doença sistêmica ou outra condição de risco.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Profilaxia cirúrgica, p. 73"
+        },
+        {
+          "texto": "Está indicada de rotina, por vários dias, para proteger a ferida.",
+          "correta": false,
+          "justificativa": "O livro diz que a profilaxia prolongada não dá proteção adicional e pode aumentar reações adversas e a seleção de resistentes.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Profilaxia cirúrgica (fim), p. 74"
+        },
+        {
+          "texto": "Está indicada, porque a infecção pós-operatória nessa cirurgia é muito frequente.",
+          "correta": false,
+          "justificativa": "Com assepsia e antissepsia seguidas à risca, o livro diz que a profilaxia parece não estar indicada nessas cirurgias, salvo condição de risco; a estimativa de infecção, baixa, está no texto da seção.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Profilaxia cirúrgica, p. 73"
+        },
+        {
+          "texto": "Não está indicada em nenhuma circunstância, nem em imunossuprimido.",
+          "correta": false,
+          "justificativa": "O livro faz a ressalva: a profilaxia não parece indicada, a menos que o sistema imune esteja comprometido ou haja doença sistêmica ou outra condição de risco.",
+          "fonte": "andrade3-cap07",
+          "onde": "cap. 7, Profilaxia cirúrgica, p. 73"
+        }
+      ],
+      "fonte": "andrade3-cap07",
+      "onde": "cap. 7, Profilaxia cirúrgica, p. 73",
+      "secao": "andrade-conceito",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com prótese de joelho fará exodontia. Segundo a diretriz da ADA de 2015 (EUA), qual é a recomendação?",
+      "alternativas": [
+        {
+          "texto": "Em geral, antibióticos profiláticos não são recomendados; profissional e paciente consideram circunstâncias de risco médico significativo.",
+          "correta": true,
+          "justificativa": "É a recomendação da diretriz, seguida da orientação de considerar circunstâncias de risco médico significativo e os riscos do uso amplo de antibiótico.",
+          "fonte": "ada2015",
+          "onde": "seção Recomendação"
+        },
+        {
+          "texto": "Recomendada amoxicilina antes do procedimento, em todo portador de prótese articular.",
+          "correta": false,
+          "justificativa": "A diretriz é contra a profilaxia em geral e não traz regime de antibiótico (fármaco, dose, via ou momento).",
+          "fonte": "ada2015",
+          "onde": "seção Recomendação"
+        },
+        {
+          "texto": "Recomendada nos dois primeiros anos depois da colocação da prótese.",
+          "correta": false,
+          "justificativa": "A diretriz não lista as circunstâncias de risco médico significativo; diz só que profissional e paciente devem considerá-las.",
+          "fonte": "ada2015",
+          "onde": "seção Recomendação"
+        },
+        {
+          "texto": "Recomendada somente se o ortopedista a prescrever, qualquer que seja o paciente.",
+          "correta": false,
+          "justificativa": "A recomendação da diretriz de 2015 é geral: antibióticos profiláticos não são recomendados, consideradas as circunstâncias clínicas e as preferências do paciente.",
+          "fonte": "ada2015",
+          "onde": "seção Recomendação"
+        }
+      ],
+      "fonte": "ada2015",
+      "onde": "seção Recomendação",
+      "secao": "ada2015",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Paciente imunocomprometido, com prótese de quadril, e a equipe ortopédica decide que precisa de antibiótico antes do procedimento odontológico. Segundo a declaração de posição da ADA de 2026 (EUA), quem prescreve fármaco e dose?",
+      "alternativas": [
+        {
+          "texto": "O dentista, pelo regime da Tabela 5 da AHA 2021.",
+          "correta": false,
+          "justificativa": "A declaração de 2026 não traz fármaco, dose nem via e remete ao ortopedista a prescrição, quando a equipe ortopédica determina a necessidade.",
+          "fonte": "ada2026",
+          "onde": "seção Profilaxia antibiótica e Quadro de imunocomprometidos"
+        },
+        {
+          "texto": "O ortopedista, conforme as condições médicas do paciente.",
+          "correta": true,
+          "justificativa": "O Council recomenda que o ortopedista prescreva o fármaco e a dose, conforme as condições médicas do paciente.",
+          "fonte": "ada2026",
+          "onde": "seção Profilaxia antibiótica e Quadro de imunocomprometidos"
+        },
+        {
+          "texto": "O dentista, com amoxicilina, que a declaração traz para esse grupo.",
+          "correta": false,
+          "justificativa": "A declaração de 2026 não traz fármaco, dose nem via para o imunocomprometido e remete a prescrição ao ortopedista.",
+          "fonte": "ada2026",
+          "onde": "seção Profilaxia antibiótica e Quadro de imunocomprometidos"
+        },
+        {
+          "texto": "Ninguém, porque a declaração diz que o imunocomprometido nunca precisa de antibiótico.",
+          "correta": false,
+          "justificativa": "A declaração diz que, quando a equipe ortopédica determina a necessidade, o ortopedista prescreve; ela não afirma que nunca se precisa.",
+          "fonte": "ada2026",
+          "onde": "seção Profilaxia antibiótica e Quadro de imunocomprometidos"
+        }
+      ],
+      "fonte": "ada2026",
+      "onde": "seção Profilaxia antibiótica e Quadro de imunocomprometidos",
+      "secao": "ada2026",
+      "figura": null
+    }
+  ]
+}

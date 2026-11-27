@@ -1,0 +1,756 @@
+{
+  "slug": "radiografias-intrabucais",
+  "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação",
+  "area": "Radiologia",
+  "origem": "White e Pharoah, Radiologia Oral, 8ª ed., caps. 3, 4, 5, 6, 7, 17 e 18",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "wp8-cap03",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 3, Segurança e Proteção, p. 26–38 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 3 (autores dos EUA)"
+    },
+    {
+      "id": "wp8-cap04",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 4, Radiografia Digital, p. 39–60 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 4"
+    },
+    {
+      "id": "wp8-cap05",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 5, Filme Radiográfico, p. 61–79 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 5"
+    },
+    {
+      "id": "wp8-cap06",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 6, Geometria de Projeção, p. 80–86 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 6"
+    },
+    {
+      "id": "wp8-cap07",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 7, Projeções Intraorais, p. 87–114 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 7"
+    },
+    {
+      "id": "wp8-cap17",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 17, Prescrição de Imagens Diagnósticas, p. 271–278 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 17"
+    },
+    {
+      "id": "wp8-cap18",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 18, Princípios de Interpretação Radiográfica, p. 279–292 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 18"
+    },
+    {
+      "id": "ada2024rx",
+      "ref": "Benavides E, Krecioch JR, Connolly RT, et al. Optimizing radiation safety in dentistry: clinical recommendations and regulatory considerations. J Am Dent Assoc. 2024;155(4):280–293.e4 (recomendações de um painel de especialistas da ADA; texto integral no site do JADA, lido em 27/11/2026). Documento dos EUA.",
+      "curta": "ADA 2024, segurança em radiologia (EUA)"
+    },
+    {
+      "id": "adaaaomr2026",
+      "ref": "Benavides E, Krecioch JR, Allareddy T, et al. American Dental Association and American Academy of Oral and Maxillofacial Radiology patient selection for dental radiography and cone-beam computed tomography. J Am Dent Assoc. 2026;157(1):20–35.e5 (declaração de consenso de janeiro de 2026, que atualiza a ADA e FDA de 2012; texto integral no Europe PMC, PMC13580382, lido em 27/11/2026). Documento dos EUA.",
+      "curta": "ADA e AAOMR 2026, seleção de pacientes (EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "visao-geral",
+      "titulo": "Três tipos de projeção e o que uma boa imagem precisa ter",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Projeções Intraorais, abertura, Critérios de qualidade, Quadros 7.1 e 7.2, pp. 87–88",
+      "texto": "Este tema segue o White e Pharoah, *Radiologia Oral* (8ª ed.), livro de autores dos EUA, em tradução. As páginas citadas seguem a numeração da edição digital.\n\nSegundo o livro, as imagens intraorais são a base do diagnóstico por imagem do dentista geral. Há três categorias:\n- **periapicais:** mostram o dente inteiro e o osso ao redor;\n- **interproximais (bitewing):** mostram só as coroas e as cristas alveolares vizinhas;\n- **oclusais:** mostram uma área de dentes e de osso maior que a da periapical.\n\nUma série típica de boca toda tem 17 periapicais e 4 bitewing (21 imagens, Quadro 7.1). Faça a imagem quando a história ou o exame clínico indicarem que ela traz informação a mais; os critérios de seleção estão nas seções finais do tema.\n\n**Para que serve a periapical (Quadro 7.2).** Avaliar a extensão da cárie; detectar inflamação periapical e sua extensão; ver as consequências de traumatismo em dentes e osso alveolar; avaliar perda óssea periodontal, morfologia das raízes e da polpa, osseointegração e perda óssea peri-implantar, dentes não irrompidos e impactados, reabsorção radicular externa e interna; e determinar o comprimento da instrumentação endodôntica durante o tratamento.\n\n**Três critérios de qualidade:**\n1. **Registrar a área de interesse inteira.** Periapical: o comprimento total das raízes e pelo menos 2 mm de osso periapical; havendo anormalidade, ela toda mais um pouco de osso ao redor. Bitewing: cada superfície proximal posterior ao menos uma vez, com sobreposição entre superfícies adjacentes menor que um terço da espessura do esmalte.\n2. **Ter a menor distorção possível.** O livro diz que a maior parte da distorção vem de angulação imprópria do feixe, e não da curvatura das estruturas nem do posicionamento do receptor.\n3. **Ter densidade e contraste adequados.** kVp, mA e tempo de exposição são os parâmetros cruciais.\n\nAo avaliar a imagem, repita só a vista que falhou, e só se a informação que faltou não estiver em outra imagem. O livro chama de **receptor** qualquer meio que capte a imagem: filme, sensor digital ou placa de fósforo."
+    },
+    {
+      "id": "paralelismo",
+      "titulo": "Técnica do paralelismo: princípio, posicionador e limites",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia periapical, Técnica do paralelismo, Colocação do receptor, Angulação do cabeçote, pp. 87–89",
+      "texto": "Segundo o livro, o paralelismo é a técnica preferida para periapicais, porque dá menos distorção da dentição. Vale para imagem digital e para filme.\n\n**Princípio:** o receptor fica paralelo ao eixo longo do dente, e o raio central é dirigido em ângulo reto ao dente e ao receptor. O livro dá outros nomes: *técnica do ângulo reto* e *técnica de cone longo*. O resultado mostra dente e osso nas relações anatômicas verdadeiras.\n\n**Por que o cone longo:** pela anatomia, a posição paralela leva o receptor para o meio da boca, longe do dente. Isso aumenta a distância objeto-receptor, com mais ampliação e menos nitidez geométrica. A técnica compensa usando uma distância fonte-objeto relativamente longa.\n\n**Posicionador:** o suporte estabiliza o receptor num bloco de mordida; com o paciente mordendo suavemente, o receptor fica paralelo ao eixo longo do dente. Use o que tem anel-guia externo: ele alinha o colimador, centra o receptor atrás do dente e mantém o feixe perpendicular ao receptor e ao dente. Use colimador retangular, que reduz a exposição do paciente.\n\n**Onde fica o receptor:** paralelo aos dentes e fundo no vestíbulo lingual ou na abóbada palatina. Isso pesa mais com sensores rígidos, que são mais volumosos que o filme.\n- Maxila: a borda superior costuma ficar na altura da abóbada palatina, na linha média.\n- Mandíbula: o receptor empurra a língua para trás ou para a linha média, e a borda inferior repousa no assoalho da boca, longe da mucosa lingual da mandíbula.\n\n**Cabeçote:** alinhe o cilindro localizador na vertical e nos planos horizontais com o anel de mira; o plano da abertura do cilindro fica paralelo ao do anel. A direção horizontal do feixe define sobretudo quanto as coroas se sobrepõem nos espaços interproximais.\n\n**Limites:** palato pouco côncavo, assoalho da boca pouco escavado ou toro podem impedir que o receptor entre fundo o bastante para mostrar o dente inteiro. Com palato raso, o feixe pode ficar perpendicular ao receptor, mas não ao dente, e a imagem sai distorcida (Figura 7.5). Além disso, nem todas as raízes de um dente multirradicular ficam paralelas ao receptor, e a distorção difere entre elas. Se as restrições forem extremas, o livro aceita usar os princípios da bissetriz para posicionar o receptor e definir a angulação vertical do tubo."
+    },
+    {
+      "id": "filme-e-erros",
+      "titulo": "Filme intraoral e erros comuns de exposição e posição",
+      "fonte": "wp8-cap05",
+      "onde": "cap. 5, Filme radiográfico intraoral, Quadro 5.1, pp. 62–63 e 76–78",
+      "texto": "O filme intraoral tem dupla emulsão e é de exposição direta, porque dá resolução mais alta que as combinações de filme com tela; detectar cárie incipiente e doença periapical precoce exige essa resolução. O processamento químico do filme não entra neste tema.\n\n**Ponto em relevo:** cada filme tem, num canto, um pequeno ponto em relevo. O lado convexo fica voltado para o tubo e para a frente do pacote; o lado com depressão fica para a língua. Depois de processado, o ponto orienta direita e esquerda, e na montagem o lado convexo fica voltado ao observador.\n\n**Folha de chumbo:** fica atrás do filme, longe do tubo. Protege da radiação retroespalhada, que causa névoa e reduz o contraste, e absorve o feixe residual. Se o pacote entrar invertido na boca, a folha fica entre o paciente e o filme, e a radiografia sai clara, com o padrão da folha; direita e esquerda ficam trocadas se o ponto for usado como guia.\n\n**Tamanhos do pacote:**\n\n| Nº | Uso | Tamanho |\n|---|---|---|\n| 0 | crianças pequenas | 22 mm × 35 mm |\n| 1 | anteriores (mais estreito) | 24 mm × 40 mm |\n| 2 | padrão de adulto | 30,5 mm × 40,5 mm |\n\nA bitewing usa o nº 2 em adultos, o nº 1 em crianças e o nº 0 nas crianças pequenas; há também um nº 3, mais longo. O filme de bitewing costuma ter uma aba de papel para o paciente morder. A oclusal usa o nº 4, mais de 3 vezes maior que o nº 2.\n\n**Montagem:** disponha os filmes como se você estivesse de frente para o paciente: quadrantes direitos no lado esquerdo do suporte e quadrantes esquerdos no direito. A ADA (EUA) defende esse arranjo porque o olhar vai da imagem ao dente sem cruzar a linha média; o arranjo inverso não é recomendado.\n\n**Defeitos comuns (Quadro 5.1):**\n- **Clara:** exposição insuficiente (mA, kVp ou tempo insuficientes; distância filme-fonte grande demais; pacote invertido) ou erro de processamento.\n- **Escura:** exposição em excesso (mA, kVp ou tempo; distância filme-fonte muito curta) ou erro de processamento.\n- **Contraste insuficiente:** subexposição, kVp em excesso, sub-revelação ou névoa.\n- **Borrada:** movimento do paciente ou do filme, que não estava estabilizado. Estabilize a cabeça no encosto da cadeira; mA mais alto e tempos mais curtos ajudam.\n- **Imagem parcial:** desalinhamento do cabeçote (corte do cone ou halo). O livro mostra uma bitewing com faixa branca por mau alinhamento do cabeçote com o colimador retangular."
+    },
+    {
+      "id": "etapas",
+      "titulo": "Passo a passo para fazer a imagem (boca toda, paralelismo)",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Etapas gerais para fazer radiografias intraorais, Projeções periapicais individuais, pp. 91–92",
+      "texto": "Sequência do livro para uma série de boca toda por paralelismo:\n1. **Prepare a unidade:** barreiras de controle de infecção; receptores e retentores à mão.\n2. **Acomode o paciente:** sentado na vertical, costas e cabeça apoiadas, e explique o procedimento. Cadeira baixa para a maxila e alta para a mandíbula. Tire óculos, aparelhos removíveis e joias no caminho do feixe (piercings de nariz, lábio e língua). Proteja com avental, mesmo para uma imagem só; o livro diz que, nos EUA, o avental é exigido por leis estaduais de exposição à radiação. O cap. 3 traz outra posição, a da ADA e do NCRP: ver a seção sobre colimação.\n3. **Ajuste a unidade:** kVp, mA e tempo. Em geral só o tempo muda conforme a região.\n4. **Lave as mãos** e use luvas e capote ou avental descartáveis.\n5. **Olhe a boca antes de pôr o receptor:** estime a inclinação axial dos dentes, procure toro ou obstrução e confira se aparelhos e joias saíram.\n6. **Posicione o cabeçote** do lado a examinar, com acesso ao ajuste final.\n7. **Posicione o receptor:** encaixe-o no retentor, paralelo ao plano oclusal. Entre pela parte apical e gire para dentro, o que evita pedir que o paciente abra demais.\n   - Maxila: o mais longe possível dos dentes, perto da linha média do palato, onde há mais espaço para orientar o receptor paralelo ao eixo dos dentes.\n   - Mandíbula e interproximais: deslocar a mandíbula para o lado radiografado dá mais espaço lingual e menos desconforto.\n   - Gire o instrumento até o bloco repousar nos dentes e ponha um rolo de algodão entre o bloco e os dentes antagonistas, o que estabiliza e alivia. Segurando instrumento e receptor, peça que feche a boca suavemente.\n8. **Posicione o tubo:** ajuste as angulações vertical e horizontal ao retentor, com o anel de mira nivelado ao anel-guia. Está bom quando o cilindro cobre a porta e fica dentro dos limites do escudo facial. Peça que o paciente não se mova.\n9. **Exponha** com o tempo predefinido. Filme ou placa de fósforo saem da boca, são secos e perdem o invólucro de controle de infecção. O sensor pode ficar na boca e ser reposicionado. Confira o conforto depois de cada exposição.\n\nSensores de estado sólido têm cerca de 2 a 4 mm de *espaço morto* entre a borda do invólucro e o chip: a área registrada é menor que o tamanho externo do sensor. Comece a série pelas vistas anteriores, que causam menos desconforto."
+    },
+    {
+      "id": "paralelismo-maxila",
+      "titulo": "Paralelismo na maxila: receptor, raio central e ponto de entrada",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica do paralelismo, projeções periapicais maxilares (Figuras 7.9 a 7.13), pp. 91–92; Quadro 7.1, p. 87",
+      "texto": "Para cada projeção o livro descreve campo da imagem, receptor, raio central e ponto de entrada. Nas tabelas, o receptor nº 1 é o dos anteriores e o nº 2, o dos posteriores (Quadro 7.1); os tamanhos estão na seção sobre filme intraoral.\n\n| Região | Receptor | Raio central | Ponto de entrada |\n|---|---|---|---|\n| Incisivos centrais | nº 1 no palato, linha mediana do receptor na linha média do arco, eixo longo paralelo ao dos incisivos; no nível dos segundos pré-molares ou primeiros molares, onde a abóbada é mais alta | Pelo contato dos centrais, perpendicular ao receptor e às raízes; vertical positiva igual à inclinação axial dos incisivos superiores (cerca de 15 a 20°); sem angulação horizontal | Lábio, na linha média, logo abaixo do septo nasal |\n| Incisivo lateral | nº 1 no fundo da boca, paralelo ao eixo longo e ao plano mesiodistal do lateral | Pelo meio do lateral; sem sobrepor as margens das coroas no espaço interproximal mesial; não tente ver o contato distal com o canino | Alto do lábio, a cerca de 1 cm da linha média |\n| Canino | nº 1 contra o palato, longe da face palatina dos dentes; borda anterior em torno do meio do lateral | Pelo contato mesial do canino; o distal fica para outras projeções | Pela eminência canina, perto do cruzamento das bordas distal e inferior da asa do nariz |\n| Pré-molares | nº 2, maior dimensão paralela ao plano oclusal, perto da linha média palatina; cobre a metade distal do canino, os pré-molares e o primeiro molar | Perpendicular ao receptor, passando entre o primeiro e o segundo pré-molar | Pelo centro da raiz do segundo pré-molar, em geral abaixo da pupila |\n| Molares | nº 2, maior dimensão quase horizontal, na linha média do palato; cobre os três molares e parte da tuberosidade; borda anterior cobrindo só a distal do segundo pré-molar | Perpendicular ao receptor e às faces vestibulares dos molares | Bochecha, abaixo do canto externo do olho, no zigoma, na altura do segundo molar |\n\n**Dicas do livro:**\n- Palato muito baixo ou toro palatino: pode ser preciso inclinar positivamente o suporte e o tubo para manter o receptor paralelo e incluir a região periapical.\n- Molares: gire o receptor para a posição com movimento firme e definido, o que ajuda a evitar o reflexo de engasgo.\n- Se o arco não deixa levar o retentor tão longe, posicione-o com metade do anel de alinhamento atrás do canto externo do olho; em geral isso inclui os molares e parte da tuberosidade.\n- Terceiro molar impactado fora da área da tuberosidade: pode ser preciso projeção oblíqua ou extraoral."
+    },
+    {
+      "id": "paralelismo-mandibula",
+      "titulo": "Paralelismo na mandíbula: receptor, raio central e ponto de entrada",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica do paralelismo, projeções periapicais mandibulares (Figuras 7.14 a 7.17), pp. 97–98",
+      "texto": "| Região | Receptor | Raio central | Ponto de entrada |\n|---|---|---|---|\n| Incisivos (central e lateral) | Dois receptores nº 1, um para os incisivos de cada lado, na vertical, atrás do central e do lateral, com o contato centrado e a borda inferior abaixo da língua; o mais atrás possível, em geral entre os pré-molares | Pelo espaço interproximal entre central e lateral | Abaixo do lábio inferior, a cerca de 1 cm da linha média |\n| Canino | nº 1 na vertical, com o canino no meio do receptor, tão lingual quanto a língua e o processo alveolar contralateral permitirem | Pelo contato mesial do canino | Quase perpendicular à asa do nariz, sobre o canino, a cerca de 3 cm acima da borda inferior da mandíbula |\n| Pré-molares | nº 2, quase horizontal, girado até o assoalho entre a língua e os dentes; borda anterior perto da linha média do canino; longe dos dentes, na parte mais funda da boca | Vertical pequena, quase paralela ao plano oclusal; horizontal pelos contatos dos pré-molares | Abaixo da pupila, a cerca de 3 cm acima da borda inferior da mandíbula |\n| Molares | nº 2, quase horizontal; gire a borda inferior para baixo, abaixo da borda lateral da língua, deslocando-a para dentro; borda anterior na metade do segundo pré-molar | Pelo segundo molar, com a horizontal pelos contatos; leve vertical positiva, cerca de 8°, pela inclinação lingual dos molares | Abaixo do canto externo do olho, a cerca de 3 cm acima da borda inferior da mandíbula |\n\n**Dicas do livro:**\n- **Incisivos:** o espaço costuma ser restrito, e dois receptores estreitos deixam ajustar a angulação do raio central ao contato de cada lado. Com o receptor repousando suavemente no assoalho como fulcro, incline o instrumento para baixo até o bloco de mordida se apoiar nos incisivos. Peça que o paciente feche a boca devagar; conforme o assoalho relaxa, gire o instrumento tendo os dentes como fulcro, para deixar o receptor mais paralelo.\n- **Canino:** incline o instrumento com o bloco sobre o canino antes de pedir que feche a boca.\n- **Pré-molares:** evite que a borda anterior encoste na gengiva muito sensível da face lingual da mandíbula.\n- **Molares:** a língua costuma empurrar o receptor para perto do processo alveolar, alinhando-o ao eixo dos dentes. Se a área for desdentada, leve o receptor mais para trás para incluir a região retromolar. Terceiro molar impactado ou doença distal a ele: pode ser preciso projeção molar oblíqua distal ou extraoral (panorâmica ou lateral)."
+    },
+    {
+      "id": "bissetriz",
+      "titulo": "Técnica da bissetriz: quando serve e o que ela distorce",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, Instrumentos de posicionamento do receptor, pp. 89–90",
+      "texto": "O livro diz que, na prática contemporânea, a bissetriz (técnica do ângulo bissetor) foi amplamente substituída pelo paralelismo. Ela pode ajudar quando o paralelismo não é possível por causa de sensores rígidos grandes ou da anatomia do paciente.\n\n**Princípio:** a bissetriz usa uma regra de geometria, a “regra de isometria de Cieszynski”: dois triângulos com um lado em comum e dois ângulos iguais são iguais. Na boca:\n1. Apoie o receptor o mais perto possível da face lingual dos dentes, no palato ou no assoalho da boca.\n2. Receptor e eixo longo do dente se encontram num ângulo, cujo vértice fica na borda incisal ou na face oclusal.\n3. Imagine a linha que divide esse ângulo (a bissetriz).\n4. Dirija o raio central em ângulo reto a essa linha. Em teoria, o comprimento da imagem fica igual ao comprimento real do dente.\n\n**Posição do paciente:** sentado ereto, plano sagital vertical. Na maxila, plano oclusal horizontal. Na mandíbula, incline levemente a cabeça: segundo o livro, isso compensa a mudança do plano oclusal com a boca aberta.\n\n**Receptor:** atrás da região a radiografar, com a ponta apical apoiada na mucosa palatina ou lingual e a borda oclusal ou incisal rente aos dentes, ultrapassando-os um pouco. O canto anterior de um filme pode ser suavizado dobrando-o, sem exagero, porque dobra demais distorce e marca a emulsão. A placa de fósforo flexiona menos, e o sensor rígido não se dobra.\n\n**Instrumento:** o método preferido é o instrumento de ângulo de divisão, com dispositivo externo que localiza o feixe e guia o ângulo vertical. Não deixe o paciente segurar o receptor com o dedo indicador: a pressão pode dobrar o filme ou a placa, e o receptor pode escorregar. Sem guia externo, parte do receptor pode ficar fora do feixe (corte do cone ou halo).\n\n**O que a bissetriz distorce:**\n- Em dente multirradicular, o feixe central teria de ser angulado de modo diferente para cada raiz; as raízes divergentes saem com distorção diferente.\n- A crista alveolar costuma se projetar mais coronal que a posição verdadeira, e isso distorce a altura aparente do osso ao redor dos dentes."
+    },
+    {
+      "id": "bissetriz-angulos",
+      "titulo": "Bissetriz: angulação do cabeçote e Tabela 7.1",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, Angulação do cabeçote, Distorção, Tabela 7.1, pp. 90–91",
+      "texto": "**Horizontal:** com retentor de anel-guia, o alinhamento é fácil e o raio central passa pelos contatos da região. Sem guia de localização, incline o tubo no plano horizontal para dirigir o raio central pelos contatos, com a borda do cilindro paralela às faces vestibulares dos dentes.\n\n**Vertical:** aponte o raio central em ângulo reto ao plano que divide ao meio o ângulo entre o receptor e o dente. Sem instrumento de ângulo de divisão, acertar isso a cada imagem é praticamente impossível; por isso se usam ângulos fixos por região (Tabela 7.1). Para isso, o plano oclusal do paciente precisa estar paralelo ao plano horizontal. Os ângulos se baseiam na anatomia típica da mandíbula humana, não são personalizados, e muitas vezes é preciso ajustá-los, por exemplo, para a inclinação anterior dos dentes.\n\n**Tabela 7.1** (angulação vertical; sinal + é cilindro apontando para baixo e sinal − é para cima). A tabela do livro tem três colunas: América do Norte (sem indicação de origem), Índia (nota a: dados do Dr. Freny Karjodkar, de um livro de 2014) e Brasil (nota b: dados que o Prof. Dr. Matheus Lima de Oliveira, da Faculdade de Odontologia de Piracicaba, UNICAMP, coletou). Aqui estão a da América do Norte e a do Brasil:\n\n| Projeção | América do Norte, maxila | América do Norte, mandíbula | Brasil, maxila | Brasil, mandíbula |\n|---|---|---|---|---|\n| Incisivos | +40° | −15° | +45° a +55° | −25° a −15° |\n| Caninos | +45° | −20° | +40° a +50° | −20° a −10° |\n| Pré-molares | +30° | −10° | +30° a +45° | −10° a −5° |\n| Molares | +20° | −5° | +20° a +35° | −5° a 0° |\n\n**Distorção:** distorção diagnosticamente inaceitável pode obrigar a repetir a imagem com outra angulação vertical, e o padrão da distorção guia a escolha. **Encurtamento** da imagem indica angulação vertical alta demais; **alongamento**, angulação vertical insuficiente."
+    },
+    {
+      "id": "bitewing",
+      "titulo": "Bitewing (interproximal): objetivos, retenção e posição do receptor",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia bitewing ou interproximal, Quadro 7.3, pp. 102–104",
+      "texto": "A bitewing mostra, numa só imagem, as coroas dos dentes de cima e de baixo e a crista alveolar. O receptor costuma ser orientado com o eixo longo na horizontal, mas pode ir para a vertical. O feixe passa pelos espaços entre os dentes, paralelo ao plano oclusal; o receptor fica paralelo às faces vestibular e lingual dos dentes e perpendicular ao feixe.\n\n**Para que serve (Quadro 7.3):**\n1. detectar cárie interproximal precoce, antes de ela ficar clinicamente aparente;\n2. detectar cárie secundária sob restaurações;\n3. avaliar a perda de osso interdental e a furca.\n\n**Retenção:** o suporte da bitewing tem placa de mordida e anel-guia externo para o cabeçote. O bloco deixa o receptor paralelo às faces vestibulares; o anel alinha o feixe, reduz a sobreposição de faces proximais e a chance de expor só parte do receptor. Há blocos separados para filme ou placa e para sensor digital. Como alternativa, existem abas de mordida descartáveis de papelão ou plástico rígido.\n\n**Paciente:** sentado ereto, plano sagital vertical, plano oclusal horizontal. Com anel externo a posição da cabeça importa menos; com abas de mordida, que não têm guia externo para o cilindro, padronize a posição da cabeça.\n\n**Receptor na horizontal:** o livro recomenda duas vistas posteriores por quadrante, uma de pré-molares e uma de molares. Ponha o receptor no vestíbulo lingual, junto aos dentes, com o bloco ou a aba apoiado na face oclusal da mandíbula e paralelo às faces vestibulares; peça que o paciente oclua suavemente.\n- **Pré-molares:** a vista inclui a metade distal dos caninos e as coroas dos pré-molares. O canino inferior costuma ficar mais mesial que o superior e serve de guia. Segure o receptor até a boca fechar por completo, para que ele não se desloque para distal.\n- **Molares:** a margem distal do receptor passa 1 ou 2 mm do molar mais distal, superior ou inferior.\n- **Área de imagem:** em filme e placa, começa a cerca de 2 mm da borda do pacote; em sensor de estado sólido, há de 2 a 4 mm de espaço morto, conforme o fabricante.\n\n**Receptor na vertical:** use quando há perda óssea alveolar de moderada a grave. Assim é mais provável que apareçam as cristas alveolares que restaram."
+    },
+    {
+      "id": "bitewing-feixe",
+      "titulo": "Bitewing: angulações horizontal e vertical",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia bitewing, Angulação horizontal e vertical, Projeções bitewing de pré-molar e de molar, pp. 103–104",
+      "texto": "**Horizontal:** dirija o feixe pelos contatos, para ver a superfície interproximal sem sobreposição. Os arcos superior e inferior podem ter curvaturas diferentes: com o feixe bem dirigido pelos contatos dos pré-molares inferiores, a sobreposição nos pré-molares superiores é mínima ou nula. Há alguma tolerância: costuma-se aceitar que o esmalte proximal se sobreponha em menos de um terço da sua espessura. O contato entre primeiro e segundo molares superiores costuma ficar angulado alguns graus mais para a frente que o dos inferiores. Com abas de mordida a orientação horizontal é menos direta: o próprio operador tem de apontar o feixe pelos espaços entre os dentes e cobrir o receptor inteiro, senão aparece halo.\n\n**Vertical:** o livro traz o valor em três trechos.\n- **Texto geral da bitewing (cap. 7, p. 103):** o cilindro fica a cerca de +10°, para projetar o feixe paralelo ao plano oclusal (junção dentina-esmalte oclusal). Isso minimiza a sobreposição das cúspides opostas e melhora a detecção de lesões oclusais precoces nessa junção.\n- **Descrição por região (cap. 7, p. 104):** pré-molares, cerca de +5°, para compensar a leve inclinação do receptor contra a mucosa palatina; molares, +10°.\n- **Imagens intraorais (cap. 17, p. 271):** a bitewing é feita com inclinação para baixo de 5 a 10°.\nO livro dá o motivo do +5° e não concilia os três valores. Diga sempre de qual trecho é o número.\n\n**Centro do feixe e ponto de entrada:**\n- **Pré-molares:** direcione o raio central ao centro do receptor, pelos contatos dos pré-molares. Afaste a bochecha e confira que ele entra na linha de oclusão, no contato entre o segundo pré-molar e o primeiro molar.\n- **Molares:** o raio central vai ao centro do receptor, pelo contato entre primeiros e segundos molares superiores, angulado levemente para a frente, porque os contatos molares geralmente não estão em ângulo reto com as faces vestibulares. Entrada: bochecha, abaixo do canto lateral do olho, no nível do plano oclusal.\n- Os contatos dos molares superiores e inferiores podem não abrir na mesma angulação nem aparecer na mesma imagem. Nesse caso, o livro diz que pode ser desejável abrir os dos superiores, porque os dos inferiores geralmente já estão abertos."
+    },
+    {
+      "id": "oclusal",
+      "titulo": "Radiografia oclusal: quando usar e como direcionar",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia oclusal, Quadro 7.4, projeções oclusais individuais, pp. 106–107",
+      "texto": "A oclusal mostra um segmento grande de um arco e pode incluir o palato ou o assoalho da boca. Também serve quando o paciente não abre a boca o bastante para periapicais ou não aceita receptores periapicais. Como o feixe incide em angulação acentuada, ela pode ser combinada com periapicais para localizar objetos nas três dimensões. O livro lembra que, com a difusão da tomografia de feixe cônico (CBCT, sigla do livro), muitos desses objetivos hoje são cumpridos por ela; as oclusais seguem em uso quando o acesso à CBCT é limitado.\n\n**Objetivos (Quadro 7.4):** localizar dentes supranumerários, não irrompidos e impactados; localizar corpos estranhos nos maxilares e no assoalho da boca; identificar e dimensionar doença (cistos, osteomielite, malignidades) em mandíbula, palato e assoalho; acompanhar a sutura palatina mediana durante a expansão ortodôntica e detectar sialólitos nos ductos sublingual e submandibular; avaliar o seio maxilar; auxiliar no exame de paciente com trismo; obter informação sobre fraturas de mandíbula e maxila.\n\n**Receptor:** grande, de 7,7 cm por 5,8 cm, entre as faces oclusais. É de filme ou de placa de fósforo, porque sensores CCD ou CMOS desse tamanho não são fabricados. O lado do tubo fica voltado para o maxilar que se examina, e o paciente morde suavemente.\n\n| Projeção | Raio central | Ponto de entrada |\n|---|---|---|\n| Anterior da maxila | cerca de +45° na vertical, 0° na horizontal | Ponta do nariz |\n| Topográfica da maxila | +65° na vertical, 0° na horizontal | Ponte do nariz, logo abaixo do násio |\n| Lateral da maxila | +60° na vertical | Cerca de 2 cm abaixo do canto lateral do olho |\n| Anterior da mandíbula | −10° (−55° em relação ao plano do receptor); paciente reclinado, plano oclusal a 45° acima da horizontal | Linha mediana, pela ponta do queixo |\n| Topográfica da mandíbula | em ângulo reto ao centro do receptor | Linha média, pelo assoalho da boca, cerca de 3 cm abaixo do queixo |\n| Lateral da mandíbula | perpendicular ao centro do receptor | Abaixo do queixo, cerca de 3 cm para trás da ponta e 3 cm para o lado da linha média |\n\nPara examinar o assoalho da boca (por exemplo, sialólitos), reduza o tempo de exposição à metade do usado para a imagem da mandíbula, nas projeções topográfica e lateral da mandíbula."
+    },
+    {
+      "id": "criancas",
+      "titulo": "Crianças: menos exposição, receptores menores e manejo",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Imagens radiográficas de crianças, Gerenciamento de pacientes, pp. 110–111",
+      "texto": "Crianças são mais sensíveis à irradiação. O jeito de reduzir a exposição é fazer o número mínimo de radiografias, decidido por exame clínico cuidadoso, idade, história médica, crescimento, saúde bucal, presença de cárie e tempo desde os exames anteriores.\n\n**Quando e com que proteção:** a bitewing para cárie não é necessária se os contatos estão abertos e as faces proximais podem ser examinadas a olho nu. A frequência depende em parte da taxa de cárie. Uma pesquisa periapical é frequentemente recomendada no início da dentição mista. Use receptores rápidos, processamento adequado, limitadores de feixe, avental e protetor de tireoide. Sobre o avental, o cap. 3 traz a posição da ADA e do NCRP: ver a seção sobre colimação.\n\n**Técnica:** os princípios são os dos adultos, mas o palato é mais raso, os arcos são menores e pedem receptores periapicais menores; o fundo da boca pode pedir mais adaptação do posicionamento.\n\n**Exposição:** o livro diz que a metade da mA do adulto jovem médio dá a densidade adequada em menores de 10 anos. Entre 10 e 15 anos, mA ou tempo diminuem cerca de 25%.\n\n**Manejo:** o exame radiográfico costuma ser o primeiro procedimento manipulativo da criança; se for tranquilo, as próximas experiências tendem a ser aceitas. Explique de modo que ela entenda (uma sugestão do livro é comparar o aparelho a uma máquina de fotografar dentes), deixe-a tocar receptor e equipamento e converse para distraí-la; ver um irmão ser radiografado ou ter o pai ou o dentista de modelo ajuda. Para ânsia de vômito, peça respiração pelo nariz; distrações como enrolar os dedos dos pés ou fechar o punho funcionam. Se nada resolver, adie para a próxima consulta."
+    },
+    {
+      "id": "criancas-series",
+      "titulo": "Crianças: séries de imagens e tamanho do receptor",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Imagens radiográficas de crianças, Dentição primária, Dentição mista, pp. 111–112, e Radiografia bitewing, pp. 102–103",
+      "texto": "**Séries do livro:**\n- **Dentição primária (3 a 6 anos):** dois receptores oclusais anteriores, dois posteriores de mordida e até quatro periapicais posteriores. Bitewing com receptor nº 0 e aba de mordida, angulação vertical de +5 a +10° (valor deste trecho do livro; os do texto sobre bitewing estão na seção das angulações). Alguns dentistas acham a panorâmica mais informativa e de menor exposição que as quatro periapicais.\n- **Dentição mista (7 a 12 anos):** se indicado, duas periapicais de incisivos, quatro de caninos, quatro posteriores e duas ou quatro bitewing; quatro bitewing quando os segundos molares permanentes irromperem. Receptores nº 1 ou nº 2, conforme o tamanho da criança. Para as menores, blocos de mordida da bissetriz podem ser mais confortáveis.\n\n**Receptor de bitewing em criança:** o livro dá o tamanho em três trechos, sem conciliá-los. No texto geral da bitewing (cap. 7, pp. 102–103), para crianças de até 12 anos um receptor bitewing nº 2 geralmente basta. Nas séries acima (cap. 7, pp. 111–112), a dentição primária usa o nº 0, e a mista, o nº 1 ou o nº 2, conforme o tamanho da criança. No cap. 5 (p. 62), o nº 1 é o preferido em crianças, e o nº 0 pode ser usado nas pequenas."
+    },
+    {
+      "id": "situacoes-especiais",
+      "titulo": "Situações especiais: infecção, trauma, vômito, desdentados e gravidez",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Considerações especiais, Reflexo de vômito, Gravidez, Pacientes desdentados, pp. 113–114",
+      "texto": "O livro pede começar demonstrando que se entende a condição do paciente: ser gentil e firme dá confiança.\n- **Infecção:** o edema pode levar a trismo, e a radiografia pode doer; panorâmica ou oclusais podem ser a única opção. Com edema, aumente o tempo de exposição, porque o tecido inchado atenua mais os raios X.\n- **Traumatismo:** fraturas dentárias aparecem bem em periapicais ou oclusais, com cuidado com a condição do paciente. Fraturas esqueléticas costumam ser mais bem vistas em panorâmicas, outras extraorais ou tomografia.\n- **Deficiência mental:** a dificuldade vem de falta de coordenação ou de compreensão; exame rápido reduz movimentos imprevisíveis; às vezes é preciso sedação.\n- **Deficiência física:** em geral cooperam e toleram bem o desconforto; familiares podem ajudar a posicionar o paciente e a segurar o receptor.\n\n**Reflexo de vômito.** Descreva e explique o procedimento, tranquilize e passe confiança. Costuma ser pior com o paciente cansado, por isso o livro aconselha o exame pela manhã. O reflexo dispara quando o receptor toca a parte de trás da língua ou o palato mole:\n- peça que engula profundamente antes de abrir a boca, para a língua ficar relaxada no assoalho;\n- nunca mencione a língua nem peça que a relaxe: isso a torna mais presente e precipita movimentos involuntários;\n- entre com o receptor paralelo ao plano oclusal e gire-o com movimento decidido; deslizar pelo palato ou pela língua pode estimular o reflexo, e quanto mais o receptor fica, maior a chance de vômito;\n- peça respiração rápida pelo nariz; qualquer exercício que desvie a atenção (prender a respiração, manter um pé ou um braço suspenso) ajuda.\nAnestésico tópico em enxaguatório ou spray fica para casos extremos, e os autores tiveram resultados limitados. Se tudo falhar, o exame extraoral pode ser o único caminho.\n\n**Desdentados:** o exame importa, porque podem existir raízes, infecção residual, dentes impactados ou cistos. Depois de descartados, repetir o exame sem sinais ou sintomas não se justifica. Se houver panorâmica, ela é a mais conveniente; para alterações das cristas, complemente com periapical. A exposição para crista desdentada é cerca de 25% menor que para crista com dentes.\n\n**Gravidez:** o livro diz que a exposição do embrião ou feto na radiografia dentária é extremamente baixa e que não há relato de dano. Mesmo assim, limite o exame ao que a mãe precisa. Com as técnicas ótimas de proteção, faz-se o exame intra ou extraoral sempre que houver necessidade diagnóstica razoável."
+    },
+    {
+      "id": "endodontia",
+      "titulo": "Imagem durante o tratamento endodôntico",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Imagem para endodontia, pp. 113–114",
+      "texto": "Segundo o livro, as radiografias são essenciais para o diagnóstico, o planejamento e o tratamento endodôntico; as intraoperatórias confirmam o comprimento de trabalho ou revelam canais adicionais. O dique de borracha, a pinça e os instrumentos de canal podem atrapalhar o receptor e o cilindro.\n\n**Dois requisitos:**\n1. o dente tratado fica centrado na imagem;\n2. o receptor fica o mais afastado do dente que a região permitir, para que o ápice e algum osso periapical apareçam.\n\n**Posição do paciente:** na maxila, sentado, plano sagital perpendicular ao chão e plano oclusal paralelo ao chão. Na mandíbula, sentado na vertical, plano sagital perpendicular e a linha do trágus ao canto da boca paralela ao chão.\n\n**Suporte:** existem suportes de receptor projetados para endodontia, que passam sobre limas, grampo e dique sem tocar o dente. Alinhe o cilindro de modo que o raio central fique perpendicular ao receptor.\n\n**Segunda projeção:** num dente com várias raízes, a imagem feita do modo habitual (angulações vertical e horizontal de rotina) com frequência deixa raízes sem aparecer. Para separá-las, mude a angulação horizontal em 20°:\n- para mesial, nos pré-molares superiores;\n- para mesial ou distal, nos molares superiores;\n- para distal (projeção oblíqua), nas raízes dos molares inferiores.\n\n**Trato sinusal:** para rastrear o trajeto, insira um cone de guta-percha no trato antes da radiografia. O livro diz que a mesma técnica serve para localizar defeitos periodontais e medir a profundidade deles.\n\n**Imagem final:** depois de retirar grampo e dique, uma radiografia mostra a qualidade do preenchimento dos canais e a condição periapical. Ela serve de linha de base para comparar exames posteriores e monitorar o resultado."
+    },
+    {
+      "id": "geometria",
+      "titulo": "Geometria de projeção: nitidez, ampliação e distorção",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Geometria de projeção, Quadro 6.1, Distorção, pp. 80–82",
+      "texto": "Uma radiografia convencional projeta em duas dimensões todo o tecido entre a fonte e o receptor. O livro avalia a qualidade da imagem por nitidez, resolução espacial, resolução de contraste, ampliação e distorção. Nitidez é quão bem se vê o limite entre duas áreas de radiodensidades diferentes; resolução espacial é quão bem se separam objetos pequenos e próximos.\n\n**Cinco princípios (Quadro 6.1):** o livro os resume em cinco regras: usar o menor ponto focal possível; manter a fonte longe do receptor e o objeto perto dele; manter o receptor paralelo ao eixo longo do objeto; e dirigir o feixe central perpendicular ao objeto e ao receptor.\n\n**Ampliação** (distorção de tamanho): é o aumento da imagem em relação ao objeto real. Ela diminui quando se aumenta a distância fonte-objeto e se diminui a distância objeto-receptor.\n\n**Distorção de forma:** vem da ampliação desigual de partes do mesmo objeto, porque nem todas estão à mesma distância da fonte. Para minimizá-la:\n- **Receptor paralelo ao eixo longo do objeto.** Se o raio central é perpendicular ao receptor, mas o dente não é paralelo a ele, a imagem sai mais curta que o dente: **encurtamento**. Se o feixe é perpendicular ao dente, mas não ao receptor, o dente aparece maior que o real: **alongamento**.\n- **Raio central perpendicular ao objeto e ao receptor.** Isso se nota mais nos molares superiores: a divergência das raízes vestibulares e palatinas impede deixar todas paralelas ao receptor, e as palatinas parecem desproporcionalmente mais longas.\n\nAs técnicas que aplicam esses princípios, paralelismo e bissetriz, estão nas seções do cap. 7."
+    },
+    {
+      "id": "troca-de-tubo",
+      "titulo": "Localizar objetos: duas projeções e troca de tubo (SLOB)",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Localização de objetos, Técnica de troca de tubo, Regra SLOB, Quadro 6.2, pp. 83–85",
+      "texto": "A limitação da radiografia simples é ser bidimensional. Para localizar um dente impactado ou um corpo estranho nos maxilares, o livro dá três abordagens (Quadro 6.2): duas imagens projetadas em ângulo reto entre si; a técnica de troca de tubo com periapicais; ou uma imagem tridimensional (CBCT ou tomografia com múltiplos detectores, siglas do livro). O dentista deve dominar as duas primeiras, porque a tomografia pode não estar acessível nem ser necessária se já existem várias periapicais da região.\n\n**Duas imagens em ângulo reto:** para dentes e estruturas de suporte, a periapical e a oclusal transversal. Exemplo do livro: canino superior impactado. A periapical o localiza no sentido mesiodistal e superoinferior; a oclusal da maxila, no mesiodistal e no vestibulolingual. Juntas dão as três dimensões. A abordagem funciona melhor na mandíbula; na oclusal da maxila, a sobreposição de estruturas do crânio costuma obscurecer a área.\n\n**Troca de tubo.** O livro dá três nomes: **técnica de troca de tubo**, **regra do objeto bucal** e **regra ou técnica de Clark** (Clark a descreveu em 1910). As legendas das figuras ainda dizem *mudança de tubo* e *deslocamento de tubo*. O princípio: a posição relativa das imagens de dois objetos muda quando muda o ângulo de projeção. Faça uma segunda periapical com o tubo deslocado e compare o objeto com uma referência, como o ápice de um pré-molar.\n- **SLOB**, do inglês, que o livro traduz como *mesmo lingual, oposto bucal*: se a imagem do objeto se move no mesmo sentido do tubo, ele está do lado lingual da referência; se se move em sentido oposto, está do lado bucal; se não se move, está na mesma profundidade.\n- Vale também para deslocamento vertical do tubo: avalie se a imagem sobe ou desce em relação à referência.\n- Exemplo: com o tubo movido para mesial, o objeto lingual parece ir para mesial, e o bucal parece ir para distal.\n\n**Outros usos:** o forame mentual costuma se sobrepor ao ápice de pré-molar e imitar radiotransparência periapical; em outra angulação ela se afasta do ápice, o que a distingue de lesão verdadeira. O mesmo vale para o forame incisivo sobre o ápice do incisivo central superior. A técnica também ajuda a posicionar dentes impactados, achar corpos estranhos e identificar polpa com vários canais.\n\n**Duas radiografias sem registro da angulação:** a borda inferior do processo zigomático da maxila, por ficar vestibular aos dentes, parece se mover para mesial sobre os molares quando o feixe é orientado mais para distal; com mais angulação vertical, o processo se projeta mais para oclusal sobre os dentes."
+    },
+    {
+      "id": "receptores",
+      "titulo": "Sensor digital ou placa de fósforo: o que muda na prática",
+      "fonte": "wp8-cap04",
+      "onde": "cap. 4, Receptores de imagem digital, Considerações clínicas, Tabelas 4.1 e 4.2, Quadro 4.3, pp. 40–53",
+      "texto": "O livro divide os receptores digitais intraorais em duas tecnologias:\n- **Estado sólido** (CCD ou CMOS, nos intraorais): os detectores são chamados de *sensores*. A vantagem clínica principal é a imagem disponível logo após a exposição.\n- **Placa de fósforo fotoestimulável (PSP):** a imagem latente da placa é lida depois por um escâner a laser. O manuseio é parecido com o do filme intraoral.\n\n**Sensor:** a eletrônica fica num invólucro plástico e ocupa parte da superfície, então a área ativa é menor que o sensor. As áreas ativas correspondem só aproximadamente aos tamanhos do filme (cap. 4, p. 40): o nº 1 e o nº 2 do sensor só se aproximam dos do filme. Em geral há cabo até o computador, que atrapalha o posicionamento e se desgasta nas conexões; há versões sem fio, mais volumosas. O sensor é rígido e não se dobra para acompanhar a anatomia, e segundo o livro o desconforto do paciente é mais comum do que com filme ou PSP. Concessões possíveis: levar o sensor mais para a linha média e ajustar a angulação do feixe para compensar a menor área de imagem. Pode não ser possível captar sempre a face distal do canino na imagem de pré-molares, e então uma projeção adicional pode ser necessária.\n\n**Placa de fósforo:** apague a placa antes de usar (apagamento incompleto dá imagem dupla) e ponha-a no invólucro. Depois da exposição, processe o quanto antes, porque a imagem latente se perde com o tempo; imagem bem exposta pode ser guardada por 12 a 24 horas com qualidade aceitável. A luz ambiente é a principal fonte de perda, então prepare a placa em penumbra; a luz de segurança vermelha de câmara escura não é segura para placa exposta. Dobra e arranhão geram artefatos permanentes, e a imagem pode ter de ser refeita.\n\n**Atenção: placa exposta ao contrário.** O filme tem uma folha de chumbo com padrão em relevo, que deixa a imagem subexposta e com o padrão. A base da PSP quase não atenua o feixe, então a imagem pode ser montada do lado trocado, e o dentista corre o risco de diagnosticar e tratar o lado errado. O livro cita sistemas com marcador metálico visível na imagem ou com identificação por radiofrequência; a imagem pode ser espelhada por software, sem nova exposição.\n\n**Infecção:** receptor digital não se esteriliza por meios convencionais. Limpe com agente suave (por exemplo, álcool isopropílico), sem imergir em desinfetante. O calor estraga a eletrônica dos sensores e deforma a base da PSP; desinfetante líquido danificou o revestimento e a camada de fósforo.\n\n**Imagem e diagnóstico:** segundo o livro, a maioria dos estudos sugere que o desempenho do digital não difere clinicamente do filme em tarefas típicas, como o diagnóstico de cárie. Um filtro de realce de borda aplicado a uma panorâmica produziu radiotransparência na borda de restaurações, simulando cárie recorrente."
+    },
+    {
+      "id": "protecao-paciente",
+      "titulo": "Proteção do paciente: justificar, otimizar e escolher o equipamento",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Implementação da proteção contra as radiações, Proteção ao paciente, pp. 28–32",
+      "texto": "As recomendações abaixo são citadas pelo livro de entidades dos EUA: o Conselho de Assuntos Científicos da ADA (2012 e 2006), o NCRP e a FDA.\n\n**Três princípios orientadores:**\n- **Justificação:** expor só quando o benefício da imagem provavelmente supera o risco; define quais pacientes são radiografados e qual exame se pede.\n- **Otimização:** usar todos os meios razoáveis para reduzir a exposição de pacientes, funcionários e a sua; é o princípio ALARA (*as low as reasonably achievable*, isto é, tão baixo quanto for razoavelmente exequível).\n- **Limitação de dose:** há limites para o público e para quem trabalha com raios X, mas não para o paciente exposto por indicação diagnóstica.\n\n**O mais eficaz é pedir menos exames.** A ADA (EUA, 2012) recomenda não fazer triagem radiográfica para achar doença antes do exame clínico. Antes da imagem vêm o exame clínico completo, a história, a revisão de radiografias prévias, a avaliação do risco de cárie e as necessidades odontológicas e de saúde geral. Decidida a radiografia, escolha a menor dose que dê a informação necessária.\n\n**Receptor rápido:** a ADA (2012) recomenda o receptor mais rápido compatível com a tarefa (filme de velocidade F ou digital). O filme E/F é cerca de duas vezes mais rápido que o D e pede metade da exposição, sem perda de informação diagnóstica. Os sensores digitais dão economia de dose igual ou maior que a do filme E/F.\n\n**Distância fonte-pele:** segundo a ADA (2006), a distância longa, de 40 cm, em vez da curta, de 20 cm, diminui a exposição em 10 a 25%. As distâncias de 20 a 40 cm são apropriadas, e as mais longas são ótimas.\n\n**Doses típicas:** o cap. 3 traz a dose efetiva de cada exame (Tabela 3.2); elas estão no tema *Radiografia panorâmica e tomografia computadorizada de feixe cônico (TCFC): indicações, erros e interpretação*.\n\n**Gravidez:** o livro diz que a radiografia de rotina de gestante assintomática pode ser adiada até depois da gravidez. Quando a imagem é necessária, explique que o diagnóstico e o plano de tratamento são cruciais para a saúde bucal e que a doença dentária pode afetar o feto. Para tranquilizar, o livro cita que a dose fetal de uma radiografia dentomaxilofacial fica cerca de 42.000 vezes abaixo do limite para efeitos determinísticos no embrião e no feto."
+    },
+    {
+      "id": "protecao-colimacao",
+      "titulo": "Colimação, colar de tireoide, suporte e quilovoltagem",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Colimação retangular, Aventais de proteção e colares para tireoide, Suportes, Quilovoltagem, pp. 32–34",
+      "texto": "Mais recomendações da ADA (EUA) citadas pelo livro.\n\n**Colimação retangular (ADA, 2012):** diminui a dose em até cinco vezes em relação à circular, e o equipamento deve oferecer colimação retangular para periapicais e bitewing. Nos EUA, a regulamentação federal e a da maioria dos estados exigem que o campo na pele não passe de 7 cm de diâmetro, área quase 3 vezes maior que a do receptor nº 2 (3,2 cm × 4,1 cm). Limitar o feixe ao tamanho do receptor reduz a exposição e a radiação espalhada e melhora a imagem. O livro dá a redução da área de pele exposta de dois modos: o texto diz 60%, e a legenda da Figura 3.6 diz que a área retangular é cerca de 66% menor. O livro não explica a diferença.\n\nTrês meios de limitar o feixe: colimador retangular no suporte do receptor; colimador retangular preso ao cilindro do cabeçote, com indicador de posição que centra o feixe no receptor e evita exposição parcial (halo); ou trocar o cilindro por um colimador retangular preso ao cabeçote.\n\n**Suportes (ADA, 2006):** recomendados para periapicais e bitewing. Alinham receptor, dentes e feixe, reduzem imagens inaceitáveis e repetições, e a maioria tem guia externo que mostra onde alinhar o cilindro, o que reduz o corte do cone (halo) e a distorção. Muitos incluem colimador.\n\n**Colar de tireoide e avental (ADA, 2012):** a tireoide é a glândula mais suscetível nos exames odontológicos, sobretudo em crianças. Colar de tireoide e colimação a protegem; use o colar sempre que possível. Na radiografia intraoral ele não oculta detalhes essenciais. Segundo o livro, o NCRP e a ADA concluíram que o avental para as gônadas é desnecessário quando se aplicam os outros meios (critérios de seleção, receptores rápidos e colimador retangular); o risco de efeito hereditário é insignificante. O livro nota que muitos estados dos EUA exigem o avental. O cap. 7 manda proteger com avental nas etapas e nas crianças: ver essas seções.\n\n**Quilovoltagem (ADA, 2012):** o potencial ótimo está entre 60 e 70 kVp, e a maioria dos equipamentos intraorais opera nessa faixa. Com kVp menor, o contraste é maior; com kVp maior, a dose é menor.\n\n**Tempo de exposição:** das três configurações (tensão, miliamperagem e tempo), o tempo é o fator mais crucial para a qualidade diagnóstica. Superexposição e subexposição levam a repetições. Com mA e kVp fixos, ajuste o tempo à idade do paciente (menos nos jovens) e à região da boca (menos na região anterior)."
+    },
+    {
+      "id": "protecao-operador",
+      "titulo": "Proteção de quem opera o aparelho",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Proteção pessoal, Regra de posicionamento e distância, Monitoramento, Tabela 3.4, pp. 34–36",
+      "texto": "Dentistas e funcionários que operam raios X ficam expostos ao feixe primário e à radiação dispersa. As recomendações abaixo são da ADA (EUA, 2006 e 2012), do NCRP e da ICRP, como o livro as cita.\n\n- **Barreira:** use proteção de barreira quando possível, com janela de vidro com chumbo para ver o paciente durante a exposição. O interruptor fica atrás da barreira, e o contato visual e verbal com o paciente se mantém.\n- **Sem barreira:** fique a pelo menos 2 m da cabeça do tubo e fora do caminho do feixe principal. Quando o projeto da sala não permite sair dela, a regra de posicionamento e distância manda ficar a 2 m ou mais do paciente, em posição que faça 90 a 135° com o raio central, porque a cabeça do paciente absorve a maior parte da radiação dispersa nessa região.\n- **Nunca segure o receptor na boca do paciente:** use suportes. Se a posição e a retenção corretas forem impossíveis, o pai ou outro responsável segura o receptor, com avental de proteção, e nunca uma funcionária do consultório.\n- **Cabeçote:** nem o operador nem o paciente devem segurá-lo durante a exposição, salvo em unidades portáteis de mão projetadas para isso.\n- **Portátil:** o escudo de retroespalhamento fica no lugar, com o aparelho na horizontal e o escudo perto do paciente; o ângulo muda a zona protegida e pode expor o operador.\n- **Paredes:** o NCRP recomenda que a exposição de quem está fora da sala seja menor que 0,02 mGy por semana (1 mGy por ano). Na maioria dos consultórios, paredes de gesso cartonado, tijolo ou concreto bastam, sem chumbo.\n- **Dosímetro:** a ADA recomenda para quem possa receber mais de 1 mSv; a funcionária grávida que opera o aparelho deve usá-lo, qualquer que seja a exposição prevista.\n- **Limite (Tabela 3.4, p. 36):** a tabela traz, para a dose efetiva anual, 50 mSv por ano no NCRP (dos EUA), com dose cumulativa de 10 mSv × idade, e 20 mSv, em média, em períodos de 5 anos definidos na ICRP. No texto, o livro diz que o limite da ICRP para exposição ocupacional é de 20 mSv de corpo inteiro por ano, e que a dose média de quem opera aparelho odontológico é de 0,2 mSv, 1% do limite. O livro não harmoniza o texto e a tabela."
+    },
+    {
+      "id": "dir-eua-2024-protecao",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: proteção do paciente (ADA, 2024)",
+      "fonte": "ada2024rx",
+      "onde": "Box 2, seção 3 (Patient Safety and Protection), recomendação 3.0.5, e o texto Patient Protection and Shielding",
+      "texto": "Esta seção traz uma diretriz **dos EUA**, posterior ao livro. O White e Pharoah (8ª ed.) cita as recomendações da ADA de 2012. Em 2024, um painel de especialistas da American Dental Association (ADA), associação dos EUA, publicou no *Journal of the American Dental Association* recomendações novas de segurança em radiologia odontológica, que atualizam partes das publicações de 2012 da ADA e da FDA. As seções anteriores continuam dizendo o que o livro diz.\n\n**Colar de tireoide e avental.** Segundo a diretriz de 2024, a proteção (shielding) do abdome e da tireoide em imagem intraoral, panorâmica, cefalométrica e de TCFC não é mais recomendada, e seu uso deve ser descontinuado como prática de rotina (recomendação 3.0.5). O texto do artigo explica que o colar de tireoide e a proteção abdominal (gonadal) podem bloquear o feixe primário e produzir artefatos, o que pode levar a radiografias adicionais, e que não protegem contra a radiação espalhada interna (internal scatter radiation). Para a tireoide, a melhor proteção vem da seleção adequada do paciente e da colimação retangular nas radiografias intraorais, junto com o bom posicionamento. O artigo diz que a mudança vale para pacientes pediátricos e adultos e que as normas federais, estaduais e locais deveriam ser revisadas para retirar qualquer exigência, explícita ou implícita, de proteção de rotina nesses exames.\n\n**Lado a lado com o livro.** O livro, citando a ADA de 2012, diz que o colar de tireoide deve ser usado sempre que possível (cap. 3, pp. 32–34), e, ao tratar da gravidez, recomenda-o em todos os pacientes, inclusive quem possa estar grávida (cap. 17, pp. 276–277); segundo o livro, o avental para as gônadas é desnecessário quando se aplicam os outros meios de proteção, e muitos estados dos EUA o exigem. A diretriz de 2024 não recomenda mais o colar nem a proteção abdominal como rotina. As duas são dos EUA; este tema não escolhe entre elas."
+    },
+    {
+      "id": "dir-eua-2024-dose-intraoral",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: dose e técnica na imagem intraoral (ADA, 2024)",
+      "fonte": "ada2024rx",
+      "onde": "Box 2, seção 3 (Patient Safety and Protection), recomendações 3.0.1 e 3.0.2; seção 3.1 (Radiation Dose Minimization and Image Optimization for Traditional Modalities), recomendações 3.1.1.1, 3.1.2, 3.1.4 e 3.1.5; seção 1.0, recomendação 1.0.1",
+      "texto": "Diretriz **dos EUA** (ADA, 2024), posterior ao livro, a mesma da seção anterior. Estas são outras recomendações dela para a imagem intraoral:\n- fazer um exame clínico completo e a avaliação do paciente (histórias oral e médica, radiografias anteriores, risco de doença) antes de qualquer radiografia (3.0.1);\n- pedir radiografia ou TCFC só quando se espera que o rendimento diagnóstico (diagnostic yield) beneficie o cuidado, aumente a segurança do paciente ou melhore de forma substancial o resultado clínico (3.0.2);\n- usar imagem digital em vez de filme, porque permite menor exposição do paciente (3.1.1.1);\n- colimar o feixe ao tamanho e à forma do receptor sempre que possível, com colimação retangular na imagem intraoral (3.1.2);\n- operar o aparelho intraoral com no mínimo 60 kV e sem passar de 80 kV (3.1.4); o livro, pela ADA de 2012, dá 60 a 70 kVp como faixa ótima (cap. 3, pp. 33–34);\n- usar suportes de receptor intraoral, inclusive com dispositivo de guia do feixe, quando possível (3.1.5);\n- cumprir as normas locais, estaduais e federais dos EUA sobre o uso seguro e eficaz das imagens por raios X (1.0.1)."
+    },
+    {
+      "id": "selecao",
+      "titulo": "Quando pedir a imagem: princípio e critérios de seleção (ADA/FDA, EUA)",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Prescrição de imagens diagnósticas, Diretrizes para solicitar exames radiográficos, Quadro 17.1, pp. 271–273",
+      "texto": "Segundo o livro, o exame de imagem é um teste diagnóstico. Só se faz quando um achado da história, um sinal ou um sintoma indica que a imagem provavelmente contribuirá para o diagnóstico ou o plano de tratamento, e só depois de história médica e odontológica minuciosa e de exame clínico. Como a maioria das imagens usa radiação ionizante, o benefício tem de superar o risco.\n\n**As diretrizes citadas são dos EUA.** Um painel convocado pela FDA em meados da década de 1980 as criou; foram revisadas em 2004 e em 2012, com a ADA. O livro as descreve como princípios, não regras rígidas: o cirurgião-dentista, que pode ser o único a conhecer a história e a suscetibilidade do paciente, decide, usando as diretrizes como recurso.\n\n**Duas situações pedem imagem:**\n1. evidência clínica de anormalidade que o exame físico não avalia por completo (exemplo do livro: inchaço duro na região de pré-molares da mandíbula, com expansão vestibular e lingual);\n2. alta probabilidade de doença sem sinal clínico (exemplo: paciente que há muitos anos não vai ao dentista nem faz interproximais, sem cárie evidente; é razoável supor que a bitewing trará benefício).\n\n**Critérios de seleção (Quadro 17.1, 2012):** 6 achados de história e 23 sinais ou sintomas. Entre os da história: tratamento periodontal ou endodôntico prévio, história de dor ou traumatismo, implantes presentes ou em avaliação. Entre os sinais e sintomas: doença periodontal, restaurações grandes ou profundas, lesões cariosas profundas, inchaço, mobilidade, trato sinusal, sensibilidade inexplicada.\n\nA escolha entre imagem intraoral, panorâmica e tomografia está no tema *Radiografia panorâmica e tomografia computadorizada de feixe cônico (TCFC): indicações, erros e interpretação*."
+    },
+    {
+      "id": "selecao-visita-inicial",
+      "titulo": "Visita inicial, imagens prévias e administrativas (ADA/FDA, EUA)",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Prescrição de imagens diagnósticas, critérios de seleção, Visita inicial, Tabela 17.1, Imagens prévias e administrativas, pp. 272–273",
+      "texto": "**Sem indicação, não irradie.** É inadequado irradiar o paciente só para ver se há algo. A principal exceção são as interproximais para cárie, quando não há sinais clínicos de lesão precoce. Prescrever imagens sem história médica ou odontológica, ou sem exame clínico, não é considerado responsável.\n\n**Visita inicial (texto do livro):**\n- criança com dentição decídua cooperativa e contatos posteriores fechados: apenas interproximais;\n- criança com dentição mista, depois do primeiro molar permanente: bitewing e panorâmica ou periapicais ou oclusais selecionadas;\n- adolescente e adulto dentados: exame individualizado; doença disseminada (cárie generalizada, doença periodontal) pode indicar série de boca toda; doença localizada, exame mais limitado; sem evidência de doença passada ou atual, só interproximais;\n- adulto desdentado que pede prótese: exame individualizado.\n\n**Visita inicial na Tabela 17.1 (linha “Novo paciente”, ADA/FDA 2012, EUA):**\n- criança com dentição primária: periapicais ou oclusais selecionadas e/ou interproximais posteriores, se as faces proximais não puderem ser vistas ou sondadas; sem evidência de doença e com contatos abertos, pode não precisar de exame;\n- criança em dentição de transição: interproximais posteriores com panorâmica ou bitewing posteriores, e periapicais selecionadas;\n- adolescente e adulto dentado ou parcialmente edêntulo (a tabela os reúne numa única célula mesclada): a mesma combinação, e a série de boca toda é preferida se houver doença dentária generalizada ou história de tratamento extenso;\n- adulto edêntulo: exame individualizado, conforme sinais e sintomas.\nPara o adolescente e o adulto sem evidência de doença, o texto acima pede só interproximais e a tabela traz essa combinação mais ampla; o livro não concilia os dois.\n\n**Imagens prévias:** peça ao consultório anterior; podem mostrar se a condição ficou igual, piorou ou curou. **Imagens administrativas** (seguradora, banca de exame) geralmente não beneficiam o paciente e devem ser evitadas. O livro cita o relatório NCRP nº 145, que não permite que estudantes façam exposições em pacientes, colegas ou voluntários só para educação ou licenciamento."
+    },
+    {
+      "id": "selecao-retorno",
+      "titulo": "Retorno, periodontia, imagens de rotina e gravidez (ADA/FDA, EUA)",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Visita de retorno, Tabela 17.1, Considerações da imagem, Gravidez, pp. 273–274 e pp. 276–277",
+      "texto": "**Retorno (Tabela 17.1, ADA/FDA 2012, EUA):** o paciente que volta precisa de exame clínico antes de se decidir por mais imagens. Para cárie interproximal, a diretriz recomenda bitewing em intervalos que dependem da idade e do risco. A categoria de risco pode mudar, e o intervalo com ela.\n\n| Perfil do retorno | Criança | Adolescente | Adulto |\n|---|---|---|---|\n| Cárie clínica ou risco aumentado | 6 a 12 meses | 6 a 12 meses | 6 a 18 meses |\n| Sem cárie clínica e sem risco aumentado | 12 a 24 meses | 18 a 36 meses | 24 a 36 meses |\n\nPara a criança, nos dois perfis, e para o adolescente com cárie ou risco, a tabela só pede a imagem se as faces proximais não puderem ser examinadas a olho nu ou com sonda. As orientações desestimulam imagens em intervalos fixos, sem indicação clínica, além da triagem de cárie interproximal com bitewing.\n\n**Periodontia:** havendo evidência clínica de doença periodontal, é apropriado fazer imagens intraorais, em geral periapicais e interproximais, para estabelecer e monitorar a perda óssea. Elas mostram o suporte ósseo e fatores locais de irritação (cálculo, restaurações com defeito); o comprimento e a morfologia das raízes, vistos nas periapicais, podem ser cruciais para o prognóstico.\n\n**Imagens de rotina:** o livro diz que um conjunto predeterminado de imagens feito por assistente ou higienista antes de o dentista examinar o paciente contraria as melhores práticas. Entrevista e exame completos vêm antes da seleção das imagens.\n\n**Abordagem defensiva:** o livro registra que dentistas pedem exames para reduzir o risco de acusação de negligência. Segundo ele, é improvável que essas ações prosperem se ficar demonstrado que o atendimento seguiu os parâmetros de cuidado: história médica e odontológica completa e exame clínico documentados, e diretrizes consideradas.\n\n**Gravidez:** as diretrizes se aplicam igualmente a gestantes. Com colimação, receptores rápidos ou digitais e avental, as doses são insignificantes. O livro recomenda colar de tireoide em todos os pacientes, inclusive quem possa estar grávida, quando ele não obstruir região essencial da imagem.\n\n**Dois casos do livro:**\n- Adolescente de 17 anos, retorno, sem cárie, com selantes, última bitewing há cerca de 26 meses: duas bitewing; uma panorâmica é útil para avaliar os terceiros molares em desenvolvimento.\n- Mulher de 25 anos em retorno de 6 meses após fratura de um incisivo, sem risco alto, sem cárie na bitewing da época e com teste de vitalidade normal: nenhuma radiografia. Se a polpa perder a vitalidade, faz-se uma periapical desse dente."
+    },
+    {
+      "id": "dir-eua-2026-selecao",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: seleção de pacientes (ADA e AAOMR, 2026)",
+      "fonte": "adaaaomr2026",
+      "onde": "Box 1, recomendações 1.2 e 1.7; Box 2, seções 1.0 e 2.0; Box 3, recomendações 1.4 e 1.5; Table 2; seção Discussion",
+      "texto": "Esta seção traz uma declaração **dos EUA**, posterior ao livro. Em janeiro de 2026, a ADA e a American Academy of Oral and Maxillofacial Radiology (AAOMR), associações dos EUA, publicaram no JADA uma declaração de consenso (consensus statement) sobre a seleção de pacientes para radiografia 2D e para TCFC. Ela atualiza a de 2012 da ADA e da FDA, que o livro cita (Quadro 17.1 e Tabela 17.1). Como a evidência disponível era limitada, o painel fez recomendações de consenso, e não uma diretriz formal. A própria declaração diz que serve de recurso ao dentista e não é padrão de cuidado, exigência nem regulamento, e que o dentista deve seguir também as recomendações de 2012 e as de segurança de 2024.\n\n**O que a declaração diz:**\n- **Antes de pedir.** Não se faz radiografia de triagem antes do exame clínico. A decisão parte das histórias médica e odontológica, do exame clínico, do risco de doença, da condição clínica presente e das imagens que o paciente já tem. O benefício para o diagnóstico e o plano tem de superar o risco da radiação, sobretudo em criança e adulto jovem (Box 1, 1.2).\n- **Cárie.** Cárie proximal anterior não visível clinicamente: periapical. Cárie proximal posterior não visível: bitewing (interproximal). Em superfície lisa, sem sinal ou sintoma de pulpite ou de periodontite apical, o exame visual é preferido à radiografia. A TCFC não é indicada para detectar cárie (Box 2, 1.1, 1.2, 1.3 e 1.7; Box 1, 1.7).\n- **Doença periodontal.** Depois do exame clínico completo, recomenda-se série radiográfica 2D de boca toda, com bitewing vertical quando necessário. Em quem tem ou já teve doença periodontal, bitewing vertical para avaliar o nível ósseo na dentição permanente. A perda óssea vista na imagem não indica, por si, doença ativa (Box 2, 2.3, 2.4 e 2.6).\n- **Crianças e jovens.** São mais suscetíveis aos efeitos da radiação, então a radiografia é pedida com critério. Com as medidas de redução de dose (critérios de seleção, colimação e exposição otimizada), a dose de imagem odontológica tem risco desprezível, e o uso de rotina de proteção de chumbo (lead shielding) em criança não é indicado (Box 3, 1.4 e 1.5).\n- **Frequência (Table 2).** A tabela diz que retoma a de 2012, e os intervalos de bitewing no retorno são os da Tabela 17.1 do livro: sem cárie clínica e sem risco aumentado, 12 a 24 meses na criança, 18 a 36 no adolescente e 24 a 36 no adulto; com cárie clínica ou risco aumentado, 6 a 12 meses na criança e no adolescente e 6 a 18 no adulto. Nas duas situações, na criança, e no adolescente com cárie ou risco aumentado, a tabela só pede a bitewing se as faces proximais não puderem ser examinadas a olho nu ou com sonda."
+    },
+    {
+      "id": "interpretacao",
+      "titulo": "Como olhar a imagem: pesquisa sistemática e estratégias de interpretação",
+      "fonte": "wp8-cap18",
+      "onde": "cap. 18, Imagens diagnósticas adequadas, Estratégias de pesquisa visual, Estratégia analítica, Quadro 18.1, pp. 279–281 e p. 290",
+      "texto": "Segundo o livro, interpretar exige dois componentes que não se separam: **percepção** (reconhecer um padrão anormal na imagem) e **cognição** (interpretar esse padrão e chegar ao diagnóstico).\n\n**Antes de interpretar:** tenha imagens em número suficiente e de qualidade, que mostrem a região inteira. Várias imagens em ângulos um pouco diferentes, e imagens em ângulo reto entre si, costumam dar informação a mais.\n\n**Pesquisa visual sistemática:** reconhecer o anormal exige conhecer bem a variação da anatomia normal. O livro sugere listar as estruturas normais que devem estar na imagem. Na periapical, procure a coroa, a raiz, a câmara e os canais, o ligamento periodontal e a lâmina dura.\n\n**Duas estratégias:**\n- **Analítica ou sistemática:** passo a passo por todas as características do achado; acredita-se que reduz o viés e o fechamento prematuro da decisão.\n- **Não analítica:** reconhecimento global de padrões, usado pelo especialista. O livro diz que há evidência de uso com sucesso por novatos; os críticos de ensiná-la a principiantes dizem que o sucesso fica limitado pela pouca experiência. Para quem começa, o livro diz que entender o mecanismo da doença rende mais precisão que decorar características, e que as duas estratégias podem ser complementares.\n\n**Passos analíticos (Quadro 18.1):** localizar a anormalidade; avaliar periferia e forma; analisar a estrutura interna; avaliar os efeitos sobre as estruturas vizinhas; formular a interpretação. O capítulo detalha cada passo com lesões dos maxilares, que este tema não reproduz."
+    },
+    {
+      "id": "interpretacao-decisoes",
+      "titulo": "Formular a interpretação: as quatro decisões",
+      "fonte": "wp8-cap18",
+      "onde": "cap. 18, Etapa 5: formular a interpretação, Decisões 1 a 4, pp. 289–290, e Figura 18.27, p. 291",
+      "texto": "**Quatro decisões ao formular a interpretação:**\n1. **Normal ou anormal?** Variação do normal não exige tratamento nem investigação adicional.\n2. **Desenvolvida ou adquirida?** Exemplo do livro: dente com raiz curta. Se o dente só formou raiz curta, o canal não deve aparecer até a ponta; na reabsorção radicular externa a raiz encurta, mas o canal continua visível até a ponta (Figura 18.27).\n3. **Qual categoria?** Inflamação, cistos, neoplasia benigna, neoplasia maligna, displasia óssea, anormalidade vascular, doença metabólica ou alteração física, como fraturas. O livro sugere trazer a informação clínica neste ponto: ela refina a lista curta (interpretação diferencial) e evita procurar na imagem só o que confirma um diagnóstico preconcebido.\n4. **Como proceder?** Mais imagens, biópsia, observação (reexame em alguns meses, se parece benigna e sem necessidade clara de tratamento imediato) ou tratamento. Como exemplo, para a neoplasia maligna o livro cita encaminhar primeiro a um radiologista oral e maxilofacial, para possível imagem avançada, que caracterize a lesão e ajude a escolher o local de biópsia e o tratamento.\n\n**Atenção:** a imagem é só um teste diagnóstico e não é infalível; valorize-a junto com as informações clínicas e outros testes. Para a cárie, veja o tema *Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão*; para a periapical no diagnóstico pulpar, o tema *Diagnóstico pulpar e periapical: testes e decisão*."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Quais são os cinco princípios básicos da geometria de projeção?",
+      "verso": "(1) ponto focal o menor possível; (2) fonte longe do receptor; (3) objeto perto do receptor; (4) receptor paralelo ao eixo longo do objeto; (5) feixe central perpendicular ao objeto e ao receptor.",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Quadro 6.1, pp. 80–81"
+    },
+    {
+      "id": "f02",
+      "frente": "Na técnica do paralelismo, como ficam o receptor e o raio central?",
+      "verso": "Receptor paralelo ao eixo longo do dente; raio central em ângulo reto ao dente e ao receptor. O livro também a chama de técnica do ângulo reto e técnica de cone longo.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica do paralelismo, pp. 88–89"
+    },
+    {
+      "id": "f03",
+      "frente": "Por que o paralelismo usa distância fonte-objeto relativamente longa?",
+      "verso": "O receptor fica no meio da boca, longe do dente, o que aumenta a ampliação e reduz a nitidez geométrica. A distância longa compensa isso.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica do paralelismo, pp. 88–89"
+    },
+    {
+      "id": "f04",
+      "frente": "O que uma periapical deve mostrar, segundo os critérios de qualidade do livro?",
+      "verso": "O comprimento total das raízes e pelo menos 2 mm de osso periapical. Havendo anormalidade, toda a área dela mais um pouco de osso ao redor.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Critérios de qualidade, pp. 87–88"
+    },
+    {
+      "id": "f05",
+      "frente": "Qual sobreposição de faces proximais o livro aceita numa bitewing?",
+      "verso": "Menos de um terço da espessura do esmalte proximal.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia bitewing, Angulação horizontal, pp. 103–104"
+    },
+    {
+      "id": "f06",
+      "frente": "Para que serve a bitewing (Quadro 7.3)?",
+      "verso": "Detectar cárie interproximal precoce, detectar cárie secundária sob restaurações e avaliar a perda de osso interdental e a furca.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Quadro 7.3, pp. 102–103"
+    },
+    {
+      "id": "f07",
+      "frente": "Quando o livro indica a bitewing com o receptor na vertical?",
+      "verso": "Em perda óssea alveolar de moderada a grave: aumenta a chance de registrar as cristas alveolares residuais.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia bitewing, colocação do receptor, pp. 103–104"
+    },
+    {
+      "id": "f08",
+      "frente": "Na técnica da bissetriz, para onde se dirige o raio central?",
+      "verso": "Em ângulo reto ao plano imaginário que divide o ângulo entre o eixo longo do dente e o receptor.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, pp. 89–90"
+    },
+    {
+      "id": "f09",
+      "frente": "O que a bissetriz distorce na altura do osso alveolar?",
+      "verso": "A crista alveolar costuma se projetar mais coronal que a posição verdadeira, distorcendo a altura aparente do osso ao redor dos dentes.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, Limitações, pp. 89–90"
+    },
+    {
+      "id": "f10",
+      "frente": "Na bissetriz, o que indicam encurtamento e alongamento da imagem?",
+      "verso": "Encurtamento: angulação vertical alta demais. Alongamento: angulação vertical insuficiente.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, Distorção, pp. 90–91"
+    },
+    {
+      "id": "f11",
+      "frente": "O que diz a regra SLOB na troca de tubo?",
+      "verso": "Mesmo lingual, oposto bucal: se a imagem do objeto se move no mesmo sentido do tubo, ele é lingual; em sentido oposto, bucal; se não se move, está na mesma profundidade.",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Regra SLOB, pp. 84–85"
+    },
+    {
+      "id": "f12",
+      "frente": "Que três nomes o livro dá à troca de tubo?",
+      "verso": "Técnica de troca de tubo, regra do objeto bucal e regra (ou técnica) de Clark. Clark a descreveu em 1910.",
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo, pp. 84–85"
+    },
+    {
+      "id": "f13",
+      "frente": "Em quanto a distância fonte-pele de 40 cm reduz a exposição, em relação à de 20 cm?",
+      "verso": "Em 10 a 25%, segundo a recomendação da ADA (EUA, 2006) citada pelo livro.",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Proteção ao paciente, Distância fonte-pele, pp. 31–32"
+    },
+    {
+      "id": "f14",
+      "frente": "Sem barreira de proteção, onde o operador deve ficar?",
+      "verso": "A 2 m ou mais do paciente, em posição que faça 90 a 135° com o raio central.",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Regra de posicionamento e distância, Figura 3.8, pp. 35–36"
+    },
+    {
+      "id": "f15",
+      "frente": "Reflexo de vômito: o que o dentista nunca deve dizer ao paciente?",
+      "verso": "Nunca mencionar a língua nem pedir que a relaxe: isso a torna mais presente e precipita movimentos involuntários.",
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Reflexo de vômito, pp. 113–114"
+    },
+    {
+      "id": "f16",
+      "frente": "Qual é o potencial ótimo, em kVp, das unidades de radiografia dentária, segundo a ADA (EUA, 2012) citada pelo livro?",
+      "verso": "Entre 60 e 70 kVp.",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Quilovoltagem, pp. 33–34"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Você faz uma periapical por paralelismo em paciente de palato pouco côncavo, e o receptor não entra fundo o bastante para mostrar o dente inteiro. Segundo o White e Pharoah, o que a técnica admite quando as restrições são extremas?",
+      "alternativas": [
+        {
+          "texto": "Trocar para um cilindro curto, para aproximar a fonte do dente e compensar a ampliação.",
+          "correta": false,
+          "justificativa": "O livro diz que o paralelismo compensa a maior distância objeto-receptor com uma distância fonte-objeto relativamente longa, o cone longo, e não com uma curta.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica do paralelismo, pp. 88–89"
+        },
+        {
+          "texto": "Manter o feixe perpendicular só ao receptor e aceitar a imagem como sai, sem mudar de técnica.",
+          "correta": false,
+          "justificativa": "A Figura 7.5 mostra esse arranjo, com palato raso, como causa de distorção: o feixe fica perpendicular ao receptor, mas não ao dente. Para restrições extremas, o livro indica usar os princípios da bissetriz.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica do paralelismo, Figura 7.5, pp. 87–89"
+        },
+        {
+          "texto": "Usar os princípios da bissetriz para posicionar o receptor e definir a angulação vertical do tubo.",
+          "correta": true,
+          "justificativa": "Nas restrições anatômicas extremas, o livro aceita posicionar o receptor e definir a angulação vertical pelos princípios da bissetriz.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Radiografia periapical, pp. 87–88"
+        },
+        {
+          "texto": "Dispensar o anel-guia externo, porque com palato raso o alinhamento do feixe deixa de importar.",
+          "correta": false,
+          "justificativa": "O livro pede o retentor com anel-guia externo: ele alinha o colimador, centra o receptor atrás do dente e mantém o feixe perpendicular ao receptor e ao dente.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Instrumentos de retenção do receptor, pp. 88–89"
+        }
+      ],
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia periapical e Técnica do paralelismo, pp. 87–89",
+      "secao": "paralelismo",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um paciente apreensivo tem ânsia de vômito assim que o receptor entra na boca para uma periapical posterior. Segundo o White e Pharoah, qual conduta ajuda?",
+      "alternativas": [
+        {
+          "texto": "Pedir que engula profundamente antes de abrir a boca e girar o receptor com movimento decidido até o palato ou o assoalho.",
+          "correta": true,
+          "justificativa": "O livro pede que o paciente engula profundamente antes de abrir a boca, para a língua ficar relaxada e bem posicionada no assoalho, e que o receptor seja girado com movimento decisivo, em contato com o palato ou o assoalho.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Considerações especiais, Reflexo de vômito, p. 113"
+        },
+        {
+          "texto": "Pedir que relaxe a língua enquanto o receptor entra.",
+          "correta": false,
+          "justificativa": "O livro diz que o dentista nunca deve mencionar a língua nem pedir que a relaxe, porque isso a torna mais presente e precipita movimentos involuntários.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Considerações especiais, Reflexo de vômito, p. 113"
+        },
+        {
+          "texto": "Deslizar o receptor devagar pelo palato até a posição, para ser mais gentil.",
+          "correta": false,
+          "justificativa": "O livro diz que deslizar o receptor ao longo do palato ou da língua pode estimular o reflexo.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Considerações especiais, Reflexo de vômito, p. 113"
+        },
+        {
+          "texto": "Deixar o receptor um tempo na boca para o paciente se acostumar antes de expor.",
+          "correta": false,
+          "justificativa": "O livro diz que, quanto mais tempo o receptor permanece na boca, maior a chance de vômito.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Considerações especiais, Reflexo de vômito, p. 113"
+        }
+      ],
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Considerações especiais, Reflexo de vômito, p. 113",
+      "secao": "situacoes-especiais",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Sua bitewing de pré-molares saiu com as coroas dos dentes vizinhos sobrepostas nos contatos. Segundo o White e Pharoah, o que corrigir ao repetir?",
+      "alternativas": [
+        {
+          "texto": "Aumentar a angulação vertical para abrir os contatos entre as coroas.",
+          "correta": false,
+          "justificativa": "Segundo o livro, a angulação vertical (cerca de +10° no texto geral; +5° na projeção de pré-molar) serve para projetar o feixe paralelo ao plano oclusal e reduzir a sobreposição das cúspides opostas. Para ver a superfície interproximal sem sobreposição, o livro manda dirigir o feixe pelos contatos.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Radiografia bitewing, Angulação vertical, pp. 103–104"
+        },
+        {
+          "texto": "Passar o receptor para a posição vertical.",
+          "correta": false,
+          "justificativa": "O livro indica o receptor na vertical quando há perda óssea alveolar de moderada a grave, para registrar as cristas residuais, e não para corrigir sobreposição.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Radiografia bitewing, colocação do receptor, p. 103"
+        },
+        {
+          "texto": "Pôr o receptor 1 ou 2 mm mais para trás do molar mais distal.",
+          "correta": false,
+          "justificativa": "Essa medida, segundo o livro, define a cobertura do molar mais distal no receptor de molares. A sobreposição depende da direção do feixe pelos contatos.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Radiografia bitewing, colocação do receptor, p. 103"
+        },
+        {
+          "texto": "Dirigir o feixe, no plano horizontal, pelos contatos interproximais.",
+          "correta": true,
+          "justificativa": "O livro diz que, para radiografar a superfície interproximal sem sobreposição, o feixe é dirigido pelos contatos, e que normalmente menos de um terço da espessura do esmalte proximal deve estar sobreposto.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Radiografia bitewing, Angulação horizontal, p. 103"
+        }
+      ],
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Radiografia bitewing, Angulação horizontal, p. 103",
+      "secao": "bitewing-feixe",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Para ver a altura do osso ao redor de um dente, você fez a periapical pela técnica da bissetriz. O que o White e Pharoah adverte sobre essa imagem?",
+      "alternativas": [
+        {
+          "texto": "O comprimento do dente na imagem fica sempre mais curto que o real.",
+          "correta": false,
+          "justificativa": "O livro diz que, na bissetriz, o comprimento da imagem do dente corresponde, em teoria, ao comprimento real; a distorção está na posição da crista alveolar.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica da bissetriz, pp. 89–90"
+        },
+        {
+          "texto": "A crista alveolar costuma se projetar mais coronal que a posição verdadeira, distorcendo a altura aparente do osso.",
+          "correta": true,
+          "justificativa": "O livro diz que a crista alveolar costuma aparecer acima da posição real, o que falseia a altura aparente do osso ao redor dos dentes.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica da bissetriz, p. 90"
+        },
+        {
+          "texto": "A crista alveolar costuma aparecer mais apical que a real, e a técnica subestima o osso presente.",
+          "correta": false,
+          "justificativa": "O livro descreve o oposto: a crista se projeta coronal à posição verdadeira.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica da bissetriz, p. 90"
+        },
+        {
+          "texto": "Todas as raízes de um molar saem com a mesma distorção, o que torna a imagem confiável.",
+          "correta": false,
+          "justificativa": "O livro diz que raízes divergentes de dentes multirradiculares mostram diferentes extensões de distorção, porque o feixe central teria de ser angulado de modo diferente para cada raiz.",
+          "fonte": "wp8-cap07",
+          "onde": "cap. 7, Técnica da bissetriz, pp. 89–90"
+        }
+      ],
+      "fonte": "wp8-cap07",
+      "onde": "cap. 7, Técnica da bissetriz, pp. 89–90",
+      "secao": "bissetriz",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Numa periapical de pré-molares inferiores, um objeto radiopaco se sobrepõe ao ápice do segundo pré-molar. Você refaz a imagem com o tubo deslocado para mesial, e o objeto parece se mover para distal em relação ao ápice. Segundo o White e Pharoah, onde o objeto está?",
+      "alternativas": [
+        {
+          "texto": "Do lado lingual do ápice.",
+          "correta": false,
+          "justificativa": "Pela regra SLOB do livro, o objeto lingual parece se mover no mesmo sentido do deslocamento do tubo, e aqui a imagem foi no sentido oposto.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Técnica de troca de tubo, Regra SLOB, pp. 84–85"
+        },
+        {
+          "texto": "Na mesma profundidade do ápice, no mesmo plano vertical.",
+          "correta": false,
+          "justificativa": "Segundo o livro, o objeto que não se move em relação à referência está na mesma profundidade; aqui ele se moveu.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Regra SLOB, p. 85"
+        },
+        {
+          "texto": "Do lado bucal do ápice.",
+          "correta": true,
+          "justificativa": "O livro diz que, quando o objeto está do lado bucal da referência, sua imagem parece se mover no sentido oposto à mudança do tubo; com o tubo para mesial, a imagem vai para distal.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Técnica de troca de tubo, Regra SLOB, pp. 84–85"
+        },
+        {
+          "texto": "Não dá para saber sem uma tomografia.",
+          "correta": false,
+          "justificativa": "O livro apresenta a troca de tubo com periapicais como uma das abordagens para localizar objetos e diz que a tomografia pode não ser acessível nem necessária se já existem várias periapicais da região.",
+          "fonte": "wp8-cap06",
+          "onde": "cap. 6, Localização de objetos, Quadro 6.2, pp. 83–84"
+        }
+      ],
+      "fonte": "wp8-cap06",
+      "onde": "cap. 6, Técnica de troca de tubo, Regra SLOB, pp. 84–85",
+      "secao": "troca-de-tubo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente adulto novo, dentado, sem queixa, sem história de tratamento relevante e sem sinal clínico de doença, com contatos proximais fechados. Segundo o texto da visita inicial do capítulo 17 do White e Pharoah (diretriz ADA/FDA dos EUA), qual imagem faz sentido na visita inicial?",
+      "alternativas": [
+        {
+          "texto": "Só imagens interproximais, para investigar cárie interproximal.",
+          "correta": true,
+          "justificativa": "O livro diz que, sem evidência de doença dentária passada ou atual, a visita inicial do adolescente ou adulto dentado pede apenas imagens interproximais para cárie interproximal.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Visita inicial, p. 273"
+        },
+        {
+          "texto": "Série de boca toda, com periapicais e bitewing.",
+          "correta": false,
+          "justificativa": "Segundo o livro, a série de boca toda pode ser indicada por doença disseminada, como cárie generalizada ou doença periodontal; este paciente não tem sinal de doença.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Visita inicial, p. 273"
+        },
+        {
+          "texto": "Nenhuma imagem, porque não há indicação clínica nem de história.",
+          "correta": false,
+          "justificativa": "O livro cita como principal exceção à regra de não irradiar sem indicação as interproximais para cárie interproximal, quando não há sinais clínicos de lesão precoce.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, critérios de seleção, p. 273"
+        },
+        {
+          "texto": "Panorâmica e periapicais selecionadas, como na criança com dentição mista.",
+          "correta": false,
+          "justificativa": "O texto da visita inicial atribui essa combinação à criança com dentição mista, depois do primeiro molar permanente; para o adulto sem evidência de doença, pede só interproximais.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Visita inicial, p. 273"
+        }
+      ],
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Visita inicial, p. 273",
+      "secao": "selecao-visita-inicial",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto de retorno, sem cárie clínica e sem risco aumentado de cárie, com a última bitewing há 14 meses e nada de novo no exame clínico. Segundo a Tabela 17.1 (ADA/FDA, EUA) citada pelo White e Pharoah, o que fazer agora?",
+      "alternativas": [
+        {
+          "texto": "Repetir a bitewing, porque o intervalo para adulto é de 6 a 18 meses.",
+          "correta": false,
+          "justificativa": "O intervalo de 6 a 18 meses, segundo a tabela, é o do adulto com cárie clínica ou risco aumentado; este paciente não tem.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Tabela 17.1, p. 273"
+        },
+        {
+          "texto": "Repetir a bitewing, porque o intervalo para esse perfil é de 12 a 24 meses.",
+          "correta": false,
+          "justificativa": "O intervalo de 12 a 24 meses, segundo a tabela, é o da criança sem cárie e sem risco aumentado; para o adulto o intervalo é de 24 a 36 meses.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Tabela 17.1, p. 273"
+        },
+        {
+          "texto": "Pedir uma série de boca toda como rotina de retorno.",
+          "correta": false,
+          "justificativa": "O livro diz que as orientações desestimulam imagens em intervalos predeterminados e regulares, sem indicação clínica, além da triagem de cárie interproximal com bitewing.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Visita de retorno, p. 274"
+        },
+        {
+          "texto": "Não pedir bitewing agora: para esse perfil o intervalo é de 24 a 36 meses.",
+          "correta": true,
+          "justificativa": "Segundo a Tabela 17.1, o adulto de retorno sem cárie clínica e sem risco aumentado tem bitewing posterior em intervalos de 24 a 36 meses; com 14 meses e sem achado novo, ainda não é o momento.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Tabela 17.1 e Visita de retorno, pp. 273–274"
+        }
+      ],
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Tabela 17.1 e Visita de retorno, pp. 273–274",
+      "secao": "selecao-retorno",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Um consultório aplica critérios de seleção, receptores rápidos e colimador retangular. Segundo o NCRP e a ADA, como o White e Pharoah os cita, qual proteção passa a ser desnecessária?",
+      "alternativas": [
+        {
+          "texto": "O colar de tireoide.",
+          "correta": false,
+          "justificativa": "O livro diz que os colares de tireoide devem ser usados sempre que possível, porque a tireoide é a glândula mais suscetível nos exames odontológicos.",
+          "fonte": "wp8-cap03",
+          "onde": "cap. 3, Aventais de proteção e colares para tireoide, p. 32"
+        },
+        {
+          "texto": "O avental para cobrir as gônadas.",
+          "correta": true,
+          "justificativa": "O livro diz que o NCRP e a ADA concluíram que cobrir as gônadas é desnecessário quando os outros meios são aplicados, e que o risco de efeito hereditário da exposição dentária é insignificante.",
+          "fonte": "wp8-cap03",
+          "onde": "cap. 3, Aventais de proteção e colares para tireoide, p. 32"
+        },
+        {
+          "texto": "O suporte de receptor com anel-guia.",
+          "correta": false,
+          "justificativa": "O livro recomenda suportes que alinham o receptor com o feixe colimado nas periapicais e bitewing, porque reduzem imagens inaceitáveis e repetições.",
+          "fonte": "wp8-cap03",
+          "onde": "cap. 3, Suportes de filmes e sensores, p. 33"
+        },
+        {
+          "texto": "A colimação retangular, já que o receptor rápido reduz a dose.",
+          "correta": false,
+          "justificativa": "O livro cita a colimação retangular como um dos meios aplicados, que reduz a dose em até cinco vezes em relação à circular; ela não é dispensada.",
+          "fonte": "wp8-cap03",
+          "onde": "cap. 3, Colimação retangular, p. 32"
+        }
+      ],
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Aventais de proteção e colares para tireoide, p. 32",
+      "secao": "protecao-colimacao",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Numa clínica que usa placas de fósforo, uma placa é exposta com o lado errado voltado ao tubo. Segundo o White e Pharoah, por que isso é um risco maior com a placa do que com o filme?",
+      "alternativas": [
+        {
+          "texto": "A placa invertida não pode ser lida pelo escâner, e a imagem se perde.",
+          "correta": false,
+          "justificativa": "O livro diz que é fácil montar a imagem da placa exposta ao contrário no lado contralateral, ou seja, a imagem é obtida; o risco é o lado errado.",
+          "fonte": "wp8-cap04",
+          "onde": "cap. 4, Considerações clínicas, PSP exposta pela parte de trás, p. 52"
+        },
+        {
+          "texto": "A placa invertida mostra sempre o padrão da folha de chumbo, como o filme.",
+          "correta": false,
+          "justificativa": "A folha de chumbo com padrão em relevo é do filme. O livro diz que a base da placa atenua pouco os raios X.",
+          "fonte": "wp8-cap04",
+          "onde": "cap. 4, Considerações clínicas, PSP exposta pela parte de trás, p. 52"
+        },
+        {
+          "texto": "O filme invertido sai com o padrão da folha de chumbo; na placa, a imagem pode ser montada do lado errado.",
+          "correta": true,
+          "justificativa": "O livro diz que o filme invertido sai subexposto, com o padrão da folha, enquanto a base da placa quase não atenua o feixe: a imagem pode ser montada do lado trocado, com risco de diagnosticar e tratar o lado errado.",
+          "fonte": "wp8-cap04",
+          "onde": "cap. 4, Considerações clínicas, PSP exposta pela parte de trás, p. 52"
+        },
+        {
+          "texto": "A imagem invertida não pode ser corrigida e obriga a nova exposição.",
+          "correta": false,
+          "justificativa": "O livro diz que a imagem pode ser espelhada por software, sem nova exposição, em sistemas que identificam a placa exposta ao contrário.",
+          "fonte": "wp8-cap04",
+          "onde": "cap. 4, Considerações clínicas, PSP exposta pela parte de trás, p. 52"
+        }
+      ],
+      "fonte": "wp8-cap04",
+      "onde": "cap. 4, Considerações clínicas, PSP exposta pela parte de trás, p. 52",
+      "secao": "receptores",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Na periapical de um incisivo superior, a raiz parece curta. Segundo o White e Pharoah, como diferenciar uma raiz que se desenvolveu curta de uma reabsorção radicular externa?",
+      "alternativas": [
+        {
+          "texto": "Na raiz que se desenvolveu curta, o canal pulpar continua visível até o fim da raiz.",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: se o dente só formou raiz curta, o canal não deve aparecer até a ponta da raiz, por causa do desenvolvimento normal do ápice.",
+          "fonte": "wp8-cap18",
+          "onde": "cap. 18, Etapa 5, Decisão 2, p. 289"
+        },
+        {
+          "texto": "Pela largura do espaço do ligamento periodontal.",
+          "correta": false,
+          "justificativa": "O critério que o livro dá para esse exemplo é a visibilidade do canal pulpar até o fim da raiz, e não o espaço do ligamento periodontal.",
+          "fonte": "wp8-cap18",
+          "onde": "cap. 18, Etapa 5, Decisão 2, p. 289"
+        },
+        {
+          "texto": "Só a tomografia permite distinguir as duas situações.",
+          "correta": false,
+          "justificativa": "O livro apresenta o exemplo da raiz curta com periapicais (Figura 18.27) e dá o critério do canal pulpar na própria imagem.",
+          "fonte": "wp8-cap18",
+          "onde": "cap. 18, Etapa 5, Decisão 2, p. 289, e Figura 18.27, p. 291"
+        },
+        {
+          "texto": "Na reabsorção externa, a raiz encurta, mas o canal pulpar continua visível até o fim da raiz.",
+          "correta": true,
+          "justificativa": "O livro diz que, na reabsorção radicular externa, a raiz pode encurtar, mas o canal continua visível até a ponta; no dente que só formou raiz curta, o canal não deve aparecer até a ponta.",
+          "fonte": "wp8-cap18",
+          "onde": "cap. 18, Etapa 5, Decisão 2, p. 289"
+        }
+      ],
+      "fonte": "wp8-cap18",
+      "onde": "cap. 18, Etapa 5, Decisão 2, p. 289",
+      "secao": "interpretacao-decisoes",
+      "figura": null
+    }
+  ]
+}

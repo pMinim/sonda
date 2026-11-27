@@ -1,0 +1,678 @@
+{
+  "slug": "procedimento-restaurador-na-clinica",
+  "titulo": "Procedimento restaurador na clínica: classificação, materiais e substituição",
+  "area": "Dentística",
+  "origem": "Baratieri, Vol. 1, caps. 1, 6, 9 e 10; Mondelli 1ª ed., cap. 17; FDI 2023 (Hickel et al.)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "baratieri-v1-cap01",
+      "ref": "Baratieri LN, et al. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed. São Paulo: Santos; 2010 (7ª reimpressão, 2018). Cap. 1, Nomenclatura e classificação de lesões e cavidades, p. 1–16 (numeração impressa).",
+      "curta": "Baratieri, Vol. 1, cap. 1"
+    },
+    {
+      "id": "baratieri-v1-cap06",
+      "ref": "Baratieri LN, et al. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed. São Paulo: Santos; 2010 (7ª reimpressão, 2018). Cap. 6, Resinas compostas, p. 113–120 (numeração impressa).",
+      "curta": "Baratieri, Vol. 1, cap. 6"
+    },
+    {
+      "id": "baratieri-v1-cap09",
+      "ref": "Baratieri LN, et al. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed. São Paulo: Santos; 2010 (7ª reimpressão, 2018). Cap. 9, Amálgama dental, p. 153–159 (numeração impressa).",
+      "curta": "Baratieri, Vol. 1, cap. 9"
+    },
+    {
+      "id": "baratieri-v1-cap10",
+      "ref": "Baratieri LN, et al. Odontologia Restauradora: Fundamentos & Técnicas. Vol. 1. 1ª ed. São Paulo: Santos; 2010 (7ª reimpressão, 2018). Cap. 10, Preparo e restauração Classe III com compósitos, p. 165–202 (numeração impressa).",
+      "curta": "Baratieri, Vol. 1, cap. 10"
+    },
+    {
+      "id": "mondelli1-cap17",
+      "ref": "Mondelli J, Mondelli AL, Mondelli RFL. Dentística Operatória e Restauradora. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2026. Cap. 17, Cavidade de Classe I para Substituição de Restauração Deficiente e Restauração com Resina Composta (Dente 26), p. 187–191 (numeração do contador da edição digital).",
+      "curta": "Mondelli 1ª ed., cap. 17"
+    },
+    {
+      "id": "fdi2023",
+      "ref": "Hickel R, Mesinger S, Opdam N, Loomans B, Frankenberger R, Cadenaro M, Burgess J, Peschke A, Heintze SD, Kühnisch J. Revised FDI criteria for evaluating direct and indirect dental restorations: recommendations for its clinical use, interpretation, and reporting. Clin Oral Investig. 2023;27(6):2573–2592. DOI 10.1007/s00784-022-04814-1. Consenso de especialistas da FDI (CC BY 4.0).",
+      "curta": "FDI 2023 (consenso internacional)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "nomenclatura-dente",
+      "titulo": "Nomenclatura do dente e das faces (Baratieri)",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Nomenclatura descritiva e numeração dos dentes, superfícies e estruturas da face oclusal, pp. 2–8",
+      "texto": "Segundo o Baratieri, a nomenclatura é o conjunto de termos da área e serve para facilitar a comunicação e evitar mal-entendidos (p. 2). As seções seguintes do tema usam esses termos.\n\n**Nome e numeração do dente (pp. 2–3):** o nome diz a classe, o tipo, o conjunto (permanente ou decíduo), a arcada e o lado, direito ou esquerdo a partir do plano sagital mediano. O livro traz dois sistemas de numeração: o **internacional**, de dois números (o primeiro diz o conjunto e o quadrante; o segundo, a classe e o tipo; exemplos do livro: 12, 45 e 18), e o **universal ou americano** (permanentes de 1 a 32; decíduos por letras, de A a T).\n\n**Faces (pp. 4–5):** vestibular, palatal ou lingual, mesial, distal e oclusal ou incisal. Mesial é a face mais próxima da linha média; distal, a mais afastada. As faces proximais são as lisas, em contato com os dentes vizinhos. Cada face pode ser dividida em terços; combinando duas dessas divisões, obtêm-se nove regiões por face.\n\n**Superfície oclusal (pp. 6–8):** pontas de cúspide, mesa oclusal, sulcos principais e secundários, fossas (favorecem o acúmulo de placa), cristas marginais (funcionam como reforço; o livro pede para preservá-las sempre que possível), ponte de esmalte, vertentes triturantes e vertentes lisas.\n\n**Atenção:** o livro diz que, quando há contato prematuro numa restauração oclusal recém-concluída, o erro mais comum é o posicionamento incorreto dos sulcos principais (p. 6)."
+    },
+    {
+      "id": "nomenclatura-cavidade",
+      "titulo": "Partes, profundidade, extensão e complexidade da cavidade (Baratieri)",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades, Profundidade vs extensão e Complexidade e faces envolvidas, pp. 9–13",
+      "texto": "**Partes da cavidade (p. 9):**\n- **Paredes circundantes:** chegam à superfície do dente e levam o nome da face a que se ligam (a cervical ou gengival fica perto da região cervical).\n- **Paredes de fundo:** nunca chegam à superfície. A pulpar é perpendicular ao longo eixo do dente; a axial segue o mesmo sentido do longo eixo.\n- **Ângulos:** diedros (encontro de duas paredes) e triedros (três paredes). O ângulo cavossuperficial é a margem da cavidade.\n- Nas restaurações adesivas, os ângulos internos são sempre arredondados, para distribuir melhor o estresse.\n\n**Profundidade e extensão (p. 11):** são coisas diferentes.\n- **Profundidade** é a posição das paredes de fundo e diz respeito à interação com o complexo dentinopulpar.\n- **Extensão** vem das paredes circundantes: dimensões externas e interação com o complexo dentogengival. O istmo oclusal é a extensão vestibulolingual ou palatina na face oclusal, e a relação dele com a distância intercuspídea é determinante para a escolha entre restauração direta e indireta. A margem pode ficar supragengival, intrassulcular ou subgengival.\n\n**Complexidade (p. 12):** cavidade **simples** envolve uma face, **composta** duas, **complexa** três ou mais. A cavidade complexa não depende de envolver cúspide (Fig. 1.8, p. 13).\n\n**Nome pelas faces (p. 12):** a cavidade leva o nome das faces envolvidas, como vestibulomesial ou mésio-oclusodistal, e se abrevia por letras: O, OD, MOD, MODV (Fig. 1.9, p. 13).\n\n**Atenção:** o capítulo não detalha o diagnóstico da lesão nem o preparo; é só nomenclatura e classificação."
+    },
+    {
+      "id": "classificacao-black",
+      "titulo": "Classificação de Black e Classe VI (Baratieri)",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Classificação das lesões e cavidades, p. 14",
+      "texto": "Segundo o Baratieri, a classificação de Black tem mais de um século e se manteve por combinar simplicidade e abrangência (p. 14). Classifica-se pelo **local da lesão ou da cavidade**.\n\n| Classe | Onde fica (Baratieri, p. 14) |\n|---|---|\n| I | Cicatrículas e fissuras das faces oclusais de pré-molares e molares; dois terços oclusais das faces vestibular e lingual ou palatal dos molares; às vezes, cicatrículas do cíngulo na face palatal de incisivos centrais e laterais superiores |\n| II | Faces proximais de pré-molares e molares; pode envolver outras faces do dente |\n| III | Uma ou as duas faces proximais de incisivos e caninos, **sem** comprometer o ângulo incisal |\n| IV | Faces proximais de dente anterior **com** envolvimento de ao menos um ângulo incisal; também usada para perdas por traumatismo |\n| V | Terço gengival das faces vestibular e lingual ou palatal de todos os dentes; hoje também para perdas não cariosas (abrasão, atrição, corrosão, abfração) |\n| VI | Complementar, de Howard e Simon (não está em Black): pontas de cúspide dos posteriores, sem envolver cicatrículas e fissuras, ou bordos incisais dos anteriores, sem envolver o ângulo incisal |\n\n**O que decide entre III e IV:** o ângulo incisal. Se a cavidade proximal de um anterior chega a ele, é Classe IV.\n\n**Onde está o resto:** o preparo e a restauração das Classes I e II estão no tema compartilhado da COI II \"Restauração direta em resina composta em posteriores\"; a Classe IV, em \"Restauração direta classe IV em anteriores\"; a Classe V não cariosa, em \"Lesões cervicais não cariosas: diagnóstico e conduta\". A Classe III em resina está nas seções do Baratieri, cap. 10, mais adiante."
+    },
+    {
+      "id": "resina-composicao",
+      "titulo": "Resina composta: componentes e viscosidade (Baratieri)",
+      "fonte": "baratieri-v1-cap06",
+      "onde": "cap. 6, Componentes e Classificação das resinas compostas: grau de viscosidade, pp. 114–115",
+      "texto": "Segundo o Baratieri, a resina composta (compósito) tem **quatro componentes principais** (p. 114):\n- **Matriz orgânica:** em geral um dimetacrilato (BIS-GMA ou UDMA), com monômeros de menor peso molecular (TEGDMA) para regular a viscosidade.\n- **Carga inorgânica:** partículas de vidro, quartzo e/ou sílica. Define as propriedades finais e é a base da principal classificação.\n- **Agente de união:** recobre as partículas; o silano é uma molécula bifuncional que liga a carga à matriz.\n- **Sistema acelerador-iniciador:** na resina química, são duas pastas (uma amina orgânica como acelerador, um peróxido orgânico como iniciador). Na fotopolimerizável, os dois ficam na mesma pasta e são ativados por luz.\n\n**Classificação por viscosidade (p. 115):**\n- **Convencional:** é o padrão da maioria dos procedimentos.\n- **Baixa viscosidade (flow):** menos carga e menor módulo de elasticidade. Fabricantes e alguns autores indicam para áreas de difícil acesso, como camada intermediária entre adesivo e compósito convencional, para selar fóssulas e fissuras e para cimentar restaurações indiretas translúcidas. O livro avisa que a redução de carga prejudica as propriedades mecânicas e aumenta a contração de polimerização.\n- **Alta viscosidade**, chamada de \"condensável\": o livro diz que o nome é incorreto, porque o volume não diminui com a pressão; foi usado para associar a manipulação à do amálgama. Esses compósitos exigem mais pressão, têm muita carga e boas propriedades físico-mecânicas, e são boas alternativas para dentes posteriores. Que facilitem o contato proximal é, segundo o livro, controverso.\n\n**Atenção:** o capítulo não traz a contração de polimerização em valores, nem compara a resina com outros materiais. A técnica de restaurar com resina está no tema da COI II \"Restauração direta em resina composta em posteriores\"."
+    },
+    {
+      "id": "resina-particulas-optica",
+      "titulo": "Resina composta: partículas, propriedades ópticas e escolha (Baratieri)",
+      "fonte": "baratieri-v1-cap06",
+      "onde": "cap. 6, Tamanho das partículas, Fig. 6.2, Propriedades ópticas e Considerações finais, pp. 116–119",
+      "texto": "**Carga (p. 116):** quanto maior a quantidade de carga, maior a resistência e o módulo de elasticidade e menor a contração de polimerização.\n\n**Tamanho das partículas, segundo o Baratieri (pp. 116–117):**\n- **Macropartículas:** superfície opaca e irregular, polimento difícil e perda de lisura com o tempo.\n- **Microparticuladas** (do fim da década de 70): fáceis de polir.\n- **Híbridas**, com micropartículas na mistura; a tendência atual são as **micro-híbridas**, de uso universal.\n- **Nanoparticuladas:** mais carga e bom polimento.\n\n**Tabela da Fig. 6.2 (p. 117):**\n\n| Tipo | Carga (% do volume) | Propriedades físico-mecânicas | Polimento e lisura | Indicação |\n|---|---|---|---|---|\n| Micro-híbridas | 57 a 72 | Boas | Bom | Universal |\n| Microparticuladas | 32 a 50 | Regulares | Muito bom | Face vestibular de anteriores e Classe V |\n| Nanoparticuladas | 58 a 60 | Boas | Muito bom | Universal |\n\n**Propriedades ópticas (p. 118):**\n- A resina de dentina é mais saturada e menos translúcida que a de esmalte.\n- Resinas muito opacas servem para mascarar substrato escurecido ou manchado e para caracterização.\n- Resinas muito translúcidas (\"incisais\" ou \"trans\") servem para o terço incisal de anteriores.\n- Os compósitos devem ter opalescência e fluorescência semelhantes às do dente natural.\n- Na estratificação natural, camadas muito translúcidas ficam sobre camadas menos translúcidas, para copiar a relação óptica entre esmalte e dentina.\n\n**Considerações finais (p. 119):** os fabricantes buscam, cada vez mais, sistemas universais; material sofisticado não garante boa restauração. A escolha pesa as propriedades físico-mecânicas e o polimento. O mais decisivo é a competência e o cuidado do profissional, mas, para o sucesso a longo prazo, o livro também exige material de boa qualidade."
+    },
+    {
+      "id": "amalgama-material",
+      "titulo": "Amálgama como material: formação e classificação das ligas (Baratieri)",
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Formação do amálgama, Classificação das ligas para amálgama e Vantagens e limitações, pp. 154–156 e 159",
+      "texto": "Neste tema o amálgama entra **só como material**. Segundo o Baratieri, o amálgama é o mercúrio, líquido à temperatura ambiente, misturado a uma liga de prata, estanho e cobre. A reação se chama amalgamação: o mercúrio dissolve uma camada superficial das partículas da liga e formam-se duas novas fases sólidas (p. 154).\n\n**As fases (p. 154):** gama é a liga que não reagiu; gama-1 é a matriz formada pela reação do mercúrio com a prata; gama-2, a formada com o estanho. A gama-2 é a fase menos resistente e a mais propensa à corrosão, por isso procura-se reduzi-la ou eliminá-la.\n\n**Por teor de cobre (p. 155):**\n- **Ligas convencionais** (baixo cobre): formam gama-2; o resultado é mais corrosão, menos resistência e mais *creep* (escoamento, deformação sob pressão).\n- **Ligas de alto teor de cobre:** desde o início da década de 1960 se acrescentam partículas esféricas de um eutético prata-cobre à liga em limalha; depois de algumas horas ele reage com a gama-2 e forma mais gama-1. Há também ligas de fase única. Com menos gama-2, há mais resistência à compressão e à corrosão e menos *creep*.\n- O livro recomenda, sempre que possível, a liga de alto teor de cobre e diz haver evidência de melhor resultado clínico que as convencionais.\n\n**Tamanho e forma das partículas (p. 156):**\n- Tamanho: o consenso é pelas partículas médias. Muito finas dão escultura fácil e bom acabamento, mas pedem mais mercúrio e têm propriedades mecânicas inferiores. Grossas dão escultura difícil e superfície porosa, difícil de polir.\n- Forma: a limalha pede mais mercúrio e deixa a superfície mais granulosa; as esféricas ou esferoidais pedem menos mercúrio e dão superfície mais lisa. O formato, por si só, não parece influenciar muito a taxa de sucesso; a escolha segue a preferência do profissional.\n\n**Atenção:** o livro lista, entre as limitações do amálgama, que ele não adere à estrutura dental (p. 159; ver a seção seguinte)."
+    },
+    {
+      "id": "amalgama-uso",
+      "titulo": "Amálgama: vantagens e limitações (Baratieri)",
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159",
+      "texto": "**Vantagens (p. 159):** história clínica de sucesso muito satisfatória; protocolo mais tolerante às dificuldades clínicas que o dos compósitos; as margens se autosselam por produtos de corrosão, o que reduz infiltração marginal e cárie secundária.\n\n**Limitações (p. 159):** estética; não adere à estrutura dental; precisa de espessura mínima de 1,5 mm para boa resistência à fratura. Por isso pede preparos mais invasivos e amplos do que a simples remoção do tecido cariado. Em lesão primária e/ou pequena, é mais invasivo que a restauração adesiva direta com compósito.\n\n**Atenção:** neste tema o amálgama entra só como material; a técnica de manipulação não é tratada aqui. O capítulo também não traz o preparo da cavidade para amálgama e o remete a outros capítulos do livro."
+    },
+    {
+      "id": "classe-iii-proximal",
+      "titulo": "Classe III em resina: acesso estritamente proximal (Baratieri)",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso estritamente proximal, pp. 165–173",
+      "texto": "O capítulo mostra a Classe III em resina em três acessos, em casos simulados em manequim com isolamento absoluto. Este é o da **lesão pequena, só proximal**.\n\n**Afastamento mediato (pp. 166–167, 173):** tiras ou anéis de borracha entre os dentes, **24 a 48 horas antes** da sessão restauradora, abrem espaço para ver a lesão. O motivo é que usar broca, por menor que seja, levaria a desgaste desnecessário de estrutura sadia. Na sessão, depois da profilaxia com pasta e taça de borracha, uma cunha de madeira de tamanho adequado mantém o espaço. O livro chama o protocolo de o mais conservador possível, diz que ele exige uma visita adicional do paciente e que deve ser indicado sempre que possível. Os dentes voltam à posição original em curto tempo.\n\n**Cor (p. 168):** com a superfície limpa e o espaço mantido pela cunha. Raramente se usa mais de uma cor. Use a escala de cores ou bolinhas de compósito em uma área do dente de cor semelhante, fotoativadas pelo tempo do fabricante, porque a cor depende do grau de polimerização.\n\n**Preparo (p. 168):** isolamento absoluto (tratado no tema de isolamento do campo operatório); matriz metálica entre o dente vizinho e a cunha; brocas pequenas, como as esféricas de números 1/4 e 1/2. A cavidade final tem forma, tamanho e profundidade praticamente iguais aos da lesão.\n\n**Adesivo e inserção (p. 170):** limpe com jato de bicarbonato de sódio ou pasta profilática; proteja o vizinho com fita de poliéster ou de politetrafluoretileno; condicione toda a cavidade e cerca de 2 mm além das margens com ácido fosfórico por 15 segundos; lave bem. O adesivo do caso reúne primer e adesivo em um frasco; aplique e volatilize o solvente ao menos duas vezes antes de fotoativar. Depois, insira a resina da cor escolhida e fotoative.\n\n**Acabamento (pp. 172–173):** ainda com o espaço mantido pela cunha, use discos de lixa flexíveis em granulação decrescente e discos de feltro para brilho e lisura. Só então remova a cunha e o isolamento.\n\n**Atenção:** o livro manda fotoativar pelo tempo do fabricante e não dá o número."
+    },
+    {
+      "id": "classe-iii-palatal-preparo",
+      "titulo": "Classe III em resina: acesso palatal, do ajuste oclusal ao adesivo (Baratieri)",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso palatal, pp. 175–183",
+      "texto": "O acesso palatal é o do caso em que a lesão é praticamente imperceptível pela vestibular. A lesão do caso é grande; o livro diz que o acesso palatal traz vantagens importantes também em cavidades pequenas e médias (p. 177).\n\n**Contatos oclusais primeiro (p. 177):** marque os contatos com papel articular e faça a profilaxia. Os contatos marcados são a referência para os limites da cavidade, e o livro não recomenda deixar contato na região da interface. Se houver, faça ajuste oclusal antes, para transferi-lo a uma zona totalmente em estrutura dental.\n\n**Cor (p. 178):** a seleção deve ser cuidadosa mesmo sem envolver a face vestibular, pois os tecidos dentais são translúcidos e os materiais da restauração influenciam o aspecto da vestibular.\n\n**Isolamento (p. 179):** o livro recomenda fortemente o lençol de borracha (ver o tema de isolamento do campo operatório). Faça leve separação com cunha de madeira; se a altura da cunha atrapalhar a visão e o acesso, desgaste-a levemente com disco ou lâmina de bisturi.\n\n**Brocas (p. 180):** a cunha prende a matriz metálica que protege o vizinho. Remova o tecido cariado em baixa rotação com brocas esféricas lisas. Broca maior que a lesão estende o preparo além do desejado; broca muito pequena torna a remoção demorada e pode facilitar a exposição pulpar. Comece pela maior broca que não exceda a cavidade prevista e passe a brocas progressivamente menores.\n\n**Região amelodentinária (p. 180):** o manchamento residual não representa necessariamente tecido infectado, mas o livro recomenda removê-lo com broca esférica pequena para o sucesso estético.\n\n**Adesivo (pp. 182–183):** coloque uma tira de poliéster entre o dente a restaurar e a cunha, para o ácido ficar só no dente restaurado e os dentes não se unirem. Ácido por 15 segundos; adesivo monocomponente em no mínimo duas camadas; solventes volatilizados com jatos suaves de ar; fotoativação. O livro diz que a técnica se adapta a sistema de três passos (ácido, primer e adesivo)."
+    },
+    {
+      "id": "classe-iii-palatal-restauracao",
+      "titulo": "Classe III em resina: acesso palatal, inserção e acabamento (Baratieri)",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso palatal, inserção, acabamento e polimento, pp. 185–189",
+      "texto": "**Inserção por incrementos (pp. 185–187):**\n1. **Esmalte proximal:** é o primeiro incremento, de baixa saturação e mais translúcido, colocado contra a parede vestibular e a matriz de poliéster. Retire a cunha, tracione a matriz em direção à vestibular e fotoative pelo tempo do fabricante.\n2. **Dentina:** resina mais saturada e menos translúcida, até perto do contorno final. Deixe em geral cerca de 0,5 mm para a camada final de esmalte palatal. Fotoative.\n3. **Esmalte palatal:** inserido com espátulas e, de preferência, pincéis. Fotoative.\n\n**Acabamento (pp. 187–188):**\n- Separe a restauração do dente vizinho com uma espátula na ameia incisal, com leve torção.\n- Remova os excessos proximais com lâmina de bisturi número 12, atuando da estrutura dental para a restauração.\n- Retire o isolamento e use lixas abrasivas de granulação decrescente.\n- Confira os contatos e ajuste-os com pontas diamantadas extrafinas ou brocas multilaminadas, até se assemelharem aos que foram registrados antes.\n- Use borrachas abrasivas na face palatal e termine o polimento com escovas Robinson e pastas especiais.\n\n**Por que registrar os contatos antes:** o contato marcado no início da sessão (seção anterior) é a referência: o ajuste final busca deixá-los semelhantes aos registrados.\n\n**O que fica de fora:** o capítulo não traz tabela de brocas nem de tempos, nem critério para escolher entre os três acessos além do que descreve em cada caso. O tempo de fotoativação é o do fabricante.\n\n**Onde está o resto:** a resina composta como material está nas seções do cap. 6; a Classe IV, em \"Restauração direta classe IV em anteriores\" (COI II)."
+    },
+    {
+      "id": "classe-iii-vestibular",
+      "titulo": "Classe III em resina: acesso vestibular e substituição (Baratieri)",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso vestibular, pp. 191–201",
+      "texto": "O acesso vestibular é o do caso de **Classe III com necessidade de substituição**. O livro prefere, sempre que possível, um acesso que não envolva a face vestibular; aqui ele é o do caso (pp. 192–193).\n\n**Remoção da restauração antiga (p. 194):** com lençol de borracha, cunha e matriz metálica protegendo o vizinho, remova a restauração antiga com ponta diamantada, em alta rotação e sob refrigeração com água. Tecido cariado ou manchamento que interfira na estética sai com brocas esféricas lisas em baixa rotação.\n\n**Preparo e adesivo (p. 195):** proteja os vizinhos com tira de poliéster; condicione esmalte e dentina; remova o excesso de umidade com jatos de ar e bolinhas de algodão; aplique o adesivo e fotopolimerize.\n\n**Translucidez (pp. 193 e 196):** as massas de dentina são menos translúcidas e as de esmalte, mais. Excesso de translúcido gera uma \"meia-lua\" acinzentada; excesso de compósito para dentina gera uma \"meia-lua\" opaca. É preciso reproduzir também a relação de espessura entre os tecidos.\n\n**Primeiro incremento (pp. 196–197):** duas técnicas, ambas com bons resultados, e o livro sugere praticar as duas.\n1. Matriz de poliéster estabilizada por cunha de madeira, com leve afastamento; fotopolimeriza-se com a matriz em posição.\n2. Matriz tracionada para palatal até ser removida; só então se fotoativa.\n\n**Dentina e esmalte (pp. 198–199):** dentina com resina menos translúcida e mais saturada, deixando espaço para o esmalte. O último incremento imita as características ópticas do esmalte e tem boas propriedades de polimento. Excessos proximais saem com bisturi de lâmina 12.\n\n**Acabamento e polimento (p. 201):** idealmente em sessão subsequente, para avaliar melhor a estética; por isso o excesso deve ser mínimo. Use tiras de lixa em ordem decrescente de abrasividade, discos abrasivos flexíveis e pasta de polimento com discos de feltro.\n\n**Atenção:** o livro mostra uma restauração que precisava ser substituída, mas não diz como decidir entre substituir, reparar ou manter. Esse critério está nas seções do consenso da FDI."
+    },
+    {
+      "id": "mondelli-substituicao",
+      "titulo": "Substituir restauração deficiente em Classe I: a técnica (Mondelli)",
+      "fonte": "mondelli1-cap17",
+      "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191",
+      "texto": "O cap. 17 do Mondelli (1ª ed.) parte de uma resina composta manchada, que simula infiltração marginal e indicação de substituição, em Classe I (dente 26). **Ele mostra a técnica de substituir; não diz quando substituir, reparar ou manter.**\n\n**Antes do preparo (em destaque no livro):** avaliação radiográfica, pulpar e periapical antes de qualquer preparo cavitário.\n\n**Preparo:** a forma de contorno é definida pela extensão da restauração a substituir. Use ponta diamantada esférica compatível com ela. Restos de resina presos só à dentina saem com colher de dentina. As margens são acabadas com broca multilaminada, opcionalmente em bisel côncavo.\n\n**Proteção do complexo dentinopulpar, conforme a profundidade:**\n- Cavidade rasa ou média: o adesivo dentinário funciona como selante.\n- Cavidade profunda ou muito profunda, sem exposição pulpar: podem ser indicados hidróxido de cálcio com sobrebase de cimento ionomérico (ou base única, com os produtos de hidróxido de cálcio fotopolimerizáveis).\n\n**Adesivo:** os sistemas convencionais são de três passos (ácido fosfórico, primer e adesivo) ou de dois; os autocondicionantes, de dois ou de um; siga o fabricante. No de três passos: ácido fosfórico a 37% em gel, **30 segundos no esmalte e 15 segundos na dentina**; lave por tempo similar; seque com papel absorvente, deixando a dentina úmida; primer e evaporação do solvente; uma a duas camadas de adesivo; tira de poliéster entre os dentes; fotoativação pelo tempo do fabricante.\n\n**Tempo de condicionamento do esmalte:** o Mondelli usa 30 segundos no esmalte (cap. 17, pp. 187–191); o Baratieri, nos casos de Classe III, condiciona por 15 segundos (cap. 10, pp. 170 e 183).\n\n**Inserção e acabamento:** lóbulos de resina de dentina até o sulco central, cada um fotoativado, e depois a resina de esmalte. Acabamento com brocas multilaminadas, diamantadas finas e borrachas abrasivas; polimento com escova de carbeto de silício e disco de feltro com pasta.\n\n**O que o capítulo não traz:** critério de decisão, tempo de vida da restauração e técnica de reparo. A proteção pulpar em cárie profunda está no tema da COI II \"Cárie profunda: proteção do complexo dentinopulpar\"."
+    },
+    {
+      "id": "fdi-consenso",
+      "titulo": "FDI 2023: o que é o consenso e como a escala funciona",
+      "fonte": "fdi2023",
+      "onde": "Resumo, p. 2573; Introdução, Escala de cinco escores e Como usar os critérios, pp. 2574–2578; domínio M, p. 2582; Tabela 4, p. 2583",
+      "texto": "Esta seção e as seguintes são do consenso da FDI (2023), uma publicação internacional, não uma regra local. **Só ele dá, neste tema, o critério para manter, reparar ou substituir**; Baratieri e Mondelli trazem apenas técnica.\n\n**O que é (pp. 2574–2576):** consenso de especialistas pelo método Delphi, com painel de dez especialistas em dentística e odontologia restauradora. Revisa o conjunto anterior da FDI, publicado em 2007 e atualizado em 2010. Os autores admitem que um conjunto assim pode ser, em parte, um ponto de vista subjetivo do grupo.\n\n**Para que serve (p. 2574):** avaliar materiais em estudos clínicos, avaliar a qualidade das restaurações na prática diária (em geral de forma simplificada) e ensinar. No ensino, serve para decidir se a restauração precisa de *reviewing* (monitoramento regular, em intervalos individualizados conforme o risco), refurbishment, reseal, reparo ou substituição.\n\n**Organização (p. 2578):** quatro domínios, funcional (F), biológico (B), estético (A) e diversos (M). O núcleo tem 11 critérios: F1 a F5, B1 a B3 e A1 a A3. O domínio M (visão do paciente e avaliação radiográfica) só aparece na versão ilustrada do artigo e não é coberto aqui.\n\n**Escala de cinco escores (Tabela 4, p. 2583):**\n- **1, 2 e 3:** suficientes (excelente ou muito boa, boa, satisfatória).\n- **4:** clinicamente insatisfatória, parcialmente insuficiente.\n- **5:** clinicamente ruim, totalmente insuficiente.\n\n**Forma simplificada, em três graus (p. 2577):** suficiente (escores 1 a 3); insuficiente, mas com reparo possível (4); insuficiente, sem reparo possível ou razoável (5).\n\n**Quando refazer (p. 2577):** a indicação deve ser justificada por patologia: cárie primária, defeito de tecido duro não cariado, distúrbio do desenvolvimento ou outra situação específica."
+    },
+    {
+      "id": "fdi-termos",
+      "titulo": "FDI 2023: terminologia e os cinco Rs",
+      "fonte": "fdi2023",
+      "onde": "Tabela 2, Terminologia, pp. 2575–2576; texto, p. 2579; Tabela 4, F1, p. 2583",
+      "texto": "O consenso define os termos que ligam o achado à conduta (Tabela 2). ***Reviewing***, **refurbishment** e **reseal** ficam em inglês, com a descrição ao lado.\n\n**Intensidade do achado:**\n- *Minor* ou *slight*: diferença pequena em relação a uma restauração excelente; situação plenamente suficiente, sem necessidade de intervenção.\n- *Distinct*: diferença clinicamente relevante, mas situação aceitável; um refurbishment pode melhorar a função ou a estética.\n- *Severe*: desvio substancial; provavelmente exige intervenção operatória, por reparo ou substituição.\n- *Localized*: afeta menos da metade da restauração (ou da margem). *Generalized*: mais da metade.\n\n**Os \"5 Rs\" do artigo:**\n- ***Reviewing*:** monitoramento regular, em intervalos individualizados conforme o risco.\n- ***Refurbishment*:** desgaste e polimento, de contorno e margens, que reduz o biofilme; não se põe material novo.\n- ***Reseal*:** cobrir com adesivo ou selante uma fenda ou defeito, sem preparar cavidade. Em geral, fendas marginais superficiais e localizadas.\n- **Reparo (*repair*):** preparo mínimo ou asperização e material restaurador novo, mantendo partes suficientes da restauração existente. Em geral, defeitos localizados e com acesso, como lasca, fratura em bloco pequena, fratura de cúspide ou cárie na margem.\n- **Substituição (*replacement*):** necessária quando os defeitos são tão extensos que o reparo não é razoável; remove-se o material, prepara-se o dente e faz-se nova restauração, direta ou indireta.\n\n**Restauração direta solta ou perdida (Tabela 2, *debonding* e *loss of retention*):** a tabela diz que, em geral, as restaurações diretas soltas ou perdidas têm de ser substituídas. O texto da p. 2579 diz que a extensão do material perdido define se uma restauração direta pode ou não ser reparada, e a Tabela 4 (F1, escore 4) inclui a restauração parcialmente solta ou perdida com reparo possível. O consenso traz os dois, e o tema mostra os dois sem escolher."
+    },
+    {
+      "id": "fdi-escala-conduta",
+      "titulo": "FDI 2023: do escore à conduta",
+      "fonte": "fdi2023",
+      "onde": "Resumo, p. 2573; Tabela 2, pp. 2575–2576; Interpretation of the scorings, p. 2588; Tabela 4, pp. 2583–2586",
+      "texto": "O consenso liga cada escore a condutas possíveis (resumo, p. 2573, e p. 2588). A tabela abaixo reúne o que o artigo diz no resumo, na p. 2588 e nas Tabelas 2 e 4; o artigo não traz uma tabela própria de escore e conduta.\n\n| Escore | Conduta ligada pelo consenso |\n|---|---|\n| 1 e 2 | *Reviewing*; a definição de *minor* (Tabela 2) diz que não precisa de intervenção |\n| 3 | *Reviewing*; refurbishment ou reseal |\n| 4 | *Reviewing*; reparo |\n| 5 | Substituição |\n\nNas células do escore 4, o artigo escreve que o reparo é possível (F1 a F5, B1 e B2) ou que a falha pode ser reparada ou melhorada por reparo (A1 a A3); nas do escore 5, que o reparo não é possível nem razoável. Escores 1 a 3 são aceitáveis; 4 e 5 não são, e o 4 se distingue do 5 por o reparo ser possível.\n\n**Corredores de intervenção, não obrigação (p. 2588):**\n- O consenso trata as condutas como caminhos possíveis, os *intervention corridors*, e não como passos obrigatórios.\n- Em caso de dúvida, o consenso sugere preferir intervalos de monitoramento mais curtos ou a opção minimamente invasiva.\n- O reparo, de restauração direta ou indireta, deve ser visto como opção conservadora em relação à substituição tradicional.\n- Considere o risco e a atividade de cárie, a idade e problemas médicos ou comportamentais.\n- A estratégia deve ser justificada e combinada entre o dentista e o paciente (ou cuidadores). A decisão respeita a autonomia do paciente, e o mesmo diagnóstico pode levar a decisões diferentes.\n\n**Exceção na hipersensibilidade (B3):** a Tabela 4 diz que as intervenções restauradoras não entram na categorização; o escore 4 ou 5 em B3 depende do quadro pulpar (ver a seção do domínio biológico).\n\n**O que o artigo não traz:** intervalo de monitoramento por escore na prática diária (só \"individualizado e conforme o risco\"), nem o material a usar no reparo.\n\n**Para o atendimento:** o consenso pede que a estratégia seja justificada e combinada com o paciente; um mesmo diagnóstico pode levar a decisões diferentes."
+    },
+    {
+      "id": "fdi-exame",
+      "titulo": "FDI 2023: como examinar a restauração",
+      "fonte": "fdi2023",
+      "onde": "Tabela 2, Condições de exame, pp. 2575–2576; texto, pp. 2577–2582",
+      "texto": "O consenso descreve como examinar antes de dar o escore (Tabela 2 e texto).\n\n**Quatro etapas (p. 2577):**\n1. limpeza profissional do dente e secagem breve com ar, por alguns segundos;\n2. testes de função com sondas e lâminas padronizadas;\n3. teste de oclusão estática e dinâmica com papel articular;\n4. estímulo com frio, para avaliar hipersensibilidade e reação pulpar.\n\n**Limpeza e secagem:** remova o biofilme e seque com ar comprimido por alguns segundos, até sair a saliva. O artigo adverte contra secar demais.\n\n**Exame visual:** sem aumento é o padrão; se usar lupa ou microscópio, é preciso relatar. A distância de exame é de cerca de 40 cm, com o paciente na cadeira e o campo iluminado; a distância de fala é de cerca de 80 a 100 cm, com o refletor desligado.\n\n**Instrumentos (pp. 2579–2581):**\n- Adaptação marginal: sonda métrica de 250 µm.\n- Contato proximal: lâminas metálicas de 25, 50 e 100 µm. O contato fisiológico é aquele em que a lâmina de 25 µm passa com resistência. A força do contato varia muito entre pacientes: avalie com cautela e compare com o contato do dente vizinho. Contato travado sem querer por excesso de material, adesivo ou cimento é inaceitável.\n- Oclusão: papel articular.\n- Sensibilidade: relato do paciente e teste de frio, comparado ao dente do outro lado, hígido e não restaurado.\n\n**Estética (pp. 2581–2582):** só interessa em restaurações da cor do dente em superfícies visíveis, em geral de canino a canino; a cor (A3) só se avalia nelas.\n\n**Atenção:** o exame de contato proximal não se aplica a dente com forma atípica, diastema, dentes ausentes, móveis ou abertos em leque (p. 2580)."
+    },
+    {
+      "id": "fdi-funcional-1",
+      "titulo": "FDI 2023, domínio funcional: fratura e retenção (F1), adaptação marginal (F2)",
+      "fonte": "fdi2023",
+      "onde": "Tabela 4, F1 e F2, p. 2583; texto, p. 2579",
+      "texto": "**F1, fratura do material e retenção (Tabela 4, p. 2583):** exame visual e secagem breve.\n- **Escore 3:** deficiências visíveis sem secar, como trincas finas ou perda distinta de material (lasca). A perda de material pode ser corrigida, em geral, por refurbishment, se necessário.\n- **Escore 4:** deficiências severas, mas localizadas: lasca ou delaminação que não pode ser refurbished, fratura em bloco ou restauração parcialmente solta ou perdida. **O reparo é possível.** Uma restauração indireta perdida que pode ser recimentada entra aqui.\n- **Escore 5:** deficiências severas e generalizadas, como delaminação extensa, várias fraturas em bloco ou restauração quase totalmente solta ou perdida. O reparo não é possível nem razoável.\n- Comentário do artigo: com F1 em escore 5 ou restauração perdida, as demais categorias funcionais (exceto F2) e as estéticas deixam de se aplicar.\n\n**F2, adaptação marginal (Tabela 4, p. 2583; texto, p. 2579):** exame visual, secagem breve e sonda de 250 µm.\n- **Escore 3:** fenda ou sulco distinto, visível sem secar, com largura menor que 250 µm e/ou profundidade menor que 2 mm.\n- **Escore 4:** fenda localizada e severa, com largura de 250 µm ou mais e/ou profundidade de 2 mm ou mais, ou restauração parcialmente solta ou perdida. O reparo é possível.\n- **Escore 5:** adaptação marginal generalizada e severamente comprometida, com os mesmos valores, ou restauração totalmente solta ou perdida. O reparo não é possível nem razoável.\n\n**Como o artigo escreve o limite:** a Tabela 4 usa \"250 µm ou mais e/ou 2 mm ou mais\" (≥); o texto da p. 2579 diz fenda larga (maior que 250 µm) com profundidade de 2 mm ou mais (>, e \"com\", não \"e/ou\"). Os dois estão no artigo; o tema mostra os dois e não escolhe.\n\n**Atenção:** no F2 avalia-se só a fenda na margem. Perda de material ou de tecido duro evidente se pontua em F1 e B2; cárie na margem, em B1."
+    },
+    {
+      "id": "fdi-funcional-2",
+      "titulo": "FDI 2023, domínio funcional: contato proximal (F3), forma (F4), oclusão (F5)",
+      "fonte": "fdi2023",
+      "onde": "Tabela 4, F3, p. 2583; F4 e F5, p. 2584; texto, pp. 2579–2580",
+      "texto": "**F3, contato proximal:** o escore sai da lâmina que passa e dos sinais no periodonto.\n- **Escore 1:** a lâmina de 25 µm passa; sem inflamação nem impacção alimentar. **Escore 2:** passa a de 50 µm, também sem inflamação.\n- **Escore 3:** contato excessivo ou excesso de material (a lâmina de 25 µm não passa) com inflamação gengival ou periodontal por causa da restauração, e refurbishment possível; ou contato muito fraco (a lâmina de 100 µm passa), mas sem inflamação nem desconforto.\n- **Escore 4:** contato muito fraco (a lâmina de 100 µm passa) ou contato travado sem intenção, com inflamação ou impacção alimentar. O reparo é possível.\n- **Escore 5:** o mesmo quadro, em grau maior (a lâmina de 100 µm passa com facilidade, ou o contato travado é impossível de atravessar). O reparo não é possível nem razoável.\n- O artigo manda não confundir com F1.\n\n**F4, forma e contorno:** compara com a anatomia individual e funcional, em especial com os dentes do outro lado, sem restauração.\n- **Escore 2:** pequenos desvios e/ou pequenos degraus ou excessos detectáveis com sondagem suave.\n- **Escore 3:** forma distintamente alterada mas aceitável e/ou degraus ou excessos distintos; a remoção de excessos e degraus (refurbishment) é possível em parte.\n- **Escore 4:** partes severamente subdimensionadas e/ou degrau negativo proeminente. O reparo é possível.\n- **Escore 5:** subdimensionamento ou superdimensionamento geral e severo. O reparo não é possível nem razoável.\n\n**F5, oclusão e desgaste:** exame com papel articular.\n- **Escore 3:** hiperoclusão, contatos prematuros e/ou interferências de balanceio que o refurbishment pode eliminar.\n- **Escore 4:** estrutura oclusal plana e localizada, com ausência severa de oclusão e/ou restauração severamente desgastada. O reparo é possível.\n- **Escore 5:** ausência severa generalizada de oclusão e/ou restauração extensamente desgastada. O reparo não é possível nem razoável.\n- O artigo diz que o desgaste dificilmente se avalia só pelo exame clínico (p. 2580), por isso F5 é um registro simplificado."
+    },
+    {
+      "id": "fdi-biologico",
+      "titulo": "FDI 2023, domínio biológico: cárie na margem (B1), tecido duro (B2), sensibilidade (B3)",
+      "fonte": "fdi2023",
+      "onde": "Tabela 4, B1, B2 e B3, pp. 2584–2585; texto, p. 2581; resumo, p. 2573, e p. 2588",
+      "texto": "**B1, cárie na margem da restauração (Tabela 4, pp. 2584–2585):** exame visual, secagem breve e sonda de 250 µm.\n- **Escore 2:** primeiros sinais visíveis de lesão não cavitada, só após secar. **Escore 3:** lesão não cavitada estabelecida ou microcavidade, visível sem secar.\n- **Escore 4:** cavidade localizada em dentina na margem (largura maior que 250 µm, profundidade maior que 2 mm; aqui a tabela usa \">\", e não \"≥\" como no F2). **O reparo é possível.**\n- **Escore 5:** cavidade extensa em dentina na margem. O reparo não é possível nem razoável.\n- No texto (p. 2581): cárie na margem é o mesmo que cárie secundária ou recorrente, e o fator mais importante é a atividade de cárie do paciente. Lesões iniciais pedem acompanhamento, flúor tópico ou intervenção minimamente invasiva (reseal ou refurbishment); as cavitadas provavelmente pedem reparo ou substituição. Mancha na margem sem desmineralização não é cárie na margem.\n\n**B2, defeitos do tecido duro na margem (pp. 2584–2585):**\n- **Escore 3:** lasca ou fratura distinta de esmalte; corrige-se por refurbishment, se necessário.\n- **Escore 4:** fratura marginal severa de esmalte ou cúspide ou crista parcialmente fraturada. O reparo é possível.\n- **Escore 5:** fratura de cúspide ou do dente, possivelmente com fragmentos móveis ou dor à mastigação, ou síndrome do dente rachado relacionada à restauração. O reparo não é possível nem razoável.\n\n**B3, hipersensibilidade pós-operatória e estado da polpa (pp. 2584–2585):** relato do paciente e teste de frio; só se avalia em dente vital acompanhado desde a colocação da restauração.\n- **Escore 2:** sintoma leve por menos de 1 semana. **Escore 3:** sintoma distinto por mais de 1 semana.\n- **Escore 4:** sintoma severo ou persistente por mais de 1 mês e/ou reação intensa ao frio; o artigo diz que ambos indicam pulpite irreversível. O tratamento endodôntico exige só o acesso.\n- **Escore 5:** pulpite irreversível, dente não vital ou necrose pulpar, com ou sem periodontite apical. O tratamento endodôntico exige a substituição da restauração.\n\n**Onde o artigo difere dele mesmo (B3):** o texto (p. 2581) diz que a restauração é aceitável com sensibilidade normal ou sintomas pulpares leves; a Tabela 4 inclui no escore 3, suficiente, a hipersensibilidade distinta por mais de 1 semana. O tema mostra os dois.\n\n**Leitura do escore (resumo, p. 2573; p. 2588):** os escores 1 a 3 são aceitáveis; no 3, refurbishment ou reseal; no 4, reparo; no 5, substituição."
+    },
+    {
+      "id": "fdi-estetico",
+      "titulo": "FDI 2023, domínio estético: brilho e textura (A1), manchamento (A2), cor (A3)",
+      "fonte": "fdi2023",
+      "onde": "Tabela 4, A1, A2 e A3, pp. 2585–2586",
+      "texto": "O domínio estético só pesa na decisão em restaurações da cor do dente em superfícies visíveis (p. 2586).\n\n**A1, brilho e textura da superfície:** compara com o tecido duro e com os dentes vizinhos, depois de secar com ar. Se brilho e textura contam, vale a pior das duas características.\n- **Escore 3:** brilho opaco e/ou textura com desvios distintos, visíveis sem secar. O refurbishment é possível.\n- **Escore 4:** brilho opaco desagradável e/ou textura áspera, localizados, com desvios importantes ou vários poros. Pode ser reparada.\n- **Escore 5:** o mesmo quadro, generalizado. O reparo não é possível nem razoável.\n\n**A2, manchamento marginal:**\n- **Escore 3:** mancha distinta, visível sem secar, mas não desagradável. O refurbishment é possível.\n- **Escore 4:** mancha profunda e desagradável, localizada; pode ser removida ou melhorada por reparo.\n- **Escore 5:** mancha profunda e desagradável, generalizada. O reparo não é possível nem razoável.\n- **Atenção:** o artigo manda não confundir mancha marginal (A2) com cárie na margem (B1).\n\n**A3, cor:** avalia só restaurações da cor do dente; compara a tonalidade e a translucidez ou opacidade entre a restauração e o tecido vizinho.\n- **Escore 3:** desvio distinto, não desagradável.\n- **Escore 4:** desvio localizado e desagradável, que pode ser melhorado por reparo.\n- **Escore 5:** desvio generalizado e desagradável. O reparo não é possível nem razoável.\n\n**Como avaliar (p. 2586):** de uma distância de exame de cerca de 40 cm, sob o refletor, ou de uma distância de fala de cerca de 80 a 100 cm, com o refletor desligado. A escolha deve ser definida e relatada."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o Baratieri, onde fica uma cavidade de Classe III de Black?",
+      "verso": "Em uma ou nas duas faces proximais de incisivos e caninos, sem comprometer o ângulo incisal. Se chega a um ângulo incisal, é Classe IV.",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+    },
+    {
+      "id": "f02",
+      "frente": "O que é a Classe VI e de quem é?",
+      "verso": "Classificação complementar de Howard e Simon, não de Black: pontas de cúspide dos posteriores, sem cicatrículas e fissuras, ou bordos incisais dos anteriores, sem o ângulo incisal.",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+    },
+    {
+      "id": "f03",
+      "frente": "Profundidade e extensão da cavidade: o que cada uma descreve?",
+      "verso": "Profundidade é a posição das paredes de fundo e a interação com o complexo dentinopulpar. Extensão vem das paredes circundantes e da interação com o complexo dentogengival.",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Profundidade vs extensão, p. 11"
+    },
+    {
+      "id": "f04",
+      "frente": "Cavidade simples, composta e complexa: qual a diferença?",
+      "verso": "Simples, uma face; composta, duas; complexa, três ou mais. Complexa não depende de envolver cúspide.",
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Complexidade das cavidades, p. 12"
+    },
+    {
+      "id": "f05",
+      "frente": "Por que a resina flow pede cautela, segundo o Baratieri?",
+      "verso": "Tem menos carga e menor módulo de elasticidade. A redução de carga prejudica as propriedades mecânicas e aumenta a contração de polimerização.",
+      "fonte": "baratieri-v1-cap06",
+      "onde": "cap. 6, Grau de viscosidade, p. 115"
+    },
+    {
+      "id": "f06",
+      "frente": "Por que o Baratieri recomenda, sempre que possível, amálgama de alto teor de cobre?",
+      "verso": "Forma menos gama-2, a fase menos resistente e mais propensa à corrosão: mais resistência à compressão e à corrosão e menos creep.",
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Classificação das ligas: teor de cobre, p. 155"
+    },
+    {
+      "id": "f07",
+      "frente": "Por que o amálgama é mais invasivo que o compósito em lesão primária pequena, segundo o Baratieri?",
+      "verso": "Não adere ao dente e precisa de espessura mínima de 1,5 mm para resistir à fratura, o que pede preparo mais amplo que a remoção do tecido cariado.",
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159"
+    },
+    {
+      "id": "f08",
+      "frente": "Classe III com lesão pequena só proximal: o que o Baratieri faz antes da sessão restauradora?",
+      "verso": "Afastamento mediato com tiras ou anéis de borracha, 24 a 48 horas antes, para ver a lesão sem usar broca. É uma visita adicional do paciente.",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173"
+    },
+    {
+      "id": "f09",
+      "frente": "Classe III por palatal: o que se marca antes de preparar?",
+      "verso": "Os contatos oclusais, com papel articular. Contato na região da interface pede ajuste oclusal antes, para transferi-lo a zona totalmente em estrutura dental.",
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso palatal, p. 177"
+    },
+    {
+      "id": "f10",
+      "frente": "O que o Mondelli (cap. 17) destaca antes de qualquer preparo ao substituir uma restauração?",
+      "verso": "Avaliação radiográfica, pulpar e periapical.",
+      "fonte": "mondelli1-cap17",
+      "onde": "cap. 17, pp. 187–191"
+    },
+    {
+      "id": "f11",
+      "frente": "O cap. 17 do Mondelli traz o critério de substituir, reparar ou manter?",
+      "verso": "Não. Traz só a técnica de substituir uma restauração deficiente em Classe I. O critério deste tema vem da FDI 2023.",
+      "fonte": "mondelli1-cap17",
+      "onde": "cap. 17, pp. 187–191"
+    },
+    {
+      "id": "f12",
+      "frente": "FDI 2023: o que separa os escores 3, 4 e 5?",
+      "verso": "Escores 1 a 3 são suficientes (aceitáveis). O 4 é insuficiente, mas o reparo é possível. O 5 é insuficiente, e o reparo não é possível nem razoável.",
+      "fonte": "fdi2023",
+      "onde": "Escala de cinco escores e forma simplificada, p. 2577; Tabela 4, p. 2583"
+    },
+    {
+      "id": "f13",
+      "frente": "FDI 2023: qual conduta o consenso liga a cada escore?",
+      "verso": "1 e 2: reviewing. 3: reviewing, refurbishment ou reseal. 4: reviewing e reparo. 5: substituição.",
+      "fonte": "fdi2023",
+      "onde": "Resumo, p. 2573; Interpretation of the scorings, p. 2588"
+    },
+    {
+      "id": "f14",
+      "frente": "FDI 2023: diferença entre refurbishment, reseal e reparo.",
+      "verso": "Refurbishment: contorno e polimento, sem acrescentar material. Reseal: adesivo ou selante direto sobre fenda, sem preparo. Reparo: material novo após preparo mínimo, preservando parte da restauração.",
+      "fonte": "fdi2023",
+      "onde": "Tabela 2, Terminologia, pp. 2575–2576"
+    },
+    {
+      "id": "f15",
+      "frente": "FDI 2023: como ler as condutas ligadas aos escores?",
+      "verso": "Como corredores de intervenção, não como abordagens inevitáveis. Em dúvida, intervalo de monitoramento mais curto ou a opção minimamente invasiva; a decisão é combinada com o paciente.",
+      "fonte": "fdi2023",
+      "onde": "Interpretation of the scorings, p. 2588"
+    },
+    {
+      "id": "f16",
+      "frente": "FDI 2023: como se avalia o contato proximal e que lâmina indica o contato fisiológico?",
+      "verso": "Com lâminas metálicas de 25, 50 e 100 µm. O contato fisiológico é aquele em que a lâmina de 25 µm passa com resistência. A força do contato varia muito entre pacientes: avalie com cautela e compare com o dente vizinho.",
+      "fonte": "fdi2023",
+      "onde": "Condições de exame, Contato proximal, pp. 2579–2580"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente com lesão na face distal de um incisivo lateral superior. O ângulo incisal está íntegro. Segundo o Baratieri, em que classe de Black entra essa cavidade?",
+      "alternativas": [
+        {
+          "texto": "Classe II, que reúne as faces proximais de pré-molares e molares",
+          "correta": false,
+          "justificativa": "A Classe II é das faces proximais de pré-molares e molares; o dente do caso é um incisivo.",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+        },
+        {
+          "texto": "Classe III, face proximal de incisivo ou canino sem comprometer o ângulo incisal",
+          "correta": true,
+          "justificativa": "Classe III: uma ou as duas faces proximais de incisivos e caninos, sem comprometer o ângulo incisal, como no caso.",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+        },
+        {
+          "texto": "Classe IV, face proximal de anterior com envolvimento de ângulo incisal",
+          "correta": false,
+          "justificativa": "A Classe IV exige envolvimento de ao menos um ângulo incisal; no caso ele está íntegro.",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+        },
+        {
+          "texto": "Classe V, terço gengival das faces vestibular e lingual ou palatal",
+          "correta": false,
+          "justificativa": "A Classe V é do terço gengival das faces vestibular e lingual ou palatal; a lesão do caso é proximal.",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Classificação das lesões e cavidades, p. 14"
+        }
+      ],
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Classificação das lesões e cavidades, p. 14",
+      "secao": "classificacao-black",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Na ficha clínica você quer registrar o quanto a cavidade se aproxima da polpa, isto é, a interação com o complexo dentinopulpar. Segundo o Baratieri, que característica da cavidade diz isso?",
+      "alternativas": [
+        {
+          "texto": "A profundidade, dada pela posição das paredes de fundo",
+          "correta": true,
+          "justificativa": "Profundidade é a posição das paredes de fundo e se liga à interação com o complexo dentinopulpar (p. 11).",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades e Profundidade vs extensão, pp. 9–12"
+        },
+        {
+          "texto": "A extensão, dada pelas paredes circundantes",
+          "correta": false,
+          "justificativa": "A extensão vem das paredes circundantes e se liga ao complexo dentogengival, não ao dentinopulpar (p. 11).",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades e Profundidade vs extensão, pp. 9–12"
+        },
+        {
+          "texto": "A complexidade, dada pelo número de faces envolvidas",
+          "correta": false,
+          "justificativa": "A complexidade conta faces: simples uma, composta duas, complexa três ou mais (p. 12).",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades e Profundidade vs extensão, pp. 9–12"
+        },
+        {
+          "texto": "O ângulo cavossuperficial, que corresponde à margem da cavidade",
+          "correta": false,
+          "justificativa": "O ângulo cavossuperficial é a margem da cavidade, o encontro da parede com a superfície (p. 9); não mede a aproximação da polpa.",
+          "fonte": "baratieri-v1-cap01",
+          "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades e Profundidade vs extensão, pp. 9–12"
+        }
+      ],
+      "fonte": "baratieri-v1-cap01",
+      "onde": "cap. 1, Nomenclatura das partes constituintes das cavidades e Profundidade vs extensão, pp. 9–12",
+      "secao": "nomenclatura-cavidade",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Você pensa em usar uma resina flow como único compósito de uma restauração que vai receber carga. Segundo o Baratieri, que característica das resinas de baixa viscosidade pede cautela?",
+      "alternativas": [
+        {
+          "texto": "Têm mais carga inorgânica, o que eleva o módulo de elasticidade",
+          "correta": false,
+          "justificativa": "A resina flow tem menos carga e menor módulo de elasticidade (p. 115).",
+          "fonte": "baratieri-v1-cap06",
+          "onde": "cap. 6, Grau de viscosidade, p. 115"
+        },
+        {
+          "texto": "Exigem mais pressão na inserção, porque o volume se reduz sob compressão",
+          "correta": false,
+          "justificativa": "A necessidade de mais pressão é dos compósitos de alta viscosidade, e o livro diz que o volume não se reduz sob pressão (p. 115).",
+          "fonte": "baratieri-v1-cap06",
+          "onde": "cap. 6, Grau de viscosidade, p. 115"
+        },
+        {
+          "texto": "A redução de carga prejudica as propriedades mecânicas e aumenta a contração de polimerização",
+          "correta": true,
+          "justificativa": "É o aviso do livro para as resinas de baixa viscosidade, que têm menos carga (p. 115).",
+          "fonte": "baratieri-v1-cap06",
+          "onde": "cap. 6, Grau de viscosidade, p. 115"
+        },
+        {
+          "texto": "São o padrão da maioria dos procedimentos e dispensam outro compósito",
+          "correta": false,
+          "justificativa": "O padrão da maioria dos procedimentos é a resina convencional; a flow é indicada para usos específicos, como áreas de difícil acesso (p. 115).",
+          "fonte": "baratieri-v1-cap06",
+          "onde": "cap. 6, Grau de viscosidade, p. 115"
+        }
+      ],
+      "fonte": "baratieri-v1-cap06",
+      "onde": "cap. 6, Grau de viscosidade, p. 115",
+      "secao": "resina-composicao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Ao escolher a liga de amálgama, o Baratieri recomenda, sempre que possível, a de alto teor de cobre. Que razão o livro dá?",
+      "alternativas": [
+        {
+          "texto": "Ela dispensa o mercúrio, que é o componente de maior preocupação",
+          "correta": false,
+          "justificativa": "O amálgama é o mercúrio misturado à liga (p. 154); o alto teor de cobre muda a liga, não elimina o mercúrio.",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Formação do amálgama, p. 154"
+        },
+        {
+          "texto": "Ela faz o amálgama aderir à estrutura dental",
+          "correta": false,
+          "justificativa": "Entre as limitações do amálgama o livro lista a falta de adesão à estrutura dental (p. 159); o teor de cobre não muda isso.",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Vantagens e limitações, p. 159"
+        },
+        {
+          "texto": "A forma esférica das partículas, que o livro aponta como principal fator de sucesso",
+          "correta": false,
+          "justificativa": "O livro diz que a forma das partículas, por si só, não parece influenciar muito a taxa de sucesso, ao contrário do teor de cobre (p. 156).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Classificação das ligas para amálgama: teor de cobre e tamanho e forma, pp. 155–156"
+        },
+        {
+          "texto": "Forma menos gama-2, fase menos resistente e mais propensa à corrosão, e traz menos creep",
+          "correta": true,
+          "justificativa": "Com menos gama-2, há mais resistência à compressão e à corrosão e menos creep; por isso o livro recomenda a liga de alto cobre (p. 155).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Classificação das ligas para amálgama: teor de cobre e tamanho e forma, pp. 155–156"
+        }
+      ],
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Classificação das ligas para amálgama: teor de cobre e tamanho e forma, pp. 155–156",
+      "secao": "amalgama-material",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Cárie primária pequena em um pré-molar. Segundo o Baratieri, por que o amálgama é, nessa lesão, mais invasivo que a restauração adesiva direta com compósito?",
+      "alternativas": [
+        {
+          "texto": "Porque as margens não se selam e pedem preparo de retenção maior",
+          "correta": false,
+          "justificativa": "O livro diz o contrário: as margens se autosselam por produtos de corrosão (p. 159).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159"
+        },
+        {
+          "texto": "Porque não adere ao dente e precisa de espessura mínima de 1,5 mm para resistir à fratura",
+          "correta": true,
+          "justificativa": "Sem adesão e com espessura mínima de 1,5 mm, o amálgama pede preparo mais amplo que a remoção do tecido cariado (p. 159).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159"
+        },
+        {
+          "texto": "Porque o protocolo é menos tolerante às dificuldades clínicas que o do compósito",
+          "correta": false,
+          "justificativa": "O livro diz que o protocolo do amálgama é mais tolerante às dificuldades clínicas que o dos compósitos (p. 159).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159"
+        },
+        {
+          "texto": "Porque o amálgama adere ao dente, e a adesão exige remover mais estrutura",
+          "correta": false,
+          "justificativa": "O livro lista, como limitação, que o amálgama não adere à estrutura dental (p. 159).",
+          "fonte": "baratieri-v1-cap09",
+          "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159"
+        }
+      ],
+      "fonte": "baratieri-v1-cap09",
+      "onde": "cap. 9, Vantagens e limitações das restaurações de amálgama, p. 159",
+      "secao": "amalgama-uso",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Incisivo lateral com lesão pequena, só na face proximal, com o vizinho presente. Você quer ver a lesão sem usar broca na estrutura sadia. Segundo o Baratieri, o que fazer?",
+      "alternativas": [
+        {
+          "texto": "Colocar tiras ou anéis de borracha entre os dentes 24 a 48 horas antes da sessão",
+          "correta": true,
+          "justificativa": "É o afastamento mediato do livro: protocolo conservador, com visita adicional, indicado sempre que possível (pp. 166 e 173).",
+          "fonte": "baratieri-v1-cap10",
+          "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173"
+        },
+        {
+          "texto": "Abrir a lesão com broca esférica de número 1/4 na primeira consulta, para ver o fundo",
+          "correta": false,
+          "justificativa": "O livro diz que usar broca, por menor que seja, levaria a desgaste desnecessário de estrutura sadia neste caso (p. 166).",
+          "fonte": "baratieri-v1-cap10",
+          "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173"
+        },
+        {
+          "texto": "Afastar os dentes com cunha de madeira na própria sessão restauradora, sem visita adicional",
+          "correta": false,
+          "justificativa": "O afastamento mediato é feito 24 a 48 horas antes da sessão e exige uma visita adicional do paciente; a cunha só mantém o espaço já aberto (pp. 166–167).",
+          "fonte": "baratieri-v1-cap10",
+          "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173"
+        },
+        {
+          "texto": "Fazer o afastamento só depois do preparo, na mesma sessão restauradora",
+          "correta": false,
+          "justificativa": "O afastamento é feito 24 a 48 horas antes da sessão restauradora, para permitir ver a lesão antes de qualquer preparo (p. 166).",
+          "fonte": "baratieri-v1-cap10",
+          "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173"
+        }
+      ],
+      "fonte": "baratieri-v1-cap10",
+      "onde": "cap. 10, Acesso estritamente proximal, pp. 166–167 e 173",
+      "secao": "classe-iii-proximal",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Você vai substituir uma resina de Classe I com infiltração marginal no dente 26. Segundo o cap. 17 do Mondelli, o que vem antes de qualquer preparo cavitário?",
+      "alternativas": [
+        {
+          "texto": "Escolher entre reparar e substituir pelo critério de infiltração que o capítulo traz",
+          "correta": false,
+          "justificativa": "O capítulo não traz critério para substituir, reparar ou manter; só descreve a técnica de substituição.",
+          "fonte": "mondelli1-cap17",
+          "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191"
+        },
+        {
+          "texto": "Forrar a cavidade com hidróxido de cálcio, qualquer que seja a profundidade",
+          "correta": false,
+          "justificativa": "A proteção segue a profundidade: em cavidade rasa ou média, o adesivo dentinário é o selante, e o forramento é descrito só para as profundas ou muito profundas sem exposição (cap. 17).",
+          "fonte": "mondelli1-cap17",
+          "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191"
+        },
+        {
+          "texto": "Condicionar o esmalte por 15 segundos e a dentina por 30",
+          "correta": false,
+          "justificativa": "O condicionamento é etapa do adesivo, depois do preparo, e os tempos do livro são 30 segundos no esmalte e 15 na dentina (cap. 17).",
+          "fonte": "mondelli1-cap17",
+          "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191"
+        },
+        {
+          "texto": "Fazer a avaliação radiográfica, pulpar e periapical",
+          "correta": true,
+          "justificativa": "É a frase em destaque do capítulo: antes de qualquer preparo cavitário, avaliação radiográfica, pulpar e periapical (cap. 17).",
+          "fonte": "mondelli1-cap17",
+          "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191"
+        }
+      ],
+      "fonte": "mondelli1-cap17",
+      "onde": "cap. 17, Técnica de preparo e Técnica restauradora, pp. 187–191",
+      "secao": "mondelli-substituicao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo a FDI 2023, uma restauração tem cavidade localizada em dentina na margem (cárie na margem, B1) e recebe escore 4; a cavidade não é extensa. Que conduta o consenso liga a esse escore?",
+      "alternativas": [
+        {
+          "texto": "Refurbishment ou reseal, ligados ao escore 3",
+          "correta": false,
+          "justificativa": "Refurbishment e reseal são ligados ao escore 3, de lesão não cavitada ou microcavidade; o escore 4 do caso é cavidade em dentina (pp. 2584–2585 e 2588).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 4, B1, pp. 2584–2585; Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Nenhuma intervenção operatória, porque os escores 1 a 4 são suficientes",
+          "correta": false,
+          "justificativa": "Só os escores 1 a 3 são suficientes; o 4 é insuficiente (pp. 2577 e 2588).",
+          "fonte": "fdi2023",
+          "onde": "Escala de cinco escores, p. 2577; Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Reparo, porque no escore 4 o reparo é possível",
+          "correta": true,
+          "justificativa": "No B1 o escore 4 traz a cavidade localizada em dentina e a frase de que o reparo é possível (Tabela 4, pp. 2584–2585).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 4, B1, pp. 2584–2585; Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Substituição, ligada ao escore 5 de cavidade extensa",
+          "correta": false,
+          "justificativa": "A substituição é ligada ao escore 5, de cavidade extensa em dentina; no caso a cavidade é localizada (Tabela 4, pp. 2584–2585).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 4, B1, pp. 2584–2585; Interpretation of the scorings, p. 2588"
+        }
+      ],
+      "fonte": "fdi2023",
+      "onde": "Tabela 4, B1, pp. 2584–2585; Interpretation of the scorings, p. 2588",
+      "secao": "fdi-biologico",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Restauração direta com cúspide parcialmente fraturada na margem (B2, escore 4). O consenso liga o escore 4 ao reparo. Segundo a FDI 2023, como ler essa ligação?",
+      "alternativas": [
+        {
+          "texto": "Como obrigação: no escore 4 o reparo tem de ser feito na mesma consulta",
+          "correta": false,
+          "justificativa": "O consenso diz que as condutas não devem ser entendidas como abordagens inevitáveis (p. 2588).",
+          "fonte": "fdi2023",
+          "onde": "Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Como corredor de intervenção; em dúvida, intervalo de monitoramento mais curto ou opção minimamente invasiva",
+          "correta": true,
+          "justificativa": "O artigo fala em possíveis corredores de intervenção e sugere, em dúvida, preferir intervalos mais curtos ou a opção minimamente invasiva (p. 2588).",
+          "fonte": "fdi2023",
+          "onde": "Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Como decisão só do dentista, sem necessidade de combinar com o paciente",
+          "correta": false,
+          "justificativa": "O artigo diz que a estratégia deve ser justificada e combinada entre o dentista e o paciente ou cuidadores, respeitando a autonomia (p. 2588).",
+          "fonte": "fdi2023",
+          "onde": "Interpretation of the scorings, p. 2588"
+        },
+        {
+          "texto": "Como conduta pior que a substituição, porque o reparo conserva restauração velha",
+          "correta": false,
+          "justificativa": "O artigo diz que o reparo, de restauração direta ou indireta, deve ser visto como opção conservadora em relação à substituição tradicional (p. 2588).",
+          "fonte": "fdi2023",
+          "onde": "Interpretation of the scorings, p. 2588"
+        }
+      ],
+      "fonte": "fdi2023",
+      "onde": "Interpretation of the scorings, p. 2588",
+      "secao": "fdi-escala-conduta",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo a FDI 2023, como se chama a técnica aditiva e não invasiva em que adesivo ou selante é aplicado direto sobre uma fenda marginal superficial e localizada, sem preparo da cavidade?",
+      "alternativas": [
+        {
+          "texto": "Reseal",
+          "correta": true,
+          "justificativa": "Reseal é a técnica aditiva, não invasiva, de aplicar adesivo ou selante direto em fendas ou defeitos sem preparo; em geral, fendas marginais superficiais e localizadas (Tabela 2).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 2, Terminologia, pp. 2575–2576"
+        },
+        {
+          "texto": "Refurbishment",
+          "correta": false,
+          "justificativa": "Refurbishment é subtrativo: contorno e polimento, sem acrescentar adesivo, selante nem material (Tabela 2).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 2, Terminologia, pp. 2575–2576"
+        },
+        {
+          "texto": "Reparo",
+          "correta": false,
+          "justificativa": "O reparo acrescenta material restaurador após preparo mínimo ou asperização das superfícies que restam (Tabela 2); o caso diz que não há preparo.",
+          "fonte": "fdi2023",
+          "onde": "Tabela 2, Terminologia, pp. 2575–2576"
+        },
+        {
+          "texto": "Substituição",
+          "correta": false,
+          "justificativa": "A substituição remove o material existente, prepara o dente e faz nova restauração (Tabela 2).",
+          "fonte": "fdi2023",
+          "onde": "Tabela 2, Terminologia, pp. 2575–2576"
+        }
+      ],
+      "fonte": "fdi2023",
+      "onde": "Tabela 2, Terminologia, pp. 2575–2576",
+      "secao": "fdi-termos",
+      "figura": null
+    }
+  ]
+}

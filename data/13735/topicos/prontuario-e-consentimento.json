@@ -1,0 +1,817 @@
+{
+  "slug": "prontuario-e-consentimento",
+  "titulo": "Prontuário odontológico, termo de consentimento e responsabilidade legal",
+  "area": "Clínica Integrada",
+  "origem": "Vanrell 3ª ed., caps. 30, 31, 33 e 34; Daruge 1ª ed., caps. 5, 7, 12 e 17; CFO-118/2012; Código Civil (2002); CDC (1990); Stefanac e Nesbit 3ª ed., cap. 1 (EUA); Lei 13.787/2018; CFO-SEC-91/2009; Lei 15.378/2026",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "vanrell3-cap30",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 30, Noções Elementares de Direito (Vanrell JP), p. 206–218 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 30"
+    },
+    {
+      "id": "vanrell3-cap31",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 31, Documentação Odontológica (Vanrell JP), p. 219–225 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 31"
+    },
+    {
+      "id": "vanrell3-cap33",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 33, O Cirurgião-Dentista e o Código do Consumidor (Silva RG), p. 230–236 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 33"
+    },
+    {
+      "id": "vanrell3-cap34",
+      "ref": "Vanrell JP. Odontologia Legal e Antropologia Forense. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2019. Cap. 34, Consentimento Esclarecido no Tratamento Odontológico (Silva RG), p. 237–242 (numeração do contador da edição digital).",
+      "curta": "Vanrell 3ª ed., cap. 34"
+    },
+    {
+      "id": "daruge1-cap05",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 5, Segredo Profissional, p. 41–51 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 5"
+    },
+    {
+      "id": "daruge1-cap07",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 7, Responsabilidade Civil e Criminal, p. 70–90 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 7"
+    },
+    {
+      "id": "daruge1-cap12",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 12, Prontuário Odontológico, p. 178–202 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 12"
+    },
+    {
+      "id": "daruge1-cap17",
+      "ref": "Daruge E, Daruge Júnior E, Francesquini Júnior L. Tratado de Odontologia Legal e Deontologia. 1ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 17, Bioética (consentimento informado), p. 283–286 (numeração do contador da edição digital).",
+      "curta": "Daruge 1ª ed., cap. 17"
+    },
+    {
+      "id": "cfo118",
+      "ref": "Conselho Federal de Odontologia. Resolução CFO-118, de 11 de maio de 2012: Código de Ética Odontológica. Em vigor desde 1º de janeiro de 2013. Texto lido do PDF institucional em 16/11/2026, numeração do rodapé do PDF; alterações posteriores não conferidas.",
+      "curta": "CFO-118/2012"
+    },
+    {
+      "id": "cc2002",
+      "ref": "Brasil. Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil). Texto compilado, Presidência da República, planalto.gov.br; lido em 16/11/2026.",
+      "curta": "Código Civil (2002)"
+    },
+    {
+      "id": "cdc1990",
+      "ref": "Brasil. Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor). Texto compilado, Presidência da República, planalto.gov.br; lido em 16/11/2026.",
+      "curta": "CDC (1990)"
+    },
+    {
+      "id": "stefanac3-cap01",
+      "ref": "Stefanac SJ, Nesbit SP (eds.). Diagnosis and Treatment Planning in Dentistry. 3rd ed. St Louis: Elsevier; 2017. Ch. 1, Patient Evaluation and Assessment (Stefanac SJ, Fontana M), p. 2–23 (numeração impressa do livro). Livro dos EUA, em inglês.",
+      "curta": "Stefanac 3ª ed., cap. 1 (EUA)"
+    },
+    {
+      "id": "lei13787-2018",
+      "ref": "Brasil. Lei nº 13.787, de 27 de dezembro de 2018 (digitalização e utilização de sistemas informatizados para a guarda, o armazenamento e o manuseio de prontuário de paciente). DOU de 28/12/2018. Texto do Planalto (planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13787.htm), lido em 27/11/2026.",
+      "curta": "Lei 13.787/2018"
+    },
+    {
+      "id": "cfo-sec-91-2009",
+      "ref": "Conselho Federal de Odontologia. Resolução CFO-SEC-91, de 20 de agosto de 2009: aprova as normas técnicas concernentes à digitalização, uso dos sistemas informatizados para a guarda e manuseio dos documentos dos prontuários dos pacientes, quanto aos Requisitos de Segurança em Documentos Eletrônicos em Saúde. PDF do sistema de atos do CFO (sistemas.cfo.org.br), lido em 27/11/2026.",
+      "curta": "CFO-SEC-91/2009"
+    },
+    {
+      "id": "lei15378-2026",
+      "ref": "Brasil. Lei nº 15.378, de 6 de abril de 2026 (Estatuto dos Direitos do Paciente). DOU de 07/04/2026. Texto do Planalto (planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15378.htm), lido em 27/11/2026.",
+      "curta": "Lei 15.378/2026"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "vanrell-prontuario",
+      "titulo": "O que compõe o prontuário e de quem ele é (Vanrell)",
+      "fonte": "vanrell3-cap31",
+      "onde": "cap. 31, Documentação que deve constar do prontuário, pp. 219–220",
+      "texto": "Segundo o Vanrell (livro brasileiro, 3ª ed.), o prontuário em sentido amplo não é um documento só: é uma coletânea de documentos e peças, todos com valor de prova em processo judicial.\n\n**Componentes que o livro lista:** ficha clínica odontológica; radiografias; fotografias (opcionais, mas necessárias em certas especialidades); documentação histopatológica, quando existe; traçados ortodônticos; instruções de higiene; fichas de índice de placa; recomendações pós-operatórias; esclarecimentos sobre limites de técnicas e procedimentos; cópias do termo de consentimento esclarecido e do contrato de prestação de serviços; cópia dos documentos entregues ao paciente (atestados, declarações, recibos), com a assinatura dele; cópia dos orçamentos com a anuência do paciente; cópia das moldagens em gesso.\n\n**De quem é:** a guarda é do dentista; o dono é o paciente, e ele pode pedir cópia autêntica para usar como prova em juízo.\n\n**Na ficha clínica**, além do diagnóstico, registre o tratamento realizado, o prognóstico e as intercorrências, mesmo as que parecem sem importância na hora. Exemplos do livro: o paciente recusou um exame complementar; houve discussão com o dentista.\n\n**Três documentos em destaque, sem hierarquia entre eles:** a ficha clínica; o termo de consentimento esclarecido, que, feito na forma preconizada, prova que o paciente entendeu e autorizou o que lhe foi indicado; e o contrato de prestação de serviços profissionais, que o livro vê como garantia para as duas partes. Para o livro, é bem mais fácil provar o que está escrito do que o combinado de palavra. O livro não diz que o contrato verbal não vale.\n\n**Outro uso:** um prontuário bem conservado pode ser decisivo para identificar cadáveres e ossadas.\n\nAtenção: o livro diz que, nos processos por responsabilidade profissional, o dentista muitas vezes não consegue provar que trabalhou corretamente porque não guardou a documentação adequada."
+    },
+    {
+      "id": "vanrell-registro-restauradora",
+      "titulo": "Registro da etapa restauradora: o que o Vanrell pede registrar",
+      "fonte": "vanrell3-cap31",
+      "onde": "cap. 31, Documentação que deve constar do prontuário; Guarda das informações; Relação profissional/paciente, pp. 219–222",
+      "texto": "O Vanrell não traz modelo de nota para a etapa restauradora e não fala dela em particular. Esta seção reúne o que ele pede para qualquer atendimento.\n\n- **Anamnese por escrito e assinada** pelo paciente ou responsável. O profissional não responde por fato que o paciente omitiu, negou ou contou de forma deturpada, e o documento assinado protege os dois. Na consulta inicial, convém dizer ao paciente que as informações de saúde precisam ser fiéis.\n- **Receita, atestado ou declaração** com letra legível e sempre com cópia. O paciente assina a cópia, o que prova que recebeu a primeira via igual. O livro reconhece que parece exagero, mas diz que a prática já mostrou a utilidade.\n- **Intercorrências e atritos entram na ficha clínica**, no andamento, do mesmo modo que se anota \"queixa-se de dor pulsátil\" ou \"o dente 24 passou a ter mobilidade\". Qualquer altercação ou discordância com o paciente segue a mesma regra.\n- **A informatização não dispensa** os documentos com assinatura de anuência ou de recebimento do paciente. A impressão da ficha eletrônica pode ser somada ao prontuário.\n\n**Por que o livro insiste:** diz que a maioria dos processos de boa-fé começa por mau relacionamento e que a lide quase sempre vem de falha de comunicação, não técnica. As falhas que lista: falta de informação sobre as tentativas terapêuticas, sobre os limites do tratamento, sobre as alternativas e sobre quanto custa cada uma. Promessa de resultado e expectativa inflada pioram o quadro.\n\n**Para a etapa restauradora:** o livro não detalha como descrever a restauração. Fica o que ele pede em qualquer atendimento: intercorrências e discordâncias anotadas na ficha clínica, e receita, atestado ou declaração entregues ao paciente com cópia assinada por ele."
+    },
+    {
+      "id": "vanrell-guarda",
+      "titulo": "Guarda do prontuário: o que o Vanrell traz e conclui",
+      "fonte": "vanrell3-cap31",
+      "onde": "cap. 31, Código de Defesa do Consumidor; Guarda das informações; Sugestões, pp. 221–225",
+      "texto": "Sobre a guarda do prontuário, o Vanrell traz o vício oculto, o consenso que ele cita e sugestões práticas no fim do capítulo.\n\n- **Vício oculto:** o prazo para reclamar começa quando o defeito aparece, o que pode ocorrer anos depois (o livro cita reabsorção óssea e báscula com fratura). Exemplos do livro: trepanação durante a instrumentação do canal, núcleo mecanicamente impróprio, obturação curta, omissão diagnóstica com ocultação de exames.\n- **Consenso que o livro cita:** guardar a documentação odontológica \"sempiternamente\", pela forma e pelo mecanismo mais adequados ao profissional, e não a descartar.\n- **Prazo:** o livro diz que não existe prazo mínimo definido para a inexigibilidade de guarda do prontuário odontológico (p. 225).\n\n**Sugestões do livro no fim do capítulo:** microfilmar ou digitalizar, com recuperação plena dos dados; guardar os modelos de gesso pela imagem, para ocupar menos espaço; ao fim do tratamento, entregar ao paciente a documentação e os materiais, com recibo discriminado (o livro diz que isso tem pior resultado a longo prazo, pelo custo e pela dificuldade de achar os pacientes); manter arquivo morto remoto; e, em qualquer caso, guardar o sigilo.\n\n**Lado a lado:** o Vanrell fala em guardar \"sempiternamente\" (cap. 31, p. 222). O Daruge fala em guardar cópia por 5 anos, \"como determina\" o CDC, sem citar artigo (cap. 12, p. 193), e trata da entrega dos documentos de modo próprio (cap. 7, p. 85; cap. 12, p. 193). A CFO-118/2012 não fixa prazo (art. 17). A Lei nº 13.787/2018 e a Resolução CFO-SEC-91/2009 têm seções próprias neste tema. Cada fonte fica como está; não escolha uma."
+    },
+    {
+      "id": "vanrell-consentimento",
+      "titulo": "Consentimento esclarecido: origem e requisitos (Vanrell)",
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Introdução; Requisitos do Termo de Consentimento Esclarecido, pp. 237–239",
+      "texto": "Segundo o Vanrell, duas origens se encontram na relação com o paciente: o Código de Defesa do Consumidor e a Bioética. Do princípio da autonomia nasceu o consentimento esclarecido, que o livro também chama de voluntário, informado, livre e esclarecido, entre outros nomes.\n\n**Os quatro princípios da Bioética que o livro cita:** beneficência (máximo de benefício, mínimo de dano e de risco); não maleficência (evitar os danos previsíveis); autonomia (o desejo do paciente prevalece sobre o do profissional); justiça (dar a cada um o que é seu direito, com equidade).\n\n**Sem autorização, o serviço é prática abusiva.** O livro lê aí o art. 39, VI do CDC (serviço sem orçamento prévio e autorização expressa) e diz que, economicamente, o serviço feito assim é tratado como amostra grátis. Entregar o orçamento não vale como autorização; a aprovação expressa vale (art. 40, § 2º). Para o livro, orçamento prévio é prática imprescindível.\n\n**Quanto informar:** tudo o que possa influir de modo razoável na decisão do paciente de tratar ou não, ou de escolher entre opções que respeitam o estado da ciência, com plano, prognóstico e o modo como cada uma se desenvolve. O consentimento vale até onde chegou a informação, que deve estar na linguagem do paciente e não deixar ponto obscuro. O termo deve ser o mais completo possível, mesmo repetindo o orçamento e o contrato, sem contradição e com informação verdadeira. Havendo várias opções, cada uma entra no termo: se têm o mesmo custo-benefício, diga; se não, ordene e mostre o bom e o ruim de cada uma, inclusive o custo.\n\n**Voluntariedade:** escolha sem influência externa. O livro lista como perversões a **persuasão** (não dar escolha entre procedimentos que existem), a **coação** (ameaça explícita ou velada) e a **manipulação** (distorcer a informação).\n\n**Limite:** o dentista tem direito de exercer com liberdade de convicção, dentro do que a comunidade acadêmico-científica aceita, e não precisa ceder a vontade do paciente contrária à sua convicção.\n\nAtenção: o art. 39, IV do CDC aparece neste capítulo sem a palavra \"idade\" (p. 237) e com ela no cap. 33 (p. 234). O livro não harmoniza."
+    },
+    {
+      "id": "vanrell-termo",
+      "titulo": "O documento, como apresentá-lo, exceções e revogação (Vanrell)",
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Informação; Exceções ao princípio de necessidade do consentimento; Direito a não saber; Revogação, pp. 239–242",
+      "texto": "O Vanrell recomenda documento escrito sempre que possível, sobretudo em procedimento invasivo, com risco evidente ou resultado duvidoso. Como a informação é em geral oral, não se espera ler um compêndio no meio do procedimento.\n\n**Itens que o livro diz que o documento deve ter:** natureza e origem da doença; nome, descrição e objetivo do procedimento; benefícios esperados; moléstias previsíveis do procedimento; riscos, com espaço em branco para os personalizados; alternativas; efeitos esperados se nada for feito; disposição do profissional para esclarecer dúvidas; possibilidade de mudar de decisão; dados do paciente e de quem informou; declaração de que entendeu e de que as dúvidas foram esclarecidas; assinaturas; local e data; espaço para o representante legal; espaço para a revogação.\n\n**Três tipos de risco:** consequências certas (resultam do procedimento em todos os casos); riscos típicos (esperados em condições normais, incluindo os infrequentes mas de gravidade extrema); riscos personalizados (da situação do paciente, como saúde e idade).\n\n**Como apresentar:** um documento por procedimento; família presente quando possível; momento adequado (paciente não sedado, dolorido ou irritado); local adequado (sala, não corredor, sala de espera ou de exames); pessoa adequada (quem indica ou vai realizar); tempo para refletir (o livro recomenda ao menos 24 horas, com o documento levado para casa); perguntas ao paciente para checar a compreensão.\n\n**Exceções à necessidade do termo:** risco à saúde pública; paciente sem capacidade de decidir (decide o familiar ou responsável); urgência que não permite demora, com risco de lesão irreversível ou de vida. Sem familiar que supra, o profissional supre o consentimento até alguém assumir, como na urgência. Se os parentes negam e isso prejudica o paciente, o profissional ou a diretoria clínica pode pedir autorização judicial. Na urgência e na emergência, o consentimento não é exigível e a intervenção se limita ao que não pode ser adiado.\n\n**Direito a não saber:** o paciente pode renunciar à informação; deixe a renúncia registrada no termo ou na ficha.\n\n**Revogação:** é possível a qualquer momento. Mas, no meio do procedimento, normas de conduta e obrigações profissionais podem obrigar a continuar, para não expor o paciente a grande perigo."
+    },
+    {
+      "id": "vanrell-responsabilidade",
+      "titulo": "Erro odontológico, culpa e tipo de obrigação (Vanrell)",
+      "fonte": "vanrell3-cap30",
+      "onde": "cap. 30, Introdução, p. 206; Contratos odontológicos; Deveres do profissional; Erros profissionais; Negligência, imprudência e imperícia; Relação de causalidade, pp. 210–215",
+      "texto": "Segundo o Vanrell, erro odontológico é o fato que causa dano físico ou psíquico ao paciente e resulta de um agir culpável. Acidente imprevisível (caso fortuito ou força maior que não podia ser previsto nem evitado) e mau resultado (que vem da própria evolução da doença) não geram responsabilidade quando não decorrem de erro, segundo o autor citado pelo livro.\n\n**Três formas de culpa:**\n- **Negligência:** descaso, omissão. Exemplos do livro: abandonar o paciente; omitir tratamento; não encaminhar quem precisa de cirurgia urgente; receita ilegível; auxiliar que faz ato do dentista, e o dentista responde.\n- **Imprudência:** agir sem cautela, podendo prever o dano. Exemplo: fazer em metade do tempo uma cirurgia que exige mais e causar dano pela pressa.\n- **Imperícia:** agir sem o conhecimento técnico necessário. Exemplos: lesar o nervo mandibular ao colocar implante sem atentar para o canal; alterar a dimensão vertical numa prótese total.\n\n**Nexo causal:** não basta a ação culposa; o dano tem de decorrer dela. O livro diz que a perícia o estabelece por critérios cronológico, topográfico, de adequação lesiva, de continuidade fenomenológica, de exclusão de outras causas e estatístico.\n\n**Contrato odontológico:** em geral é obrigação de meio (usar todo o conhecimento, com diligência, sem garantir a cura). O livro cita o ortodontista como exemplo excepcional de obrigação de resultado, quando se compromete com o resultado convencionado. Fora disso, o dentista não se obriga a restituir a saúde, e sim a agir com atenção, cuidado e diligência.\n\n**Deveres mínimos que o livro lista (entre outros):** apresentar o diagnóstico, o tratamento e as alternativas para o paciente optar com conhecimento de causa; informar os riscos de tratamento perigoso; obter o consentimento prévio antes de tratamento perigoso ou intervenção cirúrgica, salvo caso excepcional (estado de perigo, tratamento legalmente compulsório, paciente com propósito suicida); indicar cirurgia só quando indispensável; atender os pacientes a seu cargo, sob pena de abandono.\n\n**Três esferas:** a conduta censurável gera responsabilidade profissional (perante o Conselho), civil (indenização) e penal (se, por culpa, causar morte ou lesão)."
+    },
+    {
+      "id": "vanrell-cdc-responsabilidade",
+      "titulo": "CDC na clínica, lido pelo Vanrell: quem é quem e responsabilidade",
+      "fonte": "vanrell3-cap33",
+      "onde": "cap. 33, Consumidor e fornecedor; Relacionamento paciente/profissional; O profissional, as informações e as novas técnicas, pp. 230–233",
+      "texto": "O Vanrell lê o Código de Defesa do Consumidor (Lei nº 8.078/1990) como regra da relação com o paciente. As normas do CDC são de ordem pública e não se afastam por acordo entre as partes.\n\n**Quem é quem, para o livro:** o paciente do consultório é consumidor (pessoa física que adquire serviços e produtos, como próteses, aparelhos e implantes, para si ou para quem está sob sua responsabilidade). O cirurgião-dentista, e também a empresa de convênio, é fornecedor.\n\n**Responsabilidade (art. 14, como o livro o apresenta):** o fornecedor responde pelo defeito do serviço e pela informação insuficiente ou inadequada sobre riscos, independentemente de culpa. Para o profissional liberal, o § 4º mantém a verificação de culpa: negligência, imprudência ou imperícia. Exemplos do livro: negligência, o paciente que engoliu uma lima endodôntica em tratamento feito sem isolamento absoluto; imprudência, anestesia em dose excessiva ou injetada rápido demais; imperícia, tratamento para o qual o profissional não está treinado.\n\n**Informação e termo:** o livro lê o caput como dever de informar de forma clara, completa e adequada o andamento do tratamento e os riscos, e diz que só há um modo de cumpri-lo: o paciente assinar o termo de consentimento livre e informado, em linguagem acessível. Essa é a leitura do livro; o texto do artigo está na seção do CDC.\n\n**Novas técnicas:** o § 2º diz que o serviço não é defeituoso só por usar técnica nova. Para o livro, o dentista deve se atualizar, mas trabalha com técnicas e materiais aceitos pela comunidade acadêmico-científica; aceitação não exige unanimidade.\n\n**Pessoa jurídica:** para o livro, clínicas e empresas de convênio respondem sem culpa pelo caput, mas alguns tribunais aplicam a elas o § 4º.\n\n**Defesa:** o § 3º afasta a responsabilidade se o fornecedor prova que o defeito não existe ou que a culpa foi só do consumidor ou de terceiro. A dificuldade, diz o livro, é a prova; por isso, documente com fartura: fotografias com elemento que date a tomada, registro dos excessos do paciente na ficha com a rubrica dele, e guarda de radiografias, fichas e cópias de modelos."
+    },
+    {
+      "id": "vanrell-cdc-prazos",
+      "titulo": "CDC na clínica, lido pelo Vanrell: prazos, alta, orçamento e cláusulas",
+      "fonte": "vanrell3-cap33",
+      "onde": "cap. 33, Prazos para reclamar; Práticas abusivas; Orçamento e contrato de prestação de serviços; Recomendações úteis, pp. 233–236",
+      "texto": "**Prazo do art. 26 (vício aparente):** o livro transcreve 90 dias para serviço e produtos duráveis (inciso II) e, no comentário, escreve 30 dias. No cap. 31 (p. 221), o livro trata os serviços odontológicos como duráveis. Os dois números aparecem e o livro não os harmoniza. A contagem começa na entrega ou no término do serviço; na prática, diz o livro, na alta do paciente.\n\n**Alta por escrito:** o livro recomenda que o paciente assine a alta, como nos hospitais, para fixar quando começa a contar o prazo final de responsabilidade. Sem a assinatura, o paciente pode alegar em juízo que a prótese ainda estava em teste dois anos depois, e o ônus de provar seria do profissional.\n\n**Vício oculto:** o prazo conta de quando o defeito se evidencia. Exemplo do livro: canal mal obturado que agudiza depois. Como não se sabe quando, o livro recomenda guardar registros e provas (radiografias, fotografias, modelos) por toda a vida profissional.\n\n**Práticas abusivas (art. 39):** aproveitar-se da fraqueza ou ignorância do paciente; executar serviço sem orçamento e autorização expressa. O livro diz que se evitam assinando o consentimento livre e informado e o contrato.\n\n**Mudança do plano:** de comum acordo e assim que possível. Exemplo do livro: exposição pulpar por cárie que leva a tratamento endodôntico. Não interrompa a sessão por divergência com o combinado: conduza, explique no fim, obtenha novo consentimento e novo ajuste de preço. Se o paciente não concorda, acertam-se as pendências e ele é liberado para procurar outro profissional.\n\n**Orçamento (art. 40) e contrato:** orçamento prévio, discriminado, que obriga as partes depois de aprovado. O livro sugere um campo na ficha para controlar a presença do paciente, porque a falta prorroga a data final, e prever a duração com folga.\n\n**Cláusulas nulas (art. 51):** declarações assinadas pelo paciente que exoneram o profissional ou abrem mão de reclamar são afastadas pelo Judiciário por nulas (inciso I). O livro lê o art. 51, VI e X como proibição de inverter o ônus em prejuízo do consumidor e de variar o preço sozinho.\n\n**Recomendações do livro:** radiografias bem processadas e guardadas; documentos em duplicata, com a data da retirada na cópia; cópias de modelos de gesso; contrato escrito, assinado pelas partes e por duas testemunhas; ficha rica em detalhes (até uma folha de sulfite serve); plano com alternativas, e o paciente optando por escrito; anamnese assinada."
+    },
+    {
+      "id": "daruge-prontuario",
+      "titulo": "Prontuário e documentos clínicos (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Prontuário Odontológico: Introdução; Prontuário clínico; Anamnese; Imagens; Atestado, pp. 178–181 e 188",
+      "texto": "Segundo o Daruge (livro brasileiro, 1ª ed.), o paciente passou a ser consumidor e a Odontologia passou a prestar serviço ao consumidor. Daí a \"prática clínica defensiva\": prontuário completo, feito conforme o Código de Ética Odontológica, o Código Civil e o CDC, para reduzir a chance de litígio.\n\n**O que é:** o prontuário clínico é o conjunto de documentos gerados pelo tratamento. Pertencem ao paciente; o profissional, ou a entidade (clínica, faculdade, hospital), responde pela guarda. Tem validade se bem formulado e com dados verdadeiros. O mínimo, segundo o Parecer CFO 125/1992, que o Daruge cita, traz quem é o paciente (identificação), a história clínica, o exame clínico detalhado, os exames complementares, o plano de tratamento e a evolução.\n\n**Exemplos de documentos:** anamnese, termo de consentimento esclarecido, contrato de serviços odontológicos, evolução do tratamento, cópias do que se entrega ao paciente, e o material de imagem e de modelos (fotos, radiografias, tomografias e gesso).\n\n**Anamnese:** queixa principal, expectativas, histórico odontológico e médico, alergias e doenças gerais, com espaço para o paciente dizer o que julgar importante; data e assinatura do paciente ou responsável. O livro avisa que o relatado ali serve de prova depois.\n\n**Assinatura do paciente:** o livro lê que a assinatura nos documentos confirma o consentimento para o procedimento e cita o Código de Processo Civil (art. 408), pelo qual as declarações de documento particular assinado se presumem verdadeiras em relação a quem assina.\n\n**Imagens e modelos:** guarde de modo que peritos e assistentes técnicos os achem fácil, com o nome correto do paciente. Como pertencem ao paciente e ocupam espaço, o livro manda devolvê-los mediante recibo discriminado, que fica no prontuário.\n\n**Atestado:** declaração particular, por escrito, de que algo é verdadeiro e das consequências disso. Leve nome completo e documento, o fim específico (trabalhista, escolar, esportivo, judicial, militar; evite \"devidos fins\"), data e hora do atendimento. A CID só com pedido e autorização expressa do paciente. Faça duas vias; a segunda, rubricada pelo paciente, fica no prontuário. Para legitimar o documento, o livro exige a maioridade do paciente. Atestado falso gera processo ético e crime; a norma ética está na seção da CFO-118.\n\n**Art. 225 do Código Civil, como o livro o lê:** o Daruge diz que o Código, em 2002, acabou com a autenticação de cópias de documentos, pois basta a parte contra quem a cópia é exibida não impugnar a exatidão (cap. 12, p. 188). O que o artigo diz está na seção do Código Civil."
+    },
+    {
+      "id": "daruge-registro-restauradora",
+      "titulo": "Registro da etapa restauradora: o que o Daruge pede registrar",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Prontuário clínico; Histórico clínico detalhado; Recomendações e orientações; Modelo 1, pp. 178–179, 189, 193–194",
+      "texto": "O Daruge não traz modelo de nota para a restauração. Esta seção reúne o que ele pede registrar em cada atendimento.\n\n**Histórico clínico detalhado:** feito pelo profissional depois de preencher o odontograma. Anote o que foi feito e quando, o que ocorreu, e as faltas, atrasos ou remarcações, com ou sem a explicação do paciente. Registre também todos os \"acordos orais\" com o paciente. Escreva de modo fácil de entender, sem abreviações nem siglas, com letra legível e à tinta. Depois de anotar, o paciente rubrica ou assina, ciente de que recebeu, naquele dia e hora, o atendimento descrito. O Modelo 1 do livro é uma tabela de três colunas: data, procedimento e rubrica do paciente.\n\n**Evolução do tratamento, segundo os autores que o livro cita (Sales et al.):** todos os procedimentos, com descrição precisa dos dentes, dos materiais e da data do exame.\n\n**Recomendações escritas** (pré e pós-operatórias, higiene, cuidados com próteses, aparelhos e implantes) são tratadas como prescrições odontológicas. Faça duas vias: uma assinada pelo paciente ou responsável, outra no prontuário.\n\n**Para a restauração:** o livro não traz modelo de nota para ela; o mais próximo é o que os autores citados pedem para a evolução (acima, p. 178). Fica o que ele pede em qualquer consulta: data, procedimento, ocorrências e a ciência do paciente.\n\nAtenção: o Daruge manda evitar abreviações e siglas (p. 179). O Stefanac e Nesbit, livro dos EUA, traz os dois lados: abreviaturas padronizadas ajudam (cap. 1, p. 22), mas a abertura da tabela de abreviaturas recomenda evitá-las em anotações e receitas (p. 22.e1); veja a seção dele. Cada livro fica como está."
+    },
+    {
+      "id": "daruge-contrato",
+      "titulo": "Contrato de prestação de serviços odontológicos (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Contrato de prestação de serviços odontológicos; Cláusulas fundamentais, pp. 189–191",
+      "texto": "Para o Daruge, o contrato é acordo de vontades entre partes capazes. O contrato escrito protege o profissional e o paciente. O livro cita o art. 104 do Código Civil (validade do negócio exige agente capaz, objeto lícito e forma permitida); o paciente incapaz precisa ser assistido, sob pena de nulidade.\n\n**Quem redige:** o dentista, parte economicamente mais forte, prepara as cláusulas. O paciente, que o livro chama de \"hipossuficiente\", só aceita. Por isso as cláusulas devem ser claras e o profissional não pode pôr cláusula que favoreça apenas a ele; do contrário, a nulidade é total ou parcial. O livro cita os arts. 422 a 424 do Código Civil para isso.\n\n**Cláusulas fundamentais, segundo o livro:**\n- **Partes:** dados do paciente e do cirurgião-dentista; se o paciente é menor, qualifique o responsável.\n- **Objeto:** os serviços e as especialidades envolvidas; se o plano mudar, o paciente é avisado antes.\n- **Valor e pagamento:** total, reajuste, forma, multa e juros; o valor só muda com autorização prévia do paciente se o plano mudar.\n- **Duração:** estimativa, que varia com a complexidade. Anote no prontuário as faltas e o que atrasar. O livro cita o art. 607 do Código Civil para o fim do contrato de prestação de serviço.\n- **Rescisão:** por qualquer parte, por escrito. O livro cita a renúncia ao atendimento (art. 5º, V do código de ética): avise antes e por escrito, passe as informações ao sucessor e encaminhe por escrito, em duas vias.\n- **Garantias:** o livro diz que tratamento odontológico não vem com termo de garantia, porque o prognóstico depende de condições que vão além da técnica. O dentista usa técnicas e materiais de comprovação científica; ao paciente cabe colaborar.\n- **Abandono:** o contrato deve dizer como ele se caracteriza. Exemplos do livro: falta a três consultas consecutivas, independentemente da justificativa; ausência por mais de 30 dias corridos, salvo se acordado com o profissional; atraso de prestação por mais de 30 dias. Antes, tente contato (anote os telefonemas) e envie carta registrada com aviso de recebimento.\n\nAtenção: o livro diz, ao tratar das obrigações do profissional (p. 191), que o Código Civil anula qualquer cláusula que o exima de responsabilidade, citando o art. 424. O texto do art. 424 trata de renúncia antecipada do aderente em contrato de adesão (ver a seção do Código Civil)."
+    },
+    {
+      "id": "daruge-consentimento",
+      "titulo": "Consentimento esclarecido e guarda dos documentos (Daruge, cap. 12)",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Consentimento esclarecido; Considerações finais, pp. 192–193",
+      "texto": "Para o Daruge, o consentimento esclarecido expõe as condições e os limites do profissional e registra que o paciente aceitou e entendeu. Deve acompanhar sempre o contrato de prestação de serviços (Modelo 9 do livro).\n\n**Conteúdo:** linguagem simples, com só os termos científicos necessários; o que é a especialidade, as indicações e limitações; riscos e benefícios; todas as opções dentro do limite técnico-biológico; informações sobre o atendimento e os cuidados depois do tratamento, que o livro diz serem geralmente negligenciados.\n\n**Plano:** cabe ao dentista propor o tratamento ideal, tenha o paciente condições de fazê-lo ou não, e explicar limites, restrições e contraindicações de cada opção. Ao paciente cabe escolher entre o ideal e o compensatório, ciente das consequências, e assinar a folha de planejamento.\n\n**Normas que o livro cita:** o art. 11, IV do código de ética (esclarecer propósitos, riscos, custos e alternativas) e o art. 31 do CDC (informação correta, clara e precisa na oferta). O texto dos dois está nas seções da CFO-118 e do CDC.\n\n**No fim do documento:** peça autorização para tratar e, se for o caso, para usar o caso em artigo científico ou anúncio, sempre preservando o anonimato. O livro diz que publicar ou anunciar sem autorização por escrito é infração ética.\n\n**Duas vias:** o contrato e o consentimento, como todo documento emitido pelo profissional, vão em duas vias assinadas pelo paciente ou responsável. Documente no prontuário que o paciente recebeu as instruções e recomendações. \"Acordos orais\" comprometem a defesa em processo.\n\n**Guarda, segundo este capítulo:** o profissional tem só a \"guarda provisória\" do que pertence ao paciente. A melhor conduta, diz o livro, é devolver a documentação ao fim do tratamento, mediante recibo detalhado assinado. Como medida preventiva, guarde cópia de tudo, inclusive modelos de gesso, por 5 anos, \"como determina\" o CDC; o livro não cita artigo nem o início da contagem.\n\n**Lado a lado, dentro do mesmo livro:** no cap. 7 (p. 85), o Daruge diz que o profissional não deve entregar tudo ao paciente: o mais correto é manter o arquivo e, quando o paciente pedir, entregar cópia completa mediante recibo. No cap. 12 (p. 193), a melhor conduta é devolver; no cap. 7 (p. 85), é manter e dar cópia. O livro não harmoniza as duas posições."
+    },
+    {
+      "id": "daruge-tcle",
+      "titulo": "Consentimento na prática clínica e vícios (Daruge, cap. 17)",
+      "fonte": "daruge1-cap17",
+      "onde": "cap. 17, Importância do TCLE na prática clínica; Discordância e anulação do consentimento; Vícios, pp. 283–286",
+      "texto": "O capítulo de bioética do Daruge reúne autores sobre o termo de consentimento livre e esclarecido (TCLE) na clínica. O que serve ao atendimento:\n\n- **O que condiciona o consentimento:** personalidade e temperamento do paciente, grau de entendimento, natureza do tratamento e tamanho das possíveis consequências negativas.\n- **Cada procedimento:** um autor citado diz que o termo é de confecção obrigatória para cada procedimento clínico-cirúrgico.\n- **Não basta entregar papel:** um documento pré-formatado, de texto genérico e linguagem tecnicista, não concretiza o consentimento informado.\n- **Menor de idade:** exige-se a concordância dele, chamada de assentimento, e algum registro no prontuário ou em outro documento de que participou do procedimento e assentiu, dentro dos limites que tem.\n- **Paciente analfabeto:** leia o termo diante de uma testemunha, que assina junto. **Deficiência sensorial ou dificuldade com o idioma:** procure alguém que domine a forma de comunicação do paciente, e os dois assinam.\n- **Discordância:** se o paciente diverge do tratamento proposto e quer outra equipe, isso consta por escrito no prontuário.\n- **Risco:** o autor citado diz que informar \"risco zero\" é atitude leviana; declarados riscos e benefícios, obtenha o termo em duas vias.\n- **Contestação:** o termo pode ser contestado na Justiça por pressão no momento da assinatura.\n\n**Vícios do consentimento, segundo o livro:** falta de capacidade; ausência de informação; vontade manifestada por erro; tratamento desnecessário ou não indicado; uso do corpo contra a ordem pública e os bons costumes. O livro trata o consentimento como ato jurídico e diz que ele pode ser anulado, citando os arts. 166 a 184 e o art. 171, II do Código Civil (anulável por fraude contra credores, lesão, estado de perigo, coação, dolo ou erro). Exemplo do livro: o paciente que consente na extração de todos os dentes por achar mais fácil cuidar de uma prótese total. Havendo vício, o tratamento é ilícito e a intervenção é contrária à vontade do paciente.\n\n**Registro:** para o assentimento do menor e para a discordância do paciente, o livro pede registro no prontuário. Os artigos do Código Civil estão na seção própria."
+    },
+    {
+      "id": "daruge-responsabilidade",
+      "titulo": "Responsabilidade civil, criminal e administrativa (Daruge, cap. 7)",
+      "fonte": "daruge1-cap07",
+      "onde": "cap. 7, Conceitos e definições; Pressupostos; Espécies de responsabilidade; Natureza da responsabilidade, pp. 72–81",
+      "texto": "Segundo o Daruge, o dentista responde pelos danos causados no exercício da profissão por ato culposo, por ação (imprudência, imperícia) ou omissão (negligência), por dolo ou, em certos casos, sem culpa. Pode responder nas esferas civil, administrativa e criminal, que podem coexistir.\n\n**Subjetiva e objetiva:** a subjetiva exige culpa; a objetiva dispensa a culpa e vem do risco. As duas coexistem. O livro cita o art. 14 do CDC: o caput põe o fornecedor de serviços na responsabilidade objetiva, e o § 4º manda apurar a do profissional liberal pela verificação de culpa, por causa da relação de confiança. Para o livro, só o caso concreto diz se o dentista é profissional liberal ou fornecedor: numa clínica empresarial, em larga escala, com vários profissionais e impessoalidade, o dentista que comanda pode ser fornecedor, com responsabilidade objetiva. O livro cita ainda os arts. 932, III e 933 do Código Civil (responde pelos atos do auxiliar e depois pode cobrar dele). Ao reproduzir o art. 186, o Daruge escreve que ele pune quem \"viola direito ou causa dano\", com \"ou\" (cap. 7, p. 72); a seção do Código Civil mostra o que o artigo diz.\n\n**Quatro pressupostos da responsabilidade civil:** ato profissional (ação ou omissão); imperícia, imprudência ou negligência; dano; e, o que mais pesa, o nexo causal entre o ato e o dano. O nexo é pressuposto da responsabilidade subjetiva e da objetiva (esta dispensa a culpa). Sem nexo, o livro conclui que o dano é de terceiro, da própria vítima, de caso fortuito ou de força maior, hipóteses que eximem a responsabilidade. No exemplo do livro, o pedido de indenização foi julgado improcedente porque o perito não achou dano.\n\n**Prontuário:** o profissional deve, por lei e por ética, relatar no prontuário todos os atos. Quem o mantém atualizado e completo expõe melhor o tratamento em juízo. O livro cita o art. 9º, X e o art. 17 do código de ética (seção da CFO-118).\n\n**Contratual e verbal:** em atendimento curto (restauração, extração, profilaxia) o contrato costuma ser verbal e o profissional anota só o nome e o que vai fazer; sem ficha com qualificação e valor, ele fica desarmado em eventual ação. Pela experiência dos autores como peritos, quem só usa uma ficha tem mais dificuldade na defesa.\n\n**Meio ou resultado:** obrigação de meio é aplicar o conhecimento com dedicação e prudência, sem garantir o resultado. Obrigação de resultado existe se o profissional se comprometeu com resultado específico (por exemplo, prometendo sorriso igual ao das fotografias). O termo de esclarecimento livre e consentido, diz o livro, deve fazer parte de todos os documentos do prontuário. Os autores não classificam uma especialidade como de meio ou de resultado de antemão: a análise é caso a caso, pela perícia."
+    },
+    {
+      "id": "daruge-onus-prazos",
+      "titulo": "Inversão do ônus da prova, guarda e prazos (Daruge, cap. 7)",
+      "fonte": "daruge1-cap07",
+      "onde": "cap. 7, Inversão do ônus da prova; Prescrição; Prescrição no Código de Defesa do Consumidor, pp. 84–88",
+      "texto": "**Inversão do ônus da prova:** o livro cita o art. 6º, VIII do CDC. Se o juiz a decreta, o dentista é quem deve provar que não agiu com culpa, que o defeito não existe, ou que o dano veio de culpa exclusiva do paciente ou de terceiro. O juiz avalia se a alegação é verossímil e se o paciente é hipossuficiente; quando a maior parte dos documentos fica com o fornecedor, o paciente é considerado hipossuficiente. A regra geral continua sendo a de que quem alega prova.\n\n**Prontuário e guarda:** para esse caso, mantenha prontuário completo, com radiografias e fotografias antes, durante e depois, modelos e os termos de esclarecimento e consentimento assinados. O livro diz que a maioria dos profissionais não faz isso.\n\n**Entregar ou manter:** alguns autores, citados pelo livro, dizem que ao fim do tratamento se entrega tudo ao paciente, mediante recibo, por causa do arquivo morto. Os autores deste capítulo discordam: o correto é manter o arquivo e, se o paciente pedir, dar cópia completa (inclusive de modelos e imagens digitalizadas) mediante recibo (cap. 7, p. 85). Assim, se houver ação e inversão, o profissional tem melhores condições de se defender. No cap. 12 (p. 193), o mesmo Daruge diz que o melhor é devolver a documentação ao fim do tratamento, com recibo detalhado. O livro não harmoniza as duas posições.\n\n**Prazos, segundo o livro:**\n- **Reparação civil (Código Civil, art. 206, § 3º, V):** 3 anos, que o livro conta a partir da última consulta, da interrupção ou do fim do tratamento. Segundo o livro, o prazo não corre para menores de 16 anos \"e as demais pessoas consideradas absolutamente incapazes\" (art. 198, I): num paciente de 14 anos, conta-se dos 16. A seção do Código Civil mostra o que o art. 3º traz hoje.\n- **Honorários (art. 206, § 5º, II):** 5 anos; o livro conta da conclusão, da interrupção ou do abandono do tratamento, e aconselha colher a assinatura do paciente após cada consulta.\n- **CDC, art. 27:** 5 anos para a reparação por dano de serviço, contados do conhecimento do dano e de sua autoria. Pelo \"diálogo das fontes\", citado como entendimento dos tribunais, o prazo de 5 anos vale na relação de consumo em vez dos 3 anos do Código Civil.\n- **Decadência:** não se suspende nem se interrompe (art. 207, como o livro o apresenta).\n\nAtenção: o texto do art. 206, § 3º, V não traz o termo inicial; ele é do livro. As palavras \"interrupção\" e \"abandono\" também não estão no § 5º, II. A seção do Código Civil mostra a lei."
+    },
+    {
+      "id": "daruge-sigilo",
+      "titulo": "Segredo profissional (Daruge, cap. 5)",
+      "fonte": "daruge1-cap05",
+      "onde": "cap. 5, Definições; Segredo profissional; Justa causa; Elementos que caracterizam a violação, pp. 42–49",
+      "texto": "Para o Daruge, o segredo profissional é o dever e o direito de guardar o que o paciente confia por causa da profissão. O paciente precisa revelar fatos íntimos para o dentista fazer diagnóstico, plano e prognóstico, e o interesse na guarda é também público. Para o livro, o sigilo no Brasil não é absoluto, e sim relativo, e a maior parte dos doutrinadores e tribunais segue a escola eclética: permite ou obriga certas revelações fundadas em justa causa.\n\n**Justa causa, pelo código de ética (CFO-118/2012, art. 14, parágrafo único, como o livro o cita):** notificação compulsória de doença; colaboração com a justiça nos casos previstos em lei; perícia odontológica nos exatos limites; defesa de interesse legítimo dos profissionais inscritos; revelação ao responsável pelo incapaz. O livro nota que o código inclui os casos previstos em lei entre as justas causas, o que parece sobrepor o dever legal à justa causa.\n\n**Outras situações sem quebra de sigilo:** dever legal e autorização expressa do paciente. O pedido do paciente para revelar a terceiro deve ser feito por escrito, por livre manifestação e com consentimento esclarecido, e o paciente deve ser maior e capaz.\n\n**Fichas clínicas:** o Daruge cita o art. 229, I do Código Civil (ninguém é obrigado a depor sobre o que deva guardar em segredo) e o lê como proteção também aos registros: ficha clínica e relatório contam como \"depoimento\". Atenção: o livro apresenta o artigo como regra em vigor, mas o art. 229 do Código Civil foi revogado pela Lei nº 13.105/2015 (Código de Processo Civil), segundo o texto compilado do próprio Código Civil no site do Planalto. Os dois ficam lado a lado, sem harmonizar. O livro diz que é imprescindível avaliar o conteúdo das fichas e as confidências dos pacientes para resguardar o sigilo.\n\n**Violação, segundo o livro, tem estes elementos:** segredo real; conhecido por causa da profissão; sem justa causa; com possibilidade de dano (basta o dano potencial); e dolo. **Direta:** revelar com o nome (ao cônjuge, por exemplo, ou em publicação com dados do paciente). **Indireta:** contar fatos tão minuciosos que identificam a pessoa.\n\n**Crime de ação pública:** o livro cita a Lei das Contravenções Penais (art. 66, II): quem conhece crime de ação pública, que não dependa de representação, no exercício de profissão sanitária deve comunicar, desde que a comunicação não exponha o cliente a procedimento criminal. Exemplo do livro: o dentista que atende a vítima de lesão corporal leve da Lei Maria da Penha deve comunicar; o que atende o agressor também lesionado, não.\n\n**Doença de notificação compulsória:** o livro diz que o Código Penal (art. 269) só tipifica o médico e que, pelos princípios da lei penal, não se aplica por analogia ao dentista."
+    },
+    {
+      "id": "cfo118-prontuario-consentimento",
+      "titulo": "CFO-118/2012: prontuário, documentos e consentimento",
+      "fonte": "cfo118",
+      "onde": "art. 17, caput e parágrafo único, pp. 7–8; art. 18, p. 8; art. 9º, X, p. 3; art. 11, IV e X, pp. 5–6; art. 5º, V, pp. 1–2; art. 49, III, p. 17; art. 50, VI, p. 18",
+      "texto": "O Código de Ética Odontológica (Resolução CFO-118/2012, em vigor desde 1º de janeiro de 2013) é norma ética do Conselho, não lei civil nem penal. O texto não define prontuário, consentimento nem atestado: descreve condutas e infrações.\n\n**Prontuário (art. 17):** é obrigatório elaborar e manter prontuário legível e atualizado, em arquivo próprio, físico ou digital. O parágrafo único manda manter os dados clínicos necessários à boa condução do caso, preenchidos a cada avaliação, em ordem de data, com hora, nome, assinatura e registro do dentista no CRO. O art. 9º, X põe o prontuário entre os deveres fundamentais; violar esses deveres é infração ética.\n\n**Documentos (art. 18), constitui infração:** negar ao paciente o acesso ao prontuário, deixar de dar cópia quando pedida ou de explicar o necessário (salvo risco ao paciente ou a terceiros); deixar de atestar atos executados quando o paciente pede; expedir atestado, relatório, parecer ou laudo sem ato profissional que o justifique, tendencioso ou que não corresponda à verdade; comercializar atestados, recibos ou receitas; receitar ou atestar de forma ilegível ou sem identificação, e assinar documento em branco.\n\n**Esclarecimento e consentimento (art. 11):** é infração deixar de esclarecer adequadamente propósitos, riscos, custos e alternativas do tratamento (inciso IV) e iniciar procedimento sem consentimento prévio do paciente ou do responsável legal, salvo urgência ou emergência (inciso X). Também é infração recusar-se a dar esclarecimentos ou relatórios sobre diagnóstico e terapêutica quando o paciente ou a lei pedem (inciso XII).\n\n**Renúncia ao atendimento (art. 5º, V):** direito do profissional, mas exige comunicar antes, por escrito, ao paciente ou responsável legal, e passar ao sucessor as informações necessárias.\n\n**Onde o código exige por escrito:** autorização do paciente para publicar elemento que o identifique (art. 49, III) e consentimento livre e esclarecido em pesquisa com seres humanos (art. 50, VI).\n\nAtenção: o texto não fixa prazo de guarda do prontuário e não diz que o consentimento para procedimento clínico deve ser escrito."
+    },
+    {
+      "id": "cfo118-sigilo-responsabilidade",
+      "titulo": "CFO-118/2012: sigilo, responsabilidade e penas",
+      "fonte": "cfo118",
+      "onde": "arts. 14 a 16, p. 7; art. 9º, VIII, XIV e XV, p. 3; art. 30, p. 10; art. 35, II e IX, pp. 12–13; arts. 51 a 56, pp. 18–19",
+      "texto": "**Sigilo (art. 14):** é infração revelar fato sigiloso, sem justa causa, de que se saiba por causa da profissão; negligenciar na orientação dos colaboradores quanto ao sigilo; fazer referência a caso clínico identificável ou exibir paciente, imagem ou elemento que o identifique, em qualquer meio de comunicação. A exceção é a docência e a publicação científica, em que a autorização do paciente ou do responsável permite exibir imagem ou prontuário com fim didático-acadêmico.\n\n**Justa causa, principalmente (art. 14, parágrafo único):** notificação compulsória de doença; colaboração com a justiça nos casos previstos em lei; perícia odontológica nos exatos limites; estrita defesa de interesse legítimo dos profissionais inscritos; revelação de fato sigiloso ao responsável pelo incapaz.\n\n**Não é quebra de sigilo:** contar o tratamento feito na cobrança de honorários em juízo (art. 15) e avisar o Conselho Regional e as autoridades sanitárias de condições de trabalho indignas, inseguras e insalubres (art. 16).\n\n**Deveres fundamentais (art. 9º):** resguardar o sigilo (VIII), resguardar sempre a privacidade do paciente (XV) e assumir a responsabilidade pelos atos praticados, ainda que solicitados ou consentidos pelo paciente ou pelo responsável (XIV). Em ideia: o consentimento do paciente não tira a responsabilidade do profissional.\n\n**Prestadores de entidade (art. 30):** respondem em solidariedade, dentro de sua atribuição, pela infração ética, mesmo sem ser sócios nem responsáveis técnicos.\n\n**Ensino (art. 35):** é infração eximir-se de responsabilidade pelos trabalhos que alunos fazem em pacientes (II) e deixar que acadêmicos pratiquem clínica fora das diretrizes, dos planos pedagógicos e de um programa regular de estágio ou extensão (IX); neste último, respondem o professor e o coordenador da atividade.\n\n**Penas (arts. 51 a 56):** advertência confidencial; censura confidencial; censura pública; suspensão do exercício até 30 dias; cassação do exercício, ad referendum do Conselho Federal. A pena segue essa gradação, salvo manifesta gravidade, que se mede pela extensão do dano e suas consequências. Dizer que não conhecia ou não entendeu o código não livra da penalidade. Reincidência, dolo e aproveitar-se da fragilidade do paciente podem agravar; ter reparado ou minorado o dano pode atenuar."
+    },
+    {
+      "id": "cc2002-responsabilidade",
+      "titulo": "Código Civil: ato ilícito, dever de reparar e indenização",
+      "fonte": "cc2002",
+      "onde": "art. 186; art. 187; art. 927, caput e parágrafo único; arts. 944 e 945; arts. 948 a 951; art. 932, III; arts. 933 e 934; art. 393",
+      "texto": "O Código Civil (Lei nº 10.406/2002), na versão compilada do Planalto lida em 16/11/2026, traz o núcleo da responsabilidade civil. Aqui está o que a lei diz, em outras palavras.\n\n**Art. 186:** comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito **e** causa dano a outrem, ainda que só moral. A palavra \"imperícia\" não aparece neste artigo; ela aparece no art. 951.\n\n**Art. 187:** é também ato ilícito exercer um direito excedendo de forma manifesta os limites do seu fim econômico ou social, da boa-fé ou dos bons costumes.\n\n**Art. 927:** quem causa dano por ato ilícito (arts. 186 e 187) fica obrigado a repará-lo. O parágrafo único admite reparação sem culpa nos casos especificados em lei e quando a atividade normalmente desenvolvida pelo autor do dano implica, por natureza, risco para os direitos de outrem.\n\n**Art. 944:** a indenização se mede pela extensão do dano; se há grande desproporção entre a gravidade da culpa e o dano, o juiz pode reduzir a indenização de modo equitativo. **Art. 945:** se a vítima concorreu com culpa para o evento, a indenização considera a gravidade da culpa dela em confronto com a do autor.\n\n**Arts. 948 a 950:** parâmetros de indenização. Na morte: despesas de tratamento, funeral, luto da família e alimentos a quem o morto devia. Na lesão à saúde: despesas de tratamento, lucros cessantes até o fim da convalescença e outro prejuízo provado. Se o defeito impede o ofício ou reduz a capacidade de trabalho: soma-se pensão pelo trabalho para o qual a vítima se inabilitou ou pela depreciação sofrida; o prejudicado pode preferir receber de uma só vez.\n\n**Art. 951:** aplica os mesmos parâmetros ao profissional que, por negligência, imprudência ou imperícia, causa dano à saúde ou à capacidade de trabalho do paciente, ou a morte dele.\n\n**Responsabilidade por outros:** o empregador ou comitente responde pelos empregados, serviçais e prepostos no exercício do trabalho ou por causa dele (art. 932, III); o empregador responde mesmo sem culpa própria (art. 933); quem paga pode cobrar de quem causou o dano, salvo se este for descendente seu, absoluta ou relativamente incapaz (art. 934).\n\n**Art. 393:** o devedor não responde por prejuízo de caso fortuito ou força maior, se não se responsabilizou por ele de modo expresso; é o fato necessário, cujos efeitos não dava para evitar nem impedir."
+    },
+    {
+      "id": "cc2002-contrato-consentimento",
+      "titulo": "Código Civil: contrato, vícios do consentimento e prova",
+      "fonte": "cc2002",
+      "onde": "art. 104; arts. 422 a 424; art. 607; arts. 138, 139 e 145; arts. 166 e 171; art. 185; art. 225",
+      "texto": "O Código Civil (Lei nº 10.406/2002; Planalto, lido em 16/11/2026) não fala de consentimento do paciente nem de saúde nestes artigos. Eles tratam de contrato e de negócio jurídico.\n\n**Art. 104:** a validade do negócio jurídico exige agente capaz, objeto lícito, possível, determinado ou determinável, e forma prescrita ou não proibida em lei.\n\n**Arts. 422 a 424:** os contratantes devem guardar, na conclusão e na execução do contrato, probidade e boa-fé (art. 422). No contrato de adesão, cláusulas ambíguas ou contraditórias têm a interpretação mais favorável ao aderente (art. 423), e são nulas as cláusulas em que o aderente renuncia de antemão a direito que decorre da natureza do negócio (art. 424).\n\n**Art. 607:** o contrato de prestação de serviço termina com a morte de uma das partes, o fim do prazo, a conclusão da obra, a rescisão com aviso prévio, o descumprimento ou a impossibilidade de continuar por força maior.\n\n**Defeitos do negócio jurídico:** é anulável o negócio cuja declaração de vontade vem de erro substancial que pessoa de diligência normal poderia perceber (art. 138). É substancial o erro que toca a natureza do negócio, o objeto principal da declaração ou uma qualidade essencial do objeto; o que recai sobre a identidade ou a qualidade essencial da pessoa, se influiu de modo relevante; e o erro de direito que não implica recusar a lei, quando foi o motivo único ou principal (art. 139). Também é anulável o negócio feito por dolo, quando este é a sua causa (art. 145).\n\n**Nulidade e anulabilidade:** é nulo o negócio celebrado por pessoa absolutamente incapaz, de objeto ilícito, impossível ou indeterminável, de motivo determinante ilícito comum às partes, sem a forma prescrita em lei ou sem solenidade essencial, para fraudar lei imperativa, ou que a lei declare nulo (art. 166). É anulável, além dos casos da lei, por incapacidade relativa do agente ou por fraude contra credores, lesão, estado de perigo, coação, dolo ou erro (art. 171, I e II). O art. 185 manda aplicar, no que couber, as regras do negócio jurídico aos atos lícitos que não são negócios.\n\n**Art. 225:** reproduções fotográficas, cinematográficas e fonográficas, e outras reproduções mecânicas ou eletrônicas de fatos ou coisas, valem como prova plena deles, salvo se a parte contra quem são exibidas impugnar a exatidão. O artigo trata dessas reproduções; não fala de cópia de documento nem de autenticação."
+    },
+    {
+      "id": "cc2002-prazos",
+      "titulo": "Código Civil: prescrição e decadência",
+      "fonte": "cc2002",
+      "onde": "art. 189; art. 198, I; art. 205; art. 206, § 3º, V e § 5º, II; art. 207",
+      "texto": "O Código Civil (Lei nº 10.406/2002; Planalto, lido em 16/11/2026) fixa estes prazos, que interessam à guarda do prontuário.\n\n**Art. 189:** quando o direito é violado, surge a pretensão do titular, e ela se extingue por prescrição nos prazos que os arts. 205 e 206 fixam.\n\n**Art. 205:** quando a lei não fixou prazo menor, a prescrição se dá em dez anos.\n\n**Art. 206, § 3º, V:** prescreve em três anos a pretensão de reparação civil. O inciso não diz de que momento o prazo começa a correr.\n\n**Art. 206, § 5º, II:** prescreve em cinco anos a cobrança de honorários de profissionais liberais em geral (também de procuradores judiciais, curadores e professores), contados do fim dos serviços ou do fim do contrato ou do mandato. O texto não usa as palavras \"interrupção\" nem \"abandono\".\n\n**Art. 198, I:** não corre a prescrição contra os incapazes de que trata o art. 3º, que hoje são os menores de 16 anos (redação da Lei nº 13.146/2015).\n\n**Art. 207:** salvo disposição legal em contrário, as normas que impedem, suspendem ou interrompem a prescrição não se aplicam à decadência.\n\nAtenção: nos artigos lidos para este tema, o Código não traz prazo de guarda do prontuário. Os prazos dos arts. 205 e 206 são de prescrição. O prazo de cinco anos do CDC está na seção própria."
+    },
+    {
+      "id": "cdc1990-consumidor-responsabilidade",
+      "titulo": "CDC: consumidor, fornecedor e responsabilidade pelo serviço",
+      "fonte": "cdc1990",
+      "onde": "art. 2º, caput; art. 3º, caput e §§ 1º e 2º; art. 6º, III e VIII; art. 14, caput e §§ 1º a 4º; art. 17; art. 27, caput",
+      "texto": "O Código de Defesa do Consumidor (Lei nº 8.078/1990; Planalto, versão compilada, lida em 16/11/2026) não cita o cirurgião-dentista. O paciente e o dentista entram pelas definições gerais.\n\n**Art. 2º:** consumidor é quem adquire ou usa produto ou serviço como destinatário final, seja pessoa física ou jurídica. **Art. 3º:** fornecedor é quem exerce atividade de produção, distribuição ou comercialização de produtos, ou de prestação de serviços (pessoa física ou jurídica, nacional ou estrangeira, pública ou privada, ou ente sem personalidade jurídica). Serviço é atividade fornecida no mercado de consumo mediante remuneração (§ 2º). A lei não diz se o serviço odontológico é durável.\n\n**Art. 6º:** o consumidor tem direito básico à informação adequada e clara sobre os serviços e seus riscos (III) e à facilitação da defesa (VIII): no processo civil, o juiz pode inverter o ônus da prova em favor dele se achar verossímil a alegação ou se ele for hipossuficiente, pelas regras comuns de experiência. A inversão não é automática; depende da avaliação do juiz.\n\n**Art. 14:**\n- **Caput:** o fornecedor de serviços responde, sem depender de culpa, pelos danos que o defeito do serviço causa e também pela informação insuficiente ou inadequada sobre o uso do serviço e seus riscos.\n- **§ 1º:** o serviço é defeituoso quando não oferece a segurança que o consumidor pode esperar, olhando o modo como foi fornecido, o resultado e os riscos que razoavelmente se esperam e a época do fornecimento.\n- **§ 2º:** usar técnica nova não torna, por si só, o serviço defeituoso.\n- **§ 3º:** o fornecedor só escapa se provar que o defeito não existe ou que a culpa foi só do consumidor ou de terceiro.\n- **§ 4º:** a responsabilidade pessoal do profissional liberal depende de se verificar a culpa dele.\n\n**Art. 17:** nessa seção da lei (fato do produto e do serviço, arts. 12 a 17), as vítimas do evento se equiparam aos consumidores.\n\n**Art. 27:** a pretensão de reparação por dano de fato do produto ou do serviço prescreve em cinco anos, a contar de quando se conhecem o dano e quem o causou.\n\nAtenção: o art. 14 fala em informação sobre riscos. Ele não menciona termo, assinatura nem a palavra \"completas\"."
+    },
+    {
+      "id": "cdc1990-informacao-orcamento",
+      "titulo": "CDC: informação, orçamento, prazos e cláusulas nulas",
+      "fonte": "cdc1990",
+      "onde": "art. 26, caput, §§ 1º e 3º; art. 31, caput; art. 39, IV e VI; art. 40, caput e § 2º; art. 51, I, IV, VI e X",
+      "texto": "Do Código de Defesa do Consumidor (Lei nº 8.078/1990; Planalto, versão compilada, lida em 16/11/2026), os artigos que mais tocam o consultório:\n\n**Art. 26 (vício aparente ou de fácil constatação):** o direito de reclamar caduca em 30 dias quando se trata de serviço ou produto não durável (inciso I) e em 90 dias quando se trata de serviço ou produto durável (inciso II). A contagem começa na entrega efetiva do produto ou no término da execução do serviço (§ 1º). No vício oculto, o prazo começa quando o defeito fica evidenciado (§ 3º). A lei não diz se o serviço odontológico é durável.\n\n**Art. 31:** a oferta e a apresentação de produtos ou serviços devem trazer informações corretas, claras, precisas, bem visíveis e em português sobre o que são (características, qualidades, quantidade, composição e preço), sobre os riscos que oferecem à saúde e à segurança e, ainda, sobre garantia, origem e prazos de validade. O artigo trata de oferta e apresentação; não fala de termo de consentimento.\n\n**Art. 39:** o fornecedor não pode, entre outras práticas abusivas, tirar proveito da fraqueza ou da ignorância do consumidor, considerando sua idade, saúde, conhecimento ou condição social, para lhe impor produtos ou serviços (IV), nem fazer serviço sem orçamento prévio e sem autorização expressa dele, salvo o que decorre de práticas anteriores entre as partes (VI).\n\n**Art. 40:** o fornecedor de serviço deve entregar orçamento prévio em que conste quanto custa a mão de obra, o que se gasta com materiais e equipamentos, como será o pagamento e quando o serviço começa e termina. Aprovado pelo consumidor, o orçamento obriga os contraentes e só muda por livre negociação das partes (§ 2º). A lei diz \"orçamento prévio\"; não diz que ele seja escrito.\n\n**Art. 51:** são nulas de pleno direito as cláusulas que tirem ou reduzam a responsabilidade do fornecedor por vícios ou façam o consumidor renunciar a direitos (I); que imponham obrigação iníqua ou abusiva, desvantagem exagerada ao consumidor ou incompatibilidade com a boa-fé (IV); que invertam o ônus da prova em prejuízo do consumidor (VI); e que deixem o fornecedor mudar o preço sozinho (X). Para o consumidor pessoa jurídica, o inciso I admite limitar a indenização em situações justificáveis; essa ressalva não vale para o paciente pessoa física.\n\nAtenção: o art. 26 traz 30 e 90 dias conforme o serviço seja não durável ou durável; o art. 27, de cinco anos, é de outro assunto (reparação do dano)."
+    },
+    {
+      "id": "lei13787-guarda",
+      "titulo": "O que a lei diz hoje sobre o prazo de guarda do prontuário (Lei 13.787/2018)",
+      "fonte": "lei13787-2018",
+      "onde": "art. 6º, caput e §§ 1º a 5º; art. 2º, caput e § 1º; art. 3º, caput; art. 5º, caput",
+      "texto": "A Lei nº 13.787, de 27 de dezembro de 2018, trata da digitalização e dos sistemas informatizados para guardar e manusear o prontuário de paciente. O que interessa à guarda está no art. 6º.\n\n**Prazo (art. 6º, caput):** passados no mínimo 20 anos do último registro, os prontuários em papel e os digitalizados podem ser eliminados. É prazo mínimo e conta do último registro, não da abertura do prontuário.\n\n**Outros pontos do art. 6º:**\n- § 1º: regulamento pode fixar prazos diferentes, conforme o potencial de uso em estudos e pesquisas das ciências da saúde, humanas e sociais e para fins legais e probatórios.\n- § 2º: em vez de eliminar, o prontuário pode ser devolvido ao paciente.\n- § 3º: a eliminação deve resguardar a intimidade do paciente e o sigilo e a confidencialidade das informações.\n- § 4º: o destino final e a eliminação de todos os prontuários são registrados na forma de regulamento.\n- § 5º: o artigo vale para todo prontuário, seja qual for a forma de armazenamento: inclusive microfilmado, em meio óptico e gerado originalmente em meio eletrônico.\n\n**Digitalização (arts. 2º, 3º e 5º):** o método deve reproduzir todas as informações do original e assegurar integridade, autenticidade e confidencialidade; o original só pode ser destruído depois de análise obrigatória de comissão permanente de revisão de prontuários e avaliação de documentos; o documento digitalizado conforme a lei e seus regulamentos tem o mesmo valor probatório do original.\n\nAtenção: a lei diz que o prontuário pode ser eliminado depois dos 20 anos; não diz que deva. Ela fala em \"prontuário de paciente\" e não cita o cirurgião-dentista nem a Odontologia. Os números dos livros e da CFO-SEC-91/2009 estão nas seções de cada um, como cada um os traz: o Vanrell fala em guardar a documentação \"sempiternamente\" (cap. 31, p. 222) e o Daruge, em guardar cópia por 5 anos, \"como determina\" o CDC (cap. 12, p. 193)."
+    },
+    {
+      "id": "cfo91-guarda",
+      "titulo": "Guarda do prontuário na CFO-SEC-91/2009: papel e meio eletrônico",
+      "fonte": "cfo-sec-91-2009",
+      "onde": "art. 7º; art. 8º; art. 2º, §§ 1º e 2º; art. 3º; art. 4º; art. 6º",
+      "texto": "A Resolução CFO-SEC-91, de 20 de agosto de 2009, é norma do Conselho Federal de Odontologia sobre digitalização e sistemas informatizados para o prontuário. Ela traz dois números de guarda.\n\n**Papel (art. 8º):** prazo mínimo de 10 anos, a partir do último registro, para preservar o prontuário em suporte de papel que não foi arquivado em meio óptico, microfilmado ou digitalizado.\n\n**Meio eletrônico (art. 7º):** guarda permanente, considerando a evolução tecnológica, para o prontuário arquivado eletronicamente em meio óptico, microfilmado ou digitalizado.\n\n**Outros pontos:**\n- Autoriza digitalizar o prontuário, desde que o método reproduza todas as informações do original e os arquivos sejam controlados por sistema de gerenciamento eletrônico de documentos que obedeça ao nível de garantia de segurança 2 (NGS2) (art. 2º, §§ 1º e 2º).\n- Autoriza sistemas informatizados que atendam integralmente ao NGS2, o que elimina a obrigatoriedade do registro em papel (art. 3º). Com só o NGS1, não autoriza eliminar o papel (art. 4º).\n- O prontuário microfilmado pode ser eliminado conforme a legislação específica, depois de análise obrigatória da Comissão de Revisão de Prontuários da unidade (art. 6º).\n\nAtenção: a resolução é de 2009 e fixa 10 anos para o papel (art. 8º) e guarda permanente para o meio eletrônico (art. 7º). A Lei 13.787/2018, de data posterior, fala em prazo mínimo de 20 anos para o papel e o digitalizado (seção da lei). Cada norma fica como está."
+    },
+    {
+      "id": "lei15378-paciente",
+      "titulo": "Estatuto dos Direitos do Paciente (Lei 15.378/2026): consentimento e prontuário",
+      "fonte": "lei15378-2026",
+      "onde": "art. 2º, IV; art. 5º, parágrafo único; art. 12, caput e § 1º; art. 14, caput e §§ 1º e 2º; art. 15, parágrafo único; art. 17, III; art. 18, caput; art. 19",
+      "texto": "A Lei nº 15.378, de 6 de abril de 2026, institui o Estatuto dos Direitos do Paciente. Vale para os profissionais de saúde e para os responsáveis por serviços de saúde públicos ou privados (arts. 1º e 3º). É posterior à edição dos dois livros deste tema. O que traz sobre consentimento e prontuário, em outras palavras:\n\n**Consentimento**\n- **Definição (art. 2º, IV):** consentimento informado é a vontade do paciente sobre os cuidados à sua saúde, expressa sem coerção externa nem influência que o subjugue, depois de informado de modo claro, acessível e detalhado sobre o que for relevante em seu diagnóstico, prognóstico, tratamento e cuidados.\n- **Informação (art. 12):** direito à informação sobre a condição de saúde, o tratamento e as alternativas, os riscos e benefícios dos procedimentos e os efeitos adversos dos medicamentos prescritos; a informação deve ser acessível, atualizada e suficiente para o paciente decidir (§ 1º).\n- **Direito (art. 14):** direito ao consentimento informado, sem coerção ou influência indevida, salvo em situação de risco de morte em que o paciente esteja inconsciente. Pode retirar o consentimento a qualquer tempo, sem sofrer represálias (§ 1º). As diretivas antecipadas de vontade são respeitadas também nessas situações (§ 2º).\n- **Tempo para decidir (art. 18):** direito a segunda opinião em qualquer fase do tratamento e a tempo suficiente para decidir, salvo emergência.\n- **Quem não pode consentir (art. 5º, parágrafo único):** para o paciente impedido, por sua condição biológica, psíquica, cultural e social, de dar consentimento livre e esclarecido, a lei manda garantir instrumentos para que expresse suas opções ou se oponha a um procedimento.\n- **Estudantes (art. 17, III):** o paciente pode consentir ou não com a presença de estudantes e de profissionais de saúde estranhos a seus cuidados.\n\n**Prontuário (art. 19):** o paciente tem direito de acessar o prontuário sem justificar, de obter cópia sem ônus, de pedir retificação e de exigir que ele seja mantido em segurança. Os dados e registros do paciente devem ser manuseados e arquivados de modo a preservar a confidencialidade (art. 15, parágrafo único).\n\nAtenção: o art. 19 diz \"prontuário médico\", e a lei não fala de Odontologia. A palavra \"escrita\" aparece nela só nas diretivas antecipadas de vontade e em registros; a lei não traz termo escrito de consentimento para o tratamento nem prazo de guarda do prontuário. Os livros ficam como estão, em suas seções."
+    },
+    {
+      "id": "stefanac-nota-de-tratamento",
+      "titulo": "Documentar a consulta: a nota de tratamento (Stefanac e Nesbit)",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Documentation, p. 22; Fig. 1-20, p. 22; eTable 1-1, pp. 22.e1–22.e3",
+      "texto": "O Stefanac e Nesbit (livro dos EUA, em inglês, 3ª ed.) trata a documentação na última seção do cap. 1. Aqui entra só o que serve de exemplo de como anotar uma consulta, em palavras próprias e sem reproduzir a figura.\n\n**Nota de cada consulta (progress note ou treatment note):** documenta cada atendimento e pode incluir diagnósticos específicos da consulta, sinal de que a história de saúde foi revista, o que foi feito no tratamento, como o paciente se comportou e o que fica planejado para a próxima visita. Deve ser clara e objetiva. No detalhe do tratamento, o livro pede os dentes ou a área de tecido mole tratados, os medicamentos dados e os detalhes dos procedimentos.\n\n**Destaque:** alergia, risco de vida ou outro problema de saúde que mude de modo importante o tratamento deve ficar bem à vista no prontuário. Exemplos do livro: alergias e a necessidade de evitar epinefrina.\n\n**O exemplo do livro (Fig. 1-20):** quadro de cinco campos: problema, estado de saúde, tratamento, avaliação do paciente e próxima consulta. O exemplo registra uma cárie na distal de um primeiro molar superior, tratada com restauração em resina composta sob isolamento com dique de borracha, depois de anestesia infiltrativa. Não se reproduz a figura; o que vale é a ordem dos campos.\n\n**Abreviaturas:** o texto da p. 22 diz que abreviaturas padronizadas ajudam e remete à lista de uma faculdade dos EUA (eTable 1-1, pp. 22.e1–22.e3). A abertura dessa tabela, porém, recomenda que, para reduzir erros, os clínicos evitem abreviaturas em anotações e receitas (p. 22.e1).\n\nAtenção: o Stefanac traz os dois lados sobre abreviaturas (p. 22 e p. 22.e1); o Daruge manda evitar abreviações e siglas (cap. 12, p. 179, seção própria). Cada livro fica como está."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "O que a CFO-118/2012 exige do prontuário (art. 17)?",
+      "verso": "Elaborar e manter prontuário legível e atualizado, em arquivo próprio, físico ou digital. Os dados clínicos necessários vão preenchidos a cada avaliação, em ordem de data, com hora, nome, assinatura e registro do dentista no CRO.",
+      "fonte": "cfo118",
+      "onde": "art. 17, caput e parágrafo único, pp. 7–8"
+    },
+    {
+      "id": "f02",
+      "frente": "A CFO-118/2012 diz que o consentimento para procedimento clínico deve ser escrito?",
+      "verso": "Não. O art. 11, X fala em consentimento prévio do paciente ou responsável, exceto em urgência ou emergência, sem dizer que seja escrito. Por escrito, o código exige a renúncia ao atendimento (art. 5º, V), a publicação que identifica o paciente (art. 49, III) e o consentimento em pesquisa (art. 50, VI).",
+      "fonte": "cfo118",
+      "onde": "art. 11, X, pp. 5–6; art. 5º, V, pp. 1–2; art. 49, III, p. 17; art. 50, VI, p. 18"
+    },
+    {
+      "id": "f03",
+      "frente": "Negar ao paciente o acesso ao prontuário: o que diz a CFO-118/2012?",
+      "verso": "É infração ética negar acesso ao prontuário, deixar de dar cópia quando pedida ou de dar as explicações necessárias para entendê-lo (art. 18, I), salvo quando houver risco ao paciente ou a terceiros.",
+      "fonte": "cfo118",
+      "onde": "art. 18, I, p. 8"
+    },
+    {
+      "id": "f04",
+      "frente": "De quem é o prontuário, segundo o Vanrell?",
+      "verso": "A guarda é do dentista; o dono é o paciente, e ele pode pedir cópia autêntica para usar como prova em juízo.",
+      "fonte": "vanrell3-cap31",
+      "onde": "cap. 31, Documentação que deve constar do prontuário, pp. 219–220"
+    },
+    {
+      "id": "f05",
+      "frente": "Como o Vanrell diz que a documentação odontológica deve ser guardada?",
+      "verso": "Segundo o consenso que ele cita, \"sempiternamente\", pela forma e pelo mecanismo mais adequados ao profissional, e não descartada. No fim do capítulo, sugere digitalizar ou microfilmar, guardar os modelos de gesso pela imagem e manter arquivo morto remoto, sempre com sigilo.",
+      "fonte": "vanrell3-cap31",
+      "onde": "cap. 31, Guarda das informações, p. 222; Sugestões, p. 225"
+    },
+    {
+      "id": "f06",
+      "frente": "Três tipos de risco que o Vanrell manda informar no termo de consentimento?",
+      "verso": "Consequências certas (em todos os casos), riscos típicos (esperados em condições normais, inclusive os infrequentes de gravidade extrema) e riscos personalizados (da situação do paciente, em espaço em branco do documento).",
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Informação; Riscos, pp. 239–240"
+    },
+    {
+      "id": "f07",
+      "frente": "O consentimento pode ser revogado? Segundo o Vanrell, até quando?",
+      "verso": "A qualquer momento. Mas, no meio do procedimento, normas e obrigações profissionais podem obrigar a continuar para não expor o paciente a grande perigo.",
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Revogação do consentimento, pp. 241–242"
+    },
+    {
+      "id": "f08",
+      "frente": "Para que serve a alta por escrito, segundo o Vanrell?",
+      "verso": "Para marcar o início da contagem do prazo final de responsabilidade. Sem ela, o paciente pode alegar em juízo que a prótese ainda estava em teste dois anos depois, e o ônus de provar seria do profissional.",
+      "fonte": "vanrell3-cap33",
+      "onde": "cap. 33, Prazos para reclamar, pp. 233–234"
+    },
+    {
+      "id": "f09",
+      "frente": "O que o Daruge manda anotar no histórico clínico detalhado?",
+      "verso": "Data do atendimento, procedimento realizado, ocorrências, faltas ou atrasos, consultas remarcadas ou desmarcadas e acordos orais. Linguagem simples, sem abreviações e siglas, letra legível e tinta; o paciente rubrica ou assina a ciência.",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Histórico clínico detalhado, pp. 179–180"
+    },
+    {
+      "id": "f10",
+      "frente": "Exemplos de abandono do tratamento pelo paciente, nas cláusulas que o Daruge sugere?",
+      "verso": "Falta a três consultas consecutivas, independentemente da justificativa; ausência por mais de 30 dias corridos, salvo se acordado com o profissional; atraso de prestação por mais de 30 dias. O livro manda tentar contato, anotar os telefonemas e enviar carta registrada com aviso de recebimento.",
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Do abandono de tratamento; Carta de retorno, pp. 189–191"
+    },
+    {
+      "id": "f11",
+      "frente": "Justas causas do sigilo, no art. 14 do código de ética citado pelo Daruge?",
+      "verso": "Notificação compulsória de doença; colaboração com a justiça nos casos previstos em lei; perícia odontológica nos exatos limites; defesa de interesse legítimo dos profissionais; revelação de fato sigiloso ao responsável pelo incapaz.",
+      "fonte": "daruge1-cap05",
+      "onde": "cap. 5, Justa causa; Condições em que não há quebra de sigilo, pp. 44–49"
+    },
+    {
+      "id": "f12",
+      "frente": "Quatro pressupostos da responsabilidade civil do dentista, segundo o Daruge?",
+      "verso": "Ato profissional (ação ou omissão); imperícia, imprudência ou negligência; dano; e nexo causal entre o ato e o dano, que o livro chama de o mais relevante.",
+      "fonte": "daruge1-cap07",
+      "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil, pp. 75–77"
+    },
+    {
+      "id": "f13",
+      "frente": "O que o art. 951 do Código Civil faz com o profissional?",
+      "verso": "Manda aplicar os parâmetros de indenização dos arts. 948 a 950 ao profissional que, por negligência, imprudência ou imperícia, provoca morte, agravamento do mal, lesão ou incapacidade para o trabalho do paciente.",
+      "fonte": "cc2002",
+      "onde": "art. 951; arts. 948 a 950"
+    },
+    {
+      "id": "f14",
+      "frente": "Art. 206, § 3º, V do Código Civil: o que diz e o que não diz?",
+      "verso": "Prescreve em três anos a pretensão de reparação civil. O inciso não diz de que momento o prazo começa a correr.",
+      "fonte": "cc2002",
+      "onde": "art. 206, § 3º, V"
+    },
+    {
+      "id": "f15",
+      "frente": "Como o CDC manda apurar a responsabilidade pessoal do profissional liberal?",
+      "verso": "Mediante a verificação de culpa (art. 14, § 4º). O caput do art. 14 põe o fornecedor de serviços na responsabilidade independente de culpa.",
+      "fonte": "cdc1990",
+      "onde": "art. 14, caput e § 4º"
+    },
+    {
+      "id": "f16",
+      "frente": "O que traz o orçamento prévio do art. 40 do CDC?",
+      "verso": "Valores de mão de obra, materiais e equipamentos, forma de pagamento e quando começa e termina o serviço. Aprovado pelo consumidor, obriga os contraentes e só muda por livre negociação das partes (§ 2º).",
+      "fonte": "cdc1990",
+      "onde": "art. 40, caput e § 2º"
+    },
+    {
+      "id": "f17",
+      "frente": "Pela Lei 15.378/2026, o paciente pode retirar o consentimento depois de dado?",
+      "verso": "Sim: a qualquer tempo e sem sofrer represálias (art. 14, § 1º).",
+      "fonte": "lei15378-2026",
+      "onde": "art. 14, § 1º"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Na clínica, um aluno quer iniciar a restauração em um paciente que ainda não consentiu e que não está em urgência nem em emergência. Segundo a CFO-118/2012, art. 11, X, essa conduta é:",
+      "alternativas": [
+        {
+          "texto": "Permitida, porque o código só exige consentimento para procedimento cirúrgico.",
+          "correta": false,
+          "justificativa": "O inciso X fala em iniciar procedimento ou tratamento odontológico sem consentimento prévio; não limita a procedimento cirúrgico.",
+          "fonte": "cfo118",
+          "onde": "art. 11, X, pp. 5–6"
+        },
+        {
+          "texto": "Infração ética, porque o código exige o consentimento prévio do paciente ou do responsável, exceto em urgência ou emergência.",
+          "correta": true,
+          "justificativa": "É o texto do art. 11, X: iniciar procedimento ou tratamento sem o consentimento prévio é infração, exceto em urgência ou emergência, que o caso descartou.",
+          "fonte": "cfo118",
+          "onde": "art. 11, X, pp. 5–6"
+        },
+        {
+          "texto": "Permitida, se o paciente assinar o termo ao final da consulta.",
+          "correta": false,
+          "justificativa": "O inciso exige consentimento prévio, isto é, antes de iniciar; a assinatura posterior não o substitui.",
+          "fonte": "cfo118",
+          "onde": "art. 11, X, pp. 5–6"
+        },
+        {
+          "texto": "Infração apenas se o paciente sofrer dano comprovado.",
+          "correta": false,
+          "justificativa": "A infração do inciso X é iniciar o procedimento sem o consentimento prévio.",
+          "fonte": "cfo118",
+          "onde": "art. 11, X, pp. 5–6"
+        }
+      ],
+      "fonte": "cfo118",
+      "onde": "art. 11, X, pp. 5–6",
+      "secao": "cfo118-prontuario-consentimento",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Um profissional decide renunciar ao atendimento de um paciente que comparece a todas as consultas, porque a relação entre eles se deteriorou. Segundo a CFO-118/2012, art. 5º, V, o que ele deve fazer?",
+      "alternativas": [
+        {
+          "texto": "Avisar verbalmente na próxima consulta e encerrar o atendimento.",
+          "correta": false,
+          "justificativa": "O art. 5º, V exige comunicação prévia por escrito, não verbal.",
+          "fonte": "cfo118",
+          "onde": "art. 5º, V, pp. 1–2"
+        },
+        {
+          "texto": "Esperar três faltas consecutivas do paciente para caracterizar abandono.",
+          "correta": false,
+          "justificativa": "O art. 5º, V trata da renúncia do profissional e não depende de faltas do paciente; o paciente do caso não faltou.",
+          "fonte": "cfo118",
+          "onde": "art. 5º, V, pp. 1–2"
+        },
+        {
+          "texto": "Comunicar antes, por escrito, ao paciente ou responsável legal e passar ao sucessor as informações necessárias à continuidade.",
+          "correta": true,
+          "justificativa": "É o que o art. 5º, V pede: comunicação prévia por escrito e fornecimento das informações ao sucessor.",
+          "fonte": "cfo118",
+          "onde": "art. 5º, V, pp. 1–2"
+        },
+        {
+          "texto": "Entregar ao paciente o prontuário e nada mais, sem informar o sucessor.",
+          "correta": false,
+          "justificativa": "O art. 5º, V manda fornecer ao sucessor as informações necessárias à continuidade do tratamento.",
+          "fonte": "cfo118",
+          "onde": "art. 5º, V, pp. 1–2"
+        }
+      ],
+      "fonte": "cfo118",
+      "onde": "art. 5º, V, pp. 1–2",
+      "secao": "cfo118-prontuario-consentimento",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Numa consulta de planejamento de procedimento invasivo, o paciente está tranquilo e o termo de consentimento está pronto. Segundo o Vanrell, como apresentá-lo?",
+      "alternativas": [
+        {
+          "texto": "Entregar na sala de espera e colher a assinatura na hora, para ganhar tempo.",
+          "correta": false,
+          "justificativa": "O livro diz que o local adequado é sala ou consultório e que se deve evitar corredor, sala de espera e sala de exames.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Informação; Fatores da apresentação, pp. 239–240"
+        },
+        {
+          "texto": "Pedir à recepcionista que explique e colha a assinatura.",
+          "correta": false,
+          "justificativa": "O livro pede pessoa adequada: o profissional que indica ou que vai realizar o procedimento.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Informação; Fatores da apresentação, pp. 239–240"
+        },
+        {
+          "texto": "Colher a assinatura logo antes do procedimento, com o paciente já sedado.",
+          "correta": false,
+          "justificativa": "O livro manda evitar o momento em que o paciente esteja sedado, dolorido ou irritado.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Informação; Fatores da apresentação, pp. 239–240"
+        },
+        {
+          "texto": "Apresentar em sala, pelo profissional que indica ou realiza o procedimento, e dar ao paciente ao menos 24 horas, deixando que leve o documento para casa.",
+          "correta": true,
+          "justificativa": "Reúne os fatores do livro: local, pessoa e momento adequados e tempo para refletir, recomendado em ao menos 24 horas, com o documento levado para consultar a família.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Informação; Fatores da apresentação, pp. 239–240"
+        }
+      ],
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Informação; Fatores da apresentação, pp. 239–240",
+      "secao": "vanrell-termo",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Segundo o Vanrell, um paciente adulto chega inconsciente depois de um acidente, sem familiar, com urgência. Qual é a conduta quanto ao consentimento?",
+      "alternativas": [
+        {
+          "texto": "O profissional supre o consentimento até alguém assumir a decisão, e se limita ao que não pode ser retardado.",
+          "correta": true,
+          "justificativa": "O livro diz que, sem familiar que supra, o profissional pode suprir o consentimento, como na urgência, e que a intervenção se limita ao que não pode ser adiado.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Exceções ao princípio de necessidade do consentimento, p. 240"
+        },
+        {
+          "texto": "Esperar a autorização judicial antes de qualquer ato.",
+          "correta": false,
+          "justificativa": "O livro cita autorização judicial quando os parentes negam o consentimento e isso prejudica o paciente; no caso não há negativa, e na urgência o consentimento não é exigível.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Exceções ao princípio de necessidade do consentimento, p. 240"
+        },
+        {
+          "texto": "Aproveitar que o paciente está inconsciente para concluir todo o plano de tratamento pendente.",
+          "correta": false,
+          "justificativa": "Na urgência, o livro limita a intervenção ao necessário que não possa ser retardado; o que pode ser adiado fica de fora.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Exceções ao princípio de necessidade do consentimento, p. 240"
+        },
+        {
+          "texto": "Exigir o termo assinado por duas testemunhas antes de agir.",
+          "correta": false,
+          "justificativa": "Nos casos de urgência e emergência, o livro diz que o consentimento do paciente não é exigível.",
+          "fonte": "vanrell3-cap34",
+          "onde": "cap. 34, Exceções ao princípio de necessidade do consentimento, p. 240"
+        }
+      ],
+      "fonte": "vanrell3-cap34",
+      "onde": "cap. 34, Exceções ao princípio de necessidade do consentimento, p. 240",
+      "secao": "vanrell-termo",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Segundo o Daruge (cap. 7), o juiz inverte o ônus da prova em favor do paciente (art. 6º, VIII do CDC). O que passa a caber ao dentista demonstrar?",
+      "alternativas": [
+        {
+          "texto": "Que não agiu com culpa, ou que o defeito não existe, ou que o dano veio de culpa exclusiva do paciente ou de terceiro.",
+          "correta": true,
+          "justificativa": "É o que o livro diz que o dentista deve provar quando a inversão é decretada.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Inversão do ônus da prova, p. 84"
+        },
+        {
+          "texto": "Apenas que o paciente assinou o termo de consentimento.",
+          "correta": false,
+          "justificativa": "O livro recomenda ter os termos assinados para a defesa (p. 85), mas o que o dentista deve provar é a ausência de culpa, a inexistência do defeito ou a culpa exclusiva do paciente ou de terceiro (p. 84).",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Inversão do ônus da prova, pp. 84–85"
+        },
+        {
+          "texto": "Nada: a regra geral continua sendo a de que quem alega é quem prova.",
+          "correta": false,
+          "justificativa": "A regra geral é essa, mas, decretada a inversão, o livro põe nas mãos do dentista a produção das provas.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Inversão do ônus da prova, p. 84"
+        },
+        {
+          "texto": "Que o tratamento era obrigação de meio, porque o livro classifica as especialidades dessa forma.",
+          "correta": false,
+          "justificativa": "O livro diz que classificar uma especialidade de antemão como de meio ou de resultado é equivocado; a análise é caso a caso.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Inversão do ônus da prova, p. 84"
+        }
+      ],
+      "fonte": "daruge1-cap07",
+      "onde": "cap. 7, Inversão do ônus da prova, pp. 84–85",
+      "secao": "daruge-onus-prazos",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "A perícia concluiu que a lesão de um paciente decorreu de caso fortuito e não tem relação com o ato do dentista. Segundo o Daruge, cap. 7, o dentista responde civilmente?",
+      "alternativas": [
+        {
+          "texto": "Sim, porque o paciente é consumidor e o CDC dispensa qualquer prova.",
+          "correta": false,
+          "justificativa": "O livro diz que o nexo causal é pressuposto das duas modalidades, objetiva e subjetiva; sem relação com o ato, o dano é de terceiro, da vítima, de caso fortuito ou força maior.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil; Nexo de causalidade, pp. 75–77"
+        },
+        {
+          "texto": "Sim, porque houve dano e o resultado desagradou o paciente.",
+          "correta": false,
+          "justificativa": "O dano é um pressuposto, mas o livro exige também o nexo causal entre o ato e o dano.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil; Nexo de causalidade, pp. 75–77"
+        },
+        {
+          "texto": "Sim, se não houver termo de consentimento assinado no prontuário.",
+          "correta": false,
+          "justificativa": "O livro recomenda o termo, mas não o apresenta como pressuposto da responsabilidade; o pressuposto que falta no caso é o nexo.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil; Nexo de causalidade, pp. 75–77"
+        },
+        {
+          "texto": "Não, porque falta o nexo causal entre o ato profissional e o dano.",
+          "correta": true,
+          "justificativa": "O livro diz que, se o dano não tem relação com o ato, decorreu de terceiro, da vítima, de caso fortuito ou de força maior, hipóteses que eximem a responsabilidade.",
+          "fonte": "daruge1-cap07",
+          "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil; Nexo de causalidade, pp. 75–77"
+        }
+      ],
+      "fonte": "daruge1-cap07",
+      "onde": "cap. 7, Pressupostos que caracterizam a responsabilidade civil; Nexo de causalidade, pp. 75–77",
+      "secao": "daruge-responsabilidade",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Depois de atender um paciente com doença de notificação compulsória, quatro pessoas pedem informações: o cônjuge, um colega que quer discutir o caso sem dizer o nome mas contando detalhes que identificam o paciente, a autoridade sanitária e o empregador do paciente, que telefona sem autorização dele. Segundo o Daruge, qual revelação tem respaldo como justa causa?",
+      "alternativas": [
+        {
+          "texto": "Contar ao cônjuge, que está preocupado.",
+          "correta": false,
+          "justificativa": "O livro dá a revelação ao cônjuge como exemplo de revelação direta, que viola o segredo.",
+          "fonte": "daruge1-cap05",
+          "onde": "cap. 5, Condições em que não há quebra de sigilo profissional; Elementos que caracterizam a violação, pp. 48–49"
+        },
+        {
+          "texto": "Discutir o caso com o colega, sem o nome, mas com os detalhes.",
+          "correta": false,
+          "justificativa": "O livro chama de revelação indireta contar fatos tão minuciosos que permitem identificar o paciente.",
+          "fonte": "daruge1-cap05",
+          "onde": "cap. 5, Condições em que não há quebra de sigilo profissional; Elementos que caracterizam a violação, pp. 48–49"
+        },
+        {
+          "texto": "Comunicar à autoridade sanitária a doença de notificação compulsória.",
+          "correta": true,
+          "justificativa": "A notificação compulsória de doença é justa causa, no art. 14, parágrafo único do código de ética, como o livro o cita.",
+          "fonte": "daruge1-cap05",
+          "onde": "cap. 5, Condições em que não há quebra de sigilo profissional; Elementos que caracterizam a violação, pp. 48–49"
+        },
+        {
+          "texto": "Responder ao empregador do paciente, por telefone.",
+          "correta": false,
+          "justificativa": "A revelação a pedido do paciente exige pedido por escrito e consentimento esclarecido, sendo ele maior e capaz (cap. 5, p. 47); a justa causa é a lista do art. 14, parágrafo único do código de ética, que o livro cita (p. 48), e o empregador não está nela.",
+          "fonte": "daruge1-cap05",
+          "onde": "cap. 5, Condições em que não há quebra de sigilo profissional, pp. 47–48"
+        }
+      ],
+      "fonte": "daruge1-cap05",
+      "onde": "cap. 5, Condições em que não há quebra de sigilo profissional; Elementos que caracterizam a violação, pp. 47–49",
+      "secao": "daruge-sigilo",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Segundo o Daruge, o que o histórico clínico detalhado deve trazer de cada atendimento, por exemplo de uma consulta em que você restaurou um dente?",
+      "alternativas": [
+        {
+          "texto": "Só o nome do dente e do material, em siglas padronizadas, sem assinatura do paciente.",
+          "correta": false,
+          "justificativa": "O livro pede a data, o procedimento realizado e as ocorrências, em linguagem simples, sem abreviações e siglas, e a rubrica ou assinatura do paciente.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Histórico clínico detalhado, p. 179"
+        },
+        {
+          "texto": "A data, o procedimento realizado e as ocorrências, em linguagem simples e sem siglas, com a rubrica do paciente, ciente do atendimento.",
+          "correta": true,
+          "justificativa": "É o que o livro pede para o histórico clínico detalhado; ele não traz modelo próprio de nota para a restauração.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Histórico clínico detalhado, p. 179"
+        },
+        {
+          "texto": "Só as intercorrências; o que correu como planejado fica de fora.",
+          "correta": false,
+          "justificativa": "O livro pede o procedimento realizado e as ocorrências, na data do atendimento.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Histórico clínico detalhado, p. 179"
+        },
+        {
+          "texto": "O que o paciente combinou de palavra não se anota, para não contradizer o contrato.",
+          "correta": false,
+          "justificativa": "O livro manda anotar todos os \"acordos orais\" com o paciente.",
+          "fonte": "daruge1-cap12",
+          "onde": "cap. 12, Histórico clínico detalhado, p. 179"
+        }
+      ],
+      "fonte": "daruge1-cap12",
+      "onde": "cap. 12, Histórico clínico detalhado, p. 179",
+      "secao": "daruge-registro-restauradora",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Segundo o Vanrell (cap. 33), por que o dentista deve pedir ao paciente que assine a alta?",
+      "alternativas": [
+        {
+          "texto": "Porque a alta assinada encerra o dever de guardar o prontuário.",
+          "correta": false,
+          "justificativa": "O livro recomenda guardar registros e provas por toda a vida profissional, e até depois dela.",
+          "fonte": "vanrell3-cap33",
+          "onde": "cap. 33, Prazos para reclamar, pp. 233–234"
+        },
+        {
+          "texto": "Para marcar o início do prazo final de responsabilidade, evitando que o paciente alegue em juízo que o trabalho ainda estava em teste.",
+          "correta": true,
+          "justificativa": "O livro diz que a alta marca a contagem do prazo e que, sem ela, o paciente pode alegar prótese em teste dois anos depois, com ônus de prova do profissional.",
+          "fonte": "vanrell3-cap33",
+          "onde": "cap. 33, Prazos para reclamar, pp. 233–234"
+        },
+        {
+          "texto": "Porque a alta assinada elimina a responsabilidade por vício oculto.",
+          "correta": false,
+          "justificativa": "No vício oculto, o prazo começa quando o defeito se evidencia, como mostra o exemplo do canal mal obturado que agudiza depois.",
+          "fonte": "vanrell3-cap33",
+          "onde": "cap. 33, Prazos para reclamar, pp. 233–234"
+        },
+        {
+          "texto": "Porque substitui o termo de consentimento esclarecido.",
+          "correta": false,
+          "justificativa": "O livro trata a alta como assunto de prazo; o consentimento e o contrato são outros documentos.",
+          "fonte": "vanrell3-cap33",
+          "onde": "cap. 33, Prazos para reclamar, pp. 233–234"
+        }
+      ],
+      "fonte": "vanrell3-cap33",
+      "onde": "cap. 33, Prazos para reclamar, pp. 233–234",
+      "secao": "vanrell-cdc-prazos",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Segundo Stefanac e Nesbit (livro dos EUA), um paciente tem alergia relevante e deve evitar epinefrina, e você vai restaurar um dente dele. Como registrar essa informação?",
+      "alternativas": [
+        {
+          "texto": "Só na nota da consulta em que ela apareceu.",
+          "correta": false,
+          "justificativa": "O livro manda pôr a condição em lugar de destaque no prontuário.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Documentation, p. 22"
+        },
+        {
+          "texto": "Só se o paciente perguntar.",
+          "correta": false,
+          "justificativa": "O livro manda pôr em lugar de destaque no prontuário a condição que afete de modo significativo o tratamento.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Documentation, p. 22"
+        },
+        {
+          "texto": "Em lugar de destaque no prontuário, porque alergia, risco de vida ou problema de saúde que mude o tratamento deve ficar bem à vista.",
+          "correta": true,
+          "justificativa": "É o que o livro diz, e dá como exemplos as alergias e a necessidade de evitar epinefrina.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Documentation, p. 22"
+        },
+        {
+          "texto": "Em um campo livre de observações, no fim da ficha.",
+          "correta": false,
+          "justificativa": "O livro pede lugar de destaque no prontuário para a condição que possa afetar de modo significativo o tratamento.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Documentation, p. 22"
+        }
+      ],
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Documentation, p. 22",
+      "secao": "stefanac-nota-de-tratamento",
+      "figura": null
+    },
+    {
+      "id": "q11",
+      "enunciado": "Uma clínica de ensino guarda prontuários em papel e quer saber o que a Lei 13.787/2018 diz sobre eliminá-los. Segundo o art. 6º da lei, a partir de quando um prontuário em papel pode ser eliminado?",
+      "alternativas": [
+        {
+          "texto": "Vinte anos depois da abertura do prontuário.",
+          "correta": false,
+          "justificativa": "O art. 6º conta o prazo a partir do último registro, não da abertura do prontuário.",
+          "fonte": "lei13787-2018",
+          "onde": "art. 6º, caput"
+        },
+        {
+          "texto": "Dez anos depois do último registro.",
+          "correta": false,
+          "justificativa": "O art. 6º fala em prazo mínimo de 20 anos, não de 10.",
+          "fonte": "lei13787-2018",
+          "onde": "art. 6º, caput"
+        },
+        {
+          "texto": "Vinte anos depois do último registro.",
+          "correta": true,
+          "justificativa": "É o prazo mínimo do caput do art. 6º: decorridos 20 anos a partir do último registro, os prontuários em papel e os digitalizados podem ser eliminados.",
+          "fonte": "lei13787-2018",
+          "onde": "art. 6º, caput"
+        },
+        {
+          "texto": "Vinte anos depois do último registro, mas só se o prontuário tiver sido digitalizado.",
+          "correta": false,
+          "justificativa": "O caput do art. 6º vale para os prontuários em suporte de papel e para os digitalizados; a digitalização não é condição para o prazo.",
+          "fonte": "lei13787-2018",
+          "onde": "art. 6º, caput"
+        }
+      ],
+      "fonte": "lei13787-2018",
+      "onde": "art. 6º, caput",
+      "secao": "lei13787-guarda",
+      "figura": null
+    }
+  ]
+}

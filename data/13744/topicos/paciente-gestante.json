@@ -19,6 +19,11 @@
       "id": "varellis3-cap14",
       "ref": "Varellis MLZ (org.). O Paciente com Necessidades Especiais na Odontologia: Manual Prático. 3ª ed. Rio de Janeiro: Guanabara Koogan; 2017. Cap. 14, Gestantes, p. 115–128 (numeração da edição digital).",
       "curta": "Varellis (manual) 3ª ed., cap. 14"
+    },
+    {
+      "id": "ada2024rx",
+      "ref": "Benavides E, Krecioch JR, Connolly RT, et al. Optimizing radiation safety in dentistry: clinical recommendations and regulatory considerations. J Am Dent Assoc. 2024;155(4):280–293.e4 (recomendações de um painel de especialistas da ADA; texto integral no site do JADA, lido em 27/11/2026). Documento dos EUA.",
+      "curta": "ADA 2024, segurança em radiologia (EUA)"
     }
   ],
   "resumo": [
@@ -140,6 +145,13 @@
       "fonte": "varellis3-cap14",
       "onde": "cap. 14, Gestantes, Radiação, p. 118–119; Cuidados necessários, p. 122; Prevenção para o bebê, p. 128",
       "texto": "**Fonte: manual prático organizado por Varellis, cap. 14.** Numeração da edição digital; fronteira entre páginas não confirmada.\n\n**Doses que o manual cita (atribuídas ao National Council of Radiologic Protection, órgão dos EUA, como o Little e Falace o identifica):**\n- uma dose de **50 mGy** oferece ao feto risco de dano desprezível;\n- com **100 mGy** o risco aumenta em 1:100 expostos;\n- para absorver essa dose, a gestante precisaria de seis tomografias computadorizadas da pelve;\n- outra referência do manual (British Columbia Ministry e Nuclear Regulatory Commission): a radiação absorvida pelo feto não deve exceder 5 rads.\n\n**Conduta:** avalie risco e benefício antes de qualquer exame e use a radiografia apenas quando necessária. Com indicação, use avental de chumbo e proteção cervical; o manual diz que, assim, o exame não é contraindicado. A radiografia digital é mais segura, por radiação menor que a das convencionais. A radiossensibilidade é maior nas células em mitose, com metabolismo aumentado e em estágios embrionários.\n\n**O manual traz os dois lados:** na p. 122, ao tratar dos cuidados, manda evitar radiografias no 1º trimestre (embriogênese) e usar o avental de chumbo em qualquer fase; na p. 119, diz que, com indicação e proteção, o exame não é contraindicado.\n\n**Períodos críticos para o dente e o resto do feto:** o manual cita o período crítico das duas primeiras semanas após a fertilização até o 60º dia (8 semanas, organogênese). A dentição decídua começa a formar-se a partir da 6ª semana e os permanentes a partir do 5º mês intrauterino; medicamentos, infecções e carências nutricionais podem alterar a formação e a mineralização."
+    },
+    {
+      "id": "dir-eua-2024-protecao",
+      "titulo": "Diretriz dos EUA posterior aos livros: proteção do paciente na radiografia (ADA, 2024)",
+      "fonte": "ada2024rx",
+      "onde": "Box 2, seção 3 (Patient Safety and Protection), recomendação 3.0.5, e o texto Patient Protection and Shielding",
+      "texto": "Esta seção traz uma diretriz **dos EUA**, posterior aos três livros do tema. Em 2024, um painel de especialistas da American Dental Association (ADA), associação dos EUA, publicou no *Journal of the American Dental Association* recomendações de segurança em radiologia odontológica. As seções anteriores continuam dizendo o que cada livro diz.\n\n**O que os livros dizem.** O Little e Falace (autores dos EUA) recomenda avental de chumbo e protetor de tireoide e os destaca como os recursos mais importantes na radiografia da gestante. O Andrade fala em avental de chumbo e colar cervical; o manual organizado por Varellis, em avental de chumbo e proteção cervical.\n\n**O que a diretriz de 2024 diz.** A proteção (shielding) de tireoide e abdome não é mais recomendada de rotina em imagem intraoral, panorâmica, cefalométrica e de tomografia computadorizada de feixe cônico (recomendação 3.0.5). Segundo o artigo, o colar de tireoide e a proteção abdominal podem bloquear o feixe primário e gerar artefatos, o que pode levar a radiografias adicionais, e não protegem contra a radiação espalhada interna (internal scatter radiation). A melhor proteção da tireoide vem da seleção do paciente e da colimação retangular nas radiografias intraorais, com bom posicionamento.\n\n**Gestante.** O artigo fala de pacientes pediátricos e adultos e **não trata da gestante em particular**. Esta seção não estende a recomendação a ela. Livros e diretriz ficam lado a lado, e o tema não escolhe entre eles."
     },
     {
       "id": "varellis-medicamentos",

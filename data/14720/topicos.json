@@ -108,11 +108,11 @@
     },
     {
       "slug": "radiografias-intrabucais",
-      "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação básica",
+      "titulo": "Radiografia periapical e interproximal: técnica, erros e interpretação",
       "area": "Radiologia",
-      "resumoCurto": "Base de diagnóstico em todas as especialidades",
-      "status": "em-breve",
-      "origem": "Proposto (a partir de livro-texto)",
+      "resumoCurto": "Paralelismo, bissetriz, interproximal e oclusal: técnica, erros, proteção e escolha do exame, pelo White e Pharoah.",
+      "status": "em-revisao",
+      "origem": "White e Pharoah, Radiologia Oral, 8ª ed., caps. 3, 4, 5, 6, 7, 17 e 18",
       "compartilhadoDe": "13735"
     }
   ]

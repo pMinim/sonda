@@ -1,0 +1,680 @@
+{
+  "slug": "raciocinio-diagnostico-e-lista-de-problemas",
+  "titulo": "Do caso ao diagnóstico: lista de diagnósticos e problemas",
+  "area": "Clínica Integrada",
+  "origem": "Stefanac e Nesbit 3ª ed., caps. 1 a 3; consenso de 2018 (Tonetti et al.); Cohen 12ª ed., cap. 1",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "stefanac3-cap01",
+      "ref": "Stefanac SJ, Nesbit SP (eds.). Diagnosis and Treatment Planning in Dentistry. 3rd ed. St Louis: Elsevier; 2017. Ch. 1, Patient Evaluation and Assessment (Stefanac SJ, Fontana M), p. 2–23 (numeração impressa do livro). Livro dos EUA, em inglês.",
+      "curta": "Stefanac 3ª ed., cap. 1 (EUA)"
+    },
+    {
+      "id": "stefanac3-cap02",
+      "ref": "Stefanac SJ, Nesbit SP (eds.). Diagnosis and Treatment Planning in Dentistry. 3rd ed. St Louis: Elsevier; 2017. Ch. 2, Common Diagnoses in Dentistry (Nesbit SP, Broome AM, Geist JR), p. 24–71 (numeração impressa do livro).",
+      "curta": "Stefanac 3ª ed., cap. 2"
+    },
+    {
+      "id": "stefanac3-cap03",
+      "ref": "Stefanac SJ, Nesbit SP (eds.). Diagnosis and Treatment Planning in Dentistry. 3rd ed. St Louis: Elsevier; 2017. Ch. 3, Evidence-Based Treatment Planning: Assessment of Risk, Prognosis, and Expected Treatment Outcomes (Gerdts G, Nesbit SP, Marchini L), p. 73–103 (numeração impressa do livro).",
+      "curta": "Stefanac 3ª ed., cap. 3"
+    },
+    {
+      "id": "tonetti2018",
+      "ref": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(Suppl 20):S149–S161.",
+      "curta": "Tonetti et al. 2018"
+    },
+    {
+      "id": "cohen12-cap1",
+      "ref": "Berman LH, Hargreaves KM, Rotstein I (eds.). Cohen: Caminhos da Polpa. 12ª ed. Cap. 1, Diagnóstico (Berman LH, Rotstein I), p. 2–31.",
+      "curta": "Cohen 12ª ed., cap. 1"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "caminho",
+      "titulo": "O caminho do achado ao diagnóstico",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Overview of the Diagnostic Process, Box 1-1, Fig. 1-2, pp. 2–3",
+      "texto": "Segundo o Stefanac e Nesbit (livro dos EUA, em inglês), todo plano parte da **base de dados do paciente** (patient database). Cada informação que o exame traz para ela é um **achado** (finding).\n\n**Três tipos de achado, como o livro os define:**\n- **sinal** (sign): o dentista o descobre no exame. Exemplo do livro: tornozelos inchados e dificuldade de respirar reclinado;\n- **sintoma** (symptom): o paciente o relata, em geral porque o incomoda (dor, inchaço, dente quebrado, sangramento gengival);\n- **queixa principal** (chief complaint ou chief concern): o sintoma que se torna o motivo de procurar tratamento.\n\n**Nem todo achado é significativo.** O clínico avalia cada um sozinho e em conjunto com os outros. Exemplo do livro: estar em tratamento de hipertensão talvez não pese sozinho; com pressão de 180/110 mm Hg, pesa mais, e surgem perguntas (a pressão está controlada? o paciente toma o remédio com regularidade?). O livro admite que separar o significativo do insignificante é difícil para estudante e recém-formado e que a experiência ajuda.\n\n**Quatro categorias de informação**, na ordem do texto: história do paciente, exame clínico, exame radiográfico e outros auxiliares diagnósticos. O fluxograma da Fig. 1-2 leva da coleta à avaliação dos achados e aos achados significativos, e daí à lista de diagnósticos do paciente, com seta nos dois sentidos entre os achados significativos e a lista. As duas ordens não coincidem: na lista de coleta da figura, o exame radiográfico vem antes do clínico. O tema registra as duas, sem escolher.\n\n**Tipos de exame** (Box 1-1): o **abrangente** (comprehensive), para o paciente novo sem urgência; o **periódico** (periodic), nas consultas de retorno; o **focado no problema** (problem-focused), limitado a uma queixa específica.\n\n**Atenção:** o livro aconselha com ênfase não propor tratamento antes de montar e analisar toda a base de dados. Se o paciente perguntar no meio do exame se o dente se salva e quanto vai custar, responder \"sim\" e \"em duas consultas\" pode virar constrangimento quando as radiografias mostrarem cárie extensa. A conduta do livro é lembrar, com gentileza, que o exame ainda não terminou e que com mais informação a resposta será melhor.\n\nO registro do exame e dos diagnósticos no prontuário está no tema «Prontuário odontológico, termo de consentimento e responsabilidade legal»."
+    },
+    {
+      "id": "entrevista",
+      "titulo": "Entrevista e questionário: como obter a história",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Patient History, Techniques for Obtaining the History, Principles for Effective Interviewing, pp. 3–5",
+      "texto": "O livro traz dois métodos principais para a história: **questionários e formulários** e **entrevista**. O método secundário é pedir informação a outro profissional de saúde.\n\n**Questionário.** Poupa tempo, não exige habilidade especial e padroniza a coleta. Limites que o livro aponta: só se obtém resposta ao que foi perguntado; um \"sim\" não mostra a gravidade; o paciente pode entender mal a pergunta; e é mais fácil falsear ou omitir no formulário do que na entrevista. Por isso as respostas positivas do questionário de saúde são investigadas na conversa.\n\n**Entrevista.** A vantagem é adaptar as perguntas ao paciente. Há dois tipos de pergunta:\n- **abertas** (open questions): não se respondem com sim ou não e pedem opinião, experiência ou sentimento. Exemplos do livro (aqui em português): \"Em que posso ajudar?\" e \"O que fez o senhor procurar atendimento hoje?\";\n- **fechadas** (closed questions): respondem-se com uma ou duas palavras e servem para esclarecer fatos. Exemplos do livro (em português): \"Dói algum dente?\", \"Tem alguma coisa incomodando agora?\" e \"Faz muito tempo que o senhor não vai ao dentista?\".\n\nA regra do livro: ao investigar um problema, abra com perguntas abertas e use depois as fechadas para os detalhes. Para pedir a queixa principal, o livro prefere a pergunta aberta às fechadas.\n\n**Princípios da boa entrevista.** Os seis abaixo são parte dos nove da caixa In Clinical Practice (p. 5) e valem já no primeiro atendimento:\n1. sente de frente para o paciente, com a cadeira na vertical e os olhos na altura dos olhos dele;\n2. se ele hesitar ou não responder, explique por que a pergunta é feita;\n3. seja objetivo e imparcial: o objetivo é reunir e avaliar fatos, não influenciá-los;\n4. ouça mais do que fale (a \"golden rule\" da entrevista, nas palavras do livro);\n5. perceba a comunicação não verbal, como braços cruzados ou olhar desviado;\n6. no fim, resuma o que aprendeu para confirmar que está certo.\n\n**Atenção:** o livro lembra que a informação do paciente é confidencial para toda a equipe do consultório."
+    },
+    {
+      "id": "componentes-historia",
+      "titulo": "Componentes da história: queixa, saúde geral, medicamentos e hábitos",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Patient History, Components of a Patient History, Table 1-1, pp. 5–10",
+      "texto": "**Queixa principal e história da queixa.** Pergunte de forma aberta e registre a queixa **entre aspas**, para mostrar que são palavras do paciente. A história da queixa (history of present illness, HPI) vem do paciente, com pouco estímulo. Exemplo do livro: queixa \"meu dente dói\"; história: dor surda no quadrante inferior direito, crescente nos últimos 4 dias, pior com quente e mastigação, sem alívio com aspirina.\n\n**Regra de ouro:** resolver a queixa principal o mais cedo possível. Paciente novo com dor: o livro admite suspender o exame abrangente, focar no problema, fazer o diagnóstico e, muito provavelmente, começar o tratamento. Queixa muito geral (\"preciso mastigar melhor\") pede que o clínico a dissecte: o que parece o problema pode ser algo mais complexo.\n\n**História de saúde geral.** Rever doenças físicas e psiquiátricas, passadas e atuais. Como muitos pacientes veem o dentista com mais frequência que o médico, o livro pede usar a história e o exame físico para rastrear doenças importantes, como hipertensão e diabetes. A **revisão de sistemas** (review of systems, Table 1-1, p. 9) lista o que procurar em cada sistema: por exemplo, no cardiovascular, hipertensão, dor torácica e falta de ar; no endócrino, diabetes e problemas de tireoide; no alérgico, alergia a medicamentos.\n\n**Medicamentos.** Inclua os prescritos e os sem receita, mais fitoterápicos, vitaminas e suplementos. A lista pode corroborar a história ou sugerir doença nova, e alguns medicamentos são, por si, motivo para limitar, adiar ou modificar o tratamento.\n\n**História pessoal.** Ocupação, hábitos, recursos financeiros, tempo disponível e transporte pesam em como o plano é feito. Na nutrição, o objetivo é saber o nível de carboidratos fermentáveis. Para tabaco, quantifique: para o fumante de cigarro, maços por dia vezes anos de fumo (meio maço por dia durante 10 anos dá 5 pack-year, p. 10).\n\n**História bucal.** Data do último exame, frequência das consultas, tratamentos recebidos e problemas no atendimento (síncope, ansiedade, reação a fármaco). A frequência é um preditor de quão bem o paciente seguirá as novas recomendações. A idade de uma restauração suspeita informa a qualidade do trabalho anterior e o prognóstico do novo. Pergunte o motivo e a data de cada dente ausente."
+    },
+    {
+      "id": "sinais-e-tecidos",
+      "titulo": "Exame físico, sinais vitais e tecidos moles",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Clinical Examination, Physical Examination, Vital Signs, Soft Tissue Examination, Table 1-2, Box 1-2, pp. 10–12",
+      "texto": "O exame clínico abrangente reúne achados de cinco áreas: exame físico, tecidos moles intra e extraorais, exame periodontal, exame dos dentes e exame radiográfico.\n\n**Exame físico.** O clínico geral faz um exame limitado: postura e marcha, pele exposta, sinais vitais, cognição e fala. Ele procura variações do normal que não estejam em manejo médico. Exemplos do livro: dificuldade de caminhar pode indicar osteoartrite ou problema neurológico; aspecto de pele, cabelo e olhos pode sugerir anemia, hipotireoidismo ou hepatite. Esses sinais, junto com a história, podem levar a encaminhar ao médico.\n\n**Sinais vitais.** Pressão e pulso em todo exame de paciente novo e nos periódicos; no início de toda consulta de quem trata pressão alta, tireoide ou coração; muitos clínicos medem a pressão em toda consulta com anestésico local ou sedativo.\n- **Pressão:** a Table 1-2 traz alvos para adultos, de uma diretriz dos EUA de 2014 citada pelo livro: idade a partir de 60 anos, abaixo de 150/90 mm Hg; abaixo de 60 anos, abaixo de 140/90 mm Hg; também abaixo de 140/90 mm Hg em maiores de 18 anos com doença renal crônica ou diabetes. Pressão baixa em geral não é significativa, a menos que haja outro problema de saúde ou tontura e desmaio.\n- **Pulso:** frequência normal de 60 a 80 batimentos por minuto, de caráter forte. A palpação da artéria radial dá também a regularidade e a força. Pulso de 80 a 100 pode refletir ansiedade, fumo recente ou exercício. Pulso anormal sem explicação pela história ou pelas circunstâncias pode ser significativo.\n- **Temperatura e respiração** não são medidas de rotina. Respiração do adulto: 12 a 20 por minuto.\n\n**Tecidos moles.** O exame extraoral é feito com o paciente sentado ereto: forma e simetria da face, pele, ATM, olhos, orelhas, nariz, glândulas salivares maiores, linfonodos e tireoide. O intraoral cobre lábios, mucosa jugal e vestíbulo, língua, assoalho, glândulas salivares, palato e orofaringe.\n\nPara descrever uma lesão, o Box 1-2 lista 11 características: localização, tamanho, cor, forma, bordas, contorno, textura, consistência, drenagem ou sangramento, blanching com pressão e fixa ou móvel.\n\nO significado de um achado pode exigir mais avaliação ou biópsia. Uma pequena ulceração comum pode ser observada por 5 a 10 dias. Sol repetido, tabaco ou álcool elevam a significância (Fig. 1-8: carcinoma de células escamosas (squamous cell carcinoma) na língua de paciente que usou tabaco por mais de 30 anos)."
+    },
+    {
+      "id": "periodontal",
+      "titulo": "Exame periodontal e a ficha periodontal",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Periodontal Examination, Figs. 1-9 a 1-11, In Clinical Practice (PSR), pp. 12–14",
+      "texto": "O livro começa o exame periodontal por uma visão geral: higiene bucal, placa e restos alimentares, inflamação e margens gengivais enroladas. A solução evidenciadora mostra placa e cálculo, mas é melhor usá-la no **fim** do exame, para ver o tecido na cor natural.\n\nEm seguida, cada dente é checado quanto a **mobilidade** excessiva, que pode ligar-se a perda de inserção ou a trauma de oclusão. Radiografias e profundidades de sondagem mostram o nível de suporte.\n\n**A ficha periodontal de boca toda** (Fig. 1-9) reúne: profundidades de sondagem; margem gengival; sangramento à sondagem e recessão; problemas mucogengivais, como falta de tecido queratinizado; inserção anormal de freio; e presença, local e extensão de envolvimento de furca.\n\n**Profundidade de bolsa não é perda de inserção.** As Figs. 1-10 e 1-11 mostram que a mesma profundidade de bolsa pode vir com quantidades diferentes de recessão e de perda de inserção, e que bolsas de profundidades diferentes podem ter a mesma perda de inserção. Cada medida diz uma coisa.\n\n**Triagem com o periodontal screening and recording (PSR)**, descrito na caixa da p. 14. A ADA e a American Academy of Periodontology, dos EUA, o apresentaram em 1992 como sistema de triagem para adultos:\n- uma sonda periodontal especial é \"caminhada\" pelo sulco, com leitura em seis sítios por dente;\n- cada sextante recebe um escore de 0 a 4, pela sondagem mais profunda do sextante;\n- um asterisco ao lado do escore indica invasão de furca, mobilidade, problema mucogengival ou recessão maior que 3,5 mm.\n\nO PSR é feito em poucos minutos e ajuda a decidir se vale uma coleta periodontal mais abrangente. Com os escores, o clínico geral decide se trata o paciente ou o encaminha ao periodontista.\n\nPara a classificação periodontal usada neste app, veja a seção sobre o consenso de 2018 e o tema «Periodontite: estágio, grau e extensão»."
+    },
+    {
+      "id": "dentes-oclusao",
+      "titulo": "Exame dos dentes e da oclusão",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Examination of the Teeth, Occlusal Examination, Fig. 1-12, pp. 13–15",
+      "texto": "**Dentes limpos e secos.** Com muita placa e cálculo, o livro sugere um exame sumário da dentição, iniciar o tratamento periodontal para limpar os dentes e pedir que o paciente volte para terminar o exame. Secar um sextante com ar e, se preciso, isolar com roletes de algodão evita perder achados significativos (Fig. 1-13).\n\n**Instrumentos à mão** (Fig. 1-12): régua, espelho, explorador, sonda periodontal, pinça de Miller e papel articular, pinça de algodão, roletes e gaze, seringa de ar e água, fio dental e espátula de madeira. Testador pulpar elétrico e spray refrigerante ajudam a avaliar a vitalidade de cada dente. A lupa é opcional, mas muito desejável para sinais precoces de doença.\n\n**Sequência.** Antes de começar, revise as radiografias para correlacionar achados radiográficos e clínicos. Avalie cada dente em ordem, em geral do maxilar direito ao mandibular esquerdo, e:\n1. registre tipo e extensão das restaurações existentes;\n2. anote dentes ausentes e avalie as substituições, perguntando a história de cada ausência;\n3. use fio dental para conferir cada contato proximal;\n4. em dente vital com restauração grande ou sintomático, faça percussão e teste a quente e a frio ou elétrico;\n5. por fim, avalie a condição geral: cor, morfologia e função.\n\nPergunte também sobre incômodos com a aparência (descoloração, apinhamento, diastemas, forma e tamanho). Perda de esmalte por ácido é **erosão**, mais comum por fonte alimentar e, menos, por refluxo gástrico (Fig. 1-14). Desgaste anormal por função excessiva é **atrição**, muitas vezes por bruxismo (Fig. 1-15).\n\n**Oclusão.** Veja a dentição como um todo antes de cada dente. Cada arco em separado: desvio da linha média, cristas marginais niveladas, dentes extruídos ou intruídos, migração para espaços edêntulos, desgaste excessivo. Na máxima intercuspidação, avalie sobremordida e sobressaliência, anote a classificação de Angle, mordida aberta e cruzada. Em lateralidade e protrusão, veja quais dentes guiam a oclusão e procure interferências. Na ATM, pergunte por dor, procure estalos e crepitação, anote desvio na abertura e peça a abertura máxima. O livro pede investigação mais detalhada se há dor, incapacidade de mastigar ou abertura menor que 30 mm.\n\nOs testes pulpares e periapicais estão no tema «Diagnóstico pulpar e periapical: testes e decisão»."
+    },
+    {
+      "id": "carie-visual",
+      "titulo": "Cárie: detecção e avaliação",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Examination of the Teeth, Caries Assessment, p. 15",
+      "texto": "O Stefanac e Nesbit separa dois passos no exame da cárie: a **detecção** (identificar as lesões existentes) e a **avaliação** (caracterizar a gravidade depois de detectadas). Os critérios visuais, o ICDAS, a radiografia interproximal e a atividade da lesão estão no tema «Detecção de cárie: critérios visuais (ICDAS), radiografia interproximal e atividade da lesão»."
+    },
+    {
+      "id": "radiografia-indicacao",
+      "titulo": "Radiografia: quando pedir e qual pedir",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Radiographic Examination, Box 1-3, Table 1-3, pp. 17–19",
+      "texto": "Antes de pedir qualquer radiografia, revise a história de saúde bucal e faça o exame clínico. Quando possível, obtenha as radiografias do dentista anterior, em especial as de menos de 3 anos. O tipo depende da idade, dos achados clínicos e da história. Radiografia só se faz quando os benefícios diagnósticos superam os riscos da radiação ionizante.\n\n**Table 1-3.** O livro reproduz recomendações dos EUA (ADA e FDA, 2012), que dependem do julgamento clínico e se usam depois da história e do exame clínico. Ao decidir fazer a radiografia, cabe ao dentista seguir o princípio **ALARA** (As Low As Reasonably Achievable). Exemplos para adulto dentado ou parcialmente edêntulo:\n- **paciente novo**: exame individualizado, com interproximais posteriores e panorâmica, ou interproximais e periapicais selecionadas; exame intraoral de boca toda é o preferido se há doença bucal generalizada ou história de tratamento extenso;\n- **retorno com cárie clínica ou risco aumentado de cárie**: interproximais posteriores a cada 6 a 18 meses;\n- **retorno sem cárie e sem risco aumentado**: interproximais posteriores a cada 24 a 36 meses;\n- **retorno com doença periodontal**: julgamento clínico sobre a necessidade e o tipo de imagem.\n\n**Tipos de radiografia, no uso do clínico geral:**\n- **periapical**: mostra o dente inteiro e o osso ao redor; útil para cárie e sinais de doença periodontal e periapical. Boca toda de paciente totalmente dentado: em geral 16 a 20 periapicais mais 4 interproximais;\n- **interproximal** (bite-wing): coroas dos dois arcos e crista óssea; a mais usada para cárie interproximal e altura da crista;\n- **oclusal**: em adulto, uso limitado a lesões palatais, dentes impactados ou supranumerários, expansão óssea e cálculo no ducto da glândula submandibular;\n- **panorâmica**: mostra área ampla dos maxilares; em adultos, serve sobretudo para terceiros molares e áreas edêntulas antes de prótese removível ou implante. A panorâmica em filme não dá o detalhe fino para diagnosticar cárie nem documentar perda óssea periodontal;\n- **tomografia cone-beam (CBCT)**: imagem em três dimensões para implantes, raízes de terceiros molares e canal mandibular, expansão óssea em lesões e análise ortodôntica, com dose menor que a do tomógrafo médico.\n\nO Box 1-3 lista situações clínicas em que a radiografia pode estar indicada, como dor ou trauma, cárie profunda, restauração grande ou profunda, mobilidade, fístula e inchaço.\n\nTécnica e interpretação ficam no tema «Radiografia periapical e interproximal: técnica, erros e interpretação»."
+    },
+    {
+      "id": "outros-auxiliares",
+      "titulo": "Outros auxiliares diagnósticos",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Other Diagnostic Aids, pp. 19–21",
+      "texto": "Quando a história, o exame clínico e as radiografias não fecham o diagnóstico, o livro traz outros recursos.\n\n**Modelos de estudo.** Documentam e analisam a dentição antes do tratamento. Devem ser montados em articulador sempre que se planeja tratamento protético. O **enceramento diagnóstico** (diagnostic wax-up) ajuda dentista e paciente a ver a forma e a oclusão que resultarão do tratamento.\n\n**Placa oclusal.** Com sinais de disfunção temporomandibular (dor muscular da mandíbula, cefaleia crônica), uma placa passiva é tratamento e também auxiliar diagnóstico: se a dor persiste depois da terapia com placa, o clínico pode ter de reavaliar o diagnóstico de trabalho (working diagnosis) inicial e procurar outras causas.\n\n**Escavação de cárie como técnica diagnóstica.** Em dente muito destruído, em geral antes da endodontia, remover a cárie mostra se o dente pode ser restaurado. Se não pode, o tratamento extenso pode ser contraindicado e o dente deve ser extraído.\n\n**Consulta a outro profissional.** Se o cuidador primário tem dúvida sobre a saúde geral do paciente ou sobre o diagnóstico ou tratamento bucal, é do interesse de todos pedir orientação, com o entendimento e o consentimento do paciente. A consulta inclui: identificação do paciente (nome completo e data de nascimento); resumo dos achados significativos; breve descrição do plano geral; a informação pedida, dita com clareza; e nome, endereço e telefone do dentista. Se a resposta vier por telefone, o ideal é seguir com documento do consultor para o prontuário; no mínimo, registre um resumo da conversa.\n\n**Biópsia.** Indicada para lesão bucal persistente ou para garantir que uma condição já diagnosticada segue benigna. O livro diz que o dentista não deve hesitar em biopsiar ou encaminhar, sobretudo se a lesão sugerir câncer bucal.\n\n**Exames laboratoriais.** O dentista pode suspeitar de problema sistêmico não tratado, como leucemia ou diabetes. Em geral, encaminha-se o paciente a um profissional de saúde geral e pede-se cópia dos resultados. O livro pede cautela com testes de condições sobre as quais o dentista não saberia orientar o paciente.\n\n**Testes microbiológicos e salivares.** Fluxo salivar baixo (abaixo de 1 mL por minuto de saliva estimulada) e baixa capacidade tampão são fatores de risco para maior atividade de cárie."
+    },
+    {
+      "id": "diagnostico-e-problema",
+      "titulo": "Diagnóstico, diagnóstico diferencial e problema",
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, Patient Diagnosis, Diagnoses and Problems, pp. 24–25",
+      "texto": "Segundo o Stefanac e Nesbit, o exame termina numa lista de **diagnósticos** (diagnosis list) e **problemas** (problems).\n\n**Diagnóstico.** Para o livro, diagnósticos são termos científicos precisos que descrevem variações do normal. Podem nomear uma doença sistêmica, como o diabetes, ou uma condição bucal, como cárie oclusal, pulpite irreversível, carcinoma de células escamosas (squamous cell carcinoma) ou má oclusão de Classe II. Em geral é preciso mais de um achado: um dente mais escuro que os outros pode ou não ser significativo; somado a teste pulpar elétrico negativo e radiolucência periapical, sugere fortemente necrose pulpar.\n\n**Tipos de diagnóstico:**\n- **diagnóstico definitivo** (definitive diagnosis): vários achados apontam claramente uma entidade, com alto grau de certeza;\n- **diagnóstico diferencial** (differential diagnosis): os achados sugerem várias condições e o processo é distinguir entre elas. Exemplo do livro: nódulo no palato pode ser tórus maxilar, tumor de glândula salivar ou infecção odontogênica; sem radiografia ou biópsia, pode ser impossível chegar ao definitivo;\n- **diagnóstico de trabalho** (working ou tentative diagnosis): o diagnóstico é incerto, mas é prudente iniciar algum tratamento. Testes, consulta ou reavaliação costumam ser necessários para confirmá-lo ou trocá-lo.\n\n**A regra de ouro do planejamento** (golden rule, nas palavras do livro): o diagnóstico vem **antes** de começar o tratamento.\n\n**Problemas.** Nem todo achado significativo cabe na definição de diagnóstico. O livro chama de problemas as questões, gerais ou específicas, que pedem atenção ao planejar. Exemplos do livro: dor de origem indeterminada, medo do tratamento odontológico, paciente que precisa de cuidador para escovar os dentes, paciente com recursos limitados.\n\nA lista fica no prontuário. Para a ordem do tratamento a partir dela, veja o tema «Plano de tratamento integrado: ordem das fases»."
+    },
+    {
+      "id": "lista-beneficios",
+      "titulo": "Para que serve a lista e o que entra nela",
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, Diagnoses and Problems, Benefits of a Diagnosis List, Standard of Care, The Comprehensive Patient Diagnosis, pp. 25–26",
+      "texto": "**Três benefícios da lista de diagnósticos e problemas, segundo o livro:**\n1. **base do plano** (foundation for the treatment plan): cada tratamento do plano precisa de pelo menos um diagnóstico ou razão de tratamento que o justifique; sem essa ligação, queixas e problemas importantes podem ficar de fora;\n2. **organização** (organization): diagnósticos e problemas se ordenam mais facilmente que os achados. Lista-se primeiro o importante, como a queixa principal, e depois o resto em ordem de relevância, o que prepara o plano em sequência;\n3. **competência profissional** (professional competence): documentar os diagnósticos protege contra a aparência de tratamento desnecessário, e em litígio por má prática quem registra se sai melhor.\n\n**Educação do paciente.** Ao fim do exame, a lista é um meio direto de informar o paciente sobre a sua condição, e discuti-la faz parte de obter o consentimento informado.\n\n**Padrão de cuidado.** Segundo o livro (dos EUA), os códigos de ética das organizações odontológicas esperam que o dentista chegue a um diagnóstico e o comunique antes de tratar, e a maioria dos conselhos odontológicos exige diagnóstico documentado antes do tratamento. A caixa sobre códigos diagnósticos diz que todo tratamento deve ser racionalizado por um diagnóstico, definitivo ou provisório, antes de começar.\n\n**Lista abrangente de diagnósticos** (comprehensive diagnosis list): reúne todo problema ou queixa que exija reconhecimento, manejo ou tratamento. Nem todo diagnóstico pede intervenção no plano inicial: alguns só precisam ser identificados e reconhecidos.\n- **Exemplo do livro, tatuagem por amálgama** (amalgam tattoo): se história, aspecto clínico e ausência de sintomas são compatíveis, a conduta usual é registrar presença, localização e aspecto, comparar nos retornos com as fotografias iniciais e explicar ao paciente que é benigna. Nenhuma biópsia nesse momento.\n- **Exemplo de saúde geral:** segundo o livro (p. 26), o paciente que, pelas diretrizes da AHA, tem o maior risco de endocardite precisará de pré-medicação antibiótica antes de procedimentos com manipulação de tecido. O dentista não trata a condição médica: maneja a necessidade de saúde geral do paciente. Atenção: a AHA 2021 (EUA) só sugere a profilaxia, e só para certos pacientes (Tabelas 3 e 5 da diretriz). O regime está no tema «Profilaxia antibiótica: indicações atuais (endocardite, próteses articulares)».\n\nA maior parte dos diagnósticos bucais é tratada por intervenção direta, cirúrgica ou restauradora."
+    },
+    {
+      "id": "lista-exemplo",
+      "titulo": "Como fica a lista: o exemplo do livro e as categorias",
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, Box 2-1, Example of a Patient Diagnosis List, pp. 27–29; sumário do capítulo, p. 24; Box 2-2, pp. 45–46; seção J, p. 47; Table 2-2, p. 48",
+      "texto": "**A queixa principal na lista.** Ela entra como diagnóstico quando exige ação específica da equipe. Pedido de rotina (\"preciso de revisão e limpeza\") não vira diagnóstico. Para a queixa \"dor de dente\", o livro dá três formas de registrar, conforme o que se sabe na consulta inicial:\n1. se dá para determinar os diagnósticos definitivos de dente, polpa e ápice, listam-se todos;\n2. se o diagnóstico é suspeito mas não confirmado, lista-se como **diagnóstico provisório** (tentative ou working diagnosis);\n3. se não se consegue nem especular, registra-se \"dor no dente de origem indeterminada\" (tooth pain of undetermined origin).\n\nA queixa não precisa ser aguda para entrar: \"não gosto do meu sorriso\" também vale. Qualquer queixa que a equipe possa ter de atender entra, não só a principal.\n\n**Saúde geral na lista.** Todo problema que possa afetar o plano ou a forma de tratar entra, de preferência com um qualificador objetivo do tipo e do nível de controle. Exemplos do livro: asma com última crise há 25 anos ou com crises semanais; hipertensão controlada ou não; diabetes tipo 2 com Hb A1C de 7,0 medida há 1 mês; uso de varfarina por trombose venosa profunda.\n\n**Considerações do paciente.** Quando limitam o escopo ou pedem mudar a forma de tratar, entram registradas: nível de conhecimento sobre saúde bucal, capacidade de manter o autocuidado, motivação, resistência física e mental diante de outras prioridades, recursos (tempo e dinheiro) e transporte confiável.\n\n**O Box 2-1** mostra a lista de um paciente de exemplo, com 17 itens, sem número de dente. Alguns itens: queixa principal (incisivo lateral superior direito fraturado, com dentina exposta e pulpite reversível); diabetes tipo 2 controlado com hipoglicemiante oral; hipertensão controlada com medicamentos; fumante atual (30 pack-year); hipossalivação; múltiplas lesões de cárie primárias e secundárias; alto risco de cárie; edentulismo parcial.\n\n**As categorias do capítulo** vão de A a S: queixa e outras queixas; saúde geral; considerações do paciente; diagnósticos extraorais; tecidos moles intraorais; glândulas salivares; anormalidades dos maxilares; ATM, dor neuropática e neurovascular; doenças periodontais; diagnósticos pulpares e periapicais; cárie; trincas e fraturas; outras anormalidades dos dentes; oclusão; estética; defeitos de restauração unitária; prótese fixa; prótese removível; implantes.\n\n**Atenção:** para a classificação periodontal e para a pulpar e periapical, este tema usa as fontes das seções seguintes (consenso de 2018 e Cohen 12ª ed.), não as do capítulo."
+    },
+    {
+      "id": "classif-periodontal",
+      "titulo": "Classificação periodontal: o consenso de 2018",
+      "fonte": "tonetti2018",
+      "onde": "Tabela 1, p. S154; Tabela 3 (com notas), p. S157; seção \"Integrating current knowledge…\", extensão, p. S153",
+      "texto": "Para o diagnóstico de periodontite na lista, este app usa o consenso de 2018 (Tonetti e colegas, no *Journal of Clinical Periodontology*). O tema «Periodontite: estágio, grau e extensão» trata dele por inteiro; esta seção só aponta as três partes do diagnóstico.\n\nO diagnóstico tem três partes:\n- **estágio**: classifica a **gravidade** (perda de inserção, perda óssea e dentes perdidos por periodontite) e a **complexidade do manejo**. A característica determinante é a perda de inserção interdental no sítio de maior perda; na ausência dela, usa-se a perda óssea radiográfica;\n- **grau**: estima o **risco de progressão** e a resposta à terapia padrão, para orientar a intensidade do tratamento e do monitoramento;\n- **extensão**: localizada (menos de 30% dos dentes envolvidos), generalizada ou padrão molar/incisivo, acrescentada ao estágio."
+    },
+    {
+      "id": "classif-pulpar",
+      "titulo": "Classificação pulpar e periapical: o Cohen",
+      "fonte": "cohen12-cap1",
+      "onde": "cap. 1, Classificação clínica das doenças pulpares e periapicais, pp. 26–28",
+      "texto": "Para pulpar e periapical, a lista de diagnósticos usa a terminologia do Cohen, 12ª edição (cap. 1). Os testes e a decisão estão no tema «Diagnóstico pulpar e periapical: testes e decisão».\n\n**Diagnósticos pulpares:** pulpite reversível; pulpite irreversível sintomática; pulpite irreversível assintomática; necrose pulpar; previamente tratado; terapia iniciada anteriormente.\n\n**Diagnósticos apicais:** tecidos apicais normais; periodontite apical sintomática; periodontite apical assintomática; abscesso apical agudo; abscesso apical crônico.\n\nRegistre o diagnóstico pulpar e o apical, cada um com o seu nome."
+    },
+    {
+      "id": "risco-conceitos",
+      "titulo": "Risco: indicador, fator e as categorias",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Risk Assessment, p. 74; Risk Assessment and Dental Treatment Planning, pp. 78–80",
+      "texto": "**Avaliação de risco** (risk assessment) é determinar a probabilidade de o paciente adquirir uma doença ou condição específica. O que a aumenta: hereditariedade, ambiente, dieta, hábitos, saúde sistêmica, medicamentos. Quem tem condições predisponentes ou comportamentos que promovem a doença está **em risco aumentado** (at increased risk).\n\n**Indicador × fator de risco:**\n- **indicador de risco** (risk indicator): condição identificável que, quando presente, se associa a maior probabilidade da doença;\n- **fator de risco** (risk factor): condição com elo causal biológico demonstrável com a doença.\n\nRisco e causalidade se ligam, mas não são iguais: uma dieta rica em açúcar refinado é indicador e fator de risco para cárie, mas um paciente que a consome pode nunca ter cárie.\n\n**Mutável × imutável.** Os **mutáveis** (modifiable), como dieta, autocuidado, tabagismo e restaurações mal contornadas, são o alvo da equipe: tudo o que for razoável para eliminá-los ou diminuí-los. Os **imutáveis** (nonmodifiable), como idade, genética e história de flúor, servem para avaliar risco e orientar a prevenção.\n\n**Grau de risco.** Use termos como alto, moderado e baixo. Quanto maior o risco, mais provável a doença; vários indicadores, ou um indicador forte, aumentam a probabilidade. Exemplo do livro: no idoso, um indicador forte (xerostomia) pesa mais que um fraco (falta de flúor na infância).\n\n**Oito categorias de indicadores, segundo o livro:** condições hereditárias; doença sistêmica; dieta e outros comportamentos; estresse e ansiedade; funcionais ou ligadas a trauma; ambientais; nível socioeconômico; experiência prévia de doença.\n\nExemplos do livro: refluxo gastroesofágico e bulimia aumentam o risco de erosão; diabetes mal controlado aumenta a chance de periodontite e de progressão; quem range os dentes e já fraturou dentes deve ter o risco de recorrência avaliado.\n\n**Experiência prévia de doença** pode ser o melhor preditor único: quem já teve cárie, doença periodontal, câncer bucal ou fratura dentária tem mais chance de ter de novo. É indicador imutável; a estratégia é mitigar as outras causas e prevenir a recorrência.\n\n**Nível socioeconômico:** o livro vê como indicador de população, com pouco apoio como fator de risco no paciente individual, e o trata como janela de oportunidade, não como limite do tratamento."
+    },
+    {
+      "id": "risco-cancer",
+      "titulo": "Risco de câncer bucal",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Oral Cancer Risk Assessment, pp. 80–82",
+      "texto": "O livro trata de **câncer bucal** como qualquer malignidade da cavidade bucal ou dos maxilares. O foco é o carcinoma de células escamosas (squamous cell carcinoma; mais de 80% dos casos de câncer bucal, segundo o livro). Displasia ou carcinoma pode aparecer como lesão branca, vermelha, mista, ulcerada ou verrucosa, e o paciente pode ter mais de uma. Mesmo com a lesão tratada, se a exposição ao carcinógeno continua, há risco de recorrência ou de novas lesões na boca.\n\n**Indicadores de risco que o livro lista:**\n- **tabaco**, em qualquer forma, com efeito dose-dependente. Quem usou qualquer produto de tabaco nos últimos 10 anos deve ser considerado de risco relativamente alto. Documente tipo, frequência e duração;\n- **álcool**, como cofator;\n- **HPV de alto risco** (como HPV 16 e 18): perfil de paciente diferente, lesões em outro local (orofaringe) e, em geral, melhor resposta ao tratamento;\n- **trauma**: não causa o câncer por si, mas o reparo exige divisão celular, e mais células em divisão aumentam a chance de mutação;\n- imunossupressão, radioterapia de cabeça e pescoço (efeito dose-dependente), xerostomia, quimioterapia, desnutrição;\n- **história de câncer**: monitorar recorrências; com história de câncer fora da boca, considere metástase no diagnóstico diferencial de qualquer lesão bucal sem diagnóstico clínico. Com história de qualquer câncer, toda lesão bucal deve ser biopsiada, salvo se o clínico tiver certeza do diagnóstico só pela avaliação clínica.\n\n**Conduta:**\n- elimine os fatores e eduque o paciente de forma contínua;\n- no exame inicial, olhe as áreas vulneráveis: lábio onde se segura o cigarro, vestíbulo onde se guarda fumo mascado, mucosa jugal junto a fragmento cortante ou restauração fraturada, assoalho e ventre da língua em fumantes, orofaringe quando há risco por HPV;\n- elimine cedo no plano as fontes locais de trauma, como restauração defeituosa;\n- **toda lesão que não pode ser diagnosticada clinicamente, ou associada sem dúvida a trauma, deve ser biopsiada**;\n- se o indicador não pode ser eliminado, monitore com cuidado enquanto o paciente continuar sendo atendido."
+    },
+    {
+      "id": "risco-carie",
+      "titulo": "Risco de cárie",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Caries Risk Assessment, pp. 82–84",
+      "texto": "Placa e consumo frequente de carboidrato fermentável associam-se fortemente à cárie, mas, isolados, predizem pouco a atividade atual ou futura. Para o livro, a **experiência recente de cárie e a atividade atual da doença** são os fatores mais importantes para prever a atividade futura. Se nada muda, a chance de continuar é alta.\n\n**O que coletar:**\n- **fatores de risco**: placa estagnada e onde, regularidade do consumo de carboidratos fermentáveis (sobretudo entre as refeições) e fluxo salivar;\n- **fatores protetores**: exposição a flúor e selantes.\n\nA maior parte vem de uma boa anamnese e de um bom exame, em geral sem testes adicionais.\n\n**Instrumento.** O livro cita o CAMBRA (Caries Management by Risk Assessment; formulário da Fig. 3-1). Os módulos combinam indicadores de cárie (lesões nos anos recentes), fatores de risco e fatores protetores.\n\n**Níveis.** **Risco baixo:** nenhuma lesão de cárie ativa nos últimos 3 a 5 anos, combinada a nenhuma mudança recente nos fatores de risco e protetores. **Risco moderado ou alto:** lesões recentes e/ou mudanças desfavoráveis nesses fatores. Três exemplos do livro de paciente em risco elevado:\n1. boa higiene aparente, mas lesões novas, o que mostra que os fatores atuais produzem lesões;\n2. sem lesões novas, mas com queda recente intensa do fluxo salivar por medicamento novo;\n3. usa dentifrício fluoretado a vida toda e não tem cárie ativa há anos, mas decidiu parar o flúor (perda de fator protetor).\n\nTodos pedem manejo individualizado. Depois de determinar o risco aumentado, informe o paciente, discuta os indicadores e institua a intervenção. **Reavalie o risco em intervalos:** ele pode diminuir, aumentar ou ficar estável, e a equipe precisa reconhecer qualquer aumento para intervir.\n\n**Cárie radicular e secundária.** Para a cárie radicular, a raiz tem de estar exposta, e a queda de saturação mineral do biofilme necessária para desmineralizar dentina e cemento é menor que a do esmalte; lesões radiculares podem se formar com o esmalte intacto. Há associação clara com cárie coronária ativa. Na cárie secundária importa a interface dente-restauração, sobretudo nas áreas interproximais."
+    },
+    {
+      "id": "risco-periodontal-oclusal",
+      "titulo": "Risco periodontal e risco oclusal ou funcional",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Periodontal Disease Risk Assessment, Occlusal/Functional Risk Assessment, pp. 84–86",
+      "texto": "**Risco periodontal.** Os parâmetros que o livro lista para avaliar: profundidade de sondagem; sangramento à sondagem; perda dentária; extensão da perda óssea radiográfica; idade em relação à extensão da doença; diabetes; fatores genéticos; tabagismo; fatores do dente (furca, perda óssea vertical, restaurações subgengivais, cálculo); e história de terapia periodontal. Pacientes de alto risco periodontal têm taxas maiores de perda dentária, mesmo aderindo ao tratamento.\n\nA avaliação de risco periodontal deve ser feita em **todo exame completo ou periódico**, até em adultos jovens, porque a doença avança devagar e muitas vezes sem sinais. Ela ajuda a separar fatores modificáveis e não modificáveis. As estratégias precoces miram os modificáveis: instrução de higiene bucal, cessação do tabagismo (com encaminhamento, se preciso), encaminhamento ao médico para manejo do diabetes e substituição de restaurações com margens defeituosas, que retêm placa.\n\n**Risco oclusal ou funcional.** O exame inicial e os periódicos devem incluir a oclusão e a função mastigatória. Diferente da cárie e da doença periodontal, **não há instrumentos padronizados** para estabelecer esse nível de risco. De rotina, procure sinais e sintomas de hábitos parafuncionais, apertamento, bruxismo ou limitação dos movimentos da mandíbula.\n\n- **Bruxismo:** sugere-se que possa levar a ou agravar cefaleia, dor na ATM, atrição, fratura de dentes, restaurações e implantes e perda dentária precoce, e complica qualquer reabilitação. Não tratar o bruxismo antes de odontologia restauradora extensa pode levar a fratura e perda precoce de dentes. Nem todo bruxista precisa de tratamento; decidir exige consentimento plenamente informado.\n- **Fratura dentária:** dentes tratados endodonticamente, muito restaurados e sem proteção de cúspide são mais suscetíveis. Estratégias do livro: placa oclusal, restaurações com proteção de cúspide, reposição de dentes ausentes para dividir a carga e ajuste oclusal se há trauma oclusal agudo.\n- **DTM de origem oclusal:** em geral multifatorial. Quando o risco vem de anormalidade oclusal, o tratamento deve ser tão minimamente invasivo quanto for eficaz.\n\n**Atenção:** para o risco de fratura, o livro diz que, como no bruxismo, a opção de **não tratar** merece séria consideração no paciente idoso, sem fraturas recentes significativas, de filosofia conservadora e que aceita as consequências e os riscos de não intervir agora."
+    },
+    {
+      "id": "prognostico-conceito",
+      "titulo": "Prognóstico: o que é e como se diz",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Prognosis, Descriptors of Prognosis, pp. 74–75, 86–87",
+      "texto": "**Prognóstico** (prognosis) é uma predição, com base nas circunstâncias atuais, da condição futura do paciente. Pode ser feito para um dente, para uma condição bucal, para um tipo de tratamento ou para o paciente como um todo. O livro diz que \"risk and prognosis are distinctly different concepts\": o risco é a propensão a **adquirir** a doença; o prognóstico prevê o **curso** da doença, com e sem tratamento, e o sucesso do tratamento.\n\nFatores que influenciam o prognóstico sem serem indicadores de risco: gravidade da doença no início do tratamento, habilidade e comprometimento do dentista e motivação do paciente.\n\n**Prognóstico da doença e do tratamento podem diferir.** Exemplo do livro: periodontite moderada pode ter bom prognóstico de controle da doença e prognóstico ruim ou questionável para uma prótese fixa de longo espaço apoiada nos dentes comprometidos.\n\n**Desfecho** (outcome) é o resultado específico e tangível do tratamento. O prognóstico olha o futuro; a avaliação de desfecho olha o desempenho passado.\n\n**Descritores de prognóstico.** O livro avisa que não há sistema universal e que os descritores servem à conversa com o paciente. Ele os associa ao nível de confiança do dentista (aqui em português, com o original em inglês na primeira vez):\n\n| Descritor | Nível de confiança | O que o livro diz |\n|---|---|---|\n| Excelente (excellent) | acima de 95% | seguro prosseguir sem reservas; garantias possíveis |\n| Bom (good) | acima de 80% | prosseguir com reservas limitadas; garantias limitadas |\n| Razoável (fair) | de 50% a 80% | discutir com realismo os fatores limitantes; garantia restrita, se alguma |\n| Ruim ou reservado (poor ou guarded) | abaixo de 50% | paciente plenamente informado sobre riscos; compromisso documentado e consentimento informado antes de prosseguir; garantia só limitada |\n| Sem esperança (hopeless) | abaixo de 5% | nenhuma chance razoável; tratamento eletivo não deve ser feito |\n| Incerto ou questionável (uncertain ou questionable) | sem percentual | falta informação ou há variáveis fortes nos dois sentidos; prosseguir com cautela, com compromisso documentado e consentimento informado; sem garantia |"
+    },
+    {
+      "id": "prognostico-uso",
+      "titulo": "Prognóstico no caso: doença, dente e tratamento",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Prognosis, Application and Use of Prognosis in Treatment Planning, pp. 87–90",
+      "texto": "**Quando prever.** É essencial avaliar com cuidado o prognóstico da doença, com e sem tratamento, **antes** de sugerir opções ao paciente. Esse passo vem depois do exame inicial e da lista de diagnósticos, da qual o prognóstico é derivado. Quanto mais complicada a doença e mais complexo o plano, maior a chance de erro.\n\n**Doença.** Exemplos do livro: na estomatite de causa clara e fácil de eliminar, o prognóstico é bom ou excelente; com sintomas graves e causa elusiva, costuma ser incerto ou ruim/reservado, e tratá-la passa à frente das outras prioridades. No câncer bucal, o prognóstico no diagnóstico inicial costuma ser incerto. Na doença periodontal, o livro cita que a estabilidade dos tecidos de suporte é base mais útil que a perda dentária e que o prognóstico muda com o tempo.\n\n**Exemplo do livro (caixa In Clinical Practice, p. 88):** paciente novo com diabetes mal controlado, várias áreas com 4 a 5 mm de perda de inserção, furca, cálculo subgengival, índice de placa de 60%, sangramento em 35% dos sítios e pouca motivação. O prognóstico inicial é incerto, e é prudente engajá-lo na fase de controle da doença (disease control phase); ao fim dela, reavalia-se. Se o diabetes está controlado, a placa melhorou e o paciente está motivado, o prognóstico sobe para bom e se considera a gama completa de tratamento restaurador.\n\n**Dente.** Para os dentes que merecem consideração extensa, o livro lista o que avaliar: restaurabilidade; suporte periodontal; força oclusal em máxima intercuspidação e nos movimentos; necessidade e viabilidade de tratamento endodôntico; potencial de cárie ou fratura futura; compromisso do paciente (tempo, finanças, energia); e habilidade do profissional para restaurar o dente. O prognóstico de dentes-chave (KEY teeth) pesa no plano global; esse conceito é do cap. 4 do livro e está no tema «Plano de tratamento integrado: ordem das fases».\n\n**Tratamento.** O Box 3-7 traz fatores de cada tipo de tratamento. Para a endodontia, por exemplo: isolamento do dente, restaurabilidade, saúde periodontal marginal, risco de cárie e qualidade da obturação. Universais: cooperação do paciente e habilidade do profissional.\n\n**Comunicar.** O prognóstico de cada opção apropriada deve ser dito ao paciente de modo compreensível, junto com custo, tempo, número de consultas, desconforto e limitações estéticas, dentro da discussão do consentimento informado. Ele não decide a alternativa sozinho. O livro pede dizer também o grau de certeza que o dentista tem."
+    },
+    {
+      "id": "modelo-e-divergencia",
+      "titulo": "O modelo em passos e por que dentistas discordam",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Traditional Model for Dental Treatment Planning, Professional Variability and Disagreement, pp. 74–77",
+      "texto": "**Modelo tradicional.** Antes de qualquer tratamento que não seja de urgência, o livro ensina que todo paciente deve ter um plano abrangente, em passos: avaliação e exame completos; lista de diagnósticos e problemas; e uma série de tratamentos construída pelo dentista e aceita pelo paciente. É a base do processo descrito no texto.\n\n**O que acontece sem ele.** Muitos dentistas avaliam um dente isolado e recomendam logo. Sem diagnóstico e prognóstico claros, o paciente fica mal informado, em geral não vê mais de uma opção e está mal preparado para o consentimento informado. O dente isolado também tira o contexto da condição bucal geral.\n\n**Evidência.** A prática baseada em evidência integra a melhor pesquisa, a experiência clínica e os valores do paciente; quando a evidência é fraca, o dentista informa os limites ao paciente e dá informação mais ampla, não mais estreita, para obter o consentimento.\n\n**Primeiro, não causar dano** (nonmaleficence). Quando as razões para intervir não convencem, ou esperar e observar (watchful waiting) traz pouco risco, o livro prefere em geral a terapia conservadora ou nenhum tratamento à agressiva. Doença de morbidade ou mortalidade significativa, como câncer bucal, em geral justifica intervenção agressiva mesmo com incerteza. Com incerteza semelhante, mas baixa probabilidade de sequela a curto prazo, como cárie incipiente em paciente de baixo risco, intervir de modo conservador e em ritmo medido é mais razoável.\n\n**Por que dentistas divergem**, segundo o livro:\n- **testes diagnósticos imprecisos**: mesmo na cárie, a sensibilidade e a especificidade dos métodos de detecção são imperfeitas, e falso-positivo preocupa porque pode levar a tratamento desnecessário;\n- **erro e desacordo de diagnóstico**: informações coletadas, interpretações e opções consideradas diferem; sem acordo no diagnóstico, não há consenso sobre o tratamento;\n- **falta de avaliação de risco**: em paciente de baixo risco com restauração planejada dente a dente, há tendência a tratar demais; não reconhecer o alto risco deixa as causas sem tratamento;\n- **prognóstico incerto**: o plano passa a depender do \"what works in my hands\";\n- **interpretações diferentes das expectativas do paciente**: o dentista supõe o que o paciente quer e ouve de modo seletivo."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Para o Stefanac e Nesbit, qual a diferença entre sinal, sintoma e queixa principal?",
+      "verso": "Sinal: achado que o dentista descobre no exame. Sintoma: achado que o paciente relata. Queixa principal: o sintoma que o leva a procurar tratamento.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Overview of the Diagnostic Process, p. 2"
+    },
+    {
+      "id": "f03",
+      "frente": "Entrevista: quando usar pergunta aberta e quando usar fechada?",
+      "verso": "Ao investigar um problema, abra com perguntas abertas (não se respondem com sim ou não) e use depois as fechadas, de uma ou duas palavras, para esclarecer fatos específicos.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Patient History, p. 4"
+    },
+    {
+      "id": "f04",
+      "frente": "Como registrar a queixa principal e qual é a regra de ouro sobre ela?",
+      "verso": "Registrar entre aspas, com as palavras do paciente. Regra de ouro: resolver a queixa principal o mais cedo possível.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Components of a Patient History, p. 5"
+    },
+    {
+      "id": "f05",
+      "frente": "PSR: como é o escore e o que o asterisco indica?",
+      "verso": "Escore de 0 a 4 por sextante, pela sondagem mais profunda. O asterisco indica furca, mobilidade, problema mucogengival ou recessão maior que 3,5 mm.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Periodontal Examination, In Clinical Practice (PSR), p. 14"
+    },
+    {
+      "id": "f08",
+      "frente": "Radiografia interproximal (bite-wing): o que mostra e para que mais se usa?",
+      "verso": "Mostra a porção coronária dos dentes nos dois arcos e a crista óssea alveolar. É a mais usada para cárie interproximal e para a altura da crista óssea.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Radiographic Examination, p. 17"
+    },
+    {
+      "id": "f09",
+      "frente": "Diagnóstico definitivo, diferencial e de trabalho: qual a diferença?",
+      "verso": "Definitivo: os achados apontam claramente uma entidade. Diferencial: os achados sugerem várias condições e é preciso distinguir entre elas. De trabalho: o diagnóstico é incerto, mas é prudente iniciar algum tratamento.",
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, Diagnoses and Problems, p. 25"
+    },
+    {
+      "id": "f10",
+      "frente": "Quais os três benefícios da lista de diagnósticos e problemas?",
+      "verso": "Base do plano (cada tratamento é justificado por diagnóstico ou razão de tratamento), organização (prioriza e prepara o plano em sequência) e competência profissional (documentar protege contra a aparência de tratamento desnecessário).",
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, Benefits of a Diagnosis List, pp. 25–26"
+    },
+    {
+      "id": "f11",
+      "frente": "Indicador de risco ou fator de risco: qual a diferença e o que é mutável?",
+      "verso": "Indicador: condição que se associa a maior probabilidade da doença. Fator: tem elo causal biológico demonstrável. Mutáveis (dieta, tabagismo, restaurações mal contornadas) podem mudar; imutáveis (idade, genética, história de flúor) não.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Risk Assessment and Dental Treatment Planning, p. 78"
+    },
+    {
+      "id": "f12",
+      "frente": "Risco e prognóstico são o mesmo conceito?",
+      "verso": "Não. Risco é a propensão a adquirir a doença. Prognóstico é a predição do curso da doença, com e sem tratamento, e do sucesso do tratamento.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Prognosis, p. 74 e p. 86"
+    },
+    {
+      "id": "f13",
+      "frente": "Tabaco e câncer bucal: a partir de que uso o livro considera risco relativamente alto?",
+      "verso": "Quem usou qualquer produto de tabaco nos últimos 10 anos deve ser considerado de risco relativamente alto para carcinoma de células escamosas.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Oral Cancer Risk Assessment, p. 81"
+    },
+    {
+      "id": "f15",
+      "frente": "Quando o Stefanac e Nesbit manda medir pressão e pulso?",
+      "verso": "Em todo exame de paciente novo e nos periódicos, e no início de toda consulta de quem trata pressão alta, tireoide ou coração. Muitos clínicos medem a pressão em toda consulta com anestésico local ou sedativo.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Physical Examination, Vital Signs, p. 10"
+    },
+    {
+      "id": "f16",
+      "frente": "Exame dos dentes: o que revisar antes de começar e em que ordem avaliar cada dente?",
+      "verso": "Antes, revisar as radiografias, para correlacionar achados radiográficos e clínicos. Depois, dente a dente: restaurações existentes; dentes ausentes e suas substituições; contatos proximais com fio dental; percussão e testes pulpares em dente vital com restauração grande ou sintomático; por fim, a condição geral (cor, morfologia e função).",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Examination of the Teeth, p. 15"
+    },
+    {
+      "id": "f17",
+      "frente": "Para que serve a escavação de cárie como técnica diagnóstica?",
+      "verso": "Em dente muito destruído, em geral antes da endodontia, remover a cárie mostra se o dente pode ser restaurado. Se não pode, o tratamento extenso pode ser contraindicado e o dente deve ser extraído.",
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Other Diagnostic Aids, p. 21"
+    },
+    {
+      "id": "f18",
+      "frente": "Quando fazer a avaliação de risco periodontal e por que até em adulto jovem?",
+      "verso": "Em todo exame odontológico completo ou periódico. Até adultos jovens se beneficiam, porque a doença periodontal avança devagar e muitas vezes sem sinais, e a avaliação ajuda a separar fatores modificáveis e não modificáveis.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Periodontal Disease Risk Assessment, pp. 84–85"
+    },
+    {
+      "id": "f19",
+      "frente": "Quando prever o prognóstico e o que dizer ao paciente sobre ele?",
+      "verso": "Avaliar o prognóstico da doença, com e sem tratamento, antes de sugerir opções. Depois, dizer o prognóstico de cada opção apropriada de modo compreensível, junto com custo, tempo, consultas, desconforto e limitações estéticas, e o grau de certeza que o dentista tem.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Application and Use of Prognosis in Treatment Planning, pp. 87–90"
+    },
+    {
+      "id": "f20",
+      "frente": "Se as razões para intervir não convencem, o que o livro prefere pelo princípio de não causar dano (nonmaleficence)?",
+      "verso": "Em geral, a terapia conservadora ou nenhum tratamento, em vez da agressiva. A exceção é doença de morbidade ou mortalidade significativa, como câncer bucal, em que a intervenção agressiva em geral se justifica mesmo com incerteza.",
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Traditional Model for Dental Treatment Planning, Professional Variability and Disagreement, p. 76"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente novo com dor num dente pergunta, no meio do exame abrangente, se o dente se salva e quanto vai custar. Segundo o Stefanac e Nesbit, qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Lembrar com gentileza que o exame ainda não terminou e que, com mais informação, a resposta será melhor.",
+          "correta": true,
+          "justificativa": "Certa. É a conduta do livro, que aconselha não propor tratamento antes de montar e analisar toda a base de dados.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Overview of the Diagnostic Process, p. 3"
+        },
+        {
+          "texto": "Dizer que sim, em duas consultas, para tranquilizá-lo.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que responder \"sim\" e \"em duas consultas\" pode virar constrangimento quando as radiografias mostram cárie extensa.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Overview of the Diagnostic Process, p. 3"
+        },
+        {
+          "texto": "Apresentar as opções de tratamento que parecem prováveis, porque o dentista experiente já pode decidir antes de reunir todos os dados.",
+          "correta": false,
+          "justificativa": "Errada. O livro admite que o experiente pode começar a pensar em opções antes de reunir todos os dados, mas aconselha com ênfase, ao novato e também ao experiente, a não propor tratamento antes de analisar toda a base.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Overview of the Diagnostic Process, p. 3"
+        },
+        {
+          "texto": "Dizer que o dente se salva, mas só informar o custo depois do exame.",
+          "correta": false,
+          "justificativa": "Errada. O livro aconselha não fazer recomendação de tratamento antes de analisar toda a base de dados; afirmar que o dente se salva já é antecipar o diagnóstico.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Overview of the Diagnostic Process, p. 3"
+        }
+      ],
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Overview of the Diagnostic Process, p. 3",
+      "secao": "caminho",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "Você vai começar a entrevista de um paciente novo e quer saber o motivo da vinda. Segundo o Stefanac e Nesbit, qual pergunta o livro prefere para obter a queixa principal?",
+      "alternativas": [
+        {
+          "texto": "\"Dói algum dente?\"",
+          "correta": false,
+          "justificativa": "Errada. É pergunta fechada, respondida com uma ou duas palavras; o livro a dá como exemplo de pergunta fechada.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Patient History, p. 4"
+        },
+        {
+          "texto": "\"Faz muito tempo que o senhor não vai ao dentista?\"",
+          "correta": false,
+          "justificativa": "Errada. O livro cita pergunta desse tipo entre as fechadas que o clínico deve evitar para obter a queixa.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Components of a Patient History, p. 5"
+        },
+        {
+          "texto": "\"Tem alguma coisa incomodando agora?\"",
+          "correta": false,
+          "justificativa": "Errada. O livro cita pergunta desse tipo como fechada, a evitar para obter a queixa.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Components of a Patient History, p. 5"
+        },
+        {
+          "texto": "\"O que fez o senhor procurar atendimento hoje?\"",
+          "correta": true,
+          "justificativa": "Certa. É a pergunta aberta que o livro dá como exemplo para obter a queixa: não se responde com sim ou não e deixa o paciente dizer o motivo com as próprias palavras.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Components of a Patient History, p. 5"
+        }
+      ],
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Components of a Patient History, p. 5",
+      "secao": "entrevista",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Paciente novo chega para o exame abrangente com muita placa e cálculo, e os dentes não estão limpos. Segundo o Stefanac e Nesbit, qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Examinar cada dente como está, porque a placa e o cálculo não escondem achados significativos.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que os dentes precisam estar relativamente limpos, sem mancha, placa e cálculo, ou achados significativos podem passar.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Examination of the Teeth, p. 13"
+        },
+        {
+          "texto": "Fazer exame sumário, iniciar o tratamento periodontal para limpar os dentes e pedir que o paciente volte para terminar o exame.",
+          "correta": true,
+          "justificativa": "Certa. É o que o livro sugere quando há muita placa e cálculo.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Examination of the Teeth, p. 13"
+        },
+        {
+          "texto": "Terminar o exame no mesmo dia com os dentes como estão e deixar a limpeza para o fim do plano, para não alongar a consulta nem exigir retorno.",
+          "correta": false,
+          "justificativa": "Errada. O livro sugere iniciar o tratamento periodontal para limpar os dentes e só então terminar o exame, em outra consulta.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Examination of the Teeth, p. 13"
+        },
+        {
+          "texto": "Dispensar a secagem e o isolamento com roletes, porque o ar atrapalha a avaliação.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda secar o sextante com ar e, se preciso, isolar com roletes de algodão, para não perder achados significativos (Fig. 1-13).",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Examination of the Teeth, p. 15"
+        }
+      ],
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Examination of the Teeth, pp. 13–15",
+      "secao": "dentes-oclusao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Paciente adulto novo, dentado, sem sinais de doença bucal generalizada e sem história de tratamento extenso, chega para o exame abrangente. Segundo o Stefanac e Nesbit, o que fazer antes de pedir as radiografias?",
+      "alternativas": [
+        {
+          "texto": "Pedir o levantamento radiográfico de boca toda no primeiro dia, para ter a base de dados completa desde a primeira consulta.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que radiografia só se faz quando os benefícios superam os riscos da radiação e que a recomendação ADA e FDA (EUA) é individualizada, depois de história e exame clínico.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Radiographic Examination, pp. 17–18"
+        },
+        {
+          "texto": "Pedir só a panorâmica em filme, porque mostra tudo e dispensa as intraorais.",
+          "correta": false,
+          "justificativa": "Errada. Segundo o livro, a panorâmica em filme não dá o detalhe fino para diagnosticar cárie nem para documentar perda óssea periodontal.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Radiographic Examination, p. 19"
+        },
+        {
+          "texto": "Rever a história de saúde bucal, fazer o exame clínico e buscar, se possível, as radiografias do dentista anterior.",
+          "correta": true,
+          "justificativa": "Certa. É a ordem que o livro dá antes de pedir qualquer radiografia, com atenção especial às radiografias de menos de 3 anos.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Radiographic Examination, p. 17"
+        },
+        {
+          "texto": "Pedir radiografia a todo paciente novo, sem rever a história nem fazer o exame clínico.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda rever a história de saúde bucal e fazer o exame clínico antes de pedir qualquer radiografia; para o paciente novo, a recomendação da Table 1-3 é um exame radiográfico individualizado.",
+          "fonte": "stefanac3-cap01",
+          "onde": "cap. 1, Radiographic Examination, Table 1-3, pp. 17–18"
+        }
+      ],
+      "fonte": "stefanac3-cap01",
+      "onde": "cap. 1, Radiographic Examination, pp. 17–19",
+      "secao": "radiografia-indicacao",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Paciente chega com \"dor de dente\". Pelo exame inicial, você suspeita de pulpite irreversível no dente, mas ainda não confirmou. Segundo o Stefanac e Nesbit, como entra na lista?",
+      "alternativas": [
+        {
+          "texto": "Como diagnóstico definitivo, para a lista não ficar vaga.",
+          "correta": false,
+          "justificativa": "Errada. O diagnóstico definitivo exige que os achados apontem claramente uma entidade, o que você ainda não tem.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, Diagnoses and Problems, p. 25"
+        },
+        {
+          "texto": "Como diagnóstico provisório (tentative ou working diagnosis).",
+          "correta": true,
+          "justificativa": "Certa. O livro manda listar como provisório o diagnóstico suspeito, mas ainda não confirmado.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, A. Diagnoses Derived from the Patient's Chief Concern, p. 27"
+        },
+        {
+          "texto": "Como \"dor no dente de origem indeterminada\".",
+          "correta": false,
+          "justificativa": "Errada. O livro reserva esse registro para quando não se consegue nem especular; aqui há uma suspeita.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, A. Diagnoses Derived from the Patient's Chief Concern, p. 27"
+        },
+        {
+          "texto": "Ela não entra, porque a lista só recebe diagnósticos já confirmados.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda registrar a queixa e indica como, conforme o que se sabe; o diagnóstico suspeito entra como provisório.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, A. Diagnoses Derived from the Patient's Chief Concern, p. 27"
+        }
+      ],
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, A. Diagnoses Derived from the Patient's Chief Concern, p. 27",
+      "secao": "lista-exemplo",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente assintomático tem mancha pigmentada na gengiva; a história, o aspecto clínico e a ausência de sintomas são compatíveis com tatuagem por amálgama. Segundo o Stefanac e Nesbit, qual é a conduta usual?",
+      "alternativas": [
+        {
+          "texto": "Biópsia imediata, para descartar lesão maligna antes de qualquer outra conduta e só depois decidir o seguimento com o paciente.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que, nesse quadro, não se faz biópsia no momento.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, The Comprehensive Patient Diagnosis, p. 26"
+        },
+        {
+          "texto": "Não registrar a lesão na lista, porque ela não pede tratamento e a lista só recebe o que será tratado.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que nem todo diagnóstico pede intervenção, mas todos que exigem reconhecimento entram na lista; aqui o registro é a conduta.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, The Comprehensive Patient Diagnosis, p. 26"
+        },
+        {
+          "texto": "Excisão da lesão no mesmo dia, para evitar dúvida futura e dispensar o acompanhamento nos retornos.",
+          "correta": false,
+          "justificativa": "Errada. Nesse quadro o livro não faz biópsia no momento: a conduta é registrar, comparar nos retornos e explicar ao paciente.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, The Comprehensive Patient Diagnosis, p. 26"
+        },
+        {
+          "texto": "Registrar presença, localização e aspecto, comparar nos retornos com as fotografias iniciais e explicar que é benigna.",
+          "correta": true,
+          "justificativa": "Certa. É a conduta usual descrita pelo livro para a tatuagem por amálgama.",
+          "fonte": "stefanac3-cap02",
+          "onde": "cap. 2, The Comprehensive Patient Diagnosis, p. 26"
+        }
+      ],
+      "fonte": "stefanac3-cap02",
+      "onde": "cap. 2, The Comprehensive Patient Diagnosis, p. 26",
+      "secao": "lista-beneficios",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Segundo o Stefanac e Nesbit, qual destes é um indicador de risco imutável (nonmodifiable) para cárie, periodontite ou fratura dentária?",
+      "alternativas": [
+        {
+          "texto": "Dieta com consumo frequente de bebidas açucaradas e de outros carboidratos fermentáveis.",
+          "correta": false,
+          "justificativa": "Errada. Dieta é exemplo de indicador mutável no livro.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Risk Assessment and Dental Treatment Planning, p. 78"
+        },
+        {
+          "texto": "Restauração mal contornada no dente afetado.",
+          "correta": false,
+          "justificativa": "Errada. O livro cita restaurações mal contornadas como indicador mutável.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Risk Assessment and Dental Treatment Planning, p. 78"
+        },
+        {
+          "texto": "Ter tido a mesma doença antes (experiência prévia).",
+          "correta": true,
+          "justificativa": "Certa. O livro diz que a experiência prévia é indicador imutável e, em alguns casos, o melhor preditor único de doença futura.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Previous disease experience, p. 80"
+        },
+        {
+          "texto": "Tabagismo, em fumante atual.",
+          "correta": false,
+          "justificativa": "Errada. O livro cita tabagismo entre os indicadores mutáveis.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Risk Assessment and Dental Treatment Planning, p. 78"
+        }
+      ],
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Risk Assessment and Dental Treatment Planning, pp. 78–80",
+      "secao": "risco-conceitos",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Homem que usou fumo de mascar até 6 anos atrás tem uma úlcera na mucosa jugal, ao lado de um fragmento dentário cortante. Você não tem certeza de que é só trauma. Segundo o Stefanac e Nesbit, qual é a conduta?",
+      "alternativas": [
+        {
+          "texto": "Eliminar cedo a fonte de trauma e biopsiar a lesão, que não pode ser associada sem dúvida ao trauma.",
+          "correta": true,
+          "justificativa": "Certa. O livro manda eliminar cedo as fontes locais de trauma e biopsiar toda lesão que não pode ser diagnosticada clinicamente nem associada sem dúvida a trauma.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Oral Cancer Risk Assessment, p. 81"
+        },
+        {
+          "texto": "Observar sem intervir, porque ele parou de usar tabaco há mais de 5 anos e isso zera o risco de câncer bucal.",
+          "correta": false,
+          "justificativa": "Errada. O livro considera de risco relativamente alto quem usou qualquer produto de tabaco nos últimos 10 anos.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Oral Cancer Risk Assessment, p. 81"
+        },
+        {
+          "texto": "Deixar a fonte de trauma para o fim do plano e só acompanhar a úlcera nas consultas seguintes.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda eliminar cedo no plano as fontes locais de trauma, como restauração defeituosa.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Oral Cancer Risk Assessment, p. 81"
+        },
+        {
+          "texto": "Pedir apenas uma radiografia panorâmica e marcar retorno em seis meses para rever a úlcera.",
+          "correta": false,
+          "justificativa": "Errada. O livro manda biopsiar a lesão que não pode ser diagnosticada clinicamente nem associada sem dúvida a trauma; panorâmica e retorno em seis meses não substituem a biópsia.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Oral Cancer Risk Assessment, p. 81"
+        }
+      ],
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Oral Cancer Risk Assessment, pp. 81–82",
+      "secao": "risco-cancer",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Paciente com boa higiene, sem lesão de cárie ativa há 4 anos, mas que começou há dois meses um medicamento que reduziu muito o fluxo salivar. Segundo o Stefanac e Nesbit, como fica o risco de cárie?",
+      "alternativas": [
+        {
+          "texto": "Baixo, porque não há lesão ativa há mais de 3 anos e a higiene é boa.",
+          "correta": false,
+          "justificativa": "Errada. Risco baixo exige também nenhuma mudança recente nos fatores de risco e protetores, e a queda do fluxo salivar é uma mudança desfavorável.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Caries Risk Assessment, p. 82"
+        },
+        {
+          "texto": "Só se saberá depois que aparecer a primeira lesão nova, quando então se reavalia o risco.",
+          "correta": false,
+          "justificativa": "Errada. O livro dá esse caso como exemplo de risco elevado antes de haver lesão nova.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Caries Risk Assessment, p. 82"
+        },
+        {
+          "texto": "Elevado, com manejo individualizado, porque houve mudança desfavorável num fator de risco.",
+          "correta": true,
+          "justificativa": "Certa. É um dos três exemplos do livro de paciente em risco elevado: sem lesões novas, mas com queda recente intensa do fluxo salivar por medicamento novo.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Caries Risk Assessment, p. 82"
+        },
+        {
+          "texto": "Não dá para avaliar sem teste microbiológico da saliva, que o livro exige de todo paciente.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que a maior parte da informação vem de uma boa anamnese e de um bom exame, em geral sem testes adicionais.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Caries Risk Assessment, p. 82"
+        }
+      ],
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Caries Risk Assessment, p. 82",
+      "secao": "risco-carie",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Você avalia um plano e atribui prognóstico \"ruim ou reservado\" (poor ou guarded), com confiança abaixo de 50%. Segundo o Stefanac e Nesbit, o que fazer antes de prosseguir?",
+      "alternativas": [
+        {
+          "texto": "Prosseguir sem reservas, oferecendo garantia ao paciente, porque o dentista confia plenamente no resultado do plano.",
+          "correta": false,
+          "justificativa": "Errada. Isso descreve o prognóstico excelente (excellent), com confiança acima de 95%.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Descriptors of Prognosis, p. 87"
+        },
+        {
+          "texto": "Informar plenamente os riscos e obter compromisso documentado e consentimento informado, com garantia só limitada.",
+          "correta": true,
+          "justificativa": "Certa. É o que o livro pede para o prognóstico ruim ou reservado; a garantia de sucesso é só limitada.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Descriptors of Prognosis, p. 87"
+        },
+        {
+          "texto": "Recusar o tratamento, pois o livro não permite nenhum procedimento eletivo com esse prognóstico, qualquer que seja o caso.",
+          "correta": false,
+          "justificativa": "Errada. O livro diz que tratamento eletivo não deve ser feito no prognóstico sem esperança (hopeless), com confiança abaixo de 5%.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Descriptors of Prognosis, p. 87"
+        },
+        {
+          "texto": "Prosseguir com reservas limitadas e garantias limitadas, como no prognóstico bom (good).",
+          "correta": false,
+          "justificativa": "Errada. Isso descreve o prognóstico bom (good), com confiança acima de 80%.",
+          "fonte": "stefanac3-cap03",
+          "onde": "cap. 3, Descriptors of Prognosis, p. 87"
+        }
+      ],
+      "fonte": "stefanac3-cap03",
+      "onde": "cap. 3, Descriptors of Prognosis, p. 87",
+      "secao": "prognostico-conceito",
+      "figura": null
+    }
+  ]
+}

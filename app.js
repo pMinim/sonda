@@ -127,6 +127,17 @@
   /* O RGM é conferido no servidor (POST /entrar), que devolve só as disciplinas do aluno.
      O aparelho guarda as disciplinas (e.acesso), nunca o RGM.
      Resolve com {codigos, teste} ou null (RGM não encontrado); rejeita com 'limite' ou erro de rede. */
+  /* Traduz cada código do SIAA que esteja no "inclui" de uma disciplina para o código dela, sem repetir,
+     e descarta o que não tem entrada em disciplinas.json. */
+  function normalizar(cods) {
+    var out = [];
+    (Array.isArray(cods) ? cods : []).forEach(function (c) {
+      if (typeof c !== 'string') return;
+      var d = ctx.disciplinas.disciplinas.filter(function (x) { return x.codigo === c || (x.inclui || []).indexOf(c) >= 0; })[0];
+      if (d && out.indexOf(d.codigo) < 0) out.push(d.codigo);
+    });
+    return out;
+  }
   function codigosDo(rgm) {
     if (window.SONDA_DEMO) { // preview no claude.ai: sem servidor, mostra as disciplinas ativas
       return Promise.resolve({ codigos: ctx.disciplinas.disciplinas.filter(function (d) { return d.status === 'ativa'; }).map(function (d) { return d.codigo; }), teste: true });
@@ -136,7 +147,7 @@
       if (r.status === 404) return null;
       if (r.status === 429) throw new Error('limite');
       if (!r.ok) throw new Error('entrar ' + r.status);
-      return r.json().then(function (j) { return { codigos: Array.isArray(j.codigos) ? j.codigos : [], teste: !!j.teste }; });
+      return r.json().then(function (j) { return { codigos: normalizar(j.codigos), teste: !!j.teste }; });
     });
   }
   function guardarAcesso(a) {
@@ -148,7 +159,7 @@
       if (ctx.codigos) return ctx.codigos;
       var est = ler();
       if (est.acesso && Array.isArray(est.acesso.cods)) {
-        ctx.codigos = est.acesso.cods.filter(function (c) { return typeof c === 'string' && disc(c); });
+        ctx.codigos = normalizar(est.acesso.cods);
         ctx.teste = !!est.acesso.teste;
         return ctx.codigos;
       }
@@ -284,7 +295,7 @@
         var p = provaTxt(t.proximaProva);
         return el('li', null, [t.nome + (p ? ' — ' + p.txt + ' ' : ''), p ? el('span', { class: 'selo dias', text: p.dias, style: 'margin-top:0' }) : null]);
       }));
-      var corpo = [el('h3', { text: d.nome }), el('div', { class: 'sigla', text: d.sigla + ' · ' + d.codigo }), turmas];
+      var corpo = [el('h3', { text: d.nome }), el('div', { class: 'sigla', text: d.sigla + ' · ' + [d.codigo].concat(d.inclui || []).join(' e ') }), turmas];
       if (!ativa) corpo.push(el('span', { class: 'selo breve', text: 'Conteúdo em breve' }));
       lista.appendChild(ativa
         ? el('a', { class: 'cartao', href: '#d-' + d.codigo, 'data-disc': d.codigo }, corpo)

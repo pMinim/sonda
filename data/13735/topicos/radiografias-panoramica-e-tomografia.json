@@ -1,0 +1,697 @@
+{
+  "slug": "radiografias-panoramica-e-tomografia",
+  "titulo": "Radiografia panorâmica e tomografia computadorizada de feixe cônico (TCFC): indicações, erros e interpretação",
+  "area": "Radiologia",
+  "origem": "White e Pharoah 8ª ed. (Mallya e Lam), caps. 9, 10, 11, 17 (parte) e 3 (parte)",
+  "status": "em-revisao",
+  "fontes": [
+    {
+      "id": "wp8-cap03",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 3, Segurança e Proteção, p. 26–38 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 3 (autores dos EUA)"
+    },
+    {
+      "id": "wp8-cap09",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 9, Radiografia Panorâmica, p. 127–144 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 9"
+    },
+    {
+      "id": "wp8-cap10",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 10, Tomografia Computadorizada de Feixe Cônico: Aquisição de Volume, p. 145–159 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 10"
+    },
+    {
+      "id": "wp8-cap11",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 11, Tomografia Computadorizada de Feixe Cônico: Preparação do Volume, p. 160–174 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 11"
+    },
+    {
+      "id": "wp8-cap17",
+      "ref": "Mallya SM, Lam EWN. White e Pharoah, Radiologia Oral: Princípios e Interpretação. 8ª ed. Rio de Janeiro: GEN Guanabara Koogan; 2020. Cap. 17, Prescrição de Imagens Diagnósticas, p. 271–278 (numeração do contador da edição digital).",
+      "curta": "White e Pharoah 8ª ed., cap. 17"
+    },
+    {
+      "id": "ada2024rx",
+      "ref": "Benavides E, Krecioch JR, Connolly RT, et al. Optimizing radiation safety in dentistry: clinical recommendations and regulatory considerations. J Am Dent Assoc. 2024;155(4):280–293.e4 (recomendações de um painel de especialistas da ADA; texto integral no site do JADA, lido em 27/11/2026). Documento dos EUA.",
+      "curta": "ADA 2024, segurança em radiologia (EUA)"
+    },
+    {
+      "id": "adaaaomr2026",
+      "ref": "Benavides E, Krecioch JR, Allareddy T, et al. American Dental Association and American Academy of Oral and Maxillofacial Radiology patient selection for dental radiography and cone-beam computed tomography. J Am Dent Assoc. 2026;157(1):20–35.e5 (declaração de consenso de janeiro de 2026, que atualiza a ADA e FDA de 2012; texto integral no Europe PMC, PMC13580382, lido em 27/11/2026). Documento dos EUA.",
+      "curta": "ADA e AAOMR 2026, seleção de pacientes (EUA)"
+    }
+  ],
+  "resumo": [
+    {
+      "id": "pan-indicacoes",
+      "titulo": "Panorâmica: o que mostra e quando não basta",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128",
+      "texto": "Segundo o White e Pharoah (livro traduzido, de autores dos EUA), a radiografia panorâmica, também chamada de pantomografia, mostra numa só imagem as arcadas maxilar e mandibular e as estruturas de suporte. Ela sai de uma rotação única da fonte de raios X e do receptor ao redor da cabeça.\n\n**Quando ela ajuda:** quando o problema pede cobertura ampla das mandíbulas. O Quadro 9.1 lista como indicações a avaliação geral da dentição, patologia intraóssea (cistos, tumores, infecções), as articulações temporomandibulares, a posição de dentes impactados, a erupção da dentição permanente, o traumatismo dentomaxilofacial e os distúrbios de desenvolvimento do esqueleto maxilofacial. O texto acrescenta terceiros molares, restos radiculares em desdentados e dentição mista. Ela é usada com frequência na avaliação inicial do paciente e pode ajudar a decidir se outras projeções são necessárias. Também serve a quem não tolera o exame intraoral ou tem trismo, e é um bom auxílio visual para educar o paciente e apresentar o caso.\n\n**O que ela não faz bem:** falta o detalhe da periapical. Por isso a panorâmica não é tão útil quanto a periapical para detectar lesões, ver a estrutura fina do periodonto marginal ou achar doença periapical precoce. As superfícies proximais dos pré-molares costumam se sobrepor. A ampliação é desigual e há distorção geométrica na imagem inteira. Estruturas sobrepostas, como a coluna cervical, podem esconder lesões, sobretudo na região dos incisivos, e um objeto importante fora da camada focal pode aparecer distorcido ou não aparecer.\n\n**Atenção:** no adulto, ter uma panorâmica não dispensa as radiografias intraorais para as doenças dentárias mais comuns. Se o paciente já tem série de boca completa e precisa só de atendimento geral, uma panorâmica na mesma hora costuma trazer pouca ou nenhuma informação útil a mais. Segundo o livro, bitewings mais uma panorâmica, ou bitewings e algumas periapicais, podem render um diagnóstico parecido com o da série de boca toda.\n\nSobre a dose, a legenda da Figura 9.1 (p. 127) diz que a panorâmica dá dose muito mais baixa que uma série de boca toda, ao custo de menor resolução espacial. Os valores numéricos do livro estão na seção de doses do cap. 3."
+    },
+    {
+      "id": "pan-camada-focal",
+      "titulo": "Camada focal e imagens fantasma",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130",
+      "texto": "A panorâmica só mostra bem o que está dentro da **camada focal**, uma zona tridimensional curva e larga. Dentro dela as estruturas saem razoavelmente nítidas, e as mais perto do centro são as mais claras. Fora dela o objeto fica borrado, ampliado ou reduzido, às vezes a ponto de não ser reconhecido. Por isso o posicionamento do paciente decide a qualidade da imagem.\n\n**Forma da camada:** muda com a marca do aparelho, o protocolo escolhido e o movimento do receptor e do cabeçote. A localização pode mudar com o uso intenso, e o livro diz que pode ser preciso recalibrar o aparelho se as imagens ficarem sempre abaixo do ideal. Em alguns aparelhos a camada se ajusta a criança, a anatomia atípica, à ATM ou aos seios maxilares; diminuir o arco de rotação também reduz a exposição do paciente.\n\n**Três tipos de imagem**, porque o feixe passa duas vezes por algumas estruturas durante o ciclo:\n- **Real:** objeto entre o centro de rotação e o receptor. Dentro da camada focal fica relativamente nítido; fora, borrado.\n- **Dupla:** objeto atrás do centro de rotação, atingido duas vezes pelo feixe. Osso hioide, epiglote e coluna cervical aparecem nos dois lados da imagem.\n- **Fantasma:** objeto entre a fonte de raios X e o centro de rotação. Aparece do lado oposto e mais alto, por causa da inclinação ascendente do feixe, turvo e muito ampliado. Exemplo do livro: o ramo direito tem a imagem fantasma sobreposta ao lado esquerdo da imagem, e vice-versa.\n\n**Atenção:** metal na cabeça ou no pescoço (brincos, colares, prendedores de cabelo) deixa sombras fantasma radiopacas e borradas que escondem estruturas ou simulam doença. O palato duro e o corpo e o ângulo da mandíbula também formam fantasmas, vistos com clareza na imagem. É por isso que o metal sai da cabeça e do pescoço antes do exame."
+    },
+    {
+      "id": "pan-distorcao",
+      "titulo": "Distorção: o que não medir na panorâmica",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Distorção de imagem, pp. 131–133",
+      "texto": "Segundo o White e Pharoah, a panorâmica distorce necessariamente o tamanho e a forma do objeto. Por isso **não serve para medida linear nem angular**. O tamanho e a forma na imagem dependem de onde o objeto está na camada focal, do ângulo do feixe, da distância da fonte e do caminho do centro de rotação. Isso muda de aparelho para aparelho e de região para região, e também com a anatomia e o posicionamento do paciente. Não existe fator de ampliação predefinido que torne a medida confiável.\n\n**Horizontal:** a ampliação depende de onde o objeto está na camada focal e é muito influenciada pelo posicionamento. Na demonstração do livro, com uma mandíbula e um anel de latão, a estrutura 5 mm atrás do centro da camada ficou mais larga, e a 5 mm à frente ficou mais estreita; a dimensão vertical mudou pouco. O mecanismo: a estrutura deslocada para lingual (em direção à fonte) é varrida mais devagar que o receptor e se alonga na horizontal; deslocada para vestibular, é varrida mais depressa e se comprime. Na região anterior a ampliação horizontal cresce de modo acentuado quando o objeto se afasta do centro da camada; nas regiões posteriores, menos. Dois objetos idênticos, um anterior e outro posterior, podem ter ampliações diferentes.\n\n**Vertical:** o feixe tem leve inclinação caudocranial e projeta mais para cima as estruturas mais perto da fonte. Assim, a relação vertical entre estruturas pode não ser real, e o livro diz que avaliá-la na panorâmica não é confiável. Exemplo: três posições do canal mandibular no mesmo plano horizontal são projetadas em alturas diferentes; o canal lingual aparece mais perto do ápice de um molar, e o vestibular, mais longe. A distância entre ápice e canal pode sair deturpada.\n\n**Atenção ao acompanhar lesão óssea**, sobretudo na região anterior: em imagens de datas diferentes, o posicionamento pode fazer a mesma lesão parecer maior ou menor, como se estivesse cicatrizando, sem que ela tenha mudado. Daí o cuidado de alinhar as arcadas na camada focal.\n\n**Cabeça girada:** molares e ramo ficam grandes de um lado e menores do outro, com sobreposição grave de pré-molares. O livro avisa para não confundir isso com assimetria facial congênita ou de desenvolvimento."
+    },
+    {
+      "id": "pan-posicionamento",
+      "titulo": "Preparar e posicionar o paciente",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, Receptores de imagem e identificação, pp. 133–136",
+      "texto": "O livro trata o preparo e o posicionamento dentro da camada focal como essenciais. Siga esta sequência:\n\n1. **Retire os metais** da cabeça e do pescoço: aparelhos dentários, brincos, colares, prendedores de cabelo e qualquer outro objeto metálico. Eles formam imagem fantasma radiopaca.\n2. **Mostre o aparelho.** Pode ajudar ciclar o equipamento sem exposição, sobretudo para criança ansiosa. A criança deve olhar para a frente e não seguir o cabeçote com os olhos.\n3. **Posição anteroposterior:** o paciente morde com as bordas incisais dos incisivos superiores e inferiores no dispositivo de mordida denteado. O plano sagital mediano fica centrado na camada focal, sem desvio lateral da mandíbula ao avançar. A maioria das unidades tem lasers para alinhar o plano sagital mediano, o plano de Frankfort e a posição anteroposterior.\n4. **Queixo e plano oclusal:** o plano oclusal fica ligeiramente mais baixo na frente. Como guia geral, a linha do trágus ao canto externo do olho fica paralela ao chão. Queixo alto ou baixo demais distorce a imagem (ver a seção seguinte).\n5. **Postura:** costas e coluna o mais eretas possível, com o pescoço estendido. Uma almofada nas costas ou um apoio para os pés ajuda a endireitar a coluna e a reduzir a sombra vertebral. Para estender o pescoço, o livro sugere uma força suave para cima nas eminências da mastoide, com o queixo ligeiramente inclinado.\n6. **Língua:** com o paciente já posicionado, peça que engula e mantenha a língua contra o céu da boca. Assim o dorso da língua sobe até o palato duro, o espaço aéreo some e os ápices dos dentes superiores aparecem bem.\n\n**Identificação:** a imagem precisa trazer nome, data de nascimento, lado direito e esquerdo, data do exame e nome do dentista, em lugar que não cubra anatomia. Não corte a imagem para ela caber na pasta do paciente.\n\nO livro diz que receptores digitais (placa de fósforo ou sensores de estado sólido) são hoje muito comuns, e que o pós-processamento permite ajustar contraste, densidade e ampliação."
+    },
+    {
+      "id": "pan-erros",
+      "titulo": "Erros de posicionamento: o que cada um faz na imagem",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137",
+      "texto": "Segundo o White e Pharoah, o posicionamento errado é a fonte dos problemas mais comuns da panorâmica. Resumo do que o livro descreve:\n\n| Erro de posição | O que aparece na imagem |\n|---|---|\n| Paciente muito posterior à camada focal | Dentes anteriores \"largos\" (ampliação mesiodistal nos sextantes anteriores) |\n| Paciente muito anterior à camada focal | Dentes anteriores \"finos\" (dimensão mesiodistal reduzida) |\n| Plano sagital mediano fora da linha média do aparelho (rotação ou desvio) | Lados direito e esquerdo ampliados de modo desigual, distorção horizontal nas regiões posteriores, sobreposição excessiva de pré-molares; às vezes imagem não diagnóstica |\n| Queixo inclinado alto demais | Plano oclusal plano ou invertido, mandíbula distorcida, sombra radiopaca do palato duro sobre as raízes superiores |\n| Queixo baixo demais | Linha de sorriso exagerada, dentes muito sobrepostos, sínfise cortada, côndilos podem sair pela borda superior |\n| Cabeça e pescoço projetados para a frente | Grande opacidade na linha média (vértebras cervicais) que cobre a sínfise e pode exigir repetir |\n| Língua fora do palato | Espaço aéreo escuro sob o palato duro, sem ver os ápices dos dentes superiores |\n| Objeto metálico não retirado | Imagem fantasma radiopaca e borrada |\n\n**Atenção:** o livro chama de erro comum o mau posicionamento da linha média. Para avaliar o quanto de distorção horizontal há, compare a largura mesiodistal aparente do primeiro molar inferior dos dois lados: o lado menor estava perto demais do receptor e o maior, perto demais do centro de rotação.\n\nNa interpretação, dentes anteriores largos ou estreitos demais sugerem mau posicionamento, e dentes mais largos de um lado que do outro sugerem rotação do plano sagital."
+    },
+    {
+      "id": "pan-interpretacao",
+      "titulo": "Interpretar a panorâmica: método, orientação e dentição",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Interpretação de imagens panorâmicas, Dentição e Região média da face, pp. 137–138",
+      "texto": "O livro pede uma análise sistemática. A panorâmica é bem diferente das intraorais: o livro explica a dificuldade de reconhecer o normal por três motivos: a anatomia da face média é complexa, muitas estruturas duras e moles se sobrepõem e a projeção muda de orientação, com imagens reais, duplas e fantasma. Também é preciso identificar os artefatos de movimento do aparelho, de movimento do paciente e de posicionamento. Boa luz ambiente e sala silenciosa valem para monitor e para negatoscópio.\n\n**Pense em três dimensões.** A radiografia odontológica é predominantemente bidimensional, e na panorâmica ainda há a espessura do tomograma. Exemplo do livro: as linhas oblíqua externa e milo-hióidea parecem nítidas na mesma imagem, mas a primeira está na superfície vestibular e a segunda na lingual, separadas por vários milímetros.\n\n**Orientação:** veja a imagem como se olhasse para o paciente, com o lado direito dele à esquerda do observador, como nas periapicais e bitewings. A mandíbula curva é desdobrada num único plano: nas regiões posteriores você vê uma vista lateral, e no sextante anterior, uma vista anteroposterior.\n\n**Dentição (ponto forte da panorâmica):** identifique todos os dentes irrompidos e em desenvolvimento. Examine número, posição e anatomia, e o que já existe de odontologia (tratamento endodôntico, coroas, restaurações fixas). Cárie grosseira e doença periapical e periodontal podem ser evidentes, mas a resolução é menor que a das intraorais, e intraorais adicionais podem ser necessárias para doença sutil. A sobreposição dos pré-molares atrapalha a leitura de cárie proximal.\n\n**Terceiros molares impactados:** olhe a orientação, o número e a forma das raízes, a relação com o canal mandibular, o assoalho e a parede posterior do seio maxilar, a tuberosidade e os dentes vizinhos, e o osso ao redor. Por ser bidimensional, a panorâmica pode deixar esses achados sem resposta e pedir TCFC para definir a relação das raízes com estruturas vitais (ver a seção das aplicações).\n\n**Face média:** o livro diz que é equívoco chamá-la de \"a maxila\", porque podem aparecer vários ossos (temporal, zigoma, mandíbula, frontal, maxilar, esfenoidal, etmoidal, vômer, nasal, concha nasal e palatino). Por isso divida em compartimentos e examine sempre na mesma ordem (seção seguinte)."
+    },
+    {
+      "id": "pan-face-media",
+      "titulo": "Percorrer a face média na panorâmica",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Região média da face, pp. 138–140; Figura 9.9, p. 131",
+      "texto": "Divida a face média em compartimentos e examine sempre na mesma ordem, como o livro manda: contorno da maxila (borda posterior e crista alveolar), fissura pterigomaxilar, seios maxilares, complexo zigomático, cavidade nasal e conchas, ATMs, dentição e osso de suporte. Rever as estruturas importantes mais de uma vez é, segundo o livro, sempre uma boa ideia.\n\n**Fissura pterigomaxilar:** tem forma de lágrima invertida. Identifique-a dos dois lados: mucocele e carcinoma do seio maxilar caracteristicamente destroem a borda posterior da maxila, o que aparece como perda da borda pterigomaxilar posterior.\n\n**Seios maxilares:** costumam ser bem vistos. As bordas (posterior, anterior, assoalho e teto) devem estar delineadas por cortical e ser aproximadamente simétricas e de densidade parecida. Assimetria de tamanho, forma e número de septos é variação comum, e a parte posterior é mais opaca pela sobreposição do zigoma. Procure cisto de retenção de muco e espessamento da mucosa.\n\n**Complexo zigomático:** o processo zigomático da maxila surge sobre os primeiros e segundos molares superiores. A sutura zigomaticotemporal, no meio do arco, pode simular fratura.\n\n**Cavidade nasal e palato duro:** o assoalho da cavidade nasal (palato duro) aparece como radiopacidade horizontal sobre o seio nas regiões posteriores, muitas vezes como duas linhas. O livro descreve essas linhas de dois modos e, nessas duas passagens, não explica a diferença. No texto (cap. 9, p. 140), a linha inferior, nítida, é a junção da parede lateral da cavidade nasal com o palato duro do lado do tubo, e a superior, difusa, é a do lado oposto. Na legenda da Figura 9.9 (cap. 9, p. 131), a inferior é a junção do lado do receptor, e a superior, a do lado do tubo ou a imagem fantasma do lado oposto. Por isso, cuidado ao decidir qual linha é qual.\n\n**Atenção:** as conchas nasais podem parecer densidades de tecido mole grandes e homogêneas sobre os seios maxilares."
+    },
+    {
+      "id": "pan-mandibula",
+      "titulo": "Percorrer a mandíbula, a ATM e as armadilhas",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Mandíbula, Tecidos moles, pp. 140–144",
+      "texto": "**Mandíbula por compartimentos:** processo condilar e ATM, processo coronoide, ramo, corpo e ângulo, sextante anterior, dentição e osso de suporte.\n\n**Cortical:** acompanhe a borda cortical em volta do osso, fora das áreas com dentes: ela deve ser contínua e igual nos dois lados. Em crianças a trabeculação é muito esparsa nas dentições decídua e mista.\n\n**Fratura:** costuma aparecer como descontinuidade na borda inferior (o livro fala em \"deformidade do degrau\"). Mudança brusca no nível do plano oclusal indica que a fratura passa pela área com dentes; plano oclusal nivelado, sem degrau, indica fratura posterior à área dentada. A cortical da borda inferior deve ter pelo menos 3 mm no adulto e densidade uniforme; afinamento localizado ou generalizado pode indicar lesão expansiva (cisto) ou doença sistêmica.\n\n**Canal mandibular e forame mentual:** em geral são vistos com clareza no ramo e no corpo. O canal tem largura uniforme ou afina suavemente do forame mandibular ao mentual, e pode ficar menos nítido nas regiões dos primeiros molares e pré-molares. Quando só uma borda aparece, em geral é a inferior. Perto do forame mentual o canal pode dar uma alça de vários milímetros para a frente (alça anterior), que conta no planejamento de implante na região do canino inferior. Alargamento leve na entrada, vindo do ramo, é variação do normal; expansão do canal sugere patologia neurovascular.\n\n**Côndilo e ATM:** o côndilo costuma ficar ligeiramente anteroinferior à posição fechada, porque o paciente abre e projeta a mandíbula para se encaixar no dispositivo de mordida. A panorâmica mostra alterações macroscópicas da cabeça do côndilo e da fossa glenoide, mas não avalia o disco articular; para o disco, o livro indica a ressonância magnética.\n\n**Armadilhas sobre o ramo:** vias respiratórias, vértebras cervicais, lóbulo da orelha, cartilagem nasal, palato mole e úvula, dorso da língua, fantasma da mandíbula oposta e joias podem se sobrepor ao ramo. A linha média é mais opaca por causa da protuberância mentual, das trabéculas e da coluna cervical. As fossas das glândulas salivares linguais são mais radiotransparentes que o osso vizinho. O topo da cartilagem tireoide pode ser confundido com calcificação vascular."
+    },
+    {
+      "id": "tcfc-imagem",
+      "titulo": "TCFC: o que é e como o exame é feito",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Princípios da imagem de TCFC, Geração de raios X, Tamanho do voxel, pp. 145–148 e 150",
+      "texto": "Segundo o White e Pharoah, a tomografia computadorizada de feixe cônico (TCFC; o livro também escreve CBCT, em inglês) adquire os dados em volume e dá uma imagem tridimensional do complexo dental e maxilofacial, ao contrário da panorâmica e da cefalométrica.\n\n**Como funciona, em poucas etapas:** uma fonte de raios X e um detector de área, em lados opostos, giram ao redor da cabeça; o feixe divergente tem forma de cone ou de pirâmide. As centenas de imagens de projeção viram um volume formado por voxels, e dele o programa tira cortes nos três planos ortogonais (axial, sagital e coronal). Uma única varredura rotacional basta. Sobre o arco de rotação, o livro diz que o ideal é de 360 graus; na p. 145 ele acrescenta que o arco pode variar de 180 a 720 graus e, na p. 147, ao tratar da integridade do arco da trajetória, fala em 180 a 360°. O tempo de varredura vai de menos de 5 a mais de 30 segundos.\n\n**Paciente:** conforme o aparelho, o exame é feito com o paciente sentado, em pé ou deitado. Em qualquer aparelho, **segurar a cabeça parada pesa mais que o posicionamento fino**, porque o movimento estraga a imagem. Usa-se apoio de queixo, garfo de mordida ou outro mecanismo de restrição.\n\n**Campo de visão (FOV, do inglês field of view):** é o volume varrido. Limite-o ao menor volume que mostre a região de interesse, escolhido para cada paciente: isso evita exposição desnecessária e melhora a imagem, porque há menos radiação espalhada. Os aparelhos são classificados pelo FOV máximo: grande (todo o esqueleto craniofacial), médio (maxila, mandíbula ou ambas) e focalizado ou restrito (alta resolução de regiões limitadas).\n\n**Voxel:** a resolução espacial vem do tamanho do voxel, em geral igual nas três dimensões. Voxel menor dá mais detalhe, mas capta menos fótons e aumenta o ruído, o que pode pedir mais dose (cap. 10, p. 150).\n\n**Exposição:** o feixe pulsado deixa a exposição real bem mais curta que a varredura e reduz a dose. Os fatores de exposição se ajustam ao tamanho do paciente e à tarefa diagnóstica, segundo o princípio ALARA (tão baixo quanto razoavelmente exequível). Protocolos de \"varredura rápida\" cortam bastante a dose, mas a resolução pode não servir para toda tarefa diagnóstica."
+    },
+    {
+      "id": "tcfc-selecao",
+      "titulo": "Quando pedir TCFC e como preparar o paciente",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Critérios de seleção de pacientes e Preparação do paciente, pp. 151–153",
+      "texto": "**Quando pedir.** A TCFC dá ao paciente dose maior que a das outras radiografias dentárias. Peça-a **só quando a periapical ou a panorâmica não bastarem** para o diagnóstico e o plano de tratamento. O livro a vê como recurso a mais, para casos específicos, **nunca como exame de triagem**, e quer o benefício esperado acima do possível dano ao paciente (ALARA). Convém documentar a indicação no prontuário ou em solicitação escrita do exame.\n\n**Diretrizes que o livro cita:** declarações de consenso de uso geral da American Academy of Oral and Maxillofacial Radiology (AAOMR) e da American Dental Association (ADA), associações dos EUA, com orientação sobre indicação, responsabilidades, documentação, segurança e educação do paciente. A AAOMR tem diretrizes próprias para endodontia, implantodontia e ortodontia. As de endodontia estão na seção do cap. 17.\n\n**Prepare o paciente:**\n- Acompanhe-o até o aparelho e dê a proteção contra radiação **antes** de estabilizar a cabeça. O livro recomenda pelo menos um avental de chumbo no tronco, acima do colar, sobretudo em grávidas e crianças, e também um colar de tireoide de chumbo, desde que não atrapalhe o exame. O livro, de autores dos EUA, diz que o uso do avental e do colar é regulado por lei estadual ou federal; esse é o contexto dos EUA.\n- Retire objetos metálicos da cabeça e do pescoço: óculos, joias (inclusive brincos e piercings) e próteses parciais metálicas. Prótese plástica total removível não precisa sair.\n- Estabilize a cabeça e alinhe a região de interesse ao feixe, ajustando com as luzes laser os planos de referência (sagital mediano e de Frankfurt) ou as referências internas (plano oclusal e plano palatino).\n- Salvo orientação diferente (vistas fechadas da ATM, vistas ortodônticas), deixe a dentição separada, mas firme, durante a varredura, com depressor de língua ou roletes de algodão. Isso reduz a dispersão de restaurações metálicas do arco oposto, sobretudo em varreduras de arco único.\n- Oriente o paciente a ficar o mais imóvel possível, respirar devagar pelo nariz e fechar os olhos, para não seguir o detector com o olhar.\n\n**Protocolo:** é o conjunto de parâmetros de exposição e de aquisição (FOV, número de projeções de base, resolução do voxel) escolhido para a tarefa diagnóstica, com a melhor qualidade e a menor exposição. Quem opera deve conhecer o efeito de cada parâmetro na qualidade e na dose."
+    },
+    {
+      "id": "dir-eua-2024-tcfc",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: proteção na panorâmica e na TCFC (ADA, 2024)",
+      "fonte": "ada2024rx",
+      "onde": "Box 2, seção 3 (Patient Safety and Protection), recomendações 3.0.4 e 3.0.5, e o texto Patient Protection and Shielding; seção 3.2 (Radiation Dose Minimization and Image Optimization for CBCT), recomendações 3.2.1 a 3.2.3; recomendação 3.3.1",
+      "texto": "Diretriz **dos EUA**, posterior ao livro: recomendações de segurança em radiologia odontológica de um painel de especialistas da American Dental Association (ADA), associação dos EUA, publicadas em 2024 (o tema *Radiografia periapical e interproximal: técnica, erros e interpretação* a descreve com mais detalhe).\n\n**Colar de tireoide e avental.** Segundo a diretriz, a proteção (shielding) do abdome e da tireoide em imagem intraoral, panorâmica, cefalométrica e de TCFC não é mais recomendada, e seu uso deve ser descontinuado como prática de rotina (recomendação 3.0.5). O texto do artigo diz que a mudança vale para pacientes pediátricos e adultos e que as normas federais, estaduais e locais deveriam ser revisadas para retirar qualquer exigência, explícita ou implícita, de proteção de rotina nesses exames.\n\n**Lado a lado com o livro.** Na preparação para a TCFC, o livro recomenda pelo menos um avental de chumbo no tronco e também um colar de tireoide de chumbo, e diz que o uso é regulado por lei estadual ou federal dos EUA (cap. 10, pp. 151–153). A diretriz de 2024 não recomenda mais essa proteção como rotina. As duas são dos EUA; este tema não escolhe entre elas.\n\n**O que a diretriz de 2024 diz sobre a TCFC:**\n- a TCFC não deve ser usada de rotina, nem como exame primário ou inicial quando uma alternativa de dose menor bastar para o diagnóstico e o planejamento (3.2.1);\n- usar o menor campo de visão (field of view, FOV) necessário para a área de interesse, de acordo com o diagnóstico e o planejamento (3.2.2);\n- fazer a TCFC com técnica e protocolo otimizados para obter imagem diagnosticamente aceitável com a menor dose ao paciente (3.2.3);\n- quando possível, configurar o equipamento conforme o tamanho e a idade do paciente (3.0.4); na criança, usar as configurações do fabricante otimizadas para ela (3.3.1)."
+    },
+    {
+      "id": "tcfc-parametros",
+      "titulo": "Ajustar FOV, mA, kVp e projeções",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Configurações de exposição, Campo de visão e Tempo de varredura, pp. 152–154; p. 150 (voxel e ruído)",
+      "texto": "Os parâmetros pesam na dose e na qualidade, e o livro diz que devem ser adequados ao tamanho do paciente e à tarefa diagnóstica.\n\n- **FOV:** limite o campo com o colimador (redução mecânica, antes ou depois da irradiação). Recortar o campo no computador, descartando dados periféricos (redução eletrônica), é indesejável, porque o paciente já recebeu mais exposição que a necessária. Campo menor também melhora a qualidade, por reduzir a radiação espalhada. O livro diz que a dose costuma cair com o FOV menor, conforme o equipamento, o tipo de colimação e a região (maxila ou mandíbula, anterior ou posterior).\n- **mA e kVp:** para ajustar a dose ao tamanho do paciente, mexa no mA: para a mesma queda de dose o ruído sobe menos, e o mA muda a dose efetiva de modo proporcional. O kV pesa mais na dose (cada aumento de 10 kV, em torno do dobro, com o resto igual). Com metal denso no campo (canal obturado, implante), o livro admite kVp maior para atenuar o endurecimento do feixe.\n- **Controle automático de exposição:** inovação recente que ajusta o mA a cada paciente conforme a radiação medida no detector.\n- **Número de projeções:** mais projeções dão menos artefatos e melhor imagem, mas a reconstrução demora mais e a exposição aumenta de modo proporcional. Poucas projeções criam subamostragem, que produz listras.\n- **Arco menor que 360 graus:** as trajetórias incompletas ou truncadas podem dar artefatos de ângulo limitado (estrias periféricas unidirecionais, escavação do plano médio e falta de fótons).\n- **Voxel:** quando ele é maior que o objeto, o pixel mostra um valor que não é do osso nem do tecido mole vizinho. O livro diz que o menor voxel de aquisição pode reduzir essa média parcial do volume (cap. 10, p. 154); em contrapartida, voxel menor dá mais ruído e pode pedir mais dose (cap. 10, p. 150).\n\n**Atenção:** o livro diz que a escolha dos parâmetros deve ser cuidadosa para cumprir o ALARA, e que quem opera precisa conhecer o efeito de cada um na qualidade da imagem e na dose."
+    },
+    {
+      "id": "tcfc-artefatos",
+      "titulo": "Artefatos que atrapalham a imagem de TCFC",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Artefatos de imagem, p. 148 e pp. 154–155",
+      "texto": "Segundo o livro, artefato é qualquer distorção ou erro na imagem que não tem relação com o que se estuda, e é o fator fundamental que prejudica a qualidade da TCFC. A TCFC tem inerentemente mais artefatos que a tomografia computadorizada multidetector (MDCT), por usar energias mais baixas, pela geometria do feixe cônico, pela dispersão e por um ruído geralmente mais alto.\n\n| Artefato | O que aparece | O que o livro diz |\n|---|---|---|\n| Movimento do paciente | Contornos duplos na imagem reconstruída; quanto menor o voxel, menor o movimento que desalinha as estruturas | Restringir o movimento da cabeça e usar o menor tempo de varredura possível |\n| Endurecimento do feixe (metal) | \"Escavação\" (cupping) e distorção do metal; faixas escuras entre dois objetos densos | Estreitar o campo, reposicionar o paciente ou separar as arcadas, para a varredura não passar pelas áreas de metal que causam o artefato; retirar joias e objetos metálicos antes |\n| Efeito de feixe cônico | Distorção, estrias e mais ruído nas porções periféricas do volume (parte alta e baixa do campo) | Posicionar a região de interesse no plano horizontal do feixe |\n| Subamostragem (poucas projeções, arco incompleto) | Erros de registro, bordas nítidas, ruído e listras do tipo moiré, sobretudo na periferia | Pesar a importância do artefato frente à informação diagnóstica, porque mais projeções aumentam a exposição |\n| Dispersão e média parcial do volume | Faixas parecidas com as do endurecimento; \"degraus\" nos limites quando o voxel é maior que o objeto | O menor voxel de aquisição pode reduzir a média parcial do volume |\n| Problema do equipamento | Anéis ou listras circulares na imagem axial (detecção imperfeita ou calibração ruim); contorno duplo parecido com o de movimento, quando a fonte está desalinhada do detector | O livro cita o realinhamento periódico dos componentes para o desalinhamento da fonte; não detalha conduta do operador para o anel |\n\n**Atenção:** o artefato de movimento pode ser substancial e limitar a resolução da imagem (cap. 10, p. 148). Quanto menor o voxel, menos movimento basta para desalinhar as estruturas (p. 155)."
+    },
+    {
+      "id": "tcfc-potencial",
+      "titulo": "Potencialidades, limitações e dose relatada da TCFC",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Potencialidades e limitações e Conclusões, pp. 157–158; Critérios de seleção de pacientes, p. 151",
+      "texto": "**Potencialidades, segundo o livro:**\n- Equipamento bem menor que o da tomografia convencional e de aproximadamente um quarto a um quinto do custo, o que a torna factível no consultório.\n- Aquisição rápida: a maioria das varreduras leva menos de 30 segundos.\n- Resolução submilimétrica em todos os planos ortogonais. Algumas unidades têm alta resolução (nominal de 0,076 a 0,125 mm), necessária para detalhes como o espaço periodontal, a morfologia do canal radicular, a reabsorção radicular e a fratura.\n- Reconstrução e visualização no computador pessoal, com medidas em tempo real.\n\n**Dose (cap. 10, p. 157):** o livro a chama de relativamente baixa e a compara com a da MDCT de cabeça convencional (430 a 1.160 µSv), em relação à qual a TCFC oferece uma gama de reduções de dose potencialmente substanciais. Na seção de critérios de seleção, o mesmo capítulo compara com as outras radiografias dentárias e diz que a dose da TCFC é maior (p. 151).\n\nOs relatos (citação do livro: ICRP, 2007) mostram ampla faixa de doses efetivas, conforme o tipo e o modelo do aparelho e os parâmetros usados. Doses efetivas relatadas em adultos, para qualquer protocolo (p. 157):\n\n| FOV | Dose efetiva relatada |\n|---|---|\n| Estendido | 46 a 1.073 µSv |\n| Grande | 9 a 548 µSv |\n| Médio | 4 a 421 µSv |\n| Pequeno | 5 a 297 µSv |\n\nO livro as compara a 1 a 42 panorâmicas digitais (cerca de 20 µSv cada). A dose pode cair com a colimação do feixe, o queixo elevado, óculos de proteção e a proteção da coluna cervical e da tireoide. Os valores típicos de protocolos padrão, que são outra coisa (valores típicos, não faixas relatadas), estão na Tabela 3.2 do cap. 3, na seção sobre doses.\n\n**Limitações:**\n- **Ruído:** a geometria cônica irradia um volume maior de tecido e registra mais radiação espalhada. A dispersão cresce com a espessura do objeto e o tamanho do campo, por isso é sempre desejável o menor FOV possível.\n- **Contraste de tecido mole baixo:** a radiação dispersa reduz o contraste, e a TCFC tem contraste de tecido mole significativamente menor que a MDCT. O livro a considera inadequada para a avaliação crítica da patologia dos tecidos moles.\n\n**Conclusão do capítulo:** a TCFC é tecnicamente fácil de fazer, mas o livro a trata como modalidade adjunta à história e ao exame clínico, com exame específico para a tarefa, protocolos ajustados e dose minimizada."
+    },
+    {
+      "id": "tcfc-exibicao",
+      "titulo": "Examinar o volume: planos, rolagem e reformatação",
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Estágios na exibição de dados volumétricos e Reformatação multiplanar, pp. 160–162",
+      "texto": "O volume é mostrado em três painéis ligados por localizadores interativos, com cortes contíguos nos três planos ortogonais (axial, sagital e coronal). Segundo o White e Pharoah, **o volume deve ser analisado por inteiro**, e só as imagens selecionadas são extraídas para documentar os achados.\n\n**Quatro estágios, segundo o livro:** reorientação, correção, exploração e formatação dos dados. Na lista do livro (cap. 11, p. 160) o segundo estágio é a \"correção dos dados\"; o título da seção correspondente (p. 160) é \"otimização dos dados\".\n- **Reorientação:** o programa alinha os três planos a uma estrutura anatômica ou a um plano de referência. Serve, por exemplo, para medir a altura e a largura máximas da crista alveolar residual num segmento desdentado, ao avaliar um local de implante.\n- **Otimização (correção):** densidade e contraste variam entre aparelhos e entre pacientes. Em geral é preciso ajustar o contraste (largura da janela) e o brilho (nível da janela) para favorecer o osso. Filtros e realce de borda entram depois, pesando o aumento do ruído.\n- **Exploração:** percorra os cortes da cabeça para os pés e depois no sentido contrário, com mais calma na ATM e na base do crânio, pelo menos nos planos coronal e axial. Ver as projeções ortogonais serve de levantamento geral da doença e para ver assimetrias.\n- **Formatação:** o protocolo de exibição destaca o que a tarefa pede. Em geral, cortes finos mostram detalhe e cortes mais espessos mostram relações. As duas opções básicas são a reformatação multiplanar e a renderização volumétrica.\n\n**Reformatação multiplanar:** corta o volume em planos que não são os ortogonais. O plano curvo ao longo do arco da mandíbula gera uma panorâmica reformatada (o corte tem de ser grosso o bastante para cobrir toda a mandíbula), e os cortes transversais em série servem para dentes e osso alveolar.\n\n**Renderização:** a projeção de intensidade máxima mostra só o voxel de maior valor ao longo de cada raio, e o livro cita seu uso para localizar dentes retidos, avaliar a ATM e identificar fraturas. As outras técnicas de renderização do livro ficam fora deste tema."
+    },
+    {
+      "id": "tcfc-laudo",
+      "titulo": "Laudo da TCFC: o que escrever e quem assume",
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167",
+      "texto": "Segundo o White e Pharoah, livro dos EUA, a imagem de feixe cônico é só a parte técnica do exame. **Quem opera a unidade, ou quem solicita o estudo, responde por entregar um laudo escrito**, com os achados da leitura de todo o conjunto de dados. O laudo é parte necessária da documentação e vai para o prontuário. Como o caso costuma envolver vários profissionais, ele é o melhor canal para comunicar o resultado e muitas vezes inclui as imagens selecionadas que melhor mostram os achados.\n\n**Revise todo o volume, de modo sistemático.** A competência para interpretar os achados varia com a experiência e com o FOV da varredura. O livro diz que se deve consultar um radiologista especializado em radiologia oral e maxilofacial quando o profissional não conhece os achados da imagem ou não quer assumir a responsabilidade de revisar todo o volume.\n\n**O que o laudo precisa ter (resumo da Tabela 11.1, p. 167):**\n\n| Grupo | O que entra |\n|---|---|\n| Paciente | quem é, quem pediu e por quê |\n| Exame | data, equipamento e parâmetros usados |\n| Qualidade da imagem | movimento do paciente e artefatos que atrapalham a leitura |\n| Achados | dentes e osso alveolar; ATM, seios e vias respiratórias; os achados que respondem à pergunta do exame e os incidentais importantes |\n| Impressão | diagnóstico ou diferencial, comparação com exames anteriores e recomendação de acompanhamento ou de outros exames |\n\n**Atenção:** o livro põe o laudo dentro da documentação do prontuário. Como registrar e guardar o prontuário em geral está no tema \"Prontuário odontológico, termo de consentimento e responsabilidade legal\"."
+    },
+    {
+      "id": "tcfc-aplicacoes",
+      "titulo": "Para que serve a TCFC, por tarefa",
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Aplicações de tarefas específicas, pp. 165–169",
+      "texto": "O livro diz que a TCFC é aplicada em diagnósticos de todas as áreas da odontologia, mas **não substitui** as projeções panorâmicas ou convencionais: é usada sobretudo como modalidade complementar, em aplicações específicas. A lista a seguir é só do que ele indica, sem o detalhe de especialista.\n\n- **Local de implante:** cortes transversais mostram altura, largura e angulação do osso alveolar e retratam com precisão estruturas vitais, como o canal do nervo alveolar inferior e o seio maxilar. Muitas vezes o paciente usa um molde radiográfico com marcadores hiperdensos durante a varredura, que dá referência precisa da posição dos implantes ou dos dentes propostos.\n- **Endodontia:** as situações em que a TCFC com FOV limitado é considerada estão na seção de diretrizes (Quadro 17.2, cap. 17).\n- **Terceiro molar:** a relação do canal alveolar inferior com as raízes importa para evitar lesão do nervo, que pode deixar perda de sensibilidade de um lado do lábio inferior. A panorâmica pode bastar quando há osso entre as raízes e o canal; **quando as duas estruturas se sobrepõem na imagem, o livro aconselha uma abordagem 3D**.\n- **Ortodontia:** posição de dentes impactados e supranumerários e sua relação com raízes vizinhas, anomalias estruturais como reabsorção radicular, entre outras aplicações do capítulo.\n- **ATM:** morfologia óssea do côndilo e espaço articular; doença articular degenerativa, anomalias de desenvolvimento do côndilo, anquilose e artrite reumatoide.\n- **Maxilares e trauma:** dentes fraturados, caninos impactados, supranumerários, lesões periapicais e doença periodontal; extensão de cistos e tumores odontogênicos benignos ou não odontogênicos e de osteomielite; avaliação de traumatismo. Calcificações benignas (amigdalólitos, linfonodos, cálculos salivares) podem ser identificadas e diferenciadas de calcificações potencialmente significativas, como no ateroma da carótida.\n\n**Atenção:** a TCFC não dá contraste de tecido mole adequado para distinguir o conteúdo das lesões de tecido mole dos seios paranasais; o livro diz que a forma e a extensão delas são bem vistas. Cirurgia guiada por imagem, fabricação aditiva e biomodelos também estão no capítulo, e este tema não entra neles."
+    },
+    {
+      "id": "escolher-exame",
+      "titulo": "Escolher entre intraoral, panorâmica e TCFC",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Exames radiológicos, Imagens intraorais, Imagens extraorais e Imagens avançadas, pp. 271–272",
+      "texto": "O capítulo abre com um princípio: o exame de imagem é um teste diagnóstico: só se pede quando a história ou o exame clínico indicam que ele vai ajudar no diagnóstico ou no plano de tratamento. Por isso vem **depois de uma história médica e odontológica minuciosa e de um exame clínico**. Como a maioria das imagens dentomaxilofaciais usam radiação ionizante, o dentista confere se o benefício supera o risco.\n\n**O que orienta a escolha, segundo o livro:** a natureza ou a gravidade percebida da anormalidade (tamanho e acessibilidade); a capacidade da técnica de mostrar as características diagnósticas (sensibilidade e especificidade); a quantidade de detalhe necessária (resolução); e a dose de radiação.\n\n- **Intraoral:** tem a maior resolução espacial entre as modalidades da odontologia e é a melhor escolha quando o detalhe fino de um dente ou das estruturas de suporte importa.\n- **Panorâmica (extraoral):** dá visão ampla da face média e do complexo maxilomandibular, com resolução espacial menor, distorção pela angulação do feixe, suscetibilidade ao movimento do paciente e padrão de sobreposição que dificulta a interpretação. A visão ampla é vantajosa, mas não permite avaliar o detalhe fino que a intraoral mostra.\n- **TCFC e MDCT:** servem quando é preciso avaliar a anatomia seccional em três dimensões. O livro diz que se deve optar por modalidades avançadas 3D se as imagens intraorais, panorâmicas ou cefalométricas não derem a informação necessária para o planejamento e o diagnóstico. Elas geralmente têm resolução espacial menor que a intraoral e a panorâmica, e a TCFC e a MDCT dão doses substancialmente maiores.\n- **Outras:** ressonância magnética e ultrassonografia são mais adequadas para tecidos moles, e a medicina nuclear serve quando é preciso avaliar a atividade metabólica da anormalidade. A MDCT e a medicina nuclear dão ao paciente dose substancialmente maior que a imagem convencional ou a TCFC.\n\n**Atenção:** o dentista que opera seu próprio sistema avançado deve conhecer bem a tecnologia (física, artefatos, reconstrução e interpretação). O livro diz que esses assuntos em geral pedem conhecimento especializado e que se deve considerar encaminhar o paciente a um especialista em radiologia oral e maxilofacial.\n\nAs diretrizes para pedir imagens formam uma estrutura para as decisões; não são regras rígidas, e só se aplicam depois da revisão da história e do exame clínico completo."
+    },
+    {
+      "id": "tcfc-diretrizes",
+      "titulo": "Diretrizes para pedir TCFC: SEDENTEXCT, AAOMR e AAE",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Diretrizes para solicitar exames de TCFC, pp. 274–276; Quadro 17.2, p. 275",
+      "texto": "O White e Pharoah diz que, ao contrário das diretrizes para radiografias dentárias, as de pedido de TCFC são relativamente novas. As diretrizes que ele cita são europeias e dos EUA, e nenhuma é regra local.\n\n**SEDENTEXCT** (consórcio europeu de pesquisadores e radiologistas orais e maxilofaciais): documento abrangente sobre critérios de seleção, garantia de qualidade e formas de reduzir a dose, com revisão da literatura. O livro descreve a abordagem do grupo como conservadora no uso de radiação ionizante. O SEDENTEXCT recomenda que o exame de TCFC:\n1. não seja prescrito sem história e exame clínico;\n2. seja justificado para cada paciente, com benefício maior que o risco;\n3. possa acrescentar informação nova para o manejo do paciente.\n\nDuas práticas gerais emergem: a TCFC deve ser usada onde antes se escolhia a MDCT para tecido duro, porque a dose da TCFC costuma ser menor em exames semelhantes; e o campo deve cobrir só a área de interesse, porque campos menores dão doses menores.\n\n**AAE e AAOMR (associações dos EUA), declaração conjunta, atualização de 2015 (Quadro 17.2, p. 275):** orienta a TCFC em endodontia. Para avaliar o paciente e para a imagem logo depois do tratamento, o quadro põe a radiografia intraoral como modalidade de escolha. A TCFC com FOV limitado entra quando a intraoral não resolve:\n- sinais e sintomas contraditórios ou inespecíficos;\n- dente com possíveis canais extras ou anatomia complexa, no tratamento inicial; canais calcificados, para identificá-los e localizá-los durante a consulta, quando não foi feita TCFC pré-operatória;\n- fratura radicular vertical com exame clínico e intraoral 2D inconclusivos;\n- tratamento anterior que não cicatrizou, retratamento não cirúrgico com complicações e planejamento cirúrgico;\n- traumatismo dentoalveolar limitado.\n\nPara localizar e diferenciar reabsorções externa e interna, o quadro diz que a TCFC com FOV limitado é a modalidade de escolha.\n\n**Atenção:** o texto do livro (p. 275) fala em 11 recomendações; o Quadro 17.2 (p. 275) traz 12 itens numerados, e o livro não comenta a diferença nas passagens lidas. O item 10 do quadro põe a TCFC com FOV limitado como modalidade de escolha para a colocação cirúrgica de implantes, o que este tema não detalha.\n\nO livro cita ainda diretrizes da AAOMR para ortodontia (Quadro 17.3) e para implantodontia, que este tema não detalha."
+    },
+    {
+      "id": "dir-eua-2026-tcfc-panoramica",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: panorâmica e TCFC na seleção de pacientes (ADA e AAOMR, 2026)",
+      "fonte": "adaaaomr2026",
+      "onde": "seção General Recommendations for Dental Imaging; Box 1, recomendação 1.7; Box 2, recomendações 2.5, 3.1, 4.1, 4.2, 4.4 e 4.5; Box 3, recomendações 3.1 e 4.2; parágrafo de abertura",
+      "texto": "Declaração de consenso **dos EUA** (ADA e AAOMR, associações dos EUA; JADA, janeiro de 2026), posterior ao livro, que atualiza as recomendações de 2012 da ADA e da FDA. O livro cita, nesta parte, diretrizes da AAOMR e da AAE; aqui está o que a declaração de 2026 diz.\n\n- **TCFC só com indicação.** Reservar a TCFC para indicações clínicas justificadas, encaminhar ao especialista quando cabível e evitar imagem duplicada. A TCFC não é indicada para detectar cárie e, na doença periodontal, em geral não é necessária; pode ser indicada no planejamento de casos complexos (Box 1, 1.7; Box 2, 2.5).\n- **Quem pede, interpreta.** O dentista que pede ou usa a TCFC é responsável por interpretar todos os achados do volume examinado, inclusive os de fora da área de interesse; a declaração chama isso de exigência profissional e legal (nos EUA). Em caso complexo ou falta de experiência, recomenda enviar o exame a um radiologista oral e maxilofacial.\n- **Panorâmica.** Na ortodontia, é a modalidade inicial para acompanhar a erupção dos dentes antes do tratamento (Box 2, 3.1). Para terceiros molares, dentes supranumerários e dentes suplementares (supplemental teeth), a triagem radiográfica de rotina, sem indicação clínica, não é recomendada; havendo indicação, recomenda-se a panorâmica (Box 2, 4.1 e 4.2). Na criança, a primeira panorâmica só depois da erupção completa dos primeiros molares permanentes e de todos os incisivos inferiores, salvo para avaliar patologia (Box 3, 3.1).\n- **Nervo alveolar inferior.** Se a panorâmica indicar maior risco de lesão do nervo alveolar inferior (ápice da raiz abaixo do canal, escurecimento das raízes, perda do contorno cortical do canal ou desvio do canal), considerar a TCFC. Ela só deve ser usada se o achado afetar a avaliação de risco ou a decisão de tratamento (Box 2, 4.4 e 4.5).\n- **Criança.** A TCFC pode ser considerada quando a imagem 2D não der informação suficiente, por exemplo em suspeita de patologia, trauma ou localização de dente incluso (Box 3, 4.2)."
+    },
+    {
+      "id": "dir-eua-2026-endodontia",
+      "titulo": "Diretrizes dos EUA posteriores ao livro: TCFC em endodontia (ADA e AAOMR, 2026)",
+      "fonte": "adaaaomr2026",
+      "onde": "seção Recommendations for Endodontics; Table 1 (Endodontics recommendations)",
+      "texto": "Declaração de consenso **dos EUA** (ADA e AAOMR; JADA, janeiro de 2026), posterior ao livro. O livro traz a declaração conjunta de 2015 da AAE e da AAOMR (Quadro 17.2). Esta seção traz a Table 1 da declaração de 2026 da ADA e da AAOMR, que é outro documento; o tema não escolhe entre os dois.\n\nA declaração diz que a TCFC pode não ser necessária em todo diagnóstico ou tratamento endodôntico: a decisão é de cada caso e do julgamento clínico.\n\n- **Avaliação do dente.** A radiografia intraoral 2D é a modalidade primária de escolha. A TCFC pode ser indicada depois do exame clínico e da avaliação das imagens 2D, por exemplo em sinais e sintomas contraditórios ou inespecíficos, anatomia incomum de raiz ou ápice, canais calcificados, reabsorção radicular, dentes já tratados (inclusive com dor persistente depois do tratamento) e suspeita de perfuração ou de instrumento separado. Usar o menor campo de visão que dê a informação necessária.\n- **Trauma dentoalveolar.** A TCFC é a modalidade de escolha no trauma confirmado ou suspeito. O livro (2015) lista o traumatismo dentoalveolar limitado entre os casos em que a TCFC com FOV limitado entra quando a intraoral não resolve.\n- **Planejamento.** TCFC indicada em dente com possíveis canais extras ou morfologia complexa suspeita, e em dente já tratado com doença secundária, persistente ou recorrente, para avaliar a causa e decidir entre retratamento cirúrgico e não cirúrgico. A triagem desses casos costuma ser feita pelo clínico geral, que deve discutir as opções com o paciente e consultar o endodontista.\n- **Durante o tratamento.** Sem TCFC prévia, ela é indicada para localizar canais calcificados, ramificações, perfurações ou obstrução do canal.\n- **Depois do tratamento.** Periapical para a avaliação pós-operatória, salvo evidência de doença persistente, quando se considera a TCFC de campo pequeno. Na fratura radicular vertical e na fratura coroa-raiz, periapical ou TCFC; a TCFC é a modalidade de escolha quando o exame clínico e a radiografia intraoral não esclarecem."
+    },
+    {
+      "id": "doses-comparadas",
+      "titulo": "Doses típicas: panorâmica, TCFC e outros exames",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Dose ao paciente, Tabela 3.2, Quadro 3.1 e Telas intensificadoras, pp. 28–31",
+      "texto": "O White e Pharoah (autores dos EUA) relata a dose de imagem como **dose efetiva**, uma medida do risco estocástico. Ela soma as doses absorvidas por vários órgãos, ponderadas pela sensibilidade de cada um, e **não considera idade, sexo nem suscetibilidade individual**. Por isso não representa a dose de um paciente em particular, mas serve para comparar riscos relativos.\n\n**Tabela 3.2, doses efetivas típicas** (protocolos típicos de exposição; a \"exposição de fundo equivalente\" foi calculada com 3,1 mSv por ano):\n\n| Exame | Dose efetiva média | Equivale a |\n|---|---|---|\n| Bitewings posteriores, colimação retangular, placa de fósforo ou filme de velocidade F | 5 µSv | 0,6 dia |\n| Boca toda, colimação retangular, placa de fósforo ou filme de velocidade F | 40 µSv | 5 dias |\n| Panorâmica | 20 µSv | 2,5 dias |\n| TCFC, campo pequeno (menor que 6 cm) | 50 µSv | 6 dias |\n| TCFC, campo médio (arco total, dentoalveolar) | 100 µSv | 12 dias |\n| TCFC, campo grande (craniofacial) | 120 µSv | 15 dias |\n| Tomografia multidetector, maxilofacial | 650 µSv | 2 meses |\n\nO cap. 10 do livro remete a esta tabela para as doses típicas da TCFC. Para a panorâmica, a legenda da Figura 9.1 do cap. 9 (p. 127) fala em dose muito mais baixa que a da boca toda; aqui, com colimação retangular, a tabela traz 20 µSv para a panorâmica e 40 µSv para a boca toda.\n\n**Como usar na conversa com o paciente:** o livro recomenda dizer a magnitude da dose em dias, meses ou anos de radiação de fundo natural e compará-la com outras fontes, como voos aéreos. Para a radiografia dentomaxilofacial, as doses vão de insignificantes a mínimas em relação a outros exames de imagem médicos.\n\n**Para reduzir a dose (Quadro 3.1):** na panorâmica, use telas intensificadoras de terras-raras, se for filme, ou sistema digital; na TCFC, restrinja o FOV à região de interesse. O livro diz que as telas de terras-raras, comparadas às antigas de tungstato de cálcio, reduzem a exposição em 55% nas panorâmicas e cefalométricas, e que, ao contrário da radiografia intraoral, a redução de dose com as tecnologias digitais nesses exames é mínima.\n\nA proteção do paciente em geral (colimação, avental, colar de tireoide, critérios de seleção) está no tema \"Radiografia periapical e interproximal: técnica, erros e interpretação\"."
+    }
+  ],
+  "figuras": [],
+  "flashcards": [
+    {
+      "id": "f01",
+      "frente": "Segundo o White e Pharoah, a panorâmica substitui a periapical para achar doença periapical precoce?",
+      "verso": "Não. Falta o detalhe da periapical, e a panorâmica é menos útil para detectar lesões, ver a estrutura fina do periodonto marginal ou achar doença periapical precoce.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Radiografia Panorâmica, abertura, pp. 127–128"
+    },
+    {
+      "id": "f02",
+      "frente": "O que é a camada focal da panorâmica?",
+      "verso": "Zona tridimensional curva e larga em que as estruturas saem razoavelmente nítidas. Fora dela o objeto fica borrado, ampliado ou reduzido, às vezes a ponto de não ser reconhecido.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Camada focal, pp. 128–130"
+    },
+    {
+      "id": "f03",
+      "frente": "Onde aparece a imagem fantasma na panorâmica, e como ela é?",
+      "verso": "De objetos entre a fonte e o centro de rotação. Aparece do lado oposto e mais alto, turva e muito ampliada. Brincos e colares geram fantasmas radiopacos.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Imagens reais, duplas e fantasma, pp. 129–130"
+    },
+    {
+      "id": "f04",
+      "frente": "Por que a panorâmica não serve para medida linear ou angular?",
+      "verso": "A distorção de tamanho e forma varia com a angulação do feixe, a distância fonte-objeto, o caminho do centro de rotação e a posição na camada focal, e não há fator de ampliação predefinido.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Distorção de imagem, pp. 131–133"
+    },
+    {
+      "id": "f05",
+      "frente": "Na panorâmica, dentes anteriores \"largos\": o paciente ficou muito posterior ou muito anterior à camada focal?",
+      "verso": "Muito posterior: ampliação mesiodistal nos sextantes anteriores. Muito anterior dá dentes anteriores \"finos\".",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–134"
+    },
+    {
+      "id": "f06",
+      "frente": "Como avaliar o grau de distorção horizontal por mau posicionamento da linha média?",
+      "verso": "Compare a largura mesiodistal aparente do primeiro molar inferior dos dois lados. O lado menor estava perto demais do receptor, e o maior, perto demais do centro de rotação.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–134"
+    },
+    {
+      "id": "f07",
+      "frente": "O que o paciente faz com a língua na panorâmica, e por quê?",
+      "verso": "Engole e mantém a língua contra o céu da boca. Assim o espaço aéreo sob o palato duro some e os ápices dos dentes superiores aparecem bem.",
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, p. 135"
+    },
+    {
+      "id": "f08",
+      "frente": "Quando o livro aceita pedir TCFC?",
+      "verso": "Só quando a periapical ou a panorâmica não bastarem para o diagnóstico e o plano de tratamento. O livro a vê como recurso a mais, não como triagem, e manda documentar a indicação.",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152"
+    },
+    {
+      "id": "f09",
+      "frente": "Para ajustar a dose da TCFC ao tamanho do paciente, o livro prefere mexer no mA ou no kVp?",
+      "verso": "No mA: o ruído aumenta menos para a mesma redução de dose. O kVp pesa mais na dose.",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Configurações de exposição, pp. 152–153"
+    },
+    {
+      "id": "f10",
+      "frente": "Na TCFC, o paciente se mexeu durante a varredura. O que aparece na imagem e o que reduz o problema?",
+      "verso": "Contornos duplos. Reduz-se restringindo o movimento da cabeça e usando o menor tempo de varredura possível.",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Artefatos de imagem, Artefatos de movimento do paciente, pp. 154–155"
+    },
+    {
+      "id": "f11",
+      "frente": "A TCFC serve para avaliar tecido mole, segundo o livro?",
+      "verso": "Não para a avaliação crítica. O contraste de tecido mole da TCFC é significativamente menor que o da MDCT, e o livro a considera inadequada para patologia de tecidos moles.",
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Pouco contraste de tecido mole, p. 158"
+    },
+    {
+      "id": "f12",
+      "frente": "Quem responde pelo laudo da TCFC, e onde ele fica?",
+      "verso": "Quem opera a unidade ou solicita o estudo. O laudo é escrito, cobre todo o conjunto de dados e faz parte do prontuário.",
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Laudo interpretativo, p. 163"
+    },
+    {
+      "id": "f13",
+      "frente": "Terceiro molar inferior com raízes sobrepostas ao canal mandibular na imagem: o que o livro aconselha?",
+      "verso": "Uma abordagem de imagem 3D. A panorâmica pode bastar quando há osso entre as raízes e o canal.",
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Posição do terceiro molar, p. 168"
+    },
+    {
+      "id": "f14",
+      "frente": "Na endodontia, qual é a modalidade de escolha para a avaliação do paciente, segundo o Quadro 17.2 (AAE e AAOMR, EUA)?",
+      "verso": "Radiografias intraorais. A TCFC com FOV limitado entra em situações específicas, como sinais contraditórios ou canais extras suspeitos.",
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Quadro 17.2, p. 275"
+    },
+    {
+      "id": "f15",
+      "frente": "Segundo a Tabela 3.2 do livro, qual a dose efetiva típica da panorâmica e da TCFC de campo pequeno?",
+      "verso": "Panorâmica: 20 µSv (2,5 dias de radiação de fundo). TCFC de campo pequeno (menor que 6 cm): 50 µSv (6 dias).",
+      "fonte": "wp8-cap03",
+      "onde": "cap. 3, Tabela 3.2, pp. 28–29"
+    },
+    {
+      "id": "f16",
+      "frente": "Segundo a ADA (diretriz dos EUA, 2024), a proteção da tireoide e do abdome (colar e avental de chumbo) continua sendo recomendada de rotina na radiografia odontológica?",
+      "verso": "Não. A diretriz de 2024 diz que a proteção (shielding) do abdome e da tireoide em imagem intraoral, panorâmica, cefalométrica e de TCFC não é mais recomendada e deve ser descontinuada como prática de rotina. É diretriz dos EUA, posterior ao livro.",
+      "fonte": "ada2024rx",
+      "onde": "Box 2, seção 3 (Patient Safety and Protection), recomendação 3.0.5"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "q01",
+      "enunciado": "Paciente adulto com dor em um molar inferior chega com uma panorâmica em que a região do dente parece sem alteração. Segundo o White e Pharoah, o que se pode dizer dessa imagem quanto ao ápice?",
+      "alternativas": [
+        {
+          "texto": "Que não há lesão no ápice, porque a panorâmica tem resolução espacial maior que a intraoral.",
+          "correta": false,
+          "justificativa": "O livro diz que a panorâmica tem menor resolução espacial e menos detalhe que as periapicais.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128"
+        },
+        {
+          "texto": "Que ela não descarta alteração inicial no ápice: falta à panorâmica o detalhe da periapical.",
+          "correta": true,
+          "justificativa": "É a principal desvantagem que o livro aponta: sem o detalhe da periapical, a panorâmica é menos útil para achar doença periapical em fase inicial.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128"
+        },
+        {
+          "texto": "Que não há lesão no ápice, porque a panorâmica cobre toda a arcada e por isso detecta melhor que a periapical.",
+          "correta": false,
+          "justificativa": "A cobertura ampla é a vantagem da panorâmica, mas o livro diz que falta a ela o detalhe da periapical para detectar lesões.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128"
+        },
+        {
+          "texto": "Que a panorâmica não mostra a região do ápice, e só a tomografia consegue mostrá-la.",
+          "correta": false,
+          "justificativa": "A panorâmica mostra as arcadas e as estruturas de suporte; o que o livro aponta é que ela é menos útil que a periapical para achar doença periapical precoce.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128"
+        }
+      ],
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Radiografia Panorâmica, abertura e Quadro 9.1, pp. 127–128",
+      "secao": "pan-indicacoes",
+      "figura": null
+    },
+    {
+      "id": "q02",
+      "enunciado": "A panorâmica de uma paciente que estava de brincos e colar mostra uma sombra radiopaca, borrada e muito ampliada, mais alta e no lado oposto ao da posição real do objeto metálico. Segundo o White e Pharoah, de que se trata?",
+      "alternativas": [
+        {
+          "texto": "Imagem real, formada por objeto entre o centro de rotação e o receptor.",
+          "correta": false,
+          "justificativa": "A imagem real de objeto dentro da camada focal é relativamente nítida; a sombra descrita é borrada, ampliada e mais alta.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130"
+        },
+        {
+          "texto": "Imagem dupla, formada por objeto atrás do centro de rotação.",
+          "correta": false,
+          "justificativa": "A imagem dupla aparece nos dois lados da imagem, como a do osso hioide ou da coluna cervical; a sombra descrita está do lado oposto, mais alta e ampliada.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130"
+        },
+        {
+          "texto": "Imagem fantasma, formada por objeto entre a fonte de raios X e o centro de rotação.",
+          "correta": true,
+          "justificativa": "O livro diz que a fantasma aparece do lado oposto e mais alto, turva e muito ampliada, e cita brincos e colares como causa.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130"
+        },
+        {
+          "texto": "Imagem nítida de estrutura dentro da camada focal.",
+          "correta": false,
+          "justificativa": "O que está dentro da camada focal sai razoavelmente nítido; a sombra descrita é borrada e muito ampliada.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130"
+        }
+      ],
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Camada focal e Imagens reais, duplas e fantasma, pp. 128–130",
+      "secao": "pan-camada-focal",
+      "figura": null
+    },
+    {
+      "id": "q03",
+      "enunciado": "Você acompanha uma lesão óssea na região anterior da mandíbula com duas panorâmicas feitas em dias diferentes. Na segunda, a lesão parece menor. Segundo o White e Pharoah, o que considerar antes de concluir que cicatrizou?",
+      "alternativas": [
+        {
+          "texto": "Que o posicionamento diferente na camada focal pode ter mudado a ampliação horizontal e a aparência da lesão.",
+          "correta": true,
+          "justificativa": "O livro alerta que, na região anterior, o posicionamento inadequado faz a lesão parecer maior ou menor, como se cicatrizasse.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Distorção de imagem, pp. 131–133"
+        },
+        {
+          "texto": "Aplicar o fator de ampliação do aparelho para corrigir a medida e comparar as duas imagens.",
+          "correta": false,
+          "justificativa": "O livro diz que não se aplicam fatores de ampliação predefinidos, porque a distorção varia entre aparelhos, regiões e posicionamentos.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Distorção de imagem, pp. 131–133"
+        },
+        {
+          "texto": "Que a ampliação horizontal da região anterior é a mais estável da imagem, então a diferença é real.",
+          "correta": false,
+          "justificativa": "O livro diz que na região anterior a ampliação horizontal cresce de modo acentuado quando o objeto sai do centro da camada, mais que nas posteriores.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Distorção de imagem, pp. 131–133"
+        },
+        {
+          "texto": "Medir o ângulo da lesão com a borda inferior, porque medidas angulares são confiáveis na panorâmica.",
+          "correta": false,
+          "justificativa": "O livro diz que a panorâmica não é confiável para medições lineares nem angulares.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Distorção de imagem, pp. 131–133"
+        }
+      ],
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Distorção de imagem, pp. 131–133",
+      "secao": "pan-distorcao",
+      "figura": null
+    },
+    {
+      "id": "q04",
+      "enunciado": "Na panorâmica de um paciente, os dentes anteriores aparecem alargados no sentido mesiodistal. Os primeiros molares inferiores têm a mesma largura aparente dos dois lados, o plano oclusal tem a curvatura habitual e a região da sínfise está inteira. Segundo o White e Pharoah, qual foi o erro mais provável?",
+      "alternativas": [
+        {
+          "texto": "Paciente posicionado muito anterior à camada focal.",
+          "correta": false,
+          "justificativa": "Muito anterior reduz a dimensão mesiodistal e dá dentes anteriores \"finos\", o contrário do achado.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137"
+        },
+        {
+          "texto": "Rotação do plano sagital mediano.",
+          "correta": false,
+          "justificativa": "A rotação deixa os molares com larguras diferentes nos dois lados; aqui as larguras são iguais.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137"
+        },
+        {
+          "texto": "Queixo muito baixo.",
+          "correta": false,
+          "justificativa": "Queixo baixo dá linha de sorriso exagerada, dentes muito sobrepostos e sínfise cortada; aqui o plano oclusal é habitual e a sínfise está inteira.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137"
+        },
+        {
+          "texto": "Paciente posicionado muito posterior à camada focal.",
+          "correta": true,
+          "justificativa": "O livro diz que posterior demais amplia as dimensões mesiodistais, e os dentes anteriores ficam \"largos\".",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137"
+        }
+      ],
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça e Dentição, pp. 134–137",
+      "secao": "pan-erros",
+      "figura": null
+    },
+    {
+      "id": "q05",
+      "enunciado": "Na panorâmica de uma paciente, os ápices dos dentes superiores não aparecem, porque há uma faixa escura de ar sob o palato duro. O plano oclusal e a sínfise estão normais e não há opacidade na linha média. Segundo o White e Pharoah, o que deveria ter sido pedido à paciente?",
+      "alternativas": [
+        {
+          "texto": "Estender o pescoço e sentar com a coluna reta.",
+          "correta": false,
+          "justificativa": "Isso reduz a sombra opaca das vértebras na linha média, que não existe nesta imagem.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–135"
+        },
+        {
+          "texto": "Engolir e manter a língua contra o céu da boca.",
+          "correta": true,
+          "justificativa": "É a orientação do livro: a língua sobe ao palato duro, o espaço aéreo some e os ápices dos dentes superiores aparecem.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–135"
+        },
+        {
+          "texto": "Retirar brincos e colares antes do exame.",
+          "correta": false,
+          "justificativa": "O metal forma fantasmas radiopacos; a faixa descrita é escura, de ar, e não opaca.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–135"
+        },
+        {
+          "texto": "Abaixar o queixo até a linha do trágus ao canto do olho ficar inclinada para baixo.",
+          "correta": false,
+          "justificativa": "O guia do livro é a linha do trágus ao canto externo do olho paralela ao chão; com plano oclusal e sínfise normais, o queixo já estava bem posicionado e não explica a faixa de ar.",
+          "fonte": "wp8-cap09",
+          "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–135"
+        }
+      ],
+      "fonte": "wp8-cap09",
+      "onde": "cap. 9, Posicionamento do paciente e alinhamento da cabeça, pp. 133–135",
+      "secao": "pan-posicionamento",
+      "figura": null
+    },
+    {
+      "id": "q06",
+      "enunciado": "Paciente com suspeita de fratura radicular vertical. O exame clínico e a radiografia intraoral 2D foram inconclusivos. Segundo o Quadro 17.2 do White e Pharoah (declaração da AAE e da AAOMR, dos EUA), qual a modalidade de escolha?",
+      "alternativas": [
+        {
+          "texto": "Nova radiografia intraoral, porque ela é sempre a modalidade de escolha em endodontia.",
+          "correta": false,
+          "justificativa": "O quadro põe a intraoral como escolha na avaliação do paciente endodôntico, mas, para fratura vertical com intraoral inconclusiva, indica outra modalidade.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Quadro 17.2, p. 275"
+        },
+        {
+          "texto": "Radiografia panorâmica, por mostrar toda a arcada.",
+          "correta": false,
+          "justificativa": "O quadro indica, para essa situação, a TCFC com FOV limitado.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Quadro 17.2, p. 275"
+        },
+        {
+          "texto": "TCFC com campo de visão amplo, para ver todo o crânio.",
+          "correta": false,
+          "justificativa": "O quadro fala em FOV limitado, e o livro diz que o campo deve cobrir só a área de interesse.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Quadro 17.2, p. 275"
+        },
+        {
+          "texto": "TCFC com FOV limitado.",
+          "correta": true,
+          "justificativa": "O quadro diz que, se o exame clínico e a radiografia intraoral 2D forem inconclusivos na fratura radicular vertical, a TCFC com FOV limitado deve ser considerada a modalidade de escolha.",
+          "fonte": "wp8-cap17",
+          "onde": "cap. 17, Quadro 17.2, p. 275"
+        }
+      ],
+      "fonte": "wp8-cap17",
+      "onde": "cap. 17, Quadro 17.2, p. 275",
+      "secao": "tcfc-diretrizes",
+      "figura": null
+    },
+    {
+      "id": "q07",
+      "enunciado": "Adulto assintomático chega para a primeira consulta, e o exame clínico não mostra alterações. Um colega sugere pedir TCFC dos maxilares \"para ver se há algo\". Segundo o White e Pharoah, qual é a resposta?",
+      "alternativas": [
+        {
+          "texto": "Não: a TCFC não é exame de triagem e só se pede quando a periapical ou a panorâmica não bastam para o diagnóstico e o plano.",
+          "correta": true,
+          "justificativa": "O livro vê a TCFC como recurso a mais, para casos específicos, e não como triagem.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152"
+        },
+        {
+          "texto": "Sim: a TCFC tem dose menor que a periapical e a panorâmica, então pode ser pedida sem restrição.",
+          "correta": false,
+          "justificativa": "O livro diz que a TCFC dá ao paciente dose maior que a das outras radiografias dentárias.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152"
+        },
+        {
+          "texto": "Sim, se o campo de visão for pequeno, porque campo pequeno dispensa a justificativa do exame.",
+          "correta": false,
+          "justificativa": "O livro afirma que a exposição precisa estar justificada, com benefício diagnóstico potencial maior que o dano individual possível.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152"
+        },
+        {
+          "texto": "Sim, desde que a indicação fique registrada no prontuário, o que torna o exame de rotina aceitável.",
+          "correta": false,
+          "justificativa": "O livro pede documentar a indicação, mas diz que a TCFC é para aplicações clínicas específicas e não procedimento de triagem.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152"
+        }
+      ],
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Critérios de seleção de pacientes, pp. 151–152",
+      "secao": "tcfc-selecao",
+      "figura": null
+    },
+    {
+      "id": "q08",
+      "enunciado": "Na TCFC de um paciente de pequeno porte, você quer reduzir a dose sem aumentar muito o ruído da imagem. Segundo o White e Pharoah, qual ajuste é preferível?",
+      "alternativas": [
+        {
+          "texto": "Reduzir o kVp, porque o kVp pesa mais na dose.",
+          "correta": false,
+          "justificativa": "O kVp pesa mais na dose, mas o livro prefere o mA porque, para a mesma redução de dose, o ruído aumenta menos com ele.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Configurações de exposição, pp. 152–154"
+        },
+        {
+          "texto": "Aumentar o número de projeções.",
+          "correta": false,
+          "justificativa": "Mais projeções melhoram a imagem, mas aumentam a exposição de modo proporcional.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Configurações de exposição, pp. 152–154"
+        },
+        {
+          "texto": "Reduzir o mA.",
+          "correta": true,
+          "justificativa": "O livro diz que, para compensar o tamanho do paciente, mudar o mA é preferível, pois o ruído aumenta menos para a mesma redução de dose.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Configurações de exposição, pp. 152–154"
+        },
+        {
+          "texto": "Reduzir o FOV só por descarte eletrônico dos dados periféricos, depois da exposição.",
+          "correta": false,
+          "justificativa": "O livro diz que a redução eletrônica é indesejável, porque o paciente recebe mais exposição que o necessário.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Configurações de exposição, pp. 152–154"
+        }
+      ],
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Configurações de exposição, pp. 152–154",
+      "secao": "tcfc-parametros",
+      "figura": null
+    },
+    {
+      "id": "q09",
+      "enunciado": "Em uma TCFC de paciente com dois implantes próximos e restaurações metálicas, a imagem axial mostra faixas escuras entre os implantes. Não há contornos duplos nem estrias nas bordas do volume. Segundo o White e Pharoah, o que fazer na repetição?",
+      "alternativas": [
+        {
+          "texto": "Restringir melhor o movimento da cabeça e usar o menor tempo de varredura possível.",
+          "correta": false,
+          "justificativa": "Essa é a conduta do artefato de movimento, que aparece como contornos duplos; não é o caso.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Artefatos de imagem, pp. 154–155"
+        },
+        {
+          "texto": "Estreitar o campo, reposicionar o paciente ou separar as arcadas.",
+          "correta": true,
+          "justificativa": "O livro descreve faixas escuras entre dois objetos densos como artefato de endurecimento do feixe e dá essa conduta.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Artefatos de imagem, pp. 154–155"
+        },
+        {
+          "texto": "Posicionar a região de interesse no plano horizontal do feixe.",
+          "correta": false,
+          "justificativa": "Essa é a conduta do efeito de feixe cônico, que dá estrias e ruído nas bordas do volume; não é o caso.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Artefatos de imagem, pp. 154–155"
+        },
+        {
+          "texto": "Aumentar o número de projeções para evitar a subamostragem.",
+          "correta": false,
+          "justificativa": "A subamostragem dá erros de registro e listras do tipo moiré, e mais projeções aumentam a exposição; não explica faixas entre implantes.",
+          "fonte": "wp8-cap10",
+          "onde": "cap. 10, Artefatos de imagem, pp. 154–155"
+        }
+      ],
+      "fonte": "wp8-cap10",
+      "onde": "cap. 10, Artefatos de imagem, pp. 154–155",
+      "secao": "tcfc-artefatos",
+      "figura": null
+    },
+    {
+      "id": "q10",
+      "enunciado": "Um dentista com aparelho de TCFC no consultório fez o exame para avaliar um dente, olhou só o corte desse dente e arquivou a imagem selecionada, sem mais nada. Segundo o White e Pharoah, o que falta?",
+      "alternativas": [
+        {
+          "texto": "Nada: o laudo é opcional quando a imagem é feita no próprio consultório.",
+          "correta": false,
+          "justificativa": "O livro diz que quem opera a unidade ou solicita o estudo tem a responsabilidade profissional de fornecer o laudo.",
+          "fonte": "wp8-cap11",
+          "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167"
+        },
+        {
+          "texto": "Só arquivar a imagem selecionada, pois o laudo é do radiologista, nunca de quem opera.",
+          "correta": false,
+          "justificativa": "O livro põe a responsabilidade do laudo em quem opera ou solicita; ele apenas manda consultar um radiologista se o profissional não conhece os achados ou não quer assumir a revisão.",
+          "fonte": "wp8-cap11",
+          "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167"
+        },
+        {
+          "texto": "Um laudo só da região do dente, porque o exame foi pedido para ele.",
+          "correta": false,
+          "justificativa": "O livro diz que o laudo descreve os achados da interpretação de todo o conjunto de dados, e que todo o volume deve ser revisado.",
+          "fonte": "wp8-cap11",
+          "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167"
+        },
+        {
+          "texto": "Um laudo escrito sobre todo o volume, incluído no prontuário.",
+          "correta": true,
+          "justificativa": "É o que o livro afirma: o laudo é responsabilidade de quem opera ou solicita, cobre todo o volume e faz parte do prontuário.",
+          "fonte": "wp8-cap11",
+          "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167"
+        }
+      ],
+      "fonte": "wp8-cap11",
+      "onde": "cap. 11, Laudo interpretativo, p. 163, e Tabela 11.1, p. 167",
+      "secao": "tcfc-laudo",
+      "figura": null
+    }
+  ]
+}
